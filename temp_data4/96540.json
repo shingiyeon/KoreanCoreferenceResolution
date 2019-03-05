@@ -1,0 +1,652 @@
+{
+	"parID": "1",
+	"entities": [
+		{
+			"en_modified": 28,
+			"en_exchanged": 28,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 24,
+			"st": 24,
+			"entityName": "아프리카",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 28,
+			"surface": "아프리카",
+			"st_exchanged": 24,
+			"id": 0,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			]
+		},
+		{
+			"en_modified": 37,
+			"coref_index": 1169,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 30,
+			"is_target": true,
+			"entityName": "아파르_삼각지",
+			"st": 30,
+			"en_exchanged": 37,
+			"eType": "WIKILINK",
+			"en": 37,
+			"surface": "아파르_삼각지",
+			"predicted_coref_index": 1,
+			"st_exchanged": 30,
+			"id": 1,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 45,
+			"coref_index": 1172,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 40,
+			"is_target": true,
+			"entityName": "동아프리카",
+			"st": 40,
+			"en_exchanged": 45,
+			"eType": "WIKILINK",
+			"en": 45,
+			"surface": "동아프리카",
+			"st_exchanged": 40,
+			"id": 2,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 91,
+			"coref_index": 1170,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 88,
+			"is_target": true,
+			"entityName": "지구대",
+			"st": 88,
+			"en_exchanged": 91,
+			"eType": "WIKILINK",
+			"en": 91,
+			"surface": "지구대",
+			"st_exchanged": 88,
+			"id": 3,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 97,
+			"en_exchanged": 97,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 93,
+			"st": 93,
+			"entityName": "대지구대",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 97,
+			"surface": "대지구대",
+			"st_exchanged": 93,
+			"id": 4,
+			"kbox_types": [
+				"Place",
+				"WorldHeritageSite",
+				"WorldHeritageSite"
+			]
+		},
+		{
+			"en_modified": 9,
+			"coref_index": 1171,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 0,
+			"is_target": true,
+			"entityName": "",
+			"st": 0,
+			"en_exchanged": 9,
+			"eType": "NEW",
+			"en": 9,
+			"surface": "동아프리카_지구대",
+			"predicted_coref_index": 2,
+			"st_exchanged": 0,
+			"id": 5,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 54,
+			"en_exchanged": 54,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 47,
+			"st": 47,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 54,
+			"surface": "모잠비크_동부",
+			"st_exchanged": 47,
+			"id": 6,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 66,
+			"en_exchanged": 66,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 59,
+			"st": 59,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 66,
+			"surface": "아프리카_대륙",
+			"st_exchanged": 59,
+			"id": 7,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 70,
+			"en_exchanged": 70,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 68,
+			"st": 68,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 70,
+			"surface": "동쪽",
+			"st_exchanged": 68,
+			"id": 8,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 82,
+			"en_exchanged": 82,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 75,
+			"st": 75,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 82,
+			"surface": "3000_km",
+			"st_exchanged": 75,
+			"id": 9,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 112,
+			"coref_index": 1169,
+			"ne_type": "ETC",
+			"ancestor": "1-1",
+			"st_modified": 105,
+			"st": 105,
+			"entityName": "아파르_삼각지",
+			"is_target": true,
+			"en_exchanged": 112,
+			"eType": "WIKILINK",
+			"en": 112,
+			"surface": "아파르_삼각지",
+			"predicted_coref_index": 1,
+			"st_exchanged": 105,
+			"id": 10,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 159,
+			"en_exchanged": 159,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 151,
+			"st": 151,
+			"entityName": "에티오피아_고원",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 159,
+			"surface": "에티오피아_고원",
+			"st_exchanged": 151,
+			"id": 11,
+			"kbox_types": [
+				"NaturalPlace",
+				"Place",
+				"MountainRange"
+			]
+		},
+		{
+			"en_modified": 118,
+			"coref_index": 1170,
+			"ne_type": "LOCATION",
+			"ancestor": "1-3",
+			"st_modified": 115,
+			"st": 115,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 118,
+			"eType": "NEW",
+			"en": 118,
+			"surface": "지구대",
+			"predicted_coref_index": 3,
+			"st_exchanged": 115,
+			"id": 12,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 135,
+			"coref_index": 1171,
+			"ne_type": "LOCATION",
+			"ancestor": "1-5",
+			"st_modified": 126,
+			"st": 126,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 135,
+			"eType": "NEW",
+			"en": 135,
+			"surface": "동아프리카_지구대",
+			"predicted_coref_index": 2,
+			"st_exchanged": 126,
+			"id": 13,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 174,
+			"coref_index": 1172,
+			"ne_type": "ETC",
+			"ancestor": "1-2",
+			"st_modified": 169,
+			"is_target": true,
+			"entityName": "동아프리카",
+			"st": 169,
+			"en_exchanged": 174,
+			"eType": "ELU",
+			"en": 174,
+			"surface": "동아프리카",
+			"st_exchanged": 169,
+			"id": 14,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 180,
+			"coref_index": 1170,
+			"ne_type": "LOCATION",
+			"ancestor": "1-3",
+			"st_modified": 177,
+			"is_target": true,
+			"entityName": "",
+			"st": 177,
+			"en_exchanged": 180,
+			"eType": "NEW",
+			"en": 180,
+			"surface": "지구대",
+			"predicted_coref_index": 3,
+			"st_exchanged": 177,
+			"id": 15,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 188,
+			"en_exchanged": 188,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 182,
+			"st": 182,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 188,
+			"surface": "동부_지구대",
+			"st_exchanged": 182,
+			"id": 16,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 196,
+			"en_exchanged": 196,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 190,
+			"st": 190,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 196,
+			"surface": "서부_지구대",
+			"st_exchanged": 190,
+			"id": 17,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 227,
+			"coref_index": 1173,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 224,
+			"st": 224,
+			"entityName": "휴화산",
+			"is_target": true,
+			"en_exchanged": 227,
+			"eType": "ELU",
+			"en": 227,
+			"surface": "휴화산",
+			"st_exchanged": 224,
+			"id": 18,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 250,
+			"en_exchanged": 250,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 243,
+			"st": 243,
+			"entityName": "킬리만자로_산",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 250,
+			"surface": "킬리만자로_산",
+			"st_exchanged": 243,
+			"id": 19,
+			"kbox_types": [
+				"Volcano",
+				"Place",
+				"Volcano",
+				"Mountain",
+				"NaturalPlace"
+			]
+		},
+		{
+			"en_modified": 262,
+			"coref_index": 1173,
+			"ne_type": "ETC",
+			"ancestor": "1-18",
+			"st_modified": 259,
+			"st": 259,
+			"entityName": "휴화산",
+			"is_target": true,
+			"en_exchanged": 262,
+			"eType": "ELU",
+			"en": 262,
+			"surface": "휴화산",
+			"st_exchanged": 259,
+			"id": 20,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 218,
+			"coref_index": 1171,
+			"ne_type": "LOCATION",
+			"ancestor": "1-5",
+			"st_modified": 209,
+			"st": 209,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 218,
+			"eType": "NEW",
+			"en": 218,
+			"surface": "동아프리카_지구대",
+			"predicted_coref_index": 2,
+			"st_exchanged": 209,
+			"id": 21,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 256,
+			"en_exchanged": 256,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 252,
+			"st": 252,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 256,
+			"surface": "케냐_산",
+			"st_exchanged": 252,
+			"id": 22,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 278,
+			"en_exchanged": 278,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 266,
+			"st": 266,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 278,
+			"surface": "올_도이뇨_렝가이_화산",
+			"st_exchanged": 266,
+			"id": 23,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 299,
+			"en_exchanged": 299,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 287,
+			"st": 287,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 299,
+			"surface": "나트로카보나타이트_화산",
+			"st_exchanged": 287,
+			"id": 24,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 232,
+			"en_exchanged": 232,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 229,
+			"st": 229,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 232,
+			"surface": "활화산",
+			"st_exchanged": 229,
+			"id": 25,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 327,
+			"en_exchanged": 327,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 321,
+			"st": 321,
+			"entityName": "인류의_진화",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 327,
+			"surface": "인류의_진화",
+			"st_exchanged": 321,
+			"id": 26,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 375,
+			"en_exchanged": 375,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 360,
+			"st": 360,
+			"entityName": "오스트랄로피테쿠스_아파렌시스",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 375,
+			"surface": "오스트랄로피테쿠스_아파렌시스",
+			"predicted_coref_index": 4,
+			"st_exchanged": 360,
+			"id": 27,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Eukaryote",
+				"Mammal"
+			]
+		},
+		{
+			"en_modified": 390,
+			"en_exchanged": 390,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 387,
+			"st": 387,
+			"entityName": "사람과",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 390,
+			"surface": "사람과",
+			"st_exchanged": 387,
+			"id": 28,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			]
+		},
+		{
+			"en_modified": 347,
+			"en_exchanged": 347,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 345,
+			"st": 345,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 347,
+			"surface": "루시",
+			"st_exchanged": 345,
+			"id": 29,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 319,
+			"coref_index": 1171,
+			"ne_type": "LOCATION",
+			"ancestor": "1-13",
+			"st_modified": 310,
+			"st": 310,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 319,
+			"eType": "NEW",
+			"en": 319,
+			"surface": "동아프리카_지구대",
+			"predicted_coref_index": 2,
+			"st_exchanged": 310,
+			"id": 30,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 378,
+			"en_exchanged": 378,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 376,
+			"st": 376,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 378,
+			"surface": "화석",
+			"predicted_coref_index": 4,
+			"st_exchanged": 376,
+			"id": 31,
+			"kbox_types": [
+				"NULL"
+			]
+		}
+	],
+	"pronoun_candidate": [
+		{
+			"en": 390,
+			"st_exchanged": 384,
+			"text": "여러 사람과",
+			"en_exchanged": 390,
+			"st_modified": 384,
+			"is_pronoun": true,
+			"en_modified": 390,
+			"st": 384
+		}
+	],
+	"docID": "96540",
+	"ZA_candidate": [],
+	"PronounExchangedText": "동아프리카_지구대(東Africa 地溝帶)는 아프리카의 아파르_삼각지에서 동아프리카의 모잠비크_동부에 걸쳐 아프리카_대륙의 동쪽을 따라 3000_km를 발달한 지구대로 대지구대의 일부이다. 아파르_삼각지에서 지구대는 시작된다. 동아프리카_지구대는 계속 남서쪽으로 연결되어 에티오피아_고원을 둘로 가른다. 동아프리카에서 지구대는 동부_지구대와 서부_지구대로 나뉜다. 화산 활동 동아프리카_지구대에는 많은 휴화산과 활화산이 분포되어 있다. 킬리만자로_산, 케냐_산등은 휴화산이며, 올_도이뇨_렝가이_화산은 세계 유일의 나트로카보나타이트_화산이다. 인류의 진화 동아프리카_지구대는 인류의_진화를 연구하는 화석이 풍부하다. \"루시\"라는 이름으로 알려진 오스트랄로피테쿠스_아파렌시스 화석을 포함한 여러 사람과의 조상 뼈가 발견되었다. ",
+	"pronouns": [
+		{
+			"en": 391,
+			"surface": "여러 사람과의",
+			"ancestor": "-1",
+			"id": 0,
+			"st_modified": 384,
+			"en_modified": 391,
+			"st": 384
+		}
+	],
+	"globalSID": "741179,741180,741181,741182,741183,741184,741185,741186,741187,741188",
+	"ModifiedText": "동아프리카 지구대(東Africa 地溝帶)는 아프리카의 아파르 삼각지에서 동아프리카의 모잠비크 동부에 걸쳐 아프리카 대륙의 동쪽을 따라 3000 km를 발달한 지구대로 대지구대의 일부이다. 아파르 삼각지에서 지구대는 시작된다. 동아프리카 지구대는 계속 남서쪽으로 연결되어 에티오피아 고원을 둘로 가른다. 동아프리카에서 지구대는 동부 지구대와 서부 지구대로 나뉜다. 화산 활동 동아프리카 지구대에는 많은 휴화산과 활화산이 분포되어 있다. 킬리만자로 산, 케냐 산등은 휴화산이며, 올 도이뇨 렝가이 화산은 세계 유일의 나트로카보나타이트 화산이다. 인류의 진화 동아프리카 지구대는 인류의 진화를 연구하는 화석이 풍부하다. \"루시\"라는 이름으로 알려진 오스트랄로피테쿠스 아파렌시스 화석을 포함한 여러 사람과의 조상 뼈가 발견되었다. ",
+	"plainText": "동아프리카_지구대(東Africa 地溝帶)는 아프리카의 아파르_삼각지에서 동아프리카의 모잠비크_동부에 걸쳐 아프리카_대륙의 동쪽을 따라 3000_km를 발달한 지구대로 대지구대의 일부이다. 아파르_삼각지에서 지구대는 시작된다. 동아프리카_지구대는 계속 남서쪽으로 연결되어 에티오피아_고원을 둘로 가른다. 동아프리카에서 지구대는 동부_지구대와 서부_지구대로 나뉜다. 화산 활동 동아프리카_지구대에는 많은 휴화산과 활화산이 분포되어 있다. 킬리만자로_산, 케냐_산등은 휴화산이며, 올_도이뇨_렝가이_화산은 세계 유일의 나트로카보나타이트_화산이다. 인류의 진화 동아프리카_지구대는 인류의_진화를 연구하는 화석이 풍부하다. \"루시\"라는 이름으로 알려진 오스트랄로피테쿠스_아파렌시스 화석을 포함한 여러 사람과의 조상 뼈가 발견되었다. "
+}

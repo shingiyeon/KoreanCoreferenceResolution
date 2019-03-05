@@ -1,0 +1,421 @@
+{
+	"docID": "917990",
+	"globalSID": "3024454,3024455,3024456,3024457,3024458,3024459",
+	"pronouns": [
+		{
+			"st": 21,
+			"coref_index": 1117,
+			"id": 0,
+			"en": 23,
+			"ancestor": "5-11",
+			"surface": "그들"
+		},
+		{
+			"en": 46,
+			"st": 21,
+			"surface": "그들의 앨범 '스크립트'(The Script)",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"st": 54,
+			"coref_index": 1114,
+			"id": 2,
+			"en": 55,
+			"ancestor": "1-5",
+			"surface": "그"
+		},
+		{
+			"st": 57,
+			"coref_index": 1120,
+			"id": 3,
+			"en": 61,
+			"ancestor": "5-1",
+			"surface": "이 앨범"
+		},
+		{
+			"en": 69,
+			"st": 57,
+			"surface": "이 앨범의 모든 곡들을",
+			"id": 4,
+			"ancestor": "-1"
+		},
+		{
+			"en": 201,
+			"st": 199,
+			"surface": "이는",
+			"id": 5,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "2008년_8월",
+			"entityName": "2008년_8월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"coref_index": 1120,
+			"surface": "스크립트",
+			"entityName": "스크립트_언어"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 89,
+			"ancestor": "1-0",
+			"coref_index": 1118,
+			"surface": "아일랜드",
+			"entityName": "아일랜드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 110,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 120,
+			"ancestor": "-1",
+			"surface": "아이리쉬_앨범_차트",
+			"entityName": "아이리쉬_앨범_차트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "2010년_9월",
+			"entityName": "2010년_9월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 176,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 184,
+			"ancestor": "-1",
+			"surface": "2012년_9월",
+			"entityName": "2012년_9월"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 213,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 215,
+			"ancestor": "-1",
+			"surface": "런던",
+			"entityName": "런던"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 217,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 220,
+			"ancestor": "-1",
+			"surface": "버밍엄",
+			"entityName": "버밍엄"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 222,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 225,
+			"ancestor": "-1",
+			"surface": "리버풀",
+			"entityName": "리버풀"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 230,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 232,
+			"ancestor": "-1",
+			"surface": "영국",
+			"entityName": "영국"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 239,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 243,
+			"ancestor": "5-2",
+			"coref_index": 1118,
+			"surface": "아일랜드",
+			"entityName": "아일랜드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 6,
+			"ancestor": "1-3",
+			"coref_index": 1117,
+			"surface": "더_스크립트",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "밴드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "앨범",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 61,
+			"ancestor": "-1",
+			"coref_index": 1119,
+			"surface": "앨범",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 70,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"surface": "공동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 75,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "작업",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 83,
+			"ancestor": "5-14",
+			"coref_index": 1119,
+			"surface": "앨범",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "EVENT",
+			"en": 98,
+			"ancestor": "-1",
+			"surface": "성공",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 130,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "성적",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 189,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 191,
+			"ancestor": "5-14",
+			"coref_index": 1119,
+			"surface": "앨범",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 195,
+			"ancestor": "-1",
+			"surface": "발매",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 246,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "ETC",
+			"en": 248,
+			"ancestor": "-1",
+			"surface": "투어",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 249,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "ETC",
+			"en": 251,
+			"ancestor": "-1",
+			"surface": "공연",
+			"entityName": ""
+		}
+	],
+	"plainText": "더_스크립트 밴드는 2008년_8월에 그들의 앨범 '스크립트'(The Script)를 발매한다. 그는 이 앨범의 모든 곡들을 공동으로 작업했다. 앨범은 아일랜드에서 상업적 성공을 거두었고, 동시에 아이리쉬_앨범_차트에서 1위를 하는 성적을 거두었다. 밴드는 이후 2010년_9월에 Science and Faith과 2012년_9월에 #3 앨범을 발매했다. 이는 밴드가 앞으로 계속 런던과 버밍엄, 리버풀과 같은 영국의 도시들과 아일랜드에서 투어 공연을 할 것임을 확인하게 했다."
+}

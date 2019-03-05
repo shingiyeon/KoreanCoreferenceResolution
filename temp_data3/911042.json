@@ -1,0 +1,1400 @@
+{
+	"pronouns": [
+		{
+			"coref_index": 1109,
+			"id": 0,
+			"en_modified": 109,
+			"st": 105,
+			"surface": "그",
+			"en": 106,
+			"st_modified": 108,
+			"ancestor": "1-9"
+		},
+		{
+			"coref_index": 1109,
+			"id": 1,
+			"en_modified": 244,
+			"st": 240,
+			"surface": "그",
+			"en": 241,
+			"st_modified": 243,
+			"ancestor": "1-9"
+		},
+		{
+			"id": 2,
+			"en_modified": 264,
+			"st": 256,
+			"surface": "한 시즌을",
+			"en": 261,
+			"st_modified": 259,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"id": 3,
+			"en_modified": 303,
+			"st": 299,
+			"surface": "그",
+			"en": 300,
+			"st_modified": 302,
+			"ancestor": "1-9"
+		},
+		{
+			"id": 4,
+			"en_modified": 331,
+			"st": 326,
+			"surface": "얼마",
+			"en": 328,
+			"st_modified": 329,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"id": 5,
+			"en_modified": 457,
+			"st": 453,
+			"surface": "그",
+			"en": 454,
+			"st_modified": 456,
+			"ancestor": "1-38"
+		},
+		{
+			"id": 6,
+			"en_modified": 461,
+			"st": 456,
+			"surface": "이번",
+			"en": 458,
+			"st_modified": 459,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"id": 7,
+			"en_modified": 503,
+			"st": 499,
+			"surface": "그",
+			"en": 500,
+			"st_modified": 502,
+			"ancestor": "1-38"
+		},
+		{
+			"coref_index": 1109,
+			"id": 8,
+			"en_modified": 506,
+			"st": 502,
+			"surface": "그",
+			"en": 503,
+			"st_modified": 505,
+			"ancestor": "1-38"
+		},
+		{
+			"id": 9,
+			"en_modified": 512,
+			"st": 502,
+			"surface": "그의 첫 시즌",
+			"en": 509,
+			"st_modified": 505,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"id": 10,
+			"en_modified": 598,
+			"st": 594,
+			"surface": "그",
+			"en": 595,
+			"st_modified": 597,
+			"ancestor": "1-38"
+		},
+		{
+			"coref_index": 1109,
+			"id": 11,
+			"en_modified": 714,
+			"st": 710,
+			"surface": "그",
+			"en": 711,
+			"st_modified": 713,
+			"ancestor": "1-38"
+		},
+		{
+			"id": 12,
+			"en_modified": 734,
+			"st": 726,
+			"surface": "모든 경기",
+			"en": 731,
+			"st_modified": 729,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"id": 13,
+			"en_modified": 751,
+			"st": 726,
+			"surface": "모든 경기를 출장한 유일한 필드_플레이어",
+			"en": 748,
+			"st_modified": 729,
+			"ancestor": "1-38"
+		},
+		{
+			"coref_index": 1109,
+			"id": 14,
+			"en_modified": 886,
+			"st": 882,
+			"surface": "그",
+			"en": 883,
+			"st_modified": 885,
+			"ancestor": "1-9"
+		},
+		{
+			"coref_index": 1109,
+			"id": 15,
+			"en_modified": 907,
+			"st": 903,
+			"surface": "그",
+			"en": 904,
+			"st_modified": 906,
+			"ancestor": "1-9"
+		},
+		{
+			"coref_index": 1110,
+			"id": 16,
+			"en_modified": 910,
+			"st": 903,
+			"surface": "그의 팀",
+			"en": 907,
+			"st_modified": 906,
+			"ancestor": "1-31"
+		},
+		{
+			"id": 17,
+			"en_modified": 917,
+			"st": 903,
+			"surface": "그의 팀 데포르티보가",
+			"en": 914,
+			"st_modified": 906,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"id": 18,
+			"en_modified": 946,
+			"st": 942,
+			"surface": "그",
+			"en": 943,
+			"st_modified": 945,
+			"ancestor": "1-9"
+		},
+		{
+			"id": 19,
+			"en_modified": 990,
+			"st": 982,
+			"surface": "이 경기의",
+			"en": 987,
+			"st_modified": 985,
+			"ancestor": "-1"
+		},
+		{
+			"id": 20,
+			"en_modified": 997,
+			"st": 982,
+			"surface": "이 경기의 리키 득점을",
+			"en": 994,
+			"st_modified": 985,
+			"ancestor": "-1"
+		},
+		{
+			"id": 21,
+			"en_modified": 1006,
+			"st": 982,
+			"surface": "이 경기의 리키 득점을 도왔다;갈리시아",
+			"en": 1003,
+			"st_modified": 985,
+			"ancestor": "-1"
+		},
+		{
+			"id": 22,
+			"en_modified": 1014,
+			"st": 982,
+			"surface": "이 경기의 리키 득점을 도왔다;갈리시아 연고의 클럽은",
+			"en": 1011,
+			"st_modified": 985,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "1",
+	"pronoun_candidate": [
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 109,
+			"st": 105,
+			"en": 106,
+			"st_modified": 108
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 244,
+			"st": 240,
+			"en": 241,
+			"st_modified": 243
+		},
+		{
+			"is_pronoun": true,
+			"text": "한 시즌",
+			"en_modified": 263,
+			"st": 256,
+			"en": 260,
+			"st_modified": 259
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 303,
+			"st": 299,
+			"en": 300,
+			"st_modified": 302
+		},
+		{
+			"is_pronoun": true,
+			"text": "얼마",
+			"en_modified": 331,
+			"st": 326,
+			"en": 328,
+			"st_modified": 329
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 457,
+			"st": 453,
+			"en": 454,
+			"st_modified": 456
+		},
+		{
+			"is_pronoun": true,
+			"text": "이번",
+			"en_modified": 461,
+			"st": 456,
+			"en": 458,
+			"st_modified": 459
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 503,
+			"st": 499,
+			"en": 500,
+			"st_modified": 502
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 506,
+			"st": 502,
+			"en": 503,
+			"st_modified": 505
+		},
+		{
+			"is_pronoun": true,
+			"text": "그의 첫 시즌",
+			"en_modified": 512,
+			"st": 502,
+			"en": 509,
+			"st_modified": 505
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 598,
+			"st": 594,
+			"en": 595,
+			"st_modified": 597
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 714,
+			"st": 710,
+			"en": 711,
+			"st_modified": 713
+		},
+		{
+			"is_pronoun": true,
+			"text": "모든 경기",
+			"en_modified": 734,
+			"st": 726,
+			"en": 731,
+			"st_modified": 729
+		},
+		{
+			"is_pronoun": true,
+			"text": "모든 경기를 출장한 유일한 필드_플레이어",
+			"en_modified": 751,
+			"st": 726,
+			"en": 748,
+			"st_modified": 729
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 886,
+			"st": 882,
+			"en": 883,
+			"st_modified": 885
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 907,
+			"st": 903,
+			"en": 904,
+			"st_modified": 906
+		},
+		{
+			"is_pronoun": true,
+			"text": "그의 팀",
+			"en_modified": 910,
+			"st": 903,
+			"en": 907,
+			"st_modified": 906
+		},
+		{
+			"is_pronoun": true,
+			"text": "그의 팀 데포르티보",
+			"en_modified": 916,
+			"st": 903,
+			"en": 913,
+			"st_modified": 906
+		},
+		{
+			"is_pronoun": true,
+			"text": "그",
+			"en_modified": 946,
+			"st": 942,
+			"en": 943,
+			"st_modified": 945
+		},
+		{
+			"is_pronoun": true,
+			"text": "이 경기",
+			"en_modified": 989,
+			"st": 982,
+			"en": 986,
+			"st_modified": 985
+		},
+		{
+			"is_pronoun": true,
+			"text": "이 경기의 리키 득점",
+			"en_modified": 996,
+			"st": 982,
+			"en": 993,
+			"st_modified": 985
+		},
+		{
+			"is_pronoun": true,
+			"text": "이 경기의 리키 득점을 도왔다;갈리시아",
+			"en_modified": 1006,
+			"st": 982,
+			"en": 1003,
+			"st_modified": 985
+		},
+		{
+			"is_pronoun": true,
+			"text": "이 경기의 리키 득점을 도왔다;갈리시아 연고의 클럽",
+			"en_modified": 1013,
+			"st": 982,
+			"en": 1010,
+			"st_modified": 985
+		}
+	],
+	"ModifiedText": "그는 필리피 루이스 (, 1985년 8월 9일 ~ ) 는 브라질의 축구 선수로, 현재 프리메라리가의 아틀레티코 마드리드에서 왼쪽 풀백으로 활약하고 있다. 지칠 줄 모르는 체력을 소유한 선수로, 그는 현역 기간 대부분을 스페인에서 보냈으며, 4시즌간 몸을 담았던 데포르티보 라코루냐와 아틀레티코 마드리드에서 활약한 것으로 알려져 있다. 클럽 경력 초기 경력 필리피 루이스는 산타 카타리나의 자라과 두 술 출신이다. 피게이렌시에서 데뷔한 그는 2004년에 아약스에서 한 시즌을 머물며 유럽 축구를 처음으로 경험하였다. 2005년 8월 18일, 그는 우루과이의 CA 렌티스타스로 이적하였으나, 얼마 가지 않아 레알 마드리드에 임대로 합류하였다. 그러나, 필리피 루이스는 2005년에 세군다 디비시온에 소속되어 있는 리저브팀에서 보냈다. 데포르티보 2006년, 필리피 루이스는 렌티스타스에서 스페인으로 다시 임대되었는데, 그는 이번에 €2.2M의 바이아웃 조항을 가지고 데포르티보 라코루냐로 이적하였다. 그는 그의 첫 시즌에 많은 기회를 잡지 못하였으나, 임대 계약이 같은 바이아웃 조항에 1년 더 연장되었고, 2007-08 시즌에 호안 캅데빌라가 비야레알로 떠나게 되면서 그는 주전 레프트 백의 입지를 굳혔고, 팀의 핵심 선수가 되었다. 2008년 6월 10일, 데포르티보는 바이아웃을 통해 필리피 루이스와 5년 계약을 체결하였다. \"데포르\" (Depor) 선수로의 첫 시즌에, 그는 라 리가에서 38경기에 모든 경기를 출장한 유일한 필드 플레이어였고, 2골을 득점하였다. 2010년 1월 23일, 아틀레틱 빌바오전 (3-1로 이긴 홈 경기) 에서 골네트를 가른 직후, 필리피 루이스는 상대 골키퍼인 고르카 이라이소스에 의해 다리가 깔리면서 오른쪽 종아리뼈에 큰 부상을 입었다. 또한, 그는 시즌 전 경기에 출전하는 와중에 그의 팀 데포르티보가 리그 테이블 4위에 랭크되기도 하였다. 놀랍게도 그는 4경기도 결장하지 않은 채 마요르카전에서 부상 복귀를 선언하였고, 이 경기의 리키 득점을 도왔다;갈리시아 연고의 클럽은 시즌을 10위로 마감하였다. ",
+	"ZA_candidate": [
+		{
+			"surface": "그",
+			"id": 0,
+			"en_modified": 1,
+			"st_modified": 0
+		}
+	],
+	"globalSID": "3010306,3010307,3010308,3010309,3010310,3010311,3010312,3010313,3010314,3010315,3010316,3010317,3010318,3010319,3010320,3010321",
+	"entities": [
+		{
+			"ne_type": "TIME",
+			"en_modified": 19,
+			"eType": "WIKILINK",
+			"st": 11,
+			"st_modified": 14,
+			"is_target": false,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"entityName": "1985년",
+			"id": 0,
+			"surface": "1985년",
+			"en": 16,
+			"ancestor": ""
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 25,
+			"eType": "WIKILINK",
+			"st": 17,
+			"st_modified": 20,
+			"is_target": false,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "8월_9일",
+			"id": 1,
+			"surface": "8월_9일",
+			"en": 22,
+			"ancestor": ""
+		},
+		{
+			"ne_type": "LOCATION",
+			"en_modified": 35,
+			"eType": "WIKILINK",
+			"st": 29,
+			"st_modified": 32,
+			"is_target": true,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"entityName": "브라질",
+			"id": 2,
+			"surface": "브라질",
+			"en": 32,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 42,
+			"eType": "WIKILINK",
+			"st": 34,
+			"st_modified": 37,
+			"is_target": true,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"entityName": "축구_선수",
+			"id": 3,
+			"surface": "축구_선수",
+			"en": 39,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1112,
+			"ne_type": "ETC",
+			"en_modified": 54,
+			"eType": "WIKILINK",
+			"st": 45,
+			"st_modified": 48,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "프리메라리가",
+			"id": 4,
+			"surface": "프리메라리가",
+			"en": 51,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1108,
+			"ne_type": "ORGANIZATION",
+			"en_modified": 66,
+			"eType": "WIKILINK",
+			"st": 53,
+			"st_modified": 56,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "아틀레티코_마드리드",
+			"id": 5,
+			"surface": "아틀레티코_마드리드",
+			"en": 63,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1111,
+			"ne_type": "LOCATION",
+			"en_modified": 125,
+			"eType": "ELU",
+			"st": 119,
+			"st_modified": 122,
+			"is_target": true,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"entityName": "스페인",
+			"id": 6,
+			"surface": "스페인",
+			"en": 122,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1110,
+			"ne_type": "ORGANIZATION",
+			"en_modified": 156,
+			"eType": "WIKILINK",
+			"st": 143,
+			"st_modified": 146,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "데포르티보_라코루냐",
+			"id": 7,
+			"surface": "데포르티보_라코루냐",
+			"en": 153,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1108,
+			"ne_type": "ORGANIZATION",
+			"en_modified": 168,
+			"eType": "WIKILINK",
+			"st": 155,
+			"st_modified": 158,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "아틀레티코_마드리드",
+			"id": 8,
+			"surface": "아틀레티코_마드리드",
+			"en": 165,
+			"ancestor": "1-5"
+		},
+		{
+			"coref_index": 1109,
+			"ne_type": "PERSON",
+			"en_modified": 10,
+			"eType": "NEW",
+			"st": 0,
+			"st_modified": 3,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 9,
+			"surface": "필리피_루이스",
+			"en": 7,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 74,
+			"eType": "NEW",
+			"st": 66,
+			"st_modified": 69,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 10,
+			"surface": "왼쪽_풀백",
+			"en": 71,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "LOCATION",
+			"en_modified": 189,
+			"eType": "NEW",
+			"st": 184,
+			"st_modified": 187,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 11,
+			"surface": "클럽",
+			"en": 186,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "LOCATION",
+			"en_modified": 215,
+			"eType": "WIKILINK",
+			"st": 205,
+			"st_modified": 208,
+			"is_target": true,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"entityName": "산타카타리나_주",
+			"id": 12,
+			"surface": "산타_카타리나",
+			"en": 212,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 236,
+			"eType": "WIKILINK",
+			"st": 228,
+			"st_modified": 231,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "피게이렌시_FC",
+			"id": 13,
+			"surface": "피게이렌시",
+			"en": 233,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 256,
+			"eType": "WIKILINK",
+			"st": 250,
+			"st_modified": 253,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "AFC_아약스",
+			"id": 14,
+			"surface": "아약스",
+			"en": 253,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "LOCATION",
+			"en_modified": 309,
+			"eType": "WIKILINK",
+			"st": 302,
+			"st_modified": 305,
+			"is_target": true,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"entityName": "우루과이",
+			"id": 15,
+			"surface": "우루과이",
+			"en": 306,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 345,
+			"eType": "WIKILINK",
+			"st": 335,
+			"st_modified": 338,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "레알_마드리드_CF",
+			"id": 16,
+			"surface": "레알_마드리드",
+			"en": 342,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"ne_type": "PERSON",
+			"en_modified": 206,
+			"eType": "NEW",
+			"st": 196,
+			"st_modified": 199,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 17,
+			"surface": "필리피_루이스",
+			"en": 203,
+			"ancestor": "1-9"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 251,
+			"eType": "NEW",
+			"st": 243,
+			"st_modified": 246,
+			"is_target": false,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 18,
+			"surface": "2004년",
+			"en": 248,
+			"ancestor": ""
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 274,
+			"eType": "NEW",
+			"st": 266,
+			"st_modified": 269,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 19,
+			"surface": "유럽_축구",
+			"en": 271,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 300,
+			"eType": "NEW",
+			"st": 285,
+			"st_modified": 288,
+			"is_target": false,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 20,
+			"surface": "2005년_8월_18일",
+			"en": 297,
+			"ancestor": ""
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 319,
+			"eType": "NEW",
+			"st": 308,
+			"st_modified": 311,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 21,
+			"surface": "CA_렌티스타스",
+			"en": 316,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 349,
+			"eType": "NEW",
+			"st": 344,
+			"st_modified": 347,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 22,
+			"surface": "임대",
+			"en": 346,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 353,
+			"eType": "NEW",
+			"st": 348,
+			"st_modified": 351,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 23,
+			"surface": "합류",
+			"en": 350,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "LOCATION",
+			"en_modified": 224,
+			"eType": "NEW",
+			"st": 214,
+			"st_modified": 217,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 24,
+			"surface": "자라과_두_술",
+			"en": 221,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 377,
+			"eType": "WIKILINK",
+			"st": 369,
+			"st_modified": 372,
+			"is_target": false,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"entityName": "2005년",
+			"id": 25,
+			"surface": "2005년",
+			"en": 374,
+			"ancestor": ""
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 387,
+			"eType": "WIKILINK",
+			"st": 376,
+			"st_modified": 379,
+			"is_target": true,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"entityName": "세군다_디비시온",
+			"id": 26,
+			"surface": "세군다_디비시온",
+			"en": 384,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 401,
+			"eType": "WIKILINK",
+			"st": 394,
+			"st_modified": 397,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "레알_마드리드_카스티야",
+			"id": 27,
+			"surface": "리저브팀",
+			"en": 398,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1109,
+			"ne_type": "PERSON",
+			"en_modified": 370,
+			"eType": "NEW",
+			"st": 360,
+			"st_modified": 363,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 28,
+			"surface": "필리피_루이스",
+			"en": 367,
+			"ancestor": "1-9"
+		},
+		{
+			"coref_index": 1110,
+			"ne_type": "ORGANIZATION",
+			"en_modified": 414,
+			"eType": "ELU",
+			"st": 406,
+			"st_modified": 409,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "데포르티보_라코루냐",
+			"id": 29,
+			"surface": "데포르티보",
+			"en": 411,
+			"ancestor": "1-7"
+		},
+		{
+			"coref_index": 1111,
+			"ne_type": "LOCATION",
+			"en_modified": 442,
+			"eType": "WIKILINK",
+			"st": 436,
+			"st_modified": 439,
+			"is_target": true,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"entityName": "스페인",
+			"id": 30,
+			"surface": "스페인",
+			"en": 439,
+			"ancestor": "1-6"
+		},
+		{
+			"coref_index": 1110,
+			"ne_type": "ORGANIZATION",
+			"en_modified": 493,
+			"eType": "WIKILINK",
+			"st": 480,
+			"st_modified": 483,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "데포르티보_라코루냐",
+			"id": 31,
+			"surface": "데포르티보_라코루냐",
+			"en": 490,
+			"ancestor": "1-7"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 572,
+			"eType": "WIKILINK",
+			"st": 559,
+			"st_modified": 562,
+			"is_target": true,
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"entityName": "프리메라리가_2007-08",
+			"id": 32,
+			"surface": "2007-08_시즌",
+			"en": 569,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 581,
+			"eType": "WIKILINK",
+			"st": 571,
+			"st_modified": 574,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "호안_캅데빌라",
+			"id": 33,
+			"surface": "호안_캅데빌라",
+			"en": 578,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 587,
+			"eType": "WIKILINK",
+			"st": 580,
+			"st_modified": 583,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "비야레알_CF",
+			"id": 34,
+			"surface": "비야레알",
+			"en": 584,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1110,
+			"ne_type": "ORGANIZATION",
+			"en_modified": 653,
+			"eType": "ELU",
+			"st": 645,
+			"st_modified": 648,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "데포르티보_라코루냐",
+			"id": 35,
+			"surface": "데포르티보",
+			"en": 650,
+			"ancestor": "1-29"
+		},
+		{
+			"coref_index": 1112,
+			"ne_type": "ETC",
+			"en_modified": 720,
+			"eType": "WIKILINK",
+			"st": 713,
+			"st_modified": 716,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "프리메라리가",
+			"id": 36,
+			"surface": "라_리가",
+			"en": 717,
+			"ancestor": "1-4"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 420,
+			"eType": "NEW",
+			"st": 412,
+			"st_modified": 415,
+			"is_target": false,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 37,
+			"surface": "2006년",
+			"en": 417,
+			"ancestor": ""
+		},
+		{
+			"coref_index": 1109,
+			"ne_type": "PERSON",
+			"en_modified": 429,
+			"eType": "NEW",
+			"st": 419,
+			"st_modified": 422,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 38,
+			"surface": "필리피_루이스",
+			"en": 426,
+			"ancestor": "1-9"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 436,
+			"eType": "NEW",
+			"st": 428,
+			"st_modified": 431,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 39,
+			"surface": "렌티스타스",
+			"en": 433,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 468,
+			"eType": "NEW",
+			"st": 460,
+			"st_modified": 463,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 40,
+			"surface": "€2.2M",
+			"en": 465,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 646,
+			"eType": "NEW",
+			"st": 631,
+			"st_modified": 634,
+			"is_target": false,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 41,
+			"surface": "2008년_6월_10일",
+			"en": 643,
+			"ancestor": ""
+		},
+		{
+			"coref_index": 1109,
+			"ne_type": "PERSON",
+			"en_modified": 671,
+			"eType": "NEW",
+			"st": 661,
+			"st_modified": 664,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 42,
+			"surface": "필리피_루이스",
+			"en": 668,
+			"ancestor": "1-9"
+		},
+		{
+			"coref_index": 1110,
+			"ne_type": "ETC",
+			"en_modified": 691,
+			"eType": "NEW",
+			"st": 685,
+			"st_modified": 688,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 43,
+			"surface": "데포르",
+			"en": 688,
+			"ancestor": "1-35"
+		},
+		{
+			"ne_type": "PERSON",
+			"en_modified": 751,
+			"eType": "NEW",
+			"st": 741,
+			"st_modified": 744,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 44,
+			"surface": "필드_플레이어",
+			"en": 748,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 788,
+			"eType": "WIKILINK",
+			"st": 777,
+			"st_modified": 780,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "아틀레틱_빌바오",
+			"id": 45,
+			"surface": "아틀레틱_빌바오",
+			"en": 785,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 835,
+			"eType": "WIKILINK",
+			"st": 829,
+			"st_modified": 832,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "골키퍼",
+			"id": 46,
+			"surface": "골키퍼",
+			"en": 832,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "PERSON",
+			"en_modified": 846,
+			"eType": "WIKILINK",
+			"st": 834,
+			"st_modified": 837,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"entityName": "고르카_이라이소스",
+			"id": 47,
+			"surface": "고르카_이라이소스",
+			"en": 843,
+			"ancestor": "-1"
+		},
+		{
+			"coref_index": 1110,
+			"ne_type": "ORGANIZATION",
+			"en_modified": 916,
+			"eType": "ELU",
+			"st": 908,
+			"st_modified": 911,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "데포르티보_라코루냐",
+			"id": 48,
+			"surface": "데포르티보",
+			"en": 913,
+			"ancestor": "1-29"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 967,
+			"eType": "WIKILINK",
+			"st": 960,
+			"st_modified": 963,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "RCD_마요르카",
+			"id": 49,
+			"surface": "마요르카",
+			"en": 964,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 993,
+			"eType": "WIKILINK",
+			"st": 988,
+			"st_modified": 991,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "이반_산체스-리코_소토",
+			"id": 50,
+			"surface": "리키",
+			"en": 990,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "LOCATION",
+			"en_modified": 1006,
+			"eType": "WIKILINK",
+			"st": 999,
+			"st_modified": 1002,
+			"is_target": true,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"entityName": "갈리시아_지방",
+			"id": 51,
+			"surface": "갈리시아",
+			"en": 1003,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 778,
+			"eType": "NEW",
+			"st": 763,
+			"st_modified": 766,
+			"is_target": false,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 52,
+			"surface": "2010년_1월_23일",
+			"en": 775,
+			"ancestor": ""
+		},
+		{
+			"coref_index": 1109,
+			"ne_type": "PERSON",
+			"en_modified": 827,
+			"eType": "NEW",
+			"st": 817,
+			"st_modified": 820,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 53,
+			"surface": "필리피_루이스",
+			"en": 824,
+			"ancestor": "1-9"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 868,
+			"eType": "NEW",
+			"st": 857,
+			"st_modified": 860,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 54,
+			"surface": "오른쪽_종아리뼈",
+			"en": 865,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "필리피_루이스 (, 1985년 8월_9일 ~ ) 는 브라질의 축구_선수로, 현재 프리메라리가의 아틀레티코_마드리드에서 왼쪽_풀백으로 활약하고 있다. 지칠 줄 모르는 체력을 소유한 선수로, 그는 현역 기간 대부분을 스페인에서 보냈으며, 4시즌간 몸을 담았던 데포르티보_라코루냐와 아틀레티코_마드리드에서 활약한 것으로 알려져 있다. 클럽 경력 초기 경력 필리피_루이스는 산타_카타리나의 자라과_두_술 출신이다. 피게이렌시에서 데뷔한 그는 2004년에 아약스에서 한 시즌을 머물며 유럽_축구를 처음으로 경험하였다. 2005년_8월_18일, 그는 우루과이의 CA_렌티스타스로 이적하였으나, 얼마 가지 않아 레알_마드리드에 임대로 합류하였다. 그러나, 필리피_루이스는 2005년에 세군다_디비시온에 소속되어 있는 리저브팀에서 보냈다. 데포르티보 2006년, 필리피_루이스는 렌티스타스에서 스페인으로 다시 임대되었는데, 그는 이번에 €2.2M의 바이아웃 조항을 가지고 데포르티보_라코루냐로 이적하였다. 그는 그의 첫 시즌에 많은 기회를 잡지 못하였으나, 임대 계약이 같은 바이아웃 조항에 1년 더 연장되었고, 2007-08_시즌에 호안_캅데빌라가 비야레알로 떠나게 되면서 그는 주전 레프트 백의 입지를 굳혔고, 팀의 핵심 선수가 되었다. 2008년_6월_10일, 데포르티보는 바이아웃을 통해 필리피_루이스와 5년 계약을 체결하였다. \"데포르\" (Depor) 선수로의 첫 시즌에, 그는 라_리가에서 38경기에 모든 경기를 출장한 유일한 필드_플레이어였고, 2골을 득점하였다. 2010년_1월_23일, 아틀레틱_빌바오전 (3-1로 이긴 홈 경기) 에서 골네트를 가른 직후, 필리피_루이스는 상대 골키퍼인 고르카_이라이소스에 의해 다리가 깔리면서 오른쪽_종아리뼈에 큰 부상을 입었다. 또한, 그는 시즌 전 경기에 출전하는 와중에 그의 팀 데포르티보가 리그 테이블 4위에 랭크되기도 하였다. 놀랍게도 그는 4경기도 결장하지 않은 채 마요르카전에서 부상 복귀를 선언하였고, 이 경기의 리키 득점을 도왔다;갈리시아 연고의 클럽은 시즌을 10위로 마감하였다. ",
+	"docID": "911042"
+}

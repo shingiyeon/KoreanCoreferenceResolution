@@ -1,0 +1,1135 @@
+{
+	"pronouns": [
+		{
+			"ancestor": "1-9",
+			"surface": "그",
+			"en": 416,
+			"coref_index": 1144,
+			"st": 415,
+			"id": 0
+		},
+		{
+			"ancestor": "-1",
+			"en": 419,
+			"surface": "그의 발",
+			"st": 415,
+			"id": 1
+		},
+		{
+			"ancestor": "1-9",
+			"surface": "내",
+			"en": 520,
+			"coref_index": 1144,
+			"st": 519,
+			"id": 2
+		},
+		{
+			"ancestor": "-1",
+			"en": 592,
+			"surface": "여러 가지",
+			"st": 587,
+			"id": 3
+		},
+		{
+			"ancestor": "-1",
+			"en": 595,
+			"surface": "여러 가지 생각",
+			"st": 587,
+			"id": 4
+		},
+		{
+			"ancestor": "-1",
+			"en": 718,
+			"surface": "일설(一說)에 조운(趙雲)의 딸로 전해지는 조씨(趙氏)이며",
+			"st": 686,
+			"id": 5
+		},
+		{
+			"ancestor": "1-55",
+			"surface": "그",
+			"en": 1045,
+			"coref_index": 1152,
+			"st": 1044,
+			"id": 6
+		},
+		{
+			"ancestor": "-1",
+			"en": 1049,
+			"st": 1044,
+			"id": 7,
+			"surface": "그의 집에"
+		},
+		{
+			"ancestor": "-1",
+			"en": 1055,
+			"st": 1044,
+			"id": 8,
+			"surface": "그의 집에 묵었을 때"
+		},
+		{
+			"ancestor": "1-50",
+			"surface": "그",
+			"en": 1057,
+			"coref_index": 1148,
+			"st": 1056,
+			"id": 9
+		}
+	],
+	"plainText": "관평(關平, 178년?_~_219년_12월)은 중국 후한 말의 무장이다. 촉한의 맹장_관우(關羽)의 장남(長男)이다. 생애 《삼국지》(三國志)에서는 관우(關羽)의 친아들이자 장남으로 등장하며 219년_음력_12월, 서촉(西蜀)에서 형주군 최후의 보루인 맥성(麥城, 現 호북성_당양현)으로의 구원병이 오지 않자 결국 아버지(관우)와 함께 직접 익주로 가 형주 수복을 위한 구원병을 청하기 위해 탈출을 시도하던 도중 임저(臨沮, 現 호북성_원안현)에서 오나라 장수 반장(潘璋)의 부장(副將) 마충(馬忠)에게 퇴로를 끊기고 뒤이어 곧바로 포위되어 부자(父子-아버지와 아들을 아울러 이르는 말)가 즉석 참수(斬首-목을 벰)당하는 것으로 나온다. 그러나 왕은(王隱) 著 《촉기》(蜀記)에서는 관우가 처음 출군하여 번(樊)을 포위했을 때 '돼지(?)가 그의 발(足)을 깨무는 꿈 (돼지한테 물리거나 죽은 돼지 사체가 부패하는 광경을 목격하게 되는 꿈은 '돼지꿈' 중에서 '흉몽' 에 속한다)' 을 꾸고 나서 아들 평(平)과 의논한 끝에 \"내가 지금(今) 연쇠(年衰, 노쇠)하니 분명히(然) (형주로) 돌아갈 수 없으리라!\" 라고 술회(述懷-마음속에 품고 있는 여러 가지 생각을 말함. 또는 그런 말)하는 부분이 나온다. 따라서 관우를 따라 번을 공격하고 곧이어 손권(孫權)에게 배후를 찔려 참살되었을 것으로 추측할 수 있다. 처(妻)는 일설(一說)에 조운(趙雲)의 딸로 전해지는 조씨(趙氏)이며 자식으로 건안_18년(213년)에 태어난 외아들 관월(關?)이 있다. 촉한 멸망 당시 위나라 백마장군(白馬將軍) 방덕(龐德)의 아들인 방회(龐會)에 의해 관우의 차남 관흥(關興)의 후손들이 모두 멸문지화(滅門之禍)를 당했지만 관월을 비롯한 관평의 후손들은 형주(荊州)에 남아있었으므로(사실상 오나라에 억류당한 상태) 관우의 자손이 대가 끊기지 않고 오늘날까지 이어질 수 있었다. 《삼국지연의》에서의 관평 사서에는 관평이 관우의 양자(養子)라는 기록이 없으나, 양자로 각색되었다. 연의(演義)에 의하면 본래 하북 땅의 노인 관정(關定)의 차남으로, 관우가 천리행(千里行) 도중 잠시 그의 집에 묵었을 때 그를 보고 양자로 삼은 것으로 나온다. 관평의 형으로 관녕(關寧)이 있었는데 동생이 무예에 힘쓰는 것에 반해 학문에 힘썼다고 한다. 특히 관우를 따라다니며 유비(劉備)의 양자 유봉(劉封)과 호흡이 잘 맞는 짝으로 등장하는 경우가 많다. ",
+	"entities": [
+		{
+			"ne_type": "ETC",
+			"entityName": "중국",
+			"surface": "중국",
+			"en": 28,
+			"ancestor": "-1",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 26,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0
+		},
+		{
+			"ne_type": "LOCATION",
+			"entityName": "후한",
+			"surface": "후한",
+			"en": 31,
+			"ancestor": "-1",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 29,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1
+		},
+		{
+			"ne_type": "ETC",
+			"entityName": "장남",
+			"surface": "장남",
+			"en": 58,
+			"ancestor": "-1",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 56,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2
+		},
+		{
+			"ne_type": "TIME",
+			"entityName": "",
+			"surface": "178년?_~_219년_12월",
+			"en": 23,
+			"ancestor": "",
+			"eType": "NEW",
+			"is_target": false,
+			"st": 7,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3
+		},
+		{
+			"ne_type": "PERSON",
+			"entityName": "",
+			"surface": "무장",
+			"en": 37,
+			"ancestor": "-1",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 35,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4
+		},
+		{
+			"ne_type": "PERSON",
+			"entityName": "",
+			"surface": "맹장_관우",
+			"en": 50,
+			"ancestor": "-1",
+			"eType": "NEW",
+			"coref_index": 1144,
+			"is_target": true,
+			"st": 45,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"entityName": "",
+			"surface": "촉한",
+			"en": 43,
+			"ancestor": "-1",
+			"eType": "NEW",
+			"coref_index": 1149,
+			"is_target": true,
+			"st": 41,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6
+		},
+		{
+			"ne_type": "PERSON",
+			"entityName": "",
+			"surface": "관평",
+			"en": 2,
+			"ancestor": "-1",
+			"eType": "NEW",
+			"coref_index": 1148,
+			"is_target": true,
+			"st": 0,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 73,
+			"surface": "삼국지",
+			"entityName": "삼국지",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 70,
+			"kbox_types": [
+				"WrittenWork",
+				"Book",
+				"Work"
+			],
+			"id": 8
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-5",
+			"surface": "관우",
+			"en": 85,
+			"coref_index": 1144,
+			"entityName": "관우",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 83,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 9
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 99,
+			"surface": "장남",
+			"entityName": "장남",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 97,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 122,
+			"surface": "서촉",
+			"entityName": "익주",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 120,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "1-9",
+			"surface": "아버지",
+			"en": 179,
+			"coref_index": 1144,
+			"entityName": "아버지",
+			"eType": "ELU",
+			"is_target": true,
+			"st": 176,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"surface": "형주",
+			"en": 199,
+			"coref_index": 1145,
+			"entityName": "형주",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 197,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 260,
+			"surface": "반장",
+			"entityName": "반장",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 258,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 275,
+			"surface": "마충",
+			"entityName": "마충_(동오)",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 273,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 15
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 504,
+			"surface": "아들",
+			"entityName": "아들",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 502,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "1-13",
+			"surface": "형주",
+			"en": 551,
+			"coref_index": 1145,
+			"entityName": "징저우_시",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 549,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 17
+		},
+		{
+			"ne_type": "TIME",
+			"ancestor": "",
+			"en": 118,
+			"surface": "219년_음력_12월",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": false,
+			"st": 107,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"surface": "맥성",
+			"en": 143,
+			"coref_index": 1146,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 141,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"en": 193,
+			"surface": "익주",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 191,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 94,
+			"surface": "친아들",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 91,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"en": 132,
+			"surface": "형주군",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 129,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"surface": "임저",
+			"en": 233,
+			"coref_index": 1147,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 231,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "1-19",
+			"surface": "호북성_당양현",
+			"en": 157,
+			"coref_index": 1146,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 150,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "1-23",
+			"surface": "호북성_원안현",
+			"en": 247,
+			"coref_index": 1147,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 240,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 373,
+			"surface": "촉기",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 371,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-7",
+			"surface": "평",
+			"en": 506,
+			"coref_index": 1148,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 505,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"en": 395,
+			"surface": "번",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 394,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 646,
+			"surface": "손권",
+			"entityName": "손권",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 644,
+			"kbox_types": [
+				"Actor",
+				"Monarch",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 29
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-9",
+			"surface": "관우",
+			"en": 627,
+			"coref_index": 1144,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 625,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 681,
+			"surface": "처",
+			"entityName": "아내",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 680,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 696,
+			"surface": "조운",
+			"entityName": "조운_(촉한)",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 694,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 32
+		},
+		{
+			"ne_type": "TIME",
+			"ancestor": "",
+			"en": 735,
+			"surface": "213년",
+			"entityName": "213년",
+			"eType": "WIKILINK",
+			"is_target": false,
+			"st": 731,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 33
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "1-6",
+			"surface": "촉한",
+			"en": 760,
+			"coref_index": 1149,
+			"entityName": "촉한",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 758,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 34
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"en": 770,
+			"surface": "위나라",
+			"entityName": "위_(삼국)",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 767,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 35
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 784,
+			"surface": "방덕",
+			"entityName": "방덕",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 782,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 36
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 796,
+			"surface": "방회",
+			"entityName": "방회",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 794,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 37
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-9",
+			"surface": "관우",
+			"en": 807,
+			"coref_index": 1144,
+			"entityName": "관우",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 805,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 38
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 814,
+			"surface": "관흥",
+			"entityName": "관흥",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 812,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 39
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "1-13",
+			"surface": "형주",
+			"en": 864,
+			"coref_index": 1145,
+			"entityName": "형주",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 862,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"en": 885,
+			"surface": "오나라",
+			"entityName": "오_(삼국)",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 882,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 41
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 847,
+			"surface": "관월",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 845,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42
+		},
+		{
+			"ne_type": "TIME",
+			"ancestor": "",
+			"en": 730,
+			"surface": "건안_18년",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": false,
+			"st": 724,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 748,
+			"surface": "관월",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 746,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-7",
+			"surface": "관평",
+			"en": 855,
+			"coref_index": 1148,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 853,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-9",
+			"surface": "관우",
+			"en": 898,
+			"coref_index": 1144,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 896,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"surface": "삼국지연의",
+			"en": 937,
+			"coref_index": 1150,
+			"entityName": "삼국지연의",
+			"eType": "ELU",
+			"is_target": true,
+			"st": 932,
+			"kbox_types": [
+				"WrittenWork",
+				"Book",
+				"Work"
+			],
+			"id": 47
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-9",
+			"surface": "관우",
+			"en": 956,
+			"coref_index": 1144,
+			"entityName": "관우",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 954,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 48
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "1-47",
+			"surface": "연의",
+			"en": 989,
+			"coref_index": 1150,
+			"entityName": "삼국지연의",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 987,
+			"kbox_types": [
+				"WrittenWork",
+				"Book",
+				"Work"
+			],
+			"id": 49
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-7",
+			"surface": "관평",
+			"en": 952,
+			"coref_index": 1148,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 950,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"surface": "양자",
+			"en": 960,
+			"coref_index": 1151,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 958,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 969,
+			"surface": "기록",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 967,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 982,
+			"surface": "각색",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 980,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"en": 1004,
+			"surface": "하북",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1002,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"surface": "관정",
+			"en": 1013,
+			"coref_index": 1152,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1011,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 1010,
+			"surface": "노인",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1008,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 1021,
+			"surface": "차남",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1019,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-48",
+			"surface": "관우",
+			"en": 1027,
+			"coref_index": 1144,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1025,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 1032,
+			"surface": "천리행",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1029,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59
+		},
+		{
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"en": 1048,
+			"surface": "집",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1047,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-51",
+			"surface": "양자",
+			"en": 1064,
+			"coref_index": 1151,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1062,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-50",
+			"surface": "그",
+			"en": 1057,
+			"coref_index": 1148,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1056,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 1088,
+			"surface": "관녕",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1086,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 1101,
+			"surface": "동생",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1099,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 1105,
+			"surface": "무예",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1103,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65
+		},
+		{
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"en": 1119,
+			"surface": "학문",
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1117,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 1145,
+			"surface": "유비",
+			"entityName": "유비",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 1143,
+			"kbox_types": [
+				"Actor",
+				"Monarch",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 67
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"en": 1156,
+			"surface": "유봉",
+			"entityName": "유봉",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 1154,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 68
+		},
+		{
+			"ne_type": "PERSON",
+			"ancestor": "1-5",
+			"surface": "관우",
+			"en": 1135,
+			"coref_index": 1144,
+			"entityName": "",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 1133,
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69
+		}
+	],
+	"parID": "1",
+	"docID": "95528",
+	"globalSID": "734152,734153,734154,734155,734156,734157,734158,734159,734160,734161,734162,734163,734164,734165"
+}

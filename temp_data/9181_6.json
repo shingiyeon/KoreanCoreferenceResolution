@@ -1,0 +1,293 @@
+{
+	"docID": "9181",
+	"globalSID": "139688,139689,139690,139691",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "2-3",
+			"coref_index": 1122,
+			"surface": "리오무니",
+			"entityName": "리오무니"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 67,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 72,
+			"ancestor": "3-4",
+			"coref_index": 1126,
+			"surface": "비오코_섬",
+			"entityName": "비오코_섬"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 167,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 170,
+			"ancestor": "2-4",
+			"coref_index": 1129,
+			"surface": "말라보",
+			"entityName": "말라보"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 195,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 198,
+			"ancestor": "-1",
+			"surface": "오얄라",
+			"entityName": "오얄라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 11,
+			"ancestor": "-1",
+			"surface": "원주민어",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 15,
+			"ancestor": "-1",
+			"coref_index": 1133,
+			"surface": "팡어",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "2-3",
+			"coref_index": 1122,
+			"surface": "음비니(Mbini)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "2012년_헌법",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 74,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 79,
+			"ancestor": "2-17",
+			"coref_index": 1125,
+			"surface": "적도_기니",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "7.2%",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 100,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 102,
+			"ancestor": "-1",
+			"surface": "인구",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "27.4%",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 123,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 128,
+			"ancestor": "-1",
+			"surface": "경제_격차",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 138,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "25만_명",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 152,
+			"ancestor": "-1",
+			"surface": "제1도시_바타",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "LOCATION",
+			"en": 157,
+			"ancestor": "2-3",
+			"coref_index": 1122,
+			"surface": "대륙부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 176,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "LOCATION",
+			"en": 181,
+			"ancestor": "-1",
+			"surface": "미래_수도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 183,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "LOCATION",
+			"en": 189,
+			"ancestor": "-1",
+			"surface": "대륙부_중앙",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 207,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 209,
+			"ancestor": "-1",
+			"surface": "건설",
+			"entityName": ""
+		}
+	],
+	"plainText": "대륙 부분은 원주민어인 팡어로 음비니(Mbini)라고 하며, 2012년_헌법에는 리오무니(R?o Muni)로 명명했다. 비오코_섬은 적도_기니 전체 면적의 7.2%에 불과하지만, 인구는 27.4%에 이르며, 지역에 따른 경제_격차가 크다. 인구가 25만_명인 제1도시_바타는 대륙부에 있다. 한편, 말라보를 대체할 미래_수도가 대륙부_중앙에 위치한 오얄라(Oyala)에 건설되고 있다."
+}

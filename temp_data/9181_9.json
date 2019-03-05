@@ -1,0 +1,175 @@
+{
+	"docID": "9181",
+	"globalSID": "139698,139699,139700",
+	"pronouns": [
+		{
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "그 외에도",
+			"id": 0,
+			"st": 55
+		}
+	],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "2-10",
+			"coref_index": 1132,
+			"surface": "스페인어",
+			"entityName": "스페인어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "프랑스어",
+			"entityName": "프랑스어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "피진_영어",
+			"entityName": "피진_영어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 70,
+			"ancestor": "6-5",
+			"coref_index": 1133,
+			"surface": "팡어",
+			"entityName": "팡어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "부비어",
+			"entityName": "부비어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 80,
+			"ancestor": "-1",
+			"surface": "이보어",
+			"entityName": "이보어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 87,
+			"ancestor": "-1",
+			"coref_index": 1135,
+			"surface": "포르투갈어",
+			"entityName": "포르투갈어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 120,
+			"ancestor": "-1",
+			"surface": "누리집",
+			"entityName": "홈페이지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 28,
+			"ancestor": "",
+			"surface": "1998년_1월_21일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 109,
+			"ancestor": "2-20",
+			"coref_index": 1125,
+			"surface": "적도기니",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "헌법_4조",
+			"entityName": ""
+		}
+	],
+	"plainText": "공식어는 스페인어와 프랑스어(1998년_1월_21일 헌법_4조를 개정하여 추가)를 공용어로 쓴다. 그 외에도 피진_영어, 팡어, 부비어, 이보어, 포르투갈어도 사용된다. 공식어에 관해서는 적도기니의 공식 정부 누리집에서 ‘인구’ 항목에서 찾을 수 있다.[http://espanol.guinea-equatorial.com/people.asp]."
+}

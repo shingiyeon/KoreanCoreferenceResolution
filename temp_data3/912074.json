@@ -1,0 +1,318 @@
+{
+	"pronouns": [],
+	"parID": "1",
+	"pronoun_candidate": [],
+	"ModifiedText": "돈지덕(頓智德, 1980년 4월 28일 ~ )은 대한민국의 축구 선수로서 포지션은 수비수이다. 축구인 경력 선수 경력 돈지덕은 인천대학교를 졸업하고 2003년 실업 축구 국민은행 축구단에 입단하였다. 그는 2013년 드래프트에서 FC 안양에 우선 지명되어 34세의 나이에 프로 무대에 첫 발을 디뎠다. 그는 2014 시즌을 앞두고 내셔널리그의 경주 한국수력원자력으로 이적하였다. ",
+	"ZA_candidate": [
+		{
+			"surface": "그",
+			"id": 0,
+			"en_modified": 113,
+			"st_modified": 112
+		},
+		{
+			"surface": "그",
+			"id": 0,
+			"en_modified": 170,
+			"st_modified": 169
+		}
+	],
+	"globalSID": "3012129,3012130,3012131,3012132,3012133,3012134",
+	"entities": [
+		{
+			"coref_index": 1113,
+			"ne_type": "PERSON",
+			"en_modified": 3,
+			"eType": "ELU",
+			"st": 0,
+			"st_modified": 0,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"entityName": "돈지덕",
+			"id": 0,
+			"surface": "돈지덕",
+			"en": 3,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "LOCATION",
+			"en_modified": 31,
+			"eType": "WIKILINK",
+			"st": 27,
+			"st_modified": 27,
+			"is_target": true,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"entityName": "대한민국",
+			"id": 1,
+			"surface": "대한민국",
+			"en": 31,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ETC",
+			"en_modified": 35,
+			"eType": "WIKILINK",
+			"st": 33,
+			"st_modified": 33,
+			"is_target": true,
+			"kbox_types": [
+				"Activity",
+				"Sport"
+			],
+			"entityName": "축구",
+			"id": 2,
+			"surface": "축구",
+			"en": 35,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 21,
+			"eType": "NEW",
+			"st": 9,
+			"st_modified": 9,
+			"is_target": false,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 3,
+			"surface": "1980년_4월_28일",
+			"en": 21,
+			"ancestor": ""
+		},
+		{
+			"coref_index": 1113,
+			"ne_type": "PERSON",
+			"en_modified": 69,
+			"eType": "ELU",
+			"st": 66,
+			"st_modified": 66,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"entityName": "돈지덕",
+			"id": 4,
+			"surface": "돈지덕",
+			"en": 69,
+			"ancestor": "1-0"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 76,
+			"eType": "WIKILINK",
+			"st": 71,
+			"st_modified": 71,
+			"is_target": true,
+			"kbox_types": [
+				"University",
+				"SoccerClub",
+				"Agent",
+				"EducationalInstitution",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "인천대학교",
+			"id": 5,
+			"surface": "인천대학교",
+			"en": 76,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 88,
+			"eType": "WIKILINK",
+			"st": 83,
+			"st_modified": 83,
+			"is_target": false,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"entityName": "2003년",
+			"id": 6,
+			"surface": "2003년",
+			"en": 88,
+			"ancestor": ""
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 103,
+			"eType": "WIKILINK",
+			"st": 95,
+			"st_modified": 95,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "고양_KB국민은행_축구단",
+			"id": 7,
+			"surface": "국민은행_축구단",
+			"en": 103,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 65,
+			"eType": "NEW",
+			"st": 60,
+			"st_modified": 60,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 8,
+			"surface": "선수_경력",
+			"en": 65,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 80,
+			"eType": "NEW",
+			"st": 78,
+			"st_modified": 78,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 9,
+			"surface": "졸업",
+			"en": 80,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "EVENT",
+			"en_modified": 107,
+			"eType": "NEW",
+			"st": 105,
+			"st_modified": 105,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 10,
+			"surface": "입단",
+			"en": 107,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "TIME",
+			"en_modified": 120,
+			"eType": "WIKILINK",
+			"st": 112,
+			"st_modified": 115,
+			"en": 117,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"entityName": "2013년",
+			"id": 11,
+			"surface": "2013년",
+			"is_target": false,
+			"ancestor": ""
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 133,
+			"eType": "WIKILINK",
+			"st": 125,
+			"st_modified": 128,
+			"en": 130,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "FC_안양",
+			"id": 12,
+			"surface": "FC_안양",
+			"is_target": true,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 190,
+			"eType": "WIKILINK",
+			"st": 179,
+			"st_modified": 185,
+			"is_target": true,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"entityName": "내셔널리그_(대한민국)",
+			"id": 13,
+			"surface": "내셔널리그",
+			"en": 184,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "ORGANIZATION",
+			"en_modified": 202,
+			"eType": "WIKILINK",
+			"st": 186,
+			"st_modified": 192,
+			"is_target": true,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"entityName": "경주_한국수력원자력_축구단",
+			"id": 14,
+			"surface": "경주_한국수력원자력",
+			"en": 196,
+			"ancestor": "-1"
+		},
+		{
+			"ne_type": "EVENT",
+			"en_modified": 179,
+			"eType": "NEW",
+			"st": 166,
+			"st_modified": 172,
+			"is_target": true,
+			"kbox_types": [
+				"NULL"
+			],
+			"entityName": "",
+			"id": 15,
+			"surface": "2014_시즌",
+			"en": 173,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "돈지덕(頓智德, 1980년_4월_28일 ~ )은 대한민국의 축구 선수로서 포지션은 수비수이다. 축구인 경력 선수_경력 돈지덕은 인천대학교를 졸업하고 2003년 실업 축구 국민은행_축구단에 입단하였다. 2013년 드래프트에서 FC_안양에 우선 지명되어 34세의 나이에 프로 무대에 첫 발을 디뎠다. 2014_시즌을 앞두고 내셔널리그의 경주_한국수력원자력으로 이적하였다. ",
+	"docID": "912074"
+}

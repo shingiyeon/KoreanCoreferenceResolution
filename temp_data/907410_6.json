@@ -1,0 +1,454 @@
+{
+	"docID": "907410",
+	"globalSID": "3000990,3000991,3000992,3000993,3000994,3000995,3000996,3000997,3000998,3000999",
+	"pronouns": [
+		{
+			"en": 62,
+			"st": 58,
+			"surface": "여러 팀",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 66,
+			"st": 58,
+			"surface": "여러 팀의 감독",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"st": 132,
+			"coref_index": 1086,
+			"id": 2,
+			"en": 133,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 461,
+			"coref_index": 1086,
+			"id": 3,
+			"en": 462,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 86,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 98,
+			"ancestor": "3-0",
+			"coref_index": 1084,
+			"surface": "보루시아_묀헨글라트바흐",
+			"entityName": "보루시아_묀헨글라트바흐"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 176,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 187,
+			"ancestor": "-1",
+			"coref_index": 1091,
+			"surface": "스코틀랜드_국가대표팀",
+			"entityName": "스코틀랜드_축구_국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"st": 196,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 203,
+			"ancestor": "-1",
+			"coref_index": 1090,
+			"surface": "베르티_포크츠",
+			"entityName": "베르티_포크츠"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 341,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 346,
+			"ancestor": "-1",
+			"surface": "스코틀랜드",
+			"entityName": "스코틀랜드"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 464,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 470,
+			"ancestor": "-1",
+			"surface": "대런_플레처",
+			"entityName": "대런_플레처"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 472,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 479,
+			"ancestor": "-1",
+			"surface": "제임스_맥패든",
+			"entityName": "제임스_맥패든"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 29,
+			"ancestor": "",
+			"surface": "1988년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 33,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 78,
+			"ancestor": "",
+			"surface": "1990년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 84,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 113,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 118,
+			"ancestor": "3-2",
+			"coref_index": 1087,
+			"surface": "분데스리가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 142,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 158,
+			"ancestor": "-1",
+			"coref_index": 1089,
+			"surface": "스코틀랜드_U-21_국가대표팀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 211,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 222,
+			"ancestor": "6-12",
+			"coref_index": 1089,
+			"surface": "스코틀랜드_U-21팀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 224,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 227,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 247,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 250,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 262,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 278,
+			"ancestor": "6-12",
+			"coref_index": 1089,
+			"surface": "스코틀랜드_U-21_국가대표팀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 280,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"en": 293,
+			"ancestor": "-1",
+			"surface": "독일_U-21_국가대표팀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 298,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 18,
+			"ne_type": "TIME",
+			"en": 303,
+			"ancestor": "",
+			"surface": "2004년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 304,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "EVENT",
+			"en": 324,
+			"ancestor": "-1",
+			"surface": "UEFA_U-21_챔피언쉽_플레이오프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 348,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"en": 364,
+			"ancestor": "-1",
+			"surface": "크로아티아_U-21_국가대표팀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 367,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "EVENT",
+			"en": 372,
+			"ancestor": "-1",
+			"surface": "플레이오프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 389,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 393,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프는",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 394,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 23,
+			"ne_type": "TIME",
+			"en": 403,
+			"ancestor": "",
+			"surface": "2004년_11월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 405,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "PERSON",
+			"en": 408,
+			"ancestor": "6-2",
+			"coref_index": 1090,
+			"surface": "포크츠",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 429,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 25,
+			"ne_type": "TIME",
+			"en": 438,
+			"ancestor": "",
+			"surface": "2005년_11월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 481,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "ORGANIZATION",
+			"en": 489,
+			"ancestor": "6-1",
+			"coref_index": 1091,
+			"surface": "성인_국가대표팀",
+			"entityName": ""
+		}
+	],
+	"plainText": "은퇴 이후 본호프는 이후에 코치가 되었다. 1988년 본호프는 정식 코칭 라이선스를 획득하였고, 이후로 여러 팀의 감독이 되었다. 1990년대말 본호프는 보루시아_묀헨글라트바흐의 감독이 되었으나, 팀의 분데스리가 강등을 막지 못하였다. 그는 2002년에 스코틀랜드_U-21_국가대표팀의 지휘봉을 잡아, 같은 시기에 스코틀랜드_국가대표팀 감독직을 맡은 베르티_포크츠를 따라갔다. 스코틀랜드_U-21팀은 본호프가 정식 감독을 맡은 첫 팀이었다. 본호프 취임 이후, 초기의 스코틀랜드_U-21_국가대표팀은 독일_U-21_국가대표팀을 꺾고 2004년 UEFA_U-21_챔피언쉽_플레이오프에 진출하며 성공을 거두었다. 스코틀랜드는 크로아티아_U-21_국가대표팀과의 플레이오프 합계에서 밀리며 탈락하였다. 본호프는 2004년_11월에 포크츠가 사임함에도 불구하고 연임하였으나, 2005년_11월에 14경기 무승을 기록하자 사임하였다. 그는 대런_플레처와 제임스_맥패든이 성인_국가대표팀에서 자리를 잡는데 도움을 주었다."
+}

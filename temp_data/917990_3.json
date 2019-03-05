@@ -1,0 +1,177 @@
+{
+	"docID": "917990",
+	"globalSID": "3024448,3024449,3024450",
+	"pronouns": [
+		{
+			"st": 108,
+			"coref_index": 1114,
+			"id": 0,
+			"en": 109,
+			"ancestor": "1-5",
+			"surface": "그"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"entityName": "유니버설_레코드",
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유니버설_레코드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"entityName": "마크_시언",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 77,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "마크_시언",
+			"coref_index": 1115
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Group",
+				"Artist",
+				"Organisation",
+				"Band"
+			],
+			"st": 111,
+			"eType": "WIKILINK",
+			"entityName": "브리트니_스피어스",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 120,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "브리트니_스피어스"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Group",
+				"Artist",
+				"Organisation",
+				"Band"
+			],
+			"st": 122,
+			"eType": "WIKILINK",
+			"entityName": "보이즈_투_멘",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 129,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "보이즈_투_멘"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"entityName": "TLC_(밴드)",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 134,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "TLC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 165,
+			"eType": "WIKILINK",
+			"entityName": "로스_앤젤레스",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 172,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "로스_앤젤레스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 6,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "초기의_경력"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 46,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1990년대_후반"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 48,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 60,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "마이타운(Mytown)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 160,
+			"ancestor": "3-1",
+			"is_target": true,
+			"surface": "시언",
+			"coref_index": 1115
+		}
+	],
+	"plainText": "초기의_경력 대니 오도너휴는 유니버설_레코드 회사에 들어간 이후, 1990년대_후반에 마이타운(Mytown)이라고 불리는 밴드에 마크_시언과 함께 소속되어있었다. 밴드가 적당한 성공을 거두자, 그는 브리트니_스피어스와 보이즈_투_멘, TLC와 같은 그룹을 위해 노래를 만들기 위하여 시언과 함께 로스_앤젤레스로 이동했다."
+}

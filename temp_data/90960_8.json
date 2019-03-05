@@ -1,0 +1,478 @@
+{
+	"docID": "90960",
+	"globalSID": "702895,702896,702897",
+	"pronouns": [
+		{
+			"st": 182,
+			"coref_index": 1107,
+			"id": 0,
+			"en": 186,
+			"ancestor": "8-11",
+			"surface": "이 시기"
+		},
+		{
+			"en": 192,
+			"st": 182,
+			"surface": "이 시기의 대표적인",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 196,
+			"st": 182,
+			"surface": "이 시기의 대표적인 유대인",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 200,
+			"st": 182,
+			"surface": "이 시기의 대표적인 유대인 반대가",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "자유주의",
+			"entityName": "자유주의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "게토",
+			"entityName": "게토"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 88,
+			"ancestor": "-1",
+			"surface": "러시아",
+			"entityName": "러시아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "포그룸",
+			"entityName": "포그룸"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 133,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "아메리카_대륙",
+			"entityName": "아메리카_대륙"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 149,
+			"ancestor": "-1",
+			"surface": "미국",
+			"entityName": "미국"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 155,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 161,
+			"ancestor": "-1",
+			"surface": "샌프란시스코",
+			"entityName": "샌프란시스코"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 227,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 232,
+			"ancestor": "-1",
+			"surface": "오스트리아",
+			"entityName": "오스트리아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 237,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 245,
+			"ancestor": "-1",
+			"surface": "테오도르_헤르츨",
+			"entityName": "테오도르_헤르츨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 268,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 272,
+			"ancestor": "-1",
+			"surface": "시오니즘",
+			"entityName": "시오니즘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 282,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 289,
+			"ancestor": "-1",
+			"surface": "고대_이스라엘",
+			"entityName": "고대_이스라엘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 4,
+			"ancestor": "-1",
+			"coref_index": 1107,
+			"surface": "18세기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 13,
+			"ancestor": "7-4",
+			"coref_index": 1099,
+			"surface": "유대인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "-1",
+			"surface": "평등",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "시민권",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "보장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "_반동주의",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "6-11",
+			"coref_index": 1104,
+			"surface": "박해",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 115,
+			"ancestor": "8-12",
+			"coref_index": 1099,
+			"surface": "유대인들",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 120,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "6-15",
+			"coref_index": 1105,
+			"surface": "이주",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "LOCATION",
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "북동부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 163,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "EVENT",
+			"en": 167,
+			"ancestor": "-1",
+			"surface": "골드러쉬",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 196,
+			"ancestor": "8-12",
+			"coref_index": 1099,
+			"surface": "유대인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 234,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "ETC",
+			"en": 236,
+			"ancestor": "-1",
+			"surface": "기자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 247,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "ETC",
+			"en": 253,
+			"ancestor": "-1",
+			"surface": "유대민족주의",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 255,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 25,
+			"ne_type": "ETC",
+			"en": 258,
+			"ancestor": "-1",
+			"surface": "필요성",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 273,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "ETC",
+			"en": 275,
+			"ancestor": "-1",
+			"surface": "운동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 291,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "ETC",
+			"en": 293,
+			"ancestor": "-1",
+			"surface": "언어",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 295,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 28,
+			"ne_type": "EVENT",
+			"en": 297,
+			"ancestor": "-1",
+			"surface": "풍습",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 305,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 29,
+			"ne_type": "ETC",
+			"en": 307,
+			"ancestor": "-1",
+			"surface": "노력",
+			"entityName": ""
+		}
+	],
+	"plainText": "18세기에 이르러 유대인들은 자유주의의 물결로 평등한 시민권을 보장받고 게토를 벗어나게 되지만 뒤이어 온_반동주의의 물결과 함께 박해 또한 심각해진다. 러시아의 포그룸 같은 대규모 박해가 발생하면서 유대인들은 다시 이주를 시작하고 일부는 아메리카_대륙으로 건너가 미국 북동부나 샌프란시스코의 골드러쉬 등에 참여하기도 하였다. 이 시기의 대표적인 유대인 반대가 드러난 사건의 하나인 드레퓌스 사건을 취재하던 오스트리아의 기자 테오도르_헤르츨은 유대민족주의의 필요성을 인식하고 현대 시오니즘 운동을 제창하며 고대_이스라엘의 언어와 풍습들을 되살리는 노력을 기울인다."
+}

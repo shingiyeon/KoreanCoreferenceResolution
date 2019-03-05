@@ -1,0 +1,229 @@
+{
+	"docID": "929321",
+	"globalSID": "3050280,3050281,3050282,3050283,3050284",
+	"pronouns": [
+		{
+			"st": 41,
+			"coref_index": 1138,
+			"id": 0,
+			"en": 42,
+			"ancestor": "2-0",
+			"surface": "그"
+		},
+		{
+			"st": 165,
+			"coref_index": 1138,
+			"id": 1,
+			"en": 166,
+			"ancestor": "2-0",
+			"surface": "그"
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"entityName": "마르코_베라티",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "베라티",
+			"coref_index": 1138
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"entityName": "페스카라",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 15,
+			"ancestor": "1-1",
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"entityName": "라퀼라",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 27,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "라퀼라"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"entityName": "유벤투스_FC",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 48,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유벤투스"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"entityName": "이탈리아_축구_국가대표팀",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 77,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이탈리아_축구_국가대표팀",
+			"coref_index": 1141
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"entityName": "알레산드로_델_피에로",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 99,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "알레산드로_델_피에로"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 107,
+			"eType": "ELU",
+			"entityName": "마르코_베라티",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 110,
+			"ancestor": "2-0",
+			"is_target": true,
+			"surface": "베라티",
+			"coref_index": 1138
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 132,
+			"eType": "WIKILINK",
+			"entityName": "아탈란타_BC",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 136,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아탈란타"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 173,
+			"eType": "WIKILINK",
+			"entityName": "페스카라_칼초",
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 177,
+			"ancestor": "2-1",
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 209,
+			"eType": "WIKILINK",
+			"entityName": "AC_밀란",
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 211,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "밀란"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 195,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 206,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "페스카라_U-16_팀"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 138,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 151,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "인테르나치오날레_유소년팀"
+		}
+	],
+	"plainText": "초기 생애 베라티는 페스카라에서 태어났고, 라퀼라에서 자랐다. 어린 시절 그는 유벤투스를 응원했고 팀의 레전드이자 이탈리아_축구_국가대표팀의 플레이메이커였던 알레산드로_델_피에로의 팬이였다. 베라티의 재능은 어린 나이에 관심을 끌게되어 아탈란타와 인테르나치오날레_유소년팀 입단 신청을 받았지만, 그는 고향팀인 페스카라와 5천 유로에 계약을 맺었다. 페스카라_U-16_팀에서 밀란을 상대로 인상적인 활약을 펼친후, 30만 유로의 입단 제안을 받기도 하였다."
+}

@@ -1,0 +1,1946 @@
+{
+	"parID": "1",
+	"entities": [
+		{
+			"en_modified": 7,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 0,
+			"st": 0,
+			"entityName": "라이너_본호프",
+			"is_target": true,
+			"en_exchanged": 7,
+			"eType": "ELU",
+			"en": 7,
+			"surface": "라이너_본호프",
+			"predicted_coref_index": 1,
+			"st_exchanged": 0,
+			"id": 0,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			]
+		},
+		{
+			"en_modified": 36,
+			"en_exchanged": 36,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 24,
+			"st": 24,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 36,
+			"surface": "1952년_3월_29일",
+			"st_exchanged": 24,
+			"id": 1,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 60,
+			"en_exchanged": 60,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 38,
+			"st": 38,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 60,
+			"surface": "노르트라인베스트팔렌_주_에메리히_암_라인",
+			"st_exchanged": 38,
+			"id": 2,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 79,
+			"en_exchanged": 79,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 70,
+			"st": 70,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 79,
+			"surface": "독일의_축구_선수",
+			"st_exchanged": 70,
+			"id": 3,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 116,
+			"en_exchanged": 116,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 110,
+			"st": 110,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 116,
+			"surface": "바이오그래피",
+			"st_exchanged": 110,
+			"id": 4,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 147,
+			"coref_index": 1084,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 135,
+			"st": 135,
+			"entityName": "보루시아_묀헨글라트바흐",
+			"is_target": true,
+			"en_exchanged": 147,
+			"eType": "WIKILINK",
+			"en": 147,
+			"surface": "보루시아_묀헨글라트바흐",
+			"predicted_coref_index": 3,
+			"st_exchanged": 135,
+			"id": 5,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 156,
+			"en_exchanged": 156,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 152,
+			"st": 152,
+			"entityName": "미드필더",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 156,
+			"surface": "미드필더",
+			"st_exchanged": 152,
+			"id": 6,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 190,
+			"coref_index": 1087,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 185,
+			"st": 185,
+			"entityName": "푸스발-분데스리가",
+			"is_target": true,
+			"en_exchanged": 190,
+			"eType": "ELU",
+			"en": 190,
+			"surface": "분데스리가",
+			"st_exchanged": 185,
+			"id": 7,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			]
+		},
+		{
+			"en_modified": 266,
+			"coref_index": 1085,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 259,
+			"st": 259,
+			"entityName": "레이_클레멘스",
+			"is_target": true,
+			"en_exchanged": 266,
+			"eType": "WIKILINK",
+			"en": 266,
+			"surface": "레이_클레멘스",
+			"st_exchanged": 259,
+			"id": 8,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 276,
+			"en_exchanged": 276,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 270,
+			"st": 270,
+			"entityName": "리버풀_FC",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 276,
+			"surface": "리버풀_FC",
+			"st_exchanged": 270,
+			"id": 9,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 280,
+			"en_exchanged": 280,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 277,
+			"st": 277,
+			"entityName": "골키퍼",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 280,
+			"surface": "골키퍼",
+			"st_exchanged": 277,
+			"id": 10,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 289,
+			"coref_index": 1084,
+			"ne_type": "LOCATION",
+			"ancestor": "1-5",
+			"st_modified": 282,
+			"st": 282,
+			"entityName": "묀헨글라트바흐",
+			"is_target": true,
+			"en_exchanged": 289,
+			"eType": "ELU",
+			"en": 289,
+			"surface": "묀헨글라트바흐",
+			"st_exchanged": 282,
+			"id": 11,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 297,
+			"en_exchanged": 297,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 292,
+			"st": 292,
+			"entityName": "UEFA_챔피언스리그",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 297,
+			"surface": "유러피언컵",
+			"st_exchanged": 292,
+			"id": 12,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 341,
+			"coref_index": 1085,
+			"ne_type": "PERSON",
+			"ancestor": "1-8",
+			"st_modified": 337,
+			"st": 337,
+			"entityName": "교황_클레멘스_7세",
+			"is_target": true,
+			"en_exchanged": 341,
+			"eType": "ELU",
+			"en": 341,
+			"surface": "클레멘스",
+			"st_exchanged": 337,
+			"id": 13,
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			]
+		},
+		{
+			"en_modified": 405,
+			"en_exchanged": 405,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 396,
+			"st": 396,
+			"entityName": "ARD_이달의_골",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 405,
+			"surface": "ARD_이달의_골",
+			"st_exchanged": 396,
+			"id": 14,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 133,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 130,
+			"st": 130,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 133,
+			"eType": "NEW",
+			"en": 133,
+			"surface": "본호프",
+			"predicted_coref_index": 1,
+			"st_exchanged": 130,
+			"id": 15,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 179,
+			"en_exchanged": 179,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 173,
+			"st": 173,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 179,
+			"surface": "1970년대",
+			"predicted_coref_index": 2,
+			"st_exchanged": 173,
+			"id": 16,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 208,
+			"en_exchanged": 208,
+			"ne_type": "EVENT",
+			"ancestor": "-1",
+			"st_modified": 200,
+			"st": 200,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 208,
+			"surface": "UEFA컵_우승",
+			"st_exchanged": 200,
+			"id": 17,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 307,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-15",
+			"st_modified": 304,
+			"st": 304,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 307,
+			"eType": "NEW",
+			"en": 307,
+			"surface": "본호프",
+			"st_exchanged": 304,
+			"id": 18,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 360,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-15",
+			"st_modified": 357,
+			"st": 357,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 360,
+			"eType": "NEW",
+			"en": 360,
+			"surface": "본호프",
+			"st_exchanged": 357,
+			"id": 19,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 391,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-15",
+			"st_modified": 388,
+			"st": 388,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 391,
+			"eType": "NEW",
+			"en": 391,
+			"surface": "본호프",
+			"st_exchanged": 388,
+			"id": 20,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 478,
+			"en_exchanged": 478,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 470,
+			"st": 470,
+			"entityName": "뮌헨_올림픽_스타디움",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 478,
+			"surface": "올림피아스타디온",
+			"st_exchanged": 470,
+			"id": 21,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			]
+		},
+		{
+			"en_modified": 498,
+			"en_exchanged": 498,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 484,
+			"st": 484,
+			"entityName": "1974년_FIFA_월드컵",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 498,
+			"surface": "1974년_FIFA_월드컵",
+			"st_exchanged": 484,
+			"id": 22,
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			]
+		},
+		{
+			"en_modified": 516,
+			"en_exchanged": 516,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 512,
+			"st": 512,
+			"entityName": "네덜란드_축구_국가대표팀",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 516,
+			"surface": "네덜란드",
+			"st_exchanged": 512,
+			"id": 23,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 549,
+			"en_exchanged": 549,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 538,
+			"st": 538,
+			"entityName": "독일_축구_국가대표팀",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 549,
+			"surface": "독일_축구_국가대표팀",
+			"st_exchanged": 538,
+			"id": 24,
+			"kbox_types": [
+				"FootballMatch",
+				"SoccerClub",
+				"Agent",
+				"Event",
+				"SocietalEvent",
+				"SportsTeam",
+				"Organisation",
+				"SportsEvent"
+			]
+		},
+		{
+			"en_modified": 591,
+			"en_exchanged": 591,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 585,
+			"st": 585,
+			"entityName": "게르트_뮐러",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 591,
+			"surface": "게르트_뮐러",
+			"st_exchanged": 585,
+			"id": 25,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			]
+		},
+		{
+			"en_modified": 732,
+			"en_exchanged": 732,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 718,
+			"st": 718,
+			"entityName": "1978년_FIFA_월드컵",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 732,
+			"surface": "1978년_FIFA_월드컵",
+			"st_exchanged": 718,
+			"id": 26,
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			]
+		},
+		{
+			"en_modified": 771,
+			"en_exchanged": 771,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 766,
+			"st": 766,
+			"entityName": "오스트리아_축구_국가대표팀",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 771,
+			"surface": "오스트리아",
+			"st_exchanged": 766,
+			"id": 27,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 793,
+			"coref_index": 1088,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 789,
+			"st": 789,
+			"entityName": "발렌시아",
+			"is_target": true,
+			"en_exchanged": 793,
+			"eType": "ELU",
+			"en": 793,
+			"surface": "발렌시아",
+			"st_exchanged": 789,
+			"id": 28,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			]
+		},
+		{
+			"en_modified": 846,
+			"en_exchanged": 846,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 839,
+			"st": 839,
+			"entityName": "울리_슈틸리케",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 846,
+			"surface": "울리_슈틸리케",
+			"st_exchanged": 839,
+			"id": 29,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			]
+		},
+		{
+			"en_modified": 922,
+			"en_exchanged": 922,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 910,
+			"st": 910,
+			"entityName": "UEFA_유로_1980",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 922,
+			"surface": "UEFA_유로_1980",
+			"st_exchanged": 910,
+			"id": 30,
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			]
+		},
+		{
+			"en_modified": 1041,
+			"coref_index": 1087,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-7",
+			"st_modified": 1036,
+			"st": 1036,
+			"entityName": "푸스발-분데스리가",
+			"is_target": true,
+			"en_exchanged": 1041,
+			"eType": "WIKILINK",
+			"en": 1041,
+			"surface": "분데스리가",
+			"st_exchanged": 1036,
+			"id": 31,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			]
+		},
+		{
+			"en_modified": 1066,
+			"en_exchanged": 1066,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1061,
+			"st": 1061,
+			"entityName": "국가대표팀",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 1066,
+			"surface": "국가대표팀",
+			"st_exchanged": 1061,
+			"id": 32,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 464,
+			"en_exchanged": 464,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 453,
+			"st": 453,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 464,
+			"surface": "1974년_7월_7일",
+			"st_exchanged": 453,
+			"id": 33,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 533,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 530,
+			"st": 530,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 533,
+			"eType": "NEW",
+			"en": 533,
+			"surface": "본호프",
+			"st_exchanged": 530,
+			"id": 34,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 834,
+			"coref_index": 1088,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-28",
+			"st_modified": 830,
+			"st": 830,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 834,
+			"eType": "NEW",
+			"en": 834,
+			"surface": "발렌시아",
+			"st_exchanged": 830,
+			"id": 35,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 855,
+			"en_exchanged": 855,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 848,
+			"st": 848,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 855,
+			"surface": "레알_마드리드",
+			"st_exchanged": 848,
+			"id": 36,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 868,
+			"en_exchanged": 868,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 860,
+			"st": 860,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 868,
+			"surface": "독일_축구_협회",
+			"st_exchanged": 860,
+			"id": 37,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1021,
+			"en_exchanged": 1021,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1016,
+			"st": 1016,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1021,
+			"surface": "FC_쾰른",
+			"st_exchanged": 1016,
+			"id": 38,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1008,
+			"en_exchanged": 1008,
+			"ne_type": "EVENT",
+			"ancestor": "-1",
+			"st_modified": 1004,
+			"st": 1004,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1008,
+			"surface": "브라질전",
+			"st_exchanged": 1004,
+			"id": 39,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1090,
+			"en_exchanged": 1090,
+			"ne_type": "EVENT",
+			"ancestor": "-1",
+			"st_modified": 1079,
+			"st": 1079,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1090,
+			"surface": "1983년_발목_부상",
+			"st_exchanged": 1079,
+			"id": 40,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1098,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1095,
+			"is_target": true,
+			"entityName": "",
+			"st": 1095,
+			"en_exchanged": 1098,
+			"eType": "NEW",
+			"en": 1098,
+			"surface": "본호프",
+			"st_exchanged": 1095,
+			"id": 41,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1102,
+			"en_exchanged": 1102,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1100,
+			"st": 1100,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1102,
+			"surface": "은퇴",
+			"st_exchanged": 1100,
+			"id": 42,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1106,
+			"en_exchanged": 1106,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1104,
+			"st": 1104,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1106,
+			"surface": "선언",
+			"st_exchanged": 1104,
+			"id": 43,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1209,
+			"coref_index": 1084,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-5",
+			"st_modified": 1197,
+			"st": 1197,
+			"entityName": "보루시아_묀헨글라트바흐",
+			"is_target": true,
+			"en_exchanged": 1209,
+			"eType": "ELU",
+			"en": 1209,
+			"surface": "보루시아_묀헨글라트바흐",
+			"st_exchanged": 1197,
+			"id": 44,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 1298,
+			"coref_index": 1091,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1287,
+			"st": 1287,
+			"entityName": "스코틀랜드_축구_국가대표팀",
+			"is_target": true,
+			"en_exchanged": 1298,
+			"eType": "WIKILINK",
+			"en": 1298,
+			"surface": "스코틀랜드_국가대표팀",
+			"st_exchanged": 1287,
+			"id": 45,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 1314,
+			"coref_index": 1090,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 1307,
+			"st": 1307,
+			"entityName": "베르티_포크츠",
+			"is_target": true,
+			"en_exchanged": 1314,
+			"eType": "WIKILINK",
+			"en": 1314,
+			"surface": "베르티_포크츠",
+			"st_exchanged": 1307,
+			"id": 46,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			]
+		},
+		{
+			"en_modified": 1457,
+			"en_exchanged": 1457,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1452,
+			"st": 1452,
+			"entityName": "스코틀랜드",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 1457,
+			"surface": "스코틀랜드",
+			"st_exchanged": 1452,
+			"id": 47,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 1581,
+			"en_exchanged": 1581,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 1575,
+			"st": 1575,
+			"entityName": "대런_플레처",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1581,
+			"surface": "대런_플레처",
+			"st_exchanged": 1575,
+			"id": 48,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			]
+		},
+		{
+			"en_modified": 1590,
+			"en_exchanged": 1590,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 1583,
+			"st": 1583,
+			"entityName": "제임스_맥패든",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1590,
+			"surface": "제임스_맥패든",
+			"st_exchanged": 1583,
+			"id": 49,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			]
+		},
+		{
+			"en_modified": 1120,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1117,
+			"st": 1117,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1120,
+			"eType": "NEW",
+			"en": 1120,
+			"surface": "본호프",
+			"st_exchanged": 1117,
+			"id": 50,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1140,
+			"en_exchanged": 1140,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1135,
+			"st": 1135,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1140,
+			"surface": "1988년",
+			"st_exchanged": 1135,
+			"id": 51,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1144,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1141,
+			"st": 1141,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1144,
+			"eType": "NEW",
+			"en": 1144,
+			"surface": "본호프",
+			"st_exchanged": 1141,
+			"id": 52,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1189,
+			"en_exchanged": 1189,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1184,
+			"st": 1184,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1189,
+			"surface": "1990년",
+			"st_exchanged": 1184,
+			"id": 53,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1195,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1192,
+			"st": 1192,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1195,
+			"eType": "NEW",
+			"en": 1195,
+			"surface": "본호프",
+			"st_exchanged": 1192,
+			"id": 54,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1229,
+			"coref_index": 1087,
+			"ne_type": "ETC",
+			"ancestor": "1-7",
+			"st_modified": 1224,
+			"st": 1224,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1229,
+			"eType": "NEW",
+			"en": 1229,
+			"surface": "분데스리가",
+			"st_exchanged": 1224,
+			"id": 55,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1269,
+			"coref_index": 1089,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1253,
+			"st": 1253,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1269,
+			"eType": "NEW",
+			"en": 1269,
+			"surface": "스코틀랜드_U-21_국가대표팀",
+			"st_exchanged": 1253,
+			"id": 56,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1333,
+			"coref_index": 1089,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-56",
+			"st_modified": 1322,
+			"st": 1322,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1333,
+			"eType": "NEW",
+			"en": 1333,
+			"surface": "스코틀랜드_U-21팀",
+			"st_exchanged": 1322,
+			"id": 57,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1338,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1335,
+			"st": 1335,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1338,
+			"eType": "NEW",
+			"en": 1338,
+			"surface": "본호프",
+			"st_exchanged": 1335,
+			"id": 58,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1361,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1358,
+			"st": 1358,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1361,
+			"eType": "NEW",
+			"en": 1361,
+			"surface": "본호프",
+			"st_exchanged": 1358,
+			"id": 59,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1389,
+			"coref_index": 1089,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-56",
+			"st_modified": 1373,
+			"st": 1373,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1389,
+			"eType": "NEW",
+			"en": 1389,
+			"surface": "스코틀랜드_U-21_국가대표팀",
+			"st_exchanged": 1373,
+			"id": 60,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1404,
+			"en_exchanged": 1404,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1391,
+			"st": 1391,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1404,
+			"surface": "독일_U-21_국가대표팀",
+			"st_exchanged": 1391,
+			"id": 61,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1414,
+			"en_exchanged": 1414,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1409,
+			"st": 1409,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1414,
+			"surface": "2004년",
+			"st_exchanged": 1409,
+			"id": 62,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1435,
+			"en_exchanged": 1435,
+			"ne_type": "EVENT",
+			"ancestor": "-1",
+			"st_modified": 1415,
+			"st": 1415,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1435,
+			"surface": "UEFA_U-21_챔피언쉽_플레이오프",
+			"st_exchanged": 1415,
+			"id": 63,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1475,
+			"en_exchanged": 1475,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1459,
+			"st": 1459,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1475,
+			"surface": "크로아티아_U-21_국가대표팀",
+			"st_exchanged": 1459,
+			"id": 64,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1483,
+			"en_exchanged": 1483,
+			"ne_type": "EVENT",
+			"ancestor": "-1",
+			"st_modified": 1478,
+			"st": 1478,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1483,
+			"surface": "플레이오프",
+			"st_exchanged": 1478,
+			"id": 65,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1504,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1500,
+			"st": 1500,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1504,
+			"eType": "NEW",
+			"en": 1504,
+			"surface": "본호프는",
+			"st_exchanged": 1500,
+			"id": 66,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1514,
+			"en_exchanged": 1514,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1505,
+			"st": 1505,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1514,
+			"surface": "2004년_11월",
+			"st_exchanged": 1505,
+			"id": 67,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1519,
+			"coref_index": 1090,
+			"ne_type": "PERSON",
+			"ancestor": "1-46",
+			"st_modified": 1516,
+			"st": 1516,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1519,
+			"eType": "NEW",
+			"en": 1519,
+			"surface": "포크츠",
+			"st_exchanged": 1516,
+			"id": 68,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1549,
+			"en_exchanged": 1549,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1540,
+			"st": 1540,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1549,
+			"surface": "2005년_11월",
+			"st_exchanged": 1540,
+			"id": 69,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1600,
+			"coref_index": 1091,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-45",
+			"st_modified": 1592,
+			"st": 1592,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1600,
+			"eType": "NEW",
+			"en": 1600,
+			"surface": "성인_국가대표팀",
+			"st_exchanged": 1592,
+			"id": 70,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1644,
+			"en_exchanged": 1644,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1638,
+			"st": 1638,
+			"entityName": "프리미어리그",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1644,
+			"surface": "프리미어리그",
+			"st_exchanged": 1638,
+			"id": 71,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			]
+		},
+		{
+			"en_modified": 1654,
+			"coref_index": 1092,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1649,
+			"st": 1649,
+			"entityName": "첼시_FC",
+			"is_target": true,
+			"en_exchanged": 1654,
+			"eType": "WIKILINK",
+			"en": 1654,
+			"surface": "첼시_FC",
+			"st_exchanged": 1649,
+			"id": 72,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 1636,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-0",
+			"st_modified": 1633,
+			"st": 1633,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1636,
+			"eType": "NEW",
+			"en": 1636,
+			"surface": "본호프",
+			"st_exchanged": 1633,
+			"id": 73,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1631,
+			"en_exchanged": 1631,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1620,
+			"st": 1620,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1631,
+			"surface": "2006년_9월_1일",
+			"st_exchanged": 1620,
+			"id": 74,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1695,
+			"coref_index": 1092,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-72",
+			"st_modified": 1693,
+			"st": 1693,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1695,
+			"eType": "NEW",
+			"en": 1695,
+			"surface": "첼시",
+			"predicted_coref_index": 1,
+			"st_exchanged": 1693,
+			"id": 75,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1700,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-73",
+			"st_modified": 1697,
+			"st": 1697,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1700,
+			"eType": "NEW",
+			"en": 1700,
+			"surface": "본호프",
+			"st_exchanged": 1697,
+			"id": 76,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1744,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-73",
+			"st_modified": 1741,
+			"st": 1741,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1744,
+			"eType": "NEW",
+			"en": 1744,
+			"surface": "본호프",
+			"st_exchanged": 1741,
+			"id": 77,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1748,
+			"coref_index": 1092,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-72",
+			"st_modified": 1746,
+			"st": 1746,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1748,
+			"eType": "NEW",
+			"en": 1748,
+			"surface": "첼시",
+			"st_exchanged": 1746,
+			"id": 78,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1785,
+			"en_exchanged": 1785,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1772,
+			"st": 1772,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1785,
+			"surface": "2008년_10월_31일",
+			"st_exchanged": 1772,
+			"id": 79,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1790,
+			"coref_index": 1086,
+			"ne_type": "PERSON",
+			"ancestor": "1-73",
+			"st_modified": 1787,
+			"st": 1787,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1790,
+			"eType": "NEW",
+			"en": 1790,
+			"surface": "본호프",
+			"st_exchanged": 1787,
+			"id": 80,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1794,
+			"en_exchanged": 1794,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1792,
+			"st": 1792,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1794,
+			"surface": "런던",
+			"st_exchanged": 1792,
+			"id": 81,
+			"kbox_types": [
+				"NULL"
+			]
+		}
+	],
+	"pronoun_candidate": [
+		{
+			"en": 217,
+			"st_exchanged": 216,
+			"text": "그",
+			"en_exchanged": 217,
+			"st_modified": 216,
+			"is_pronoun": true,
+			"en_modified": 217,
+			"st": 216
+		},
+		{
+			"en": 608,
+			"st_exchanged": 607,
+			"text": "그",
+			"en_exchanged": 608,
+			"st_modified": 607,
+			"is_pronoun": true,
+			"en_modified": 608,
+			"st": 607
+		},
+		{
+			"en": 641,
+			"st_exchanged": 640,
+			"text": "그",
+			"en_exchanged": 641,
+			"st_modified": 640,
+			"is_pronoun": true,
+			"en_modified": 641,
+			"st": 640
+		},
+		{
+			"en": 716,
+			"st_exchanged": 715,
+			"text": "그",
+			"en_exchanged": 716,
+			"st_modified": 715,
+			"is_pronoun": true,
+			"en_modified": 716,
+			"st": 715
+		},
+		{
+			"en": 739,
+			"st_exchanged": 735,
+			"text": "매 경기",
+			"en_exchanged": 739,
+			"st_modified": 735,
+			"is_pronoun": true,
+			"en_modified": 739,
+			"st": 735
+		},
+		{
+			"en": 787,
+			"st_exchanged": 786,
+			"text": "그",
+			"en_exchanged": 787,
+			"st_modified": 786,
+			"is_pronoun": true,
+			"en_modified": 787,
+			"st": 786
+		},
+		{
+			"en": 828,
+			"st_exchanged": 827,
+			"text": "그",
+			"en_exchanged": 828,
+			"st_modified": 827,
+			"is_pronoun": true,
+			"en_modified": 828,
+			"st": 827
+		},
+		{
+			"en": 837,
+			"st_exchanged": 827,
+			"text": "그의 발렌시아 이적",
+			"en_exchanged": 837,
+			"st_modified": 827,
+			"is_pronoun": true,
+			"en_modified": 837,
+			"st": 827
+		},
+		{
+			"en": 908,
+			"st_exchanged": 907,
+			"text": "그",
+			"en_exchanged": 908,
+			"st_modified": 907,
+			"is_pronoun": true,
+			"en_modified": 908,
+			"st": 907
+		},
+		{
+			"en": 956,
+			"st_exchanged": 955,
+			"text": "그",
+			"en_exchanged": 956,
+			"st_modified": 955,
+			"is_pronoun": true,
+			"en_modified": 956,
+			"st": 955
+		},
+		{
+			"en": 976,
+			"st_exchanged": 975,
+			"text": "그",
+			"en_exchanged": 976,
+			"st_modified": 975,
+			"is_pronoun": true,
+			"en_modified": 976,
+			"st": 975
+		},
+		{
+			"en": 1098,
+			"st_exchanged": 1079,
+			"text": "1983년_발목_부상을 당한 본호프",
+			"en_exchanged": 1098,
+			"st_modified": 1079,
+			"is_pronoun": true,
+			"en_modified": 1098,
+			"st": 1079
+		},
+		{
+			"en": 1173,
+			"st_exchanged": 1169,
+			"text": "여러 팀",
+			"en_exchanged": 1173,
+			"st_modified": 1169,
+			"is_pronoun": true,
+			"en_modified": 1173,
+			"st": 1169
+		},
+		{
+			"en": 1177,
+			"st_exchanged": 1169,
+			"text": "여러 팀의 감독",
+			"en_exchanged": 1177,
+			"st_modified": 1169,
+			"is_pronoun": true,
+			"en_modified": 1177,
+			"st": 1169
+		},
+		{
+			"en": 1244,
+			"st_exchanged": 1243,
+			"text": "그",
+			"en_exchanged": 1244,
+			"st_modified": 1243,
+			"is_pronoun": true,
+			"en_modified": 1244,
+			"st": 1243
+		},
+		{
+			"en": 1573,
+			"st_exchanged": 1572,
+			"text": "그",
+			"en_exchanged": 1573,
+			"st_modified": 1572,
+			"is_pronoun": true,
+			"en_modified": 1573,
+			"st": 1572
+		}
+	],
+	"docID": "907410",
+	"ZA_candidate": [],
+	"PronounExchangedText": "라이너_본호프 (Rainer Bonhof, 1952년_3월_29일, 노르트라인베스트팔렌_주_에메리히_암_라인 ~) 은 은퇴한 독일의_축구_선수로, 현역 시절 수비형 미드필더나 윙백으로 활약하였다. 바이오그래피 선수 경력 현역 시절, 본호프는 보루시아_묀헨글라트바흐의 주축 미드필더로, 클럽이 전성기를 구가하던 1970년대, 다수의 분데스리가, DFB-포칼, UEFA컵_우승을 거두었다. 그는 강력한 프리킥을 차는 것과 정확한 쓰로인을 구사한 것으로 알려져 있다. 레이_클레멘스, 전 리버풀_FC 골키퍼는 묀헨글라트바흐와의 유러피언컵 경기 이후 본호프의 슈팅은 치명적이었다고 언급하였다. 1978년 봄, 클레멘스는 클럽경기와 국가대항전에서 본호프에게 두 차례 모두 거의 같은 위치에서 당하였다. 본호프의 골은 ARD_이달의_골로 3 차례 선정되었고, 이중 2골은 프리킥으로 한골은 30m 중거리포로 선정되었다. 1974년_7월_7일, 뮌헨의 올림피아스타디온에서 열린 1974년_FIFA_월드컵 결승전에서 홈팀 서독이 네덜란드를 2-1로 격파한 뒤, 본호프는 당시 독일_축구_국가대표팀 선수로는, 월드컵을 우승한 최연소 선수로 기록되었다. 본호프는 게르트_뮐러의 결승골을 어시스트하였다. 그는 월드컵 이후로도 수시로 국가대표팀 명단에 포함되었다. 그는 UEFA 유로 1976에 참가한 최고의 선수들 중 하나였고, 서독이 기록한 6골 중 4골을 준결승전과 결승전에서 어시스트하였다. 그는 1978년_FIFA_월드컵에서 매 경기 출전하였는데 서독은 2차 리그 최종전에서 숙적 오스트리아에게 2-3으로 패하였다. 그는 발렌시아로 이적한 이후에도 국가대표팀에서 중요한 선수로 활약하였다. 그의 발렌시아 이적과 울리_슈틸리케의 레알_마드리드 이적은 독일_축구_협회로 하여금 해외 활동 선수의 국가대표팀 차출 금지를 철회하게 하였다. 그는 UEFA_유로_1980의 예선전에 큰 힘을 보탰고 스쿼드에 포함되었으나, 부상은 그가 우승을 맛보지 못하게 하였다. 그가 출전한 마지막 국가대항전 경기는 1-4로 패한 브라질전이었고, 1. FC_쾰른에서의 1981-82 시즌 분데스리가에 훌륭한 활약을 했음에도 불구하고 국가대표팀에 차출되지 못하였다. 1983년_발목_부상을 당한 본호프는 은퇴를 선언하였다. 은퇴 이후 본호프는 이후에 코치가 되었다. 1988년 본호프는 정식 코칭 라이선스를 획득하였고, 이후로 여러 팀의 감독이 되었다. 1990년대말 본호프는 보루시아_묀헨글라트바흐의 감독이 되었으나, 팀의 분데스리가 강등을 막지 못하였다. 그는 2002년에 스코틀랜드_U-21_국가대표팀의 지휘봉을 잡아, 같은 시기에 스코틀랜드_국가대표팀 감독직을 맡은 베르티_포크츠를 따라갔다. 스코틀랜드_U-21팀은 본호프가 정식 감독을 맡은 첫 팀이었다. 본호프 취임 이후, 초기의 스코틀랜드_U-21_국가대표팀은 독일_U-21_국가대표팀을 꺾고 2004년 UEFA_U-21_챔피언쉽_플레이오프에 진출하며 성공을 거두었다. 스코틀랜드는 크로아티아_U-21_국가대표팀과의 플레이오프 합계에서 밀리며 탈락하였다. 본호프는 2004년_11월에 포크츠가 사임함에도 불구하고 연임하였으나, 2005년_11월에 14경기 무승을 기록하자 사임하였다. 그는 대런_플레처와 제임스_맥패든이 성인_국가대표팀에서 자리를 잡는데 도움을 주었다. 2006년_9월_1일, 본호프는 프리미어리그 챔피언 첼시_FC와 계약을 맺고 독일 / 오스트리아 지역의 스카우트가 되었다. 계약은 첼시와 본호프 양쪽 중 한쪽에서만 계약파기 의사를 표하면 종료시킬 수 있었다. 결국, 본호프의 첼시 계약은 늘어나는 적자로 인해 파기되었다. 2008년_10월_31일, 본호프는 런던을 떠났다. ",
+	"pronouns": [
+		{
+			"en": 217,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-15",
+			"id": 0,
+			"st_modified": 216,
+			"en_modified": 217,
+			"st": 216
+		},
+		{
+			"en": 608,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 1,
+			"st_modified": 607,
+			"en_modified": 608,
+			"st": 607
+		},
+		{
+			"en": 641,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 2,
+			"st_modified": 640,
+			"en_modified": 641,
+			"st": 640
+		},
+		{
+			"en": 716,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 3,
+			"st_modified": 715,
+			"en_modified": 716,
+			"st": 715
+		},
+		{
+			"en": 739,
+			"surface": "매 경기",
+			"ancestor": "-1",
+			"id": 4,
+			"st_modified": 735,
+			"en_modified": 739,
+			"st": 735
+		},
+		{
+			"en": 787,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 5,
+			"st_modified": 786,
+			"en_modified": 787,
+			"st": 786
+		},
+		{
+			"en": 828,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 6,
+			"st_modified": 827,
+			"en_modified": 828,
+			"st": 827
+		},
+		{
+			"en": 838,
+			"surface": "그의 발렌시아 이적과",
+			"ancestor": "-1",
+			"id": 7,
+			"st_modified": 827,
+			"en_modified": 838,
+			"st": 827
+		},
+		{
+			"en": 908,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 8,
+			"st_modified": 907,
+			"en_modified": 908,
+			"st": 907
+		},
+		{
+			"en": 956,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 9,
+			"st_modified": 955,
+			"en_modified": 956,
+			"st": 955
+		},
+		{
+			"en": 976,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 10,
+			"st_modified": 975,
+			"en_modified": 976,
+			"st": 975
+		},
+		{
+			"en": 1099,
+			"surface": "1983년_발목_부상을 당한 본호프는",
+			"ancestor": "-1",
+			"id": 11,
+			"st_modified": 1079,
+			"en_modified": 1099,
+			"st": 1079
+		},
+		{
+			"en": 1173,
+			"surface": "여러 팀",
+			"ancestor": "-1",
+			"id": 12,
+			"st_modified": 1169,
+			"en_modified": 1173,
+			"st": 1169
+		},
+		{
+			"en": 1177,
+			"surface": "여러 팀의 감독",
+			"ancestor": "-1",
+			"id": 13,
+			"st_modified": 1169,
+			"en_modified": 1177,
+			"st": 1169
+		},
+		{
+			"en": 1244,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 14,
+			"st_modified": 1243,
+			"en_modified": 1244,
+			"st": 1243
+		},
+		{
+			"en": 1573,
+			"surface": "그",
+			"coref_index": 1086,
+			"ancestor": "1-0",
+			"id": 15,
+			"st_modified": 1572,
+			"en_modified": 1573,
+			"st": 1572
+		}
+	],
+	"globalSID": "3000971,3000972,3000973,3000974,3000975,3000976,3000977,3000978,3000979,3000980,3000981,3000982,3000983,3000984,3000985,3000986,3000987,3000988,3000989,3000990,3000991,3000992,3000993,3000994,3000995,3000996,3000997,3000998,3000999,3001000,3001001,3001002,3001003",
+	"ModifiedText": "라이너 본호프 (Rainer Bonhof, 1952년 3월 29일, 노르트라인베스트팔렌 주 에메리히 암 라인 ~) 은 은퇴한 독일의 축구 선수로, 현역 시절 수비형 미드필더나 윙백으로 활약하였다. 바이오그래피 선수 경력 현역 시절, 본호프는 보루시아 묀헨글라트바흐의 주축 미드필더로, 클럽이 전성기를 구가하던 1970년대, 다수의 분데스리가, DFB-포칼, UEFA컵 우승을 거두었다. 그는 강력한 프리킥을 차는 것과 정확한 쓰로인을 구사한 것으로 알려져 있다. 레이 클레멘스, 전 리버풀 FC 골키퍼는 묀헨글라트바흐와의 유러피언컵 경기 이후 본호프의 슈팅은 치명적이었다고 언급하였다. 1978년 봄, 클레멘스는 클럽경기와 국가대항전에서 본호프에게 두 차례 모두 거의 같은 위치에서 당하였다. 본호프의 골은 ARD 이달의 골로 3 차례 선정되었고, 이중 2골은 프리킥으로 한골은 30m 중거리포로 선정되었다. 1974년 7월 7일, 뮌헨의 올림피아스타디온에서 열린 1974년 FIFA 월드컵 결승전에서 홈팀 서독이 네덜란드를 2-1로 격파한 뒤, 본호프는 당시 독일 축구 국가대표팀 선수로는, 월드컵을 우승한 최연소 선수로 기록되었다. 본호프는 게르트 뮐러의 결승골을 어시스트하였다. 그는 월드컵 이후로도 수시로 국가대표팀 명단에 포함되었다. 그는 UEFA 유로 1976에 참가한 최고의 선수들 중 하나였고, 서독이 기록한 6골 중 4골을 준결승전과 결승전에서 어시스트하였다. 그는 1978년 FIFA 월드컵에서 매 경기 출전하였는데 서독은 2차 리그 최종전에서 숙적 오스트리아에게 2-3으로 패하였다. 그는 발렌시아로 이적한 이후에도 국가대표팀에서 중요한 선수로 활약하였다. 그의 발렌시아 이적과 울리 슈틸리케의 레알 마드리드 이적은 독일 축구 협회로 하여금 해외 활동 선수의 국가대표팀 차출 금지를 철회하게 하였다. 그는 UEFA 유로 1980의 예선전에 큰 힘을 보탰고 스쿼드에 포함되었으나, 부상은 그가 우승을 맛보지 못하게 하였다. 그가 출전한 마지막 국가대항전 경기는 1-4로 패한 브라질전이었고, 1. FC 쾰른에서의 1981-82 시즌 분데스리가에 훌륭한 활약을 했음에도 불구하고 국가대표팀에 차출되지 못하였다. 1983년 발목 부상을 당한 본호프는 은퇴를 선언하였다. 은퇴 이후 본호프는 이후에 코치가 되었다. 1988년 본호프는 정식 코칭 라이선스를 획득하였고, 이후로 여러 팀의 감독이 되었다. 1990년대말 본호프는 보루시아 묀헨글라트바흐의 감독이 되었으나, 팀의 분데스리가 강등을 막지 못하였다. 그는 2002년에 스코틀랜드 U-21 국가대표팀의 지휘봉을 잡아, 같은 시기에 스코틀랜드 국가대표팀 감독직을 맡은 베르티 포크츠를 따라갔다. 스코틀랜드 U-21팀은 본호프가 정식 감독을 맡은 첫 팀이었다. 본호프 취임 이후, 초기의 스코틀랜드 U-21 국가대표팀은 독일 U-21 국가대표팀을 꺾고 2004년 UEFA U-21 챔피언쉽 플레이오프에 진출하며 성공을 거두었다. 스코틀랜드는 크로아티아 U-21 국가대표팀과의 플레이오프 합계에서 밀리며 탈락하였다. 본호프는 2004년 11월에 포크츠가 사임함에도 불구하고 연임하였으나, 2005년 11월에 14경기 무승을 기록하자 사임하였다. 그는 대런 플레처와 제임스 맥패든이 성인 국가대표팀에서 자리를 잡는데 도움을 주었다. 2006년 9월 1일, 본호프는 프리미어리그 챔피언 첼시 FC와 계약을 맺고 독일 / 오스트리아 지역의 스카우트가 되었다. 계약은 첼시와 본호프 양쪽 중 한쪽에서만 계약파기 의사를 표하면 종료시킬 수 있었다. 결국, 본호프의 첼시 계약은 늘어나는 적자로 인해 파기되었다. 2008년 10월 31일, 본호프는 런던을 떠났다. ",
+	"plainText": "라이너_본호프 (Rainer Bonhof, 1952년_3월_29일, 노르트라인베스트팔렌_주_에메리히_암_라인 ~) 은 은퇴한 독일의_축구_선수로, 현역 시절 수비형 미드필더나 윙백으로 활약하였다. 바이오그래피 선수 경력 현역 시절, 본호프는 보루시아_묀헨글라트바흐의 주축 미드필더로, 클럽이 전성기를 구가하던 1970년대, 다수의 분데스리가, DFB-포칼, UEFA컵_우승을 거두었다. 그는 강력한 프리킥을 차는 것과 정확한 쓰로인을 구사한 것으로 알려져 있다. 레이_클레멘스, 전 리버풀_FC 골키퍼는 묀헨글라트바흐와의 유러피언컵 경기 이후 본호프의 슈팅은 치명적이었다고 언급하였다. 1978년 봄, 클레멘스는 클럽경기와 국가대항전에서 본호프에게 두 차례 모두 거의 같은 위치에서 당하였다. 본호프의 골은 ARD_이달의_골로 3 차례 선정되었고, 이중 2골은 프리킥으로 한골은 30m 중거리포로 선정되었다. 1974년_7월_7일, 뮌헨의 올림피아스타디온에서 열린 1974년_FIFA_월드컵 결승전에서 홈팀 서독이 네덜란드를 2-1로 격파한 뒤, 본호프는 당시 독일_축구_국가대표팀 선수로는, 월드컵을 우승한 최연소 선수로 기록되었다. 본호프는 게르트_뮐러의 결승골을 어시스트하였다. 그는 월드컵 이후로도 수시로 국가대표팀 명단에 포함되었다. 그는 UEFA 유로 1976에 참가한 최고의 선수들 중 하나였고, 서독이 기록한 6골 중 4골을 준결승전과 결승전에서 어시스트하였다. 그는 1978년_FIFA_월드컵에서 매 경기 출전하였는데 서독은 2차 리그 최종전에서 숙적 오스트리아에게 2-3으로 패하였다. 그는 발렌시아로 이적한 이후에도 국가대표팀에서 중요한 선수로 활약하였다. 그의 발렌시아 이적과 울리_슈틸리케의 레알_마드리드 이적은 독일_축구_협회로 하여금 해외 활동 선수의 국가대표팀 차출 금지를 철회하게 하였다. 그는 UEFA_유로_1980의 예선전에 큰 힘을 보탰고 스쿼드에 포함되었으나, 부상은 그가 우승을 맛보지 못하게 하였다. 그가 출전한 마지막 국가대항전 경기는 1-4로 패한 브라질전이었고, 1. FC_쾰른에서의 1981-82 시즌 분데스리가에 훌륭한 활약을 했음에도 불구하고 국가대표팀에 차출되지 못하였다. 1983년_발목_부상을 당한 본호프는 은퇴를 선언하였다. 은퇴 이후 본호프는 이후에 코치가 되었다. 1988년 본호프는 정식 코칭 라이선스를 획득하였고, 이후로 여러 팀의 감독이 되었다. 1990년대말 본호프는 보루시아_묀헨글라트바흐의 감독이 되었으나, 팀의 분데스리가 강등을 막지 못하였다. 그는 2002년에 스코틀랜드_U-21_국가대표팀의 지휘봉을 잡아, 같은 시기에 스코틀랜드_국가대표팀 감독직을 맡은 베르티_포크츠를 따라갔다. 스코틀랜드_U-21팀은 본호프가 정식 감독을 맡은 첫 팀이었다. 본호프 취임 이후, 초기의 스코틀랜드_U-21_국가대표팀은 독일_U-21_국가대표팀을 꺾고 2004년 UEFA_U-21_챔피언쉽_플레이오프에 진출하며 성공을 거두었다. 스코틀랜드는 크로아티아_U-21_국가대표팀과의 플레이오프 합계에서 밀리며 탈락하였다. 본호프는 2004년_11월에 포크츠가 사임함에도 불구하고 연임하였으나, 2005년_11월에 14경기 무승을 기록하자 사임하였다. 그는 대런_플레처와 제임스_맥패든이 성인_국가대표팀에서 자리를 잡는데 도움을 주었다. 2006년_9월_1일, 본호프는 프리미어리그 챔피언 첼시_FC와 계약을 맺고 독일 / 오스트리아 지역의 스카우트가 되었다. 계약은 첼시와 본호프 양쪽 중 한쪽에서만 계약파기 의사를 표하면 종료시킬 수 있었다. 결국, 본호프의 첼시 계약은 늘어나는 적자로 인해 파기되었다. 2008년_10월_31일, 본호프는 런던을 떠났다. "
+}

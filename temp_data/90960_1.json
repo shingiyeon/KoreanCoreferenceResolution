@@ -1,0 +1,164 @@
+{
+	"docID": "90960",
+	"globalSID": "702879",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 42,
+			"ancestor": "-1",
+			"coref_index": 1093,
+			"surface": "이스라엘",
+			"entityName": "이스라엘"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 52,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 56,
+			"ancestor": "1-0",
+			"coref_index": 1093,
+			"surface": "이스라엘",
+			"entityName": "이스라엘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "EVENT",
+			"en": 9,
+			"ancestor": "-1",
+			"coref_index": 1094,
+			"surface": "제1차_중동_전쟁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "EVENT",
+			"en": 22,
+			"ancestor": "1-2",
+			"coref_index": 1094,
+			"surface": "아랍-이스라엘_전쟁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "EVENT",
+			"en": 35,
+			"ancestor": "1-2",
+			"coref_index": 1094,
+			"surface": "이스라엘_독립전쟁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "건국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "EVENT",
+			"en": 75,
+			"ancestor": "-1",
+			"coref_index": 1096,
+			"surface": "전쟁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "중동_분쟁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "시발점",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 64,
+			"ancestor": "-1",
+			"coref_index": 1095,
+			"surface": "아랍국",
+			"entityName": ""
+		}
+	],
+	"plainText": "제1차_중동_전쟁(, 아랍-이스라엘_전쟁 혹은 이스라엘_독립전쟁)은 이스라엘의 건국을 둘러싼 이스라엘과 주변 아랍국들 간에 벌어진 전쟁으로, 현대 중동_분쟁의 시발점이다."
+}

@@ -1,0 +1,97 @@
+{
+	"docID": "970374",
+	"globalSID": "3126276,3126277",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 48,
+			"ancestor": "",
+			"surface": "1873년",
+			"entityName": "1873년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 68,
+			"ancestor": "",
+			"surface": "1893년",
+			"entityName": "1893년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 125,
+			"ancestor": "-1",
+			"surface": "찰스_두들리_워너",
+			"entityName": "찰스_두들리_워너"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 37,
+			"ancestor": "",
+			"coref_index": 1174,
+			"surface": "1865년_남북_전쟁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 74,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 78,
+			"ancestor": "-1",
+			"coref_index": 1181,
+			"surface": "자본주의",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 108,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 114,
+			"ancestor": "-1",
+			"surface": "마크_트웨인",
+			"entityName": ""
+		}
+	],
+	"plainText": "도금 시대(鍍金 時代, Gilded Age)는 1865년_남북_전쟁이 끝나고 1873년에 시작되어, 불황이 오는 1893년까지 미국 자본주의가 급속하게 발전한 28년간의 시대를 말한다. 문학가 마크_트웨인과 찰스_두들리_워너가 쓴 동명의 소설 《도금 시대, 오늘날 이야기》(\"The Gilded Age: A Tale of Today\")에서 유래한다."
+}

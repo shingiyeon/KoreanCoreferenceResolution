@@ -1,0 +1,244 @@
+{
+	"docID": "95853",
+	"globalSID": "736124,736125,736126,736127,736128",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"coref_index": 1161,
+			"surface": "아돌프_히틀러",
+			"entityName": "아돌프_히틀러"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 36,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 41,
+			"ancestor": "2-0",
+			"coref_index": 1153,
+			"surface": "베어마흐트",
+			"entityName": "독일_국방군"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "1-1",
+			"coref_index": 1154,
+			"surface": "제2차_세계_대전",
+			"entityName": "제2차_세계_대전"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "-1",
+			"coref_index": 1157,
+			"surface": "연합군",
+			"entityName": "연합군"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 75,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 80,
+			"ancestor": "2-0",
+			"coref_index": 1153,
+			"surface": "베어마흐트",
+			"entityName": "독일_국방군"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 98,
+			"ancestor": "-1",
+			"surface": "서독",
+			"entityName": "서독"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 120,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 125,
+			"ancestor": "-1",
+			"coref_index": 1155,
+			"surface": "분데스베어",
+			"entityName": "독일_연방군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 243,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 246,
+			"ancestor": "-1",
+			"surface": "재통일",
+			"entityName": "독일_재통일"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 259,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 264,
+			"ancestor": "3-6",
+			"coref_index": 1155,
+			"surface": "분데스베어",
+			"entityName": "독일_연방군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "1935년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 182,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 194,
+			"ancestor": "-1",
+			"surface": "나티오날레_폴크스아르메",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 236,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 241,
+			"ancestor": "",
+			"surface": "1990년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 254,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 257,
+			"ancestor": "-1",
+			"coref_index": 1156,
+			"surface": "독일군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 176,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 179,
+			"ancestor": "-1",
+			"surface": "동독군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 151,
+			"ancestor": "3-6",
+			"coref_index": 1155,
+			"surface": "독일_연방군",
+			"entityName": ""
+		}
+	],
+	"plainText": "1935년, 아돌프_히틀러가 재무장을 선언하면서, 라이흐스베어는 베어마흐트로 개명되었다. 제2차_세계_대전 후 연합군의 독일점령 하에 베어마흐트는 폐지되었다. 1955년에 서독이 재무장을 시작했을때, 신설 서독군은 분데스베어 (Bundeswehr), 번역하면 독일_연방군으로 불렸다. 1956년에 공식적으로 창건된 동독군은 \"나티오날레_폴크스아르메\" (Nationale Volksarmee, 국가인민군)로 불렸다. 독일이 1990년에 재통일 후에 통합된 독일군도 분데스베어로 계속 불려 왔다."
+}

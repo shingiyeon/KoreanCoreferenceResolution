@@ -1,0 +1,70 @@
+{
+	"docID": "96540",
+	"globalSID": "741180,741181",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "1-1",
+			"coref_index": 1169,
+			"surface": "아파르_삼각지",
+			"entityName": "아파르_삼각지"
+		},
+		{
+			"kbox_types": [
+				"NaturalPlace",
+				"Place",
+				"MountainRange"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "에티오피아_고원",
+			"entityName": "에티오피아_고원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 13,
+			"ancestor": "1-3",
+			"coref_index": 1170,
+			"surface": "지구대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 30,
+			"ancestor": "1-5",
+			"coref_index": 1171,
+			"surface": "동아프리카_지구대",
+			"entityName": ""
+		}
+	],
+	"plainText": "아파르_삼각지에서 지구대는 시작된다. 동아프리카_지구대는 계속 남서쪽으로 연결되어 에티오피아_고원을 둘로 가른다."
+}

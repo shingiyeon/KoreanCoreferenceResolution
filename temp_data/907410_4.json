@@ -1,0 +1,407 @@
+{
+	"docID": "907410",
+	"globalSID": "3000979,3000980,3000981,3000982,3000983,3000984,3000985,3000986,3000987,3000988",
+	"pronouns": [
+		{
+			"st": 154,
+			"coref_index": 1086,
+			"id": 0,
+			"en": 155,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 187,
+			"coref_index": 1086,
+			"id": 1,
+			"en": 188,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 262,
+			"coref_index": 1086,
+			"id": 2,
+			"en": 263,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 286,
+			"st": 282,
+			"surface": "매 경기",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"st": 333,
+			"coref_index": 1086,
+			"id": 4,
+			"en": 334,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 374,
+			"coref_index": 1086,
+			"id": 5,
+			"en": 375,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 385,
+			"st": 374,
+			"surface": "그의 발렌시아 이적과",
+			"id": 6,
+			"ancestor": "-1"
+		},
+		{
+			"st": 454,
+			"coref_index": 1086,
+			"id": 7,
+			"en": 455,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 502,
+			"coref_index": 1086,
+			"id": 8,
+			"en": 503,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 522,
+			"coref_index": 1086,
+			"id": 9,
+			"en": 523,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"st": 17,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "올림피아스타디온",
+			"entityName": "뮌헨_올림픽_스타디움"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "1974년_FIFA_월드컵",
+			"entityName": "1974년_FIFA_월드컵"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "네덜란드",
+			"entityName": "네덜란드_축구_국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"FootballMatch",
+				"SoccerClub",
+				"Agent",
+				"Event",
+				"SocietalEvent",
+				"SportsTeam",
+				"Organisation",
+				"SportsEvent"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 96,
+			"ancestor": "-1",
+			"surface": "독일_축구_국가대표팀",
+			"entityName": "독일_축구_국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"st": 132,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 138,
+			"ancestor": "-1",
+			"surface": "게르트_뮐러",
+			"entityName": "게르트_뮐러"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 265,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 279,
+			"ancestor": "-1",
+			"surface": "1978년_FIFA_월드컵",
+			"entityName": "1978년_FIFA_월드컵"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 313,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 318,
+			"ancestor": "-1",
+			"surface": "오스트리아",
+			"entityName": "오스트리아_축구_국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 336,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 340,
+			"ancestor": "-1",
+			"coref_index": 1088,
+			"surface": "발렌시아",
+			"entityName": "발렌시아"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"st": 386,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 393,
+			"ancestor": "-1",
+			"surface": "울리_슈틸리케",
+			"entityName": "울리_슈틸리케"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 457,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 469,
+			"ancestor": "-1",
+			"surface": "UEFA_유로_1980",
+			"entityName": "UEFA_유로_1980"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 583,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 588,
+			"ancestor": "3-2",
+			"coref_index": 1087,
+			"surface": "분데스리가",
+			"entityName": "푸스발-분데스리가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 608,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 613,
+			"ancestor": "-1",
+			"surface": "국가대표팀",
+			"entityName": "국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"surface": "1974년_7월_7일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 80,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 377,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 381,
+			"ancestor": "4-7",
+			"coref_index": 1088,
+			"surface": "발렌시아",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 395,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 402,
+			"ancestor": "-1",
+			"surface": "레알_마드리드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 407,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 415,
+			"ancestor": "-1",
+			"surface": "독일_축구_협회",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 563,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"en": 568,
+			"ancestor": "-1",
+			"surface": "FC_쾰른",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 551,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "EVENT",
+			"en": 555,
+			"ancestor": "-1",
+			"surface": "브라질전",
+			"entityName": ""
+		}
+	],
+	"plainText": "1974년_7월_7일, 뮌헨의 올림피아스타디온에서 열린 1974년_FIFA_월드컵 결승전에서 홈팀 서독이 네덜란드를 2-1로 격파한 뒤, 본호프는 당시 독일_축구_국가대표팀 선수로는, 월드컵을 우승한 최연소 선수로 기록되었다. 본호프는 게르트_뮐러의 결승골을 어시스트하였다. 그는 월드컵 이후로도 수시로 국가대표팀 명단에 포함되었다. 그는 UEFA 유로 1976에 참가한 최고의 선수들 중 하나였고, 서독이 기록한 6골 중 4골을 준결승전과 결승전에서 어시스트하였다. 그는 1978년_FIFA_월드컵에서 매 경기 출전하였는데 서독은 2차 리그 최종전에서 숙적 오스트리아에게 2-3으로 패하였다. 그는 발렌시아로 이적한 이후에도 국가대표팀에서 중요한 선수로 활약하였다. 그의 발렌시아 이적과 울리_슈틸리케의 레알_마드리드 이적은 독일_축구_협회로 하여금 해외 활동 선수의 국가대표팀 차출 금지를 철회하게 하였다. 그는 UEFA_유로_1980의 예선전에 큰 힘을 보탰고 스쿼드에 포함되었으나, 부상은 그가 우승을 맛보지 못하게 하였다. 그가 출전한 마지막 국가대항전 경기는 1-4로 패한 브라질전이었고, 1. FC_쾰른에서의 1981-82 시즌 분데스리가에 훌륭한 활약을 했음에도 불구하고 국가대표팀에 차출되지 못하였다."
+}

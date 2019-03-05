@@ -1,0 +1,2844 @@
+{
+	"parID": "1",
+	"entities": [
+		{
+			"en_modified": 9,
+			"en_exchanged": 9,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 6,
+			"st": 6,
+			"entityName": "공화제",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 9,
+			"surface": "공화국",
+			"st_exchanged": 6,
+			"id": 0,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 61,
+			"en_exchanged": 61,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 47,
+			"st": 47,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 61,
+			"surface": "아프리카_서부에_있는_나라",
+			"st_exchanged": 47,
+			"id": 1,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 108,
+			"coref_index": 1121,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 104,
+			"st": 104,
+			"entityName": "아프리카",
+			"is_target": true,
+			"en_exchanged": 108,
+			"eType": "WIKILINK",
+			"en": 108,
+			"surface": "아프리카",
+			"predicted_coref_index": 1,
+			"st_exchanged": 104,
+			"id": 2,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			]
+		},
+		{
+			"en_modified": 133,
+			"en_exchanged": 133,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 130,
+			"st": 130,
+			"entityName": "카메룬",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 133,
+			"surface": "카메룬",
+			"st_exchanged": 130,
+			"id": 3,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 137,
+			"en_exchanged": 137,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 135,
+			"st": 135,
+			"entityName": "가봉",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 137,
+			"surface": "가봉",
+			"st_exchanged": 135,
+			"id": 4,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 156,
+			"coref_index": 1122,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 152,
+			"st": 152,
+			"entityName": "리오무니",
+			"is_target": true,
+			"en_exchanged": 156,
+			"eType": "WIKILINK",
+			"en": 156,
+			"surface": "리오무니",
+			"predicted_coref_index": 3,
+			"st_exchanged": 152,
+			"id": 5,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 175,
+			"coref_index": 1129,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 172,
+			"st": 172,
+			"entityName": "말라보",
+			"is_target": true,
+			"en_exchanged": 175,
+			"eType": "WIKILINK",
+			"en": 175,
+			"surface": "말라보",
+			"st_exchanged": 172,
+			"id": 6,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			]
+		},
+		{
+			"en_modified": 185,
+			"coref_index": 1126,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 180,
+			"st": 180,
+			"entityName": "비오코_섬",
+			"is_target": true,
+			"en_exchanged": 185,
+			"eType": "WIKILINK",
+			"en": 185,
+			"surface": "비오코_섬",
+			"predicted_coref_index": 6,
+			"st_exchanged": 180,
+			"id": 7,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 209,
+			"coref_index": 1124,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 204,
+			"st": 204,
+			"entityName": "안노본_섬",
+			"is_target": true,
+			"en_exchanged": 209,
+			"eType": "WIKILINK",
+			"en": 209,
+			"surface": "안노본_섬",
+			"predicted_coref_index": 5,
+			"st_exchanged": 204,
+			"id": 8,
+			"kbox_types": [
+				"Island",
+				"Place",
+				"PopulatedPlace"
+			]
+		},
+		{
+			"en_modified": 235,
+			"coref_index": 1128,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 232,
+			"st": 229,
+			"entityName": "스페인",
+			"is_target": true,
+			"en_exchanged": 233,
+			"eType": "WIKILINK",
+			"en": 232,
+			"surface": "스페인",
+			"predicted_coref_index": 9,
+			"st_exchanged": 230,
+			"id": 9,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 248,
+			"coref_index": 1121,
+			"ne_type": "LOCATION",
+			"ancestor": "1-2",
+			"st_modified": 244,
+			"st": 241,
+			"entityName": "아프리카",
+			"is_target": true,
+			"en_exchanged": 246,
+			"eType": "WIKILINK",
+			"en": 245,
+			"surface": "아프리카",
+			"predicted_coref_index": 1,
+			"st_exchanged": 242,
+			"id": 10,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			]
+		},
+		{
+			"en_modified": 263,
+			"en_exchanged": 261,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 259,
+			"st": 256,
+			"entityName": "서사하라",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 260,
+			"surface": "서사하라",
+			"st_exchanged": 257,
+			"id": 11,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 280,
+			"coref_index": 1132,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 276,
+			"st": 273,
+			"entityName": "스페인어",
+			"is_target": true,
+			"en_exchanged": 278,
+			"eType": "WIKILINK",
+			"en": 277,
+			"surface": "스페인어",
+			"st_exchanged": 274,
+			"id": 12,
+			"kbox_types": [
+				"Language"
+			]
+		},
+		{
+			"en_modified": 316,
+			"coref_index": 1122,
+			"ne_type": "ETC",
+			"ancestor": "1-5",
+			"st_modified": 312,
+			"st": 309,
+			"entityName": "리오무니",
+			"is_target": true,
+			"en_exchanged": 314,
+			"eType": "WIKILINK",
+			"en": 313,
+			"surface": "리오무니",
+			"predicted_coref_index": 3,
+			"st_exchanged": 310,
+			"id": 13,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 356,
+			"en_exchanged": 354,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 354,
+			"st": 351,
+			"entityName": "기니",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 353,
+			"surface": "기니",
+			"st_exchanged": 352,
+			"id": 14,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 363,
+			"en_exchanged": 361,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 358,
+			"st": 355,
+			"entityName": "기니비사우",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 360,
+			"surface": "기니비사우",
+			"st_exchanged": 356,
+			"id": 15,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 369,
+			"coref_index": 1123,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 367,
+			"st": 364,
+			"entityName": "적도",
+			"is_target": true,
+			"en_exchanged": 367,
+			"eType": "WIKILINK",
+			"en": 366,
+			"surface": "적도",
+			"predicted_coref_index": 4,
+			"st_exchanged": 365,
+			"id": 16,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 377,
+			"coref_index": 1123,
+			"ne_type": "ETC",
+			"ancestor": "1-16",
+			"st_modified": 375,
+			"st": 372,
+			"entityName": "적도",
+			"is_target": true,
+			"en_exchanged": 375,
+			"eType": "WIKILINK",
+			"en": 374,
+			"surface": "적도",
+			"predicted_coref_index": 4,
+			"st_exchanged": 373,
+			"id": 17,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 402,
+			"coref_index": 1124,
+			"ne_type": "LOCATION",
+			"ancestor": "1-8",
+			"st_modified": 397,
+			"st": 394,
+			"entityName": "안노본_섬",
+			"is_target": true,
+			"en_exchanged": 400,
+			"eType": "WIKILINK",
+			"en": 399,
+			"surface": "안노본_섬",
+			"predicted_coref_index": 5,
+			"st_exchanged": 395,
+			"id": 18,
+			"kbox_types": [
+				"Island",
+				"Place",
+				"PopulatedPlace"
+			]
+		},
+		{
+			"en_modified": 102,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 97,
+			"st": 97,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 102,
+			"eType": "NEW",
+			"en": 102,
+			"surface": "적도_기니",
+			"predicted_coref_index": 2,
+			"st_exchanged": 97,
+			"id": 19,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 303,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "1-19",
+			"st_modified": 298,
+			"st": 295,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 301,
+			"eType": "NEW",
+			"en": 300,
+			"surface": "적도_기니",
+			"predicted_coref_index": 2,
+			"st_exchanged": 296,
+			"id": 20,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 338,
+			"en_exchanged": 336,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 322,
+			"st": 319,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 335,
+			"surface": "북위_1°_~_2°10′20″",
+			"st_exchanged": 320,
+			"id": 21,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 417,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "1-19",
+			"st_modified": 412,
+			"st": 409,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 415,
+			"eType": "NEW",
+			"en": 414,
+			"surface": "적도_기니",
+			"predicted_coref_index": 2,
+			"st_exchanged": 410,
+			"id": 22,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 474,
+			"en_exchanged": 472,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 472,
+			"st": 469,
+			"entityName": "인도",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 471,
+			"surface": "인도",
+			"st_exchanged": 470,
+			"id": 23,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 491,
+			"coref_index": 1127,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 487,
+			"st": 484,
+			"entityName": "포르투갈",
+			"is_target": true,
+			"en_exchanged": 489,
+			"eType": "WIKILINK",
+			"en": 488,
+			"surface": "포르투갈",
+			"predicted_coref_index": 8,
+			"st_exchanged": 485,
+			"id": 24,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 504,
+			"coref_index": 1137,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 497,
+			"st": 494,
+			"entityName": "페르낭_두_포",
+			"is_target": true,
+			"en_exchanged": 502,
+			"eType": "WIKILINK",
+			"en": 501,
+			"surface": "페르낭_두_포",
+			"st_exchanged": 495,
+			"id": 25,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 525,
+			"en_exchanged": 523,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 520,
+			"st": 517,
+			"entityName": "1472년",
+			"is_target": false,
+			"eType": "WIKILINK",
+			"en": 522,
+			"surface": "1472년",
+			"st_exchanged": 518,
+			"id": 26,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			]
+		},
+		{
+			"en_modified": 531,
+			"coref_index": 1126,
+			"ne_type": "LOCATION",
+			"ancestor": "1-7",
+			"st_modified": 526,
+			"st": 523,
+			"entityName": "비오코_섬",
+			"is_target": true,
+			"en_exchanged": 529,
+			"eType": "WIKILINK",
+			"en": 528,
+			"surface": "비오코_섬",
+			"predicted_coref_index": 6,
+			"st_exchanged": 524,
+			"id": 27,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 563,
+			"en_exchanged": 561,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 559,
+			"st": 556,
+			"entityName": "포르모자",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 560,
+			"surface": "포르모사",
+			"predicted_coref_index": 7,
+			"st_exchanged": 557,
+			"id": 28,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 648,
+			"en_exchanged": 648,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 643,
+			"st": 640,
+			"entityName": "1474년",
+			"is_target": false,
+			"eType": "WIKILINK",
+			"en": 645,
+			"surface": "1474년",
+			"st_exchanged": 643,
+			"id": 29,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			]
+		},
+		{
+			"en_modified": 653,
+			"coref_index": 1127,
+			"ne_type": "LOCATION",
+			"ancestor": "1-24",
+			"st_modified": 649,
+			"st": 646,
+			"entityName": "포르투갈",
+			"is_target": true,
+			"en_exchanged": 653,
+			"eType": "WIKILINK",
+			"en": 650,
+			"surface": "포르투갈",
+			"predicted_coref_index": 8,
+			"st_exchanged": 649,
+			"id": 30,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 672,
+			"en_exchanged": 672,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 667,
+			"st": 664,
+			"entityName": "1778년",
+			"is_target": false,
+			"eType": "WIKILINK",
+			"en": 669,
+			"surface": "1778년",
+			"st_exchanged": 667,
+			"id": 31,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			]
+		},
+		{
+			"en_modified": 689,
+			"en_exchanged": 689,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 684,
+			"st": 681,
+			"entityName": "니제르_강",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 686,
+			"surface": "니제르_강",
+			"st_exchanged": 684,
+			"id": 32,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 696,
+			"en_exchanged": 696,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 691,
+			"st": 688,
+			"entityName": "오고에_강",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 693,
+			"surface": "오고에_강",
+			"st_exchanged": 691,
+			"id": 33,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 720,
+			"en_exchanged": 720,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 712,
+			"st": 709,
+			"entityName": "엘_파르도_조약",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 717,
+			"surface": "엘_파르도_조약",
+			"st_exchanged": 712,
+			"id": 34,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 728,
+			"coref_index": 1128,
+			"ne_type": "LOCATION",
+			"ancestor": "1-9",
+			"st_modified": 725,
+			"st": 722,
+			"entityName": "스페인",
+			"is_target": true,
+			"en_exchanged": 728,
+			"eType": "WIKILINK",
+			"en": 725,
+			"surface": "스페인",
+			"predicted_coref_index": 9,
+			"st_exchanged": 725,
+			"id": 35,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 481,
+			"en_exchanged": 479,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 479,
+			"st": 476,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 478,
+			"surface": "경로",
+			"st_exchanged": 477,
+			"id": 36,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 471,
+			"en_exchanged": 469,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 469,
+			"st": 466,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 468,
+			"surface": "역사",
+			"st_exchanged": 467,
+			"id": 37,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 496,
+			"en_exchanged": 494,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 493,
+			"st": 490,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 493,
+			"surface": "탐험가",
+			"st_exchanged": 491,
+			"id": 38,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 539,
+			"en_exchanged": 537,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 537,
+			"st": 534,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 536,
+			"surface": "발견",
+			"st_exchanged": 535,
+			"id": 39,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 552,
+			"en_exchanged": 550,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 548,
+			"st": 545,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 549,
+			"surface": "아름다움",
+			"st_exchanged": 546,
+			"id": 40,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 589,
+			"en_exchanged": 589,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 587,
+			"st": 584,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 586,
+			"surface": "유럽",
+			"st_exchanged": 587,
+			"id": 41,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 594,
+			"en_exchanged": 594,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 591,
+			"st": 588,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 591,
+			"surface": "발견자",
+			"st_exchanged": 591,
+			"id": 42,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 598,
+			"en_exchanged": 598,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 596,
+			"st": 593,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 595,
+			"surface": "이름",
+			"st_exchanged": 596,
+			"id": 43,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 641,
+			"coref_index": 1124,
+			"ne_type": "LOCATION",
+			"ancestor": "1-8",
+			"st_modified": 627,
+			"st": 624,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 641,
+			"eType": "NEW",
+			"en": 638,
+			"surface": "안노본(Annob?n)_섬",
+			"st_exchanged": 627,
+			"id": 44,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 658,
+			"en_exchanged": 658,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 655,
+			"st": 652,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 655,
+			"surface": "식민지",
+			"st_exchanged": 655,
+			"id": 45,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 662,
+			"en_exchanged": 662,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 660,
+			"st": 657,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 659,
+			"surface": "개척",
+			"st_exchanged": 660,
+			"id": 46,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 681,
+			"en_exchanged": 681,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 677,
+			"st": 674,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 678,
+			"surface": "작은_섬",
+			"st_exchanged": 677,
+			"id": 47,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 733,
+			"en_exchanged": 733,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 731,
+			"st": 728,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 730,
+			"surface": "양도",
+			"st_exchanged": 731,
+			"id": 48,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 710,
+			"en_exchanged": 710,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 704,
+			"st": 701,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 707,
+			"surface": "상업적_권리",
+			"st_exchanged": 704,
+			"id": 49,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 612,
+			"coref_index": 1130,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 606,
+			"st": 603,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 612,
+			"eType": "NEW",
+			"en": 609,
+			"surface": "페르난도_포",
+			"predicted_coref_index": 10,
+			"st_exchanged": 606,
+			"id": 50,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 755,
+			"coref_index": 1121,
+			"ne_type": "LOCATION",
+			"ancestor": "1-2",
+			"st_modified": 751,
+			"st": 745,
+			"entityName": "아프리카",
+			"is_target": true,
+			"en_exchanged": 760,
+			"eType": "ELU",
+			"en": 749,
+			"surface": "아프리카",
+			"predicted_coref_index": 1,
+			"st_exchanged": 756,
+			"id": 51,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			]
+		},
+		{
+			"en_modified": 760,
+			"coref_index": 1128,
+			"ne_type": "LOCATION",
+			"ancestor": "1-9",
+			"st_modified": 757,
+			"st": 751,
+			"entityName": "스페인",
+			"is_target": true,
+			"en_exchanged": 765,
+			"eType": "WIKILINK",
+			"en": 754,
+			"surface": "스페인",
+			"predicted_coref_index": 9,
+			"st_exchanged": 762,
+			"id": 52,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 750,
+			"en_exchanged": 755,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 741,
+			"st": 735,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 744,
+			"surface": "1968년_10월",
+			"st_exchanged": 746,
+			"id": 53,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 811,
+			"coref_index": 1122,
+			"ne_type": "ETC",
+			"ancestor": "1-5",
+			"st_modified": 807,
+			"st": 801,
+			"entityName": "리오무니",
+			"is_target": true,
+			"en_exchanged": 816,
+			"eType": "WIKILINK",
+			"en": 805,
+			"surface": "리오무니",
+			"predicted_coref_index": 3,
+			"st_exchanged": 812,
+			"id": 54,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 850,
+			"coref_index": 1126,
+			"ne_type": "LOCATION",
+			"ancestor": "1-27",
+			"st_modified": 845,
+			"st": 839,
+			"entityName": "비오코_섬",
+			"is_target": true,
+			"en_exchanged": 855,
+			"eType": "WIKILINK",
+			"en": 844,
+			"surface": "비오코_섬",
+			"predicted_coref_index": 6,
+			"st_exchanged": 850,
+			"id": 55,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 911,
+			"en_exchanged": 916,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 909,
+			"st": 903,
+			"entityName": "수도",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 905,
+			"surface": "수도",
+			"st_exchanged": 914,
+			"id": 56,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 916,
+			"coref_index": 1129,
+			"ne_type": "LOCATION",
+			"ancestor": "1-6",
+			"st_modified": 913,
+			"st": 907,
+			"entityName": "말라보",
+			"is_target": true,
+			"en_exchanged": 921,
+			"eType": "WIKILINK",
+			"en": 910,
+			"surface": "말라보",
+			"st_exchanged": 918,
+			"id": 57,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			]
+		},
+		{
+			"en_modified": 933,
+			"coref_index": 1126,
+			"ne_type": "LOCATION",
+			"ancestor": "1-27",
+			"st_modified": 928,
+			"st": 922,
+			"entityName": "비오코_섬",
+			"is_target": true,
+			"en_exchanged": 938,
+			"eType": "WIKILINK",
+			"en": 927,
+			"surface": "비오코_섬",
+			"predicted_coref_index": 6,
+			"st_exchanged": 933,
+			"id": 58,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 999,
+			"coref_index": 1124,
+			"ne_type": "LOCATION",
+			"ancestor": "1-8",
+			"st_modified": 994,
+			"st": 988,
+			"entityName": "안노본_섬",
+			"is_target": true,
+			"en_exchanged": 1004,
+			"eType": "WIKILINK",
+			"en": 993,
+			"surface": "안노본_섬",
+			"st_exchanged": 999,
+			"id": 59,
+			"kbox_types": [
+				"Island",
+				"Place",
+				"PopulatedPlace"
+			]
+		},
+		{
+			"en_modified": 783,
+			"en_exchanged": 788,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 781,
+			"st": 775,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 777,
+			"surface": "지리",
+			"st_exchanged": 786,
+			"id": 60,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 789,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "1-19",
+			"st_modified": 784,
+			"st": 778,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 794,
+			"eType": "NEW",
+			"en": 783,
+			"surface": "적도_기니",
+			"predicted_coref_index": 11,
+			"st_exchanged": 789,
+			"id": 61,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 801,
+			"coref_index": 1121,
+			"ne_type": "LOCATION",
+			"ancestor": "1-2",
+			"st_modified": 794,
+			"st": 788,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 806,
+			"eType": "NEW",
+			"en": 795,
+			"surface": "아프리카_대륙",
+			"predicted_coref_index": 1,
+			"st_exchanged": 799,
+			"id": 62,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 832,
+			"en_exchanged": 837,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 822,
+			"st": 816,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 826,
+			"surface": "26,017_km²",
+			"st_exchanged": 827,
+			"id": 63,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 840,
+			"en_exchanged": 845,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 837,
+			"st": 831,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 834,
+			"surface": "북서쪽",
+			"st_exchanged": 842,
+			"id": 64,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 867,
+			"en_exchanged": 872,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 858,
+			"st": 852,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 861,
+			"surface": "2,017_km²",
+			"st_exchanged": 863,
+			"id": 65,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 856,
+			"coref_index": 1126,
+			"ne_type": "LOCATION",
+			"ancestor": "1-55",
+			"st_modified": 851,
+			"st": 845,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 861,
+			"eType": "NEW",
+			"en": 850,
+			"surface": "Bioko",
+			"st_exchanged": 856,
+			"id": 66,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 893,
+			"en_exchanged": 898,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 887,
+			"st": 881,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 887,
+			"surface": "156_km",
+			"st_exchanged": 892,
+			"id": 67,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 925,
+			"en_exchanged": 930,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 917,
+			"st": 911,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 919,
+			"surface": "북위_3°45′",
+			"st_exchanged": 922,
+			"id": 68,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 937,
+			"en_exchanged": 942,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 935,
+			"st": 929,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 931,
+			"surface": "북부",
+			"st_exchanged": 940,
+			"id": 69,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 958,
+			"en_exchanged": 963,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 951,
+			"st": 945,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 952,
+			"surface": "리오무니_해안",
+			"st_exchanged": 956,
+			"id": 70,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 964,
+			"en_exchanged": 969,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 961,
+			"st": 955,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 958,
+			"surface": "남서쪽",
+			"st_exchanged": 966,
+			"id": 71,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 973,
+			"en_exchanged": 978,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 967,
+			"st": 961,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 967,
+			"surface": "500_km",
+			"st_exchanged": 972,
+			"id": 72,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 992,
+			"en_exchanged": 997,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 986,
+			"st": 980,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 986,
+			"surface": "17_km²",
+			"st_exchanged": 991,
+			"id": 73,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1017,
+			"en_exchanged": 1022,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1009,
+			"st": 1003,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1011,
+			"surface": "남위_1°25′",
+			"st_exchanged": 1014,
+			"id": 74,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 984,
+			"en_exchanged": 989,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 982,
+			"st": 976,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 978,
+			"surface": "면적",
+			"st_exchanged": 987,
+			"id": 75,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1073,
+			"coref_index": 1122,
+			"ne_type": "ETC",
+			"ancestor": "1-5",
+			"st_modified": 1069,
+			"st": 1063,
+			"entityName": "리오무니",
+			"is_target": true,
+			"en_exchanged": 1078,
+			"eType": "WIKILINK",
+			"en": 1067,
+			"surface": "리오무니",
+			"predicted_coref_index": 3,
+			"st_exchanged": 1074,
+			"id": 76,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1096,
+			"coref_index": 1126,
+			"ne_type": "LOCATION",
+			"ancestor": "1-27",
+			"st_modified": 1091,
+			"st": 1085,
+			"entityName": "비오코_섬",
+			"is_target": true,
+			"en_exchanged": 1101,
+			"eType": "WIKILINK",
+			"en": 1090,
+			"surface": "비오코_섬",
+			"predicted_coref_index": 6,
+			"st_exchanged": 1096,
+			"id": 77,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 1194,
+			"coref_index": 1129,
+			"ne_type": "LOCATION",
+			"ancestor": "1-6",
+			"st_modified": 1191,
+			"st": 1185,
+			"entityName": "말라보",
+			"is_target": true,
+			"en_exchanged": 1199,
+			"eType": "ELU",
+			"en": 1188,
+			"surface": "말라보",
+			"st_exchanged": 1196,
+			"id": 78,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			]
+		},
+		{
+			"en_modified": 1222,
+			"en_exchanged": 1227,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1219,
+			"st": 1213,
+			"entityName": "오얄라",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1216,
+			"surface": "오얄라",
+			"st_exchanged": 1224,
+			"id": 79,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			]
+		},
+		{
+			"en_modified": 1035,
+			"en_exchanged": 1040,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1031,
+			"st": 1025,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1029,
+			"surface": "원주민어",
+			"st_exchanged": 1036,
+			"id": 80,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1039,
+			"coref_index": 1133,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1037,
+			"st": 1031,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1044,
+			"eType": "NEW",
+			"en": 1033,
+			"surface": "팡어",
+			"predicted_coref_index": 13,
+			"st_exchanged": 1042,
+			"id": 81,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1051,
+			"coref_index": 1122,
+			"ne_type": "ETC",
+			"ancestor": "1-5",
+			"st_modified": 1041,
+			"st": 1035,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1056,
+			"eType": "NEW",
+			"en": 1045,
+			"surface": "음비니(Mbini)",
+			"st_exchanged": 1046,
+			"id": 82,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1066,
+			"en_exchanged": 1071,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1058,
+			"st": 1052,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1060,
+			"surface": "2012년_헌법",
+			"st_exchanged": 1063,
+			"id": 83,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1103,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "1-19",
+			"st_modified": 1098,
+			"st": 1092,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1108,
+			"eType": "NEW",
+			"en": 1097,
+			"surface": "적도_기니",
+			"st_exchanged": 1103,
+			"id": 84,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1115,
+			"en_exchanged": 1120,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1111,
+			"st": 1105,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1109,
+			"surface": "7.2%",
+			"st_exchanged": 1116,
+			"id": 85,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1126,
+			"en_exchanged": 1131,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 1124,
+			"st": 1118,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1120,
+			"surface": "인구",
+			"st_exchanged": 1129,
+			"id": 86,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1133,
+			"en_exchanged": 1138,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1128,
+			"st": 1122,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1127,
+			"surface": "27.4%",
+			"st_exchanged": 1133,
+			"id": 87,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1152,
+			"en_exchanged": 1157,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1147,
+			"st": 1141,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1146,
+			"surface": "경제_격차",
+			"st_exchanged": 1152,
+			"id": 88,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1167,
+			"en_exchanged": 1172,
+			"ne_type": "PERSON",
+			"ancestor": "-1",
+			"st_modified": 1162,
+			"st": 1156,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1161,
+			"surface": "25만_명",
+			"st_exchanged": 1167,
+			"id": 89,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1176,
+			"en_exchanged": 1181,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1169,
+			"st": 1163,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1170,
+			"surface": "제1도시_바타",
+			"st_exchanged": 1174,
+			"id": 90,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1181,
+			"coref_index": 1122,
+			"ne_type": "LOCATION",
+			"ancestor": "1-5",
+			"st_modified": 1178,
+			"st": 1172,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1186,
+			"eType": "NEW",
+			"en": 1175,
+			"surface": "대륙부",
+			"st_exchanged": 1183,
+			"id": 91,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1205,
+			"en_exchanged": 1210,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1200,
+			"st": 1194,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1199,
+			"surface": "미래_수도",
+			"st_exchanged": 1205,
+			"id": 92,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1213,
+			"en_exchanged": 1218,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1207,
+			"st": 1201,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1207,
+			"surface": "대륙부_중앙",
+			"st_exchanged": 1212,
+			"id": 93,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1233,
+			"en_exchanged": 1238,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1231,
+			"st": 1225,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1227,
+			"surface": "건설",
+			"st_exchanged": 1236,
+			"id": 94,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1245,
+			"en_exchanged": 1250,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1240,
+			"st": 1234,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1239,
+			"surface": "행정_구역",
+			"st_exchanged": 1245,
+			"id": 95,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1251,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "1-19",
+			"st_modified": 1246,
+			"is_target": true,
+			"entityName": "",
+			"st": 1240,
+			"en_exchanged": 1256,
+			"eType": "NEW",
+			"en": 1245,
+			"surface": "적도_기니",
+			"predicted_coref_index": 11,
+			"st_exchanged": 1251,
+			"id": 96,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1282,
+			"coref_index": 1130,
+			"ne_type": "LOCATION",
+			"ancestor": "1-50",
+			"st_modified": 1275,
+			"st": 1269,
+			"entityName": "비오코_섬",
+			"is_target": true,
+			"en_exchanged": 1287,
+			"eType": "ELU",
+			"en": 1276,
+			"surface": "페르난도포_섬",
+			"st_exchanged": 1280,
+			"id": 97,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 1303,
+			"coref_index": 1126,
+			"ne_type": "LOCATION",
+			"ancestor": "1-7",
+			"st_modified": 1298,
+			"st": 1292,
+			"entityName": "비오코_섬",
+			"is_target": true,
+			"en_exchanged": 1308,
+			"eType": "ELU",
+			"en": 1297,
+			"surface": "비오코_섬",
+			"predicted_coref_index": 6,
+			"st_exchanged": 1303,
+			"id": 98,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 1311,
+			"en_exchanged": 1316,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1308,
+			"st": 1302,
+			"entityName": "무인도",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 1305,
+			"surface": "무인도",
+			"st_exchanged": 1313,
+			"id": 99,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1369,
+			"en_exchanged": 1374,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1364,
+			"st": 1358,
+			"entityName": "시에라리온",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 1363,
+			"surface": "시에라리온",
+			"predicted_coref_index": 12,
+			"st_exchanged": 1369,
+			"id": 100,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 1377,
+			"en_exchanged": 1382,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1372,
+			"st": 1366,
+			"entityName": "라이베리아",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 1371,
+			"surface": "라이베리아",
+			"predicted_coref_index": 12,
+			"st_exchanged": 1377,
+			"id": 101,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 1287,
+			"en_exchanged": 1292,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1284,
+			"st": 1278,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1281,
+			"surface": "부비족",
+			"st_exchanged": 1289,
+			"id": 102,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1292,
+			"en_exchanged": 1297,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1289,
+			"st": 1283,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1286,
+			"surface": "이보족",
+			"st_exchanged": 1294,
+			"id": 103,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1329,
+			"coref_index": 1131,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1326,
+			"st": 1320,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1334,
+			"eType": "NEW",
+			"en": 1323,
+			"surface": "부비인",
+			"st_exchanged": 1331,
+			"id": 104,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1347,
+			"coref_index": 1131,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-104",
+			"st_modified": 1344,
+			"st": 1338,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1352,
+			"eType": "NEW",
+			"en": 1341,
+			"surface": "부비인",
+			"st_exchanged": 1349,
+			"id": 105,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1357,
+			"en_exchanged": 1362,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1352,
+			"st": 1346,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1351,
+			"surface": "페르디난도",
+			"st_exchanged": 1357,
+			"id": 106,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1404,
+			"en_exchanged": 1409,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1401,
+			"st": 1395,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1398,
+			"surface": "대륙부",
+			"st_exchanged": 1406,
+			"id": 107,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1413,
+			"en_exchanged": 1418,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1411,
+			"st": 1405,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1407,
+			"surface": "팡인",
+			"st_exchanged": 1416,
+			"id": 108,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1430,
+			"coref_index": 1132,
+			"ne_type": "ETC",
+			"ancestor": "1-12",
+			"st_modified": 1426,
+			"st": 1420,
+			"entityName": "스페인어",
+			"is_target": true,
+			"en_exchanged": 1435,
+			"eType": "WIKILINK",
+			"en": 1424,
+			"surface": "스페인어",
+			"st_exchanged": 1431,
+			"id": 109,
+			"kbox_types": [
+				"Language"
+			]
+		},
+		{
+			"en_modified": 1436,
+			"en_exchanged": 1441,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1432,
+			"st": 1426,
+			"entityName": "프랑스어",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1430,
+			"surface": "프랑스어",
+			"st_exchanged": 1437,
+			"id": 110,
+			"kbox_types": [
+				"Language"
+			]
+		},
+		{
+			"en_modified": 1487,
+			"en_exchanged": 1492,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1482,
+			"st": 1476,
+			"entityName": "피진_영어",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1481,
+			"surface": "피진_영어",
+			"st_exchanged": 1487,
+			"id": 111,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1491,
+			"coref_index": 1133,
+			"ne_type": "ETC",
+			"ancestor": "1-81",
+			"st_modified": 1489,
+			"st": 1483,
+			"entityName": "팡어",
+			"is_target": true,
+			"en_exchanged": 1496,
+			"eType": "WIKILINK",
+			"en": 1485,
+			"surface": "팡어",
+			"predicted_coref_index": 13,
+			"st_exchanged": 1494,
+			"id": 112,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1496,
+			"en_exchanged": 1501,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1493,
+			"st": 1487,
+			"entityName": "부비어",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1490,
+			"surface": "부비어",
+			"st_exchanged": 1498,
+			"id": 113,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1501,
+			"en_exchanged": 1506,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1498,
+			"st": 1492,
+			"entityName": "이보어",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1495,
+			"surface": "이보어",
+			"st_exchanged": 1503,
+			"id": 114,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1508,
+			"coref_index": 1135,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1503,
+			"st": 1497,
+			"entityName": "포르투갈어",
+			"is_target": true,
+			"en_exchanged": 1513,
+			"eType": "WIKILINK",
+			"en": 1502,
+			"surface": "포르투갈어",
+			"predicted_coref_index": 15,
+			"st_exchanged": 1508,
+			"id": 115,
+			"kbox_types": [
+				"Language"
+			]
+		},
+		{
+			"en_modified": 1541,
+			"en_exchanged": 1546,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1538,
+			"st": 1532,
+			"entityName": "홈페이지",
+			"is_target": true,
+			"eType": "ELU",
+			"en": 1535,
+			"surface": "누리집",
+			"st_exchanged": 1543,
+			"id": 116,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1449,
+			"en_exchanged": 1454,
+			"ne_type": "TIME",
+			"ancestor": "",
+			"st_modified": 1437,
+			"st": 1431,
+			"entityName": "",
+			"is_target": false,
+			"eType": "NEW",
+			"en": 1443,
+			"surface": "1998년_1월_21일",
+			"st_exchanged": 1442,
+			"id": 117,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1530,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "1-22",
+			"st_modified": 1526,
+			"st": 1520,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1535,
+			"eType": "NEW",
+			"en": 1524,
+			"surface": "적도기니",
+			"predicted_coref_index": 2,
+			"st_exchanged": 1531,
+			"id": 118,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1455,
+			"en_exchanged": 1460,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1450,
+			"st": 1444,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1449,
+			"surface": "헌법_4조",
+			"st_exchanged": 1455,
+			"id": 119,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1634,
+			"coref_index": 1136,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1619,
+			"st": 1613,
+			"entityName": "국제_이베리아-아메리카_기구",
+			"is_target": true,
+			"en_exchanged": 1639,
+			"eType": "WIKILINK",
+			"en": 1628,
+			"surface": "국제_이베리아-아메리카_기구",
+			"st_exchanged": 1624,
+			"id": 120,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1669,
+			"en_exchanged": 1674,
+			"ne_type": "LOCATION",
+			"ancestor": "-1",
+			"st_modified": 1664,
+			"st": 1658,
+			"entityName": "프랑코포니",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1663,
+			"surface": "프랑코포니",
+			"st_exchanged": 1669,
+			"id": 121,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"en_modified": 1699,
+			"coref_index": 1134,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1686,
+			"st": 1677,
+			"entityName": "포르투갈어_사용국_공동체",
+			"is_target": true,
+			"en_exchanged": 1709,
+			"eType": "WIKILINK",
+			"en": 1690,
+			"surface": "포르투갈어_사용국_공동체",
+			"predicted_coref_index": 14,
+			"st_exchanged": 1696,
+			"id": 122,
+			"kbox_types": [
+				"Country",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 1742,
+			"coref_index": 1134,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-122",
+			"st_modified": 1729,
+			"st": 1717,
+			"entityName": "포르투갈어_사용국_공동체",
+			"is_target": true,
+			"en_exchanged": 1757,
+			"eType": "WIKILINK",
+			"en": 1730,
+			"surface": "포르투갈어_사용국_공동체",
+			"predicted_coref_index": 14,
+			"st_exchanged": 1744,
+			"id": 123,
+			"kbox_types": [
+				"Country",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace",
+				"Organisation"
+			]
+		},
+		{
+			"en_modified": 1764,
+			"en_exchanged": 1779,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1756,
+			"st": 1744,
+			"entityName": "2007년_7월",
+			"is_target": true,
+			"eType": "WIKILINK",
+			"en": 1752,
+			"surface": "2007년_7월",
+			"st_exchanged": 1771,
+			"id": 124,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1771,
+			"coref_index": 1135,
+			"ne_type": "ETC",
+			"ancestor": "1-115",
+			"st_modified": 1766,
+			"st": 1754,
+			"entityName": "포르투갈어",
+			"is_target": true,
+			"en_exchanged": 1786,
+			"eType": "WIKILINK",
+			"en": 1759,
+			"surface": "포르투갈어",
+			"predicted_coref_index": 15,
+			"st_exchanged": 1781,
+			"id": 125,
+			"kbox_types": [
+				"Language"
+			]
+		},
+		{
+			"en_modified": 1617,
+			"coref_index": 1125,
+			"ne_type": "LOCATION",
+			"ancestor": "1-19",
+			"st_modified": 1613,
+			"st": 1607,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1622,
+			"eType": "NEW",
+			"en": 1611,
+			"surface": "적도기니",
+			"predicted_coref_index": 2,
+			"st_exchanged": 1618,
+			"id": 126,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1645,
+			"en_exchanged": 1650,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1641,
+			"st": 1635,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1639,
+			"surface": "정회원국",
+			"st_exchanged": 1646,
+			"id": 127,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1663,
+			"en_exchanged": 1668,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1649,
+			"st": 1643,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1657,
+			"surface": "국제_프랑스어_사용국_기구",
+			"st_exchanged": 1654,
+			"id": 128,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1638,
+			"coref_index": 1136,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-120",
+			"st_modified": 1635,
+			"st": 1629,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1643,
+			"eType": "NEW",
+			"en": 1632,
+			"surface": "OIE",
+			"st_exchanged": 1640,
+			"id": 129,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1704,
+			"coref_index": 1134,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "1-122",
+			"st_modified": 1700,
+			"st": 1691,
+			"entityName": "",
+			"is_target": true,
+			"en_exchanged": 1714,
+			"eType": "NEW",
+			"en": 1695,
+			"surface": "CPLP",
+			"st_exchanged": 1710,
+			"id": 130,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1710,
+			"en_exchanged": 1720,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1707,
+			"st": 1698,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1701,
+			"surface": "참관국",
+			"st_exchanged": 1717,
+			"id": 131,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1747,
+			"en_exchanged": 1762,
+			"ne_type": "ORGANIZATION",
+			"ancestor": "-1",
+			"st_modified": 1744,
+			"st": 1732,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1735,
+			"surface": "정회원",
+			"st_exchanged": 1759,
+			"id": 132,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1782,
+			"en_exchanged": 1797,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1779,
+			"st": 1767,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1770,
+			"surface": "공용어",
+			"st_exchanged": 1794,
+			"id": 133,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en_modified": 1777,
+			"en_exchanged": 1792,
+			"ne_type": "ETC",
+			"ancestor": "-1",
+			"st_modified": 1773,
+			"st": 1761,
+			"entityName": "",
+			"is_target": true,
+			"eType": "NEW",
+			"en": 1765,
+			"surface": "세_번째",
+			"st_exchanged": 1788,
+			"id": 134,
+			"kbox_types": [
+				"NULL"
+			]
+		}
+	],
+	"pronoun_candidate": [
+		{
+			"en": 542,
+			"st_exchanged": 542,
+			"text": "그",
+			"en_exchanged": 543,
+			"st_modified": 544,
+			"is_pronoun": true,
+			"en_modified": 545,
+			"st": 541
+		},
+		{
+			"en": 582,
+			"st_exchanged": 581,
+			"predicted_coref_index": 7,
+			"text": "그곳",
+			"entityName": "포르모자",
+			"en_exchanged": 585,
+			"st_modified": 583,
+			"is_pronoun": true,
+			"en_modified": 585,
+			"st": 580,
+			"eType": "ELU"
+		},
+		{
+			"en": 591,
+			"st_exchanged": 581,
+			"text": "그곳의 유럽인 발견자",
+			"en_exchanged": 592,
+			"st_modified": 583,
+			"is_pronoun": true,
+			"en_modified": 594,
+			"st": 580
+		},
+		{
+			"en": 595,
+			"st_exchanged": 581,
+			"text": "그곳의 유럽인 발견자의 이름",
+			"en_exchanged": 596,
+			"st_modified": 583,
+			"is_pronoun": true,
+			"en_modified": 598,
+			"st": 580
+		},
+		{
+			"en": 832,
+			"st_exchanged": 840,
+			"text": "그 북",
+			"en_exchanged": 843,
+			"st_modified": 835,
+			"is_pronoun": true,
+			"en_modified": 838,
+			"st": 829
+		},
+		{
+			"en": 862,
+			"st_exchanged": 840,
+			"text": "그 북서쪽에 있는 비오코_섬(Bioko, 2,017_km²)",
+			"en_exchanged": 873,
+			"st_modified": 835,
+			"is_pronoun": true,
+			"en_modified": 868,
+			"st": 829
+		},
+		{
+			"en": 1474,
+			"st_exchanged": 1481,
+			"text": "그 외에",
+			"en_exchanged": 1485,
+			"st_modified": 1476,
+			"is_pronoun": true,
+			"en_modified": 1480,
+			"st": 1470
+		}
+	],
+	"docID": "9181",
+	"ZA_candidate": [
+		{
+			"isTarget": false,
+			"surface": "그",
+			"en_exchanged": 227,
+			"st_exchanged": 226,
+			"id": 0,
+			"st_modified": 226,
+			"en_modified": 227
+		},
+		{
+			"surface": "그",
+			"en_exchanged": 744,
+			"predicted_coref_index": 10,
+			"entityName": "페르난도_포",
+			"id": 0,
+			"st_modified": 738,
+			"st_exchanged": 738,
+			"en_modified": 739,
+			"eType": "NEW"
+		},
+		{
+			"surface": "그",
+			"en_exchanged": 1691,
+			"predicted_coref_index": 10,
+			"entityName": "페르난도_포",
+			"id": 0,
+			"st_modified": 1680,
+			"st_exchanged": 1685,
+			"en_modified": 1681,
+			"eType": "NEW"
+		},
+		{
+			"surface": "그",
+			"en_exchanged": 1730,
+			"predicted_coref_index": 10,
+			"entityName": "페르난도_포",
+			"id": 0,
+			"st_modified": 1714,
+			"st_exchanged": 1724,
+			"en_modified": 1715,
+			"eType": "NEW"
+		}
+	],
+	"PronounExchangedText": "적도 기니 공화국(赤道 기니 共和國, , , ), 약칭 적도 기니(赤道 기니, )는 아프리카_서부에_있는_나라로 인구는 약 120만 명이며, 면적은 28,051 km²이다. 적도_기니는 아프리카에서 가장 작은 나라 중 하나로, 크게 카메룬과 가봉 사이에 있는 대륙 부분인 리오무니(R?o Muni)와 수도인 말라보가 있는 비오코_섬(Bioko), 그리고 작은 섬인 안노본_섬(Annob?n)으로 나뉜다.  과거 스페인의 식민지였고, 아프리카에서 (분쟁 지역인 서사하라를 제외하고) 유일하게 스페인어를 공용어로 사용하는 나라이다. 적도_기니의 대륙 영토인 리오무니는 대체로 북위_1°_~_2°10′20″ 사이에 위치하고 있지만, (기니나 기니비사우보다) 적도에 가깝고 적도의 북쪽 뿐만 아니라 남쪽에도 영토(안노본_섬)가 있기 때문에 적도_기니(Equatorial Guinea)라고 한다. 최근에는 유전의 개발로 경제가 성장하고 있다. 역사 인도에 가는 경로를 찾던, 포르투갈의 탐험가 페르낭_두_포(Fern?o do P?)가 1472년 비오코_섬을 최초로 발견하였다. 그는 “아름다움”을 뜻하는 포르모사(Formosa)로 불렀지만, 이내 포르모자의 유럽인 발견자의 이름을 따라간다. 페르난도_포(Fernando P?)와 안노본(Annob?n)_섬은 1474년 포르투갈이 식민지로 개척하였다. 1778년 근접한 작은_섬들과 니제르_강과 오고에_강 사이 본토의 상업적_권리가 엘_파르도_조약에 따라 스페인에게 양도되었다. 페르난도_포는 1968년_10월 아프리카의 스페인 식민지 중에서 제일 먼저 독립했다. 지리 적도_기니는 크게 아프리카_대륙에 위치한 리오무니(R?o Muni, 26,017_km²)와 그 북서쪽에 있는 비오코_섬(Bioko, 2,017_km²)으로 구성되어 있으며, 두 지역은 156_km 떨어져 있다. 적도 기니의 수도인 말라보(북위_3°45′)는 비오코_섬의 북부에 위치하고 있다. 또, 리오무니_해안에서 남서쪽으로 500_km 떨어진 곳에는 면적이 17_km²인 안노본_섬(Annob?n, 남위_1°25′)이 있다. 대륙 부분은 원주민어인 팡어로 음비니(Mbini)라고 하며, 2012년_헌법에는 리오무니(R?o Muni)로 명명했다. 비오코_섬은 적도_기니 전체 면적의 7.2%에 불과하지만, 인구는 27.4%에 이르며, 지역에 따른 경제_격차가 크다. 인구가 25만_명인 제1도시_바타는 대륙부에 있다. 한편, 말라보를 대체할 미래_수도가 대륙부_중앙에 위치한 오얄라(Oyala)에 건설되고 있다. 행정_구역 적도_기니는 7개 주로 구성되어 있다. 사람과 언어 페르난도포_섬에 부비족과 이보족이 있고, 비오코_섬은 원래 무인도로 알려져 있으며, 현재는 부비인이 다수를 차지하고 있다. 부비인 외에는 페르디난도라고 불리는 시에라리온 및 라이베리아에서 온 해방 노예 출신이 거주한다. 반면 대륙부(음비니)는 팡인이 다수이다. 공식어는 스페인어와 프랑스어(1998년_1월_21일 헌법_4조를 개정하여 추가)를 공용어로 쓴다. 그 외에도 피진_영어, 팡어, 부비어, 이보어, 포르투갈어도 사용된다. 공식어에 관해서는 적도기니의 공식 정부 누리집에서 ‘인구’ 항목에서 찾을 수 있다.[http://espanol.guinea-equatorial.com/people.asp]. 적도기니는 국제_이베리아-아메리카_기구(OIE)의 정회원국이자, 국제_프랑스어_사용국_기구(프랑코포니)의 정회원국이다. 페르난도_포는 또한 포르투갈어_사용국_공동체(CPLP)의 참관국이다. 페르난도_포는 특히 경제적인 이유로 포르투갈어_사용국_공동체의 정회원이 되기 위하여 2007년_7월에 포르투갈어를 세_번째의 공용어로 지정했다.[http://www.guinea-ecuatorial.net/ms/main.asp?cd=ni5393]. ",
+	"pronouns": [
+		{
+			"en": 542,
+			"surface": "그",
+			"coref_index": 1137,
+			"ancestor": "1-25",
+			"id": 0,
+			"st_modified": 544,
+			"en_modified": 545,
+			"st": 541
+		},
+		{
+			"en": 582,
+			"surface": "그곳",
+			"coref_index": 1126,
+			"ancestor": "1-27",
+			"id": 1,
+			"st_modified": 583,
+			"en_modified": 585,
+			"st": 580
+		},
+		{
+			"en": 591,
+			"surface": "그곳의 유럽인 발견자",
+			"coref_index": 1137,
+			"ancestor": "1-25",
+			"id": 2,
+			"st_modified": 583,
+			"en_modified": 594,
+			"st": 580
+		},
+		{
+			"en": 595,
+			"surface": "그곳의 유럽인 발견자의 이름",
+			"coref_index": 1137,
+			"ancestor": "1-25",
+			"id": 3,
+			"st_modified": 583,
+			"en_modified": 598,
+			"st": 580
+		},
+		{
+			"en": 835,
+			"surface": "그 북서쪽에",
+			"ancestor": "-1",
+			"id": 4,
+			"st_modified": 835,
+			"en_modified": 841,
+			"st": 829
+		},
+		{
+			"en": 864,
+			"surface": "그 북서쪽에 있는 비오코_섬(Bioko, 2,017_km²)으로",
+			"ancestor": "-1",
+			"id": 5,
+			"st_modified": 835,
+			"en_modified": 870,
+			"st": 829
+		},
+		{
+			"en": 1475,
+			"surface": "그 외에도",
+			"ancestor": "-1",
+			"id": 6,
+			"st_modified": 1476,
+			"en_modified": 1481,
+			"st": 1470
+		}
+	],
+	"globalSID": "139673,139674,139675,139676,139677,139678,139679,139680,139681,139682,139683,139684,139685,139686,139687,139688,139689,139690,139691,139692,139693,139694,139695,139696,139697,139698,139699,139700,139701,139702,139703",
+	"ModifiedText": "적도 기니 공화국(赤道 기니 共和國, , , ), 약칭 적도 기니(赤道 기니, )는 아프리카 서부에 있는 나라로 인구는 약 120만 명이며, 면적은 28,051 km²이다. 적도 기니는 아프리카에서 가장 작은 나라 중 하나로, 크게 카메룬과 가봉 사이에 있는 대륙 부분인 리오무니(R?o Muni)와 수도인 말라보가 있는 비오코 섬(Bioko), 그리고 작은 섬인 안노본 섬(Annob?n)으로 나뉜다. 그는 과거 스페인의 식민지였고, 아프리카에서 (분쟁 지역인 서사하라를 제외하고) 유일하게 스페인어를 공용어로 사용하는 나라이다. 적도 기니의 대륙 영토인 리오무니는 대체로 북위 1° ~ 2°10′20″ 사이에 위치하고 있지만, (기니나 기니비사우보다) 적도에 가깝고 적도의 북쪽 뿐만 아니라 남쪽에도 영토(안노본 섬)가 있기 때문에 적도 기니(Equatorial Guinea)라고 한다. 최근에는 유전의 개발로 경제가 성장하고 있다. 역사 인도에 가는 경로를 찾던, 포르투갈의 탐험가 페르낭 두 포(Fern?o do P?)가 1472년 비오코 섬을 최초로 발견하였다. 그는 “아름다움”을 뜻하는 포르모사(Formosa)로 불렀지만, 이내 그곳의 유럽인 발견자의 이름을 따라간다. 페르난도 포(Fernando P?)와 안노본(Annob?n) 섬은 1474년 포르투갈이 식민지로 개척하였다. 1778년 근접한 작은 섬들과 니제르 강과 오고에 강 사이 본토의 상업적 권리가 엘 파르도 조약에 따라 스페인에게 양도되었다. 그는 1968년 10월 아프리카의 스페인 식민지 중에서 제일 먼저 독립했다. 지리 적도 기니는 크게 아프리카 대륙에 위치한 리오무니(R?o Muni, 26,017 km²)와 그 북서쪽에 있는 비오코 섬(Bioko, 2,017 km²)으로 구성되어 있으며, 두 지역은 156 km 떨어져 있다. 적도 기니의 수도인 말라보(북위 3°45′)는 비오코 섬의 북부에 위치하고 있다. 또, 리오무니 해안에서 남서쪽으로 500 km 떨어진 곳에는 면적이 17 km²인 안노본 섬(Annob?n, 남위 1°25′)이 있다. 대륙 부분은 원주민어인 팡어로 음비니(Mbini)라고 하며, 2012년 헌법에는 리오무니(R?o Muni)로 명명했다. 비오코 섬은 적도 기니 전체 면적의 7.2%에 불과하지만, 인구는 27.4%에 이르며, 지역에 따른 경제 격차가 크다. 인구가 25만 명인 제1도시 바타는 대륙부에 있다. 한편, 말라보를 대체할 미래 수도가 대륙부 중앙에 위치한 오얄라(Oyala)에 건설되고 있다. 행정 구역 적도 기니는 7개 주로 구성되어 있다. 사람과 언어 페르난도포 섬에 부비족과 이보족이 있고, 비오코 섬은 원래 무인도로 알려져 있으며, 현재는 부비인이 다수를 차지하고 있다. 부비인 외에는 페르디난도라고 불리는 시에라리온 및 라이베리아에서 온 해방 노예 출신이 거주한다. 반면 대륙부(음비니)는 팡인이 다수이다. 공식어는 스페인어와 프랑스어(1998년 1월 21일 헌법 4조를 개정하여 추가)를 공용어로 쓴다. 그 외에도 피진 영어, 팡어, 부비어, 이보어, 포르투갈어도 사용된다. 공식어에 관해서는 적도기니의 공식 정부 누리집에서 ‘인구’ 항목에서 찾을 수 있다.[http://espanol.guinea-equatorial.com/people.asp]. 적도기니는 국제 이베리아-아메리카 기구(OIE)의 정회원국이자, 국제 프랑스어 사용국 기구(프랑코포니)의 정회원국이다. 그는 또한 포르투갈어 사용국 공동체(CPLP)의 참관국이다. 그는 특히 경제적인 이유로 포르투갈어 사용국 공동체의 정회원이 되기 위하여 2007년 7월에 포르투갈어를 세 번째의 공용어로 지정했다.[http://www.guinea-ecuatorial.net/ms/main.asp?cd=ni5393]. ",
+	"plainText": "적도 기니 공화국(赤道 기니 共和國, , , ), 약칭 적도 기니(赤道 기니, )는 아프리카_서부에_있는_나라로 인구는 약 120만 명이며, 면적은 28,051 km²이다. 적도_기니는 아프리카에서 가장 작은 나라 중 하나로, 크게 카메룬과 가봉 사이에 있는 대륙 부분인 리오무니(R?o Muni)와 수도인 말라보가 있는 비오코_섬(Bioko), 그리고 작은 섬인 안노본_섬(Annob?n)으로 나뉜다. 과거 스페인의 식민지였고, 아프리카에서 (분쟁 지역인 서사하라를 제외하고) 유일하게 스페인어를 공용어로 사용하는 나라이다. 적도_기니의 대륙 영토인 리오무니는 대체로 북위_1°_~_2°10′20″ 사이에 위치하고 있지만, (기니나 기니비사우보다) 적도에 가깝고 적도의 북쪽 뿐만 아니라 남쪽에도 영토(안노본_섬)가 있기 때문에 적도_기니(Equatorial Guinea)라고 한다. 최근에는 유전의 개발로 경제가 성장하고 있다. 역사 인도에 가는 경로를 찾던, 포르투갈의 탐험가 페르낭_두_포(Fern?o do P?)가 1472년 비오코_섬을 최초로 발견하였다. 그는 “아름다움”을 뜻하는 포르모사(Formosa)로 불렀지만, 이내 그곳의 유럽인 발견자의 이름을 따라간다. 페르난도_포(Fernando P?)와 안노본(Annob?n)_섬은 1474년 포르투갈이 식민지로 개척하였다. 1778년 근접한 작은_섬들과 니제르_강과 오고에_강 사이 본토의 상업적_권리가 엘_파르도_조약에 따라 스페인에게 양도되었다. 1968년_10월 아프리카의 스페인 식민지 중에서 제일 먼저 독립했다. 지리 적도_기니는 크게 아프리카_대륙에 위치한 리오무니(R?o Muni, 26,017_km²)와 그 북서쪽에 있는 비오코_섬(Bioko, 2,017_km²)으로 구성되어 있으며, 두 지역은 156_km 떨어져 있다. 적도 기니의 수도인 말라보(북위_3°45′)는 비오코_섬의 북부에 위치하고 있다. 또, 리오무니_해안에서 남서쪽으로 500_km 떨어진 곳에는 면적이 17_km²인 안노본_섬(Annob?n, 남위_1°25′)이 있다. 대륙 부분은 원주민어인 팡어로 음비니(Mbini)라고 하며, 2012년_헌법에는 리오무니(R?o Muni)로 명명했다. 비오코_섬은 적도_기니 전체 면적의 7.2%에 불과하지만, 인구는 27.4%에 이르며, 지역에 따른 경제_격차가 크다. 인구가 25만_명인 제1도시_바타는 대륙부에 있다. 한편, 말라보를 대체할 미래_수도가 대륙부_중앙에 위치한 오얄라(Oyala)에 건설되고 있다. 행정_구역 적도_기니는 7개 주로 구성되어 있다. 사람과 언어 페르난도포_섬에 부비족과 이보족이 있고, 비오코_섬은 원래 무인도로 알려져 있으며, 현재는 부비인이 다수를 차지하고 있다. 부비인 외에는 페르디난도라고 불리는 시에라리온 및 라이베리아에서 온 해방 노예 출신이 거주한다. 반면 대륙부(음비니)는 팡인이 다수이다. 공식어는 스페인어와 프랑스어(1998년_1월_21일 헌법_4조를 개정하여 추가)를 공용어로 쓴다. 그 외에도 피진_영어, 팡어, 부비어, 이보어, 포르투갈어도 사용된다. 공식어에 관해서는 적도기니의 공식 정부 누리집에서 ‘인구’ 항목에서 찾을 수 있다.[http://espanol.guinea-equatorial.com/people.asp]. 적도기니는 국제_이베리아-아메리카_기구(OIE)의 정회원국이자, 국제_프랑스어_사용국_기구(프랑코포니)의 정회원국이다. 또한 포르투갈어_사용국_공동체(CPLP)의 참관국이다. 특히 경제적인 이유로 포르투갈어_사용국_공동체의 정회원이 되기 위하여 2007년_7월에 포르투갈어를 세_번째의 공용어로 지정했다.[http://www.guinea-ecuatorial.net/ms/main.asp?cd=ni5393]. "
+}

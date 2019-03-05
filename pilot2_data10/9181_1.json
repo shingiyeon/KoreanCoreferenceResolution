@@ -1,0 +1,37 @@
+{
+	"docID": "9181",
+	"globalSID": "139673",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "공화국",
+			"entityName": "공화제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 61,
+			"ancestor": "-1",
+			"surface": "아프리카_서부에_있는_나라",
+			"entityName": ""
+		}
+	],
+	"plainText": "적도 기니 공화국(赤道 기니 共和國, , , ), 약칭 적도 기니(赤道 기니, )는 아프리카_서부에_있는_나라로 인구는 약 120만 명이며, 면적은 28,051 km²이다."
+}

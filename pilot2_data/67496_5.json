@@ -1,0 +1,143 @@
+{
+	"docID": "67496",
+	"globalSID": "555219,555220,555221",
+	"pronouns": [
+		{
+			"en": 2,
+			"st": 0,
+			"surface": "그의",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 6,
+			"st": 0,
+			"surface": "그의 문집은",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 53,
+			"st": 51,
+			"surface": "그가",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 149,
+			"st": 147,
+			"surface": "그의",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 155,
+			"st": 147,
+			"surface": "그의 작품이라는",
+			"id": 4,
+			"ancestor": "-1"
+		},
+		{
+			"en": 159,
+			"st": 147,
+			"surface": "그의 작품이라는 기록을",
+			"id": 5,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "-1",
+			"surface": "조선_왕조",
+			"entityName": "조선_왕조"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 75,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "이필진",
+			"entityName": "이필진"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Work",
+				"Book"
+			],
+			"st": 97,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 101,
+			"ancestor": "2-1",
+			"coref_index": 787,
+			"surface": "홍길동전",
+			"entityName": "홍길동전"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "성소부부고",
+			"entityName": "성소부부고"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Work",
+				"Book"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 124,
+			"ancestor": "5-2",
+			"coref_index": 787,
+			"surface": "홍길동전",
+			"entityName": "홍길동전"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 142,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "유몽인",
+			"entityName": "유몽인"
+		}
+	],
+	"plainText": "그의 문집은 시류에 맞지 않는다는 이유로 조선_왕조 치하에서 모두 인멸(湮滅)될 뻔하였으나 그가 죽음을 예상하고 당시 소년이던 외손자 이필진에게 전해줘서 후대에 전래되었다. 홍길동전과 성소부부고 등을 남겼다. 특히 홍길동전은 무명으로 발표하였으나 나중에 유몽인이 그의 작품이라는 기록을 남겨 알려지게 되었다."
+}

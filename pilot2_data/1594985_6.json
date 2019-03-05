@@ -1,0 +1,26 @@
+{
+	"docID": "1594985",
+	"globalSID": "3814761",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "짐나스틱",
+			"entityName": "짐나스틱_데_타라고나"
+		}
+	],
+	"plainText": "2015년 7월 짐나스틱으로 이적하며 스페인 무대로 복귀하였고,2015-16 시즌 39경기에 출전하여 9골을 기록하였다."
+}

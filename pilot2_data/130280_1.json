@@ -1,0 +1,122 @@
+{
+	"docID": "130280",
+	"globalSID": "942309,942310,942311",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "-1",
+			"coref_index": 157,
+			"surface": "마테야_케주만",
+			"entityName": "마테야_케주만"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "유고슬라비아_사회주의_연방공화국",
+			"entityName": "유고슬라비아_사회주의_연방공화국"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 44,
+			"ancestor": "-1",
+			"surface": "제문",
+			"entityName": "제문_(베오그라드)"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 54,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "세르비아",
+			"entityName": "세르비아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "공격수",
+			"entityName": "공격수"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 115,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 123,
+			"ancestor": "-1",
+			"surface": "스포츠_에이전트",
+			"entityName": "스포츠_에이전트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 22,
+			"ancestor": "",
+			"surface": "1979년_4월_12일",
+			"entityName": ""
+		}
+	],
+	"plainText": "마테야_케주만(, 1979년_4월_12일, 유고슬라비아_사회주의_연방공화국 제문 ~ )은 은퇴한 세르비아의 축구 선수이다. 포지션은 공격수였으며, 최전방에서 골을 넣는 스트라이커의 역할을 수행했다. 현재는 스포츠_에이전트로 활동 중이다."
+}

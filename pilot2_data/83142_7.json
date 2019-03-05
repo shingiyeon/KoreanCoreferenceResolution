@@ -1,0 +1,369 @@
+{
+	"docID": "83142",
+	"globalSID": "655191,655192,655193,655194,655195,655196,655197",
+	"pronouns": [
+		{
+			"st": 69,
+			"coref_index": 1009,
+			"id": 0,
+			"en": 70,
+			"ancestor": "7-1",
+			"surface": "그"
+		},
+		{
+			"st": 113,
+			"coref_index": 1009,
+			"id": 1,
+			"en": 114,
+			"ancestor": "7-4",
+			"surface": "나"
+		},
+		{
+			"st": 113,
+			"coref_index": 1004,
+			"id": 2,
+			"en": 118,
+			"ancestor": "1-9",
+			"surface": "나의 신앙"
+		},
+		{
+			"st": 164,
+			"coref_index": 1009,
+			"id": 3,
+			"en": 165,
+			"ancestor": "7-4",
+			"surface": "나"
+		},
+		{
+			"st": 164,
+			"coref_index": 1004,
+			"id": 4,
+			"en": 169,
+			"ancestor": "1-9",
+			"surface": "나의 신앙"
+		},
+		{
+			"st": 204,
+			"coref_index": 1009,
+			"id": 5,
+			"en": 205,
+			"ancestor": "7-4",
+			"surface": "그"
+		},
+		{
+			"en": 309,
+			"ancestor": "-1",
+			"surface": "그 관습",
+			"id": 6,
+			"st": 305
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "한국교회",
+			"entityName": "한국의_로마_가톨릭교회"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 10,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 17,
+			"ancestor": "1-0",
+			"coref_index": 1009,
+			"surface": "우치무라_간조",
+			"entityName": "우치무라_간조"
+		},
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 21,
+			"ancestor": "4-4",
+			"coref_index": 1011,
+			"surface": "신학",
+			"entityName": "신학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "-1",
+			"coref_index": 1014,
+			"surface": "무교회주의",
+			"entityName": "무교회주의"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 51,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 58,
+			"ancestor": "7-1",
+			"coref_index": 1009,
+			"surface": "우치무라_간조",
+			"entityName": "우치무라_간조"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "복음주의자",
+			"entityName": "복음주의자"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Work",
+				"Book"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"coref_index": 1016,
+			"surface": "성경",
+			"entityName": "성경"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 79,
+			"ancestor": "1-6",
+			"coref_index": 1012,
+			"surface": "하나님",
+			"entityName": "하나님"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 127,
+			"ancestor": "7-7",
+			"coref_index": 1012,
+			"surface": "예수_그리스도",
+			"entityName": "예수_그리스도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"coref_index": 1013,
+			"surface": "십자가",
+			"entityName": "십자가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 189,
+			"ancestor": "7-8",
+			"coref_index": 1012,
+			"surface": "그리스도",
+			"entityName": "그리스도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 191,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 194,
+			"ancestor": "7-9",
+			"coref_index": 1013,
+			"surface": "십자가",
+			"entityName": "십자가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 207,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 212,
+			"ancestor": "7-3",
+			"coref_index": 1014,
+			"surface": "무교회주의",
+			"entityName": "무교회주의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 222,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 225,
+			"ancestor": "1-9",
+			"coref_index": 1004,
+			"surface": "기독교",
+			"entityName": "기독교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 239,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 241,
+			"ancestor": "3-3",
+			"coref_index": 1015,
+			"surface": "교회",
+			"entityName": "교회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 253,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 255,
+			"ancestor": "7-6",
+			"coref_index": 1016,
+			"surface": "성서",
+			"entityName": "성서"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 270,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 277,
+			"ancestor": "7-1",
+			"coref_index": 1009,
+			"surface": "우치무라_간조",
+			"entityName": "우치무라_간조"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 280,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 283,
+			"ancestor": "7-13",
+			"coref_index": 1004,
+			"surface": "기독교",
+			"entityName": "기독교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 296,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 298,
+			"ancestor": "7-15",
+			"coref_index": 1016,
+			"surface": "성서",
+			"entityName": "성서"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 301,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 303,
+			"ancestor": "7-14",
+			"coref_index": 1015,
+			"surface": "교회",
+			"entityName": "교회"
+		}
+	],
+	"plainText": "신학 한국교회에서 우치무라_간조의 신학은 무교회주의라고 해서 불온시되기도 하였다. 하지만, 우치무라_간조는 복음주의자였다. 그는 성경이 하나님의 영감으로 기록된 하나님의 말씀임을 믿는다고 고백하였으며,\"나의 신앙은 예수_그리스도의 십자가 보혈로 말미암아 얻은 구원에 대한 감사일뿐이다. 그러니 나의 신앙은 낡았고 구식이다\"이라면서 그리스도의 십자가만을 강조하였다. 그가 무교회주의를 주장한 이유도 기독교 신앙의 근거는 가시적인 교회 즉, 예배당이 아닌 성서뿐이라고 보았기 때문이다. 우치무라_간조는 \"기독교 신앙의 유일한 근거는 성서뿐, 교회와 그 관습은 기독교를 담아내는 껍데기\"라고 하였다."
+}

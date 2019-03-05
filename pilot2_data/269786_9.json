@@ -1,0 +1,132 @@
+{
+	"docID": "269786",
+	"globalSID": "1525526,1525527,1525528,1525529",
+	"pronouns": [
+		{
+			"en": 66,
+			"st": 45,
+			"surface": "개막전 안산에 3-0 대패를 당한 것을",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 71,
+			"st": 45,
+			"surface": "개막전 안산에 3-0 대패를 당한 것을 시작으로",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 20,
+			"ancestor": "8-12",
+			"coref_index": 383,
+			"surface": "아르투르",
+			"entityName": "아르투르_베르나르지스"
+		},
+		{
+			"kbox_types": [
+				"FootballMatch",
+				"SportsTeamSeason",
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "2014_시즌",
+			"entityName": "K리그_챌린지_2014"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 51,
+			"ancestor": "-1",
+			"surface": "안산",
+			"entityName": "안산_경찰청_축구단"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 193,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 197,
+			"ancestor": "9-0",
+			"coref_index": 383,
+			"surface": "아르투르",
+			"entityName": "아르투르_베르나르지스"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 212,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 215,
+			"ancestor": "-1",
+			"surface": "박효진",
+			"entityName": "박효진_(축구인)"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 266,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 271,
+			"ancestor": "6-2",
+			"coref_index": 384,
+			"surface": "광주_FC",
+			"entityName": "광주_FC"
+		}
+	],
+	"plainText": "2부 리그에서의 첫 시즌이자 아르투르 감독 체제에서의 첫 시즌인 2014_시즌, 개막전 안산에 3-0 대패를 당한 것을 시작으로 8라운드까지는 부진을 면치 못하였다. 하지만 이후 반등을 시작하여 플레이오프 진출권 주변인 3위에서 5위 사이를 넘나들었다. 2014년 9월, 구단은 훈련과 선수단 관리 방식을 두고 선수단과 마찰을 겪은 것을 이유로 아르투르 감독을 경질하고 후임으로 박효진 코치를 감독 대행으로 선임하였다. 이후 최종 순위 3위로 승격 플레이오프에 진출하였으나, 광주_FC에 패하여 승격은 좌절되었다."
+}

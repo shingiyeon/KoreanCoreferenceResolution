@@ -1,0 +1,194 @@
+{
+	"docID": "557163",
+	"globalSID": "2300727,2300728,2300729,2300730,2300731",
+	"pronouns": [
+		{
+			"en": 3,
+			"ancestor": "-1",
+			"surface": "그 후",
+			"id": 0,
+			"st": 0
+		},
+		{
+			"st": 89,
+			"coref_index": 708,
+			"id": 1,
+			"en": 91,
+			"ancestor": "3-23",
+			"surface": "자신"
+		},
+		{
+			"st": 84,
+			"coref_index": 719,
+			"id": 2,
+			"en": 101,
+			"ancestor": "2-7",
+			"surface": "온건파인 자신의 아버지 문 장군"
+		},
+		{
+			"st": 104,
+			"coref_index": 708,
+			"id": 3,
+			"en": 106,
+			"ancestor": "3-13",
+			"surface": "자신"
+		},
+		{
+			"st": 104,
+			"coref_index": 706,
+			"id": 4,
+			"en": 110,
+			"ancestor": "2-17",
+			"surface": "자신의 정체"
+		},
+		{
+			"en": 125,
+			"ancestor": "-1",
+			"surface": "이에",
+			"id": 5,
+			"st": 123
+		},
+		{
+			"st": 152,
+			"coref_index": 708,
+			"id": 6,
+			"en": 154,
+			"ancestor": "3-13",
+			"surface": "자신"
+		},
+		{
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "자신의 계획대로",
+			"id": 7,
+			"st": 152
+		},
+		{
+			"en": 196,
+			"ancestor": "-1",
+			"surface": "이를",
+			"id": 8,
+			"st": 194
+		},
+		{
+			"en": 205,
+			"ancestor": "-1",
+			"surface": "이를 막으려는 작전을",
+			"id": 9,
+			"st": 194
+		},
+		{
+			"en": 296,
+			"ancestor": "-1",
+			"surface": "여기서",
+			"id": 10,
+			"st": 293
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 18,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 29,
+			"ancestor": "2-15",
+			"coref_index": 713,
+			"surface": "조선민주주의인민공화국",
+			"entityName": "조선민주주의인민공화국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 165,
+			"ancestor": "3-7",
+			"coref_index": 712,
+			"surface": "이카루스",
+			"entityName": "이카로스"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 224,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 228,
+			"ancestor": "3-8",
+			"coref_index": 716,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 251,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 262,
+			"ancestor": "4-0",
+			"coref_index": 713,
+			"surface": "조선민주주의인민공화국",
+			"entityName": "조선민주주의인민공화국"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"st": 323,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 326,
+			"ancestor": "3-11",
+			"coref_index": 710,
+			"surface": "미란다",
+			"entityName": "디_그레이맨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 333,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 337,
+			"ancestor": "4-1",
+			"coref_index": 712,
+			"surface": "이카루스",
+			"entityName": "이카로스"
+		}
+	],
+	"plainText": "그 후 구스타프와 미란다 일당은 조선민주주의인민공화국으로 돌아가고 조선민주주의인민공화국 내부에서는 온건파와 강경파 간의 대립이 있게 된다. 구스타프는 온건파인 자신의 아버지 문 장군에게 자신의 정체를 밝히고, 문 장군이 이에 반발하자 문 장군을 죽인다. 그리고 구스타프는 자신의 계획대로 이카루스를 띄우려 하고, 정보를 파악한 미국과 영국 당국도 이를 막으려는 작전을 수행하려 한다. 본드와 징크스도 대한민국으로 들어가 미군기지에서 임무를 지시받고 조선민주주의인민공화국으로 잠입하여, 구스타프 일당이 탄 비행기에 올라탄다. 여기서 본드와 징크스는 숨막히는 격전 끝에 구스타프와 미란다를 처치하고 이카루스의 작동을 멈추는 데 성공하게 된다."
+}

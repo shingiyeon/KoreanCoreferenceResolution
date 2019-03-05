@@ -1,0 +1,949 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 21,
+			"eType": "WIKILINK",
+			"entityName": "음력_11월_3일",
+			"en": 30,
+			"is_target": true,
+			"surface": "음력_11월_3일",
+			"coref_index": 784,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 48,
+			"eType": "WIKILINK",
+			"entityName": "음력_8월_24일",
+			"en": 57,
+			"is_target": true,
+			"surface": "음력_8월_24일",
+			"coref_index": 785,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 61,
+			"eType": "WIKILINK",
+			"entityName": "조선",
+			"en": 63,
+			"is_target": true,
+			"surface": "조선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 7,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 20,
+			"is_target": false,
+			"surface": "1569년_12월_10일",
+			"coref_index": 784,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 34,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 47,
+			"is_target": false,
+			"surface": "1618년_10월_12일",
+			"coref_index": 785,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 94,
+			"eType": "WIKILINK",
+			"entityName": "서자",
+			"en": 96,
+			"is_target": true,
+			"surface": "서자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Work",
+				"Book"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 125,
+			"eType": "WIKILINK",
+			"entityName": "홍길동전",
+			"en": 129,
+			"is_target": true,
+			"surface": "홍길동전",
+			"coref_index": 787,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 135,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 137,
+			"is_target": true,
+			"surface": "작품",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 159,
+			"eType": "WIKILINK",
+			"en": 161,
+			"entityName": "양천_허씨",
+			"is_target": true,
+			"surface": "양천",
+			"coref_index": 791,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 166,
+			"eType": "NEW",
+			"en": 168,
+			"entityName": "",
+			"is_target": true,
+			"surface": "단보",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 177,
+			"eType": "NEW",
+			"en": 179,
+			"entityName": "",
+			"is_target": true,
+			"surface": "교산",
+			"coref_index": 786,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 187,
+			"eType": "NEW",
+			"en": 189,
+			"entityName": "",
+			"is_target": true,
+			"surface": "학산",
+			"coref_index": 786,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 240,
+			"eType": "WIKILINK",
+			"en": 245,
+			"entityName": "1594년",
+			"is_target": false,
+			"surface": "1594년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 254,
+			"eType": "WIKILINK",
+			"en": 256,
+			"entityName": "과거_제도",
+			"is_target": true,
+			"surface": "문과",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"id": 14,
+			"ne_type": "TIME",
+			"st": 267,
+			"eType": "WIKILINK",
+			"en": 272,
+			"entityName": "1597년",
+			"is_target": false,
+			"surface": "1597년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 362,
+			"eType": "WIKILINK",
+			"en": 364,
+			"entityName": "불교",
+			"is_target": true,
+			"surface": "불교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 407,
+			"eType": "WIKILINK",
+			"en": 409,
+			"entityName": "예조",
+			"is_target": true,
+			"surface": "예조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 409,
+			"eType": "WIKILINK",
+			"en": 411,
+			"entityName": "판서",
+			"is_target": true,
+			"surface": "판서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 419,
+			"eType": "WIKILINK",
+			"en": 422,
+			"entityName": "광해군",
+			"is_target": true,
+			"surface": "광해군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 425,
+			"eType": "WIKILINK",
+			"en": 427,
+			"entityName": "대북",
+			"is_target": true,
+			"surface": "대북",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 445,
+			"eType": "WIKILINK",
+			"en": 450,
+			"entityName": "1617년",
+			"is_target": false,
+			"surface": "1617년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 519,
+			"eType": "WIKILINK",
+			"en": 521,
+			"entityName": "혁명",
+			"is_target": true,
+			"surface": "혁명",
+			"coref_index": 790,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 541,
+			"eType": "WIKILINK",
+			"en": 544,
+			"entityName": "기자헌",
+			"is_target": true,
+			"surface": "기자헌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 569,
+			"eType": "WIKILINK",
+			"en": 572,
+			"entityName": "기준격",
+			"is_target": true,
+			"surface": "기준격",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 578,
+			"eType": "WIKILINK",
+			"en": 582,
+			"entityName": "능지처참",
+			"is_target": true,
+			"surface": "능지처참",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "TIME",
+			"st": 246,
+			"eType": "NEW",
+			"en": 252,
+			"entityName": "",
+			"is_target": false,
+			"surface": "선조_27년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "TIME",
+			"st": 273,
+			"eType": "NEW",
+			"en": 279,
+			"entityName": "",
+			"is_target": false,
+			"surface": "선조_30년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 284,
+			"eType": "NEW",
+			"en": 288,
+			"entityName": "",
+			"is_target": true,
+			"surface": "중시문과",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 319,
+			"eType": "NEW",
+			"en": 321,
+			"entityName": "",
+			"is_target": true,
+			"surface": "탄핵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 324,
+			"eType": "NEW",
+			"en": 326,
+			"entityName": "",
+			"is_target": true,
+			"surface": "파면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 330,
+			"eType": "NEW",
+			"en": 332,
+			"entityName": "",
+			"is_target": true,
+			"surface": "유배",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 393,
+			"eType": "NEW",
+			"en": 404,
+			"entityName": "",
+			"is_target": true,
+			"surface": "정헌대부_의정부좌참찬",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "TIME",
+			"st": 451,
+			"eType": "NEW",
+			"en": 458,
+			"entityName": "",
+			"is_target": false,
+			"surface": "광해군_10년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 460,
+			"eType": "NEW",
+			"en": 468,
+			"entityName": "",
+			"is_target": true,
+			"surface": "인목대비_폐모론",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 482,
+			"eType": "NEW",
+			"en": 486,
+			"entityName": "",
+			"is_target": true,
+			"surface": "신분제도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 488,
+			"eType": "NEW",
+			"en": 493,
+			"entityName": "",
+			"is_target": true,
+			"surface": "서얼_차별",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 610,
+			"eType": "WIKILINK",
+			"entityName": "조선_왕조",
+			"en": 615,
+			"is_target": true,
+			"surface": "조선_왕조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 662,
+			"eType": "WIKILINK",
+			"entityName": "이필진",
+			"en": 665,
+			"is_target": true,
+			"surface": "이필진",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Work",
+				"Book"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 684,
+			"eType": "WIKILINK",
+			"entityName": "홍길동전",
+			"en": 688,
+			"is_target": true,
+			"surface": "홍길동전",
+			"coref_index": 787,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 690,
+			"eType": "WIKILINK",
+			"entityName": "성소부부고",
+			"en": 695,
+			"is_target": true,
+			"surface": "성소부부고",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Work",
+				"Book"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 707,
+			"eType": "WIKILINK",
+			"entityName": "홍길동전",
+			"en": 711,
+			"is_target": true,
+			"surface": "홍길동전",
+			"coref_index": 787,
+			"ancestor": "1-38"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 41,
+			"ne_type": "PERSON",
+			"st": 729,
+			"eType": "WIKILINK",
+			"entityName": "유몽인",
+			"en": 732,
+			"is_target": true,
+			"surface": "유몽인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 770,
+			"eType": "WIKILINK",
+			"entityName": "동인",
+			"en": 772,
+			"is_target": true,
+			"surface": "동인",
+			"coref_index": 788,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Organisation",
+				"Agent",
+				"PoliticalParty"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 777,
+			"eType": "WIKILINK",
+			"entityName": "북인",
+			"en": 779,
+			"is_target": true,
+			"surface": "북인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 781,
+			"eType": "WIKILINK",
+			"entityName": "대북",
+			"en": 783,
+			"is_target": true,
+			"surface": "대북",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 45,
+			"ne_type": "PERSON",
+			"st": 796,
+			"eType": "WIKILINK",
+			"entityName": "허엽",
+			"en": 798,
+			"is_target": true,
+			"surface": "허엽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 46,
+			"ne_type": "PERSON",
+			"st": 805,
+			"eType": "WIKILINK",
+			"entityName": "허성",
+			"en": 807,
+			"is_target": true,
+			"surface": "허성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 47,
+			"ne_type": "PERSON",
+			"st": 820,
+			"eType": "WIKILINK",
+			"entityName": "허봉",
+			"en": 822,
+			"is_target": true,
+			"surface": "허봉",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 824,
+			"eType": "WIKILINK",
+			"entityName": "허난설헌",
+			"en": 828,
+			"is_target": true,
+			"surface": "허난설헌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 840,
+			"eType": "WIKILINK",
+			"entityName": "우성전",
+			"en": 843,
+			"is_target": true,
+			"surface": "우성전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 860,
+			"eType": "WIKILINK",
+			"entityName": "이달",
+			"en": 862,
+			"is_target": true,
+			"surface": "이달",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 867,
+			"eType": "WIKILINK",
+			"entityName": "류성룡",
+			"en": 870,
+			"is_target": true,
+			"surface": "류성룡",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "ETC",
+			"st": 878,
+			"eType": "WIKILINK",
+			"entityName": "동인",
+			"en": 880,
+			"is_target": true,
+			"surface": "동인",
+			"coref_index": 788,
+			"ancestor": "1-42"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 888,
+			"eType": "ELU",
+			"entityName": "김효원",
+			"en": 894,
+			"is_target": true,
+			"surface": "성암_김효원",
+			"coref_index": 789,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 54,
+			"ne_type": "PERSON",
+			"st": 894,
+			"eType": "WIKILINK",
+			"entityName": "김효원",
+			"en": 897,
+			"is_target": true,
+			"surface": "김효원",
+			"coref_index": 789,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 55,
+			"ne_type": "LOCATION",
+			"st": 910,
+			"eType": "WIKILINK",
+			"entityName": "강원도",
+			"en": 913,
+			"is_target": true,
+			"surface": "강원도",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "555210,555211,555212,555213,555214,555215,555216,555217,555218,555219,555220,555221,555222,555223,555224,555225,555226,555227",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 133,
+			"ancestor": "-1",
+			"st": 132,
+			"surface": "그"
+		},
+		{
+			"id": 1,
+			"en": 139,
+			"ancestor": "-1",
+			"st": 132,
+			"surface": "그의 작품으로"
+		},
+		{
+			"id": 2,
+			"en": 157,
+			"ancestor": "-1",
+			"st": 155,
+			"surface": "본관"
+		},
+		{
+			"id": 3,
+			"ancestor": "1-21",
+			"st": 533,
+			"en": 534,
+			"surface": "이",
+			"coref_index": 790
+		},
+		{
+			"id": 4,
+			"en": 544,
+			"ancestor": "-1",
+			"st": 533,
+			"surface": "이를 비판하던 기자헌"
+		},
+		{
+			"id": 5,
+			"en": 589,
+			"surface": "그의",
+			"st": 587,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 593,
+			"surface": "그의 문집은",
+			"st": 587,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 640,
+			"surface": "그가",
+			"st": 638,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 736,
+			"surface": "그의",
+			"st": 734,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"en": 742,
+			"surface": "그의 작품이라는",
+			"st": 734,
+			"ancestor": "-1"
+		},
+		{
+			"id": 10,
+			"en": 746,
+			"surface": "그의 작품이라는 기록을",
+			"st": 734,
+			"ancestor": "-1"
+		},
+		{
+			"id": 11,
+			"ancestor": "1-8",
+			"st": 845,
+			"en": 846,
+			"surface": "그",
+			"coref_index": 791
+		},
+		{
+			"id": 12,
+			"en": 850,
+			"ancestor": "-1",
+			"st": 845,
+			"surface": "그의 이복"
+		},
+		{
+			"id": 13,
+			"en": 856,
+			"ancestor": "-1",
+			"st": 845,
+			"surface": "그의 이복 매부였다."
+		}
+	],
+	"plainText": "허균(許筠, 1569년_12월_10일(음력_11월_3일) ~ 1618년_10월_12일(음력_8월_24일))은 조선 중기의 문인으로 학자이자 작가, 정치가, 시인이었다. 서자를 차별 대우하는 사회 제도에 반대하였으며, 작품 《홍길동전》이 그의 작품으로 판명되면서 널리 알려졌다. 본관은 양천, 자는 단보(端甫), 호는 교산(蛟山) 또는 학산(鶴山), 성소(惺所), 성수(惺?)로 불렸고 후에는 백월거사(白月居士)로도 불렸다. 일생 1594년(선조_27년) 문과(文科)에 급제하고 1597년(선조_30년) 다시 중시문과(重試文科)에 급제하여 공주 목사를 거쳤으나 반대자에게 탄핵받아 파면되거나 유배당했다. 시류에 영합하지 않고 기생과 어울리기도 했고 불교를 신봉하여 논란을 야기(惹起)하기도 했다. 벼슬은 정헌대부_의정부좌참찬 겸 예조판서에 이르렀다. 광해군 때 대북에 가담하여 실세로 활동하였으나 1617년(광해군_10년) 인목대비_폐모론에 적극으로 가담하였다. 신분제도와 서얼_차별에 항거하려고 서자와 불만하는 계층을 규합하여 혁명을 계획하다 발각되어 이를 비판하던 기자헌을 제거하려다가 역으로 반역을 도모하려했다는 기준격의 밀고로 능지처참되었다. 그의 문집은 시류에 맞지 않는다는 이유로 조선_왕조 치하에서 모두 인멸(湮滅)될 뻔하였으나 그가 죽음을 예상하고 당시 소년이던 외손자 이필진에게 전해줘서 후대에 전래되었다. 홍길동전과 성소부부고 등을 남겼다. 특히 홍길동전은 무명으로 발표하였으나 나중에 유몽인이 그의 작품이라는 기록을 남겨 알려지게 되었다. 당색(黨色)으로는 동인이었으며 북인, 대북으로 활동하였다. 초당 허엽의 아들로, 허성의 이복제(異腹弟)이자 허봉, 허난설헌의 친제(親弟)이다. 우성전은 그의 이복 매부였다. 손곡 이달과 서애 류성룡의 문인이다. 동인의 초대 당수 성암_김효원김효원(金孝元)의 사위이다. 강원도 출신. ",
+	"docID": "67496"
+}

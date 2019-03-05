@@ -1,0 +1,156 @@
+{
+	"docID": "634848",
+	"globalSID": "2467995,2467996",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 37,
+			"ancestor": "",
+			"surface": "1749년",
+			"entityName": "1749년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 43,
+			"ancestor": "",
+			"surface": "9월_8일",
+			"entityName": "9월_8일"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 51,
+			"ancestor": "",
+			"surface": "1793년",
+			"entityName": "1793년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 58,
+			"ancestor": "",
+			"surface": "12월_9일",
+			"entityName": "12월_9일"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 64,
+			"ancestor": "-1",
+			"coref_index": 757,
+			"surface": "프랑스",
+			"entityName": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 76,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 79,
+			"ancestor": "1-4",
+			"coref_index": 757,
+			"surface": "프랑스",
+			"entityName": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 88,
+			"ancestor": "-1",
+			"coref_index": 761,
+			"surface": "루이_16세",
+			"entityName": "루이_16세"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 93,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 101,
+			"ancestor": "-1",
+			"coref_index": 759,
+			"surface": "마리_앙투아네트",
+			"entityName": "마리_앙투아네트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 29,
+			"ancestor": "-1",
+			"coref_index": 758,
+			"surface": "욜랑드_마르틴_가브리엘_드_폴라스트롱",
+			"entityName": ""
+		}
+	],
+	"plainText": "폴리냑 공작부인 욜랑드_마르틴_가브리엘_드_폴라스트롱(, 1749년 9월_8일 ~ 1793년 12월_9일)은 프랑스의 귀족·정치인이다. 프랑스 왕 루이_16세의 왕비 마리_앙투아네트의 총애를 받는 측근이었다."
+}

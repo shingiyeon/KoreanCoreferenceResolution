@@ -1,0 +1,58 @@
+{
+	"docID": "573412",
+	"globalSID": "2339163",
+	"pronouns": [],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "캐나다",
+			"entityName": "캐나다"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 23,
+			"ancestor": "-1",
+			"surface": "에드먼턴",
+			"entityName": "에드먼턴"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "EVENT",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "여행",
+			"entityName": ""
+		}
+	],
+	"plainText": "춤추는 대서울선 시점에는 캐나다의 에드먼턴에 여행을 가있는 상태로 등장하지 않는다."
+}

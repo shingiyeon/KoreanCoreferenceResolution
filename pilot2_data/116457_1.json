@@ -1,0 +1,134 @@
+{
+	"docID": "116457",
+	"globalSID": "852834,852835",
+	"pronouns": [
+		{
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "이 시스템은",
+			"id": 0,
+			"st": 85
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "-1",
+			"coref_index": 76,
+			"surface": "콘클라베",
+			"entityName": "콘클라베"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 55,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "로마_가톨릭교회",
+			"entityName": "로마_가톨릭교회"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Cleric"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 68,
+			"ancestor": "-1",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": "교황"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "기독교",
+			"entityName": "기독교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 11,
+			"ancestor": "-1",
+			"surface": "열쇠",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "들어갈_수_있는_방",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "걸쇠",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "문을_잠근_방",
+			"entityName": ""
+		}
+	],
+	"plainText": "콘클라베()는 ‘열쇠가 있어야 들어갈_수_있는_방’, ‘걸쇠로 문을_잠근_방’을 의미하는 단어로, 로마_가톨릭교회에서 교황을 선출하는 선거 시스템이다. 이 시스템은 기독교의 역사에서 몇 세기에 걸쳐 개최되었으며, 외부의 간섭을 미리 일체 방지하여 비밀을 보관, 유지하도록 만들어진 것이다."
+}

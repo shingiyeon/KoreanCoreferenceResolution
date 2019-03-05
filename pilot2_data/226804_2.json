@@ -1,0 +1,41 @@
+{
+	"docID": "226804",
+	"globalSID": "1335516",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "한국계_일본인",
+			"entityName": "한국계_일본인"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 20,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 23,
+			"ancestor": "1-0",
+			"coref_index": 320,
+			"surface": "이희철",
+			"entityName": "모리모토_히초리"
+		}
+	],
+	"plainText": "한국계_일본인으로 귀화 전 한국명은 이희철(李稀哲)이다."
+}

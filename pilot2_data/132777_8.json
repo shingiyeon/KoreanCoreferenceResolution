@@ -1,0 +1,97 @@
+{
+	"docID": "132777",
+	"globalSID": "953550",
+	"pronouns": [
+		{
+			"st": 48,
+			"coref_index": 184,
+			"id": 0,
+			"en": 49,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 71,
+			"st": 48,
+			"surface": "그를 지도했던 베르트_판_마르베이크_감독과",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"surface": "2007년_7월_5일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 15,
+			"ancestor": "1-0",
+			"coref_index": 184,
+			"surface": "샤힌",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 29,
+			"ancestor": "2-2",
+			"coref_index": 187,
+			"surface": "에레디비시의_페예노르트",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "베르트_판_마르베이크_감독",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "재회",
+			"entityName": ""
+		}
+	],
+	"plainText": "2007년_7월_5일, 샤힌은 에레디비시의_페예노르트로 1년 임대되어 도르트문트 시절 그를 지도했던 베르트_판_마르베이크_감독과 재회했다."
+}

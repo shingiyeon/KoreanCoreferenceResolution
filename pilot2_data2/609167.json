@@ -1,0 +1,1457 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 278,
+			"text": "여러 전투",
+			"is_pronoun": true,
+			"en_modified": 283,
+			"en": 283,
+			"st_modified": 278
+		},
+		{
+			"st": 432,
+			"text": "한 사람이기",
+			"is_pronoun": true,
+			"en_modified": 438,
+			"en": 438,
+			"st_modified": 432
+		},
+		{
+			"st": 484,
+			"text": "그곳",
+			"is_pronoun": true,
+			"en_modified": 486,
+			"en": 486,
+			"st_modified": 484
+		},
+		{
+			"st": 484,
+			"text": "그곳의 한 군",
+			"is_pronoun": true,
+			"en_modified": 491,
+			"en": 491,
+			"st_modified": 484
+		},
+		{
+			"st": 530,
+			"text": "이 때",
+			"is_pronoun": true,
+			"en_modified": 533,
+			"en": 533,
+			"st_modified": 530
+		},
+		{
+			"st": 768,
+			"text": "각 장수",
+			"is_pronoun": true,
+			"en_modified": 772,
+			"en": 772,
+			"st_modified": 768
+		},
+		{
+			"st": 785,
+			"text": "각자",
+			"is_pronoun": true,
+			"en_modified": 787,
+			"en": 787,
+			"st_modified": 785
+		},
+		{
+			"st": 785,
+			"text": "각자의 영지",
+			"is_pronoun": true,
+			"en_modified": 791,
+			"en": 791,
+			"st_modified": 785
+		},
+		{
+			"st": 785,
+			"text": "각자의 영지로 돌아갔기 때문",
+			"is_pronoun": true,
+			"en_modified": 800,
+			"en": 800,
+			"st_modified": 785
+		},
+		{
+			"st": 1170,
+			"text": "이 때",
+			"is_pronoun": true,
+			"en_modified": 1173,
+			"en": 1173,
+			"st_modified": 1170
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 278,
+			"ancestor": "-1",
+			"surface": "여러 전투에서",
+			"en_modified": 285,
+			"en": 285,
+			"st_modified": 278,
+			"id": 0
+		},
+		{
+			"st": 432,
+			"ancestor": "-1",
+			"surface": "한 사람이기도",
+			"en_modified": 439,
+			"en": 439,
+			"st_modified": 432,
+			"id": 1
+		},
+		{
+			"st": 484,
+			"ancestor": "1-32",
+			"surface": "그곳",
+			"en_modified": 486,
+			"en": 486,
+			"st_modified": 484,
+			"id": 2,
+			"coref_index": 736
+		},
+		{
+			"st": 484,
+			"ancestor": "-1",
+			"surface": "그곳의 한 군을",
+			"en_modified": 492,
+			"en": 492,
+			"st_modified": 484,
+			"id": 3
+		},
+		{
+			"st": 530,
+			"ancestor": "-1",
+			"surface": "이 때",
+			"en_modified": 533,
+			"en": 533,
+			"st_modified": 530,
+			"id": 4
+		},
+		{
+			"st": 768,
+			"ancestor": "-1",
+			"surface": "각 장수",
+			"en_modified": 772,
+			"en": 772,
+			"st_modified": 768,
+			"id": 5
+		},
+		{
+			"st": 785,
+			"ancestor": "-1",
+			"surface": "각자",
+			"en_modified": 787,
+			"en": 787,
+			"st_modified": 785,
+			"id": 6
+		},
+		{
+			"st": 785,
+			"ancestor": "-1",
+			"surface": "각자의 영지",
+			"en_modified": 791,
+			"en": 791,
+			"st_modified": 785,
+			"id": 7
+		},
+		{
+			"st": 785,
+			"ancestor": "-1",
+			"surface": "각자의 영지로 돌아갔기 때문",
+			"en_modified": 800,
+			"en": 800,
+			"st_modified": 785,
+			"id": 8
+		},
+		{
+			"st": 1170,
+			"ancestor": "-1",
+			"surface": "이 때",
+			"en_modified": 1173,
+			"en": 1173,
+			"st_modified": 1170,
+			"id": 9
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 7,
+			"st_modified": 0,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 7,
+			"id": 0
+		},
+		{
+			"en_modified": 54,
+			"entityName": "센고쿠_시대",
+			"st_modified": 48,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 48,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "센고쿠_시대",
+			"is_target": true,
+			"en": 54,
+			"id": 1
+		},
+		{
+			"en_modified": 68,
+			"entityName": "아즈치모모야마_시대",
+			"st_modified": 58,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 58,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아즈치모모야마_시대",
+			"is_target": true,
+			"en": 68,
+			"id": 2
+		},
+		{
+			"en_modified": 74,
+			"entityName": "무장",
+			"st_modified": 72,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 72,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "무장",
+			"is_target": true,
+			"en": 74,
+			"id": 3
+		},
+		{
+			"en_modified": 82,
+			"entityName": "히고_국",
+			"st_modified": 78,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 78,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "히고_국",
+			"is_target": true,
+			"en": 82,
+			"id": 4
+		},
+		{
+			"en_modified": 87,
+			"entityName": "다이묘",
+			"st_modified": 84,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 84,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "다이묘",
+			"is_target": true,
+			"en": 87,
+			"id": 5
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 10,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 10,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1536년_2월_6일",
+			"is_target": false,
+			"en": 21,
+			"id": 6
+		},
+		{
+			"en_modified": 45,
+			"entityName": "",
+			"st_modified": 24,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 24,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1588년_7월_7일_음력_5월_14일",
+			"is_target": false,
+			"en": 45,
+			"id": 7
+		},
+		{
+			"en_modified": 101,
+			"st_modified": 94,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 94,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 101,
+			"id": 8
+		},
+		{
+			"en_modified": 110,
+			"entityName": "삿사_나리무네",
+			"st_modified": 103,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 103,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "삿사_나리무네",
+			"is_target": true,
+			"en": 110,
+			"id": 9
+		},
+		{
+			"en_modified": 136,
+			"st_modified": 129,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 129,
+			"ancestor": "1-8",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 136,
+			"id": 10
+		},
+		{
+			"en_modified": 164,
+			"entityName": "작전_중_사망",
+			"st_modified": 162,
+			"kbox_types": [
+				"Disease"
+			],
+			"eType": "WIKILINK",
+			"st": 162,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "전사",
+			"is_target": true,
+			"en": 164,
+			"id": 11
+		},
+		{
+			"en_modified": 177,
+			"entityName": "에이로쿠",
+			"st_modified": 173,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 173,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "에이로쿠",
+			"is_target": true,
+			"en": 177,
+			"id": 12
+		},
+		{
+			"en_modified": 190,
+			"entityName": "1560년",
+			"st_modified": 185,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 185,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1560년",
+			"is_target": false,
+			"en": 190,
+			"id": 13
+		},
+		{
+			"en_modified": 194,
+			"entityName": "가독",
+			"st_modified": 192,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 192,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "가독",
+			"is_target": true,
+			"en": 194,
+			"id": 14
+		},
+		{
+			"en_modified": 207,
+			"entityName": "",
+			"st_modified": 201,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 201,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "히라성_성주",
+			"is_target": true,
+			"en": 207,
+			"id": 15
+		},
+		{
+			"en_modified": 221,
+			"entityName": "오다_노부나가",
+			"st_modified": 214,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Noble"
+			],
+			"eType": "WIKILINK",
+			"st": 214,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "오다_노부나가",
+			"is_target": true,
+			"en": 221,
+			"id": 16
+		},
+		{
+			"en_modified": 239,
+			"st_modified": 232,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 232,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 239,
+			"id": 17
+		},
+		{
+			"en_modified": 246,
+			"entityName": "우마마와리",
+			"st_modified": 241,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 241,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "우마마와리",
+			"is_target": true,
+			"en": 246,
+			"id": 18
+		},
+		{
+			"en_modified": 271,
+			"entityName": "오다_가문",
+			"st_modified": 266,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 266,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오다_가문",
+			"is_target": true,
+			"en": 271,
+			"id": 19
+		},
+		{
+			"en_modified": 294,
+			"st_modified": 291,
+			"coref_index": 729,
+			"entityName": "오다_군",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 291,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오다군",
+			"is_target": true,
+			"en": 294,
+			"id": 20
+		},
+		{
+			"en_modified": 315,
+			"entityName": "덴쇼",
+			"st_modified": 313,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 313,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "덴쇼",
+			"is_target": true,
+			"en": 315,
+			"id": 21
+		},
+		{
+			"en_modified": 340,
+			"entityName": "나가시노_전투",
+			"st_modified": 333,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 333,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "나가시노_전투",
+			"is_target": true,
+			"en": 340,
+			"id": 22
+		},
+		{
+			"en_modified": 351,
+			"st_modified": 343,
+			"coref_index": 728,
+			"entityName": "마에다_도시이에",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 343,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마에다_도시이에",
+			"is_target": true,
+			"en": 351,
+			"id": 23
+		},
+		{
+			"en_modified": 368,
+			"entityName": "노노무라_마사시게",
+			"st_modified": 359,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 359,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "노노무라_마사시게",
+			"is_target": true,
+			"en": 368,
+			"id": 24
+		},
+		{
+			"en_modified": 386,
+			"entityName": "후쿠도미_히데카쓰",
+			"st_modified": 377,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 377,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "후쿠도미_히데카쓰",
+			"is_target": true,
+			"en": 386,
+			"id": 25
+		},
+		{
+			"en_modified": 400,
+			"entityName": "반_나오마사",
+			"st_modified": 394,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 394,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "반_나오마사",
+			"is_target": true,
+			"en": 400,
+			"id": 26
+		},
+		{
+			"en_modified": 425,
+			"entityName": "오봉행",
+			"st_modified": 421,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 421,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "철포봉행",
+			"is_target": true,
+			"en": 425,
+			"id": 27
+		},
+		{
+			"en_modified": 413,
+			"entityName": "",
+			"st_modified": 410,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 410,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "철포대",
+			"is_target": true,
+			"en": 413,
+			"id": 28
+		},
+		{
+			"en_modified": 331,
+			"entityName": "",
+			"st_modified": 323,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 323,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1575년_5월",
+			"is_target": false,
+			"en": 331,
+			"id": 29
+		},
+		{
+			"en_modified": 451,
+			"entityName": "오다_노부나가",
+			"st_modified": 444,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Noble"
+			],
+			"eType": "ELU",
+			"st": 444,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "오다_노부나가",
+			"is_target": true,
+			"en": 451,
+			"id": 30
+		},
+		{
+			"en_modified": 471,
+			"st_modified": 463,
+			"coref_index": 730,
+			"entityName": "시바타_가쓰이에",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "ELU",
+			"st": 463,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "시바타_가쓰이에",
+			"is_target": true,
+			"en": 471,
+			"id": 31
+		},
+		{
+			"en_modified": 476,
+			"st_modified": 473,
+			"coref_index": 736,
+			"entityName": "에치젠_국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 473,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "에치젠",
+			"is_target": true,
+			"en": 476,
+			"id": 32
+		},
+		{
+			"en_modified": 512,
+			"entityName": "가가_국",
+			"st_modified": 510,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 510,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "가가",
+			"is_target": true,
+			"en": 512,
+			"id": 33
+		},
+		{
+			"en_modified": 517,
+			"entityName": "일향종",
+			"st_modified": 514,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 514,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "일향종",
+			"is_target": true,
+			"en": 517,
+			"id": 34
+		},
+		{
+			"en_modified": 541,
+			"st_modified": 534,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 534,
+			"ancestor": "1-8",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 541,
+			"id": 35
+		},
+		{
+			"en_modified": 551,
+			"st_modified": 543,
+			"coref_index": 728,
+			"entityName": "마에다_도시이에",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 543,
+			"ancestor": "1-23",
+			"ne_type": "PERSON",
+			"surface": "마에다_도시이에",
+			"is_target": true,
+			"en": 551,
+			"id": 36
+		},
+		{
+			"en_modified": 560,
+			"entityName": "후와_미쓰하루",
+			"st_modified": 553,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 553,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "후와_미쓰하루",
+			"is_target": true,
+			"en": 560,
+			"id": 37
+		},
+		{
+			"en_modified": 639,
+			"entityName": "우에스기_겐신",
+			"st_modified": 632,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "WIKILINK",
+			"st": 632,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "우에스기_겐신",
+			"is_target": true,
+			"en": 639,
+			"id": 38
+		},
+		{
+			"en_modified": 650,
+			"st_modified": 647,
+			"coref_index": 729,
+			"entityName": "오다_군",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 647,
+			"ancestor": "1-20",
+			"ne_type": "ETC",
+			"surface": "오다군",
+			"is_target": true,
+			"en": 650,
+			"id": 39
+		},
+		{
+			"en_modified": 667,
+			"entityName": "엣추_국",
+			"st_modified": 663,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 663,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "엣추_국",
+			"is_target": true,
+			"en": 667,
+			"id": 40
+		},
+		{
+			"en_modified": 654,
+			"entityName": "",
+			"st_modified": 652,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 652,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "엣츄",
+			"is_target": true,
+			"en": 654,
+			"id": 41
+		},
+		{
+			"en_modified": 706,
+			"st_modified": 700,
+			"coref_index": 732,
+			"entityName": "혼노지의_변",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 700,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "혼노지의_변",
+			"is_target": true,
+			"en": 706,
+			"id": 42
+		},
+		{
+			"en_modified": 832,
+			"st_modified": 824,
+			"coref_index": 730,
+			"entityName": "시바타_가쓰이에",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "WIKILINK",
+			"st": 824,
+			"ancestor": "1-31",
+			"ne_type": "PERSON",
+			"surface": "시바타_가쓰이에",
+			"is_target": true,
+			"en": 832,
+			"id": 43
+		},
+		{
+			"en_modified": 692,
+			"entityName": "",
+			"st_modified": 686,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 686,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "덴쇼_10년",
+			"is_target": false,
+			"en": 692,
+			"id": 44
+		},
+		{
+			"en_modified": 750,
+			"entityName": "",
+			"st_modified": 742,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 742,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "엣추_우오즈_성",
+			"is_target": true,
+			"en": 750,
+			"id": 45
+		},
+		{
+			"en_modified": 807,
+			"st_modified": 802,
+			"coref_index": 731,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 802,
+			"ancestor": "1-50",
+			"ne_type": "PERSON",
+			"surface": "우에스기군",
+			"is_target": true,
+			"en": 807,
+			"id": 46
+		},
+		{
+			"en_modified": 839,
+			"entityName": "",
+			"st_modified": 834,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 834,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "몰락_원인",
+			"is_target": true,
+			"en": 839,
+			"id": 47
+		},
+		{
+			"en_modified": 766,
+			"st_modified": 760,
+			"coref_index": 732,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 760,
+			"ancestor": "1-42",
+			"ne_type": "EVENT",
+			"surface": "혼노지의_변",
+			"is_target": true,
+			"en": 766,
+			"id": 48
+		},
+		{
+			"en_modified": 724,
+			"entityName": "",
+			"st_modified": 716,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 716,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "호쿠리쿠_방면군",
+			"is_target": true,
+			"en": 724,
+			"id": 49
+		},
+		{
+			"en_modified": 732,
+			"st_modified": 726,
+			"coref_index": 731,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 726,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "우에스기_군",
+			"is_target": true,
+			"en": 732,
+			"id": 50
+		},
+		{
+			"en_modified": 852,
+			"st_modified": 845,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 845,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 852,
+			"id": 51
+		},
+		{
+			"en_modified": 863,
+			"st_modified": 854,
+			"coref_index": 733,
+			"entityName": "우에스기_가게카쓰",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 854,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "우에스기_가게카쓰",
+			"is_target": true,
+			"en": 863,
+			"id": 52
+		},
+		{
+			"en_modified": 887,
+			"entityName": "시즈가타케_전투",
+			"st_modified": 879,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 879,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시즈가타케_전투",
+			"is_target": true,
+			"en": 887,
+			"id": 53
+		},
+		{
+			"en_modified": 910,
+			"entityName": "삿사_헤이자에몬",
+			"st_modified": 902,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 902,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "삿사_헤이자에몬",
+			"is_target": true,
+			"en": 910,
+			"id": 54
+		},
+		{
+			"en_modified": 940,
+			"st_modified": 932,
+			"coref_index": 730,
+			"entityName": "시바타_가쓰이에",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "ELU",
+			"st": 932,
+			"ancestor": "1-31",
+			"ne_type": "PERSON",
+			"surface": "시바타_가쓰이에",
+			"is_target": true,
+			"en": 940,
+			"id": 55
+		},
+		{
+			"en_modified": 973,
+			"st_modified": 964,
+			"coref_index": 733,
+			"entityName": "우에스기_가게카쓰",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "ELU",
+			"st": 964,
+			"ancestor": "1-52",
+			"ne_type": "PERSON",
+			"surface": "우에스기_가게카쓰",
+			"is_target": true,
+			"en": 973,
+			"id": 56
+		},
+		{
+			"en_modified": 958,
+			"st_modified": 950,
+			"coref_index": 728,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 950,
+			"ancestor": "1-23",
+			"ne_type": "PERSON",
+			"surface": "마에다_도시이에",
+			"is_target": true,
+			"en": 958,
+			"id": 57
+		},
+		{
+			"en_modified": 1008,
+			"st_modified": 1004,
+			"coref_index": 734,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1004,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "히데요시",
+			"is_target": true,
+			"en": 1008,
+			"id": 58
+		},
+		{
+			"en_modified": 1031,
+			"entityName": "1584년",
+			"st_modified": 1026,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1026,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1584년",
+			"is_target": false,
+			"en": 1031,
+			"id": 59
+		},
+		{
+			"en_modified": 1045,
+			"entityName": "고마키·나가쿠테_전투",
+			"st_modified": 1034,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1034,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "고마키·나가쿠테_전투",
+			"is_target": true,
+			"en": 1045,
+			"id": 60
+		},
+		{
+			"en_modified": 1059,
+			"st_modified": 1052,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1052,
+			"ancestor": "1-51",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 1059,
+			"id": 61
+		},
+		{
+			"en_modified": 1070,
+			"st_modified": 1061,
+			"coref_index": 734,
+			"entityName": "도요토미_히데요시",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 1061,
+			"ancestor": "1-58",
+			"ne_type": "PERSON",
+			"surface": "도요토미_히데요시",
+			"is_target": true,
+			"en": 1070,
+			"id": 62
+		},
+		{
+			"en_modified": 1103,
+			"st_modified": 1094,
+			"coref_index": 735,
+			"entityName": "도쿠가와_이에야스",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 1094,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "도쿠가와_이에야스",
+			"is_target": true,
+			"en": 1103,
+			"id": 63
+		},
+		{
+			"en_modified": 1112,
+			"entityName": "오다_노부카쓰_(1558년)",
+			"st_modified": 1105,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1105,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오다_노부카쓰",
+			"is_target": true,
+			"en": 1112,
+			"id": 64
+		},
+		{
+			"en_modified": 1151,
+			"st_modified": 1143,
+			"coref_index": 728,
+			"entityName": "마에다_도시이에",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "ELU",
+			"st": 1143,
+			"ancestor": "1-36",
+			"ne_type": "PERSON",
+			"surface": "마에다_도시이에",
+			"is_target": true,
+			"en": 1151,
+			"id": 65
+		},
+		{
+			"en_modified": 1162,
+			"entityName": "스에모리성_전투",
+			"st_modified": 1154,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1154,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스에모리성_전투",
+			"is_target": true,
+			"en": 1162,
+			"id": 66
+		},
+		{
+			"en_modified": 1177,
+			"entityName": "에치고_국",
+			"st_modified": 1174,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1174,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "에치고",
+			"is_target": true,
+			"en": 1177,
+			"id": 67
+		},
+		{
+			"en_modified": 1188,
+			"st_modified": 1179,
+			"coref_index": 733,
+			"entityName": "우에스기_가게카쓰",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "ELU",
+			"st": 1179,
+			"ancestor": "1-52",
+			"ne_type": "PERSON",
+			"surface": "우에스기_가게카쓰",
+			"is_target": true,
+			"en": 1188,
+			"id": 68
+		},
+		{
+			"en_modified": 1231,
+			"st_modified": 1222,
+			"coref_index": 734,
+			"entityName": "도요토미_히데요시",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "ELU",
+			"st": 1222,
+			"ancestor": "1-62",
+			"ne_type": "PERSON",
+			"surface": "도요토미_히데요시",
+			"is_target": true,
+			"en": 1231,
+			"id": 69
+		},
+		{
+			"en_modified": 1242,
+			"st_modified": 1233,
+			"coref_index": 735,
+			"entityName": "도쿠가와_이에야스",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "ELU",
+			"st": 1233,
+			"ancestor": "1-63",
+			"ne_type": "PERSON",
+			"surface": "도쿠가와_이에야스",
+			"is_target": true,
+			"en": 1242,
+			"id": 70
+		},
+		{
+			"en_modified": 1262,
+			"st_modified": 1255,
+			"coref_index": 727,
+			"entityName": "삿사_나리마사",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1255,
+			"ancestor": "1-51",
+			"ne_type": "PERSON",
+			"surface": "삿사_나리마사",
+			"is_target": true,
+			"en": 1262,
+			"id": 71
+		},
+		{
+			"en_modified": 1299,
+			"st_modified": 1290,
+			"coref_index": 735,
+			"entityName": "도쿠가와_이에야스",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "ELU",
+			"st": 1290,
+			"ancestor": "1-63",
+			"ne_type": "PERSON",
+			"surface": "도쿠가와_이에야스",
+			"is_target": true,
+			"en": 1299,
+			"id": 72
+		},
+		{
+			"en_modified": 1024,
+			"entityName": "",
+			"st_modified": 1018,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1018,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "덴쇼_12년",
+			"is_target": false,
+			"en": 1024,
+			"id": 73
+		}
+	],
+	"globalSID": "2410382,2410383,2410384,2410385,2410386,2410387,2410388,2410389,2410390,2410391,2410392,2410393,2410394,2410395,2410396,2410397",
+	"plainText": "삿사_나리마사(, 1536년_2월_6일_~ 1588년_7월_7일_음력_5월_14일)는 센고쿠_시대 부터 아즈치모모야마_시대까지의 무장이며, 히고_국의 다이묘이다. 생애 삿사_나리마사는 삿사_나리무네(佐?成宗)의 3남으로 태어났다. 삿사_나리마사는 형이 2명이 있지만 형들이 연달아 싸움에서 전사하였기 때문에, 에이로쿠(永?) 3년 1560년에 가독의 후계자로 히라성_성주가 되었다. 오다_노부나가의 시종으로 들어간 삿사_나리마사는 우마마와리(馬廻)로 활약하여 전공을 세우고, 오다_가문의 무장으로 여러 전투에서 활약하여 오다군의 흑모의 무리의 장수가 되었다. 덴쇼(天正) 3년 1575년_5월의 나가시노_전투에서 마에다_도시이에(前田利家), 노노무라_마사시게(野?村正成), 후쿠도미_히데카쓰(福富秀勝), 반_나오마사(?直政)와 함께 철포대를 이끌었다. 철포봉행(砲奉行)의 한 사람이기도 하다. 오다_노부나가의 에치젠 정벌 이후 시바타_가쓰이에가 에치젠 영지를 받자 그곳의 한 군을 받아, 시바타 휘하에 소속되어 가가의 일향종과 싸움을 거듭하였다. 이 때 삿사_나리마사는 마에다_도시이에, 후와_미쓰하루(不破光治)와 함께 에치젠 후추 10만 석을 같이 받았지만, 함께 받는 사람이 3명이였기에 3만 3000석으로 나누어 다스렸다. 우에스기_겐신의 사망 이후 오다군이 엣츄를 점령하면서, 엣추_국을 다스리는 권한을 얻게 되었다. 덴쇼_10년(1582년) 혼노지의_변이 일어났을 때, 호쿠리쿠_방면군은 우에스기_군의 마지막 거점인 엣추_우오즈_성을 떨어뜨렸으나, 혼노지의_변이 각 장수한테 전해지자 장수들은 각자의 영지로 돌아갔기 때문에 우에스기군의 저지를 받게 되었고, 결국 시바타_가쓰이에의 몰락_원인이 된다. 삿사_나리마사는 우에스기_가게카쓰에 대한 대비를 하기 위해, 시즈가타케_전투에는 참여하지 않고 숙부인 삿사_헤이자에몬(佐?平左衛門)를 지원군으로 보냈었다. 시바타_가쓰이에가 패배한 이후, 마에다_도시이에의 배반과 우에스기_가게카쓰의 압박으로 딸을 인질로 보내고 머리를 삭발하는 것으로 히데요시에게 항복하였다. 덴쇼_12년 (1584년), 고마키·나가쿠테_전투가 일어나자 삿사_나리마사는 도요토미_히데요시 측으로 가담하지 않고, 여름 무렵이 되자 도쿠가와_이에야스, 오다_노부카쓰 측에 가담하였다. 그렇게 되어, 히데요시 측에 붙었던 마에다_도시이에와의 스에모리성_전투가 일어났고, 이 때 에치고의 우에스기_가게카쓰와도 관계가 나빴기 때문에 양쪽으로 공격을 당해 고전하였다. 도요토미_히데요시와 도쿠가와_이에야스와의 화의가 성립되자, 삿사_나리마사는 이에야스의 재기 독촉을 위해 히다 산맥을 넘어 도쿠가와_이에야스를 만났지만, 성과를 얻지 못하였다. ",
+	"docID": "609167",
+	"ModifiedText": "삿사 나리마사(, 1536년 2월 6일 ~ 1588년 7월 7일 음력 5월 14일)는 센고쿠 시대 부터 아즈치모모야마 시대까지의 무장이며, 히고 국의 다이묘이다. 생애 삿사 나리마사는 삿사 나리무네(佐?成宗)의 3남으로 태어났다. 삿사 나리마사는 형이 2명이 있지만 형들이 연달아 싸움에서 전사하였기 때문에, 에이로쿠(永?) 3년 1560년에 가독의 후계자로 히라성 성주가 되었다. 오다 노부나가의 시종으로 들어간 삿사 나리마사는 우마마와리(馬廻)로 활약하여 전공을 세우고, 오다 가문의 무장으로 여러 전투에서 활약하여 오다군의 흑모의 무리의 장수가 되었다. 덴쇼(天正) 3년 1575년 5월의 나가시노 전투에서 마에다 도시이에(前田利家), 노노무라 마사시게(野?村正成), 후쿠도미 히데카쓰(福富秀勝), 반 나오마사(?直政)와 함께 철포대를 이끌었다. 철포봉행(砲奉行)의 한 사람이기도 하다. 오다 노부나가의 에치젠 정벌 이후 시바타 가쓰이에가 에치젠 영지를 받자 그곳의 한 군을 받아, 시바타 휘하에 소속되어 가가의 일향종과 싸움을 거듭하였다. 이 때 삿사 나리마사는 마에다 도시이에, 후와 미쓰하루(不破光治)와 함께 에치젠 후추 10만 석을 같이 받았지만, 함께 받는 사람이 3명이였기에 3만 3000석으로 나누어 다스렸다. 우에스기 겐신의 사망 이후 오다군이 엣츄를 점령하면서, 엣추 국을 다스리는 권한을 얻게 되었다. 덴쇼 10년(1582년) 혼노지의 변이 일어났을 때, 호쿠리쿠 방면군은 우에스기 군의 마지막 거점인 엣추 우오즈 성을 떨어뜨렸으나, 혼노지의 변이 각 장수한테 전해지자 장수들은 각자의 영지로 돌아갔기 때문에 우에스기군의 저지를 받게 되었고, 결국 시바타 가쓰이에의 몰락 원인이 된다. 삿사 나리마사는 우에스기 가게카쓰에 대한 대비를 하기 위해, 시즈가타케 전투에는 참여하지 않고 숙부인 삿사 헤이자에몬(佐?平左衛門)를 지원군으로 보냈었다. 시바타 가쓰이에가 패배한 이후, 마에다 도시이에의 배반과 우에스기 가게카쓰의 압박으로 딸을 인질로 보내고 머리를 삭발하는 것으로 히데요시에게 항복하였다. 덴쇼 12년 (1584년), 고마키·나가쿠테 전투가 일어나자 삿사 나리마사는 도요토미 히데요시 측으로 가담하지 않고, 여름 무렵이 되자 도쿠가와 이에야스, 오다 노부카쓰 측에 가담하였다. 그렇게 되어, 히데요시 측에 붙었던 마에다 도시이에와의 스에모리성 전투가 일어났고, 이 때 에치고의 우에스기 가게카쓰와도 관계가 나빴기 때문에 양쪽으로 공격을 당해 고전하였다. 도요토미 히데요시와 도쿠가와 이에야스와의 화의가 성립되자, 삿사 나리마사는 이에야스의 재기 독촉을 위해 히다 산맥을 넘어 도쿠가와 이에야스를 만났지만, 성과를 얻지 못하였다. "
+}

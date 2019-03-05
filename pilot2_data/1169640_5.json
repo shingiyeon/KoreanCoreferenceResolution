@@ -1,0 +1,329 @@
+{
+	"docID": "1169640",
+	"globalSID": "3412970,3412971",
+	"pronouns": [
+		{
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "그 둘",
+			"id": 0,
+			"st": 102
+		},
+		{
+			"en": 142,
+			"ancestor": "-1",
+			"surface": "외적인 여러이야기",
+			"id": 1,
+			"st": 133
+		},
+		{
+			"st": 214,
+			"coref_index": 90,
+			"id": 2,
+			"en": 216,
+			"ancestor": "5-15",
+			"surface": "자신"
+		},
+		{
+			"st": 214,
+			"coref_index": 94,
+			"id": 3,
+			"en": 229,
+			"ancestor": "1-8",
+			"surface": "자신의 Link6라는 레이블"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"entityName": "Avens",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "Avens"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "P.R",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "P.R"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"entityName": "LHA",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "LHA"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"entityName": "Nieve",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "Nieve"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "WIKILINK",
+			"entityName": "J_Beat",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 93,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "제이비트"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 172,
+			"eType": "WIKILINK",
+			"entityName": "에이준_앤_제이비트",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 187,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "A_June_&_J_Beat"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 218,
+			"eType": "WIKILINK",
+			"entityName": "Link6",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 223,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "Link6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "1-9",
+			"is_target": true,
+			"surface": "일본",
+			"coref_index": 91
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "해외_아티스트_The49ers"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 68,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "곡작업"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 88,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2012년_11월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 119,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 123,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "화상통화"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 131,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "음악"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 155,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 156,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "팀"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 202,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "소속사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 206,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 212,
+			"ancestor": "2-5",
+			"is_target": true,
+			"surface": "A_June",
+			"coref_index": 90
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 226,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 229,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "레이블"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 235,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 278,
+			"ancestor": "4-2",
+			"is_target": true,
+			"surface": "첫_싱글_Hard_2_Get_(Feat.Jas_mace_of_The49ers)",
+			"coref_index": 92
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 281,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 283,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "싱글"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 303,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 306,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "러브콜"
+		}
+	],
+	"plainText": "점차 일본을 주름잡던 해외_아티스트_The49ers, Avens , P.R , LHA, Nieve등과 친분을 쌓으며 곡작업에 박차를 가하던중 2012년_11월 제이비트와 만나게되고, 그 둘은 매일 매일을 몇시간씩 화상통화를 통하여 음악과 외적인 여러이야기를 나누던중 어렵지않게 팀을 만들기로 한다. 그리하여 A_June_&_J_Beat가 만들어지고 특별한 소속사 없이 A_June은 자신의 Link6라는 레이블을 만들어 첫_싱글_Hard_2_Get_(Feat.Jas_mace_of_The49ers)등의 싱글을 성공적으로 발표한 뒤 더욱 많은 러브콜을 받게된다."
+}

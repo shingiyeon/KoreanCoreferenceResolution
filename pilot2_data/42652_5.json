@@ -1,0 +1,311 @@
+{
+	"docID": "42652",
+	"globalSID": "403411,403412,403413,403414",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"coref_index": 569,
+			"surface": "꼬마남생이무당벌레",
+			"entityName": "꼬마남생이무당벌레"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 133,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 142,
+			"ancestor": "5-0",
+			"coref_index": 569,
+			"surface": "꼬마남생이무당벌레",
+			"entityName": "꼬마남생이무당벌레"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 156,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 163,
+			"ancestor": "-1",
+			"surface": "남생이무당벌레",
+			"entityName": "남생이무당벌레"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "3-4",
+			"coref_index": 564,
+			"surface": "무당벌레",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 8,
+			"ancestor": "-1",
+			"coref_index": 570,
+			"surface": "종류",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "-1",
+			"surface": "환경",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "-1",
+			"coref_index": 571,
+			"surface": "등껍질_색상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "무늬",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "5-4",
+			"coref_index": 570,
+			"surface": "종류",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "5-6",
+			"coref_index": 571,
+			"surface": "등껍질_색상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "베이지색",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "진한_주황색",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "검은색",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 107,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 110,
+			"ancestor": "-1",
+			"surface": "몸크기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 119,
+			"ancestor": "-1",
+			"surface": "몸길이",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "3.5mm",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 149,
+			"ancestor": "-1",
+			"surface": "12mm",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 175,
+			"ancestor": "3-3",
+			"coref_index": 572,
+			"surface": "진딧물",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 177,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 179,
+			"ancestor": "-1",
+			"surface": "먹이",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 181,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 183,
+			"ancestor": "-1",
+			"surface": "공급",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 186,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 190,
+			"ancestor": "-1",
+			"surface": "인공사육",
+			"entityName": ""
+		}
+	],
+	"plainText": "무당벌레는 종류와 환경에 따라 등껍질_색상과 무늬가 다르다. 하지만 같은 종류라도 등껍질_색상이 다를 수 있어서 꼬마남생이무당벌레의 경우 베이지색, 진한_주황색,검은색등의 차이가 있다. 또한 몸크기도 달라서 몸길이가 3.5mm 가량 되는 꼬마남생이무당벌레부터 12mm 가량 되는 남생이무당벌레까지 다양하다. 진딧물을 먹이로 공급하면 인공사육할 수 있다."
+}

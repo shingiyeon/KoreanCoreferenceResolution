@@ -1,0 +1,322 @@
+{
+	"docID": "8435",
+	"globalSID": "127433,127434,127435,127436",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 1018,
+			"surface": "과천시",
+			"entityName": "과천시"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 18,
+			"ancestor": "-1",
+			"coref_index": 1021,
+			"surface": "경기도",
+			"entityName": "경기도"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 39,
+			"ancestor": "-1",
+			"coref_index": 1029,
+			"surface": "관악산",
+			"entityName": "관악산"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 50,
+			"ancestor": "-1",
+			"coref_index": 1031,
+			"surface": "구룡산",
+			"entityName": "구룡산"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"NaturalPlace"
+			],
+			"st": 58,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 61,
+			"ancestor": "-1",
+			"coref_index": 1032,
+			"surface": "우면산",
+			"entityName": "우면산"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 78,
+			"ancestor": "-1",
+			"coref_index": 1019,
+			"surface": "서울특별시",
+			"entityName": "서울특별시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 82,
+			"ancestor": "-1",
+			"coref_index": 1027,
+			"surface": "관악구",
+			"entityName": "관악구"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 87,
+			"ancestor": "-1",
+			"coref_index": 1024,
+			"surface": "서초구",
+			"entityName": "서초구"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 97,
+			"ancestor": "-1",
+			"coref_index": 1030,
+			"surface": "청계산",
+			"entityName": "청계산_(경기/서울)"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 115,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 118,
+			"ancestor": "-1",
+			"coref_index": 1025,
+			"surface": "성남시",
+			"entityName": "성남시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 127,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 130,
+			"ancestor": "-1",
+			"coref_index": 1028,
+			"surface": "안양시",
+			"entityName": "안양시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 138,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 141,
+			"ancestor": "-1",
+			"coref_index": 1026,
+			"surface": "의왕시",
+			"entityName": "의왕시"
+		},
+		{
+			"kbox_types": [
+				"Park",
+				"Place"
+			],
+			"st": 148,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "서울대공원",
+			"entityName": "서울대공원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 167,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 173,
+			"ancestor": "-1",
+			"coref_index": 1023,
+			"surface": "정부과천청사",
+			"entityName": "정부과천청사"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 181,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "LOCATION",
+			"en": 184,
+			"ancestor": "1-0",
+			"coref_index": 1018,
+			"surface": "과천시",
+			"entityName": "과천시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 192,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 196,
+			"ancestor": "-1",
+			"surface": "전화번호",
+			"entityName": "전화번호"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 198,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "LOCATION",
+			"en": 203,
+			"ancestor": "1-6",
+			"coref_index": 1019,
+			"surface": "서울특별시",
+			"entityName": "서울특별시"
+		}
+	],
+	"plainText": "과천시(果川市)는 대한민국 경기도 중부에 있는 시이다. 북쪽으로 관악산(632m)과 구룡산(306m), 우면산(293m)을 경계로 서울특별시 관악구, 서초구와 접하고, 청계산(618m)을 경계로 동쪽으로는 성남시, 남서쪽으로는 안양시, 남쪽으로는 의왕시와 접한다. 서울대공원 등의 문화시설이 있고, 정부과천청사가 위치한다. 과천시의 시외 지역 전화번호는 서울특별시와 동일한 02이다."
+}

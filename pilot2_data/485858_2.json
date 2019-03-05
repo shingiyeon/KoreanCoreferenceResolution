@@ -1,0 +1,76 @@
+{
+	"docID": "485858",
+	"globalSID": "2146903,2146904,2146905,2146906,2146907",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 36,
+			"eType": "ELU",
+			"entityName": "주찬권",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 39,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "주찬권",
+			"coref_index": 621
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer",
+				"Artist"
+			],
+			"st": 125,
+			"eType": "ELU",
+			"entityName": "이용하",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 128,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이용하"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그룹_'믿음_소망_사랑'"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 44,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "최구희",
+			"coref_index": 622
+		}
+	],
+	"plainText": "제작과 녹음 녹음에는 당시 그룹_'믿음_소망_사랑'으로 활동하던 주찬권과 최구희가 세션으로 참여했다. 음반 전체를 녹음하는데에는 약 1~2개월?정도가 걸렸으며, 멀티트랙 녹음으로, 24트랙 녹음이 이루어졌다. 주로 카세트를 이용하여 곡 작업을 했다. 《들국화》는 한국에서 최초로 16채널 녹음이 도입된 음반이다."
+}

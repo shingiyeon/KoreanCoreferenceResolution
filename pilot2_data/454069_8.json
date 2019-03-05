@@ -1,0 +1,208 @@
+{
+	"docID": "454069",
+	"globalSID": "2069995,2069996,2069997",
+	"pronouns": [],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "2014년_시즌",
+			"entityName": "2014년_NC_다이노스_시즌"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 12,
+			"ancestor": "-1",
+			"coref_index": 595,
+			"surface": "손시헌",
+			"entityName": "손시헌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 21,
+			"ancestor": "-1",
+			"coref_index": 596,
+			"surface": "박민우",
+			"entityName": "박민우"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 64,
+			"ancestor": "",
+			"surface": "8월_5일",
+			"entityName": "8월_5일"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 65,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 72,
+			"ancestor": "-1",
+			"surface": "롯데_자이언츠",
+			"entityName": "롯데_자이언츠"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 80,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 83,
+			"ancestor": "8-1",
+			"coref_index": 595,
+			"surface": "손시헌",
+			"entityName": "손시헌"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 88,
+			"ancestor": "-1",
+			"surface": "강민호",
+			"entityName": "강민호"
+		},
+		{
+			"kbox_types": [
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 118,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "인천_아시안게임",
+			"entityName": "2014년_아시안_게임"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "백업_선수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 75,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "경기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 99,
+			"ancestor": "-1",
+			"surface": "무릎_인대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "부상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 135,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 141,
+			"ancestor": "-1",
+			"surface": "주전_유격수",
+			"entityName": ""
+		}
+	],
+	"plainText": "2014년_시즌 손시헌의 영입과 박민우의 성장에 따라 시즌에서 주로 내야 백업_선수로 활약하였다. 그러다 8월_5일 롯데_자이언츠와의 경기에서 손시헌이 강민호와 부딪혀 무릎_인대 파열 부상으로 1군에서 말소되자 인천_아시안게임 휴식기 전까지 주전_유격수로 출장하였다."
+}

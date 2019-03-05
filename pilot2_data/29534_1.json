@@ -1,0 +1,122 @@
+{
+	"docID": "29534",
+	"globalSID": "278041,278042,278043,278044",
+	"pronouns": [
+		{
+			"en": 9,
+			"st": 0,
+			"surface": "그놈(GNOME:",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 48,
+			"st": 0,
+			"surface": "그놈(GNOME: GNU Network Object Model Environment)은",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 73,
+			"st": 72,
+			"surface": "이",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 85,
+			"st": 72,
+			"surface": "이를 개발하는 프로젝트의",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 265,
+			"st": 262,
+			"surface": "그놈과",
+			"id": 4,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 183,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 191,
+			"ancestor": "-1",
+			"surface": "GNU_프로젝트",
+			"entityName": "GNU_프로젝트"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 202,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 208,
+			"ancestor": "-1",
+			"coref_index": 417,
+			"surface": "유닉스_계열",
+			"entityName": "유닉스_계열"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 227,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 230,
+			"ancestor": "-1",
+			"surface": "우분투",
+			"entityName": "우분투_(운영_체제)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 240,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 243,
+			"ancestor": "-1",
+			"surface": "페도라",
+			"entityName": "페도라"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 266,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 270,
+			"ancestor": "-1",
+			"coref_index": 418,
+			"surface": "솔라리스",
+			"entityName": "솔라리스_(운영_체제)"
+		}
+	],
+	"plainText": "그놈(GNOME: GNU Network Object Model Environment)은 데스크톱 프로그램 집합의 일종이기도 하며 이를 개발하는 프로젝트의 이름이기도 하다. 컴퓨터 운영 체제의 최상위 계층에서 동작하는 그래픽 사용자 인터페이스로서 완전히 소스 공개 자유 소프트웨어로 이루어져 있으며 프로젝트의 규모는 국제적이다. GNU_프로젝트의 일부이며 다양한 유닉스_계열 운영 체제에서 사용할 수 있다. 우분투(~10.10), 페도라 등의 기본 데스크톱 환경으로서의 그놈과 솔라리스의 자바 데스크톱 시스템이 대표적이다."
+}

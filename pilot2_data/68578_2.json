@@ -1,0 +1,390 @@
+{
+	"docID": "68578",
+	"globalSID": "564959,564960,564961",
+	"pronouns": [
+		{
+			"en": 23,
+			"st": 20,
+			"surface": "본관은",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 1,
+			"ancestor": "-1",
+			"surface": "성",
+			"entityName": "성"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "이(李)",
+			"entityName": "이씨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "휘",
+			"entityName": "휘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "본관",
+			"entityName": "본관"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "전주(全州)",
+			"entityName": "전주_이씨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "자",
+			"entityName": "자_(이름)"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 57,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "정안군",
+			"entityName": "조선_태종"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "묘호(廟號)",
+			"entityName": "묘호"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 93,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 99,
+			"ancestor": "-1",
+			"coref_index": 813,
+			"surface": "시호(諡號)",
+			"entityName": "시호"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"st": 151,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 152,
+			"ancestor": "-1",
+			"surface": "명",
+			"entityName": "명나라"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 176,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 178,
+			"ancestor": "-1",
+			"surface": "숙종",
+			"entityName": "조선_숙종"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Politician",
+				"Governor",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 180,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 182,
+			"ancestor": "-1",
+			"surface": "고종",
+			"entityName": "대한제국_고종"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "방원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "유덕",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "왕자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 70,
+			"ancestor": "1-6",
+			"coref_index": 812,
+			"surface": "정안공",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 81,
+			"ancestor": "1-6",
+			"coref_index": 812,
+			"surface": "태종",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 111,
+			"ancestor": "1-6",
+			"coref_index": 812,
+			"surface": "성덕신공문무광효대왕",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 135,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 147,
+			"ancestor": "2-16",
+			"coref_index": 812,
+			"surface": "태종성덕신공문무광효대왕",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 162,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "PERSON",
+			"en": 164,
+			"ancestor": "2-16",
+			"coref_index": 812,
+			"surface": "공정",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 187,
+			"ancestor": "-1",
+			"surface": "존호",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 195,
+			"ancestor": "-1",
+			"surface": "시호",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 204,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 230,
+			"ancestor": "2-16",
+			"coref_index": 812,
+			"surface": "태종공정성덕신공건천체극대정계우문무예철성렬광효대왕",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "존시",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "ETC",
+			"en": 160,
+			"ancestor": "2-8",
+			"coref_index": 813,
+			"surface": "시호",
+			"entityName": ""
+		}
+	],
+	"plainText": "성은 이(李), 휘는 방원(芳遠), 본관은 전주(全州), 자는 유덕(遺德)이다. 왕자 때 받은 작호는 정안군(靖安君), 정안공(靖安公)이고, 태종은 묘호(廟號)이며, 시호(諡號)는 성덕신공문무광효대왕(聖德神功文武光孝大王)이므로 존시를 합치면 태종성덕신공문무광효대왕이다. 명에서 받은 시호는 공정(恭定)이고, 나중에 숙종과 고종 때 존호를 더하여 시호를 모두 합치면 태종공정성덕신공건천체극대정계우문무예철성렬광효대왕(太宗恭定聖德神功建天體極大正啓佑文武睿哲成烈光孝大王)이다."
+}

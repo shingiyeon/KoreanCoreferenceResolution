@@ -1,0 +1,98 @@
+{
+	"docID": "253628",
+	"globalSID": "1439361,1439362",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "-1",
+			"coref_index": 351,
+			"surface": "로저_첸",
+			"entityName": "로저_첸"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "-1",
+			"surface": "중국계_미국인",
+			"entityName": "중국계_미국인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "생화학자",
+			"entityName": "생화학"
+		},
+		{
+			"kbox_types": [
+				"Award",
+				"NobelPrize"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "-1",
+			"coref_index": 354,
+			"surface": "노벨_화학상",
+			"entityName": "노벨_화학상"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 19,
+			"ancestor": "",
+			"surface": "1952년_2월_1일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 34,
+			"ancestor": "",
+			"surface": "2016년_8월_24일",
+			"entityName": ""
+		}
+	],
+	"plainText": "로저_첸 (, 1952년_2월_1일 ~ 2016년_8월_24일)은 중국계_미국인 생화학자다. 2008년에 노벨_화학상을 수상하였다."
+}

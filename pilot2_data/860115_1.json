@@ -1,0 +1,86 @@
+{
+	"docID": "860115",
+	"globalSID": "2918875",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 36,
+			"ancestor": "-1",
+			"surface": "LG전자",
+			"entityName": "LG전자"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 56,
+			"ancestor": "-1",
+			"coref_index": 1062,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "-1",
+			"coref_index": 1066,
+			"surface": "LG_옵티머스_뷰_II",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 39,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 51,
+			"ancestor": "",
+			"surface": "2012년_9월_28일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "안드로이드_스마트폰",
+			"entityName": ""
+		}
+	],
+	"plainText": "LG_옵티머스_뷰_II(LG Optimus Vu II)는 LG전자에서 2012년_9월_28일 대한민국에서 출시한 안드로이드_스마트폰이다."
+}

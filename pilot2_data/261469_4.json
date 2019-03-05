@@ -1,0 +1,386 @@
+{
+	"docID": "261469",
+	"globalSID": "1473148,1473149,1473150,1473151,1473152",
+	"pronouns": [
+		{
+			"en": 3,
+			"ancestor": "-1",
+			"surface": "얼마후",
+			"id": 0,
+			"st": 0
+		},
+		{
+			"st": 4,
+			"coref_index": 357,
+			"id": 1,
+			"en": 5,
+			"ancestor": "1-2",
+			"surface": "그"
+		},
+		{
+			"st": 4,
+			"coref_index": 356,
+			"id": 2,
+			"en": 8,
+			"ancestor": "2-2",
+			"surface": "그의 형"
+		},
+		{
+			"st": 4,
+			"coref_index": 356,
+			"id": 3,
+			"en": 13,
+			"ancestor": "2-2",
+			"surface": "그의 형인 로베르"
+		},
+		{
+			"st": 39,
+			"coref_index": 356,
+			"id": 4,
+			"en": 41,
+			"ancestor": "4-0",
+			"surface": "자신"
+		},
+		{
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "그동안의",
+			"id": 5,
+			"st": 69
+		},
+		{
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "핸리의 그동안의 노력에도",
+			"id": 6,
+			"st": 65
+		},
+		{
+			"en": 200,
+			"ancestor": "-1",
+			"surface": "이 타협안으로",
+			"id": 7,
+			"st": 193
+		},
+		{
+			"st": 215,
+			"coref_index": 356,
+			"id": 8,
+			"en": 217,
+			"ancestor": "4-4",
+			"surface": "자신"
+		},
+		{
+			"en": 222,
+			"ancestor": "-1",
+			"surface": "잉글랜드에 대한 자신의 권리를",
+			"id": 9,
+			"st": 206
+		},
+		{
+			"en": 233,
+			"ancestor": "-1",
+			"surface": "잉글랜드에 대한 자신의 권리를 모두 포기하는 대신",
+			"id": 10,
+			"st": 206
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 10,
+			"eType": "ELU",
+			"entityName": "로베르_(라틴_제국)",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 13,
+			"ancestor": "2-3",
+			"is_target": true,
+			"surface": "로베르",
+			"coref_index": 356
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 28,
+			"eType": "ELU",
+			"entityName": "잉글랜드",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 32,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "잉글랜드",
+			"coref_index": 355
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 133,
+			"eType": "ELU",
+			"entityName": "안셀무스",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 137,
+			"ancestor": "3-5",
+			"is_target": true,
+			"surface": "안셀무스",
+			"coref_index": 359
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 152,
+			"eType": "ELU",
+			"entityName": "로베르_(라틴_제국)",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 155,
+			"ancestor": "4-0",
+			"is_target": true,
+			"surface": "로베르",
+			"coref_index": 356
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 201,
+			"eType": "ELU",
+			"entityName": "로베르_(라틴_제국)",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 204,
+			"ancestor": "4-3",
+			"is_target": true,
+			"surface": "로베르",
+			"coref_index": 356
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 206,
+			"eType": "ELU",
+			"entityName": "잉글랜드",
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 210,
+			"ancestor": "4-1",
+			"is_target": true,
+			"surface": "잉글랜드",
+			"coref_index": 355
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 266,
+			"eType": "ELU",
+			"entityName": "로베르_(라틴_제국)",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 269,
+			"ancestor": "4-3",
+			"is_target": true,
+			"surface": "로베르",
+			"coref_index": 356
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 316,
+			"eType": "ELU",
+			"entityName": "프랑스",
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 319,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 333,
+			"eType": "ELU",
+			"entityName": "노르망디",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 337,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "노르망디",
+			"coref_index": 360
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 354,
+			"eType": "ELU",
+			"entityName": "로베르_(라틴_제국)",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 357,
+			"ancestor": "4-6",
+			"is_target": true,
+			"surface": "로베르",
+			"coref_index": 356
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 368,
+			"eType": "ELU",
+			"entityName": "노르망디",
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 372,
+			"ancestor": "4-8",
+			"is_target": true,
+			"surface": "노르망디",
+			"coref_index": 360
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 386,
+			"eType": "ELU",
+			"entityName": "로베르_(라틴_제국)",
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 389,
+			"ancestor": "4-9",
+			"is_target": true,
+			"surface": "로베르",
+			"coref_index": 356
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 391,
+			"eType": "ELU",
+			"entityName": "잉글랜드",
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 395,
+			"ancestor": "4-5",
+			"is_target": true,
+			"surface": "잉글랜드",
+			"coref_index": 355
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 67,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "핸리",
+			"coref_index": 357
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 234,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 241,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "노르망디_지방"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 312,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 314,
+			"ancestor": "4-13",
+			"is_target": true,
+			"surface": "헨리",
+			"coref_index": 357
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 327,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "TIME",
+			"en": 332,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1106년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 344,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "EVENT",
+			"en": 351,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "탱슈브레_전투"
+		}
+	],
+	"plainText": "얼마후 그의 형인 로베르는 예상대로 군대를 이끌고 잉글랜드로 침입하여 자신이야말로 정당한 왕위계승자라고 주장하였는데 핸리의 그동안의 노력에도 불구하고 대귀족들은 대부분 형의 편에 섰다. 하지만 수많은 봉건 귀족들과 특히 캔터베리의 대주교 안셀무스의 절대적 지지를 바탕으로 로베르와 대등한 싸움을 벌였으며 결국에는 타협안을 이끌어내는데 성공한다. 이 타협안으로 로베르는 잉글랜드에 대한 자신의 권리를 모두 포기하는 대신 노르망디_지방의 영토와 막대한 연금을 요구하였다. 하지만 로베르의 통치는 노르망디 사람들의 불만을 가져왔고, 노르망디 귀족들의 부탁을 받은 헨리는 프랑스의 묵인 아래 1106년 노르망디를 정벌하여 탱슈브레_전투에서 로베르의 군대를 격멸하고 노르망디를 수중에 넣는다. 이후 로베르는 잉글랜드로 압송되어 엄중한 감시속에 여생을 보내게 된다."
+}

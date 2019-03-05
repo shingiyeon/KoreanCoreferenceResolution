@@ -1,0 +1,99 @@
+{
+	"docID": "153937",
+	"globalSID": "1047261,1047262,1047263,1047264,1047265,1047266",
+	"pronouns": [
+		{
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "이 때에는",
+			"id": 0,
+			"st": 32
+		},
+		{
+			"en": 183,
+			"ancestor": "-1",
+			"surface": "한 술집에서는",
+			"id": 1,
+			"st": 176
+		},
+		{
+			"en": 236,
+			"ancestor": "-1",
+			"surface": "이것은",
+			"id": 2,
+			"st": 233
+		},
+		{
+			"en": 322,
+			"ancestor": "-1",
+			"surface": "다른 여러 회사에서도",
+			"id": 3,
+			"st": 311
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "오락실",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오락실"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 110,
+			"eType": "WIKILINK",
+			"entityName": "핀볼",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 112,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "핀볼"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 268,
+			"eType": "WIKILINK",
+			"entityName": "미국",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 270,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "미국"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 288,
+			"eType": "WIKILINK",
+			"entityName": "아케이드_게임",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 295,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아케이드_게임"
+		}
+	],
+	"plainText": "인기 퐁은 발매 당시 1대당 1,200달러에 판매되었다. 이 때에는 오락실(게임 센터)라는 개념이 없었던 시절이었기 때문에 주로 술집 위주로 판매가 되었다. 당시 술집에서 많이 팔렸던 오락 기구로 핀볼이 있었는데 당시 가장 인기가 있던 핀볼이 2,000대 이상 팔렸던 반면 퐁은 무려 8,500대가 팔렸다고 한다. 한 술집에서는 설치한지 이틀만에 고장이 나서 AS를 가보니 동전이 너무 많이 투입된 것이 원인이었으며 이것은 플레이한 사람이 굉장히 많았다는 것을 의미한다. 이렇게 미국 전역에 엄청난 히트를 치면서 '아케이드_게임' 시장을 개척하게 되었고, 다른 여러 회사에서도 업소용 게임들을 출시하면서 오늘날 의미하는 게임센터가 만들어지게 되었다."
+}

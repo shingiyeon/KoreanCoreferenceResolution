@@ -1,0 +1,716 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"st": 32,
+			"eType": "WIKILINK",
+			"entityName": "LG전자",
+			"en": 36,
+			"is_target": true,
+			"surface": "LG전자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 52,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 56,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 1062,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 12,
+			"is_target": true,
+			"surface": "LG_옵티머스_뷰_II",
+			"coref_index": 1066,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 39,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 51,
+			"is_target": false,
+			"surface": "2012년_9월_28일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 63,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 73,
+			"is_target": true,
+			"surface": "안드로이드_스마트폰",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 77,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 81,
+			"is_target": true,
+			"surface": "운영체제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 82,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 87,
+			"is_target": true,
+			"surface": "업그레이드",
+			"coref_index": 1064,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Company",
+				"Agent",
+				"Organisation",
+				"Work"
+			],
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"st": 88,
+			"eType": "WIKILINK",
+			"entityName": "안드로이드_(운영_체제)",
+			"en": 93,
+			"is_target": true,
+			"surface": "안드로이드",
+			"coref_index": 1065,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 94,
+			"eType": "WIKILINK",
+			"entityName": "안드로이드_버전_역사",
+			"en": 103,
+			"is_target": true,
+			"surface": "4.1.2_젤리빈",
+			"coref_index": 1063,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 9,
+			"ne_type": "LOCATION",
+			"st": 124,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 128,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 1062,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"st": 131,
+			"eType": "WIKILINK",
+			"entityName": "SK텔레콤",
+			"en": 136,
+			"is_target": true,
+			"surface": "SK텔레콤",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 138,
+			"eType": "WIKILINK",
+			"entityName": "KT",
+			"en": 140,
+			"is_target": true,
+			"surface": "KT",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 145,
+			"eType": "WIKILINK",
+			"entityName": "안드로이드_버전_역사",
+			"en": 154,
+			"is_target": true,
+			"surface": "4.1.2_젤리빈",
+			"coref_index": 1063,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 104,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 109,
+			"is_target": true,
+			"surface": "업그레이드",
+			"coref_index": 1064,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "TIME",
+			"st": 111,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 123,
+			"is_target": false,
+			"surface": "2013년_2월_26일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 141,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 143,
+			"is_target": true,
+			"surface": "모델",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 157,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 162,
+			"is_target": true,
+			"surface": "업그레이드",
+			"coref_index": 1064,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 170,
+			"eType": "WIKILINK",
+			"en": 176,
+			"entityName": "LG유플러스",
+			"is_target": true,
+			"surface": "LG유플러스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "TIME",
+			"st": 181,
+			"eType": "NEW",
+			"en": 193,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2013년_3월_20일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Company",
+				"Agent",
+				"Organisation",
+				"Work"
+			],
+			"id": 19,
+			"ne_type": "ORGANIZATION",
+			"st": 202,
+			"eType": "WIKILINK",
+			"en": 207,
+			"entityName": "안드로이드_(운영_체제)",
+			"is_target": true,
+			"surface": "안드로이드",
+			"coref_index": 1065,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 208,
+			"eType": "WIKILINK",
+			"en": 216,
+			"entityName": "안드로이드_버전_역사",
+			"is_target": true,
+			"surface": "4.4.2_킷캣",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"Album",
+				"TimePeriod",
+				"Work"
+			],
+			"id": 21,
+			"ne_type": "TIME",
+			"st": 224,
+			"eType": "WIKILINK",
+			"en": 229,
+			"entityName": "2014년",
+			"is_target": false,
+			"surface": "2014년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 230,
+			"eType": "WIKILINK",
+			"en": 236,
+			"entityName": "6월_19일",
+			"is_target": false,
+			"surface": "6월_19일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 278,
+			"eType": "WIKILINK",
+			"en": 280,
+			"entityName": "안드로이드_버전_역사",
+			"is_target": true,
+			"surface": "킷캣",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 217,
+			"eType": "NEW",
+			"en": 222,
+			"entityName": "",
+			"is_target": true,
+			"surface": "업그레이드",
+			"coref_index": 1064,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 238,
+			"eType": "NEW",
+			"en": 246,
+			"entityName": "",
+			"is_target": true,
+			"surface": "LG-F200S",
+			"coref_index": 1066,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 259,
+			"eType": "NEW",
+			"en": 264,
+			"entityName": "",
+			"is_target": true,
+			"surface": "업그레이드",
+			"coref_index": 1064,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 254,
+			"eType": "NEW",
+			"en": 256,
+			"entityName": "",
+			"is_target": true,
+			"surface": "시작",
+			"coref_index": 1067,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 273,
+			"eType": "NEW",
+			"en": 276,
+			"entityName": "",
+			"is_target": true,
+			"surface": "상단바",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 281,
+			"eType": "NEW",
+			"en": 284,
+			"entityName": "",
+			"is_target": true,
+			"surface": "디자인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 314,
+			"eType": "NEW",
+			"en": 317,
+			"entityName": "",
+			"is_target": true,
+			"surface": "Q메모",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 319,
+			"eType": "NEW",
+			"en": 321,
+			"entityName": "",
+			"is_target": true,
+			"surface": "기능",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 330,
+			"eType": "NEW",
+			"en": 335,
+			"entityName": "",
+			"is_target": true,
+			"surface": "Q슬라이드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 339,
+			"eType": "NEW",
+			"en": 340,
+			"entityName": "",
+			"is_target": true,
+			"surface": "앱",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 299,
+			"eType": "NEW",
+			"en": 301,
+			"entityName": "",
+			"is_target": true,
+			"surface": "효과",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 293,
+			"eType": "NEW",
+			"en": 295,
+			"entityName": "",
+			"is_target": true,
+			"surface": "잠금",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 296,
+			"eType": "NEW",
+			"en": 298,
+			"entityName": "",
+			"is_target": true,
+			"surface": "화면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 287,
+			"eType": "NEW",
+			"en": 289,
+			"entityName": "",
+			"is_target": true,
+			"surface": "변경",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 303,
+			"eType": "NEW",
+			"en": 305,
+			"entityName": "",
+			"is_target": true,
+			"surface": "추가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 266,
+			"eType": "NEW",
+			"en": 268,
+			"entityName": "",
+			"is_target": true,
+			"surface": "시작",
+			"coref_index": 1067,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 348,
+			"eType": "NEW",
+			"en": 353,
+			"entityName": "",
+			"is_target": true,
+			"surface": "특이_사항",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 404,
+			"eType": "WIKILINK",
+			"entityName": "애플_(기업)",
+			"en": 406,
+			"is_target": true,
+			"surface": "애플",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 408,
+			"eType": "WIKILINK",
+			"entityName": "시리",
+			"en": 410,
+			"is_target": true,
+			"surface": "시리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 412,
+			"eType": "WIKILINK",
+			"entityName": "삼성전자",
+			"en": 416,
+			"is_target": true,
+			"surface": "삼성전자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 418,
+			"eType": "WIKILINK",
+			"entityName": "S_보이스",
+			"en": 423,
+			"is_target": true,
+			"surface": "S_보이스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 45,
+			"ne_type": "ORGANIZATION",
+			"st": 425,
+			"eType": "WIKILINK",
+			"entityName": "팬택",
+			"en": 427,
+			"is_target": true,
+			"surface": "팬택",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 429,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 436,
+			"is_target": true,
+			"surface": "스마트_보이스",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2918875,2918876,2918877,2918878,2918879,2918880,2918881,2918882,2918883,2918884,2918885,2918886,2918887",
+	"parID": "1",
+	"pronouns": [],
+	"plainText": "LG_옵티머스_뷰_II(LG Optimus Vu II)는 LG전자에서 2012년_9월_28일 대한민국에서 출시한 안드로이드_스마트폰이다. 운영체제 업그레이드 안드로이드 4.1.2_젤리빈 업그레이드. 2013년_2월_26일 대한민국에서 SK텔레콤과 KT 모델이 4.1.2_젤리빈으로 업그레이드 되었으며,. LG유플러스 모델은 2013년_3월_20일에 시행되었다. 안드로이드 4.4.2_킷캣 업그레이드. 2014년 6월_19일, LG-F200S, K 버전을 시작으로 업그레이드가 시작되었다. 상단바가 킷캣 디자인으로 변경되고, 잠금 화면_효과가 추가되었다. 그리고 Q메모의 기능이 다양해지고, Q슬라이드 지원 앱이 많아졌다. 특이_사항 Q 보이스 음성시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. 애플의 시리, 삼성전자의 S_보이스, 팬택의 스마트_보이스와 유사하다. ",
+	"docID": "860115"
+}

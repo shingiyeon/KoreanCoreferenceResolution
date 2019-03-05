@@ -1,0 +1,73 @@
+{
+	"docID": "247635",
+	"globalSID": "1420746,1420747,1420748,1420749",
+	"pronouns": [
+		{
+			"st": 21,
+			"coref_index": 337,
+			"id": 0,
+			"en": 22,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 63,
+			"coref_index": 337,
+			"id": 1,
+			"en": 64,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Town",
+				"Place"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"entityName": "그리녹",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 49,
+			"ancestor": "3-2",
+			"is_target": true,
+			"surface": "그리녹",
+			"coref_index": 339
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 104,
+			"eType": "WIKILINK",
+			"entityName": "라틴어",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "라틴어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 109,
+			"eType": "WIKILINK",
+			"entityName": "그리스어",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 113,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그리스어"
+		}
+	],
+	"plainText": "와트는 정규교육을 받지 않았다. 처음 그는 집에서 어머니에게 교육을 받았으나 이후 그리녹 문법 학교에 입학했다. 그는 아주 뛰어난 손재주를 보였고, 공학과 수학에 재능이 있었다. 반면, 라틴어나 그리스어에 대해서는 관심을 갖지 않았다."
+}

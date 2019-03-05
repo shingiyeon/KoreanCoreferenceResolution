@@ -1,0 +1,184 @@
+{
+	"docID": "2758",
+	"globalSID": "44183,44184,44185",
+	"pronouns": [
+		{
+			"en": 86,
+			"st": 79,
+			"surface": "다른 나라들과",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 135,
+			"st": 121,
+			"surface": "다른 스칸디나비아_제어와는",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 28,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 31,
+			"ancestor": "1-2",
+			"coref_index": 391,
+			"surface": "스웨덴",
+			"entityName": "스웨덴"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 41,
+			"ancestor": "1-4",
+			"coref_index": 390,
+			"surface": "핀란드",
+			"entityName": "핀란드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 54,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "페노스칸디아",
+			"entityName": "페노스칸디아"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 66,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 69,
+			"ancestor": "3-1",
+			"coref_index": 390,
+			"surface": "핀란드",
+			"entityName": "핀란드"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"st": 71,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 77,
+			"ancestor": "1-0",
+			"coref_index": 387,
+			"surface": "스칸디나비아",
+			"entityName": "스칸디나비아"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "-1",
+			"coref_index": 400,
+			"surface": "핀란드어",
+			"entityName": "핀란드어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 109,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"surface": "인도유럽어족",
+			"entityName": "인도유럽어족"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 124,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "스칸디나비아_제어",
+			"entityName": "스칸디나비아_제어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 139,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "우랄어족",
+			"entityName": "우랄어족"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 152,
+			"ancestor": "-1",
+			"surface": "핀우그리아어파",
+			"entityName": "핀우그리아어파"
+		}
+	],
+	"plainText": "문화적, 역사적 관점에서 스칸디나비아에 오랜 기간 스웨덴의 일부였던 핀란드를 포함하기도 한다. (페노스칸디아 참조). 핀란드가 스칸디나비아의 다른 나라들과 문화적으로 가깝기는 하지만, 핀란드어는 인도유럽어족에 속하는 다른 스칸디나비아_제어와는 달리 우랄어족의 핀우그리아어파에 속한다."
+}

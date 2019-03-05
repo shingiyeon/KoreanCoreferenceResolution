@@ -1,0 +1,342 @@
+{
+	"docID": "261469",
+	"globalSID": "1473160,1473161,1473162,1473163,1473164",
+	"pronouns": [
+		{
+			"st": 3,
+			"coref_index": 357,
+			"id": 0,
+			"en": 4,
+			"ancestor": "1-2",
+			"surface": "그"
+		},
+		{
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "그의 독자였던",
+			"id": 1,
+			"st": 3
+		},
+		{
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "그의 독자였던 윌리엄은",
+			"id": 2,
+			"st": 3
+		},
+		{
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "다른 적자가",
+			"id": 3,
+			"st": 64
+		},
+		{
+			"st": 154,
+			"coref_index": 361,
+			"id": 4,
+			"en": 156,
+			"ancestor": "7-4",
+			"surface": "그녀"
+		},
+		{
+			"st": 158,
+			"coref_index": 357,
+			"id": 5,
+			"en": 160,
+			"ancestor": "1-2",
+			"surface": "자신"
+		},
+		{
+			"en": 166,
+			"ancestor": "-1",
+			"surface": "자신의 후계자로",
+			"id": 6,
+			"st": 158
+		},
+		{
+			"en": 173,
+			"ancestor": "-1",
+			"surface": "그녀를 자신의 후계자로 인정할 것을",
+			"id": 7,
+			"st": 154
+		},
+		{
+			"st": 184,
+			"coref_index": 361,
+			"id": 8,
+			"en": 186,
+			"ancestor": "7-4",
+			"surface": "그녀"
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 11,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "윌리엄",
+			"entityName": "윌리엄_셰익스피어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 83,
+			"ancestor": "-1",
+			"surface": "추정상속인",
+			"entityName": "추정상속인"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "마틸다",
+			"entityName": "마틸다_(잉글랜드)"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 98,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 103,
+			"ancestor": "",
+			"surface": "1125년",
+			"entityName": "1125년"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 127,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 130,
+			"ancestor": "3-3",
+			"coref_index": 361,
+			"surface": "마틸다",
+			"entityName": "마틸다_(잉글랜드)"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 132,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 136,
+			"ancestor": "4-12",
+			"coref_index": 355,
+			"surface": "잉글랜드",
+			"entityName": "잉글랜드"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 220,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 224,
+			"ancestor": "-1",
+			"surface": "조프루아",
+			"entityName": "조프루아_플랜태저넷"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 231,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 236,
+			"ancestor": "-1",
+			"surface": "헨리_2세",
+			"entityName": "헨리_2세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 25,
+			"ancestor": "",
+			"surface": "1120년_11월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 60,
+			"ancestor": "1-2",
+			"coref_index": 357,
+			"surface": "헨리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 117,
+			"ancestor": "-1",
+			"surface": "독일_황제_하인리히_5세",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 122,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 124,
+			"ancestor": "-1",
+			"surface": "왕비",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 146,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 148,
+			"ancestor": "-1",
+			"coref_index": 362,
+			"surface": "귀족",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 162,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 165,
+			"ancestor": "-1",
+			"surface": "후계자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 191,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 193,
+			"ancestor": "7-12",
+			"coref_index": 362,
+			"surface": "귀족",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 206,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 214,
+			"ancestor": "-1",
+			"surface": "앙주_백작_풀크",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 216,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 218,
+			"ancestor": "-1",
+			"surface": "아들",
+			"entityName": ""
+		}
+	],
+	"plainText": "후계 그의 독자였던 윌리엄은 1120년_11월에 타고있던 배가 암초에 부딪혀 침몰한 사고로 익사하였다. 헨리에게는 다른 적자가 없었으므로, 추정상속인은 딸인 마틸다가 되었다. 1125년 독일_황제_하인리히_5세가 죽자 왕비였던 마틸다를 잉글랜드로 불렀고, 주요 귀족들 앞에서 그녀를 자신의 후계자로 인정할 것을 서약하게 하였다. 그녀는 이후 귀족들의 반대에도 불구하고 앙주_백작_풀크의 아들인 조프루아와 결혼하여 헨리_2세를 낳게 된다."
+}

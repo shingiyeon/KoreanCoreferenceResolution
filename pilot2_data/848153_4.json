@@ -1,0 +1,333 @@
+{
+	"docID": "848153",
+	"globalSID": "2902048,2902049,2902050,2902051,2902052",
+	"pronouns": [
+		{
+			"st": 123,
+			"coref_index": 1044,
+			"id": 0,
+			"en": 127,
+			"ancestor": "4-13",
+			"surface": "이 지역"
+		},
+		{
+			"en": 131,
+			"ancestor": "-1",
+			"surface": "이 지역 진출에",
+			"id": 1,
+			"st": 123
+		},
+		{
+			"en": 139,
+			"ancestor": "-1",
+			"surface": "이 지역 진출에 따른 것으로,",
+			"id": 2,
+			"st": 123
+		},
+		{
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "그 뒤",
+			"id": 3,
+			"st": 140
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "ELU",
+			"entityName": "북아프리카",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 26,
+			"ancestor": "2-4",
+			"is_target": true,
+			"surface": "북아프리카",
+			"coref_index": 1047
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"entityName": "사도행전",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "사도행전"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"entityName": "에티오피아",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 68,
+			"ancestor": "2-10",
+			"is_target": true,
+			"surface": "에티오피아",
+			"coref_index": 1049
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 117,
+			"eType": "WIKILINK",
+			"entityName": "포르투갈",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 121,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포르투갈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 148,
+			"eType": "WIKILINK",
+			"entityName": "콩고",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 150,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "콩고"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 152,
+			"eType": "WIKILINK",
+			"entityName": "앙골라",
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 155,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "앙골라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "ELU",
+			"entityName": "기독교",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 193,
+			"ancestor": "4-11",
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1050
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"st": 286,
+			"eType": "ELU",
+			"entityName": "아프리카",
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 290,
+			"ancestor": "2-1",
+			"is_target": true,
+			"surface": "아프리카",
+			"coref_index": 1043
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 314,
+			"eType": "WIKILINK",
+			"entityName": "개신교",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 317,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "개신교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 331,
+			"eType": "WIKILINK",
+			"entityName": "로마_가톨릭",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 334,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "가톨릭"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 348,
+			"eType": "WIKILINK",
+			"entityName": "동방_정교회",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 354,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "동방_정교회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1051
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 15,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "지중해"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 100,
+			"ancestor": "2-5",
+			"is_target": true,
+			"surface": "블랙아프리카",
+			"coref_index": 1044
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 181,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 187,
+			"ancestor": "2-5",
+			"is_target": true,
+			"surface": "블랙아프리카",
+			"coref_index": 1044
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 292,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 295,
+			"ancestor": "4-11",
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1051
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 376,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 379,
+			"ancestor": "4-11",
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1051
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 392,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 396,
+			"ancestor": "1-1",
+			"is_target": true,
+			"surface": "이슬람교",
+			"coref_index": 1046
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 410,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "LOCATION",
+			"en": 416,
+			"ancestor": "2-3",
+			"is_target": true,
+			"surface": "블랙아프리카",
+			"coref_index": 1044
+		}
+	],
+	"plainText": "기독교는 1세기 이후 지중해 연안에서 북아프리카로 전래되었으며, 이러한 근거로는 사도행전에도 빌립 집사(부제)가 에티오피아의 내시에게 세례를 준 기록을 찾을 수 있다. 블랙아프리카에 전파된 시기는 15세기 말 포르투갈의 이 지역 진출에 따른 것으로, 그 뒤 현재의 콩고나 앙골라에서 선교사들에 의해 교회가 세워졌다. 그러나 블랙아프리카에서 기독교의 대대적인 포교활동이 시작된 것은 18세기 이후이며, 19세기 말부터 시작된 식민지주의의 본격적 진출과 함께 포교활동도 절정에 달했다. 1981년의 통계에 따르면, 아프리카의 기독교인은 총 1억 3091만 명으로, 개신교가 약 6,978만 명, 가톨릭이 약 4,802만 명, 동방_정교회계 및 기타가 약 1,310만 명이다. 기독교인의 분포지역은 대체로 이슬람교도의 분포지역에서 벗어난 블랙아프리카가 중심이다."
+}

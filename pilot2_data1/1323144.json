@@ -1,0 +1,588 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "아르헨티나",
+			"en": 46,
+			"is_target": true,
+			"surface": "아르헨티나",
+			"coref_index": 181,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 1,
+			"ne_type": "PERSON",
+			"st": 55,
+			"eType": "WIKILINK",
+			"entityName": "호르헤_라파엘_비델라",
+			"en": 61,
+			"is_target": true,
+			"surface": "비델라_장군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 63,
+			"eType": "ELU",
+			"entityName": "아르헨티나",
+			"en": 68,
+			"is_target": true,
+			"surface": "아르헨티나",
+			"coref_index": 181,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"id": 3,
+			"ne_type": "PERSON",
+			"st": 98,
+			"eType": "WIKILINK",
+			"entityName": "네덜란드_왕비_막시마",
+			"en": 109,
+			"is_target": true,
+			"surface": "네덜란드_왕비_막시마",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 20,
+			"is_target": true,
+			"surface": "호르헤_호라치오_소레기에타_스테파니니",
+			"coref_index": 182,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 23,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 35,
+			"is_target": false,
+			"surface": "1928년_1월_18일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 48,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 51,
+			"is_target": true,
+			"surface": "정치인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "PERSON",
+			"st": 70,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 73,
+			"is_target": true,
+			"surface": "독재자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 84,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 90,
+			"is_target": true,
+			"surface": "농무성_장관",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 111,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 114,
+			"is_target": true,
+			"surface": "아버지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 10,
+			"ne_type": "LOCATION",
+			"st": 135,
+			"eType": "WIKILINK",
+			"entityName": "부에노스아이레스",
+			"en": 143,
+			"is_target": true,
+			"surface": "부에노스아이레스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 181,
+			"eType": "ELU",
+			"entityName": "조르즈",
+			"en": 184,
+			"is_target": true,
+			"surface": "호르헤",
+			"coref_index": 182,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 204,
+			"eType": "WIKILINK",
+			"entityName": "멘도사_(아르헨티나)",
+			"en": 209,
+			"is_target": true,
+			"surface": "멘도사_시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 223,
+			"eType": "ELU",
+			"entityName": "조르즈",
+			"en": 226,
+			"is_target": true,
+			"surface": "호르헤",
+			"coref_index": 182,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 252,
+			"eType": "WIKILINK",
+			"entityName": "La_Sociedad_Rural_Argentina",
+			"en": 279,
+			"is_target": true,
+			"surface": "La_Sociedad_Rural_Argentina",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 129,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 134,
+			"is_target": false,
+			"surface": "1928년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 118,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 127,
+			"is_target": true,
+			"surface": "호르헤_소레기에타",
+			"coref_index": 182,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 302,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 315,
+			"is_target": true,
+			"surface": "Juan_de_Garay",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 156,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 167,
+			"is_target": true,
+			"surface": "에스파냐-바스크_혼혈",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 169,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 178,
+			"is_target": true,
+			"surface": "이탈리아계_이민자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 339,
+			"eType": "NEW",
+			"en": 344,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1976년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ORGANIZATION",
+			"st": 345,
+			"eType": "NEW",
+			"en": 350,
+			"entityName": "",
+			"is_target": true,
+			"surface": "아르헨티나",
+			"coref_index": 181,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 351,
+			"eType": "NEW",
+			"en": 354,
+			"entityName": "",
+			"is_target": true,
+			"surface": "쿠데타",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 435,
+			"eType": "WIKILINK",
+			"entityName": "국립농업기술연구소",
+			"en": 444,
+			"is_target": true,
+			"surface": "국립농업기술연구소",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 512,
+			"eType": "WIKILINK",
+			"entityName": "더러운_전쟁",
+			"en": 514,
+			"is_target": true,
+			"surface": "실종",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 501,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 507,
+			"is_target": true,
+			"surface": "연구소_직원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 26,
+			"ne_type": "LOCATION",
+			"st": 620,
+			"eType": "ELU",
+			"en": 625,
+			"entityName": "아르헨티나",
+			"is_target": true,
+			"surface": "아르헨티나",
+			"coref_index": 181,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Archipelago",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 27,
+			"ne_type": "LOCATION",
+			"st": 627,
+			"eType": "WIKILINK",
+			"en": 634,
+			"entityName": "포클랜드_제도",
+			"is_target": true,
+			"surface": "포클랜드_제도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 635,
+			"eType": "ELU",
+			"en": 641,
+			"entityName": "영토_분쟁",
+			"is_target": true,
+			"surface": "영유권_문제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 29,
+			"ne_type": "LOCATION",
+			"st": 643,
+			"eType": "WIKILINK",
+			"en": 645,
+			"entityName": "영국",
+			"is_target": true,
+			"surface": "영국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 647,
+			"eType": "WIKILINK",
+			"en": 649,
+			"entityName": "포클랜드_전쟁",
+			"is_target": true,
+			"surface": "전쟁",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 31,
+			"ne_type": "PERSON",
+			"st": 671,
+			"eType": "WIKILINK",
+			"en": 680,
+			"entityName": "레오폴도_갈티에리",
+			"is_target": true,
+			"surface": "레오폴도_갈티에리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "TIME",
+			"st": 519,
+			"eType": "NEW",
+			"en": 524,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1981년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "PERSON",
+			"st": 525,
+			"eType": "NEW",
+			"en": 530,
+			"entityName": "",
+			"is_target": true,
+			"surface": "소레기에타",
+			"coref_index": 182,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "TIME",
+			"st": 611,
+			"eType": "NEW",
+			"en": 619,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1982년_4월",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "3586116,3586117,3586118,3586119,3586120,3586121,3586122,3586123,3586124,3586125,3586126,3586127,3586128,3586129",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 507,
+			"ancestor": "-1",
+			"st": 499,
+			"surface": "이 연구소_직원"
+		},
+		{
+			"id": 1,
+			"en": 510,
+			"ancestor": "-1",
+			"st": 499,
+			"surface": "이 연구소_직원 여럿"
+		},
+		{
+			"id": 2,
+			"en": 547,
+			"ancestor": "-1",
+			"st": 544,
+			"surface": "그 뒤"
+		},
+		{
+			"id": 3,
+			"en": 666,
+			"ancestor": "-1",
+			"st": 662,
+			"surface": "그 결과"
+		},
+		{
+			"id": 4,
+			"en": 670,
+			"ancestor": "-1",
+			"st": 667,
+			"surface": "이때는"
+		},
+		{
+			"id": 5,
+			"en": 780,
+			"ancestor": "-1",
+			"st": 773,
+			"surface": "아무런 영향도"
+		}
+	],
+	"plainText": "호르헤_호라치오_소레기에타_스테파니니(, 1928년_1월_18일 ~ )는 아르헨티나의 정치인이다. 비델라_장군이 아르헨티나의 독재자 노릇을 하던 시절 농무성_장관으로 일했다. 네덜란드_왕비_막시마의 아버지이다. 호르헤_소레기에타는 1928년 부에노스아이레스에서 태어났다. 부모는 에스파냐-바스크_혼혈과 이탈리아계_이민자로, 호르헤는 집안의 장남이었다. 친할아버지는 멘도사_시 시장을 지냈다. 성장한 호르헤는 지주와 목장주들의 이익을 대변하던 보수단체 La_Sociedad_Rural_Argentina의 간사를 지냈고, 바스크계 문화기구인 \"Juan_de_Garay\" 협회의 협회장을 지냈다. 비델라 장군이 1976년 아르헨티나 쿠데타를 일으키자 소레기에타는 농무성 차관으로 임명되었고, 1979년부터 1981년까지 농무성 장관을 역임했다. 소레기에타의 농무성과 관계된 연구소인 국립농업기술연구소(INTA)는 쿠데타 이후 아르헨티나 해군의 통제하에 놓였고, 소레기에타가 장관으로 재임하던 도중 이 연구소_직원 여럿이 실종되었다. 1981년 소레기에타는 장관직에서 물러났다. 그 뒤 아르헨티나 설탕 산업의 고문기구인 \"Centro Argentino Azucarero\"(CAA)의 총재가 되었다. 1982년_4월 아르헨티나가 포클랜드_제도 영유권_문제로 영국과 전쟁을 벌였고, 패배했다. 그 결과 이때는 레오폴도_갈티에리가 수괴를 맡고 있던 군사정부가 붕괴했다. 군사정부에서 각료를 해먹은 사람들은 인권유린 혐의로 고발되었으나, 소레기에타는 정권이 무너지기 전에 공직에서 떠났기 때문에 아무런 영향도 받지 않았다. ",
+	"docID": "1323144"
+}

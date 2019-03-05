@@ -1,0 +1,177 @@
+{
+	"docID": "440576",
+	"globalSID": "2043494,2043495,2043496",
+	"pronouns": [
+		{
+			"st": 60,
+			"coref_index": 582,
+			"id": 0,
+			"en": 61,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 6,
+			"ancestor": "-1",
+			"coref_index": 582,
+			"surface": "앤더슨_쿠퍼",
+			"entityName": "앤더슨_쿠퍼"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "기자",
+			"entityName": "기자_(직업)"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "작가",
+			"entityName": "작가"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 56,
+			"ancestor": "-1",
+			"surface": "방송인",
+			"entityName": "방송인"
+		},
+		{
+			"kbox_types": [
+				"Broadcaster",
+				"TelevisionStation",
+				"Agent",
+				"Organisation"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 69,
+			"ancestor": "-1",
+			"coref_index": 587,
+			"surface": "CNN",
+			"entityName": "CNN"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "-1",
+			"coref_index": 577,
+			"surface": "앤더슨_쿠퍼_360°",
+			"entityName": "앤더슨_쿠퍼_360°"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"coref_index": 588,
+			"surface": "앵커",
+			"entityName": "앵커"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 104,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "1-5",
+			"coref_index": 577,
+			"surface": "앤더슨_쿠퍼_360°",
+			"entityName": "앤더슨_쿠퍼_360°"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 35,
+			"ancestor": "",
+			"surface": "1967년_6월_3일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 161,
+			"ancestor": "-1",
+			"surface": "CNN_워싱턴_D.C_스튜디오",
+			"entityName": ""
+		}
+	],
+	"plainText": "앤더슨_쿠퍼(Anderson Cooper, 1967년_6월_3일 ~ )는 기자, 작가, 그리고 방송인이다. 그는 현재 CNN의 주요한 뉴스인 앤더슨_쿠퍼_360°의 앵커로 활동 중이다. 앤더슨_쿠퍼_360°은 보통 뉴욕의 스튜디오에서 촬영되지만, 속보를 위해 CNN_워싱턴_D.C_스튜디오나, 현장에서 촬영되기도 한다."
+}

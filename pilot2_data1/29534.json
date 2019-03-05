@@ -1,0 +1,835 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"st": 183,
+			"eType": "WIKILINK",
+			"entityName": "GNU_프로젝트",
+			"en": 191,
+			"is_target": true,
+			"surface": "GNU_프로젝트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 202,
+			"eType": "WIKILINK",
+			"entityName": "유닉스_계열",
+			"en": 208,
+			"is_target": true,
+			"surface": "유닉스_계열",
+			"coref_index": 417,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 227,
+			"eType": "WIKILINK",
+			"entityName": "우분투_(운영_체제)",
+			"en": 230,
+			"is_target": true,
+			"surface": "우분투",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 240,
+			"eType": "WIKILINK",
+			"entityName": "페도라",
+			"en": 243,
+			"is_target": true,
+			"surface": "페도라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 266,
+			"eType": "ELU",
+			"entityName": "솔라리스_(운영_체제)",
+			"en": 270,
+			"is_target": true,
+			"surface": "솔라리스",
+			"coref_index": 418,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 467,
+			"eType": "WIKILINK",
+			"entityName": "Qt_(프레임워크)",
+			"en": 475,
+			"is_target": true,
+			"surface": "Qt_라이브러리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "EVENT",
+			"st": 305,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 313,
+			"is_target": true,
+			"surface": "KDE_프로젝트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 298,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 303,
+			"is_target": false,
+			"surface": "1996년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "TIME",
+			"st": 418,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 426,
+			"is_target": false,
+			"surface": "1997년_8월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "EVENT",
+			"st": 590,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 597,
+			"is_target": true,
+			"surface": "그놈_프로젝트",
+			"coref_index": 421,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 604,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 612,
+			"is_target": true,
+			"surface": "미겔_드_이카자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 614,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 621,
+			"is_target": true,
+			"surface": "페데리코_메나",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 629,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 631,
+			"is_target": true,
+			"surface": "Qt",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 635,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 639,
+			"is_target": true,
+			"surface": "LGPL",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 645,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 649,
+			"is_target": true,
+			"surface": "GTK+",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 658,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 662,
+			"is_target": true,
+			"surface": "데스크톱",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 667,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 672,
+			"is_target": true,
+			"surface": "라이브러리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 685,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 692,
+			"is_target": true,
+			"surface": "응용_프로그램",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 695,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 698,
+			"is_target": true,
+			"surface": "GPL",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 754,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 758,
+			"is_target": true,
+			"surface": "라이선스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 764,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 769,
+			"is_target": true,
+			"surface": "소프트웨어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 773,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 775,
+			"is_target": true,
+			"surface": "링크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 625,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 627,
+			"is_target": true,
+			"surface": "그놈",
+			"coref_index": 420,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ORGANIZATION",
+			"st": 851,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 858,
+			"is_target": true,
+			"surface": "그놈_웹사이트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 879,
+			"eType": "ELU",
+			"en": 882,
+			"entityName": "사용성",
+			"is_target": true,
+			"surface": "사용성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ORGANIZATION",
+			"st": 865,
+			"eType": "NEW",
+			"en": 872,
+			"entityName": "",
+			"is_target": true,
+			"surface": "그놈_데스크톱",
+			"coref_index": 419,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "EVENT",
+			"st": 923,
+			"eType": "NEW",
+			"en": 931,
+			"entityName": "",
+			"is_target": true,
+			"surface": "그놈_개발_과정",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 874,
+			"eType": "NEW",
+			"en": 877,
+			"entityName": "",
+			"is_target": true,
+			"surface": "간결함",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 996,
+			"eType": "WIKILINK",
+			"en": 1002,
+			"entityName": "유닉스_계열",
+			"is_target": true,
+			"surface": "유닉스_계열",
+			"coref_index": 417,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 1003,
+			"eType": "WIKILINK",
+			"en": 1006,
+			"entityName": "BSD",
+			"is_target": true,
+			"surface": "BSD",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 1010,
+			"eType": "WIKILINK",
+			"en": 1013,
+			"entityName": "AIX_운영체제",
+			"is_target": true,
+			"surface": "AIX",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 1015,
+			"eType": "WIKILINK",
+			"en": 1019,
+			"entityName": "IRIX",
+			"is_target": true,
+			"surface": "IRIX",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 1021,
+			"eType": "WIKILINK",
+			"en": 1026,
+			"entityName": "HP-UX",
+			"is_target": true,
+			"surface": "HP-UX",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 1028,
+			"eType": "WIKILINK",
+			"en": 1032,
+			"entityName": "솔라리스_(운영_체제)",
+			"is_target": true,
+			"surface": "솔라리스",
+			"coref_index": 418,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 1042,
+			"eType": "WIKILINK",
+			"en": 1053,
+			"entityName": "썬_마이크로_시스템즈",
+			"is_target": true,
+			"surface": "썬_마이크로_시스템즈",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 1058,
+			"eType": "WIKILINK",
+			"en": 1069,
+			"entityName": "자바_데스크톱_시스템",
+			"is_target": true,
+			"surface": "자바_데스크톱_시스템",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 1115,
+			"eType": "WIKILINK",
+			"en": 1118,
+			"entityName": "시그윈",
+			"is_target": true,
+			"surface": "시그윈",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 1123,
+			"eType": "WIKILINK",
+			"en": 1125,
+			"entityName": "마이크로소프트_윈도",
+			"is_target": true,
+			"surface": "윈도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 1076,
+			"eType": "NEW",
+			"en": 1082,
+			"entityName": "",
+			"is_target": true,
+			"surface": "수세_리눅스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 1096,
+			"eType": "NEW",
+			"en": 1104,
+			"entityName": "",
+			"is_target": true,
+			"surface": "기업용_데스크톱",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 1084,
+			"eType": "NEW",
+			"en": 1091,
+			"entityName": "",
+			"is_target": true,
+			"surface": "그놈_데스크톱",
+			"coref_index": 419,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 958,
+			"eType": "NEW",
+			"en": 970,
+			"entityName": "",
+			"is_target": true,
+			"surface": "GNU/리눅스_데스크톱",
+			"coref_index": 422,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 947,
+			"eType": "NEW",
+			"en": 950,
+			"entityName": "",
+			"is_target": true,
+			"surface": "플랫폼",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "278041,278042,278043,278044,278045,278046,278047,278048,278049,278050,278051,278052,278053,278054,278055,278056,278057,278058,278059,278060",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 9,
+			"surface": "그놈(GNOME:",
+			"st": 0,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 48,
+			"surface": "그놈(GNOME: GNU Network Object Model Environment)은",
+			"st": 0,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"en": 73,
+			"surface": "이",
+			"st": 72,
+			"ancestor": "-1"
+		},
+		{
+			"id": 3,
+			"en": 85,
+			"surface": "이를 개발하는 프로젝트의",
+			"st": 72,
+			"ancestor": "-1"
+		},
+		{
+			"id": 4,
+			"en": 265,
+			"surface": "그놈과",
+			"st": 262,
+			"ancestor": "-1"
+		},
+		{
+			"id": 5,
+			"en": 436,
+			"surface": "이 문제에",
+			"st": 431,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 447,
+			"surface": "이 문제에 대한 대안 차원에서",
+			"st": 431,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 517,
+			"surface": "다른 하나는",
+			"st": 511,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 572,
+			"surface": "그놈이었다.",
+			"st": 566,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"en": 576,
+			"surface": "이것이",
+			"st": 573,
+			"ancestor": "-1"
+		},
+		{
+			"id": 10,
+			"en": 580,
+			"surface": "그놈의",
+			"st": 577,
+			"ancestor": "-1"
+		},
+		{
+			"id": 11,
+			"en": 586,
+			"surface": "그놈의 시초이다.",
+			"st": 577,
+			"ancestor": "-1"
+		},
+		{
+			"id": 12,
+			"en": 598,
+			"surface": "그놈_프로젝트의",
+			"st": 590,
+			"ancestor": "-1"
+		},
+		{
+			"id": 13,
+			"en": 603,
+			"surface": "그놈_프로젝트의 지도자는",
+			"st": 590,
+			"ancestor": "-1"
+		},
+		{
+			"id": 14,
+			"en": 628,
+			"ancestor": "-1",
+			"st": 625,
+			"surface": "그놈은"
+		},
+		{
+			"id": 15,
+			"en": 714,
+			"ancestor": "-1",
+			"st": 709,
+			"surface": "이 중에서"
+		},
+		{
+			"id": 16,
+			"ancestor": "1-22",
+			"st": 793,
+			"en": 795,
+			"surface": "그놈",
+			"coref_index": 420
+		},
+		{
+			"id": 17,
+			"en": 817,
+			"ancestor": "-1",
+			"st": 793,
+			"surface": "그놈에서 사용하도록 작성된 응용 프로그램들은"
+		},
+		{
+			"id": 18,
+			"en": 859,
+			"surface": "그놈_웹사이트에",
+			"st": 851,
+			"ancestor": "-1"
+		},
+		{
+			"id": 19,
+			"en": 872,
+			"ancestor": "-1",
+			"st": 865,
+			"surface": "그놈_데스크톱"
+		},
+		{
+			"id": 20,
+			"en": 892,
+			"ancestor": "-1",
+			"st": 888,
+			"surface": "모든 것"
+		},
+		{
+			"id": 21,
+			"en": 921,
+			"ancestor": "-1",
+			"st": 917,
+			"surface": "그 결과"
+		},
+		{
+			"id": 22,
+			"en": 931,
+			"ancestor": "-1",
+			"st": 923,
+			"surface": "그놈_개발_과정"
+		},
+		{
+			"id": 23,
+			"ancestor": "1-9",
+			"st": 951,
+			"en": 953,
+			"surface": "그놈",
+			"coref_index": 421
+		},
+		{
+			"id": 24,
+			"ancestor": "1-41",
+			"st": 984,
+			"en": 985,
+			"surface": "이",
+			"coref_index": 422
+		},
+		{
+			"id": 25,
+			"ancestor": "1-25",
+			"st": 1084,
+			"en": 1091,
+			"surface": "그놈_데스크톱",
+			"coref_index": 419
+		},
+		{
+			"id": 26,
+			"en": 1095,
+			"ancestor": "-1",
+			"st": 1084,
+			"surface": "그놈_데스크톱 기반의"
+		},
+		{
+			"id": 27,
+			"en": 1105,
+			"ancestor": "-1",
+			"st": 1084,
+			"surface": "그놈_데스크톱 기반의 기업용_데스크톱을"
+		}
+	],
+	"plainText": "그놈(GNOME: GNU Network Object Model Environment)은 데스크톱 프로그램 집합의 일종이기도 하며 이를 개발하는 프로젝트의 이름이기도 하다. 컴퓨터 운영 체제의 최상위 계층에서 동작하는 그래픽 사용자 인터페이스로서 완전히 소스 공개 자유 소프트웨어로 이루어져 있으며 프로젝트의 규모는 국제적이다. GNU_프로젝트의 일부이며 다양한 유닉스_계열 운영 체제에서 사용할 수 있다. 우분투(~10.10), 페도라 등의 기본 데스크톱 환경으로서의 그놈과 솔라리스의 자바 데스크톱 시스템이 대표적이다. 걸어온 길 1996년에 KDE_프로젝트가 시작되었다. KDE 자체는 처음부터 자유에 소스코드까지 공개되어 있는 프로젝트였으나 GNU 프로젝트의 구성원들은 KDE가 GPL을 따르지 않는 Qt를 사용하고 있다는 것을 우려하였다. 1997년_8월이 되자 이 문제에 대한 대안 차원에서 두 프로젝트가 시작되었는데 하나는 Qt_라이브러리를 소스 공개 자유 소프트웨어인 것으로 대체하기 위한 하모니였고 다른 하나는 Qt를 아예 사용하지 않으면서 GPL이나 LGPL을 따르는 소프트웨어만으로 이루어지는 그놈이었다. 이것이 그놈의 시초이다. 초기 그놈_프로젝트의 지도자는 미겔_드_이카자와 페데리코_메나였다. 그놈은 Qt 대신 LGPL을 따르는 GTK+를 사용하였다. 데스크톱 부분과 라이브러리들은 LGPL을 따르고 응용_프로그램들은 GPL을 따르게 되었는데 이 중에서 GTK+와 라이브러리들이 따르는 LGPL이 GPL과 호환이 되지 않는 라이선스를 따르는 소프트웨어들과의 링크를 허용하는 라이선스였기 때문에 그놈에서 사용하도록 작성된 응용 프로그램들은 더 넓은 범위의 라이선스들을 선택할 수 있었다. 나아갈 길 그놈_웹사이트에 따르면, 그놈_데스크톱은 간결함과 사용성, 그리고 모든 것이 \"그저 동작\"하게 만드는 것을 강조한다. 그 결과로 그놈_개발_과정에는 두 가지 특징이 있다. 플랫폼 그놈은 본래 GNU/리눅스_데스크톱으로 출발했지만, 현재는 이와 비슷한 대부분의 유닉스_계열(BSD 류, AIX, IRIX, HP-UX, 솔라리스)에서 동작한다. 썬_마이크로_시스템즈는 또한 자바_데스크톱_시스템이란 이름의 수세_리눅스와 그놈_데스크톱 기반의 기업용_데스크톱을 출시했다. 또한 시그윈을 통해 윈도에서도 사용할 수 있다. ",
+	"docID": "29534"
+}

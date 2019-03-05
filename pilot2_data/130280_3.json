@@ -1,0 +1,334 @@
+{
+	"docID": "130280",
+	"globalSID": "942313,942314,942315,942316",
+	"pronouns": [
+		{
+			"st": 97,
+			"coref_index": 157,
+			"id": 0,
+			"en": 98,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 186,
+			"coref_index": 157,
+			"id": 1,
+			"en": 187,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 189,
+			"coref_index": 157,
+			"id": 2,
+			"en": 191,
+			"ancestor": "1-0",
+			"surface": "자신"
+		},
+		{
+			"en": 199,
+			"ancestor": "-1",
+			"surface": "자신의 최고 전성기",
+			"id": 3,
+			"st": 189
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"entityName": "마테야_케주만",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "케주만",
+			"coref_index": 157
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"entityName": "2000년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 50,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2000년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"entityName": "네덜란드_에레디비시",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 76,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "네덜란드_에레디비시"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 78,
+			"eType": "WIKILINK",
+			"entityName": "PSV_에인트호번",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 87,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "PSV_에인트호번"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"entityName": "2001년",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 105,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2001년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 107,
+			"eType": "WIKILINK",
+			"entityName": "2003년",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 112,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2003년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 114,
+			"eType": "WIKILINK",
+			"entityName": "2004년",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 119,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2004년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 243,
+			"eType": "WIKILINK",
+			"entityName": "프리미어리그",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 249,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "프리미어리그",
+			"coref_index": 158
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 251,
+			"eType": "WIKILINK",
+			"entityName": "세리에_A",
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 256,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "세리에_A"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 5,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "클럽_경력"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "EVENT",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "1998년_FK_파르티잔"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이적"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "1050만_유로"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 64,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이적료"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 130,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 136,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "리그_득점왕"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "EVENT",
+			"en": 155,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2000-01_시즌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 157,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "EVENT",
+			"en": 167,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2002-03_시즌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "EVENT",
+			"en": 177,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "리그_우승"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 263,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "ORGANIZATION",
+			"en": 265,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "클럽"
+		}
+	],
+	"plainText": "클럽_경력 케주만은 1998년_FK_파르티잔으로 이적하여 좋은 모습을 보인 뒤, 2000년 1050만_유로의 이적료로 네덜란드_에레디비시의 PSV_에인트호번으로 이적하였다. 그는 2001년과 2003년, 2004년에 걸쳐서 세 번의 리그_득점왕을 차지하였고, 2000-01_시즌과 2002-03_시즌 2번의 리그_우승에 공헌하였다. 그는 자신의 최고 전성기라고 불러도 손색이 없을 정도로 대단한 활약을 펼쳤고, 이러한 활약으로 인하여 프리미어리그, 세리에_A 등의 거대 클럽의 관심을 받게 되었다."
+}

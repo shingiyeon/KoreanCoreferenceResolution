@@ -1,0 +1,608 @@
+{
+	"docID": "36154",
+	"globalSID": "356732,356733,356734,356735,356736,356737",
+	"pronouns": [
+		{
+			"en": 394,
+			"st": 390,
+			"surface": "그 후,",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 508,
+			"st": 507,
+			"surface": "그",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 511,
+			"st": 507,
+			"surface": "그 대신",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 554,
+			"st": 549,
+			"surface": "이 내용을",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 559,
+			"st": 549,
+			"surface": "이 내용을 바탕으로",
+			"id": 4,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "-1",
+			"coref_index": 502,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "-1",
+			"coref_index": 499,
+			"surface": "대한올림픽위원회",
+			"entityName": "대한올림픽위원회"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 32,
+			"ancestor": "-1",
+			"coref_index": 498,
+			"surface": "무주",
+			"entityName": "무주군"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 36,
+			"ancestor": "-1",
+			"coref_index": 497,
+			"surface": "평창",
+			"entityName": "평창군"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 51,
+			"ancestor": "6-3",
+			"coref_index": 497,
+			"surface": "평창",
+			"entityName": "평창군"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 108,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 111,
+			"ancestor": "-1",
+			"coref_index": 501,
+			"surface": "강원도",
+			"entityName": "강원도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 113,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "6-4",
+			"coref_index": 497,
+			"surface": "평창",
+			"entityName": "평창"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 149,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 153,
+			"ancestor": "-1",
+			"coref_index": 500,
+			"surface": "전라북도",
+			"entityName": "전라북도"
+		},
+		{
+			"kbox_types": [
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 157,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 172,
+			"ancestor": "-1",
+			"surface": "1997년_동계_유니버시아드",
+			"entityName": "1997년_동계_유니버시아드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 181,
+			"ancestor": "6-2",
+			"coref_index": 498,
+			"surface": "무주",
+			"entityName": "무주"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 246,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 254,
+			"ancestor": "6-1",
+			"coref_index": 499,
+			"surface": "대한올림픽위원회",
+			"entityName": "대한체육회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 296,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 302,
+			"ancestor": "-1",
+			"surface": "국제스키연맹",
+			"entityName": "국제스키연맹"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 395,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 399,
+			"ancestor": "6-7",
+			"coref_index": 500,
+			"surface": "전라북도",
+			"entityName": "전라북도"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 401,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 404,
+			"ancestor": "6-5",
+			"coref_index": 501,
+			"surface": "강원도",
+			"entityName": "강원도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 410,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 418,
+			"ancestor": "6-1",
+			"coref_index": 499,
+			"surface": "대한올림픽위원회",
+			"entityName": "대한체육회"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 420,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 432,
+			"ancestor": "-1",
+			"coref_index": 503,
+			"surface": "2014년_동계_올림픽",
+			"entityName": "2014년_동계_올림픽"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 528,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 531,
+			"ancestor": "-1",
+			"surface": "우선권",
+			"entityName": "우선권"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 627,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "LOCATION",
+			"en": 631,
+			"ancestor": "6-0",
+			"coref_index": 502,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 640,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 642,
+			"ancestor": "6-4",
+			"coref_index": 497,
+			"surface": "평창",
+			"entityName": "평창"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 652,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 664,
+			"ancestor": "6-15",
+			"coref_index": 503,
+			"surface": "2014년_동계_올림픽",
+			"entityName": "2014년_동계_올림픽"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 20,
+			"ne_type": "TIME",
+			"en": 98,
+			"ancestor": "",
+			"surface": "2000년_10월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 126,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "EVENT",
+			"en": 138,
+			"ancestor": "1-12",
+			"coref_index": 504,
+			"surface": "2010년_동계_올림픽",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 231,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 22,
+			"ne_type": "TIME",
+			"en": 244,
+			"ancestor": "",
+			"surface": "2001년_11월_16일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 304,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "LOCATION",
+			"en": 306,
+			"ancestor": "6-2",
+			"coref_index": 498,
+			"surface": "무주",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 343,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 24,
+			"ne_type": "TIME",
+			"en": 354,
+			"ancestor": "",
+			"surface": "2002년_1월_9일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 355,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 25,
+			"ne_type": "ORGANIZATION",
+			"en": 369,
+			"ancestor": "-1",
+			"surface": "대한올림픽위원회_임시위원회",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 445,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "LOCATION",
+			"en": 447,
+			"ancestor": "6-2",
+			"coref_index": 498,
+			"surface": "무주",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 474,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "EVENT",
+			"en": 485,
+			"ancestor": "1-12",
+			"coref_index": 504,
+			"surface": "2010년_동계올림픽",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 493,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 28,
+			"ne_type": "LOCATION",
+			"en": 495,
+			"ancestor": "6-2",
+			"coref_index": 498,
+			"surface": "무주",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 497,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 29,
+			"ne_type": "LOCATION",
+			"en": 499,
+			"ancestor": "6-3",
+			"coref_index": 497,
+			"surface": "평창",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 512,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 30,
+			"ne_type": "TIME",
+			"en": 517,
+			"ancestor": "",
+			"surface": "2014년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 560,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 31,
+			"ne_type": "TIME",
+			"en": 572,
+			"ancestor": "",
+			"surface": "2010년_5월_25일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 574,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"en": 592,
+			"ancestor": "-1",
+			"surface": "대한올림픽위원회_제7차_상임위원회",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 595,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 33,
+			"ne_type": "LOCATION",
+			"en": 597,
+			"ancestor": "6-3",
+			"coref_index": 497,
+			"surface": "평창",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 613,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 34,
+			"ne_type": "EVENT",
+			"en": 625,
+			"ancestor": "1-12",
+			"coref_index": 504,
+			"surface": "2010년_동계_올림픽",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 668,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 35,
+			"ne_type": "LOCATION",
+			"en": 670,
+			"ancestor": "6-2",
+			"coref_index": 498,
+			"surface": "무주",
+			"entityName": ""
+		}
+	],
+	"plainText": "대한민국의 후보 도시 선정 대한올림픽위원회(KOC)는 무주와 평창의 개최 후보 도시 중 평창을 개최 후보 도시로 선정하였다. 두 도시의 개최 후보 도시 경쟁은 2000년_10월부터 시작되었다. 강원도가 평창을 후보지로 앞세워 2010년_동계_올림픽 유치를 선언하자, 전라북도에서도 1997년_동계_유니버시아드의 개최지인 무주를 후보지로 앞세워 유치를 선언하였다. 지역적 대립 양상을 보이던 유지 후보 선정 과정이 2001년_11월_16일에 대한올림픽위원회에서 두 후보지를 공동 개최지로 결정하여 대립이 마무리 되는 듯 하였으나, 국제스키연맹이 무주에 대해 실사하여 부적격 판정을 하자 두 지역간의 대립 끝에 결국 2002년_1월_9일 대한올림픽위원회_임시위원회에서 평창을 주 개최지로 선정하였다. 그 후, 전라북도와 강원도, 그리고 대한올림픽위원회가 2014년_동계_올림픽 후보지 선정 과정까지 무주가 국제 시설기준을 충족하는 것을 전제로 하여, 2010년_동계올림픽 유치 도시는 무주가 평창에 양보하고, 그 대신 2014년 단독 유치 신청은 우선권을 갖는다는 합의문을 작성하여, 이 내용을 바탕으로 2010년_5월_25일에 대한올림픽위원회_제7차_상임위원회에서 평창의 단독 유치안을 통과하면서 2010년_동계_올림픽의 대한민국의 후보 도시는 평창으로 선정되었고, 2014년_동계_올림픽에서는 무주의 단독 유치 우선권을 인정하였다."
+}

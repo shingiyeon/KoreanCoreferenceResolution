@@ -1,0 +1,474 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"st": 39,
+			"eType": "WIKILINK",
+			"entityName": "아타리",
+			"en": 42,
+			"is_target": true,
+			"surface": "아타리",
+			"coref_index": 228,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 60,
+			"eType": "ELU",
+			"entityName": "아타리",
+			"en": 63,
+			"is_target": true,
+			"surface": "아타리",
+			"coref_index": 228,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 73,
+			"eType": "WIKILINK",
+			"entityName": "놀런_부쉬넬",
+			"en": 79,
+			"is_target": true,
+			"surface": "놀런_부쉬넬",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "앨런_알콘",
+			"en": 86,
+			"is_target": true,
+			"surface": "앨런_알콘",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 137,
+			"eType": "ELU",
+			"entityName": "아타리",
+			"en": 140,
+			"is_target": true,
+			"surface": "아타리",
+			"coref_index": 228,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 25,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 38,
+			"is_target": false,
+			"surface": "1972년_11월_29일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 1,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2,
+			"is_target": true,
+			"surface": "퐁",
+			"coref_index": 229,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 99,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 100,
+			"is_target": true,
+			"surface": "퐁",
+			"coref_index": 229,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"InformationAppliance",
+				"Device"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 220,
+			"eType": "WIKILINK",
+			"entityName": "마그나복스_오디세이",
+			"en": 230,
+			"is_target": true,
+			"surface": "마그나복스_오디세이",
+			"coref_index": 230,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 272,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 273,
+			"is_target": true,
+			"surface": "퐁",
+			"coref_index": 229,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 471,
+			"eType": "WIKILINK",
+			"en": 474,
+			"entityName": "오락실",
+			"is_target": true,
+			"surface": "오락실",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 543,
+			"eType": "WIKILINK",
+			"en": 545,
+			"entityName": "핀볼",
+			"is_target": true,
+			"surface": "핀볼",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 701,
+			"eType": "WIKILINK",
+			"en": 703,
+			"entityName": "미국",
+			"is_target": true,
+			"surface": "미국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 721,
+			"eType": "WIKILINK",
+			"en": 728,
+			"entityName": "아케이드_게임",
+			"is_target": true,
+			"surface": "아케이드_게임",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 951,
+			"eType": "ELU",
+			"entityName": "텔레비전",
+			"en": 955,
+			"is_target": true,
+			"surface": "텔레비전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 1064,
+			"eType": "WIKILINK",
+			"en": 1074,
+			"entityName": "소비자_가전_전시회",
+			"is_target": true,
+			"surface": "소비자_가전_전시회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 1150,
+			"eType": "ELU",
+			"en": 1153,
+			"entityName": "아타리",
+			"is_target": true,
+			"surface": "아타리",
+			"coref_index": 228,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 1197,
+			"eType": "WIKILINK",
+			"en": 1200,
+			"entityName": "부슈널",
+			"is_target": true,
+			"surface": "부슈널",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 1267,
+			"eType": "WIKILINK",
+			"en": 1274,
+			"entityName": "가정용_게임기",
+			"is_target": true,
+			"surface": "가정용_게임기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"InformationAppliance",
+				"Device"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 1280,
+			"eType": "WIKILINK",
+			"en": 1290,
+			"entityName": "마그나복스_오디세이",
+			"is_target": true,
+			"surface": "마그나복스_오디세이",
+			"coref_index": 230,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 1329,
+			"eType": "ELU",
+			"en": 1333,
+			"entityName": "오디세이아",
+			"is_target": true,
+			"surface": "오디세이",
+			"coref_index": 230,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 1378,
+			"eType": "WIKILINK",
+			"en": 1383,
+			"entityName": "랄프_베어",
+			"is_target": true,
+			"surface": "랄프_베어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 22,
+			"ne_type": "ORGANIZATION",
+			"st": 1418,
+			"eType": "ELU",
+			"en": 1421,
+			"entityName": "아타리",
+			"is_target": true,
+			"surface": "아타리",
+			"coref_index": 228,
+			"ancestor": "1-1"
+		}
+	],
+	"globalSID": "1047254,1047255,1047256,1047257,1047258,1047259,1047260,1047261,1047262,1047263,1047264,1047265,1047266,1047267,1047268,1047269,1047270,1047271,1047272,1047273,1047274,1047275,1047276,1047277",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 111,
+			"ancestor": "-1",
+			"st": 109,
+			"surface": "공을"
+		},
+		{
+			"id": 1,
+			"en": 116,
+			"ancestor": "-1",
+			"st": 104,
+			"surface": "게임에서 공을 쳐낼 때"
+		},
+		{
+			"id": 2,
+			"en": 151,
+			"ancestor": "-1",
+			"st": 147,
+			"surface": "그 시기"
+		},
+		{
+			"id": 3,
+			"en": 162,
+			"ancestor": "-1",
+			"st": 147,
+			"surface": "그 시기 볼을 쳐내는 게임의"
+		},
+		{
+			"id": 4,
+			"en": 167,
+			"ancestor": "-1",
+			"st": 147,
+			"surface": "그 시기 볼을 쳐내는 게임의 대명사가"
+		},
+		{
+			"id": 5,
+			"en": 375,
+			"ancestor": "-1",
+			"st": 374,
+			"surface": "공"
+		},
+		{
+			"id": 6,
+			"en": 393,
+			"ancestor": "-1",
+			"st": 392,
+			"surface": "공"
+		},
+		{
+			"id": 7,
+			"en": 470,
+			"ancestor": "-1",
+			"st": 465,
+			"surface": "이 때에는"
+		},
+		{
+			"id": 8,
+			"en": 616,
+			"ancestor": "-1",
+			"st": 609,
+			"surface": "한 술집에서는"
+		},
+		{
+			"id": 9,
+			"en": 669,
+			"ancestor": "-1",
+			"st": 666,
+			"surface": "이것은"
+		},
+		{
+			"id": 10,
+			"en": 755,
+			"ancestor": "-1",
+			"st": 744,
+			"surface": "다른 여러 회사에서도"
+		},
+		{
+			"id": 11,
+			"en": 1207,
+			"ancestor": "-1",
+			"st": 1203,
+			"surface": "그 2배"
+		},
+		{
+			"id": 12,
+			"en": 1217,
+			"ancestor": "-1",
+			"st": 1203,
+			"surface": "그 2배인 150,000대"
+		},
+		{
+			"id": 13,
+			"en": 1391,
+			"ancestor": "-1",
+			"st": 1388,
+			"surface": "자신들"
+		},
+		{
+			"id": 14,
+			"en": 1395,
+			"ancestor": "-1",
+			"st": 1388,
+			"surface": "자신들의 특허"
+		},
+		{
+			"id": 15,
+			"en": 1405,
+			"ancestor": "-1",
+			"st": 1388,
+			"surface": "자신들의 특허를 침해했다는 소송"
+		}
+	],
+	"plainText": "《퐁》(Pong)은 1세대 비디오 게임기이자 1972년_11월_29일 아타리에서 발매한 아케이드 게임이다. 아타리의 공동 창업자인 놀런_부쉬넬과 앨런_알콘이 함께 개발하였다. '퐁'이란 게임에서 공을 쳐낼 때 나는 소리를 그대로 이름붙인 것으로 아타리의 상표지만 그 시기 볼을 쳐내는 게임의 대명사가 되었다. 퐁은 오락실용과 가정용 둘 다 발매되어 큰 인기를 모았으며 같은 비디오 게임 업체인 마그나복스_오디세이(Magnavox Odyssey)와 특허 소송을 치르기도 했다. 게임 방법 퐁은 탁구의 형식을 본땄으며 위에서 코트를 내려다 보는 형식으로 되어있다. 플레이어는 왼쪽과 오른쪽의 패들을 이용하여 화면에 있는 두개의 막대를 상하로 움직이면서 사방으로 튀어다니는 공을 받아 날리면서 상대 진영이 공을 놓치게 되면 1점을 득점하고 일정 점수를 도달하면 이기는 방식이다. 인기 퐁은 발매 당시 1대당 1,200달러에 판매되었다. 이 때에는 오락실(게임 센터)라는 개념이 없었던 시절이었기 때문에 주로 술집 위주로 판매가 되었다. 당시 술집에서 많이 팔렸던 오락 기구로 핀볼이 있었는데 당시 가장 인기가 있던 핀볼이 2,000대 이상 팔렸던 반면 퐁은 무려 8,500대가 팔렸다고 한다. 한 술집에서는 설치한지 이틀만에 고장이 나서 AS를 가보니 동전이 너무 많이 투입된 것이 원인이었으며 이것은 플레이한 사람이 굉장히 많았다는 것을 의미한다. 이렇게 미국 전역에 엄청난 히트를 치면서 '아케이드_게임' 시장을 개척하게 되었고, 다른 여러 회사에서도 업소용 게임들을 출시하면서 오늘날 의미하는 게임센터가 만들어지게 되었다. 가정용 퐁 퐁의 성공 이후 퐁을 집에서 즐길 수 있도록 하기 위해 1973년부터 개발에 돌입, 1974년 크리스마스 시즌에 100달러의 가격으로 가정용 퐁이 출시되었다. 가정용 퐁은 지금의 400$와 같은 가격으로 큰 인기를 누리며 매진되었다. 가정용 퐁은 큰 유행을 일으켜 텔레비전의 형광체가 타서 자국이 남거나 패들이 마모되어 교체하는 일이 빈번하게 일어났다. 1974년~1975년 발매 당시 15만대라는 당시로서는 기록적인 수량을 출하하였다. 가정용 퐁은 1975년 6월 소비자_가전_전시회에 전시되었는데 Sears, Roebuck and Company의 스포츠용품 구매담당자인 Tom Quinn과 만나게 된다. Quinn은 아타리에게 크리스마스 시즌까지 얼마나 생산할 수 있는지 물었고 75,000대라 답한 부슈널에게 그 2배인 150,000대와 생산비를 지불하는 조건으로 독점 판매를 제안하였다. 마그나복스와의 소송전 퐁은 최초의 가정용_게임기로 불리는 마그나복스_오디세이(Magnavox Odyssey)와 특허 소송을 치르기도 했다. 퐁이 오디세이에 포함된 게임 중의 하나인 '테니스'와 '탁구'와 많이 닮아있었기 때문이었다. 랄프_베어는 퐁이 자신들의 특허를 침해했다는 소송을 걸게 되었고, 결국 아타리와 마그나복스와의 협상으로 70만 달러의 라이선스 금액을 지불하고 독점 특허권 사용자의 지위를 얻었다. ",
+	"docID": "153937"
+}

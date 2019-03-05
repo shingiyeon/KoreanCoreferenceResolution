@@ -1,0 +1,593 @@
+{
+	"docID": "123526",
+	"globalSID": "900638,900639,900640,900641,900642,900643,900644",
+	"pronouns": [
+		{
+			"en": 483,
+			"st": 481,
+			"surface": "이에",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 501,
+			"st": 481,
+			"surface": "이에 위기감을 느낀 후지와라_4형제는",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "나카토미노_가마타리",
+			"entityName": "나카토미노_가마타리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "2-4",
+			"coref_index": 127,
+			"surface": "후지와라_후히토",
+			"entityName": "후지와라_후히토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 102,
+			"ancestor": "-1",
+			"coref_index": 138,
+			"surface": "후지와라_씨",
+			"entityName": "후지와라_씨"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 125,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 131,
+			"ancestor": "-1",
+			"surface": "다케치_황자",
+			"entityName": "다케치_황자"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Monarch",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 137,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 142,
+			"ancestor": "-1",
+			"surface": "덴무_천황",
+			"entityName": "덴무_천황"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 148,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 153,
+			"ancestor": "-1",
+			"coref_index": 136,
+			"surface": "나가야_왕",
+			"entityName": "나가야_왕"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 155,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 159,
+			"ancestor": "-1",
+			"surface": "우다이진",
+			"entityName": "우다이진"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 255,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 259,
+			"ancestor": "",
+			"surface": "723년",
+			"entityName": "723년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 269,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 274,
+			"ancestor": "-1",
+			"surface": "삼세일신법",
+			"entityName": "삼세일신법"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Monarch",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 299,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 304,
+			"ancestor": "-1",
+			"surface": "몬무_천황",
+			"entityName": "몬무_천황"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 306,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 314,
+			"ancestor": "6-1",
+			"coref_index": 127,
+			"surface": "후지와라_후히토",
+			"entityName": "후지와라_후히토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 319,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 327,
+			"ancestor": "-1",
+			"surface": "후지와라_미야코",
+			"entityName": "후지와라_미야코"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 343,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 348,
+			"ancestor": "4-3",
+			"coref_index": 133,
+			"surface": "쇼무_천황",
+			"entityName": "쇼무_천황"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 354,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 358,
+			"ancestor": "",
+			"surface": "724년",
+			"entityName": "724년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 381,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 385,
+			"ancestor": "-1",
+			"surface": "무치마로",
+			"entityName": "후지와라_무치마로"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 393,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 397,
+			"ancestor": "-1",
+			"surface": "후사사키",
+			"entityName": "후지와라_후사사키"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 403,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 407,
+			"ancestor": "-1",
+			"surface": "우마카이",
+			"entityName": "후지와라_우마카이"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 413,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 415,
+			"ancestor": "-1",
+			"surface": "마로",
+			"entityName": "후지와라_마로"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 432,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 18,
+			"ne_type": "TIME",
+			"en": 436,
+			"ancestor": "",
+			"surface": "729년",
+			"entityName": "729년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 469,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 473,
+			"ancestor": "-1",
+			"surface": "사다이진",
+			"entityName": "사다이진"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 548,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 557,
+			"ancestor": "5-2",
+			"coref_index": 134,
+			"surface": "나가야_왕의_정변",
+			"entityName": "나가야_왕의_정변"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 602,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "PERSON",
+			"en": 607,
+			"ancestor": "6-36",
+			"coref_index": 135,
+			"surface": "고묘_황후",
+			"entityName": "고묘_황후"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 610,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 615,
+			"ancestor": "6-12",
+			"coref_index": 133,
+			"surface": "쇼무_천황",
+			"entityName": "쇼무_천황"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "TIME",
+			"en": 25,
+			"ancestor": "1-10",
+			"coref_index": 132,
+			"surface": "나라_시대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "PERSON",
+			"en": 119,
+			"ancestor": "6-1",
+			"coref_index": 127,
+			"surface": "후히토",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 260,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 25,
+			"ne_type": "TIME",
+			"en": 265,
+			"ancestor": "",
+			"surface": "요로_7년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 359,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 26,
+			"ne_type": "TIME",
+			"en": 364,
+			"ancestor": "",
+			"surface": "진키_원년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 371,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "PERSON",
+			"en": 374,
+			"ancestor": "6-24",
+			"coref_index": 127,
+			"surface": "후히토",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 437,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 28,
+			"ne_type": "TIME",
+			"en": 442,
+			"ancestor": "",
+			"surface": "진키_6년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 445,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 29,
+			"ne_type": "PERSON",
+			"en": 450,
+			"ancestor": "6-5",
+			"coref_index": 136,
+			"surface": "나가야_왕",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 492,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 30,
+			"ne_type": "PERSON",
+			"en": 500,
+			"ancestor": "5-3",
+			"coref_index": 137,
+			"surface": "후지와라_4형제",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 532,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 31,
+			"ne_type": "PERSON",
+			"en": 537,
+			"ancestor": "6-5",
+			"coref_index": 136,
+			"surface": "나가야_왕",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 32,
+			"ne_type": "EVENT",
+			"en": 8,
+			"ancestor": "5-2",
+			"coref_index": 134,
+			"surface": "나가야_왕의_변",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 33,
+			"ne_type": "EVENT",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "고묘시_황후_추대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 577,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 34,
+			"ne_type": "PERSON",
+			"en": 581,
+			"ancestor": "6-2",
+			"coref_index": 138,
+			"surface": "후지와라",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 585,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 35,
+			"ne_type": "PERSON",
+			"en": 588,
+			"ancestor": "6-1",
+			"coref_index": 127,
+			"surface": "후히토",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 593,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 36,
+			"ne_type": "PERSON",
+			"en": 596,
+			"ancestor": "-1",
+			"coref_index": 135,
+			"surface": "고묘시",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 634,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 37,
+			"ne_type": "PERSON",
+			"en": 637,
+			"ancestor": "6-36",
+			"coref_index": 135,
+			"surface": "고묘시",
+			"entityName": ""
+		}
+	],
+	"plainText": "나가야_왕의_변과 고묘시_황후_추대 나라_시대 초기에는 나카토미노_가마타리의 아들 후지와라_후히토가 정권을 쥐고 율령제도의 확립에 진력하는 동시에 황실과 인척관계를 맺으며 후지와라_씨 발전의 기초를 닦았다. 후히토 사후에는 다케치_황자의 아들로 덴무_천황의 손자인 나가야_왕이 우다이진이 되어 정권을 담당하였다. 전대부터 누적되어 온 과중한 부담을 견디지 못한 농민들의 유랑과 도망이 급격히 늘어나 사회 불안이 표면화되었기 때문에, 정부는 재원확보를 위해 723년(요로_7년)에는 삼세일신법(三世一身法)을 시행하여 개간을 장려하였다. 몬무_천황과 후지와라_후히토의 딸인 후지와라_미야코(藤原宮子) 사이에서 태어난 쇼무_천황이 즉위한 724년(진키_원년) 즈음부터 후히토의 네 아들 무치마로(武智麻呂), 후사사키(房前), 우마카이(宇合), 마로(麻呂)가 정계에 진출하였다. 729년(진키_6년), 나가야_왕이 사실상 정계 최고직에 해당하는 사다이진에 취임하자, 이에 위기감을 느낀 후지와라_4형제는 ‘좌도(左道)에 빠져 국정을 기울게 한다’고 참소하여 나가야_왕을 자결로 몰아넣고(나가야_왕의_정변), 정권을 장악했다. 정변 직후, 후지와라 씨는 후히토의 딸인 고묘시(光明子, 고묘_황후)를 쇼무_천황의 황후로 추대하는 데 성공하여, 고묘시는 신하로서는 최초의 황후가 되었다."
+}

@@ -1,0 +1,281 @@
+{
+	"docID": "929321",
+	"globalSID": "3050286,3050287,3050288,3050289",
+	"pronouns": [
+		{
+			"st": 145,
+			"coref_index": 1138,
+			"id": 0,
+			"en": 146,
+			"ancestor": "4-2",
+			"surface": "그"
+		},
+		{
+			"en": 151,
+			"ancestor": "-1",
+			"surface": "그의 활약은",
+			"id": 1,
+			"st": 145
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "2-1",
+			"coref_index": 1139,
+			"surface": "페스카라",
+			"entityName": "페스카라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "1-2",
+			"coref_index": 1140,
+			"surface": "중앙_미드필더",
+			"entityName": "중앙_미드필더"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 33,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 36,
+			"ancestor": "1-0",
+			"coref_index": 1138,
+			"surface": "베라티",
+			"entityName": "마르코_베라티"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 42,
+			"ancestor": "4-0",
+			"coref_index": 1139,
+			"surface": "페스카라",
+			"entityName": "페스카라_칼초"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "2009-10_시즌",
+			"entityName": "세리에_B_2009-10"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 108,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 112,
+			"ancestor": "4-0",
+			"coref_index": 1139,
+			"surface": "페스카라",
+			"entityName": "페스카라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "재능",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "-1",
+			"surface": "패스실력",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "유소년팀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "16살",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "2008-09_시즌",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 80,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 88,
+			"ancestor": "-1",
+			"surface": "1군_무대_데뷔",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 131,
+			"ancestor": "-1",
+			"surface": "1군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 133,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 138,
+			"ancestor": "-1",
+			"surface": "주축_선수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 152,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 159,
+			"ancestor": "-1",
+			"surface": "이탈리아_언론",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 193,
+			"ancestor": "2-4",
+			"coref_index": 1141,
+			"surface": "이탈리아_국가대표",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 195,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 197,
+			"ancestor": "-1",
+			"surface": "거물",
+			"entityName": ""
+		}
+	],
+	"plainText": "페스카라 중앙_미드필더로서의 재능과 뛰어난 패스실력을 가진 베라티는 페스카라의 유소년팀을 거치며 발전하였고, 16살이였던 2008-09_시즌에 1군_무대_데뷔를 하였다. 2009-10_시즌에는 페스카라에서 더 정기적으로 출전하였고 1군의 주축_선수가 되었다. 그의 활약은 이탈리아_언론들로부터 뛰어난 재능을 가진 잠재적인 미래와 이탈리아_국가대표의 거물이라고 보도되었다."
+}

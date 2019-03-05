@@ -1,0 +1,544 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "유시진",
+			"en": 3,
+			"is_target": true,
+			"surface": "유시진",
+			"coref_index": 21,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 22,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 26,
+			"is_target": true,
+			"surface": "대한민국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "서울대학교",
+			"en": 43,
+			"is_target": true,
+			"surface": "서울대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 4,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 16,
+			"is_target": false,
+			"surface": "1971년_2월_26일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 28,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 34,
+			"is_target": true,
+			"surface": "여성_만화가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 86,
+			"eType": "WIKILINK",
+			"entityName": "르네상스_(잡지)",
+			"en": 90,
+			"is_target": true,
+			"surface": "르네상스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 144,
+			"eType": "WIKILINK",
+			"entityName": "댕기_(잡지)",
+			"en": 146,
+			"is_target": true,
+			"surface": "댕기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"st": 183,
+			"eType": "WIKILINK",
+			"entityName": "서울문화사",
+			"en": 188,
+			"is_target": true,
+			"surface": "서울문화사",
+			"coref_index": 19,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 200,
+			"eType": "WIKILINK",
+			"entityName": "윙크_(잡지)",
+			"en": 202,
+			"is_target": true,
+			"surface": "윙크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 215,
+			"eType": "WIKILINK",
+			"entityName": "마니",
+			"en": 217,
+			"is_target": true,
+			"surface": "마니",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 76,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 84,
+			"is_target": true,
+			"surface": "순정_만화_잡지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 294,
+			"eType": "ELU",
+			"entityName": "서울문화사",
+			"en": 299,
+			"is_target": true,
+			"surface": "서울문화사",
+			"coref_index": 19,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 311,
+			"eType": "WIKILINK",
+			"entityName": "나인_(잡지)",
+			"en": 313,
+			"is_target": true,
+			"surface": "나인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 317,
+			"eType": "ELU",
+			"entityName": "신명기",
+			"en": 320,
+			"is_target": true,
+			"surface": "신명기",
+			"coref_index": 20,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 355,
+			"eType": "ELU",
+			"entityName": "신명기",
+			"en": 358,
+			"is_target": true,
+			"surface": "신명기",
+			"coref_index": 20,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 388,
+			"eType": "WIKILINK",
+			"entityName": "코믹스투데이",
+			"en": 394,
+			"is_target": true,
+			"surface": "코믹스투데이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 16,
+			"ne_type": "TIME",
+			"st": 481,
+			"eType": "WIKILINK",
+			"entityName": "2003년",
+			"en": 486,
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Publisher",
+				"Organisation"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 489,
+			"eType": "WIKILINK",
+			"entityName": "시공사",
+			"en": 492,
+			"is_target": true,
+			"surface": "시공사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 18,
+			"ne_type": "TIME",
+			"st": 515,
+			"eType": "WIKILINK",
+			"entityName": "2004년",
+			"en": 520,
+			"is_target": false,
+			"surface": "2004년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 530,
+			"eType": "ELU",
+			"entityName": "그린빌_(사우스캐롤라이나_주)",
+			"en": 533,
+			"is_target": true,
+			"surface": "그린빌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 602,
+			"eType": "ELU",
+			"entityName": "코믹뱅",
+			"en": 605,
+			"is_target": true,
+			"surface": "코믹뱅",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 21,
+			"ne_type": "TIME",
+			"st": 630,
+			"eType": "WIKILINK",
+			"entityName": "2008년",
+			"en": 635,
+			"is_target": false,
+			"surface": "2008년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 22,
+			"ne_type": "ORGANIZATION",
+			"st": 637,
+			"eType": "WIKILINK",
+			"entityName": "천재교육",
+			"en": 641,
+			"is_target": true,
+			"surface": "천재교육",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 650,
+			"eType": "WIKILINK",
+			"entityName": "주니어_논술",
+			"en": 656,
+			"is_target": true,
+			"surface": "주니어_논술",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 676,
+			"eType": "WIKILINK",
+			"entityName": "팝툰",
+			"en": 678,
+			"is_target": true,
+			"surface": "팝툰",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 709,
+			"eType": "WIKILINK",
+			"entityName": "판타스틱",
+			"en": 713,
+			"is_target": true,
+			"surface": "판타스틱",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "TIME",
+			"st": 577,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 585,
+			"is_target": false,
+			"surface": "2006년_7월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "TIME",
+			"st": 613,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 621,
+			"is_target": false,
+			"surface": "2007년_4월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "TIME",
+			"st": 715,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 723,
+			"is_target": false,
+			"surface": "2008년_6월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "TIME",
+			"st": 756,
+			"eType": "WIKILINK",
+			"entityName": "11월_1일",
+			"en": 762,
+			"is_target": false,
+			"surface": "11월_1일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"st": 765,
+			"eType": "WIKILINK",
+			"entityName": "절대교감",
+			"en": 769,
+			"is_target": true,
+			"surface": "절대교감",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 781,
+			"eType": "WIKILINK",
+			"entityName": "그루",
+			"en": 783,
+			"is_target": true,
+			"surface": "그루",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 831,
+			"eType": "ELU",
+			"entityName": "SK텔레콤",
+			"en": 836,
+			"is_target": true,
+			"surface": "SK텔레콤",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "801976,801977,801978,801979,801980,801981,801982,801983,801984,801985,801986,801987",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-0",
+			"st": 226,
+			"en": 228,
+			"surface": "자신",
+			"coref_index": 21
+		},
+		{
+			"id": 1,
+			"en": 236,
+			"surface": "자신만의 작품 세계",
+			"st": 226,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "유시진(1971년_2월_26일 ~ )은 대한민국의 여성_만화가이다. 서울대학교 서양사학과를 다니다가 중퇴하였다. 작품 활동 1990년에 순정_만화_잡지 《르네상스》의 공모전에서 〈유토피아2030〉이 당선되었으나 데뷔하지 않았고, 1992년 순정 만화 잡지 《댕기》의 공모전에 〈지난 봄 이야기〉가 당선되면서 프로로 데뷔하였다. 서울문화사의 순정 만화 잡지 《윙크》에 《아웃사이드》와 《마니》를 연재하면서 자신만의 작품 세계를 정립하기 시작하였다. 1996년 《윙크》에 《쿨 핫》을 발표하였고, 매니아들로부터 지지를 얻었으며, 서울문화사의 여성 만화 잡지 《나인》에 《신명기》와 《폐쇄자》를 발표하면서 작품 세계를 확대하였다. 그러나 《신명기》가 《나인》의 폐간으로 2001년 연재가 중단되었고 코믹스투데이로 이전하여 연재되던 《쿨 핫》도 코믹스투데이가 원고료를 지급하지 않은 코믹스투데이 사태로 중단되었다. 이후 슬럼프를 겪어 특별한 작품 활동을 하지 않다가 2003년부터 시공사의 여성 만화 잡지 《오후》에 《온》을, 2004년부터 《윙크》에 《그린빌에서 만나요》를 연재하였다. 《온》은 《오후》의 폐간으로 연재가 중단되었으나, 2006년_7월부터 을 만화 전문 웹사이트인 코믹뱅에서 연재하여 2007년_4월에 완결지었다. 2008년에 천재교육의 월간 잡지 《주니어_논술》에 〈스위트 시즌〉을 연재하였고,《팝툰》 21호에 설 특집 중편인 〈특전〉을 개제하였으며, 《판타스틱》 2008년_6월호부터 9월호까지 3부작 <파문>을 연재하였다. 2008년 11월_1일부터 절대교감의 여성 만화 잡지 《그루》에 〈푸른 목걸이〉를 연재하다가 잡지의 폐간으로 4회에서 중단되었다. 2011년부터 SK텔레콤의 만화 포털 툰도시의 순정 만화 웹진 《민트》에서 《월흔》을 연재하였으나 2013년 2월 《민트》의 폐간으로 연재가 중단되었다. ",
+	"docID": "107684"
+}

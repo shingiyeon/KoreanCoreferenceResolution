@@ -1,0 +1,24 @@
+{
+	"docID": "51865",
+	"globalSID": "481722,481723",
+	"pronouns": [],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 11,
+			"ancestor": "1-0",
+			"coref_index": 656,
+			"surface": "포메라니아",
+			"entityName": ""
+		}
+	],
+	"plainText": "지역 구분 포메라니아는 오늘날 다음 지역으로 구분된다."
+}

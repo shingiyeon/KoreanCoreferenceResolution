@@ -1,0 +1,176 @@
+{
+	"docID": "907410",
+	"globalSID": "3001000,3001001,3001002,3001003",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "프리미어리그",
+			"entityName": "프리미어리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 34,
+			"ancestor": "-1",
+			"coref_index": 1092,
+			"surface": "첼시_FC",
+			"entityName": "첼시_FC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 16,
+			"ancestor": "1-0",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"surface": "2006년_9월_1일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 75,
+			"ancestor": "7-1",
+			"coref_index": 1092,
+			"surface": "첼시",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 80,
+			"ancestor": "7-2",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 124,
+			"ancestor": "7-2",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 126,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 128,
+			"ancestor": "7-1",
+			"coref_index": 1092,
+			"surface": "첼시",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 152,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 165,
+			"ancestor": "",
+			"surface": "2008년_10월_31일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 167,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 170,
+			"ancestor": "7-2",
+			"coref_index": 1086,
+			"surface": "본호프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 174,
+			"ancestor": "-1",
+			"surface": "런던",
+			"entityName": ""
+		}
+	],
+	"plainText": "2006년_9월_1일, 본호프는 프리미어리그 챔피언 첼시_FC와 계약을 맺고 독일 / 오스트리아 지역의 스카우트가 되었다. 계약은 첼시와 본호프 양쪽 중 한쪽에서만 계약파기 의사를 표하면 종료시킬 수 있었다. 결국, 본호프의 첼시 계약은 늘어나는 적자로 인해 파기되었다. 2008년_10월_31일, 본호프는 런던을 떠났다."
+}

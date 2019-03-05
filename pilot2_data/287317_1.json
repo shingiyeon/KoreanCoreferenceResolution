@@ -1,0 +1,153 @@
+{
+	"docID": "287317",
+	"globalSID": "1591373,1591374",
+	"pronouns": [
+		{
+			"st": 76,
+			"coref_index": 412,
+			"id": 0,
+			"en": 80,
+			"ancestor": "1-2",
+			"surface": "이 지역"
+		},
+		{
+			"en": 84,
+			"st": 76,
+			"surface": "이 지역 출신의",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 89,
+			"st": 76,
+			"surface": "이 지역 출신의 이주민과",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 95,
+			"st": 90,
+			"surface": "그 후손을",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 115,
+			"st": 90,
+			"surface": "그 후손을 별개의 민족으로서 부르는 명칭이다.",
+			"id": 4,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "-1",
+			"coref_index": 410,
+			"surface": "팔레스타인인",
+			"entityName": "팔레스타인인"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"coref_index": 414,
+			"surface": "아랍어",
+			"entityName": "아랍어"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 64,
+			"ancestor": "-1",
+			"coref_index": 412,
+			"surface": "팔레스타인_지역",
+			"entityName": "팔레스타인_(지역)"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"coref_index": 413,
+			"surface": "아랍인",
+			"entityName": "아랍인"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 116,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "1-0",
+			"coref_index": 410,
+			"surface": "팔레스타인인",
+			"entityName": "팔레스타인인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 133,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 137,
+			"ancestor": "-1",
+			"coref_index": 416,
+			"surface": "이슬람교",
+			"entityName": "이슬람교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 148,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 151,
+			"ancestor": "-1",
+			"surface": "기독교",
+			"entityName": "기독교"
+		}
+	],
+	"plainText": "팔레스타인인(아랍어: ????? ?????????, \"ash-sha`b al-filasT?ni\")은 팔레스타인_지역에 거주하는 아랍인과 이 지역 출신의 이주민과 그 후손을 별개의 민족으로서 부르는 명칭이다. 팔레스타인인은 전체의 93%가 이슬람교 신자이고, 6%는 기독교 신자이다."
+}

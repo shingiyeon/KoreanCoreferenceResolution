@@ -1,0 +1,126 @@
+{
+	"docID": "485858",
+	"globalSID": "2146898,2146899,2146900,2146901,2146902",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 26,
+			"ancestor": "-1",
+			"surface": "그룹",
+			"entityName": "음악_그룹"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 30,
+			"ancestor": "-1",
+			"coref_index": 625,
+			"surface": "들국화",
+			"entityName": "들국화_(밴드)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "-1",
+			"coref_index": 618,
+			"surface": "정규_음반",
+			"entityName": "정규_음반"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 175,
+			"ancestor": "-1",
+			"surface": "한국대중음악_100대_명반",
+			"entityName": "한국대중음악_100대_명반"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 19,
+			"ancestor": "",
+			"surface": "1985년_9월_10일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 51,
+			"ancestor": "",
+			"surface": "1985년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 65,
+			"ancestor": "",
+			"surface": "1991년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 143,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 147,
+			"ancestor": "-1",
+			"surface": "선정위원",
+			"entityName": ""
+		}
+	],
+	"plainText": "《들국화》는 1985년_9월_10일 발매된 그룹 들국화의 첫 번째 정규_음반이다. 1985년에 발매되었고, 1991년에 CD로 재발매되었다. ‘80년대 새로운 음악의 시작’, '80년대 중·후반 한국대중음악의 르네상스’를 열었다는 평가를 받는다. 45명의 선정위원으로부터 207점을 받아 한국대중음악_100대_명반 1위에 선정되었다. 음반은 약 180만 장이 팔린 것으로 추정된다."
+}

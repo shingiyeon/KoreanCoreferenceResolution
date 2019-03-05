@@ -1,0 +1,148 @@
+{
+	"docID": "42652",
+	"globalSID": "403407,403408,403409,403410",
+	"pronouns": [
+		{
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "산란을 하는 한살이",
+			"id": 0,
+			"st": 83
+		},
+		{
+			"en": 221,
+			"ancestor": "-1",
+			"surface": "어느 정도",
+			"id": 1,
+			"st": 216
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"st": 19,
+			"eType": "ELU",
+			"entityName": "무당벌레",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "무당벌레",
+			"coref_index": 564
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 122,
+			"eType": "WIKILINK",
+			"entityName": "여름",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 124,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "여름"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "WIKILINK",
+			"entityName": "가을",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "4-7",
+			"is_target": true,
+			"surface": "가을",
+			"coref_index": 565
+		},
+		{
+			"kbox_types": [
+				"Colour"
+			],
+			"st": 194,
+			"eType": "ELU",
+			"entityName": "노랑",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 197,
+			"ancestor": "3-2",
+			"is_target": true,
+			"surface": "노란색",
+			"coref_index": 566
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 2,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "겨울",
+			"coref_index": 568
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 26,
+			"ancestor": "3-12",
+			"is_target": true,
+			"surface": "봄",
+			"coref_index": 567
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 268,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 270,
+			"ancestor": "4-4",
+			"is_target": true,
+			"surface": "겨울",
+			"coref_index": 568
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 63,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "가을",
+			"coref_index": 565
+		}
+	],
+	"plainText": "겨울에 무리지어 동면을 취한 어른 무당벌레는 봄에 출현하여 포식활동과 산란을 하다가, 여름잠을 잔뒤 9월경에 가을에 다시 등장하여 포식활동, 번식, 산란을 하는 한살이를 갖고 있다. 무당벌레애벌레는 허물을 벗는 탈피와 여름이나 가을에 몸을 움크리는 전용상태 그리고 번데기 과정을 거쳐 어른벌레가 된다. 부화한 무당벌레 성충은 처음에는 색상이 없이 노란색의 등껍질을 갖고 있는데, 시간이 어느 정도 흘러 몸이 굳어지면 개성강한 경계색을 갖춘다. 일부 무당벌레 개체는 번데기상태에서 겨울을 난다."
+}

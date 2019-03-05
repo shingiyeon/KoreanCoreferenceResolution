@@ -1,0 +1,782 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 159,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 160,
+			"en": 160,
+			"st_modified": 159
+		},
+		{
+			"st": 159,
+			"text": "이를 원작으로 한 일본 만화",
+			"is_pronoun": true,
+			"en_modified": 174,
+			"en": 174,
+			"st_modified": 159
+		},
+		{
+			"st": 197,
+			"text": "현 모나코 대공가",
+			"is_pronoun": true,
+			"en_modified": 206,
+			"en": 206,
+			"st_modified": 197
+		},
+		{
+			"st": 197,
+			"text": "현 모나코 대공가의 남계 조상",
+			"is_pronoun": true,
+			"en_modified": 213,
+			"en": 213,
+			"st_modified": 197
+		},
+		{
+			"st": 451,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 452,
+			"en": 452,
+			"st_modified": 451
+		},
+		{
+			"st": 451,
+			"text": "그의 가문",
+			"is_pronoun": true,
+			"en_modified": 456,
+			"en": 456,
+			"st_modified": 451
+		},
+		{
+			"st": 519,
+			"text": "추기경 자신",
+			"is_pronoun": true,
+			"en_modified": 525,
+			"en": 525,
+			"st_modified": 519
+		},
+		{
+			"st": 604,
+			"text": "그녀",
+			"is_pronoun": true,
+			"en_modified": 606,
+			"en": 606,
+			"st_modified": 604
+		},
+		{
+			"st": 604,
+			"text": "그녀의 비위",
+			"is_pronoun": true,
+			"en_modified": 610,
+			"en": 610,
+			"st_modified": 604
+		},
+		{
+			"st": 634,
+			"text": "그 뒤",
+			"is_pronoun": true,
+			"en_modified": 637,
+			"en": 637,
+			"st_modified": 634
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 159,
+			"ancestor": "1-11",
+			"surface": "이",
+			"en_modified": 160,
+			"en": 160,
+			"st_modified": 159,
+			"id": 0,
+			"coref_index": 762
+		},
+		{
+			"st": 159,
+			"ancestor": "-1",
+			"surface": "이를 원작으로 한 일본 만화가",
+			"en_modified": 175,
+			"en": 175,
+			"st_modified": 159,
+			"id": 1
+		},
+		{
+			"st": 197,
+			"ancestor": "-1",
+			"surface": "현 모나코 대공가의",
+			"en_modified": 207,
+			"en": 207,
+			"st_modified": 197,
+			"id": 2
+		},
+		{
+			"st": 197,
+			"ancestor": "1-8",
+			"surface": "현 모나코 대공가의 남계 조상",
+			"en_modified": 213,
+			"en": 213,
+			"st_modified": 197,
+			"id": 3,
+			"coref_index": 758
+		},
+		{
+			"st": 451,
+			"ancestor": "1-8",
+			"surface": "그",
+			"en_modified": 452,
+			"en": 452,
+			"st_modified": 451,
+			"id": 4,
+			"coref_index": 758
+		},
+		{
+			"st": 451,
+			"ancestor": "-1",
+			"surface": "그의 가문",
+			"en_modified": 456,
+			"en": 456,
+			"st_modified": 451,
+			"id": 5
+		},
+		{
+			"st": 519,
+			"ancestor": "-1",
+			"surface": "추기경 자신도",
+			"en_modified": 526,
+			"en": 526,
+			"st_modified": 519,
+			"id": 6
+		},
+		{
+			"st": 604,
+			"ancestor": "1-7",
+			"surface": "그녀",
+			"en_modified": 606,
+			"en": 606,
+			"st_modified": 604,
+			"id": 7,
+			"coref_index": 759
+		},
+		{
+			"st": 604,
+			"ancestor": "-1",
+			"surface": "그녀의 비위를",
+			"en_modified": 611,
+			"en": 611,
+			"st_modified": 604,
+			"id": 8
+		},
+		{
+			"st": 634,
+			"ancestor": "-1",
+			"surface": "그 뒤",
+			"en_modified": 637,
+			"en": 637,
+			"st_modified": 634,
+			"id": 9
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 37,
+			"entityName": "1749년",
+			"st_modified": 32,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 32,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1749년",
+			"is_target": false,
+			"en": 37,
+			"id": 0
+		},
+		{
+			"en_modified": 43,
+			"entityName": "9월_8일",
+			"st_modified": 38,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 38,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "9월_8일",
+			"is_target": false,
+			"en": 43,
+			"id": 1
+		},
+		{
+			"en_modified": 51,
+			"entityName": "1793년",
+			"st_modified": 46,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 46,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1793년",
+			"is_target": false,
+			"en": 51,
+			"id": 2
+		},
+		{
+			"en_modified": 58,
+			"entityName": "12월_9일",
+			"st_modified": 52,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 52,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "12월_9일",
+			"is_target": false,
+			"en": 58,
+			"id": 3
+		},
+		{
+			"en_modified": 64,
+			"st_modified": 61,
+			"coref_index": 757,
+			"entityName": "프랑스",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 61,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 64,
+			"id": 4
+		},
+		{
+			"en_modified": 79,
+			"st_modified": 76,
+			"coref_index": 757,
+			"entityName": "프랑스",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 76,
+			"ancestor": "1-4",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 79,
+			"id": 5
+		},
+		{
+			"en_modified": 88,
+			"st_modified": 82,
+			"coref_index": 761,
+			"entityName": "루이_16세",
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 82,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "루이_16세",
+			"is_target": true,
+			"en": 88,
+			"id": 6
+		},
+		{
+			"en_modified": 101,
+			"st_modified": 93,
+			"coref_index": 759,
+			"entityName": "마리_앙투아네트",
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 93,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마리_앙투아네트",
+			"is_target": true,
+			"en": 101,
+			"id": 7
+		},
+		{
+			"en_modified": 29,
+			"st_modified": 9,
+			"coref_index": 758,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "욜랑드_마르틴_가브리엘_드_폴라스트롱",
+			"is_target": true,
+			"en": 29,
+			"id": 8
+		},
+		{
+			"en_modified": 122,
+			"entityName": "오스트리아",
+			"st_modified": 117,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 117,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "오스트리아",
+			"is_target": true,
+			"en": 122,
+			"id": 9
+		},
+		{
+			"en_modified": 135,
+			"entityName": "슈테판_츠바이크",
+			"st_modified": 127,
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 127,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "슈테판_츠바이크",
+			"is_target": true,
+			"en": 135,
+			"id": 10
+		},
+		{
+			"en_modified": 157,
+			"st_modified": 140,
+			"coref_index": 762,
+			"entityName": "마리_앙투아네트_베르사유의_장미",
+			"kbox_types": [
+				"WrittenWork",
+				"Book",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 140,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마리_앙투아네트_베르사유의_장미",
+			"is_target": true,
+			"en": 157,
+			"id": 11
+		},
+		{
+			"en_modified": 171,
+			"entityName": "일본",
+			"st_modified": 169,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 169,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "일본",
+			"is_target": true,
+			"en": 171,
+			"id": 12
+		},
+		{
+			"en_modified": 175,
+			"entityName": "만화가",
+			"st_modified": 172,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "ELU",
+			"st": 172,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "만화가",
+			"is_target": true,
+			"en": 175,
+			"id": 13
+		},
+		{
+			"en_modified": 183,
+			"entityName": "이케다_리요코",
+			"st_modified": 176,
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"ComicsCreator",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 176,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이케다_리요코",
+			"is_target": true,
+			"en": 183,
+			"id": 14
+		},
+		{
+			"en_modified": 202,
+			"entityName": "모나코",
+			"st_modified": 199,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 199,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "모나코",
+			"is_target": true,
+			"en": 202,
+			"id": 15
+		},
+		{
+			"en_modified": 324,
+			"entityName": "파리_시",
+			"st_modified": 322,
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 322,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "파리",
+			"is_target": true,
+			"en": 324,
+			"id": 16
+		},
+		{
+			"en_modified": 230,
+			"entityName": "",
+			"st_modified": 225,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 225,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "폴라스트롱",
+			"is_target": true,
+			"en": 230,
+			"id": 17
+		},
+		{
+			"en_modified": 257,
+			"entityName": "",
+			"st_modified": 246,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 246,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "장_프랑수아_가브리엘",
+			"is_target": true,
+			"en": 257,
+			"id": 18
+		},
+		{
+			"en_modified": 291,
+			"entityName": "",
+			"st_modified": 282,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 282,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "잔_샤를로트_에로",
+			"is_target": true,
+			"en": 291,
+			"id": 19
+		},
+		{
+			"en_modified": 320,
+			"st_modified": 319,
+			"coref_index": 758,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 319,
+			"ancestor": "1-8",
+			"ne_type": "PERSON",
+			"surface": "딸",
+			"is_target": true,
+			"en": 320,
+			"id": 20
+		},
+		{
+			"en_modified": 338,
+			"entityName": "1767년",
+			"st_modified": 333,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 333,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1767년",
+			"is_target": false,
+			"en": 338,
+			"id": 21
+		},
+		{
+			"en_modified": 386,
+			"entityName": "부르봉_왕가",
+			"st_modified": 380,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 380,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "부르봉_왕가",
+			"is_target": true,
+			"en": 386,
+			"id": 22
+		},
+		{
+			"en_modified": 404,
+			"entityName": "추기경",
+			"st_modified": 401,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 401,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "추기경",
+			"is_target": true,
+			"en": 404,
+			"id": 23
+		},
+		{
+			"en_modified": 412,
+			"entityName": "루이_14세",
+			"st_modified": 406,
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 406,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "루이_14세",
+			"is_target": true,
+			"en": 412,
+			"id": 24
+		},
+		{
+			"en_modified": 421,
+			"st_modified": 415,
+			"coref_index": 760,
+			"entityName": "루이_15세",
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 415,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "루이_15세",
+			"is_target": true,
+			"en": 421,
+			"id": 25
+		},
+		{
+			"en_modified": 596,
+			"st_modified": 588,
+			"coref_index": 759,
+			"entityName": "마리_앙투아네트",
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 588,
+			"ancestor": "1-7",
+			"ne_type": "PERSON",
+			"surface": "마리_앙투아네트",
+			"is_target": true,
+			"en": 596,
+			"id": 26
+		},
+		{
+			"en_modified": 644,
+			"st_modified": 638,
+			"coref_index": 760,
+			"entityName": "루이_15세",
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 638,
+			"ancestor": "1-25",
+			"ne_type": "PERSON",
+			"surface": "루이_15세",
+			"is_target": true,
+			"en": 644,
+			"id": 27
+		},
+		{
+			"en_modified": 655,
+			"st_modified": 649,
+			"coref_index": 761,
+			"entityName": "루이_16세",
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 649,
+			"ancestor": "1-6",
+			"ne_type": "PERSON",
+			"surface": "루이_16세",
+			"is_target": true,
+			"en": 655,
+			"id": 28
+		},
+		{
+			"en_modified": 669,
+			"st_modified": 663,
+			"coref_index": 760,
+			"entityName": "루이_15세",
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 663,
+			"ancestor": "1-25",
+			"ne_type": "PERSON",
+			"surface": "루이_15세",
+			"is_target": true,
+			"en": 669,
+			"id": 29
+		},
+		{
+			"en_modified": 697,
+			"entityName": "뒤바리_백작_부인",
+			"st_modified": 688,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 688,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "뒤바리_백작_부인",
+			"is_target": true,
+			"en": 697,
+			"id": 30
+		},
+		{
+			"en_modified": 711,
+			"entityName": "바스티유_감옥",
+			"st_modified": 704,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Castle",
+				"ArchitecturalStructure",
+				"SocietalEvent",
+				"Prison",
+				"Place",
+				"Building",
+				"Event",
+				"MilitaryStructure",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 704,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "바스티유_감옥",
+			"is_target": true,
+			"en": 711,
+			"id": 31
+		}
+	],
+	"globalSID": "2467995,2467996,2467997,2467998,2467999,2468000,2468001,2468002,2468003,2468004",
+	"plainText": "폴리냑 공작부인 욜랑드_마르틴_가브리엘_드_폴라스트롱(, 1749년 9월_8일 ~ 1793년 12월_9일)은 프랑스의 귀족·정치인이다. 프랑스 왕 루이_16세의 왕비 마리_앙투아네트의 총애를 받는 측근이었다. 오스트리아의 작가 슈테판_츠바이크의 평전 마리_앙투아네트_베르사유의_장미와 이를 원작으로 한 일본 만화가 이케다_리요코의 만화등으로 알려졌다. 현 모나코 대공가의 남계 조상이 되고 있다. 생애 폴라스트롱(Polastron)의 후작 장_프랑수아_가브리엘(Jean Fran?ois Gabriel)과 잔_샤를로트_에로(Jeanne Charlotte H?rault)의 딸로 파리에서 태어났다. 1767년에 폴리냑 백작(후에 공작) 쥘과 결혼했으나, 시댁인 폴리냑 가문은 대대로 부르봉_왕가를 섬겼고, 특히 메르시에 추기경은 루이_14세 및 루이_15세의 대표적인 외교관으로 중용되었던 집안이었다. 그러나 그의 가문은 후일 루이 14세의 총희인 몽테스판 후작 부인이 1678년 저지른 검은 미사 사건에 연루되었고, 또 메르시에 추기경 자신도 메인 공왕비의 쿠데타에 연루되어 실각했기 때문에 가운이 쇠퇴하고 있었다. 궁정에서 영향력이 미미했던 왕세손빈 마리_앙투아네트에게 접근하여 그녀의 비위를 맞추고 가깝게 지내면서 신뢰를 쌓았다. 그 뒤 루이_15세가 죽고 루이_16세가 즉위하면서 루이_15세의 총애를 배경으로 위세를 부리던 뒤바리_백작_부인이 축출되고 바스티유_감옥에 갇히면서 궁정의 실권을 장악한다. ",
+	"docID": "634848",
+	"ModifiedText": "폴리냑 공작부인 욜랑드 마르틴 가브리엘 드 폴라스트롱(, 1749년 9월 8일 ~ 1793년 12월 9일)은 프랑스의 귀족·정치인이다. 프랑스 왕 루이 16세의 왕비 마리 앙투아네트의 총애를 받는 측근이었다. 오스트리아의 작가 슈테판 츠바이크의 평전 마리 앙투아네트 베르사유의 장미와 이를 원작으로 한 일본 만화가 이케다 리요코의 만화등으로 알려졌다. 현 모나코 대공가의 남계 조상이 되고 있다. 생애 폴라스트롱(Polastron)의 후작 장 프랑수아 가브리엘(Jean Fran?ois Gabriel)과 잔 샤를로트 에로(Jeanne Charlotte H?rault)의 딸로 파리에서 태어났다. 1767년에 폴리냑 백작(후에 공작) 쥘과 결혼했으나, 시댁인 폴리냑 가문은 대대로 부르봉 왕가를 섬겼고, 특히 메르시에 추기경은 루이 14세 및 루이 15세의 대표적인 외교관으로 중용되었던 집안이었다. 그러나 그의 가문은 후일 루이 14세의 총희인 몽테스판 후작 부인이 1678년 저지른 검은 미사 사건에 연루되었고, 또 메르시에 추기경 자신도 메인 공왕비의 쿠데타에 연루되어 실각했기 때문에 가운이 쇠퇴하고 있었다. 궁정에서 영향력이 미미했던 왕세손빈 마리 앙투아네트에게 접근하여 그녀의 비위를 맞추고 가깝게 지내면서 신뢰를 쌓았다. 그 뒤 루이 15세가 죽고 루이 16세가 즉위하면서 루이 15세의 총애를 배경으로 위세를 부리던 뒤바리 백작 부인이 축출되고 바스티유 감옥에 갇히면서 궁정의 실권을 장악한다. "
+}

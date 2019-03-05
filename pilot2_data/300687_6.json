@@ -1,0 +1,201 @@
+{
+	"docID": "300687",
+	"globalSID": "1644895,1644896",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 424,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-11",
+			"surface": "그"
+		},
+		{
+			"st": 93,
+			"coref_index": 428,
+			"id": 1,
+			"en": 96,
+			"ancestor": "6-1",
+			"surface": "그 해"
+		},
+		{
+			"en": 99,
+			"st": 93,
+			"surface": "그 해 8월",
+			"id": 2,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 11,
+			"ancestor": "1-5",
+			"coref_index": 427,
+			"surface": "인천_유나이티드",
+			"entityName": "인천_유나이티드_FC"
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 24,
+			"ancestor": "1-3",
+			"coref_index": 428,
+			"surface": "2009년",
+			"entityName": "K리그_2009"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 28,
+			"ancestor": "1-4",
+			"coref_index": 423,
+			"surface": "K리그",
+			"entityName": "K리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "부산_아이파크",
+			"entityName": "부산_아이파크"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 100,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 103,
+			"ancestor": "1-11",
+			"coref_index": 424,
+			"surface": "제이드",
+			"entityName": "제이드"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 110,
+			"ancestor": "-1",
+			"surface": "국가대표팀",
+			"entityName": "오스트레일리아_축구_국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 176,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 181,
+			"ancestor": "",
+			"surface": "2010년",
+			"entityName": "2010년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 182,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 193,
+			"ancestor": "-1",
+			"surface": "노르웨이_프리미어리그",
+			"entityName": "노르웨이_프리미어리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 195,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 201,
+			"ancestor": "-1",
+			"surface": "트롬쇠_IL",
+			"entityName": "트롬쇠_IL"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 154,
+			"ancestor": "-1",
+			"surface": "유럽_무대",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 인천_유나이티드로 이적한 뒤 2009년 K리그 개막전인 부산_아이파크와의 경기에서 훌륭한 데뷔전을 치렀으나, 적응에 실패하며 정규리그에서 6경기 출장에 그쳤다. 그 해 8월 제이드는 국가대표팀으로의 재발탁에 대한 열망과 함께 팀을 떠나고 싶다는 의사를 나타내며 유럽_무대로의 이적설이 제기되기도 하였고, 결국 2010년 노르웨이_프리미어리그의 트롬쇠_IL로 이적하였다."
+}

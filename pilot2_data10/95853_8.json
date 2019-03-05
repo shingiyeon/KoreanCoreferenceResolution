@@ -1,0 +1,204 @@
+{
+	"docID": "95853",
+	"globalSID": "736150,736151,736152,736153,736154,736155",
+	"pronouns": [
+		{
+			"en": 76,
+			"ancestor": "-1",
+			"surface": "이 숫자는",
+			"id": 0,
+			"st": 71
+		},
+		{
+			"en": 106,
+			"ancestor": "-1",
+			"surface": "이것은",
+			"id": 1,
+			"st": 103
+		},
+		{
+			"en": 142,
+			"ancestor": "-1",
+			"surface": "어느 한 시점의",
+			"id": 2,
+			"st": 134
+		},
+		{
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "어느 한 시점의 베어마흐트의 병력을",
+			"id": 3,
+			"st": 134
+		},
+		{
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "어느 한 시점의 베어마흐트의 병력을 말하는 것이",
+			"id": 4,
+			"st": 134
+		},
+		{
+			"en": 273,
+			"ancestor": "-1",
+			"surface": "이 중",
+			"id": 5,
+			"st": 270
+		},
+		{
+			"en": 282,
+			"ancestor": "-1",
+			"surface": "이 중 77,000명이",
+			"id": 6,
+			"st": 270
+		},
+		{
+			"en": 368,
+			"ancestor": "-1",
+			"surface": "이들은",
+			"id": 7,
+			"st": 365
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 29,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 34,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "뤼디거_오베르만스",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "뤼디거_오베르만스"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 143,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 148,
+			"ancestor": "8-0",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 254,
+			"eType": "ELU",
+			"entityName": "포로_수용소",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 259,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포로수용소"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 291,
+			"eType": "ELU",
+			"entityName": "프랑스",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 294,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 283,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 285,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "미국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 287,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 289,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "영국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 107,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 110,
+			"ancestor": "7-14",
+			"is_target": true,
+			"surface": "국방군",
+			"coref_index": 1164
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 373,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 375,
+			"ancestor": "6-2",
+			"is_target": true,
+			"surface": "소련",
+			"coref_index": 1160
+		}
+	],
+	"plainText": "1935년부터 1945년까지 국방군이 존재하는 동안 베어마흐트에 복무한 군인의 총 숫자는 1,820만여 명 정도라고 추측된다. 이 숫자는 사학자 뤼디거_오베르만스에 의해 제시되었는데, 이것은 국방군에 복무한 사람들의 수를 모두 합친 것이지 어느 한 시점의 베어마흐트의 병력을 말하는 것이 아니다. 국방군의 군인 중 230만여 명이 전사, 55만이 비전투 관련 원인으로 사망하였으며 2백만 명이 작전 중 실종되고 전후 행방불명 처리되었다. 약 46만 명이 포로수용소에서 사망하였는데, 이 중 77,000명이 미국, 영국, 프랑스 측에 의해 수감되어 있었다. 수감 중 사망한 인원은 1945년 6월 이후의 전후 기간에 사망한 266,000명도 포함하는데, 이들은 대부분 소련에 수감되어 있었다. 대략 1100만 명 정도가 적군의 포로가 되었다."
+}

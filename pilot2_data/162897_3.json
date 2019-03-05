@@ -1,0 +1,197 @@
+{
+	"docID": "162897",
+	"globalSID": "1094450,1094451,1094452,1094453,1094454,1094455",
+	"pronouns": [
+		{
+			"st": 59,
+			"coref_index": 253,
+			"id": 0,
+			"en": 60,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "그의 어린 생활",
+			"id": 1,
+			"st": 59
+		},
+		{
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "이 곡",
+			"id": 2,
+			"st": 97
+		},
+		{
+			"st": 143,
+			"coref_index": 253,
+			"id": 3,
+			"en": 144,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"en": 149,
+			"ancestor": "-1",
+			"surface": "한 살",
+			"id": 4,
+			"st": 146
+		},
+		{
+			"en": 151,
+			"ancestor": "-1",
+			"surface": "한 살 때",
+			"id": 5,
+			"st": 146
+		},
+		{
+			"st": 152,
+			"coref_index": 253,
+			"id": 6,
+			"en": 153,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"en": 157,
+			"ancestor": "-1",
+			"surface": "그의 부모",
+			"id": 7,
+			"st": 152
+		},
+		{
+			"en": 172,
+			"ancestor": "-1",
+			"surface": "그때부터",
+			"id": 8,
+			"st": 168
+		},
+		{
+			"st": 173,
+			"coref_index": 253,
+			"id": 9,
+			"en": 174,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"st": 214,
+			"coref_index": 253,
+			"id": 10,
+			"en": 215,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"en": 232,
+			"ancestor": "-1",
+			"surface": "그로",
+			"id": 11,
+			"st": 230
+		},
+		{
+			"st": 267,
+			"coref_index": 253,
+			"id": 12,
+			"en": 268,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"en": 272,
+			"ancestor": "-1",
+			"surface": "고2",
+			"id": 13,
+			"st": 270
+		},
+		{
+			"en": 274,
+			"ancestor": "-1",
+			"surface": "고2 때",
+			"id": 14,
+			"st": 270
+		},
+		{
+			"en": 286,
+			"ancestor": "-1",
+			"surface": "고2 때 집으로부터 독립한 후",
+			"id": 15,
+			"st": 270
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 5,
+			"eType": "ELU",
+			"entityName": "리오_케이코아",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 12,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "리오_케이코아",
+			"coref_index": 253
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"st": 43,
+			"eType": "ELU",
+			"entityName": "하와이_주",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 46,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "하와이",
+			"coref_index": 255
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"entityName": "DJ_소울스케이프",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 81,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "DJ_Soulscape"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "하와이_주_호놀룰루"
+		}
+	],
+	"plainText": "데뷔 전 리오_케이코아는 하와이_주_호놀룰루에서 태어나 대학교 때까지 한국과 하와이를 오가면서 생활했다. 그의 어린 생활은 DJ_Soulscape의 곡인 \"Story\"(이후 이 곡은 \"Life Story 2004\"라는 곡으로 재탄생했다)에 잘 나타나있다. 그가 한 살 때 그의 부모는 이혼을 했으며, 그때부터 그는 아버지와 생활을 시작한다(어머니와 2005년 때 재회). 청소년기에 그는 주로 갱단과 어울렸으며 그로 인해 중학교 2학년 때 처음으로 감옥생활을 경험했다. 그러던 그는 고2 때 집으로부터 독립한 후 자취 생활을 하다가 귀국하였다."
+}

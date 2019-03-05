@@ -1,0 +1,812 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 109,
+			"text": "가금류 고기",
+			"is_pronoun": true,
+			"en_modified": 115,
+			"en": 115,
+			"st_modified": 109
+		},
+		{
+			"st": 139,
+			"text": "양고기,",
+			"is_pronoun": true,
+			"en_modified": 143,
+			"en": 143,
+			"st_modified": 139
+		},
+		{
+			"st": 217,
+			"text": "이런 류",
+			"is_pronoun": true,
+			"en_modified": 221,
+			"en": 221,
+			"st_modified": 217
+		},
+		{
+			"st": 217,
+			"text": "이런 류의 육류 제품",
+			"is_pronoun": true,
+			"en_modified": 228,
+			"en": 228,
+			"st_modified": 217
+		},
+		{
+			"st": 256,
+			"text": "고기",
+			"is_pronoun": true,
+			"en_modified": 258,
+			"en": 258,
+			"st_modified": 256
+		},
+		{
+			"st": 245,
+			"text": "주로 소시지 형태로 고기를 많이 먹기 때문",
+			"is_pronoun": true,
+			"en_modified": 268,
+			"en": 268,
+			"st_modified": 245
+		},
+		{
+			"st": 463,
+			"text": "한동안",
+			"is_pronoun": true,
+			"en_modified": 466,
+			"en": 466,
+			"st_modified": 463
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 109,
+			"ancestor": "-1",
+			"surface": "가금류 고기",
+			"en_modified": 115,
+			"en": 115,
+			"st_modified": 109,
+			"id": 0
+		},
+		{
+			"st": 139,
+			"ancestor": "-1",
+			"surface": "양고기,",
+			"en_modified": 143,
+			"en": 143,
+			"st_modified": 139,
+			"id": 1
+		},
+		{
+			"st": 217,
+			"ancestor": "-1",
+			"surface": "이런 류의",
+			"en_modified": 222,
+			"en": 222,
+			"st_modified": 217,
+			"id": 2
+		},
+		{
+			"st": 217,
+			"ancestor": "-1",
+			"surface": "이런 류의 육류 제품은",
+			"en_modified": 229,
+			"en": 229,
+			"st_modified": 217,
+			"id": 3
+		},
+		{
+			"st": 256,
+			"ancestor": "-1",
+			"surface": "고기를",
+			"en_modified": 259,
+			"en": 259,
+			"st_modified": 256,
+			"id": 4
+		},
+		{
+			"st": 245,
+			"ancestor": "-1",
+			"surface": "주로 소시지 형태로 고기를 많이 먹기 때문에",
+			"en_modified": 269,
+			"en": 269,
+			"st_modified": 245,
+			"id": 5
+		},
+		{
+			"st": 463,
+			"ancestor": "-1",
+			"surface": "한동안",
+			"en_modified": 466,
+			"en": 466,
+			"st_modified": 463,
+			"id": 6
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 5,
+			"entityName": "독일_요리",
+			"st_modified": 0,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독일_요리",
+			"is_target": true,
+			"en": 5,
+			"id": 0
+		},
+		{
+			"en_modified": 18,
+			"entityName": "독일",
+			"st_modified": 16,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 16,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "독일",
+			"is_target": true,
+			"en": 18,
+			"id": 1
+		},
+		{
+			"en_modified": 46,
+			"entityName": "돼지고기",
+			"st_modified": 42,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 42,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "돼지고기",
+			"is_target": true,
+			"en": 46,
+			"id": 2
+		},
+		{
+			"en_modified": 69,
+			"entityName": "닭고기",
+			"st_modified": 66,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 66,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "닭고기",
+			"is_target": true,
+			"en": 69,
+			"id": 3
+		},
+		{
+			"en_modified": 85,
+			"entityName": "오리",
+			"st_modified": 83,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Eukaryote",
+				"Bird"
+			],
+			"eType": "WIKILINK",
+			"st": 83,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오리",
+			"is_target": true,
+			"en": 85,
+			"id": 4
+		},
+		{
+			"en_modified": 90,
+			"entityName": "칠면조",
+			"st_modified": 87,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Bird"
+			],
+			"eType": "WIKILINK",
+			"st": 87,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "칠면조",
+			"is_target": true,
+			"en": 90,
+			"id": 5
+		},
+		{
+			"en_modified": 94,
+			"entityName": "거위",
+			"st_modified": 92,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Bird",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 92,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "거위",
+			"is_target": true,
+			"en": 94,
+			"id": 6
+		},
+		{
+			"en_modified": 142,
+			"entityName": "양고기",
+			"st_modified": 139,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 139,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "양고기",
+			"is_target": true,
+			"en": 142,
+			"id": 7
+		},
+		{
+			"en_modified": 148,
+			"entityName": "염소고기",
+			"st_modified": 144,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 144,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "염소고기",
+			"is_target": true,
+			"en": 148,
+			"id": 8
+		},
+		{
+			"en_modified": 153,
+			"entityName": "소고기",
+			"st_modified": 150,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 150,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "소고기",
+			"is_target": true,
+			"en": 153,
+			"id": 9
+		},
+		{
+			"en_modified": 236,
+			"entityName": "프랑스",
+			"st_modified": 233,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 233,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 236,
+			"id": 10
+		},
+		{
+			"en_modified": 306,
+			"entityName": "송어",
+			"st_modified": 304,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Fish",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 304,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "송어",
+			"is_target": true,
+			"en": 306,
+			"id": 11
+		},
+		{
+			"en_modified": 321,
+			"entityName": "잉어",
+			"st_modified": 319,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Fish",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 319,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "잉어",
+			"is_target": true,
+			"en": 321,
+			"id": 12
+		},
+		{
+			"en_modified": 325,
+			"entityName": "농어",
+			"st_modified": 323,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 323,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "농어",
+			"is_target": true,
+			"en": 325,
+			"id": 13
+		},
+		{
+			"en_modified": 393,
+			"entityName": "참치",
+			"st_modified": 391,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 391,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "참치",
+			"is_target": true,
+			"en": 393,
+			"id": 14
+		},
+		{
+			"en_modified": 397,
+			"entityName": "청어",
+			"st_modified": 395,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Fish",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 395,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "청어",
+			"is_target": true,
+			"en": 397,
+			"id": 15
+		},
+		{
+			"en_modified": 401,
+			"entityName": "연어",
+			"st_modified": 399,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Fish",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 399,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "연어",
+			"is_target": true,
+			"en": 401,
+			"id": 16
+		},
+		{
+			"en_modified": 418,
+			"entityName": "산업_혁명",
+			"st_modified": 413,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 413,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "산업_혁명",
+			"is_target": true,
+			"en": 418,
+			"id": 17
+		},
+		{
+			"en_modified": 430,
+			"entityName": "라인강",
+			"st_modified": 427,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 427,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "라인강",
+			"is_target": true,
+			"en": 430,
+			"id": 18
+		},
+		{
+			"en_modified": 435,
+			"entityName": "엘베강",
+			"st_modified": 432,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 432,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "엘베강",
+			"is_target": true,
+			"en": 435,
+			"id": 19
+		},
+		{
+			"en_modified": 303,
+			"entityName": "",
+			"st_modified": 301,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 301,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "생선",
+			"is_target": true,
+			"en": 303,
+			"id": 20
+		},
+		{
+			"en_modified": 339,
+			"entityName": "",
+			"st_modified": 336,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 336,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "해산물",
+			"is_target": true,
+			"en": 339,
+			"id": 21
+		},
+		{
+			"en_modified": 349,
+			"entityName": "",
+			"st_modified": 344,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 344,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "북부_지방",
+			"is_target": true,
+			"en": 349,
+			"id": 22
+		},
+		{
+			"en_modified": 364,
+			"entityName": "",
+			"st_modified": 362,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 362,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "별식",
+			"is_target": true,
+			"en": 364,
+			"id": 23
+		},
+		{
+			"en_modified": 379,
+			"entityName": "",
+			"st_modified": 374,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 374,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "독일_전역",
+			"is_target": true,
+			"en": 379,
+			"id": 24
+		},
+		{
+			"en_modified": 546,
+			"entityName": "",
+			"st_modified": 538,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 538,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "독일_내륙_강가",
+			"is_target": true,
+			"en": 546,
+			"id": 25
+		},
+		{
+			"en_modified": 612,
+			"entityName": "당근",
+			"st_modified": 610,
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 610,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "당근",
+			"is_target": true,
+			"en": 612,
+			"id": 26
+		},
+		{
+			"en_modified": 618,
+			"entityName": "완두콩",
+			"st_modified": 615,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 615,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "완두콩",
+			"is_target": true,
+			"en": 618,
+			"id": 27
+		},
+		{
+			"en_modified": 624,
+			"entityName": "시금치",
+			"st_modified": 621,
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 621,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시금치",
+			"is_target": true,
+			"en": 624,
+			"id": 28
+		},
+		{
+			"en_modified": 633,
+			"entityName": "양배추",
+			"st_modified": 630,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"CultivatedVariety",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 630,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "양배추",
+			"is_target": true,
+			"en": 633,
+			"id": 29
+		},
+		{
+			"en_modified": 637,
+			"entityName": "순무",
+			"st_modified": 635,
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 635,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "순무",
+			"is_target": true,
+			"en": 637,
+			"id": 30
+		},
+		{
+			"en_modified": 657,
+			"entityName": "양파",
+			"st_modified": 655,
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 655,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "양파",
+			"is_target": true,
+			"en": 657,
+			"id": 31
+		},
+		{
+			"en_modified": 711,
+			"entityName": "감자",
+			"st_modified": 709,
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 709,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "감자",
+			"is_target": true,
+			"en": 711,
+			"id": 32
+		},
+		{
+			"en_modified": 768,
+			"entityName": "아스파라거스",
+			"st_modified": 762,
+			"kbox_types": [
+				"TopicalConcept",
+				"Taxon"
+			],
+			"eType": "WIKILINK",
+			"st": 762,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아스파라거스",
+			"is_target": true,
+			"en": 768,
+			"id": 33
+		},
+		{
+			"en_modified": 822,
+			"entityName": "이탈리아",
+			"st_modified": 818,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 818,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 822,
+			"id": 34
+		},
+		{
+			"en_modified": 827,
+			"entityName": "파스타",
+			"st_modified": 824,
+			"kbox_types": [
+				"Food"
+			],
+			"eType": "WIKILINK",
+			"st": 824,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "파스타",
+			"is_target": true,
+			"en": 827,
+			"id": 35
+		},
+		{
+			"en_modified": 886,
+			"entityName": "슈페츨레",
+			"st_modified": 882,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 882,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "슈페츨레",
+			"is_target": true,
+			"en": 886,
+			"id": 36
+		},
+		{
+			"en_modified": 950,
+			"entityName": "쌀",
+			"st_modified": 949,
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 949,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "쌀",
+			"is_target": true,
+			"en": 950,
+			"id": 37
+		}
+	],
+	"globalSID": "1041648,1041649,1041650,1041651,1041652,1041653,1041654,1041655,1041656,1041657,1041658,1041659,1041660,1041661,1041662,1041664,1041663,1041665,1041666,1041667,1041668,1041669,1041670,1041671,1041672,1041673,1041674,1041675",
+	"plainText": "독일_요리(獨逸 料理, )는 독일에서 먹는 음식이다. 육류 독일에는 수많은 돼지고기 요리가 있다. 돼지고기 다음으로는 닭고기가 가장 많이 소비된다. 오리, 칠면조, 거위 등도 많이 찾는 편이다. 가금류 고기는 전역에서 찾아보기 가장 쉬운 편이지만, 양고기, 염소고기, 소고기 등은 그다지 인기가 전혀 없다. 대개 육류는 냄비에 끓여서 조리한다. 물론 팬에 구워 먹는 경우도 흔하지만 최근 이런 류의 육류 제품은 거의 프랑스에서 수입된다. 주로 소시지 형태로 고기를 많이 먹기 때문에 독일에만 1500여 가지에 이르는 소시지 종류가 있다. 생선 송어를 가장 많이 먹으며, 잉어나 농어도 자주 등장한다. 해산물은 원래 북부_지방에서만 먹을 수 있었던 별식이었지만 최근에는 독일_전역에서 먹을 수 있으며 참치나 청어, 연어 요리가 인기 있다. 산업_혁명 전에는 연어가 라인강과 엘베강 등지에 흔했지만 산업 발달이 급속하게 이뤄지면서 한동안 연어를 바로 잡아 먹기 힘들었다. 하지만 강력한 환경 정책과 더불어 100년 전에 비해서 많이 수질이 개선된 편이다. 최근에는 독일_내륙_강가에서 어종의 분포가 많이 늘었다. 스튜나 야채 수프에 야채를 넣어 먹지만, 야채를 곁들여 먹는 것도 흔하다. 야채 당근이나 완두콩류, 시금치를 비롯해 양배추, 순무(turnip)도 많이 먹는다. 양파를 구워서 육류 메인 요리에 곁들여 먹는 것은 독일 전역에서 찾아볼 수 있을 것이다. 하지만 감자는 독일인들이 생각하기에 많이 먹는 요리여서인지 야채로 따로 취급하지는 않는다. 특별히 흰 아스파라거스를 재료로 해서 먹기도 한다. 부요리 주 요리와 곁들여 먹는 요리로는 국수 종류가 있는데 이탈리아의 파스타보다는 많이 두꺼운 편이며, 계란 노른자를 곁들인다. 독일 남서부 지방에서는 노른자를 많이 함유한 슈페츨레(Sp?tzle)를 먹기도 한다. 이외에도 감자나 독일식 과일 푸딩도 많이 곁들여 먹었다. 최근에는 감자 대신에 쌀 요리를 즐기기도 한다. 하지만 어찌 되었든 감자가 가장 전통적인 요리 재료이며 대개는 으깨서 감자를 볶아 먹는다. 최근에는 프랑스식 감자 튀김(폼메스 프리테스, Pommes Frites)이 아주 흔해졌다. ",
+	"docID": "152461",
+	"ModifiedText": "독일 요리(獨逸 料理, )는 독일에서 먹는 음식이다. 육류 독일에는 수많은 돼지고기 요리가 있다. 돼지고기 다음으로는 닭고기가 가장 많이 소비된다. 오리, 칠면조, 거위 등도 많이 찾는 편이다. 가금류 고기는 전역에서 찾아보기 가장 쉬운 편이지만, 양고기, 염소고기, 소고기 등은 그다지 인기가 전혀 없다. 대개 육류는 냄비에 끓여서 조리한다. 물론 팬에 구워 먹는 경우도 흔하지만 최근 이런 류의 육류 제품은 거의 프랑스에서 수입된다. 주로 소시지 형태로 고기를 많이 먹기 때문에 독일에만 1500여 가지에 이르는 소시지 종류가 있다. 생선 송어를 가장 많이 먹으며, 잉어나 농어도 자주 등장한다. 해산물은 원래 북부 지방에서만 먹을 수 있었던 별식이었지만 최근에는 독일 전역에서 먹을 수 있으며 참치나 청어, 연어 요리가 인기 있다. 산업 혁명 전에는 연어가 라인강과 엘베강 등지에 흔했지만 산업 발달이 급속하게 이뤄지면서 한동안 연어를 바로 잡아 먹기 힘들었다. 하지만 강력한 환경 정책과 더불어 100년 전에 비해서 많이 수질이 개선된 편이다. 최근에는 독일 내륙 강가에서 어종의 분포가 많이 늘었다. 스튜나 야채 수프에 야채를 넣어 먹지만, 야채를 곁들여 먹는 것도 흔하다. 야채 당근이나 완두콩류, 시금치를 비롯해 양배추, 순무(turnip)도 많이 먹는다. 양파를 구워서 육류 메인 요리에 곁들여 먹는 것은 독일 전역에서 찾아볼 수 있을 것이다. 하지만 감자는 독일인들이 생각하기에 많이 먹는 요리여서인지 야채로 따로 취급하지는 않는다. 특별히 흰 아스파라거스를 재료로 해서 먹기도 한다. 부요리 주 요리와 곁들여 먹는 요리로는 국수 종류가 있는데 이탈리아의 파스타보다는 많이 두꺼운 편이며, 계란 노른자를 곁들인다. 독일 남서부 지방에서는 노른자를 많이 함유한 슈페츨레(Sp?tzle)를 먹기도 한다. 이외에도 감자나 독일식 과일 푸딩도 많이 곁들여 먹었다. 최근에는 감자 대신에 쌀 요리를 즐기기도 한다. 하지만 어찌 되었든 감자가 가장 전통적인 요리 재료이며 대개는 으깨서 감자를 볶아 먹는다. 최근에는 프랑스식 감자 튀김(폼메스 프리테스, Pommes Frites)이 아주 흔해졌다. "
+}

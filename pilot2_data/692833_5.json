@@ -1,0 +1,161 @@
+{
+	"docID": "692833",
+	"globalSID": "2594275,2594276,2594277",
+	"pronouns": [
+		{
+			"st": 59,
+			"coref_index": 829,
+			"id": 0,
+			"en": 63,
+			"ancestor": "5-5",
+			"surface": "그 편지"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "고등학생",
+			"entityName": "고등학생"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "보수",
+			"entityName": "보수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "학교_급식",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "교장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 40,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 43,
+			"ancestor": "4-15",
+			"coref_index": 827,
+			"surface": "어머니",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 51,
+			"ancestor": "-1",
+			"coref_index": 829,
+			"surface": "편지",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 69,
+			"ancestor": "1-0",
+			"coref_index": 821,
+			"surface": "베넨슨",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "혁명가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 99,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 101,
+			"ancestor": "-1",
+			"surface": "아들",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "사회의식",
+			"entityName": ""
+		}
+	],
+	"plainText": "한편 고등학생 때 불량한 학교_급식에 항의했다. 보수적인 교장은 곧바로 어머니에게 경고 편지를 보냈는데, 그 편지에는 베넨슨을 혁명가의 기질이 있다고 비난했다. 하지만 어머니는 아들이 사회의식이 있다는 사실로 받아들이고 오히려 격려해 주었다."
+}

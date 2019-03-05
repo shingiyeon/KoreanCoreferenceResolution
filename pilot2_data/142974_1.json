@@ -1,0 +1,121 @@
+{
+	"docID": "142974",
+	"globalSID": "992486,992487",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 84,
+			"ancestor": "-1",
+			"surface": "야구장",
+			"entityName": "야구장"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 93,
+			"ancestor": "",
+			"surface": "1982년",
+			"entityName": "1982년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 112,
+			"ancestor": "-1",
+			"surface": "해태_타이거즈",
+			"entityName": "KIA_타이거즈"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 123,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 128,
+			"ancestor": "",
+			"surface": "2013년",
+			"entityName": "2013년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 139,
+			"ancestor": "-1",
+			"coref_index": 209,
+			"surface": "KIA_타이거즈",
+			"entityName": "KIA_타이거즈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 11,
+			"ancestor": "-1",
+			"coref_index": 207,
+			"surface": "광주무등경기장_야구장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 76,
+			"ancestor": "-1",
+			"coref_index": 211,
+			"surface": "대한민국_광주광역시_북구_임동",
+			"entityName": ""
+		}
+	],
+	"plainText": "광주무등경기장_야구장(光州無等競技場 野球場, Gwangju Mudeung Baseball Stadium)은 대한민국_광주광역시_북구_임동에 있는 야구장이다. 1982년 한국프로야구 원년의 해태_타이거즈 시절부터 시작해서 2013년까지 KIA_타이거즈의 홈 구장으로 쓰였다."
+}

@@ -1,0 +1,23 @@
+{
+	"docID": "929321",
+	"globalSID": "3050285",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "선수_경력",
+			"entityName": ""
+		}
+	],
+	"plainText": "선수_경력"
+}

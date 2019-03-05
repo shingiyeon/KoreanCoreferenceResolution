@@ -1,0 +1,255 @@
+{
+	"docID": "609167",
+	"globalSID": "2410395,2410396,2410397",
+	"pronouns": [
+		{
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "이 때",
+			"id": 0,
+			"st": 152
+		}
+	],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"entityName": "1584년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 13,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1584년"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"entityName": "고마키·나가쿠테_전투",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "고마키·나가쿠테_전투"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 34,
+			"eType": "ELU",
+			"entityName": "삿사_나리마사",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 41,
+			"ancestor": "9-0",
+			"is_target": true,
+			"surface": "삿사_나리마사",
+			"coref_index": 727
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "도요토미_히데요시",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 52,
+			"ancestor": "9-7",
+			"is_target": true,
+			"surface": "도요토미_히데요시",
+			"coref_index": 734
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 76,
+			"eType": "WIKILINK",
+			"entityName": "도쿠가와_이에야스",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 85,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "도쿠가와_이에야스",
+			"coref_index": 735
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "WIKILINK",
+			"entityName": "오다_노부카쓰_(1558년)",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오다_노부카쓰"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 125,
+			"eType": "ELU",
+			"entityName": "마에다_도시이에",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 133,
+			"ancestor": "6-1",
+			"is_target": true,
+			"surface": "마에다_도시이에",
+			"coref_index": 728
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 136,
+			"eType": "WIKILINK",
+			"entityName": "스에모리성_전투",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 144,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스에모리성_전투"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 156,
+			"eType": "WIKILINK",
+			"entityName": "에치고_국",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 159,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "에치고"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 161,
+			"eType": "ELU",
+			"entityName": "우에스기_가게카쓰",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 170,
+			"ancestor": "9-1",
+			"is_target": true,
+			"surface": "우에스기_가게카쓰",
+			"coref_index": 733
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 204,
+			"eType": "ELU",
+			"entityName": "도요토미_히데요시",
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 213,
+			"ancestor": "10-3",
+			"is_target": true,
+			"surface": "도요토미_히데요시",
+			"coref_index": 734
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 215,
+			"eType": "ELU",
+			"entityName": "도쿠가와_이에야스",
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 224,
+			"ancestor": "10-4",
+			"is_target": true,
+			"surface": "도쿠가와_이에야스",
+			"coref_index": 735
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 237,
+			"eType": "ELU",
+			"entityName": "삿사_나리마사",
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 244,
+			"ancestor": "9-0",
+			"is_target": true,
+			"surface": "삿사_나리마사",
+			"coref_index": 727
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 272,
+			"eType": "ELU",
+			"entityName": "도쿠가와_이에야스",
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 281,
+			"ancestor": "10-4",
+			"is_target": true,
+			"surface": "도쿠가와_이에야스",
+			"coref_index": 735
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "TIME",
+			"en": 6,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "덴쇼_12년"
+		}
+	],
+	"plainText": "덴쇼_12년 (1584년), 고마키·나가쿠테_전투가 일어나자 삿사_나리마사는 도요토미_히데요시 측으로 가담하지 않고, 여름 무렵이 되자 도쿠가와_이에야스, 오다_노부카쓰 측에 가담하였다. 그렇게 되어, 히데요시 측에 붙었던 마에다_도시이에와의 스에모리성_전투가 일어났고, 이 때 에치고의 우에스기_가게카쓰와도 관계가 나빴기 때문에 양쪽으로 공격을 당해 고전하였다. 도요토미_히데요시와 도쿠가와_이에야스와의 화의가 성립되자, 삿사_나리마사는 이에야스의 재기 독촉을 위해 히다 산맥을 넘어 도쿠가와_이에야스를 만났지만, 성과를 얻지 못하였다."
+}

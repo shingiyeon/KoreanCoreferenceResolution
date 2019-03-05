@@ -1,0 +1,1606 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 0,
+			"eType": "ELU",
+			"en": 5,
+			"entityName": "포메라니아",
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 23,
+			"eType": "WIKILINK",
+			"en": 27,
+			"entityName": "발트_해",
+			"is_target": true,
+			"surface": "발트_해",
+			"coref_index": 658,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 59,
+			"eType": "WIKILINK",
+			"en": 62,
+			"entityName": "폴란드",
+			"is_target": true,
+			"surface": "폴란드",
+			"coref_index": 662,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 81,
+			"eType": "WIKILINK",
+			"en": 83,
+			"entityName": "독일",
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 663,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Town",
+				"PopulatedPlace",
+				"Settlement",
+				"Town",
+				"Place"
+			],
+			"id": 4,
+			"ne_type": "LOCATION",
+			"st": 105,
+			"eType": "WIKILINK",
+			"en": 110,
+			"entityName": "슈트랄준트",
+			"is_target": true,
+			"surface": "슈트랄준트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 116,
+			"eType": "WIKILINK",
+			"en": 122,
+			"entityName": "레크니츠_강",
+			"is_target": true,
+			"surface": "레크니츠_강",
+			"coref_index": 659,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 6,
+			"ne_type": "LOCATION",
+			"st": 125,
+			"eType": "WIKILINK",
+			"en": 128,
+			"entityName": "슈체친",
+			"is_target": true,
+			"surface": "슈체친",
+			"coref_index": 657,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 133,
+			"eType": "WIKILINK",
+			"en": 138,
+			"entityName": "오데르_강",
+			"is_target": true,
+			"surface": "오데르_강",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 152,
+			"eType": "WIKILINK",
+			"en": 156,
+			"entityName": "그단스크",
+			"is_target": true,
+			"surface": "그단스크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 9,
+			"ne_type": "LOCATION",
+			"st": 160,
+			"eType": "WIKILINK",
+			"en": 165,
+			"entityName": "비스와_강",
+			"is_target": true,
+			"surface": "비스와_강",
+			"coref_index": 660,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 10,
+			"ne_type": "LOCATION",
+			"st": 175,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 180,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 182,
+			"eType": "WIKILINK",
+			"entityName": "북유럽_평원",
+			"en": 188,
+			"is_target": true,
+			"surface": "북유럽_평원",
+			"coref_index": 661,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 198,
+			"eType": "WIKILINK",
+			"entityName": "슈체친",
+			"en": 201,
+			"is_target": true,
+			"surface": "슈체친",
+			"coref_index": 657,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 203,
+			"eType": "WIKILINK",
+			"entityName": "트로이미아스토",
+			"en": 210,
+			"is_target": true,
+			"surface": "트로이미아스토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Plant",
+				"Eukaryote",
+				"Species"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 305,
+			"eType": "WIKILINK",
+			"entityName": "곡물",
+			"en": 307,
+			"is_target": true,
+			"surface": "곡물",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 309,
+			"eType": "WIKILINK",
+			"entityName": "사탕무",
+			"en": 312,
+			"is_target": true,
+			"surface": "사탕무",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 314,
+			"eType": "WIKILINK",
+			"entityName": "감자",
+			"en": 316,
+			"is_target": true,
+			"surface": "감자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 338,
+			"eType": "WIKILINK",
+			"entityName": "관광",
+			"en": 340,
+			"is_target": true,
+			"surface": "관광",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 18,
+			"ne_type": "LOCATION",
+			"st": 342,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 347,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 253,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 255,
+			"is_target": true,
+			"surface": "호수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "LOCATION",
+			"st": 257,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 258,
+			"is_target": true,
+			"surface": "숲",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "LOCATION",
+			"st": 260,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 262,
+			"is_target": true,
+			"surface": "마을",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 327,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 333,
+			"is_target": true,
+			"surface": "19세기_말",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 23,
+			"ne_type": "LOCATION",
+			"st": 443,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 448,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 24,
+			"ne_type": "LOCATION",
+			"st": 533,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 538,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 25,
+			"ne_type": "LOCATION",
+			"st": 565,
+			"eType": "WIKILINK",
+			"entityName": "발트_해",
+			"en": 569,
+			"is_target": true,
+			"surface": "발트_해",
+			"coref_index": 658,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 461,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 468,
+			"is_target": true,
+			"surface": "고대_슬라브어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 516,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 518,
+			"is_target": true,
+			"surface": "바다",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 561,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 563,
+			"is_target": true,
+			"surface": "지방",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 440,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 442,
+			"is_target": true,
+			"surface": "어원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 30,
+			"ne_type": "LOCATION",
+			"st": 585,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 590,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 31,
+			"ne_type": "LOCATION",
+			"st": 598,
+			"eType": "WIKILINK",
+			"entityName": "신성_로마_제국",
+			"en": 606,
+			"is_target": true,
+			"surface": "신성_로마_제국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 666,
+			"eType": "WIKILINK",
+			"entityName": "제무질",
+			"en": 669,
+			"is_target": true,
+			"surface": "제무질",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 33,
+			"ne_type": "LOCATION",
+			"st": 680,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 685,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-30"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 687,
+			"eType": "WIKILINK",
+			"entityName": "브레멘의_아담",
+			"en": 694,
+			"is_target": true,
+			"surface": "브레멘의_아담",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 704,
+			"eType": "WIKILINK",
+			"entityName": "갈루스_아노니무스",
+			"en": 713,
+			"is_target": true,
+			"surface": "갈루스_아노니무스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 741,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 746,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 37,
+			"ne_type": "LOCATION",
+			"st": 748,
+			"eType": "WIKILINK",
+			"entityName": "발트_해",
+			"en": 752,
+			"is_target": true,
+			"surface": "발트_해",
+			"coref_index": 658,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 754,
+			"eType": "WIKILINK",
+			"entityName": "포메라니아_만",
+			"en": 761,
+			"is_target": true,
+			"surface": "포메라니아_만",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 773,
+			"eType": "WIKILINK",
+			"entityName": "레크니츠_강",
+			"en": 779,
+			"is_target": true,
+			"surface": "레크니츠_강",
+			"coref_index": 659,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 40,
+			"ne_type": "LOCATION",
+			"st": 785,
+			"eType": "WIKILINK",
+			"entityName": "비스와_강",
+			"en": 790,
+			"is_target": true,
+			"surface": "비스와_강",
+			"coref_index": 660,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 41,
+			"ne_type": "LOCATION",
+			"st": 803,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 808,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-36"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 815,
+			"eType": "WIKILINK",
+			"entityName": "노테츠_강",
+			"en": 820,
+			"is_target": true,
+			"surface": "노테츠_강",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 828,
+			"eType": "WIKILINK",
+			"entityName": "바르타_강",
+			"en": 833,
+			"is_target": true,
+			"surface": "바르타_강",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 891,
+			"eType": "WIKILINK",
+			"entityName": "북유럽_평원",
+			"en": 897,
+			"is_target": true,
+			"surface": "북유럽_평원",
+			"coref_index": 661,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 919,
+			"eType": "WIKILINK",
+			"entityName": "플라시스토세",
+			"en": 925,
+			"is_target": true,
+			"surface": "플라시스토세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 931,
+			"eType": "WIKILINK",
+			"entityName": "빙퇴석",
+			"en": 934,
+			"is_target": true,
+			"surface": "빙퇴석",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 938,
+			"eType": "WIKILINK",
+			"entityName": "Baltic_Ridge",
+			"en": 950,
+			"is_target": true,
+			"surface": "Baltic_Ridge",
+			"coref_index": 664,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 991,
+			"eType": "WIKILINK",
+			"entityName": "포메라니아_호수_지역",
+			"en": 1002,
+			"is_target": true,
+			"surface": "포메라니아_호수_지역",
+			"coref_index": 665,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "LOCATION",
+			"st": 1034,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1037,
+			"is_target": true,
+			"surface": "습지대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 1064,
+			"eType": "WIKILINK",
+			"entityName": "다르스_반도",
+			"en": 1070,
+			"is_target": true,
+			"surface": "다르스_반도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "ETC",
+			"st": 1072,
+			"eType": "WIKILINK",
+			"entityName": "징스트_반도",
+			"en": 1078,
+			"is_target": true,
+			"surface": "징스트_반도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Archipelago",
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 52,
+			"ne_type": "LOCATION",
+			"st": 1085,
+			"eType": "WIKILINK",
+			"entityName": "뤼겐_섬",
+			"en": 1089,
+			"is_target": true,
+			"surface": "뤼겐_섬",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Island",
+				"PopulatedPlace"
+			],
+			"id": 53,
+			"ne_type": "LOCATION",
+			"st": 1091,
+			"eType": "WIKILINK",
+			"entityName": "우제돔_섬",
+			"en": 1096,
+			"is_target": true,
+			"surface": "우제돔_섬",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 1098,
+			"eType": "WIKILINK",
+			"entityName": "볼린_섬",
+			"en": 1102,
+			"is_target": true,
+			"surface": "볼린_섬",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 1110,
+			"eType": "WIKILINK",
+			"entityName": "슈체친_석호",
+			"en": 1116,
+			"is_target": true,
+			"surface": "슈체친_석호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 1150,
+			"eType": "WIKILINK",
+			"en": 1155,
+			"entityName": "웹스코_호",
+			"is_target": true,
+			"surface": "웹스코_호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 1157,
+			"eType": "WIKILINK",
+			"en": 1161,
+			"entityName": "얌노_호",
+			"is_target": true,
+			"surface": "얌노_호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "ETC",
+			"st": 1163,
+			"eType": "WIKILINK",
+			"en": 1169,
+			"entityName": "가르드노_호",
+			"is_target": true,
+			"surface": "가르드노_호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "ETC",
+			"st": 1176,
+			"eType": "WIKILINK",
+			"en": 1177,
+			"entityName": "만",
+			"is_target": true,
+			"surface": "만",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "ETC",
+			"st": 1198,
+			"eType": "WIKILINK",
+			"en": 1204,
+			"entityName": "그단스크_만",
+			"is_target": true,
+			"surface": "그단스크_만",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "ETC",
+			"st": 1207,
+			"eType": "WIKILINK",
+			"en": 1211,
+			"entityName": "푸크_만",
+			"is_target": true,
+			"surface": "푸크_만",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 1214,
+			"eType": "WIKILINK",
+			"en": 1219,
+			"entityName": "비스와_만",
+			"is_target": true,
+			"surface": "비스와_만",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 1236,
+			"eType": "WIKILINK",
+			"en": 1240,
+			"entityName": "헬_반도",
+			"is_target": true,
+			"surface": "헬_반도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 1242,
+			"eType": "WIKILINK",
+			"en": 1248,
+			"entityName": "비스와_반도",
+			"is_target": true,
+			"surface": "비스와_반도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 65,
+			"ne_type": "LOCATION",
+			"st": 1250,
+			"eType": "ELU",
+			"en": 1254,
+			"entityName": "발트_해",
+			"is_target": true,
+			"surface": "발트_해",
+			"coref_index": 658,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "LOCATION",
+			"st": 1271,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1276,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ETC",
+			"st": 1311,
+			"eType": "ELU",
+			"entityName": "오늘날",
+			"en": 1314,
+			"is_target": true,
+			"surface": "오늘날",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 68,
+			"ne_type": "LOCATION",
+			"st": 1340,
+			"eType": "WIKILINK",
+			"entityName": "스웁스크",
+			"en": 1344,
+			"is_target": true,
+			"surface": "스웁스크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 69,
+			"ne_type": "LOCATION",
+			"st": 1354,
+			"eType": "WIKILINK",
+			"entityName": "포모제_주",
+			"en": 1359,
+			"is_target": true,
+			"surface": "포모제_주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 70,
+			"ne_type": "LOCATION",
+			"st": 1377,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"en": 1382,
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "ETC",
+			"st": 1403,
+			"eType": "WIKILINK",
+			"entityName": "슐라베-스톨프_영토",
+			"en": 1413,
+			"is_target": true,
+			"surface": "슐라베-스톨프_영토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "ETC",
+			"st": 1415,
+			"eType": "WIKILINK",
+			"entityName": "라우엔부르크-뷔토브_영토",
+			"en": 1428,
+			"is_target": true,
+			"surface": "라우엔부르크-뷔토브_영토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1430,
+			"eType": "WIKILINK",
+			"entityName": "나우가르트_영토",
+			"en": 1438,
+			"is_target": true,
+			"surface": "나우가르트_영토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 1440,
+			"eType": "WIKILINK",
+			"entityName": "캄민_주교령",
+			"en": 1446,
+			"is_target": true,
+			"surface": "캄민_주교령",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "ETC",
+			"st": 1486,
+			"eType": "WIKILINK",
+			"entityName": "노이마르크",
+			"en": 1491,
+			"is_target": true,
+			"surface": "노이마르크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "ETC",
+			"st": 1495,
+			"eType": "WIKILINK",
+			"entityName": "그렌츠마르크_포젠-베스트_프로이센",
+			"en": 1513,
+			"is_target": true,
+			"surface": "그렌츠마르크_포젠-베스트_프로이센",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "LOCATION",
+			"st": 1301,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1309,
+			"is_target": true,
+			"surface": "포메라니아_지방",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "LOCATION",
+			"st": 1315,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1321,
+			"is_target": true,
+			"surface": "서포모제_주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "EVENT",
+			"st": 1454,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1463,
+			"is_target": true,
+			"surface": "제2차_세계_대전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "LOCATION",
+			"st": 1470,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1481,
+			"is_target": true,
+			"surface": "포메라니아_남쪽_지역",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "ETC",
+			"st": 1552,
+			"eType": "WIKILINK",
+			"en": 1556,
+			"entityName": "유럽지역",
+			"is_target": true,
+			"surface": "유럽지역",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ETC",
+			"st": 1563,
+			"eType": "WIKILINK",
+			"en": 1573,
+			"entityName": "포메라니아_유럽지역",
+			"is_target": true,
+			"surface": "포메라니아_유럽지역",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"id": 83,
+			"ne_type": "LOCATION",
+			"st": 1579,
+			"eType": "WIKILINK",
+			"en": 1584,
+			"entityName": "포어포메른",
+			"is_target": true,
+			"surface": "포어포메른",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "ETC",
+			"st": 1586,
+			"eType": "WIKILINK",
+			"en": 1591,
+			"entityName": "우커마르크",
+			"is_target": true,
+			"surface": "우커마르크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 85,
+			"ne_type": "LOCATION",
+			"st": 1593,
+			"eType": "ELU",
+			"en": 1596,
+			"entityName": "폴란드",
+			"is_target": true,
+			"surface": "폴란드",
+			"coref_index": 662,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 86,
+			"ne_type": "LOCATION",
+			"st": 1614,
+			"eType": "WIKILINK",
+			"en": 1617,
+			"entityName": "스웨덴",
+			"is_target": true,
+			"surface": "스웨덴",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 87,
+			"ne_type": "LOCATION",
+			"st": 1619,
+			"eType": "WIKILINK",
+			"en": 1622,
+			"entityName": "스코네",
+			"is_target": true,
+			"surface": "스코네",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "LOCATION",
+			"st": 1522,
+			"eType": "NEW",
+			"en": 1533,
+			"entityName": "",
+			"is_target": true,
+			"surface": "포메라니아_일부_지역",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "LOCATION",
+			"st": 1535,
+			"eType": "NEW",
+			"en": 1540,
+			"entityName": "",
+			"is_target": true,
+			"surface": "주변_지방",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "TIME",
+			"st": 1542,
+			"eType": "NEW",
+			"en": 1547,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1995년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "LOCATION",
+			"st": 1575,
+			"eType": "NEW",
+			"en": 1577,
+			"entityName": "",
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 663,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "LOCATION",
+			"st": 1598,
+			"eType": "NEW",
+			"en": 1608,
+			"entityName": "",
+			"is_target": true,
+			"surface": "자호드뇨포모르스키에",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "481700,481701,481702,481703,481704,481705,481706,481707,481708,481709,481710,481711,481712,481713,481714,481715,481716,481717,481718,481719,481720,481721,481722,481723,481724,481725,481726,481727,481728",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 95,
+			"ancestor": "-1",
+			"st": 90,
+			"surface": "그 범위는"
+		},
+		{
+			"id": 1,
+			"ancestor": "1-10",
+			"st": 273,
+			"en": 277,
+			"surface": "이 지방",
+			"coref_index": 656
+		},
+		{
+			"id": 2,
+			"en": 287,
+			"ancestor": "-1",
+			"st": 273,
+			"surface": "이 지방의 주요 농업으로는"
+		},
+		{
+			"id": 3,
+			"en": 460,
+			"surface": "모든 표현은",
+			"st": 454,
+			"ancestor": "-1"
+		},
+		{
+			"id": 4,
+			"en": 482,
+			"surface": "여기서",
+			"st": 479,
+			"ancestor": "-1"
+		},
+		{
+			"id": 5,
+			"ancestor": "1-24",
+			"st": 559,
+			"en": 563,
+			"surface": "이 지방",
+			"coref_index": 656
+		},
+		{
+			"id": 6,
+			"en": 615,
+			"ancestor": "-1",
+			"st": 608,
+			"surface": "어느 문서에서"
+		},
+		{
+			"id": 7,
+			"en": 631,
+			"ancestor": "-1",
+			"st": 628,
+			"surface": "여기서"
+		},
+		{
+			"id": 8,
+			"en": 665,
+			"ancestor": "-1",
+			"st": 632,
+			"surface": "'Zemuzil dux Bomeranorum'(포메라니아 공"
+		},
+		{
+			"id": 9,
+			"ancestor": "1-36",
+			"st": 881,
+			"en": 885,
+			"surface": "이 지역",
+			"coref_index": 656
+		},
+		{
+			"id": 10,
+			"en": 889,
+			"surface": "이 지역 대부분",
+			"st": 881,
+			"ancestor": "-1"
+		},
+		{
+			"id": 11,
+			"ancestor": "1-47",
+			"st": 957,
+			"en": 964,
+			"surface": "이 ridge",
+			"coref_index": 664
+		},
+		{
+			"id": 12,
+			"en": 966,
+			"surface": "이 ridge 안",
+			"st": 957,
+			"ancestor": "-1"
+		},
+		{
+			"id": 13,
+			"ancestor": "1-48",
+			"st": 1009,
+			"en": 1012,
+			"surface": "이 곳",
+			"coref_index": 665
+		},
+		{
+			"id": 14,
+			"en": 1015,
+			"surface": "이 곳 토질",
+			"st": 1009,
+			"ancestor": "-1"
+		},
+		{
+			"id": 15,
+			"en": 1334,
+			"ancestor": "-1",
+			"st": 1330,
+			"surface": "그 동쪽"
+		},
+		{
+			"id": 16,
+			"en": 1336,
+			"ancestor": "-1",
+			"st": 1330,
+			"surface": "그 동쪽 끝"
+		},
+		{
+			"id": 17,
+			"en": 1344,
+			"ancestor": "-1",
+			"st": 1330,
+			"surface": "그 동쪽 끝 지역(스웁스크"
+		},
+		{
+			"id": 18,
+			"en": 1349,
+			"ancestor": "-1",
+			"st": 1330,
+			"surface": "그 동쪽 끝 지역(스웁스크 지역)은"
+		},
+		{
+			"id": 19,
+			"en": 1396,
+			"ancestor": "-1",
+			"st": 1388,
+			"surface": "여러 옛 지방이"
+		}
+	],
+	"plainText": "포메라니아(, , , )는 유럽 중북부, 발트_해 남쪽 연안에 자리잡은 역사상의 지방이다. 현재는 대부분 폴란드에 속하며, 서쪽 끝 일부 지역은 독일에 속한다. 그 범위는 서쪽으로는 대략 슈트랄준트와 가까운 레크니츠_강에서 슈체친 근처의 오데르_강 삼각주를 지나 동쪽으로 그단스크 인근 비스와_강 어귀에 이른다. 포메라니아는 북유럽_평원 저지에 속한다. 슈체친과 트로이미아스토 등 소수의 중심 도시 바깥으로는 척박한 토지는 주로 농지로 쓰이며, 수많은 호수, 숲, 마을이 산재하고 있다. 이 지방의 주요 농업으로는 목축, 임업, 수산업, 그리고 곡물과 사탕무, 감자 재배 등이 있다. 19세기_말 이래로 관광은 포메라니아, 특히 해안을 따라 난 유흥지에서 중요한 수입원이 되었다. 그나마 있는 산업 지역에서 가장 중요한 생산품으로는 선박, 금속 제품, 설탕 정제, 제지를 들 수 있다. 어원 포메라니아를 일컫는 모든 표현은 고대_슬라브어에서 비롯되었으며, 여기서 'po'는 '옆', '~를 따라'를 뜻하고 'more'는 '바다'를 뜻하는데, 그러므로 '포메라니아'는 문자 그대로 '해안'이란 뜻으로 이 지방이 발트_해와 가까움을 이르는 말이다. 포메라니아는 1046년 신성_로마_제국의 어느 문서에서 처음으로 언급되는데, 여기서 'Zemuzil dux Bomeranorum'(포메라니아 공 제무질)라고 쓰여 있다. 포메라니아는 브레멘의_아담(1070년경)과 갈루스_아노니무스(1113년경)의 연대기에서 자주 등장한다. 지리 포메라니아는 발트_해의 포메라니아_만 연안 가운데 서쪽의 레크니츠_강과 동쪽의 비스와_강 사이의 지역이다. 옛 포메라니아는 남쪽으로 노테츠_강(네츠 강)과 바르타_강(바르테 강)까지 아울렀으나, 1250년부터 남방 경계는 훨씬 북쪽으로 바뀌게 된다. 이 지역 대부분은 북유럽_평원의 해안 저지이며, 남쪽의 구릉 지역은 플라시스토세에 형성된 빙퇴석 띠인 Baltic_Ridge에 속한다. 이 ridge 안에 일련의 빙퇴석호가 고리 모양으로 형성되어 포메라니아_호수_지역을 이룬다. 이 곳 토질은 보통 척박하며, 모래가 많거나 습지대이다. 서쪽 해안선은 들쭉날쭉한 모양으로, 반도(다르스_반도, 징스트_반도 등)와 섬(뤼겐_섬, 우제돔_섬, 볼린_섬 등), 석호(슈체친_석호 등)가 많다. 동쪽 해안선은 굴곡 없이 부드러운 모양이다. 웹스코_호, 얌노_호, 가르드노_호는 과거에는 만이었으나, 지금은 바다와 단절되었다. 그단스크_만(과 푸크_만), 비스와_만을 따라 동쪽 끝 해안선으로는 헬_반도와 비스와_반도가 발트_해로 뻗어 나와있다. 지역 구분 포메라니아는 오늘날 다음 지역으로 구분된다. 과거 먼 포메라니아_지방은 오늘날 서포모제_주 안에 있으며, 그 동쪽 끝 지역(스웁스크 지역)은 오늘날 포모제_주의 북서쪽 끝부분을 이룬다. 먼 포메라니아에는 과거 여러 옛 지방이 있었는데, 슐라베-스톨프_영토, 라우엔부르크-뷔토브_영토, 나우가르트_영토, 캄민_주교령이 유명했다. 제2차_세계_대전 시기에 먼 포메라니아_남쪽_지역에는 옛 노이마르크 땅과 그렌츠마르크_포젠-베스트_프로이센도 추가되었다. 포메라니아_일부_지역과 주변_지방은 1995년 이래로 유럽지역이 되었다. 포메라니아_유럽지역은 독일의 포어포메른과 우커마르크, 폴란드의 자호드뇨포모르스키에, 그리고 스웨덴의 스코네로 이루어져 있다. ",
+	"docID": "51865"
+}

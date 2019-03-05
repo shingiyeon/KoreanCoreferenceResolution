@@ -1,0 +1,82 @@
+{
+	"docID": "162897",
+	"globalSID": "1094456,1094457,1094458,1094459",
+	"pronouns": [
+		{
+			"st": 73,
+			"coref_index": 253,
+			"id": 0,
+			"en": 74,
+			"ancestor": "4-0",
+			"surface": "그"
+		},
+		{
+			"st": 151,
+			"coref_index": 257,
+			"id": 1,
+			"en": 155,
+			"ancestor": "4-1",
+			"surface": "이 그룹"
+		},
+		{
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "그 해",
+			"id": 2,
+			"st": 157
+		},
+		{
+			"en": 163,
+			"ancestor": "-1",
+			"surface": "그 해 클럽",
+			"id": 3,
+			"st": 157
+		},
+		{
+			"en": 168,
+			"ancestor": "-1",
+			"surface": "그 해 클럽 MP에서",
+			"id": 4,
+			"st": 157
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 18,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 25,
+			"ancestor": "1-0",
+			"coref_index": 253,
+			"surface": "리오_케이코아",
+			"entityName": "리오_케이코아"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 107,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 109,
+			"ancestor": "-1",
+			"coref_index": 257,
+			"surface": "MP",
+			"entityName": "마스터플랜"
+		}
+	],
+	"plainText": "II MC와 Ill Skillz 리오_케이코아가 처음 래퍼로써 활동하게 된 것은 1998년 II MC라는 그룹을 통해서였다. 당시 그는 Fame-$라는 이름으로 Special K와 함께 클럽 MP에서 활동하였으며, 1999년에는 \"천상천하 유아독존\"이라는 앨범을 냈다. 이 그룹은 그 해 클럽 MP에서 마지막 공연을 갖고 공식 해체하게 된다."
+}

@@ -1,0 +1,174 @@
+{
+	"docID": "262644",
+	"globalSID": "1479676",
+	"pronouns": [
+		{
+			"en": 3,
+			"ancestor": "-1",
+			"surface": "이처럼",
+			"id": 0,
+			"st": 0
+		},
+		{
+			"en": 62,
+			"ancestor": "-1",
+			"surface": "이를",
+			"id": 1,
+			"st": 60
+		},
+		{
+			"en": 186,
+			"ancestor": "-1",
+			"surface": "어디에",
+			"id": 2,
+			"st": 183
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "-1",
+			"surface": "경영환경",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "정보중심",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "정보화문제",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "고위직_책임자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 66,
+			"ancestor": "-1",
+			"coref_index": 371,
+			"surface": "CIO",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 74,
+			"ancestor": "4-4",
+			"coref_index": 371,
+			"surface": "최고혁신책임자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 100,
+			"ancestor": "4-4",
+			"coref_index": 371,
+			"surface": "chief_innovation_officer",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 156,
+			"ancestor": "-1",
+			"surface": "업무",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 163,
+			"ancestor": "-1",
+			"surface": "외부_기업",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 176,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 181,
+			"ancestor": "-1",
+			"surface": "투자_집행",
+			"entityName": ""
+		}
+	],
+	"plainText": "이처럼 최근의 경영환경이 정보중심으로 급변함에 따라 정보화문제를 총괄하는 고위직_책임자가 필요하게 되었는데 이를 CIO(최고혁신책임자, chief_innovation_officer)라 지칭하기도 하는데 CIO는 매출을 증가시킬 수 있는 전략을 수립하고, 새로운 사업을 발굴해 업무, 외부_기업과 제휴를 주도하거나, 투자_집행을 어디에 어떻게 해야 할지 결정하는 역할 등을 담당한다."
+}

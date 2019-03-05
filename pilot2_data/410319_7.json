@@ -1,0 +1,205 @@
+{
+	"docID": "410319",
+	"globalSID": "1971712,1971713",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 12,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 15,
+			"ancestor": "5-0",
+			"coref_index": 552,
+			"surface": "추축국",
+			"entityName": "추축국"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 58,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 66,
+			"ancestor": "5-4",
+			"coref_index": 550,
+			"surface": "일본_제국_해군",
+			"entityName": "일본_제국_해군"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"st": 73,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 79,
+			"ancestor": "1-2",
+			"coref_index": 548,
+			"surface": "마다가스카르",
+			"entityName": "마다가스카르"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"BodyOfWater",
+				"Infrastructure",
+				"Airport",
+				"Ocean",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 94,
+			"ancestor": "-1",
+			"surface": "태평양",
+			"entityName": "태평양"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 102,
+			"ancestor": "-1",
+			"coref_index": 555,
+			"surface": "오스트레일리아",
+			"entityName": "오스트레일리아"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Airport",
+				"Infrastructure",
+				"ArchitecturalStructure"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "중동",
+			"entityName": "중동"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 113,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 117,
+			"ancestor": "-1",
+			"surface": "남대서양",
+			"entityName": "남대서양"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "일본군_잠수함",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "작전반경",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "16,000_km",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 122,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "연합군의_통신선",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 132,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "EVENT",
+			"en": 134,
+			"ancestor": "-1",
+			"surface": "위협",
+			"entityName": ""
+		}
+	],
+	"plainText": "일본군_잠수함은 당시 추축국 중 가장 긴 작전반경인 대략 16,000_km 정도를 가지고 있었다. 만약 일본_제국_해군의 잠수함이 마다가스카르를 기지로 삼을 경우 태평양-오스트레일리아-중동, 이후 멀리 남대서양을 잇는 연합군의_통신선도 위협받을 수 있었다."
+}

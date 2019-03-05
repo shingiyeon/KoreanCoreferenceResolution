@@ -1,0 +1,87 @@
+{
+	"docID": "1114862",
+	"globalSID": "3353315,3353316,3353317",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "WIKILINK",
+			"entityName": "치파스_FC",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 50,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "치파스",
+			"coref_index": 37
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"entityName": "모나르카스_모렐리아",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 94,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "모나르카스_모렐리아"
+		},
+		{
+			"kbox_types": [
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 151,
+			"eType": "WIKILINK",
+			"entityName": "코파_리베르타도레스",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 161,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "코파_리베르타도레스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "EVENT",
+			"en": 69,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아페르투라_2007_시즌_경기"
+		}
+	],
+	"plainText": "파비안은 과달라하라 출신의 선수로 지역, 클럽 치바스의 유소년팀을 거쳤다. 파비안은 치파스와의 아페르투라_2007_시즌_경기에서 1군 데뷔를 하였고, 모나르카스_모렐리아와의 클라우수라 2008 대회 경기에서 첫 골을 득점하였다. 파비안은 2010년에 과달라하라 소속으로 코파_리베르타도레스에 참가하였고, 팀은 대회 결승전에 진출하였다."
+}

@@ -1,0 +1,374 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 38,
+			"eType": "WIKILINK",
+			"en": 40,
+			"entityName": "일본",
+			"is_target": true,
+			"surface": "일본",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 48,
+			"eType": "ELU",
+			"en": 52,
+			"entityName": "록_밴드",
+			"is_target": true,
+			"surface": "록_밴드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "NEW",
+			"en": 8,
+			"entityName": "",
+			"is_target": true,
+			"surface": "스트로베리_패스",
+			"coref_index": 300,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "PERSON",
+			"st": 59,
+			"eType": "NEW",
+			"en": 77,
+			"entityName": "",
+			"is_target": true,
+			"surface": "플라이드_에그(Flied_Egg)",
+			"coref_index": 300,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 115,
+			"eType": "WIKILINK",
+			"entityName": "나루모_시게루",
+			"en": 122,
+			"is_target": true,
+			"surface": "나루모_시게루",
+			"coref_index": 303,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 124,
+			"eType": "WIKILINK",
+			"entityName": "푸드_브레인",
+			"en": 130,
+			"is_target": true,
+			"surface": "푸드_브레인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 138,
+			"eType": "WIKILINK",
+			"entityName": "츠노다_히로",
+			"en": 144,
+			"is_target": true,
+			"surface": "츠노다_히로",
+			"coref_index": 302,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 159,
+			"eType": "ELU",
+			"entityName": "요코하마_시",
+			"en": 163,
+			"is_target": true,
+			"surface": "요코하마",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 173,
+			"eType": "WIKILINK",
+			"entityName": "파워_하우스",
+			"en": 179,
+			"is_target": true,
+			"surface": "파워_하우스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 181,
+			"eType": "WIKILINK",
+			"entityName": "야나기_조지",
+			"en": 187,
+			"is_target": true,
+			"surface": "야나기_조지",
+			"coref_index": 301,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 219,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 225,
+			"is_target": true,
+			"surface": "야나기_조지",
+			"coref_index": 301,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 281,
+			"eType": "ELU",
+			"en": 286,
+			"entityName": "메리제인",
+			"is_target": true,
+			"surface": "메리_제인",
+			"coref_index": 304,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 253,
+			"eType": "NEW",
+			"en": 256,
+			"entityName": "",
+			"is_target": false,
+			"surface": "71년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 261,
+			"eType": "NEW",
+			"en": 269,
+			"entityName": "",
+			"is_target": true,
+			"surface": "스트로베리_패스",
+			"coref_index": 300,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 300,
+			"eType": "NEW",
+			"en": 303,
+			"entityName": "",
+			"is_target": true,
+			"surface": "츠노다",
+			"coref_index": 302,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "PERSON",
+			"st": 367,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 370,
+			"is_target": true,
+			"surface": "나루모",
+			"coref_index": 303,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 372,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 375,
+			"is_target": true,
+			"surface": "츠노다",
+			"coref_index": 302,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 402,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 408,
+			"is_target": true,
+			"surface": "야나기_조지",
+			"coref_index": 301,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "EVENT",
+			"st": 360,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 362,
+			"is_target": true,
+			"surface": "공연",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 423,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 437,
+			"is_target": true,
+			"surface": "프로콜_하럼과_유라이어_힙",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 486,
+			"eType": "WIKILINK",
+			"entityName": "가면라이더",
+			"en": 491,
+			"is_target": true,
+			"surface": "가면라이더",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 496,
+			"eType": "ELU",
+			"entityName": "만화가",
+			"en": 499,
+			"is_target": true,
+			"surface": "만화가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 500,
+			"eType": "WIKILINK",
+			"entityName": "이시노모리_쇼타로",
+			"en": 509,
+			"is_target": true,
+			"surface": "이시노모리_쇼타로",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "4009780,4009781,4009782,4009783,4009784,4009785,4009786,4009787,4009788,4009789,4009790,4009791",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-11",
+			"st": 295,
+			"en": 298,
+			"surface": "이 곡",
+			"coref_index": 304
+		},
+		{
+			"id": 1,
+			"en": 412,
+			"ancestor": "-1",
+			"st": 410,
+			"surface": "한곡"
+		}
+	],
+	"plainText": "스트로베리_패스(ストロベリ??パス, Strawberry Path)는 일본의 싸이키델릭 록_밴드이다. 이후 플라이드_에그(Flied_Egg)라는 이름으로도 활동했다.. 개요 일본 최고의 기타리스트로 평가받던 나루모_시게루가 푸드_브레인을 갓 탈퇴한 츠노다_히로와 함께 결성한 밴드이다. 요코하마에서 인기를 얻던 파워_하우스의 야나기_조지가 가세해서 집시 아이즈라는 밴드명으로도 잠시 활동했지만 야나기_조지는 곧 활동을 그만두었다. 大烏が地球にやってきた日 71년 발표된 스트로베리_패스의 유일작으로 히트곡 메리_제인으로 유명하다. 이 곡은 츠노다 이름으로 싱글까지 발매되어 200만장 이상 팔렸다. 이후 CM송에까지 들어갈 정도로 인기를 얻었다. 공연은 주로 나루모와 츠노다가 했지만 앨범 녹음에는 몇몇 게스트가 참여했고 야나기_조지도 한곡 불렀다. 사운드는 프로콜_하럼과_유라이어_힙의 영향력이 느껴지며 긴 연주곡과 싸이키델릭, 프로그레시브 곡들로 이루어져있다. 자켓은 가면라이더의 인기 만화가 이시노모리_쇼타로의 작품. ",
+	"docID": "1780938"
+}

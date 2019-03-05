@@ -1,0 +1,37 @@
+{
+	"docID": "1010382",
+	"globalSID": "3192870",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "리튬_이온_배터리",
+			"entityName": "리튬_이온_배터리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "갈륨_비소_태양_전지판",
+			"entityName": "갈륨_비소_태양_전지판"
+		}
+	],
+	"plainText": "위성은 리튬_이온_배터리와 갈륨_비소_태양_전지판으로 구성된 700 kg 무게의 전원공급장치에 의해 전원을 공급받는다."
+}

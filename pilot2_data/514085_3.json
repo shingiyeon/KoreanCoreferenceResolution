@@ -1,0 +1,39 @@
+{
+	"docID": "514085",
+	"globalSID": "2217009",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"entityName": "오토모_소린",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 35,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오토모_소린",
+			"coref_index": 645
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 13,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "요시히로_시게타다"
+		}
+	],
+	"plainText": "초명은 요시히로_시게타다(吉弘?理)이며, 후의 주군 오토모_소린(大友宗麟)의 명으로 다카하시 가문을 이어받아 다카하시 시게타네(高橋?種)라 칭하였다."
+}

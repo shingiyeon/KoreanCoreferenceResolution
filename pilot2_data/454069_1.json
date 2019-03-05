@@ -1,0 +1,90 @@
+{
+	"docID": "454069",
+	"globalSID": "2069977",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 597,
+			"surface": "지석훈",
+			"entityName": "지석훈"
+		},
+		{
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"st": 28,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "KBO_리그",
+			"entityName": "KBO_리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 42,
+			"ancestor": "-1",
+			"coref_index": 593,
+			"surface": "NC_다이노스",
+			"entityName": "NC_다이노스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "내야수",
+			"entityName": "내야수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 22,
+			"ancestor": "",
+			"surface": "1984년_3월_17일",
+			"entityName": ""
+		}
+	],
+	"plainText": "지석훈 (池碩訓, 1984년_3월_17일 - )은 KBO_리그 NC_다이노스의 내야수이다."
+}

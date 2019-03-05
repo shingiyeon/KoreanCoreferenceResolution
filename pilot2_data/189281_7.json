@@ -1,0 +1,77 @@
+{
+	"docID": "189281",
+	"globalSID": "1202129,1202130",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "1972년",
+			"entityName": "1972년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Group",
+				"Artist",
+				"Organisation",
+				"Band"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 11,
+			"ancestor": "-1",
+			"surface": "노이!",
+			"entityName": "노이!"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "크라프트베르크",
+			"entityName": "크라프트베르크"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 66,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"surface": "일렉트로니카",
+			"entityName": "일렉트로니카"
+		}
+	],
+	"plainText": "1972년에, 노이!가 리드미컬한 음악을 선보였다. 1970년대 중반에는 유명한 독일 밴드 중 하나인 크라프트베르크가 일렉트로니카, 테크노와 같은 장르의 기반을 조성해준 «Autobahn»과 «Radioactivity»라는 명반들을 발표했다."
+}

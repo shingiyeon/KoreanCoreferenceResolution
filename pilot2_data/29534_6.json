@@ -1,0 +1,270 @@
+{
+	"docID": "29534",
+	"globalSID": "278057,278058,278059,278060",
+	"pronouns": [
+		{
+			"st": 4,
+			"coref_index": 421,
+			"id": 0,
+			"en": 6,
+			"ancestor": "2-4",
+			"surface": "그놈"
+		},
+		{
+			"st": 37,
+			"coref_index": 422,
+			"id": 1,
+			"en": 38,
+			"ancestor": "6-13",
+			"surface": "이"
+		},
+		{
+			"st": 137,
+			"coref_index": 419,
+			"id": 2,
+			"en": 144,
+			"ancestor": "5-1",
+			"surface": "그놈_데스크톱"
+		},
+		{
+			"en": 148,
+			"ancestor": "-1",
+			"surface": "그놈_데스크톱 기반의",
+			"id": 3,
+			"st": 137
+		},
+		{
+			"en": 158,
+			"ancestor": "-1",
+			"surface": "그놈_데스크톱 기반의 기업용_데스크톱을",
+			"id": 4,
+			"st": 137
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"entityName": "유닉스_계열",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "1-1",
+			"is_target": true,
+			"surface": "유닉스_계열",
+			"coref_index": 417
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"entityName": "BSD",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "BSD"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"entityName": "AIX_운영체제",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "AIX"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"entityName": "IRIX",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "IRIX"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"entityName": "HP-UX",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 79,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "HP-UX"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "솔라리스_(운영_체제)",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 85,
+			"ancestor": "1-4",
+			"is_target": true,
+			"surface": "솔라리스",
+			"coref_index": 418
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"entityName": "썬_마이크로_시스템즈",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 106,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "썬_마이크로_시스템즈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "WIKILINK",
+			"entityName": "자바_데스크톱_시스템",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "자바_데스크톱_시스템"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 168,
+			"eType": "WIKILINK",
+			"entityName": "시그윈",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 171,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "시그윈"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 176,
+			"eType": "WIKILINK",
+			"entityName": "마이크로소프트_윈도",
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 178,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "윈도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 135,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "수세_리눅스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 157,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기업용_데스크톱"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 144,
+			"ancestor": "5-1",
+			"is_target": true,
+			"surface": "그놈_데스크톱",
+			"coref_index": 419
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "GNU/리눅스_데스크톱",
+			"coref_index": 422
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "플랫폼"
+		}
+	],
+	"plainText": "플랫폼 그놈은 본래 GNU/리눅스_데스크톱으로 출발했지만, 현재는 이와 비슷한 대부분의 유닉스_계열(BSD 류, AIX, IRIX, HP-UX, 솔라리스)에서 동작한다. 썬_마이크로_시스템즈는 또한 자바_데스크톱_시스템이란 이름의 수세_리눅스와 그놈_데스크톱 기반의 기업용_데스크톱을 출시했다. 또한 시그윈을 통해 윈도에서도 사용할 수 있다."
+}

@@ -1,0 +1,1475 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"en": 3,
+			"entityName": "설운도",
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 34,
+			"eType": "WIKILINK",
+			"en": 38,
+			"entityName": "대한민국",
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 328,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist",
+				"Profession"
+			],
+			"id": 2,
+			"ne_type": "PERSON",
+			"st": 40,
+			"eType": "WIKILINK",
+			"en": 42,
+			"entityName": "가수",
+			"is_target": true,
+			"surface": "가수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 16,
+			"eType": "NEW",
+			"en": 28,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1958년_6월_23일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 9,
+			"eType": "NEW",
+			"en": 12,
+			"entityName": "",
+			"is_target": true,
+			"surface": "이영춘",
+			"coref_index": 321,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 5,
+			"ne_type": "PERSON",
+			"st": 49,
+			"eType": "ELU",
+			"en": 52,
+			"entityName": "설운도",
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 54,
+			"eType": "WIKILINK",
+			"en": 59,
+			"entityName": "1958년",
+			"is_target": false,
+			"surface": "1958년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 60,
+			"eType": "WIKILINK",
+			"en": 66,
+			"entityName": "6월_23일",
+			"is_target": false,
+			"surface": "6월_23일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 68,
+			"eType": "WIKILINK",
+			"en": 70,
+			"entityName": "부산광역시",
+			"is_target": true,
+			"surface": "부산",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 73,
+			"eType": "ELU",
+			"en": 76,
+			"entityName": "아버지",
+			"is_target": true,
+			"surface": "아버지",
+			"coref_index": 322,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 110,
+			"eType": "WIKILINK",
+			"en": 118,
+			"entityName": "부산한독원예학교",
+			"is_target": true,
+			"surface": "부산한독원예학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 124,
+			"eType": "ELU",
+			"en": 127,
+			"entityName": "아버지",
+			"is_target": true,
+			"surface": "아버지",
+			"coref_index": 322,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 186,
+			"eType": "WIKILINK",
+			"en": 191,
+			"entityName": "1982년",
+			"is_target": false,
+			"surface": "1982년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 213,
+			"eType": "WIKILINK",
+			"en": 216,
+			"entityName": "KBS",
+			"is_target": true,
+			"surface": "KBS",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 14,
+			"ne_type": "TIME",
+			"st": 259,
+			"eType": "WIKILINK",
+			"en": 264,
+			"entityName": "1983년",
+			"is_target": false,
+			"surface": "1983년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 278,
+			"eType": "ELU",
+			"en": 282,
+			"entityName": "이산_가족",
+			"is_target": true,
+			"surface": "이산가족",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 363,
+			"eType": "ELU",
+			"en": 366,
+			"entityName": "박건호",
+			"is_target": true,
+			"surface": "박건호",
+			"coref_index": 323,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 429,
+			"eType": "ELU",
+			"en": 432,
+			"entityName": "박건호",
+			"is_target": true,
+			"surface": "박건호",
+			"coref_index": 323,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 502,
+			"eType": "WIKILINK",
+			"en": 506,
+			"entityName": "기네스북",
+			"is_target": true,
+			"surface": "기네스북",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 529,
+			"eType": "ELU",
+			"en": 533,
+			"entityName": "이산_가족",
+			"is_target": true,
+			"surface": "이산가족",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 20,
+			"ne_type": "PERSON",
+			"st": 594,
+			"eType": "ELU",
+			"en": 597,
+			"entityName": "설운도",
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 21,
+			"ne_type": "TIME",
+			"st": 599,
+			"eType": "WIKILINK",
+			"en": 604,
+			"entityName": "1984년",
+			"is_target": false,
+			"surface": "1984년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 605,
+			"eType": "WIKILINK",
+			"en": 608,
+			"entityName": "12월",
+			"is_target": false,
+			"surface": "12월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 639,
+			"eType": "WIKILINK",
+			"en": 642,
+			"entityName": "설운도",
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Year",
+				"Species",
+				"TimePeriod",
+				"Eukaryote"
+			],
+			"id": 24,
+			"ne_type": "TIME",
+			"st": 660,
+			"eType": "WIKILINK",
+			"entityName": "1986년",
+			"en": 665,
+			"is_target": false,
+			"surface": "1986년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 667,
+			"eType": "WIKILINK",
+			"entityName": "이호섭",
+			"en": 670,
+			"is_target": true,
+			"surface": "이호섭",
+			"coref_index": 324,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 701,
+			"eType": "WIKILINK",
+			"entityName": "이호섭",
+			"en": 704,
+			"is_target": true,
+			"surface": "이호섭",
+			"coref_index": 324,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 27,
+			"ne_type": "PERSON",
+			"st": 710,
+			"eType": "WIKILINK",
+			"entityName": "설운도",
+			"en": 713,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 28,
+			"ne_type": "TIME",
+			"st": 749,
+			"eType": "WIKILINK",
+			"entityName": "1989년",
+			"en": 754,
+			"is_target": false,
+			"surface": "1989년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 756,
+			"eType": "WIKILINK",
+			"entityName": "전국노래자랑",
+			"en": 762,
+			"is_target": true,
+			"surface": "전국노래자랑",
+			"coref_index": 325,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BasketballPlayer"
+			],
+			"id": 30,
+			"ne_type": "PERSON",
+			"st": 778,
+			"eType": "ELU",
+			"entityName": "오세근",
+			"en": 781,
+			"is_target": true,
+			"surface": "오세근",
+			"coref_index": 332,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 828,
+			"eType": "WIKILINK",
+			"entityName": "전국노래자랑",
+			"en": 834,
+			"is_target": true,
+			"surface": "전국노래자랑",
+			"coref_index": 325,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 32,
+			"ne_type": "PERSON",
+			"st": 876,
+			"eType": "ELU",
+			"entityName": "설운도",
+			"en": 879,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 33,
+			"ne_type": "TIME",
+			"st": 923,
+			"eType": "WIKILINK",
+			"entityName": "1988년",
+			"en": 928,
+			"is_target": false,
+			"surface": "1988년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "TIME",
+			"st": 929,
+			"eType": "WIKILINK",
+			"entityName": "12월",
+			"en": 932,
+			"is_target": false,
+			"surface": "12월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 960,
+			"eType": "WIKILINK",
+			"entityName": "연변",
+			"en": 962,
+			"is_target": true,
+			"surface": "연변",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 980,
+			"eType": "WIKILINK",
+			"entityName": "1989년_5월",
+			"en": 988,
+			"is_target": true,
+			"surface": "1989년_5월",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 994,
+			"eType": "WIKILINK",
+			"entityName": "NHK",
+			"en": 997,
+			"is_target": true,
+			"surface": "NHK",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 1016,
+			"eType": "WIKILINK",
+			"entityName": "조용필",
+			"en": 1019,
+			"is_target": true,
+			"surface": "조용필",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 39,
+			"ne_type": "PERSON",
+			"st": 1021,
+			"eType": "WIKILINK",
+			"entityName": "나훈아",
+			"en": 1024,
+			"is_target": true,
+			"surface": "나훈아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 40,
+			"ne_type": "LOCATION",
+			"st": 1030,
+			"eType": "WIKILINK",
+			"entityName": "일본",
+			"en": 1032,
+			"is_target": true,
+			"surface": "일본",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 41,
+			"ne_type": "TIME",
+			"st": 1059,
+			"eType": "WIKILINK",
+			"entityName": "1989년",
+			"en": 1064,
+			"is_target": false,
+			"surface": "1989년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Actor",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"Artist",
+				"President"
+			],
+			"id": 42,
+			"ne_type": "PERSON",
+			"st": 1101,
+			"eType": "ELU",
+			"entityName": "김정일",
+			"en": 1104,
+			"is_target": true,
+			"surface": "김정일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 43,
+			"ne_type": "TIME",
+			"st": 1107,
+			"eType": "WIKILINK",
+			"entityName": "1990년",
+			"en": 1112,
+			"is_target": false,
+			"surface": "1990년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 44,
+			"ne_type": "PERSON",
+			"st": 1136,
+			"eType": "ELU",
+			"entityName": "이수진_(기상_캐스터)",
+			"en": 1139,
+			"is_target": true,
+			"surface": "이수진",
+			"coref_index": 327,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 45,
+			"ne_type": "PERSON",
+			"st": 1145,
+			"eType": "WIKILINK",
+			"entityName": "설운도",
+			"en": 1148,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 46,
+			"ne_type": "PERSON",
+			"st": 1240,
+			"eType": "ELU",
+			"entityName": "설운도",
+			"en": 1243,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Language",
+				"TimePeriod"
+			],
+			"id": 47,
+			"ne_type": "TIME",
+			"st": 1288,
+			"eType": "WIKILINK",
+			"entityName": "1991년",
+			"en": 1293,
+			"is_target": false,
+			"surface": "1991년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 1295,
+			"eType": "WIKILINK",
+			"entityName": "차차차",
+			"en": 1298,
+			"is_target": true,
+			"surface": "차차차",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 49,
+			"ne_type": "ETC",
+			"st": 1300,
+			"eType": "WIKILINK",
+			"entityName": "트로트",
+			"en": 1303,
+			"is_target": true,
+			"surface": "트로트",
+			"coref_index": 329,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 1311,
+			"eType": "ELU",
+			"entityName": "노동자연대",
+			"en": 1314,
+			"is_target": true,
+			"surface": "다함께",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 1324,
+			"eType": "ELU",
+			"entityName": "김병걸_(문학평론가)",
+			"en": 1327,
+			"is_target": true,
+			"surface": "김병걸",
+			"coref_index": 326,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 1333,
+			"eType": "WIKILINK",
+			"entityName": "이호섭",
+			"en": 1336,
+			"is_target": true,
+			"surface": "이호섭",
+			"coref_index": 324,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 1360,
+			"eType": "WIKILINK",
+			"entityName": "이호섭",
+			"en": 1363,
+			"is_target": true,
+			"surface": "이호섭",
+			"coref_index": 324,
+			"ancestor": "1-52"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 54,
+			"ne_type": "PERSON",
+			"st": 1366,
+			"eType": "ELU",
+			"entityName": "설운도",
+			"en": 1369,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 1430,
+			"eType": "WIKILINK",
+			"entityName": "김병걸_(작곡가)",
+			"en": 1433,
+			"is_target": true,
+			"surface": "김병걸",
+			"coref_index": 326,
+			"ancestor": "1-51"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 1641,
+			"eType": "WIKILINK",
+			"entityName": "MBC",
+			"en": 1644,
+			"is_target": true,
+			"surface": "MBC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 57,
+			"ne_type": "TIME",
+			"st": 1668,
+			"eType": "WIKILINK",
+			"entityName": "1992년",
+			"en": 1673,
+			"is_target": false,
+			"surface": "1992년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 1695,
+			"eType": "ELU",
+			"entityName": "이수진_(기상_캐스터)",
+			"en": 1698,
+			"is_target": true,
+			"surface": "이수진",
+			"coref_index": 327,
+			"ancestor": "1-44"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 59,
+			"ne_type": "PERSON",
+			"st": 1704,
+			"eType": "WIKILINK",
+			"entityName": "설운도",
+			"en": 1707,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-46"
+		},
+		{
+			"kbox_types": [
+				"Award"
+			],
+			"id": 60,
+			"ne_type": "ETC",
+			"st": 1715,
+			"eType": "WIKILINK",
+			"entityName": "골든_디스크",
+			"en": 1721,
+			"is_target": true,
+			"surface": "골든_디스크",
+			"coref_index": 330,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 61,
+			"ne_type": "LOCATION",
+			"st": 1735,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 1739,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 328,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 1740,
+			"eType": "WIKILINK",
+			"entityName": "영상음반대상",
+			"en": 1746,
+			"is_target": true,
+			"surface": "영상음반대상",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 63,
+			"ne_type": "TIME",
+			"st": 1751,
+			"eType": "WIKILINK",
+			"entityName": "1995년",
+			"en": 1756,
+			"is_target": false,
+			"surface": "1995년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 1759,
+			"eType": "WIKILINK",
+			"entityName": "삼바",
+			"en": 1761,
+			"is_target": true,
+			"surface": "삼바",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 65,
+			"ne_type": "ETC",
+			"st": 1763,
+			"eType": "WIKILINK",
+			"entityName": "트로트",
+			"en": 1766,
+			"is_target": true,
+			"surface": "트로트",
+			"coref_index": 329,
+			"ancestor": "1-49"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 66,
+			"ne_type": "PERSON",
+			"st": 1785,
+			"eType": "ELU",
+			"entityName": "이수진_(기상_캐스터)",
+			"en": 1788,
+			"is_target": true,
+			"surface": "이수진",
+			"coref_index": 327,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 67,
+			"ne_type": "PERSON",
+			"st": 1794,
+			"eType": "WIKILINK",
+			"entityName": "설운도",
+			"en": 1797,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 68,
+			"ne_type": "LOCATION",
+			"st": 1810,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 1814,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 328,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"Award"
+			],
+			"id": 69,
+			"ne_type": "ETC",
+			"st": 1836,
+			"eType": "WIKILINK",
+			"entityName": "골든_디스크",
+			"en": 1842,
+			"is_target": true,
+			"surface": "골든_디스크",
+			"coref_index": 330,
+			"ancestor": "1-60"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 70,
+			"ne_type": "TIME",
+			"st": 1861,
+			"eType": "WIKILINK",
+			"entityName": "1997년",
+			"en": 1866,
+			"is_target": false,
+			"surface": "1997년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 71,
+			"ne_type": "LOCATION",
+			"st": 1912,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 1916,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 328,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 72,
+			"ne_type": "PERSON",
+			"st": 1979,
+			"eType": "ELU",
+			"entityName": "설운도",
+			"en": 1982,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-46"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 73,
+			"ne_type": "PERSON",
+			"st": 1994,
+			"eType": "WIKILINK",
+			"entityName": "현철_(가수)",
+			"en": 1996,
+			"is_target": true,
+			"surface": "현철",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 74,
+			"ne_type": "PERSON",
+			"st": 1998,
+			"eType": "WIKILINK",
+			"entityName": "송대관",
+			"en": 2001,
+			"is_target": true,
+			"surface": "송대관",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 75,
+			"ne_type": "PERSON",
+			"st": 2003,
+			"eType": "WIKILINK",
+			"entityName": "태진아",
+			"en": 2006,
+			"is_target": true,
+			"surface": "태진아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 76,
+			"ne_type": "ETC",
+			"st": 2016,
+			"eType": "WIKILINK",
+			"entityName": "트로트",
+			"en": 2019,
+			"is_target": true,
+			"surface": "트로트",
+			"coref_index": 329,
+			"ancestor": "1-65"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 77,
+			"ne_type": "PERSON",
+			"st": 2061,
+			"eType": "ELU",
+			"entityName": "설운도",
+			"en": 2064,
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321,
+			"ancestor": "1-72"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "EVENT",
+			"st": 2032,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2035,
+			"is_target": true,
+			"surface": "트로트",
+			"coref_index": 329,
+			"ancestor": "1-76"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "PERSON",
+			"st": 2087,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2089,
+			"is_target": true,
+			"surface": "대중",
+			"coref_index": 331,
+			"ancestor": "1-80"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "PERSON",
+			"st": 1967,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1969,
+			"is_target": true,
+			"surface": "대중",
+			"coref_index": 331,
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1377505,1377506,1377507,1377508,1377509,1377510,1377511,1377512,1377513,1377514,1377515,1377516,1377517,1377518,1377519,1377520,1377521,1377522,1377523,1377524,1377525,1377526",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 454,
+			"ancestor": "-1",
+			"st": 450,
+			"surface": "그다음날"
+		},
+		{
+			"id": 1,
+			"ancestor": "1-5",
+			"st": 677,
+			"en": 679,
+			"surface": "본인",
+			"coref_index": 321
+		},
+		{
+			"id": 2,
+			"ancestor": "1-30",
+			"st": 793,
+			"en": 795,
+			"surface": "자신",
+			"coref_index": 332
+		},
+		{
+			"id": 3,
+			"en": 798,
+			"ancestor": "-1",
+			"st": 793,
+			"surface": "자신의 딸"
+		},
+		{
+			"id": 4,
+			"en": 803,
+			"ancestor": "-1",
+			"st": 790,
+			"surface": "있는 자신의 딸의 치료비"
+		},
+		{
+			"id": 5,
+			"en": 820,
+			"ancestor": "-1",
+			"st": 790,
+			"surface": "있는 자신의 딸의 치료비를 벌기 위해 출연하였다는 사연"
+		},
+		{
+			"id": 6,
+			"en": 860,
+			"ancestor": "-1",
+			"st": 857,
+			"surface": "이 곡"
+		},
+		{
+			"id": 7,
+			"en": 1180,
+			"ancestor": "-1",
+			"st": 1174,
+			"surface": "아무런 인기"
+		},
+		{
+			"id": 8,
+			"en": 1287,
+			"ancestor": "-1",
+			"st": 1284,
+			"surface": "그 중"
+		},
+		{
+			"id": 9,
+			"en": 1294,
+			"ancestor": "-1",
+			"st": 1284,
+			"surface": "그 중 1991년에"
+		},
+		{
+			"id": 10,
+			"en": 1350,
+			"ancestor": "-1",
+			"st": 1347,
+			"surface": "이 곡"
+		},
+		{
+			"id": 11,
+			"en": 1354,
+			"ancestor": "-1",
+			"st": 1347,
+			"surface": "이 곡의 작곡"
+		},
+		{
+			"id": 12,
+			"ancestor": "1-52",
+			"st": 1347,
+			"en": 1363,
+			"surface": "이 곡의 작곡을 맡았던 이호섭",
+			"coref_index": 324
+		},
+		{
+			"id": 13,
+			"en": 1542,
+			"ancestor": "-1",
+			"st": 1538,
+			"surface": "이 노래"
+		},
+		{
+			"id": 14,
+			"en": 1551,
+			"ancestor": "-1",
+			"st": 1538,
+			"surface": "이 노래를 들은 평론가들"
+		},
+		{
+			"id": 15,
+			"en": 1558,
+			"ancestor": "-1",
+			"st": 1554,
+			"surface": "무슨 곡"
+		},
+		{
+			"id": 16,
+			"en": 1561,
+			"ancestor": "-1",
+			"st": 1554,
+			"surface": "무슨 곡 수준"
+		},
+		{
+			"id": 17,
+			"en": 1573,
+			"ancestor": "-1",
+			"st": 1563,
+			"surface": "이 모양이냐.\"라고"
+		},
+		{
+			"id": 18,
+			"en": 1607,
+			"ancestor": "-1",
+			"st": 1604,
+			"surface": "이 곡"
+		}
+	],
+	"plainText": "설운도(본명 : 이영춘, , 1958년_6월_23일 ~ )는 대한민국의 가수이다. 생애 설운도는 1958년 6월_23일에 부산에서 아버지 이상택과 어머니 곽순자의 3남 3녀 중 장남으로 태어났다. 부산한독원예학교 재학 중 아버지의 사업실패로 가정 형편이 어려워지자 돈을 벌기 위해 연탄배달에 나섰다. 이후 육군에 입대하여 전역한 뒤 1982년에 당시 서바이벌 오디션 프로그램이었던 KBS 《신인탄생》에 출연해 프로그램 5주 연속으로 우승하며 데뷔하였다. 이듬해인 1983년에 KBS 특별 생방송 《이산가족을 찾습니다》에 출연하여 데뷔 곡〈잃어버린 30년〉을 부르게 되었는데 하루 만에 빅히트를 기록하였다. 《잃어버린 30년》(원작: 남국인, 개작: 박건호/ 작곡: 남국인)은 원래〈아버지께〉라는 제목으로 발표된 노래인데 이산가족 생방송을 하는걸 매니저가 보고 작사가 박건호에게 전화를 걸어 하룻밤에 작사 그다음날 녹음 모레에 방송 하루 만에 엄청난 히트를 하여 녹음 후 최단 기단의 히트한 곡으로 기네스북에 기록되었다. 데뷔한 지 얼마되지 않아 이산가족의 설움을 그린 곡〈잃어버린 30년〉으로 제 3회 KBS 가요대상 7대 가수상을 수상하고 일약 스타덤에 오른 설운도는 1984년 12월에 발표한 정통 트로트〈나침반〉(작사: 김상길/ 작곡: 설운도)으로 다시 인기를 이어나갔다. 1986년에 이호섭이 작사하고 본인이 작곡한 정통 트로트 《원점》(작사: 이호섭/ 작곡: 설운도) 을 발표하였지만 크게 알려지지 못하였다. 하지만 3년이 지난 1989년에 전국노래자랑 연말결선에서 1위를 차지한 오세근 씨가 심장병이 있는 자신의 딸의 치료비를 벌기 위해 출연하였다는 사연을 전하였는데 전국노래자랑에서 〈원점〉을 부르는 참가자가 많아지며 이 곡이 히트하게 되었다. 하지만 설운도는 매니저의 부재로 방송에 출연하지 못해서 계속 무명 시절을 보내야만 하였다. 1988년 12월에는 국내 가수 최초로 중국 교포들의 초청을 받아 연변에서 단독 콘서트를 개최하였다. 1989년_5월에는 일본 NHK TV의 인기 엔카 가요프로그램에 조용필과 나훈아 다음으로 일본에 진출하였으나 역시 큰 성과를 얻지 못하였다. 1989년에 경쾌한 폭스 트로트 《마음이 울적해서》(작사: 정월하/ 작곡: 김정일), 1990년에 정통 트로트 《혼자이고 싶어요》(작사: 이수진, 작곡: 설운도)를 발표하여 가수 활동을 하였으나 발표 당시 아무런 인기를 얻지 못하였고 이후에 히트하여 제 3회 고복수 가요제 남자 가수상, MBC 10대 가수상을 수상하였다. 설운도는 트로트라는 장르를 다양성있게 새롭게 변화를 준 노래들을 주로 불렀는데 그 중 1991년에 차차차와 트로트가 어울러진 《다함께 차차차》(작사: 김병걸/ 작곡: 이호섭) 를 발표하였다. 이 곡의 작곡을 맡았던 이호섭은 \"설운도가 새벽에 갑자기 찾아와서 곡이 있으면 달라는 부탁을 하여 10분도 안되어 악보를 완성하였고, 작사를 맡았던 김병걸 역시 10분도 되지 않아 작사를 마쳤다. 그리고 편곡 담당이었던 송태호 또한 10분도 안되어 편곡을 마쳐서〈다함께 차차차〉는 1시간도 지나지 않아 완성되었다.\"라고 밝혔다. 발표 초반에 이 노래를 들은 평론가들은 \"무슨 곡 수준이 이 모양이냐.\"라고 평가절하했으나, 경제파동이 있었던 당시 상황과 맞물려 이 곡은 남녀노소를 불문하고 많은 인기를 얻게 되어 2년 연속으로 MBC 10대 가수상을 수상하는 영광을 누렸다. 1992년에는 히트곡 《여자 여자 여자》(작사: 이수진, 작곡: 설운도)로 제 7회 골든_디스크 골든디스크상, 제 3회 대한민국 영상음반대상 본상을 1995년에는 삼바와 트로트가 조합된 《쌈바의 여인》(작사: 이수진, 작곡: 설운도)이 히트하여 제 2회 대한민국 연예예술상 전통가요 가수상, 제11회 골든_디스크 본상을 수상하는 영광을 누렸다. 1997년에 발표한 〈사랑의 트위스트〉는 댄스 트로트로 당시 트위스트 춤이 유행하여 제4회 대한민국 연예예술상 청소년 가수상을 수상하며 당시 청소년들에게 인지도가 높아졌다. 데뷔 후 꾸준히 대중들의 인기를 얻은 설운도는 1990년 대부터 현철, 송대관, 태진아와 나란히 견주며 트로트 4대 천왕으로 불리며 트로트를 부활시키는데 결정적인 역할을 하였다. 특히 설운도는 주로 반짝이 의상을 입고 무대에 올라 대중들에게 반짝이 의상하면 생각나는 가수로 꼽혔다. ",
+	"docID": "236956"
+}

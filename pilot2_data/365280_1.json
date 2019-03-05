@@ -1,0 +1,175 @@
+{
+	"docID": "365280",
+	"globalSID": "1856362,1856363,1856364",
+	"pronouns": [
+		{
+			"st": 76,
+			"coref_index": 511,
+			"id": 0,
+			"en": 84,
+			"ancestor": "1-0",
+			"surface": "케네디의 여동생"
+		},
+		{
+			"en": 118,
+			"ancestor": "-1",
+			"surface": "케네디의 여동생이며, 영화 배우 출신의 정치인 아널드_슈워제네거의 장모이다.",
+			"id": 1,
+			"st": 76
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 12,
+			"ancestor": "-1",
+			"coref_index": 511,
+			"surface": "유니스_케네디_슈라이버",
+			"entityName": "유니스_케네디_슈라이버"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 20,
+			"ancestor": "",
+			"surface": "1921년",
+			"entityName": "1921년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 27,
+			"ancestor": "",
+			"surface": "7월_10일",
+			"entityName": "7월_10일"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 35,
+			"ancestor": "",
+			"surface": "2009년",
+			"entityName": "2009년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 42,
+			"ancestor": "",
+			"surface": "8월_11일",
+			"entityName": "8월_11일"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 47,
+			"ancestor": "-1",
+			"coref_index": 517,
+			"surface": "미국",
+			"entityName": "미국"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"st": 76,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 79,
+			"ancestor": "-1",
+			"coref_index": 513,
+			"surface": "케네디",
+			"entityName": "존_F._케네디"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 84,
+			"ancestor": "1-0",
+			"coref_index": 511,
+			"surface": "여동생",
+			"entityName": "형제자매"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Actor",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"Artist",
+				"President"
+			],
+			"st": 102,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 111,
+			"ancestor": "-1",
+			"coref_index": 518,
+			"surface": "아널드_슈워제네거",
+			"entityName": "아널드_슈워제네거"
+		}
+	],
+	"plainText": "유니스_케네디_슈라이버(, 1921년 7월_10일 ~ 2009년 8월_11일)는 미국의 여성 사회 사업가이다. 제35대 대통령 존 F. 케네디의 여동생이며, 영화 배우 출신의 정치인 아널드_슈워제네거의 장모이다."
+}

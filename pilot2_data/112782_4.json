@@ -1,0 +1,23 @@
+{
+	"docID": "112782",
+	"globalSID": "832316,832317",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 32,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "청각장애"
+		}
+	],
+	"plainText": "형제는 큰 형, 작은 형, 누나가 있다. 큰 형은 청각장애가 있다."
+}

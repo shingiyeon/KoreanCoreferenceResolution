@@ -1,0 +1,109 @@
+{
+	"docID": "11114",
+	"globalSID": "172986,172987",
+	"pronouns": [
+		{
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "한 석도",
+			"id": 0,
+			"st": 62
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 22,
+			"surface": "민중당",
+			"entityName": "민중당_(1965년)"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 15,
+			"ancestor": "",
+			"surface": "1990년",
+			"entityName": "1990년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 23,
+			"ancestor": "",
+			"surface": "1992년",
+			"entityName": "1992년"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "진보_성향_정당",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "EVENT",
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "1992년_총선",
+			"entityName": ""
+		}
+	],
+	"plainText": "민중당(民衆黨)은 1990년부터 1992년까지 존재했던 대한민국의 진보_성향_정당이다. 1992년_총선에서 단 한 석도 얻지 못해 해산되었다."
+}

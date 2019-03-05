@@ -1,0 +1,224 @@
+{
+	"docID": "68577",
+	"globalSID": "564863,564864,564865",
+	"pronouns": [
+		{
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "이 가운데",
+			"id": 0,
+			"st": 38
+		},
+		{
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "예를",
+			"id": 1,
+			"st": 138
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"entityName": "세포생물학",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 71,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "세포_이론",
+			"coref_index": 802
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"entityName": "진화",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 75,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "진화"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"entityName": "유전자",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 80,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유전자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"entityName": "에너지",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 85,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "에너지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "WIKILINK",
+			"entityName": "항상성",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "항상성"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 167,
+			"eType": "WIKILINK",
+			"entityName": "생화학",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 170,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "생화학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 197,
+			"eType": "WIKILINK",
+			"entityName": "분자생물학",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 202,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "분자생물학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 225,
+			"eType": "WIKILINK",
+			"entityName": "세포생물학",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 230,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "세포생물학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 232,
+			"eType": "WIKILINK",
+			"entityName": "기관_(생물학)",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 234,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기관"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 237,
+			"eType": "WIKILINK",
+			"entityName": "조직_(생물학)",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 239,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "조직"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 251,
+			"eType": "WIKILINK",
+			"entityName": "생리학",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 254,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "생리학",
+			"coref_index": 796
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 285,
+			"eType": "WIKILINK",
+			"entityName": "생태학",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 288,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "생태학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "생물학",
+			"coref_index": 798
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 144,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 146,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "생물",
+			"coref_index": 792
+		}
+	],
+	"plainText": "생물학은 많은 하위 학문을 포괄하는 광대한 주제를 다루는 학문이다. 이 가운데 현대 생물학의 주요한 핵심 연구 분야는 세포_이론, 진화, 유전자, 에너지, 항상성 등을 들 수 있다. 생물학의 하위분야는 연구의 방법과 목적에 따라 나뉠 수 있는데, 예를 들어 생물에서 일어나는 화학적 현상을 연구하는 생화학, 분자 수준에서 일어나는 생명 현상을 탐구하는 분자생물학, 세포에서 일어나는 생명 현상을 다루는 세포생물학, 기관이나 조직을 연구대상으로 삼는 생리학, 환경에서 다양한 생물 개체들이 맺는 관계를 탐구하는 생태학등이 있다."
+}

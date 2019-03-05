@@ -1,0 +1,1423 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 24,
+			"eType": "WIKILINK",
+			"entityName": "음악_그룹",
+			"en": 26,
+			"is_target": true,
+			"surface": "그룹",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 27,
+			"eType": "WIKILINK",
+			"entityName": "들국화_(밴드)",
+			"en": 30,
+			"is_target": true,
+			"surface": "들국화",
+			"coref_index": 625,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 37,
+			"eType": "WIKILINK",
+			"entityName": "정규_음반",
+			"en": 42,
+			"is_target": true,
+			"surface": "정규_음반",
+			"coref_index": 618,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 161,
+			"eType": "WIKILINK",
+			"entityName": "한국대중음악_100대_명반",
+			"en": 175,
+			"is_target": true,
+			"surface": "한국대중음악_100대_명반",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 7,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 19,
+			"is_target": false,
+			"surface": "1985년_9월_10일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 46,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 51,
+			"is_target": false,
+			"surface": "1985년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 60,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 65,
+			"is_target": false,
+			"surface": "1991년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"st": 143,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 147,
+			"is_target": true,
+			"surface": "선정위원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 250,
+			"eType": "ELU",
+			"en": 253,
+			"entityName": "주찬권",
+			"is_target": true,
+			"surface": "주찬권",
+			"coref_index": 621,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer",
+				"Artist"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 339,
+			"eType": "ELU",
+			"en": 342,
+			"entityName": "이용하",
+			"is_target": true,
+			"surface": "이용하",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"st": 229,
+			"eType": "NEW",
+			"en": 242,
+			"entityName": "",
+			"is_target": true,
+			"surface": "그룹_'믿음_소망_사랑'",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 255,
+			"eType": "NEW",
+			"en": 258,
+			"entityName": "",
+			"is_target": true,
+			"surface": "최구희",
+			"coref_index": 622,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 395,
+			"eType": "WIKILINK",
+			"entityName": "전인권",
+			"en": 398,
+			"is_target": true,
+			"surface": "전인권",
+			"coref_index": 616,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 412,
+			"eType": "WIKILINK",
+			"entityName": "최성원_(음악가)",
+			"en": 415,
+			"is_target": true,
+			"surface": "최성원",
+			"coref_index": 617,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 417,
+			"eType": "ELU",
+			"entityName": "허성욱",
+			"en": 420,
+			"is_target": true,
+			"surface": "허성욱",
+			"coref_index": 623,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 15,
+			"ne_type": "PERSON",
+			"st": 431,
+			"eType": "ELU",
+			"entityName": "전인권",
+			"en": 434,
+			"is_target": true,
+			"surface": "전인권",
+			"coref_index": 616,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 495,
+			"eType": "ELU",
+			"entityName": "최성원",
+			"en": 498,
+			"is_target": true,
+			"surface": "최성원",
+			"coref_index": 617,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 651,
+			"eType": "ELU",
+			"entityName": "전인권",
+			"en": 654,
+			"is_target": true,
+			"surface": "전인권",
+			"coref_index": 616,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 656,
+			"eType": "ELU",
+			"entityName": "강인원_(가수)",
+			"en": 659,
+			"is_target": true,
+			"surface": "강인원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 390,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 392,
+			"is_target": true,
+			"surface": "행진",
+			"coref_index": 627,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "PERSON",
+			"st": 441,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 444,
+			"is_target": true,
+			"surface": "제작자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 466,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 468,
+			"is_target": true,
+			"surface": "음악",
+			"coref_index": 619,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 483,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 485,
+			"is_target": true,
+			"surface": "앨범",
+			"coref_index": 618,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ORGANIZATION",
+			"st": 504,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 505,
+			"is_target": true,
+			"surface": "군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 531,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 540,
+			"is_target": true,
+			"surface": "그것만이_내_세상",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 558,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 565,
+			"is_target": true,
+			"surface": "더_이상?내게",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 573,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 579,
+			"is_target": true,
+			"surface": "매일_그대와",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 634,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 645,
+			"is_target": true,
+			"surface": "우리_노래_전시회_I",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 661,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 663,
+			"is_target": true,
+			"surface": "노래",
+			"coref_index": 619,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 674,
+			"eType": "WIKILINK",
+			"entityName": "조덕환",
+			"en": 677,
+			"is_target": true,
+			"surface": "조덕환",
+			"coref_index": 620,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 757,
+			"eType": "WIKILINK",
+			"entityName": "1988년_하계_올림픽",
+			"en": 769,
+			"is_target": true,
+			"surface": "1988년_서울_올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 950,
+			"eType": "WIKILINK",
+			"en": 956,
+			"entityName": "우리의_소원",
+			"is_target": true,
+			"surface": "우리의_소원",
+			"coref_index": 628,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 912,
+			"eType": "NEW",
+			"en": 914,
+			"entityName": "",
+			"is_target": true,
+			"surface": "발매",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 917,
+			"eType": "NEW",
+			"en": 919,
+			"entityName": "",
+			"is_target": true,
+			"surface": "음반",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 932,
+			"eType": "NEW",
+			"en": 936,
+			"entityName": "",
+			"is_target": true,
+			"surface": "건전가요",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 959,
+			"eType": "NEW",
+			"en": 963,
+			"entityName": "",
+			"is_target": true,
+			"surface": "아카펠라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 968,
+			"eType": "NEW",
+			"en": 970,
+			"entityName": "",
+			"is_target": true,
+			"surface": "수록",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 976,
+			"eType": "NEW",
+			"en": 977,
+			"entityName": "",
+			"is_target": true,
+			"surface": "곡",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "TIME",
+			"st": 979,
+			"eType": "NEW",
+			"en": 984,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1991년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 989,
+			"eType": "NEW",
+			"en": 991,
+			"entityName": "",
+			"is_target": true,
+			"surface": "CD",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 994,
+			"eType": "NEW",
+			"en": 996,
+			"entityName": "",
+			"is_target": true,
+			"surface": "누락",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 1012,
+			"eType": "WIKILINK",
+			"entityName": "비틀즈",
+			"en": 1015,
+			"is_target": true,
+			"surface": "비틀즈",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Work",
+				"Album"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 1028,
+			"eType": "WIKILINK",
+			"entityName": "Let_It_Be",
+			"en": 1037,
+			"is_target": true,
+			"surface": "Let_It_Be",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 1040,
+			"eType": "ELU",
+			"entityName": "오마주",
+			"en": 1043,
+			"is_target": true,
+			"surface": "오마주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 44,
+			"ne_type": "PERSON",
+			"st": 1052,
+			"eType": "ELU",
+			"entityName": "최성원",
+			"en": 1055,
+			"is_target": true,
+			"surface": "최성원",
+			"coref_index": 617,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 45,
+			"ne_type": "PERSON",
+			"st": 1057,
+			"eType": "ELU",
+			"entityName": "전인권",
+			"en": 1060,
+			"is_target": true,
+			"surface": "전인권",
+			"coref_index": 616,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"id": 46,
+			"ne_type": "PERSON",
+			"st": 1069,
+			"eType": "WIKILINK",
+			"entityName": "레논-매카트니",
+			"en": 1076,
+			"is_target": true,
+			"surface": "레논-매카트니",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 47,
+			"ne_type": "PERSON",
+			"st": 1102,
+			"eType": "ELU",
+			"entityName": "전인권",
+			"en": 1105,
+			"is_target": true,
+			"surface": "전인권",
+			"coref_index": 616,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "TIME",
+			"st": 1046,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1051,
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 1130,
+			"eType": "ELU",
+			"entityName": "조덕환",
+			"en": 1133,
+			"is_target": true,
+			"surface": "조덕환",
+			"coref_index": 620,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"Website",
+				"Work"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 1142,
+			"eType": "WIKILINK",
+			"entityName": "이즘",
+			"en": 1144,
+			"is_target": true,
+			"surface": "이즘",
+			"coref_index": 624,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "TIME",
+			"st": 1135,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1140,
+			"is_target": false,
+			"surface": "2011년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 1192,
+			"eType": "WIKILINK",
+			"entityName": "주찬권",
+			"en": 1195,
+			"is_target": true,
+			"surface": "주찬권",
+			"coref_index": 621,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 1197,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1200,
+			"is_target": true,
+			"surface": "최구희",
+			"coref_index": 622,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 54,
+			"ne_type": "PERSON",
+			"st": 1297,
+			"eType": "ELU",
+			"entityName": "전인권",
+			"en": 1300,
+			"is_target": true,
+			"surface": "전인권",
+			"coref_index": 616,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 55,
+			"ne_type": "PERSON",
+			"st": 1321,
+			"eType": "ELU",
+			"entityName": "최성원",
+			"en": 1324,
+			"is_target": true,
+			"surface": "최성원",
+			"coref_index": 617,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"Instrument",
+				"Device"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 1332,
+			"eType": "ELU",
+			"entityName": "음성",
+			"en": 1335,
+			"is_target": true,
+			"surface": "목소리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 57,
+			"ne_type": "PERSON",
+			"st": 1337,
+			"eType": "ELU",
+			"entityName": "허성욱",
+			"en": 1340,
+			"is_target": true,
+			"surface": "허성욱",
+			"coref_index": 623,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 1370,
+			"eType": "ELU",
+			"entityName": "조덕환",
+			"en": 1373,
+			"is_target": true,
+			"surface": "조덕환",
+			"coref_index": 620,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 59,
+			"ne_type": "PERSON",
+			"st": 1389,
+			"eType": "ELU",
+			"entityName": "주찬권",
+			"en": 1392,
+			"is_target": true,
+			"surface": "주찬권",
+			"coref_index": 621,
+			"ancestor": "1-52"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 60,
+			"ne_type": "PERSON",
+			"st": 1394,
+			"eType": "ELU",
+			"entityName": "이원재_(1958년)",
+			"en": 1397,
+			"is_target": true,
+			"surface": "이원재",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre",
+				"Profession",
+				"PersonFunction"
+			],
+			"id": 61,
+			"ne_type": "ETC",
+			"st": 1436,
+			"eType": "ELU",
+			"entityName": "싱어송라이터",
+			"en": 1443,
+			"is_target": true,
+			"surface": "싱어_송라이터",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "PERSON",
+			"st": 1384,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1387,
+			"is_target": true,
+			"surface": "최구희",
+			"coref_index": 622,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"Website",
+				"Work"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 1498,
+			"eType": "WIKILINK",
+			"entityName": "이즘",
+			"en": 1500,
+			"is_target": true,
+			"surface": "이즘",
+			"coref_index": 624,
+			"ancestor": "1-50"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 64,
+			"ne_type": "PERSON",
+			"st": 1503,
+			"eType": "WIKILINK",
+			"entityName": "임진모",
+			"en": 1506,
+			"is_target": true,
+			"surface": "임진모",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 65,
+			"ne_type": "PERSON",
+			"st": 1608,
+			"eType": "ELU",
+			"entityName": "최지호",
+			"en": 1611,
+			"is_target": true,
+			"surface": "최지호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 1747,
+			"eType": "WIKILINK",
+			"entityName": "웨이브_(웹진)",
+			"en": 1750,
+			"is_target": true,
+			"surface": "웨이브",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ETC",
+			"st": 1753,
+			"eType": "ELU",
+			"entityName": "이용우",
+			"en": 1756,
+			"is_target": true,
+			"surface": "이용우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 68,
+			"ne_type": "ETC",
+			"st": 1762,
+			"eType": "ELU",
+			"entityName": "대중음악",
+			"en": 1766,
+			"is_target": true,
+			"surface": "대중음악",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "LOCATION",
+			"st": 1509,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1511,
+			"is_target": true,
+			"surface": "한국",
+			"coref_index": 626,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "ORGANIZATION",
+			"st": 1530,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1535,
+			"is_target": true,
+			"surface": "토종_밴드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "ORGANIZATION",
+			"st": 1614,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1617,
+			"is_target": true,
+			"surface": "들국화",
+			"coref_index": 625,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "PERSON",
+			"st": 1635,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1638,
+			"is_target": true,
+			"surface": "뮤지션",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "TIME",
+			"st": 1669,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1673,
+			"is_target": false,
+			"surface": "80년대",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "LOCATION",
+			"st": 1678,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1680,
+			"is_target": true,
+			"surface": "한국",
+			"coref_index": 626,
+			"ancestor": "1-69"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "TIME",
+			"st": 1686,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1690,
+			"is_target": true,
+			"surface": "르네상스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "LOCATION",
+			"st": 1759,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1761,
+			"is_target": true,
+			"surface": "한국",
+			"coref_index": 626,
+			"ancestor": "1-74"
+		}
+	],
+	"globalSID": "2146898,2146899,2146900,2146901,2146902,2146903,2146904,2146905,2146906,2146907,2146908,2146909,2146910,2146911,2146912,2146913,2146914,2146915,2146916,2146917,2146918,2146919,2146920,2146921,2146922,2146923,2146924,2146925,2146926,2146927,2146928,2146929,2146930",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-19",
+			"st": 436,
+			"en": 439,
+			"surface": "이 곡",
+			"coref_index": 627
+		},
+		{
+			"id": 1,
+			"ancestor": "1-16",
+			"st": 500,
+			"en": 502,
+			"surface": "자신",
+			"coref_index": 617
+		},
+		{
+			"id": 2,
+			"en": 505,
+			"ancestor": "-1",
+			"st": 504,
+			"surface": "군"
+		},
+		{
+			"id": 3,
+			"en": 511,
+			"ancestor": "-1",
+			"st": 504,
+			"surface": "군에 있을 때"
+		},
+		{
+			"id": 4,
+			"en": 542,
+			"ancestor": "-1",
+			"st": 531,
+			"surface": "그것만이_내_세상〉,"
+		},
+		{
+			"id": 5,
+			"en": 567,
+			"ancestor": "-1",
+			"st": 563,
+			"surface": "내게〉,"
+		},
+		{
+			"id": 6,
+			"en": 593,
+			"ancestor": "-1",
+			"st": 589,
+			"surface": "그것만이"
+		},
+		{
+			"id": 7,
+			"en": 600,
+			"ancestor": "-1",
+			"st": 594,
+			"surface": "내 세상〉과"
+		},
+		{
+			"id": 8,
+			"en": 610,
+			"ancestor": "-1",
+			"st": 605,
+			"surface": "그대와〉는"
+		},
+		{
+			"id": 9,
+			"ancestor": "1-2",
+			"st": 611,
+			"en": 615,
+			"surface": "이 음반",
+			"coref_index": 618
+		},
+		{
+			"id": 10,
+			"ancestor": "1-29",
+			"st": 864,
+			"en": 865,
+			"surface": "그",
+			"coref_index": 620
+		},
+		{
+			"id": 11,
+			"en": 958,
+			"ancestor": "-1",
+			"st": 950,
+			"surface": "우리의_소원〉을"
+		},
+		{
+			"id": 12,
+			"ancestor": "1-31",
+			"st": 974,
+			"en": 977,
+			"surface": "이 곡",
+			"coref_index": 628
+		},
+		{
+			"id": 13,
+			"ancestor": "1-44",
+			"st": 1062,
+			"en": 1063,
+			"surface": "그",
+			"coref_index": 617
+		},
+		{
+			"id": 14,
+			"en": 1068,
+			"surface": "그의 관계가",
+			"st": 1062,
+			"ancestor": "-1"
+		},
+		{
+			"id": 15,
+			"en": 1101,
+			"surface": "이를",
+			"st": 1099,
+			"ancestor": "-1"
+		},
+		{
+			"id": 16,
+			"en": 1287,
+			"ancestor": "-1",
+			"st": 1283,
+			"surface": "그것만이"
+		},
+		{
+			"id": 17,
+			"en": 1296,
+			"ancestor": "-1",
+			"st": 1283,
+			"surface": "그것만이 내 세상〉에서의"
+		},
+		{
+			"id": 18,
+			"en": 1316,
+			"ancestor": "-1",
+			"st": 1310,
+			"surface": "그대와〉에서"
+		},
+		{
+			"id": 19,
+			"ancestor": "1-1",
+			"st": 1426,
+			"en": 1431,
+			"surface": "이 음반이",
+			"coref_index": 625
+		},
+		{
+			"id": 20,
+			"en": 1518,
+			"ancestor": "-1",
+			"st": 1508,
+			"surface": "\"한국?록의 소생을"
+		},
+		{
+			"id": 21,
+			"ancestor": "1-1",
+			"st": 1508,
+			"en": 1525,
+			"surface": "\"한국?록의 소생을 밝힌 앨범.",
+			"coref_index": 625
+		},
+		{
+			"id": 22,
+			"ancestor": "1-71",
+			"st": 1625,
+			"en": 1627,
+			"surface": "그들",
+			"coref_index": 625
+		},
+		{
+			"id": 23,
+			"en": 1631,
+			"ancestor": "-1",
+			"st": 1625,
+			"surface": "그들 이후의"
+		},
+		{
+			"id": 24,
+			"en": 1639,
+			"ancestor": "-1",
+			"st": 1625,
+			"surface": "그들 이후의 어떤 뮤지션도"
+		},
+		{
+			"id": 25,
+			"en": 1645,
+			"ancestor": "-1",
+			"st": 1640,
+			"surface": "이 앨범에"
+		},
+		{
+			"id": 26,
+			"en": 1697,
+			"ancestor": "-1",
+			"st": 1692,
+			"surface": "이 앨범이"
+		},
+		{
+			"id": 27,
+			"en": 1793,
+			"ancestor": "-1",
+			"st": 1788,
+			"surface": "이 음반은"
+		}
+	],
+	"plainText": "《들국화》는 1985년_9월_10일 발매된 그룹 들국화의 첫 번째 정규_음반이다. 1985년에 발매되었고, 1991년에 CD로 재발매되었다. ‘80년대 새로운 음악의 시작’, '80년대 중·후반 한국대중음악의 르네상스’를 열었다는 평가를 받는다. 45명의 선정위원으로부터 207점을 받아 한국대중음악_100대_명반 1위에 선정되었다. 음반은 약 180만 장이 팔린 것으로 추정된다. 제작과 녹음 녹음에는 당시 그룹_'믿음_소망_사랑'으로 활동하던 주찬권과 최구희가 세션으로 참여했다. 음반 전체를 녹음하는데에는 약 1~2개월?정도가 걸렸으며, 멀티트랙 녹음으로, 24트랙 녹음이 이루어졌다. 주로 카세트를 이용하여 곡 작업을 했다. 《들국화》는 한국에서 최초로 16채널 녹음이 도입된 음반이다. 〈행진〉은 전인권이 작사·작곡을 맡았고, 최성원과 허성욱이 편곡한 곡이다. 전인권은 이 곡을 제작자가 제촉하여 맨 마지막에 작곡했다며, \"음악이 아니라 안간힘으로 만든 앨범\"이라고 말했다. 최성원은 자신이 군에 있을 때 또는 제대 직후의 심정을 나타낸 〈그것만이_내_세상〉, 음반 제작 전에 만들어진 〈더_이상?내게〉, 그리고 〈매일_그대와〉를 작곡했다. 〈그것만이 내 세상〉과 〈매일 그대와〉는 이 음반이 나오기 1년 전에 컴필레이션 《우리_노래_전시회_I》에 각각 전인권, 강인원의 노래로 실린 바 있다. 조덕환은 〈세계로 가는 기차〉, 〈아침이 밝아올 때까지〉, 〈축복합니다〉를 작곡했다. 〈세계로 가는 기차〉는 1집 나오기 두 달 전에 만들어졌으며, 1988년_서울_올림픽을 기다리는 청년의 마음을 표현한 것이다. 〈아침이 밝아올 때까지〉는 \"내용 개념이 남자의 노래이니까 이상적인 여인상을 바라는 마음\"을 담았다고 말했다. 〈축복합니다〉는 그가 20대일 때 외교관 영사로 출국하는 형을 멀리 떠나보내는 감성을 표현했다. 당시 발매되는 음반에?통상적으로?들어가는 건전가요를 그대로 쓰지 않고, 〈우리의_소원〉을 아카펠라로?불러 수록했다. 이 곡은 1991년에 나온 CD에는 누락되었다. 커버 커버의 앞면은 비틀즈의 마지막 정규 음반 《Let_It_Be》의 오마주다. 2003년 최성원은 전인권과 그의 관계가 레논-매카트니와 비슷한 게 아니냐는 질문의 대답에서, 이를 전인권의 아이디어로 만든 것이라고 말했다. 하지만 조덕환은 2011년 《이즘》과의 인터뷰에서 《Let It Be》를 염두에 둔 것은 아니라고 말했다. 1집 때에 주찬권과 최구희는 정식 멤버가 아니라 세션이어서 커버에 실리지 못했다. 평가와 유산 《들국화》는 음악 비평가의 극찬을 받았다. 《서브》지의 황정은 음반에 대해 \"〈그것만이 내 세상〉에서의 전인권의 절규와 〈매일 그대와〉에서 보여준 최성원의 감성 어린 목소리, 허성욱의 절제된 건반, 〈아침이 밝아올 때까지〉에서 나타난 조덕환의 곡 쓰기 그리고 최구희, 주찬권, 이원재 등 당시 최고의 세션맨 등 이 모든 것들은 얼마나 이 음반이 철저한 싱어_송라이터의 감각과 역량으로 라이브를 위한 라이브의 감성으로 만들어진 것인지를 가늠케 해준다\"고 평했다. 《이즘》의 임진모는 \"한국?록의 소생을 밝힌 앨범. 동시에 토종_밴드의 승전보였으며, 비주류의 가능성 확인이기도 했다.?전설 중에서도 맨 꼭대기에 위치해야 할 작품이다.\"라고 찬사를 보냈다. 평론가 최지호는 \"들국화?뿐만 아니라 그들 이후의 어떤 뮤지션도 이 앨범에 필적할만한 성과를 거두지 못했다. 어쩌면 80년대 후반의 한국 대중음악 르네상스는 이 앨범이 있었기에 출발을 알리는 신호탄 소리를 들었을지도 모른다.\"고 극찬했다. 대중음악 웹진 《웨이브》의 이용우는 \"한국 대중음악에서 손꼽히는 명반이란 평가에 걸맞게, 이 음반은 작곡, 편곡, 연주, 녹음 등 스튜디오 음반이 가질 수 있는 예술성을 두루 갖춘 걸작이다.\"라고 평하며 10점 만점에 10점을 주었다. ",
+	"docID": "485858"
+}

@@ -1,0 +1,192 @@
+{
+	"docID": "315523",
+	"globalSID": "1692776,1692777,1692778",
+	"pronouns": [
+		{
+			"en": 146,
+			"st": 141,
+			"surface": "이 소식을",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 153,
+			"st": 141,
+			"surface": "이 소식을 접한 왕건은",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 6,
+			"ancestor": "2-6",
+			"coref_index": 435,
+			"surface": "고려",
+			"entityName": "고려"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 12,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 14,
+			"ancestor": "3-1",
+			"coref_index": 437,
+			"surface": "신라",
+			"entityName": "신라"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 28,
+			"ancestor": "2-7",
+			"coref_index": 436,
+			"surface": "후백제",
+			"entityName": "후백제"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 33,
+			"ancestor": "3-7",
+			"coref_index": 440,
+			"surface": "경주",
+			"entityName": "경주시"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 60,
+			"ancestor": "3-8",
+			"coref_index": 442,
+			"surface": "경애왕",
+			"entityName": "경애왕"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "경순왕",
+			"entityName": "경순왕"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 152,
+			"ancestor": "3-9",
+			"coref_index": 441,
+			"surface": "왕건",
+			"entityName": "왕건"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 188,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 191,
+			"ancestor": "4-2",
+			"coref_index": 436,
+			"surface": "후백제",
+			"entityName": "후백제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 91,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 96,
+			"ancestor": "-1",
+			"surface": "왕제_효렴",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 98,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 103,
+			"ancestor": "-1",
+			"surface": "재신_영경",
+			"entityName": ""
+		}
+	],
+	"plainText": "그러나 고려군이 미처 신라에 도착하기도 전에 후백제군이 경주를 점령하여 친고려적인 행동을 자주 하였던 경애왕을 자결하게 하였으며 경순왕을 새 왕으로 세웠다. 또한 왕제_효렴과 재신_영경 등을 포로로 사로잡았으며, 보물들을 약탈한 후에 귀환길에 올랐다. 이 소식을 접한 왕건은 크게 분노하여 친히 5000명의 정예 기병을 이끌고 퇴각하는 후백제군을 격파하기 위해 출전했다."
+}

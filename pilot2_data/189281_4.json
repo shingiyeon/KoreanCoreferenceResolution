@@ -1,0 +1,270 @@
+{
+	"docID": "189281",
+	"globalSID": "1202117,1202118,1202119,1202120,1202121,1202122,1202123",
+	"pronouns": [
+		{
+			"en": 119,
+			"ancestor": "-1",
+			"surface": "전자음악,",
+			"id": 0,
+			"st": 114
+		},
+		{
+			"en": 283,
+			"ancestor": "-1",
+			"surface": "그들",
+			"id": 1,
+			"st": 281
+		},
+		{
+			"en": 387,
+			"ancestor": "-1",
+			"surface": "이 베를린",
+			"id": 2,
+			"st": 382
+		},
+		{
+			"en": 396,
+			"ancestor": "-1",
+			"surface": "이 베를린에서 결성된 것을",
+			"id": 3,
+			"st": 382
+		},
+		{
+			"en": 402,
+			"ancestor": "-1",
+			"surface": "그것",
+			"id": 4,
+			"st": 400
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "핵무기",
+			"entityName": "핵무기"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "환경오염",
+			"entityName": "환경오염"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "전쟁",
+			"entityName": "전쟁"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 45,
+			"ancestor": "",
+			"surface": "1968년",
+			"entityName": "1968년"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 53,
+			"ancestor": "-1",
+			"surface": "프랑스",
+			"entityName": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 55,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "이탈리아",
+			"entityName": "이탈리아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 102,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "1950년대",
+			"entityName": "1950년대"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 120,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 125,
+			"ancestor": "-1",
+			"coref_index": 315,
+			"surface": "아방가르드",
+			"entityName": "전위_예술"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 152,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 156,
+			"ancestor": "-1",
+			"surface": "에센_주",
+			"entityName": "에센_주"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 205,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 211,
+			"ancestor": "1-1",
+			"coref_index": 311,
+			"surface": "크라우트_록",
+			"entityName": "크라우트록"
+		},
+		{
+			"kbox_types": [
+				"TopicalConcept",
+				"MusicGenre",
+				"Genre"
+			],
+			"st": 273,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 278,
+			"ancestor": "3-8",
+			"coref_index": 314,
+			"surface": "사이키델릭",
+			"entityName": "사이키델릭_록"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 307,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 312,
+			"ancestor": "4-7",
+			"coref_index": 315,
+			"surface": "아방가르드",
+			"entityName": "전위_예술"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 355,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 358,
+			"ancestor": "-1",
+			"surface": "대중화",
+			"entityName": "인기"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"City",
+				"AdministrativeRegion"
+			],
+			"st": 384,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 387,
+			"ancestor": "-1",
+			"surface": "베를린",
+			"entityName": "베를린"
+		}
+	],
+	"plainText": "등장배경 핵무기와 환경오염, 전쟁이 반감과 행동주의를 이끌어 낼 즈음에 1968년 독일, 프랑스, 이탈리아 학생 항쟁은 유럽의 젊은 지식인층 록 청취자들을 만들어냈다. 독일의 음악은 1950년대 중반부터 전자음악, 아방가르드(전위적인) 음악으로 선회했다. 이러한 요인들이 에센_주에서 1968년에 최초로 German Rock Festival 을 열게 한 음악 장르인 크라우트_록이 등장하게 되는 접점이었다. 영미 쪽처럼 게르만 록 뮤지션들도 사이키델릭 계열의 음악을 했다. 그러나 반면에 사이키델릭에서 그들은 마약의 효과를 재현하기보다는 일렉트로닉 아방가르드를 혁신적으로 섞으려 했다. 그해 사이키델릭 록 사운드를 독일의 주류음악으로 대중화시킨 Zodiac Free Arts Lab 이 베를린에서 결성된 것을 보면 그것을 단적으로 알 수 있다."
+}

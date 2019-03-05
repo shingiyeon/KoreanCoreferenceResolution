@@ -1,0 +1,153 @@
+{
+	"docID": "51865",
+	"globalSID": "481719,481720,481721",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"entityName": "웹스코_호",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "웹스코_호"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"entityName": "얌노_호",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 36,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "얌노_호"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "가르드노_호",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "가르드노_호"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"entityName": "만",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "만"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"entityName": "그단스크_만",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 79,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그단스크_만"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"entityName": "푸크_만",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 86,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "푸크_만"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "WIKILINK",
+			"entityName": "비스와_만",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "비스와_만"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "WIKILINK",
+			"entityName": "헬_반도",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "헬_반도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "WIKILINK",
+			"entityName": "비스와_반도",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 123,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "비스와_반도"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 125,
+			"eType": "ELU",
+			"entityName": "발트_해",
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 129,
+			"ancestor": "3-2",
+			"is_target": true,
+			"surface": "발트_해",
+			"coref_index": 658
+		}
+	],
+	"plainText": "동쪽 해안선은 굴곡 없이 부드러운 모양이다. 웹스코_호, 얌노_호, 가르드노_호는 과거에는 만이었으나, 지금은 바다와 단절되었다. 그단스크_만(과 푸크_만), 비스와_만을 따라 동쪽 끝 해안선으로는 헬_반도와 비스와_반도가 발트_해로 뻗어 나와있다."
+}

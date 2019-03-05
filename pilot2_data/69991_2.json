@@ -1,0 +1,230 @@
+{
+	"docID": "69991",
+	"globalSID": "573696,573697,573698,573699",
+	"pronouns": [
+		{
+			"st": 3,
+			"coref_index": 832,
+			"id": 0,
+			"en": 5,
+			"ancestor": "1-0",
+			"surface": "그녀"
+		},
+		{
+			"en": 98,
+			"ancestor": "-1",
+			"surface": "5·16 직후 정치금지를 당하였다가 해제 후,",
+			"id": 1,
+			"st": 73
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"coref_index": 831,
+			"surface": "민주당",
+			"entityName": "민주당_(1955년)"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"PrimeMinister",
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "장면",
+			"entityName": "장면"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"st": 33,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 36,
+			"ancestor": "-1",
+			"surface": "곽상훈",
+			"entityName": "곽상훈"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "정일형",
+			"entityName": "정일형"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "이철승",
+			"entityName": "이철승"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"st": 105,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 108,
+			"ancestor": "2-0",
+			"coref_index": 831,
+			"surface": "민주당",
+			"entityName": "민주당_(미국)"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 121,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 125,
+			"ancestor": "-1",
+			"surface": "유신정권",
+			"entityName": "대한민국_제4공화국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 152,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "이사장",
+			"entityName": "이사_(법인)"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 215,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 218,
+			"ancestor": "1-0",
+			"coref_index": 832,
+			"surface": "박순천",
+			"entityName": "박순천"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "지도자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 157,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 166,
+			"ancestor": "-1",
+			"surface": "대통령국정자문위원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 182,
+			"ancestor": "1-0",
+			"coref_index": 832,
+			"surface": "박명련",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 138,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "육영수여사",
+			"entityName": ""
+		}
+	],
+	"plainText": "이력 그녀는 민주당 창당 후 대표최고위원을 지냈고, 장면, 곽상훈, 정일형, 이철승 등과 함께 민주당 신파의 지도자로 활동하였다. 5·16 직후 정치금지를 당하였다가 해제 후, 1963년 민주당을 재건하였으나, 뒤에 유신정권에서 국토통일원 고문, 육영수여사 추모기념사업회 이사장, 대통령국정자문위원 등을 지냈다. 본명은 박명련(朴命連)으로 뒤에 순천이라는 예명을 사용하다가 1960년 박순천으로 정식 개명하였다."
+}

@@ -1,0 +1,233 @@
+{
+	"docID": "276975",
+	"globalSID": "1554413,1554414,1554415,1554416,1554417",
+	"pronouns": [
+		{
+			"en": 229,
+			"ancestor": "-1",
+			"surface": "이것이",
+			"id": 0,
+			"st": 226
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"entityName": "1981년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 20,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1981년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"entityName": "사회당_(프랑스)",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 25,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "사회당",
+			"coref_index": 406
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"st": 93,
+			"eType": "ELU",
+			"entityName": "프랑수아_미테랑",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 96,
+			"ancestor": "6-5",
+			"is_target": true,
+			"surface": "미테랑",
+			"coref_index": 405
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"PoliticalParty"
+			],
+			"st": 138,
+			"eType": "ELU",
+			"entityName": "사회당",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 141,
+			"ancestor": "6-1",
+			"is_target": true,
+			"surface": "사회당",
+			"coref_index": 406
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"PoliticalParty"
+			],
+			"st": 198,
+			"eType": "ELU",
+			"entityName": "사회당",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 201,
+			"ancestor": "6-1",
+			"is_target": true,
+			"surface": "사회당",
+			"coref_index": 406
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 41,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대통령_프랑수아_미테랑",
+			"coref_index": 405
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 61,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "의회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 68,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "우파_연합"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 112,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "EVENT",
+			"en": 114,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "총선"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 146,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 150,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "안정의석"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 183,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 185,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "5년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 211,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 215,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "과반의석"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 160,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 162,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "정국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 236,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 238,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "정부"
+		}
+	],
+	"plainText": "첫 번째 좌우 동거 정부는 1981년, 사회당 출신 대통령_프랑수아_미테랑의 당선과 함께 등장했다. 당시 의회는 우파_연합이 다수를 차지하고 있었다. 취임하자 마자, 미테랑은 의회해산권을 발동하고 새 총선 실시를 발표했다. 새롭게 실시된 총선에서 사회당이 원내 안정의석을 확보함으로써, 정국은 안정을 되찾는 듯 보였다. 그러나 5년 후에 실시된 총선에서 사회당은 우파 연합에게 과반의석을 내주고 말았고, 이것이 좌우 동거 정부의 첫 시험대가 되었다."
+}

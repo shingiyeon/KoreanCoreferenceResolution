@@ -1,0 +1,1841 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 11,
+			"eType": "WIKILINK",
+			"entityName": "미국_영화",
+			"en": 13,
+			"is_target": true,
+			"surface": "미국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 7,
+			"is_target": true,
+			"surface": "인투_더_스톰",
+			"coref_index": 58,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "TIME",
+			"st": 24,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 32,
+			"is_target": false,
+			"surface": "2014년_8월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 53,
+			"eType": "ELU",
+			"entityName": "열반",
+			"en": 56,
+			"is_target": true,
+			"surface": "차_안",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 108,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 112,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 41,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 198,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 202,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 41,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 47,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 51,
+			"is_target": true,
+			"surface": "고등학생",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 91,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 95,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 41,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 103,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 106,
+			"is_target": true,
+			"surface": "남학생",
+			"coref_index": 42,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 131,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 134,
+			"is_target": true,
+			"surface": "여학생",
+			"coref_index": 43,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 142,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 145,
+			"is_target": true,
+			"surface": "남학생",
+			"coref_index": 42,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 147,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 150,
+			"is_target": true,
+			"surface": "여학생",
+			"coref_index": 43,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 181,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 184,
+			"is_target": true,
+			"surface": "남학생",
+			"coref_index": 42,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 215,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 218,
+			"is_target": true,
+			"surface": "학생들",
+			"coref_index": 57,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 270,
+			"eType": "WIKILINK",
+			"entityName": "타임_캡슐",
+			"en": 275,
+			"is_target": true,
+			"surface": "타임_캡슐",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Software",
+				"Manga",
+				"VideoGame",
+				"Work",
+				"Comic"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 347,
+			"eType": "ELU",
+			"entityName": "앨리슨_(소설)",
+			"en": 350,
+			"is_target": true,
+			"surface": "앨리슨",
+			"coref_index": 51,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 362,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 366,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Software",
+				"Manga",
+				"VideoGame",
+				"Work",
+				"Comic"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 429,
+			"eType": "ELU",
+			"entityName": "앨리슨_(소설)",
+			"en": 432,
+			"is_target": true,
+			"surface": "앨리슨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 494,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 498,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 226,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 229,
+			"is_target": true,
+			"surface": "실버턴",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "PERSON",
+			"st": 231,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 241,
+			"is_target": true,
+			"surface": "고등학교_교감_선생",
+			"coref_index": 45,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 243,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 248,
+			"is_target": true,
+			"surface": "게리_풀러",
+			"coref_index": 49,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "EVENT",
+			"st": 250,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 253,
+			"is_target": true,
+			"surface": "졸업식",
+			"coref_index": 46,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 293,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 299,
+			"is_target": true,
+			"surface": "스톰_체이서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 301,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 306,
+			"is_target": true,
+			"surface": "피트_무어",
+			"coref_index": 54,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 528,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 532,
+			"is_target": true,
+			"surface": "타이터스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ORGANIZATION",
+			"st": 558,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 560,
+			"is_target": true,
+			"surface": "학교",
+			"coref_index": 47,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 571,
+			"eType": "ELU",
+			"en": 575,
+			"entityName": "토네이도",
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"id": 28,
+			"ne_type": "ORGANIZATION",
+			"st": 581,
+			"eType": "ELU",
+			"en": 584,
+			"entityName": "졸업",
+			"is_target": true,
+			"surface": "졸업식",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 630,
+			"eType": "ELU",
+			"en": 633,
+			"entityName": "사이렌",
+			"is_target": true,
+			"surface": "사이렌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "PERSON",
+			"st": 567,
+			"eType": "NEW",
+			"en": 569,
+			"entityName": "",
+			"is_target": true,
+			"surface": "교감",
+			"coref_index": 45,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "PERSON",
+			"st": 600,
+			"eType": "NEW",
+			"en": 602,
+			"entityName": "",
+			"is_target": true,
+			"surface": "교장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "TIME",
+			"st": 614,
+			"eType": "NEW",
+			"en": 617,
+			"entityName": "",
+			"is_target": true,
+			"surface": "졸업식",
+			"coref_index": 46,
+			"ancestor": "1-22"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "LOCATION",
+			"st": 654,
+			"eType": "NEW",
+			"en": 656,
+			"entityName": "",
+			"is_target": true,
+			"surface": "학교",
+			"coref_index": 47,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 681,
+			"eType": "NEW",
+			"en": 683,
+			"entityName": "",
+			"is_target": true,
+			"surface": "도니",
+			"coref_index": 48,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "PERSON",
+			"st": 685,
+			"eType": "NEW",
+			"en": 689,
+			"entityName": "",
+			"is_target": true,
+			"surface": "케이틀린",
+			"coref_index": 50,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 707,
+			"eType": "NEW",
+			"en": 712,
+			"entityName": "",
+			"is_target": true,
+			"surface": "폐지_공장",
+			"coref_index": 53,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "PERSON",
+			"st": 749,
+			"eType": "NEW",
+			"en": 752,
+			"entityName": "",
+			"is_target": true,
+			"surface": "트레이",
+			"coref_index": 52,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 764,
+			"eType": "NEW",
+			"en": 766,
+			"entityName": "",
+			"is_target": true,
+			"surface": "도니",
+			"coref_index": 48,
+			"ancestor": "1-34"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "PERSON",
+			"st": 736,
+			"eType": "NEW",
+			"en": 738,
+			"entityName": "",
+			"is_target": true,
+			"surface": "게리",
+			"coref_index": 49,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "PERSON",
+			"st": 804,
+			"eType": "NEW",
+			"en": 806,
+			"entityName": "",
+			"is_target": true,
+			"surface": "도니",
+			"coref_index": 48,
+			"ancestor": "1-34"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "PERSON",
+			"st": 808,
+			"eType": "NEW",
+			"en": 812,
+			"entityName": "",
+			"is_target": true,
+			"surface": "케이틀린",
+			"coref_index": 50,
+			"ancestor": "1-35"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "EVENT",
+			"st": 830,
+			"eType": "NEW",
+			"en": 834,
+			"entityName": "",
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "LOCATION",
+			"st": 853,
+			"eType": "NEW",
+			"en": 858,
+			"entityName": "",
+			"is_target": true,
+			"surface": "구덩이_밑",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "LOCATION",
+			"st": 872,
+			"eType": "NEW",
+			"en": 875,
+			"entityName": "",
+			"is_target": true,
+			"surface": "구덩이",
+			"coref_index": 56,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 953,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 957,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44,
+			"ancestor": "1-42"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Software",
+				"Manga",
+				"VideoGame",
+				"Work",
+				"Comic"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 964,
+			"eType": "ELU",
+			"entityName": "앨리슨_(소설)",
+			"en": 967,
+			"is_target": true,
+			"surface": "앨리슨",
+			"coref_index": 51,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 47,
+			"ne_type": "PERSON",
+			"st": 1030,
+			"eType": "ELU",
+			"entityName": "이동하",
+			"en": 1033,
+			"is_target": true,
+			"surface": "이동하",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 1141,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 1145,
+			"is_target": true,
+			"surface": "토네이도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Software",
+				"Manga",
+				"VideoGame",
+				"Work",
+				"Comic"
+			],
+			"id": 49,
+			"ne_type": "ETC",
+			"st": 1191,
+			"eType": "ELU",
+			"entityName": "앨리슨_(소설)",
+			"en": 1194,
+			"is_target": true,
+			"surface": "앨리슨",
+			"coref_index": 51,
+			"ancestor": "1-46"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "PERSON",
+			"st": 885,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 887,
+			"is_target": true,
+			"surface": "게리",
+			"coref_index": 49,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 889,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 892,
+			"is_target": true,
+			"surface": "트레이",
+			"coref_index": 52,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 896,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 898,
+			"is_target": true,
+			"surface": "도니",
+			"coref_index": 48,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "LOCATION",
+			"st": 913,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 918,
+			"is_target": true,
+			"surface": "폐지_공장",
+			"coref_index": 53,
+			"ancestor": "1-36"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "PERSON",
+			"st": 926,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 928,
+			"is_target": true,
+			"surface": "게리",
+			"coref_index": 49,
+			"ancestor": "1-50"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "PERSON",
+			"st": 988,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 990,
+			"is_target": true,
+			"surface": "게리",
+			"coref_index": 49,
+			"ancestor": "1-54"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 1006,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1008,
+			"is_target": true,
+			"surface": "게리",
+			"coref_index": 49,
+			"ancestor": "1-55"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "PERSON",
+			"st": 1010,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1013,
+			"is_target": true,
+			"surface": "트레이",
+			"coref_index": 52,
+			"ancestor": "1-51"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 1055,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1058,
+			"is_target": true,
+			"surface": "제이콥",
+			"coref_index": 55,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "PERSON",
+			"st": 1081,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1083,
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "PERSON",
+			"st": 1085,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1087,
+			"is_target": true,
+			"surface": "대릴",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "PERSON",
+			"st": 1107,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1110,
+			"is_target": true,
+			"surface": "제이콥",
+			"coref_index": 55,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "PERSON",
+			"st": 1187,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1189,
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54,
+			"ancestor": "1-59"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 1363,
+			"eType": "ELU",
+			"en": 1367,
+			"entityName": "토네이도",
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 1386,
+			"eType": "ELU",
+			"en": 1390,
+			"entityName": "토네이도",
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44,
+			"ancestor": "1-63"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ETC",
+			"st": 1205,
+			"eType": "NEW",
+			"en": 1208,
+			"entityName": "",
+			"is_target": true,
+			"surface": "구덩이",
+			"coref_index": 56,
+			"ancestor": "1-44"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "PERSON",
+			"st": 1213,
+			"eType": "NEW",
+			"en": 1215,
+			"entityName": "",
+			"is_target": true,
+			"surface": "도니",
+			"coref_index": 48,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "PERSON",
+			"st": 1217,
+			"eType": "NEW",
+			"en": 1221,
+			"entityName": "",
+			"is_target": true,
+			"surface": "케이틀린",
+			"coref_index": 50,
+			"ancestor": "1-35"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "PERSON",
+			"st": 1223,
+			"eType": "NEW",
+			"en": 1225,
+			"entityName": "",
+			"is_target": true,
+			"surface": "게리",
+			"coref_index": 49,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ETC",
+			"st": 1227,
+			"eType": "NEW",
+			"en": 1233,
+			"entityName": "",
+			"is_target": true,
+			"surface": "음성_사서함",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "ETC",
+			"st": 1266,
+			"eType": "NEW",
+			"en": 1269,
+			"entityName": "",
+			"is_target": true,
+			"surface": "카메라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "LOCATION",
+			"st": 1298,
+			"eType": "NEW",
+			"en": 1303,
+			"entityName": "",
+			"is_target": true,
+			"surface": "폐지_공장",
+			"coref_index": 53,
+			"ancestor": "1-36"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "PERSON",
+			"st": 1325,
+			"eType": "NEW",
+			"en": 1327,
+			"entityName": "",
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54,
+			"ancestor": "1-59"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1333,
+			"eType": "NEW",
+			"en": 1335,
+			"entityName": "",
+			"is_target": true,
+			"surface": "영상",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 1348,
+			"eType": "NEW",
+			"en": 1350,
+			"entityName": "",
+			"is_target": true,
+			"surface": "촬영",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "LOCATION",
+			"st": 1412,
+			"eType": "NEW",
+			"en": 1416,
+			"entityName": "",
+			"is_target": true,
+			"surface": "고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "LOCATION",
+			"st": 1459,
+			"eType": "NEW",
+			"en": 1462,
+			"entityName": "",
+			"is_target": true,
+			"surface": "대피소",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "PERSON",
+			"st": 1480,
+			"eType": "NEW",
+			"en": 1488,
+			"entityName": "",
+			"is_target": true,
+			"surface": "토네이도_전문가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "ETC",
+			"st": 1513,
+			"eType": "NEW",
+			"en": 1517,
+			"entityName": "",
+			"is_target": true,
+			"surface": "스쿨버스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "PERSON",
+			"st": 1504,
+			"eType": "NEW",
+			"en": 1506,
+			"entityName": "",
+			"is_target": true,
+			"surface": "학생",
+			"coref_index": 57,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Software",
+				"Manga",
+				"VideoGame",
+				"Work",
+				"Comic"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1693,
+			"eType": "ELU",
+			"entityName": "앨리슨_(소설)",
+			"en": 1696,
+			"is_target": true,
+			"surface": "앨리슨",
+			"coref_index": 51,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "ETC",
+			"st": 1808,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 1812,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 41,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "PERSON",
+			"st": 1632,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1634,
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "PERSON",
+			"st": 1698,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1700,
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "PERSON",
+			"st": 1735,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1737,
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "PERSON",
+			"st": 1787,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1789,
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"Website",
+				"Work"
+			],
+			"id": 86,
+			"ne_type": "ETC",
+			"st": 1883,
+			"eType": "ELU",
+			"entityName": "Deadline.com",
+			"en": 1892,
+			"is_target": true,
+			"surface": "데드라인_할리우드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 2056,
+			"eType": "ELU",
+			"entityName": "버라이어티_쇼",
+			"en": 2061,
+			"is_target": true,
+			"surface": "버라이어티",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "ETC",
+			"st": 2082,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"en": 2086,
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 41,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 89,
+			"ne_type": "PERSON",
+			"st": 2127,
+			"eType": "ELU",
+			"entityName": "위안스카이",
+			"en": 2130,
+			"is_target": true,
+			"surface": "스카이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "TIME",
+			"st": 1868,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1881,
+			"is_target": false,
+			"surface": "2011년_10월_28일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "TIME",
+			"st": 1978,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1989,
+			"is_target": false,
+			"surface": "2012년_1월_5일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "TIME",
+			"st": 2110,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2122,
+			"is_target": false,
+			"surface": "2012년_8월_23일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "TIME",
+			"st": 2144,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2156,
+			"is_target": false,
+			"surface": "2013년_9월_24일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "TIME",
+			"st": 2188,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2199,
+			"is_target": false,
+			"surface": "2014년_8월_8일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 95,
+			"ne_type": "TIME",
+			"st": 2043,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2055,
+			"is_target": false,
+			"surface": "2012년_4월_24일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"id": 96,
+			"ne_type": "LOCATION",
+			"st": 2224,
+			"eType": "WIKILINK",
+			"en": 2229,
+			"entityName": "미시간_주",
+			"is_target": true,
+			"surface": "미시간_주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 97,
+			"ne_type": "ORGANIZATION",
+			"st": 2231,
+			"eType": "WIKILINK",
+			"en": 2234,
+			"entityName": "폰티액",
+			"is_target": true,
+			"surface": "폰티액",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 98,
+			"ne_type": "PERSON",
+			"st": 2327,
+			"eType": "ELU",
+			"en": 2336,
+			"entityName": "세라_웨인_캘리스",
+			"is_target": true,
+			"surface": "세라_웨인_캘리스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 99,
+			"ne_type": "PERSON",
+			"st": 2354,
+			"eType": "ELU",
+			"en": 2361,
+			"entityName": "네이선_크레스",
+			"is_target": true,
+			"surface": "네이선_크레스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 100,
+			"ne_type": "PERSON",
+			"st": 2371,
+			"eType": "ELU",
+			"en": 2379,
+			"entityName": "리처드_아미티지_(배우)",
+			"is_target": true,
+			"surface": "리처드_아미티지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 101,
+			"ne_type": "PERSON",
+			"st": 2412,
+			"eType": "ELU",
+			"en": 2416,
+			"entityName": "맷_월시_(희극인)",
+			"is_target": true,
+			"surface": "맷_월시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 102,
+			"ne_type": "TIME",
+			"st": 2211,
+			"eType": "NEW",
+			"en": 2223,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2012년_5월_19일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 103,
+			"ne_type": "TIME",
+			"st": 2250,
+			"eType": "NEW",
+			"en": 2256,
+			"entityName": "",
+			"is_target": false,
+			"surface": "5월_24일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 104,
+			"ne_type": "PERSON",
+			"st": 2258,
+			"eType": "NEW",
+			"en": 2267,
+			"entityName": "",
+			"is_target": true,
+			"surface": "얼리샤_데브넘케리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 105,
+			"ne_type": "ORGANIZATION",
+			"st": 2291,
+			"eType": "NEW",
+			"en": 2299,
+			"entityName": "",
+			"is_target": true,
+			"surface": "뉴_라인_시네마",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 106,
+			"ne_type": "TIME",
+			"st": 2301,
+			"eType": "NEW",
+			"en": 2306,
+			"entityName": "",
+			"is_target": false,
+			"surface": "6월_1일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 107,
+			"ne_type": "PERSON",
+			"st": 2308,
+			"eType": "NEW",
+			"en": 2316,
+			"entityName": "",
+			"is_target": true,
+			"surface": "알렌_에스카페타",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 108,
+			"ne_type": "TIME",
+			"st": 2319,
+			"eType": "NEW",
+			"en": 2325,
+			"entityName": "",
+			"is_target": false,
+			"surface": "6월_22일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 109,
+			"ne_type": "TIME",
+			"st": 2347,
+			"eType": "NEW",
+			"en": 2352,
+			"entityName": "",
+			"is_target": false,
+			"surface": "7월_2일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 110,
+			"ne_type": "TIME",
+			"st": 2363,
+			"eType": "NEW",
+			"en": 2369,
+			"entityName": "",
+			"is_target": false,
+			"surface": "7월_11일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 111,
+			"ne_type": "TIME",
+			"st": 2387,
+			"eType": "NEW",
+			"en": 2393,
+			"entityName": "",
+			"is_target": false,
+			"surface": "7월_13일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 112,
+			"ne_type": "PERSON",
+			"st": 2396,
+			"eType": "NEW",
+			"en": 2401,
+			"entityName": "",
+			"is_target": true,
+			"surface": "맥스_디컨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 113,
+			"ne_type": "TIME",
+			"st": 2404,
+			"eType": "NEW",
+			"en": 2409,
+			"entityName": "",
+			"is_target": false,
+			"surface": "8월_1일",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "3361770,3361771,3361772,3361773,3361774,3361775,3361776,3361777,3361778,3361779,3361780,3361781,3361782,3361783,3361784,3361785,3361786,3361787,3361788,3361789,3361790,3361791,3361792,3361793,3361794,3361795,3361796,3361797,3361798,3361799,3361800,3361801,3361802,3361803,3361804,3361805,3361806,3361807,3361808,3361809,3361810,3361811,3361812,3361813,3361814,3361815,3361816,3361817",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 52,
+			"surface": "한 고등학생이",
+			"st": 45,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"ancestor": "1-21",
+			"st": 259,
+			"en": 261,
+			"surface": "자신",
+			"coref_index": 49
+		},
+		{
+			"id": 2,
+			"en": 269,
+			"ancestor": "-1",
+			"st": 259,
+			"surface": "자신의 두 아들에게"
+		},
+		{
+			"id": 3,
+			"en": 282,
+			"ancestor": "-1",
+			"st": 250,
+			"surface": "졸업식을 앞두고 자신의 두 아들에게 타임_캡슐을 만들 것을"
+		},
+		{
+			"id": 4,
+			"en": 445,
+			"ancestor": "-1",
+			"st": 443,
+			"surface": "그때"
+		},
+		{
+			"id": 5,
+			"en": 829,
+			"ancestor": "-1",
+			"st": 827,
+			"surface": "그때"
+		},
+		{
+			"id": 6,
+			"en": 952,
+			"surface": "한 번의",
+			"st": 948,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 958,
+			"surface": "한 번의 토네이도를",
+			"st": 948,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 1176,
+			"surface": "그와중에도",
+			"st": 1171,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"en": 1324,
+			"ancestor": "-1",
+			"st": 1320,
+			"surface": "이 때도"
+		},
+		{
+			"id": 10,
+			"en": 1360,
+			"ancestor": "-1",
+			"st": 1358,
+			"surface": "그때"
+		},
+		{
+			"id": 11,
+			"en": 1445,
+			"ancestor": "-1",
+			"st": 1440,
+			"surface": "이 사실을"
+		},
+		{
+			"id": 12,
+			"en": 1643,
+			"surface": "다른 일행에게",
+			"st": 1636,
+			"ancestor": "-1"
+		},
+		{
+			"id": 13,
+			"en": 1692,
+			"surface": "이 때",
+			"st": 1689,
+			"ancestor": "-1"
+		},
+		{
+			"id": 14,
+			"ancestor": "1-1",
+			"st": 1957,
+			"en": 1962,
+			"surface": "그 영화를",
+			"coref_index": 58
+		},
+		{
+			"id": 15,
+			"en": 1971,
+			"ancestor": "-1",
+			"st": 1957,
+			"surface": "그 영화를 제작할 것이라고"
+		}
+	],
+	"plainText": "인투_더_스톰()은 미국의 재난 영화이다. 2014년_8월에 개봉되었다. 줄거리 한 고등학생이 차_안에서 친구들과 함께 영상을 찍고 있는 것으로 영화가 시작된다. 토네이도를 발견하고, 남학생은 토네이도를 찍기 위해 차 밖으로 나간다. 여학생은 말리지만, 남학생은 여학생을 무시하고 영상을 찍는다. 토네이도가 가까이 다가오고 남학생은 다급히 차에 타지만, 토네이도가 일행의 차를 덮치고 학생들은 사망한다. 실버턴의 고등학교_교감_선생인 게리_풀러는 졸업식을 앞두고 자신의 두 아들에게 타임_캡슐을 만들 것을 제안한다. 한편, 스톰_체이서인 피트_무어는 거의 1년 동안 토네이도 영상을 찍지 못 해 걱정한다. 피트는 팀원인 앨리슨의 말에 따라, 다음 토네이도가 올 것으로 추정되는 실버턴으로 향한다. 하지만 실버턴으로 오던 토네이도는 위력이 약해지고, 피트는 화를 내며 앨리슨을 해고하려 한다. 그때 우박이 내리기 시작하고, 토네이도의 위력이 다시 강해진다. 팀원들은 빨리 차에 탑승해 토네이도를 추격하고, 토네이도가 지날 것으로 추정되는 위치에 타이터스 를 고정시키지만, 토네이도가 방향을 급선회해 학교로 향한다. 교감은 토네이도를 대비해 졸업식을 연기할 것을 부탁하지만, 교장은 요청을 거절한다. 졸업식 도중, 토네이도 경보 사이렌이 울리기 시작하고, 졸업식 인원들은 학교로 대피한다. 한편, 게리의 아들 중 연상인 도니는 케이틀린의 진학 보고서를 도와주기 위해 폐지_공장으로 영상을 찍으러 간다. 토네이도가 멎고 게리는 아들 중 연하인 트레이의 휴대전화를 이용해 도니에게 전화를 걸지만, 신호가 잡히지 않아 끊긴다. 전화가 끊긴 후, 도니는 케이틀린과 영상 촬영을 계속한다. 그때 토네이도가 건물을 덮치고, 둘은 가까스로 구덩이_밑에 숨지만, 잔해로 인해 구덩이에 갇히게 된다. 게리는 트레이에게서 도니가 있는 곳을 알게 되고, 폐지_공장으로 향한다. 게리는 가던 도중 촬영팀을 만나고, 또 한 번의 토네이도를 겪는다. 앨리슨이 토네이도에 빨려들어갈 뻔 하지만, 게리의 도움으로 목숨을 건진다. 게리와 트레이는 차가 망가져 촬영팀과 함께 이동하기로 한다. 촬영팀 중 촬영 담당이었던 제이콥은 무섭다며 촬영을 끝내고 싶어 하지만, 피트와 대릴의 강요로 어쩔 수 없이 따라간다. 제이콥은 동료의 만류에도 불구하고 불과 토네이도가 만난 화염 토네이도를 가까이서 촬영하다 토네이도에 빨려들어가고, 그와중에도 촬영만을 고집하는 피트를 앨리슨이 구박한다. 한편 구덩이에 갇힌 도니와 케이틀린은 게리의 음성_사서함으로 구조 요청을 보낸다. 물이 높게 차오르자 둘은 도니의 카메라로 작별 인사를 남긴다. 게리는 가까스로 둘이 있는 폐지_공장에 도착하고, 둘을 구해낸다. 이 때도 피트는 둘에게 영상을 찍었냐며 물어보며, 촬영을 고집한다. 그때 두 토네이도가 합쳐져 풍속 450km의 거대 토네이도가 만들어지고, 일행은 학생들이 대피한 고등학교가 안전하지 않을 거라 생각해 학교에 가서 이 사실을 알린다. 교장은 학교가 대피소라며 요구를 거절하지만, 일행에 토네이도_전문가가 속해 있다는 것을 알고, 학생들과 일행을 스쿨버스에 태워 대피시킨다. 하지만 전신주가 도로 위에 무너져 일행이 탄 버스는 지나갈 수 없게 되고, 맨홀을 통해 근처에 있던 하수구로 도망친다. 토네이도로 인해 바깥과 연결된 구멍이 뚫리고 위험에 처했을 때, 피트는 다른 일행에게 영상 녹화본을 주며 미래에 피해자들이 생기는 것을 막기 위한 것이라며 당부한다. 이 때 앨리슨은 피트가 단순한 욕심으로 촬영에 집착하는 것이 아니었음을 깨닫는다. 피트는 밖으로 나가 타이터스로 직접 구멍을 막는다. 하지만 강한 태풍에 타이터스는 날아가고, 피트는 추락해 사망한다. 이윽고 거대 토네이도가 멎고, 일행은 목숨을 부지한다. 일행이 겪은 일에 대해 인터뷰하는 장면으로 영화는 끝난다. 개발 2011년_10월_28일에 데드라인_할리우드는, 뉴 라인 시네마가 존 스웨트넘이 작성한 자연 재해 영화 대본을 샀다는 것과 토드 가너의 브로큰 로드 프로덕션이 그 영화를 제작할 것이라고 보도했다. 2012년_1월_5일에는 스티븐 퀘일이 이름이 정해지지 않은 토네이도 스릴러 영화의 감독을 맡았다는 것이 알려졌다. 2012년_4월_24일 버라이어티는 뉴 라인 시네마가 EF-6급 대형 토네이도에 대한 영화 개발을 시작했다고 보도했다. 2012년_8월_23일에 블랙 스카이라는 이름이 정해졌지만, 2013년_9월_24일에 뉴 라인 시네마는 인투 더 스톰으로 이름을 수정하고, 2014년_8월_8일을 개봉일로 잡는다. 2012년_5월_19일 미시간_주, 폰티액에서 공개 캐스팅이 열린다. 5월_24일에 얼리샤_데브넘케리는 영화에서 여자 주연을 맡기로 계약한다. 뉴_라인_시네마는 6월_1일에 알렌_에스카페타와, 6월_22일에 세라_웨인_캘리스와 계약한다. 또한 7월_2일에 네이선_크레스, 7월_11일에 리처드_아미티지와 계약한다. 7월_13일에는 맥스_디컨과, 8월_1일에는 맷_월시와 계약한다. ",
+	"docID": "1119554"
+}

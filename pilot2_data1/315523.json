@@ -1,0 +1,2034 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 18,
+			"eType": "WIKILINK",
+			"en": 24,
+			"entityName": "후삼국_시대",
+			"is_target": true,
+			"surface": "후삼국_시대",
+			"coref_index": 434,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 1,
+			"ne_type": "TIME",
+			"st": 26,
+			"eType": "WIKILINK",
+			"en": 30,
+			"entityName": "927년",
+			"is_target": false,
+			"surface": "927년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 31,
+			"eType": "WIKILINK",
+			"en": 33,
+			"entityName": "신라",
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 34,
+			"eType": "WIKILINK",
+			"en": 36,
+			"entityName": "공산",
+			"is_target": true,
+			"surface": "공산",
+			"coref_index": 429,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"NaturalPlace"
+			],
+			"id": 4,
+			"ne_type": "LOCATION",
+			"st": 43,
+			"eType": "WIKILINK",
+			"en": 46,
+			"entityName": "팔공산",
+			"is_target": true,
+			"surface": "팔공산",
+			"coref_index": 429,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 57,
+			"eType": "WIKILINK",
+			"en": 60,
+			"entityName": "지묘동",
+			"is_target": true,
+			"surface": "지묘동",
+			"coref_index": 430,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 6,
+			"ne_type": "LOCATION",
+			"st": 64,
+			"eType": "WIKILINK",
+			"en": 66,
+			"entityName": "고려",
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 68,
+			"eType": "WIKILINK",
+			"en": 70,
+			"entityName": "왕건",
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 72,
+			"eType": "WIKILINK",
+			"en": 75,
+			"entityName": "후백제",
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 77,
+			"eType": "WIKILINK",
+			"en": 79,
+			"entityName": "견훤",
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 88,
+			"eType": "WIKILINK",
+			"en": 90,
+			"entityName": "견훤",
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 118,
+			"eType": "WIKILINK",
+			"en": 121,
+			"entityName": "신숭겸",
+			"is_target": true,
+			"surface": "신숭겸",
+			"coref_index": 443,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"NaturalPlace"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 145,
+			"eType": "ELU",
+			"en": 148,
+			"entityName": "팔공산",
+			"is_target": true,
+			"surface": "팔공산",
+			"coref_index": 432,
+			"ancestor": "1-18"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 164,
+			"eType": "WIKILINK",
+			"en": 167,
+			"entityName": "안심동",
+			"is_target": true,
+			"surface": "반야월",
+			"coref_index": 433,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"st": 170,
+			"eType": "WIKILINK",
+			"en": 172,
+			"entityName": "대구",
+			"is_target": true,
+			"surface": "대구",
+			"coref_index": 433,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "EVENT",
+			"st": 0,
+			"eType": "NEW",
+			"en": 8,
+			"entityName": "",
+			"is_target": true,
+			"surface": "공산_동수_전투",
+			"coref_index": 445,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "LOCATION",
+			"st": 48,
+			"eType": "NEW",
+			"en": 50,
+			"entityName": "",
+			"is_target": true,
+			"surface": "동수",
+			"coref_index": 430,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 92,
+			"eType": "NEW",
+			"en": 95,
+			"entityName": "",
+			"is_target": true,
+			"surface": "왕건군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "LOCATION",
+			"st": 140,
+			"eType": "NEW",
+			"en": 142,
+			"entityName": "",
+			"is_target": true,
+			"surface": "공산",
+			"coref_index": 429,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 197,
+			"eType": "WIKILINK",
+			"entityName": "후삼국_시대",
+			"en": 203,
+			"is_target": true,
+			"surface": "후삼국_시대",
+			"coref_index": 434,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 20,
+			"ne_type": "LOCATION",
+			"st": 207,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 209,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 21,
+			"ne_type": "LOCATION",
+			"st": 211,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 214,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 22,
+			"ne_type": "LOCATION",
+			"st": 250,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 253,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 256,
+			"eType": "WIKILINK",
+			"entityName": "견훤",
+			"en": 258,
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 24,
+			"ne_type": "LOCATION",
+			"st": 260,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 262,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 25,
+			"ne_type": "LOCATION",
+			"st": 289,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 291,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 26,
+			"ne_type": "LOCATION",
+			"st": 293,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 296,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-22"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 27,
+			"ne_type": "LOCATION",
+			"st": 320,
+			"eType": "WIKILINK",
+			"entityName": "신라",
+			"en": 322,
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 28,
+			"ne_type": "LOCATION",
+			"st": 328,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 330,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 343,
+			"eType": "WIKILINK",
+			"entityName": "견훤",
+			"en": 345,
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-23"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 30,
+			"ne_type": "LOCATION",
+			"st": 347,
+			"eType": "WIKILINK",
+			"entityName": "신라",
+			"en": 349,
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 31,
+			"ne_type": "PERSON",
+			"st": 407,
+			"eType": "WIKILINK",
+			"entityName": "견훤",
+			"en": 409,
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 32,
+			"ne_type": "LOCATION",
+			"st": 413,
+			"eType": "WIKILINK",
+			"entityName": "신라",
+			"en": 415,
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "1-30"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "TIME",
+			"st": 241,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 248,
+			"is_target": false,
+			"surface": "926년_9월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "EVENT",
+			"st": 274,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 276,
+			"is_target": true,
+			"surface": "전쟁",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "PERSON",
+			"st": 385,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 387,
+			"is_target": true,
+			"surface": "역적",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 36,
+			"ne_type": "PERSON",
+			"st": 438,
+			"eType": "WIKILINK",
+			"entityName": "견훤",
+			"en": 440,
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 37,
+			"ne_type": "LOCATION",
+			"st": 446,
+			"eType": "WIKILINK",
+			"entityName": "신라",
+			"en": 448,
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 38,
+			"ne_type": "LOCATION",
+			"st": 466,
+			"eType": "WIKILINK",
+			"entityName": "신라",
+			"en": 468,
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"City",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 39,
+			"ne_type": "ORGANIZATION",
+			"st": 469,
+			"eType": "WIKILINK",
+			"entityName": "문경시",
+			"en": 472,
+			"is_target": true,
+			"surface": "근암성",
+			"coref_index": 438,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"City",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 40,
+			"ne_type": "ORGANIZATION",
+			"st": 476,
+			"eType": "WIKILINK",
+			"entityName": "문경시",
+			"en": 479,
+			"is_target": true,
+			"surface": "문경시",
+			"coref_index": 438,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 41,
+			"ne_type": "LOCATION",
+			"st": 482,
+			"eType": "WIKILINK",
+			"entityName": "영천시",
+			"en": 485,
+			"is_target": true,
+			"surface": "고울부",
+			"coref_index": 439,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 42,
+			"ne_type": "LOCATION",
+			"st": 489,
+			"eType": "WIKILINK",
+			"entityName": "영천시",
+			"en": 492,
+			"is_target": true,
+			"surface": "영천시",
+			"coref_index": 439,
+			"ancestor": "1-41"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 43,
+			"ne_type": "LOCATION",
+			"st": 514,
+			"eType": "WIKILINK",
+			"entityName": "경주시",
+			"en": 516,
+			"is_target": true,
+			"surface": "경주",
+			"coref_index": 440,
+			"ancestor": "1-50"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 532,
+			"eType": "WIKILINK",
+			"entityName": "신라_경애왕",
+			"en": 538,
+			"is_target": true,
+			"surface": "신라_경애왕",
+			"coref_index": 442,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 565,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 567,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 46,
+			"ne_type": "LOCATION",
+			"st": 569,
+			"eType": "WIKILINK",
+			"entityName": "신라",
+			"en": 571,
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "TIME",
+			"st": 580,
+			"eType": "WIKILINK",
+			"entityName": "9월",
+			"en": 582,
+			"is_target": false,
+			"surface": "9월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "TIME",
+			"st": 429,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 436,
+			"is_target": false,
+			"surface": "927년_8월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "ORGANIZATION",
+			"st": 458,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 460,
+			"is_target": true,
+			"surface": "군사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "LOCATION",
+			"st": 505,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 510,
+			"is_target": true,
+			"surface": "수도_금성",
+			"coref_index": 440,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 540,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 547,
+			"is_target": true,
+			"surface": "고려_왕_왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 586,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 591,
+			"is_target": true,
+			"surface": "시중_공선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 53,
+			"ne_type": "LOCATION",
+			"st": 622,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 624,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 54,
+			"ne_type": "LOCATION",
+			"st": 630,
+			"eType": "WIKILINK",
+			"entityName": "신라",
+			"en": 632,
+			"is_target": true,
+			"surface": "신라",
+			"coref_index": 437,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 55,
+			"ne_type": "LOCATION",
+			"st": 643,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 646,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 56,
+			"ne_type": "LOCATION",
+			"st": 649,
+			"eType": "WIKILINK",
+			"entityName": "경주시",
+			"en": 651,
+			"is_target": true,
+			"surface": "경주",
+			"coref_index": 440,
+			"ancestor": "1-43"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 57,
+			"ne_type": "PERSON",
+			"st": 675,
+			"eType": "WIKILINK",
+			"entityName": "경애왕",
+			"en": 678,
+			"is_target": true,
+			"surface": "경애왕",
+			"coref_index": 442,
+			"ancestor": "1-44"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 690,
+			"eType": "WIKILINK",
+			"entityName": "경순왕",
+			"en": 693,
+			"is_target": true,
+			"surface": "경순왕",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "ETC",
+			"st": 768,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 770,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 60,
+			"ne_type": "LOCATION",
+			"st": 806,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 809,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-55"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "PERSON",
+			"st": 709,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 714,
+			"is_target": true,
+			"surface": "왕제_효렴",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "PERSON",
+			"st": 716,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 721,
+			"is_target": true,
+			"surface": "재신_영경",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 832,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 834,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 64,
+			"ne_type": "LOCATION",
+			"st": 849,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 852,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-55"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 65,
+			"ne_type": "LOCATION",
+			"st": 888,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 891,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-55"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 66,
+			"ne_type": "PERSON",
+			"st": 923,
+			"eType": "WIKILINK",
+			"entityName": "견훤",
+			"en": 925,
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 67,
+			"ne_type": "LOCATION",
+			"st": 963,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 965,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "PERSON",
+			"st": 840,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 843,
+			"is_target": true,
+			"surface": "기병대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "LOCATION",
+			"st": 863,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 868,
+			"is_target": true,
+			"surface": "대구_공산",
+			"coref_index": 429,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "EVENT",
+			"st": 929,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 931,
+			"is_target": true,
+			"surface": "계략",
+			"coref_index": 446,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 71,
+			"ne_type": "LOCATION",
+			"st": 978,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 980,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 72,
+			"ne_type": "LOCATION",
+			"st": 985,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 988,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1007,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 1009,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 74,
+			"ne_type": "LOCATION",
+			"st": 1030,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 1032,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 75,
+			"ne_type": "PERSON",
+			"st": 1047,
+			"eType": "WIKILINK",
+			"entityName": "신숭겸",
+			"en": 1050,
+			"is_target": true,
+			"surface": "신숭겸",
+			"coref_index": 443,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "ETC",
+			"st": 1052,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 1054,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 77,
+			"ne_type": "LOCATION",
+			"st": 1099,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 1102,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 78,
+			"ne_type": "PERSON",
+			"st": 1105,
+			"eType": "WIKILINK",
+			"entityName": "신숭겸",
+			"en": 1108,
+			"is_target": true,
+			"surface": "신숭겸",
+			"coref_index": 443,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 79,
+			"ne_type": "PERSON",
+			"st": 1127,
+			"eType": "WIKILINK",
+			"entityName": "신숭겸",
+			"en": 1130,
+			"is_target": true,
+			"surface": "신숭겸",
+			"coref_index": 443,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1159,
+			"eType": "WIKILINK",
+			"entityName": "김낙",
+			"en": 1161,
+			"is_target": true,
+			"surface": "김낙",
+			"coref_index": 444,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "ETC",
+			"st": 1163,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 1165,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ETC",
+			"st": 1197,
+			"eType": "WIKILINK",
+			"entityName": "전의갑",
+			"en": 1200,
+			"is_target": true,
+			"surface": "전의갑",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "ETC",
+			"st": 1202,
+			"eType": "WIKILINK",
+			"entityName": "전이갑",
+			"en": 1205,
+			"is_target": true,
+			"surface": "전이갑",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "PERSON",
+			"st": 1110,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1112,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "ETC",
+			"st": 1152,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1154,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "PERSON",
+			"st": 1206,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1208,
+			"is_target": true,
+			"surface": "형제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 1223,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 1225,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 88,
+			"ne_type": "PERSON",
+			"st": 1246,
+			"eType": "WIKILINK",
+			"entityName": "신숭겸",
+			"en": 1249,
+			"is_target": true,
+			"surface": "신숭겸",
+			"coref_index": 443,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "ETC",
+			"st": 1251,
+			"eType": "WIKILINK",
+			"entityName": "김낙",
+			"en": 1253,
+			"is_target": true,
+			"surface": "김낙",
+			"coref_index": 444,
+			"ancestor": "1-80"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 90,
+			"ne_type": "PERSON",
+			"st": 1335,
+			"eType": "WIKILINK",
+			"entityName": "견훤",
+			"en": 1337,
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 91,
+			"ne_type": "LOCATION",
+			"st": 1360,
+			"eType": "ELU",
+			"entityName": "칠곡군",
+			"en": 1363,
+			"is_target": true,
+			"surface": "칠곡군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "ETC",
+			"st": 1370,
+			"eType": "ELU",
+			"entityName": "약목면",
+			"en": 1373,
+			"is_target": true,
+			"surface": "약목면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "LOCATION",
+			"st": 1350,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1353,
+			"is_target": true,
+			"surface": "대목군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "PERSON",
+			"st": 1389,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1392,
+			"is_target": true,
+			"surface": "고려군",
+			"coref_index": 435,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"MetroStation",
+				"ArchitecturalStructure",
+				"Place",
+				"Station",
+				"Place",
+				"Infrastructure",
+				"RailwayStation"
+			],
+			"id": 95,
+			"ne_type": "LOCATION",
+			"st": 1450,
+			"eType": "ELU",
+			"entityName": "반야월역",
+			"en": 1453,
+			"is_target": true,
+			"surface": "반야월",
+			"coref_index": 433,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "LOCATION",
+			"st": 1419,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1421,
+			"is_target": true,
+			"surface": "대구",
+			"coref_index": 433,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 97,
+			"ne_type": "LOCATION",
+			"st": 1428,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1431,
+			"is_target": true,
+			"surface": "파군재",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 98,
+			"ne_type": "LOCATION",
+			"st": 1433,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1436,
+			"is_target": true,
+			"surface": "독좌암",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 99,
+			"ne_type": "LOCATION",
+			"st": 1438,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1440,
+			"is_target": true,
+			"surface": "왕산",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 100,
+			"ne_type": "LOCATION",
+			"st": 1442,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1444,
+			"is_target": true,
+			"surface": "안심",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 101,
+			"ne_type": "LOCATION",
+			"st": 1446,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1448,
+			"is_target": true,
+			"surface": "해안",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 102,
+			"ne_type": "LOCATION",
+			"st": 1455,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1457,
+			"is_target": true,
+			"surface": "백안",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 103,
+			"ne_type": "LOCATION",
+			"st": 1459,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1461,
+			"is_target": true,
+			"surface": "연경",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 104,
+			"ne_type": "LOCATION",
+			"st": 1463,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1465,
+			"is_target": true,
+			"surface": "살내",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 105,
+			"ne_type": "LOCATION",
+			"st": 1487,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1490,
+			"is_target": true,
+			"surface": "격전지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 106,
+			"ne_type": "LOCATION",
+			"st": 1504,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 1506,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 435,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 107,
+			"ne_type": "LOCATION",
+			"st": 1540,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 1543,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 108,
+			"ne_type": "PERSON",
+			"st": 1578,
+			"eType": "WIKILINK",
+			"entityName": "견훤",
+			"en": 1580,
+			"is_target": true,
+			"surface": "견훤",
+			"coref_index": 431,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 109,
+			"ne_type": "PERSON",
+			"st": 1582,
+			"eType": "WIKILINK",
+			"entityName": "최승우",
+			"en": 1585,
+			"is_target": true,
+			"surface": "최승우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 110,
+			"ne_type": "ETC",
+			"st": 1590,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 1592,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 111,
+			"ne_type": "ETC",
+			"st": 1623,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"en": 1625,
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 441,
+			"ancestor": "1-110"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 112,
+			"ne_type": "TIME",
+			"st": 1630,
+			"eType": "WIKILINK",
+			"entityName": "930년",
+			"en": 1634,
+			"is_target": false,
+			"surface": "930년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 113,
+			"ne_type": "ETC",
+			"st": 1635,
+			"eType": "WIKILINK",
+			"entityName": "고창_전투",
+			"en": 1640,
+			"is_target": true,
+			"surface": "고창_전투",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 114,
+			"ne_type": "LOCATION",
+			"st": 1643,
+			"eType": "WIKILINK",
+			"entityName": "후백제",
+			"en": 1646,
+			"is_target": true,
+			"surface": "후백제",
+			"coref_index": 436,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 115,
+			"ne_type": "TIME",
+			"st": 1515,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1517,
+			"is_target": true,
+			"surface": "건국",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1692767,1692768,1692769,1692770,1692771,1692772,1692773,1692774,1692775,1692776,1692777,1692778,1692779,1692780,1692781,1692782,1692783,1692784,1692785,1692786,1692787,1692788,1692789,1692790,1692791,1692792,1692793",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-3",
+			"st": 41,
+			"en": 46,
+			"surface": "현 팔공산",
+			"coref_index": 429
+		},
+		{
+			"id": 1,
+			"en": 54,
+			"ancestor": "-1",
+			"st": 41,
+			"surface": "현 팔공산) 동수(棟藪,"
+		},
+		{
+			"id": 2,
+			"ancestor": "1-16",
+			"st": 113,
+			"en": 115,
+			"surface": "이곳",
+			"coref_index": 430
+		},
+		{
+			"id": 3,
+			"ancestor": "1-15",
+			"st": 182,
+			"en": 186,
+			"surface": "이 전투",
+			"coref_index": 445
+		},
+		{
+			"id": 4,
+			"en": 319,
+			"ancestor": "-1",
+			"st": 313,
+			"surface": "이 과정에서"
+		},
+		{
+			"id": 5,
+			"en": 342,
+			"ancestor": "-1",
+			"st": 340,
+			"surface": "이는"
+		},
+		{
+			"id": 6,
+			"en": 764,
+			"surface": "이 소식을",
+			"st": 759,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 771,
+			"surface": "이 소식을 접한 왕건은",
+			"st": 759,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 859,
+			"ancestor": "-1",
+			"st": 856,
+			"surface": "한 발"
+		},
+		{
+			"id": 9,
+			"en": 932,
+			"ancestor": "-1",
+			"st": 927,
+			"surface": "이 계략을"
+		},
+		{
+			"id": 10,
+			"ancestor": "1-70",
+			"st": 942,
+			"en": 943,
+			"surface": "이",
+			"coref_index": 446
+		},
+		{
+			"id": 11,
+			"en": 1029,
+			"ancestor": "-1",
+			"st": 1027,
+			"surface": "이때"
+		},
+		{
+			"id": 12,
+			"en": 1098,
+			"ancestor": "-1",
+			"st": 1096,
+			"surface": "이에"
+		},
+		{
+			"id": 13,
+			"en": 1141,
+			"ancestor": "-1",
+			"st": 1136,
+			"surface": "그 수급을"
+		},
+		{
+			"id": 14,
+			"ancestor": "1-80",
+			"st": 1167,
+			"en": 1169,
+			"surface": "자신",
+			"coref_index": 444
+		},
+		{
+			"id": 15,
+			"en": 1173,
+			"ancestor": "-1",
+			"st": 1167,
+			"surface": "자신의 말에"
+		},
+		{
+			"id": 16,
+			"ancestor": "1-15",
+			"st": 1508,
+			"en": 1512,
+			"surface": "이 전투",
+			"coref_index": 445
+		}
+	],
+	"plainText": "공산_동수_전투(公山棟藪戰鬪)는 후삼국_시대인 927년 신라 공산(公山, 현 팔공산) 동수(棟藪, 현 지묘동)에서 고려의 왕건과 후백제의 견훤이 치른 전투로 견훤이 왕건군을 기습 공격해 대승을 거두었고 이곳에서 신숭겸 등 8명의 장수가 전사해 지명이 공산에서 팔공산으로 바뀌었다는 설화도 있고 반야월 등 대구의 대표 지명들이 이 전투에서 생겼다. 배경 후삼국_시대 당시 고려와 후백제는 처음에는 별다른 충돌 없이 평화롭게 지냈으나 926년_9월에 후백제 왕 견훤이 고려 근품성을 공격하면서 전쟁이 시작되었다. 이후로 고려와 후백제는 수차례에 걸쳐 충돌하였다. 이 과정에서 신라는 대체로 고려를 지지하였는데, 이는 견훤이 신라의 무관 출신임에도 불구하고 모반을 일으켜 스스로 나라를 일으킨 역적이라고 간주되었기 때문이다. 때문에 견훤은 늘 신라에 불만을 품고 지냈다. 927년_8월, 견훤은 마침내 신라를 정벌하기 위해 군사를 이끌고 신라 근암성(현재 문경시)과 고울부(현재 영천시)를 공격해 함락시키고 수도_금성(현재 경주)로 진군했다. 위기를 느낀 신라_경애왕은 고려_왕_왕건에게 구원을 요청하였다. 그러자 왕건은 신라를 돕기 위하여 9월 초에 시중_공선에게 1만 명의 군사를 맡겨 원군을 파견하였다. 그러나 고려군이 미처 신라에 도착하기도 전에 후백제군이 경주를 점령하여 친고려적인 행동을 자주 하였던 경애왕을 자결하게 하였으며 경순왕을 새 왕으로 세웠다. 또한 왕제_효렴과 재신_영경 등을 포로로 사로잡았으며, 보물들을 약탈한 후에 귀환길에 올랐다. 이 소식을 접한 왕건은 크게 분노하여 친히 5000명의 정예 기병을 이끌고 퇴각하는 후백제군을 격파하기 위해 출전했다. 전투 과정 왕건은 발빠른 기병대를 이끌고 후백제군보다 한 발 앞서 대구_공산 아래에서 대기하고 있다가 퇴각하는 후백제군이 접근하는 순간 공격을 단행할 계략을 세웠다. 그러나 견훤이 이 계략을 미리 알아채고는 이를 역으로 이용하여 공산으로 향하던 고려군을 기습 공격하였다. 고려군은 곧 후백제군의 공격에 밀려나 포위당하였고, 왕건은 일생 일대의 위기에 처했다. 이때 고려의 개국 공신 중 하나였던 신숭겸이 왕건의 목숨을 구하기 위해 왕의 갑옷을 입고 백마에 올라 군사들을 지휘하였다. 이에 후백제군은 신숭겸을 왕건으로 착각하여 화살을 쏘아 신숭겸을 죽이고 그 수급을 취하였다. 또다른 고려의 장수 김낙도 왕건을 자신의 말에 태우고 가다가 화살에 맞아 죽었다. 이어 전의갑과 전이갑 형제도 싸우던 중에 전사했다. 왕건은 간신히 탈출하여 목숨을 건졌으나, 신숭겸과 김낙을 포함하여 8명의 장수를 잃었으며 5000명의 군사 중 4930여명이 전사하고 불과 70명 정도의 병사들만이 살아돌아오는 참패를 당하였다. 한편 견훤은 승세를 타고 곧이어 대목군(大木郡)과 칠곡군(漆谷郡), 약목면(若木面) 등을 빼앗았으며, 고려군이 양식으로 쓰던 곡식을 빼앗아 불살라 버렸다. 대구에는 아직도 파군재, 독좌암, 왕산, 안심, 해안, 반야월, 백안, 연경, 살내 등의 많은 지명이 남아 있어, 당시의 격전지임을 알 수 있다. 결과 고려는 이 전투에서 건국 이래 최대의 패전을 당하게 되고 이후로 후백제와 수차례 싸우면서 계속 패하여 수세에 몰렸다. 이러한 상황은 견훤은 최승우를 시켜 왕건에게 보낸 서신인 《대견훤기고려왕서》에서 잘 드러난다. 왕건은 후에 930년 고창_전투에서 후백제군과 싸워서 대승을 거둔 후에야 수세에서 벗어날 수 있었다. ",
+	"docID": "315523"
+}

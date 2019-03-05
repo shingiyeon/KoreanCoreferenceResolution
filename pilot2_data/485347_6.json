@@ -1,0 +1,56 @@
+{
+	"docID": "485347",
+	"globalSID": "2145281,2145282,2145283,2145284",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 5,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 8,
+			"ancestor": "1-0",
+			"coref_index": 615,
+			"surface": "김용산",
+			"entityName": "김용산"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "SK그룹",
+			"entityName": "SK그룹"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "최종건",
+			"entityName": "최종건"
+		}
+	],
+	"plainText": "에피소드 김용산과 SK그룹 창업주 최종건 사이에 있었던 흥미로운 비화가 전해온다. 지금도 '10만환에 인수한 나일론 원사 제조기술 정보'라고 그룹내 회자되고 있는 전설같은 실화이다. 전해오는 내용은 다음과 같다."
+}

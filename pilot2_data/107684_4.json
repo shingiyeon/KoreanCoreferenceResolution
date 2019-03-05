@@ -1,0 +1,212 @@
+{
+	"docID": "107684",
+	"globalSID": "801983,801984,801985",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 34,
+			"ancestor": "",
+			"surface": "2003년",
+			"entityName": "2003년"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Publisher",
+				"Organisation"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 40,
+			"ancestor": "-1",
+			"surface": "시공사",
+			"entityName": "시공사"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 68,
+			"ancestor": "",
+			"surface": "2004년",
+			"entityName": "2004년"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 78,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "그린빌",
+			"entityName": "그린빌_(사우스캐롤라이나_주)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "코믹뱅",
+			"entityName": "코믹뱅"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 178,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 183,
+			"ancestor": "",
+			"surface": "2008년",
+			"entityName": "2008년"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 185,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 189,
+			"ancestor": "-1",
+			"surface": "천재교육",
+			"entityName": "천재교육"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 198,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 204,
+			"ancestor": "-1",
+			"surface": "주니어_논술",
+			"entityName": "주니어_논술"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"st": 224,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 226,
+			"ancestor": "-1",
+			"surface": "팝툰",
+			"entityName": "팝툰"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 257,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 261,
+			"ancestor": "-1",
+			"surface": "판타스틱",
+			"entityName": "판타스틱"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 125,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 133,
+			"ancestor": "",
+			"surface": "2006년_7월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 169,
+			"ancestor": "",
+			"surface": "2007년_4월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 263,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 271,
+			"ancestor": "",
+			"surface": "2008년_6월",
+			"entityName": ""
+		}
+	],
+	"plainText": "이후 슬럼프를 겪어 특별한 작품 활동을 하지 않다가 2003년부터 시공사의 여성 만화 잡지 《오후》에 《온》을, 2004년부터 《윙크》에 《그린빌에서 만나요》를 연재하였다. 《온》은 《오후》의 폐간으로 연재가 중단되었으나, 2006년_7월부터 을 만화 전문 웹사이트인 코믹뱅에서 연재하여 2007년_4월에 완결지었다. 2008년에 천재교육의 월간 잡지 《주니어_논술》에 〈스위트 시즌〉을 연재하였고,《팝툰》 21호에 설 특집 중편인 〈특전〉을 개제하였으며, 《판타스틱》 2008년_6월호부터 9월호까지 3부작 <파문>을 연재하였다."
+}

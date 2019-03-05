@@ -1,0 +1,710 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 221,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 223,
+			"en": 223,
+			"st_modified": 221
+		},
+		{
+			"st": 266,
+			"text": "모든 분야안",
+			"is_pronoun": true,
+			"en_modified": 272,
+			"en": 272,
+			"st_modified": 266
+		},
+		{
+			"st": 266,
+			"text": "모든 분야안에서 유출될 수",
+			"is_pronoun": true,
+			"en_modified": 280,
+			"en": 280,
+			"st_modified": 266
+		},
+		{
+			"st": 351,
+			"text": "이들",
+			"is_pronoun": true,
+			"en_modified": 353,
+			"en": 353,
+			"st_modified": 351
+		},
+		{
+			"st": 438,
+			"text": "이들",
+			"is_pronoun": true,
+			"en_modified": 440,
+			"en": 440,
+			"st_modified": 438
+		},
+		{
+			"st": 641,
+			"text": "이런 전략",
+			"is_pronoun": true,
+			"en_modified": 646,
+			"en": 646,
+			"st_modified": 641
+		},
+		{
+			"st": 729,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 730,
+			"en": 730,
+			"st_modified": 729
+		},
+		{
+			"st": 789,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 790,
+			"en": 790,
+			"st_modified": 789
+		},
+		{
+			"st": 912,
+			"text": "어디",
+			"is_pronoun": true,
+			"en_modified": 914,
+			"en": 914,
+			"st_modified": 912
+		},
+		{
+			"st": 986,
+			"text": "이 책",
+			"is_pronoun": true,
+			"en_modified": 989,
+			"en": 989,
+			"st_modified": 986
+		},
+		{
+			"st": 986,
+			"text": "이 책의 저자",
+			"is_pronoun": true,
+			"en_modified": 993,
+			"en": 993,
+			"st_modified": 986
+		},
+		{
+			"st": 986,
+			"text": "이 책의 저자 윌리엄 밀러",
+			"is_pronoun": true,
+			"en_modified": 1000,
+			"en": 1000,
+			"st_modified": 986
+		},
+		{
+			"st": 1190,
+			"text": "이 제도",
+			"is_pronoun": true,
+			"en_modified": 1194,
+			"en": 1194,
+			"st_modified": 1190
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 221,
+			"ancestor": "1-4",
+			"surface": "그들은",
+			"en_modified": 224,
+			"en": 224,
+			"st_modified": 221,
+			"id": 0,
+			"coref_index": 369
+		},
+		{
+			"st": 266,
+			"ancestor": "-1",
+			"surface": "모든 분야안에서",
+			"en_modified": 274,
+			"en": 274,
+			"st_modified": 266,
+			"id": 1
+		},
+		{
+			"st": 266,
+			"ancestor": "-1",
+			"surface": "모든 분야안에서 유출될 수",
+			"en_modified": 280,
+			"en": 280,
+			"st_modified": 266,
+			"id": 2
+		},
+		{
+			"st": 351,
+			"ancestor": "1-4",
+			"surface": "이들",
+			"en_modified": 353,
+			"en": 353,
+			"st_modified": 351,
+			"id": 3,
+			"coref_index": 369
+		},
+		{
+			"st": 438,
+			"ancestor": "1-4",
+			"surface": "이들",
+			"en_modified": 440,
+			"en": 440,
+			"st_modified": 438,
+			"id": 4,
+			"coref_index": 369
+		},
+		{
+			"st": 641,
+			"ancestor": "-1",
+			"surface": "이런 전략에",
+			"en_modified": 647,
+			"en": 647,
+			"st_modified": 641,
+			"id": 5
+		},
+		{
+			"st": 729,
+			"ancestor": "-1",
+			"surface": "이처럼",
+			"en_modified": 732,
+			"en": 732,
+			"st_modified": 729,
+			"id": 6
+		},
+		{
+			"st": 789,
+			"ancestor": "-1",
+			"surface": "이를",
+			"en_modified": 791,
+			"en": 791,
+			"st_modified": 789,
+			"id": 7
+		},
+		{
+			"st": 912,
+			"ancestor": "-1",
+			"surface": "어디에",
+			"en_modified": 915,
+			"en": 915,
+			"st_modified": 912,
+			"id": 8
+		},
+		{
+			"st": 986,
+			"ancestor": "-1",
+			"surface": "이 책",
+			"en_modified": 989,
+			"en": 989,
+			"st_modified": 986,
+			"id": 9
+		},
+		{
+			"st": 986,
+			"ancestor": "-1",
+			"surface": "이 책의 저자",
+			"en_modified": 993,
+			"en": 993,
+			"st_modified": 986,
+			"id": 10
+		},
+		{
+			"st": 986,
+			"ancestor": "-1",
+			"surface": "이 책의 저자 윌리엄 밀러는",
+			"en_modified": 1001,
+			"en": 1001,
+			"st_modified": 986,
+			"id": 11
+		},
+		{
+			"st": 1190,
+			"ancestor": "-1",
+			"surface": "이 제도",
+			"en_modified": 1194,
+			"en": 1194,
+			"st_modified": 1190,
+			"id": 12
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 42,
+			"entityName": "보안",
+			"st_modified": 40,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 40,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "보안",
+			"is_target": true,
+			"en": 42,
+			"id": 0
+		},
+		{
+			"en_modified": 49,
+			"entityName": "기업",
+			"st_modified": 47,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 47,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기업",
+			"is_target": true,
+			"en": 49,
+			"id": 1
+		},
+		{
+			"en_modified": 9,
+			"st_modified": 0,
+			"coref_index": 369,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "최고_보안_책임자",
+			"is_target": true,
+			"en": 9,
+			"id": 2
+		},
+		{
+			"en_modified": 76,
+			"st_modified": 67,
+			"coref_index": 369,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 67,
+			"ancestor": "1-2",
+			"ne_type": "PERSON",
+			"surface": "최고정보보호책임자",
+			"is_target": true,
+			"en": 76,
+			"id": 3
+		},
+		{
+			"en_modified": 153,
+			"st_modified": 144,
+			"coref_index": 369,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 144,
+			"ancestor": "1-2",
+			"ne_type": "PERSON",
+			"surface": "최고_보안_책임자",
+			"is_target": true,
+			"en": 153,
+			"id": 4
+		},
+		{
+			"en_modified": 207,
+			"entityName": "",
+			"st_modified": 200,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "비즈니스_리더",
+			"is_target": true,
+			"en": 207,
+			"id": 5
+		},
+		{
+			"en_modified": 656,
+			"st_modified": 652,
+			"coref_index": 370,
+			"entityName": "블랙베리",
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "ELU",
+			"st": 652,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "블랙베리",
+			"is_target": true,
+			"en": 656,
+			"id": 6
+		},
+		{
+			"en_modified": 676,
+			"entityName": "최고재무책임자",
+			"st_modified": 667,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 667,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "최고_재무_책임자",
+			"is_target": true,
+			"en": 676,
+			"id": 7
+		},
+		{
+			"en_modified": 692,
+			"entityName": "최고집행책임자",
+			"st_modified": 683,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 683,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "최고_집행_책임자",
+			"is_target": true,
+			"en": 692,
+			"id": 8
+		},
+		{
+			"en_modified": 545,
+			"entityName": "",
+			"st_modified": 532,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 532,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년_11월_25일",
+			"is_target": false,
+			"en": 545,
+			"id": 9
+		},
+		{
+			"en_modified": 530,
+			"st_modified": 526,
+			"coref_index": 370,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 526,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "블랙베리",
+			"is_target": true,
+			"en": 530,
+			"id": 10
+		},
+		{
+			"en_modified": 709,
+			"entityName": "",
+			"st_modified": 699,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 699,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "최고_마케팅_책임자",
+			"is_target": true,
+			"en": 709,
+			"id": 11
+		},
+		{
+			"en_modified": 741,
+			"entityName": "",
+			"st_modified": 737,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 737,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "경영환경",
+			"is_target": true,
+			"en": 741,
+			"id": 12
+		},
+		{
+			"en_modified": 747,
+			"entityName": "",
+			"st_modified": 743,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 743,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정보중심",
+			"is_target": true,
+			"en": 747,
+			"id": 13
+		},
+		{
+			"en_modified": 763,
+			"entityName": "",
+			"st_modified": 758,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 758,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정보화문제",
+			"is_target": true,
+			"en": 763,
+			"id": 14
+		},
+		{
+			"en_modified": 777,
+			"entityName": "",
+			"st_modified": 770,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 770,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "고위직_책임자",
+			"is_target": true,
+			"en": 777,
+			"id": 15
+		},
+		{
+			"en_modified": 795,
+			"st_modified": 792,
+			"coref_index": 371,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 792,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "CIO",
+			"is_target": true,
+			"en": 795,
+			"id": 16
+		},
+		{
+			"en_modified": 803,
+			"st_modified": 796,
+			"coref_index": 371,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 796,
+			"ancestor": "1-16",
+			"ne_type": "PERSON",
+			"surface": "최고혁신책임자",
+			"is_target": true,
+			"en": 803,
+			"id": 17
+		},
+		{
+			"en_modified": 829,
+			"st_modified": 805,
+			"coref_index": 371,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 805,
+			"ancestor": "1-16",
+			"ne_type": "PERSON",
+			"surface": "chief_innovation_officer",
+			"is_target": true,
+			"en": 829,
+			"id": 18
+		},
+		{
+			"en_modified": 885,
+			"entityName": "",
+			"st_modified": 883,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 883,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "업무",
+			"is_target": true,
+			"en": 885,
+			"id": 19
+		},
+		{
+			"en_modified": 892,
+			"entityName": "",
+			"st_modified": 887,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 887,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "외부_기업",
+			"is_target": true,
+			"en": 892,
+			"id": 20
+		},
+		{
+			"en_modified": 910,
+			"entityName": "",
+			"st_modified": 905,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 905,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투자_집행",
+			"is_target": true,
+			"en": 910,
+			"id": 21
+		},
+		{
+			"en_modified": 1148,
+			"entityName": "미국",
+			"st_modified": 1146,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1146,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "미국",
+			"is_target": true,
+			"en": 1148,
+			"id": 22
+		},
+		{
+			"en_modified": 1154,
+			"entityName": "제너럴_일렉트릭",
+			"st_modified": 1152,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1152,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "GE",
+			"is_target": true,
+			"en": 1154,
+			"id": 23
+		},
+		{
+			"en_modified": 1158,
+			"entityName": "애플_(기업)",
+			"st_modified": 1156,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1156,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "애플",
+			"is_target": true,
+			"en": 1158,
+			"id": 24
+		},
+		{
+			"en_modified": 1172,
+			"entityName": "대한민국",
+			"st_modified": 1168,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1168,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 1172,
+			"id": 25
+		},
+		{
+			"en_modified": 1178,
+			"entityName": "삼성",
+			"st_modified": 1176,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "WIKILINK",
+			"st": 1176,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "삼성",
+			"is_target": true,
+			"en": 1178,
+			"id": 26
+		},
+		{
+			"en_modified": 1185,
+			"entityName": "아시아나항공",
+			"st_modified": 1179,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Airline",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1179,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "아시아나항공",
+			"is_target": true,
+			"en": 1185,
+			"id": 27
+		}
+	],
+	"globalSID": "1479666,1479667,1479668,1479669,1479670,1479671,1479672,1479673,1479674,1479675,1479676,1479677,1479678,1479679",
+	"plainText": "최고_보안_책임자(Chief Security Officer, CSO)는 보안에 대한 기업의 최고 책임자를 말한다. 또는 최고정보보호책임자(最高情報保護責任者, Chief Information Security Officer, CISO)를 지칭하기도 한다. 개요 최고_보안_책임자는 개발,구현,조직의 회사 보안 비전에 대한 관리, 전략과 프로그램에 대해 책임지는 비즈니스_리더로서의 역할을 수행한다. 그들은 위험을 경감시키고, 사고에 대응하며, 재무적, 물리적, 인적 위험에 대한 모든 분야안에서 유출될 수 있는 경향을 감소하기 위해 조직에 걸쳐 보안 프로세스를 식별하고, 개발하고, 구현하고 유지하는 일에 대한 직접 명령권자이다. 이들은 지적인 자산에 관련된 적합한 표준과 위험 통제들을 수립하고 자료 보안과 관련된 정책과 절차의 수립과 구현을 명령한다. 정보보호를 우선적으로 책임지는 이들은 직책을 구별짓기 위해서 최고 정보 보호 책임자의 직함을 가지기도 한다. 배경 독자적인 소셜 네트워크 서비스인 BBM채널을 개시하고 있는 미국의 기업, 블랙베리는 2013년_11월_25일 고위 간부 3명의 퇴사를 발표했는데 신임 최고 경영 책임자(CEO)는 실적이 부진한 회사를 재건하기 위해서 소비자용 시장에서 비즈니스용 시장으로의 이행을 추진하고 있다. 이런 전략에 따라서 블랙베리는 인선을 실시하여 최고_재무_책임자(CFO)와 최고_집행_책임자(COO), 최고_마케팅_책임자(CMO) 등의 퇴사를 공식화했다. 이처럼 최근의 경영환경이 정보중심으로 급변함에 따라 정보화문제를 총괄하는 고위직_책임자가 필요하게 되었는데 이를 CIO(최고혁신책임자, chief_innovation_officer)라 지칭하기도 하는데 CIO는 매출을 증가시킬 수 있는 전략을 수립하고, 새로운 사업을 발굴해 업무, 외부_기업과 제휴를 주도하거나, 투자_집행을 어디에 어떻게 해야 할지 결정하는 역할 등을 담당한다. CIO는 1998년 출판된 <4세대 혁신>이란 책에서 처음으로 언급되었는데, 이 책의 저자 윌리엄 밀러는 기업의 필수 생존조건으로 혁신을 강조하였다. CIO 외에 최고문화책임자(CCO:chief culture officer), 최고지속가능경영책임자(CSO:chief sustainability officer) 등도 새롭게 부상하고 있는 기업 내 새로운 직책이다. 미국에서는 GE, 애플 등에서 도입했고 대한민국에서는 삼성·아시아나항공 등에서 이 제도를 도입해 실시하고 있다. ",
+	"docID": "262644",
+	"ModifiedText": "최고 보안 책임자(Chief Security Officer, CSO)는 보안에 대한 기업의 최고 책임자를 말한다. 또는 최고정보보호책임자(最高情報保護責任者, Chief Information Security Officer, CISO)를 지칭하기도 한다. 개요 최고 보안 책임자는 개발,구현,조직의 회사 보안 비전에 대한 관리, 전략과 프로그램에 대해 책임지는 비즈니스 리더로서의 역할을 수행한다. 그들은 위험을 경감시키고, 사고에 대응하며, 재무적, 물리적, 인적 위험에 대한 모든 분야안에서 유출될 수 있는 경향을 감소하기 위해 조직에 걸쳐 보안 프로세스를 식별하고, 개발하고, 구현하고 유지하는 일에 대한 직접 명령권자이다. 이들은 지적인 자산에 관련된 적합한 표준과 위험 통제들을 수립하고 자료 보안과 관련된 정책과 절차의 수립과 구현을 명령한다. 정보보호를 우선적으로 책임지는 이들은 직책을 구별짓기 위해서 최고 정보 보호 책임자의 직함을 가지기도 한다. 배경 독자적인 소셜 네트워크 서비스인 BBM채널을 개시하고 있는 미국의 기업, 블랙베리는 2013년 11월 25일 고위 간부 3명의 퇴사를 발표했는데 신임 최고 경영 책임자(CEO)는 실적이 부진한 회사를 재건하기 위해서 소비자용 시장에서 비즈니스용 시장으로의 이행을 추진하고 있다. 이런 전략에 따라서 블랙베리는 인선을 실시하여 최고 재무 책임자(CFO)와 최고 집행 책임자(COO), 최고 마케팅 책임자(CMO) 등의 퇴사를 공식화했다. 이처럼 최근의 경영환경이 정보중심으로 급변함에 따라 정보화문제를 총괄하는 고위직 책임자가 필요하게 되었는데 이를 CIO(최고혁신책임자, chief innovation officer)라 지칭하기도 하는데 CIO는 매출을 증가시킬 수 있는 전략을 수립하고, 새로운 사업을 발굴해 업무, 외부 기업과 제휴를 주도하거나, 투자 집행을 어디에 어떻게 해야 할지 결정하는 역할 등을 담당한다. CIO는 1998년 출판된 <4세대 혁신>이란 책에서 처음으로 언급되었는데, 이 책의 저자 윌리엄 밀러는 기업의 필수 생존조건으로 혁신을 강조하였다. CIO 외에 최고문화책임자(CCO:chief culture officer), 최고지속가능경영책임자(CSO:chief sustainability officer) 등도 새롭게 부상하고 있는 기업 내 새로운 직책이다. 미국에서는 GE, 애플 등에서 도입했고 대한민국에서는 삼성·아시아나항공 등에서 이 제도를 도입해 실시하고 있다. "
+}

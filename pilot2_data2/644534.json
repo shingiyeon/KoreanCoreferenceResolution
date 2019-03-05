@@ -1,0 +1,1897 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 197,
+			"text": "이 지역에",
+			"is_pronoun": true,
+			"en_modified": 202,
+			"en": 202,
+			"st_modified": 197
+		},
+		{
+			"st": 417,
+			"text": "이 땅",
+			"is_pronoun": true,
+			"en_modified": 420,
+			"en": 420,
+			"st_modified": 417
+		},
+		{
+			"st": 505,
+			"text": "이 영향",
+			"is_pronoun": true,
+			"en_modified": 509,
+			"en": 509,
+			"st_modified": 505
+		},
+		{
+			"st": 555,
+			"text": "이 지역",
+			"is_pronoun": true,
+			"en_modified": 559,
+			"en": 559,
+			"st_modified": 555
+		},
+		{
+			"st": 581,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 583,
+			"en": 583,
+			"st_modified": 581
+		},
+		{
+			"st": 642,
+			"text": "다른 도시",
+			"is_pronoun": true,
+			"en_modified": 647,
+			"en": 647,
+			"st_modified": 642
+		},
+		{
+			"st": 698,
+			"text": "그 밖",
+			"is_pronoun": true,
+			"en_modified": 701,
+			"en": 701,
+			"st_modified": 698
+		},
+		{
+			"st": 698,
+			"text": "그 밖의 다른 지역",
+			"is_pronoun": true,
+			"en_modified": 708,
+			"en": 708,
+			"st_modified": 698
+		},
+		{
+			"st": 760,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 762,
+			"en": 762,
+			"st_modified": 760
+		},
+		{
+			"st": 950,
+			"text": "다른 주들",
+			"is_pronoun": true,
+			"en_modified": 955,
+			"en": 955,
+			"st_modified": 950
+		},
+		{
+			"st": 1131,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1132,
+			"en": 1132,
+			"st_modified": 1131
+		},
+		{
+			"st": 1131,
+			"text": "그의 군대",
+			"is_pronoun": true,
+			"en_modified": 1136,
+			"en": 1136,
+			"st_modified": 1131
+		},
+		{
+			"st": 1300,
+			"text": "이 주는 남아메리카 통합주",
+			"is_pronoun": true,
+			"en_modified": 1314,
+			"en": 1314,
+			"st_modified": 1300
+		},
+		{
+			"st": 1459,
+			"text": "이것",
+			"is_pronoun": true,
+			"en_modified": 1461,
+			"en": 1461,
+			"st_modified": 1459
+		},
+		{
+			"st": 1509,
+			"text": "그 결과",
+			"is_pronoun": true,
+			"en_modified": 1513,
+			"en": 1513,
+			"st_modified": 1509
+		},
+		{
+			"st": 1542,
+			"text": "이 정전",
+			"is_pronoun": true,
+			"en_modified": 1546,
+			"en": 1546,
+			"st_modified": 1542
+		},
+		{
+			"st": 1592,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1593,
+			"en": 1593,
+			"st_modified": 1592
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 197,
+			"ancestor": "-1",
+			"surface": "이 지역에는",
+			"en_modified": 203,
+			"en": 203,
+			"st_modified": 197,
+			"id": 0
+		},
+		{
+			"st": 417,
+			"ancestor": "1-0",
+			"surface": "이 땅",
+			"en_modified": 420,
+			"en": 420,
+			"st_modified": 417,
+			"id": 1,
+			"coref_index": 763
+		},
+		{
+			"st": 505,
+			"ancestor": "-1",
+			"surface": "이 영향으로",
+			"en_modified": 511,
+			"en": 511,
+			"st_modified": 505,
+			"id": 2
+		},
+		{
+			"st": 555,
+			"ancestor": "1-0",
+			"surface": "이 지역",
+			"en_modified": 559,
+			"en": 559,
+			"st_modified": 555,
+			"id": 3,
+			"coref_index": 763
+		},
+		{
+			"st": 581,
+			"ancestor": "-1",
+			"surface": "그들의",
+			"en_modified": 584,
+			"en": 584,
+			"st_modified": 581,
+			"id": 4
+		},
+		{
+			"st": 642,
+			"ancestor": "-1",
+			"surface": "다른 도시에",
+			"en_modified": 648,
+			"en": 648,
+			"st_modified": 642,
+			"id": 5
+		},
+		{
+			"st": 698,
+			"ancestor": "-1",
+			"surface": "그 밖의",
+			"en_modified": 702,
+			"en": 702,
+			"st_modified": 698,
+			"id": 6
+		},
+		{
+			"st": 698,
+			"ancestor": "-1",
+			"surface": "그 밖의 다른 지역에서",
+			"en_modified": 710,
+			"en": 710,
+			"st_modified": 698,
+			"id": 7
+		},
+		{
+			"st": 760,
+			"ancestor": "1-40",
+			"surface": "그들",
+			"en_modified": 762,
+			"en": 762,
+			"st_modified": 760,
+			"id": 8,
+			"coref_index": 771
+		},
+		{
+			"st": 950,
+			"ancestor": "-1",
+			"surface": "다른 주들",
+			"en_modified": 955,
+			"en": 955,
+			"st_modified": 950,
+			"id": 9
+		},
+		{
+			"st": 1131,
+			"ancestor": "1-62",
+			"surface": "그의",
+			"en_modified": 1133,
+			"en": 1133,
+			"st_modified": 1131,
+			"id": 10,
+			"coref_index": 767
+		},
+		{
+			"st": 1131,
+			"ancestor": "-1",
+			"surface": "그의 군대",
+			"en_modified": 1136,
+			"en": 1136,
+			"st_modified": 1131,
+			"id": 11
+		},
+		{
+			"st": 1300,
+			"ancestor": "-1",
+			"surface": "이 주는 남아메리카 통합주",
+			"en_modified": 1314,
+			"en": 1314,
+			"st_modified": 1300,
+			"id": 12
+		},
+		{
+			"st": 1459,
+			"ancestor": "-1",
+			"surface": "이것",
+			"en_modified": 1461,
+			"en": 1461,
+			"st_modified": 1459,
+			"id": 13
+		},
+		{
+			"st": 1509,
+			"ancestor": "-1",
+			"surface": "그 결과",
+			"en_modified": 1513,
+			"en": 1513,
+			"st_modified": 1509,
+			"id": 14
+		},
+		{
+			"st": 1542,
+			"ancestor": "-1",
+			"surface": "이 정전",
+			"en_modified": 1546,
+			"en": 1546,
+			"st_modified": 1542,
+			"id": 15
+		},
+		{
+			"st": 1592,
+			"ancestor": "1-89",
+			"surface": "그는",
+			"en_modified": 1594,
+			"en": 1594,
+			"st_modified": 1592,
+			"id": 16,
+			"coref_index": 772
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 5,
+			"st_modified": 0,
+			"coref_index": 763,
+			"entityName": "아르헨티나",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "아르헨티나",
+			"is_target": true,
+			"en": 5,
+			"id": 0
+		},
+		{
+			"en_modified": 15,
+			"entityName": "콜롬버스",
+			"st_modified": 11,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 11,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "콜롬버스",
+			"is_target": true,
+			"en": 15,
+			"id": 1
+		},
+		{
+			"en_modified": 57,
+			"entityName": "",
+			"st_modified": 46,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 46,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "1516_-_1810",
+			"is_target": true,
+			"en": 57,
+			"id": 2
+		},
+		{
+			"en_modified": 87,
+			"entityName": "",
+			"st_modified": 76,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 76,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "1810_-_1880",
+			"is_target": true,
+			"en": 87,
+			"id": 3
+		},
+		{
+			"en_modified": 98,
+			"entityName": "",
+			"st_modified": 90,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 90,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1880년_이후",
+			"is_target": false,
+			"en": 98,
+			"id": 4
+		},
+		{
+			"en_modified": 142,
+			"st_modified": 137,
+			"coref_index": 763,
+			"entityName": "아르헨티나",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 137,
+			"ancestor": "1-0",
+			"ne_type": "LOCATION",
+			"surface": "아르헨티나",
+			"is_target": true,
+			"en": 142,
+			"id": 5
+		},
+		{
+			"en_modified": 165,
+			"st_modified": 160,
+			"coref_index": 764,
+			"entityName": "파타고니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 160,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "파타고니아",
+			"is_target": true,
+			"en": 165,
+			"id": 6
+		},
+		{
+			"en_modified": 213,
+			"entityName": "인디오",
+			"st_modified": 210,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 210,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인디오",
+			"is_target": true,
+			"en": 213,
+			"id": 7
+		},
+		{
+			"en_modified": 261,
+			"entityName": "잉카_제국",
+			"st_modified": 256,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 256,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "잉카_제국",
+			"is_target": true,
+			"en": 261,
+			"id": 8
+		},
+		{
+			"en_modified": 268,
+			"entityName": "1480년",
+			"st_modified": 263,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 263,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1480년",
+			"is_target": false,
+			"en": 268,
+			"id": 9
+		},
+		{
+			"en_modified": 304,
+			"entityName": "코야수유",
+			"st_modified": 300,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 300,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "코야수유",
+			"is_target": true,
+			"en": 304,
+			"id": 10
+		},
+		{
+			"en_modified": 320,
+			"entityName": "과라니족",
+			"st_modified": 316,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 316,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "과라니족",
+			"is_target": true,
+			"en": 320,
+			"id": 11
+		},
+		{
+			"en_modified": 325,
+			"entityName": "유카",
+			"st_modified": 323,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 323,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "유카",
+			"is_target": true,
+			"en": 325,
+			"id": 12
+		},
+		{
+			"en_modified": 330,
+			"entityName": "고구마",
+			"st_modified": 327,
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 327,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "고구마",
+			"is_target": true,
+			"en": 330,
+			"id": 13
+		},
+		{
+			"en_modified": 338,
+			"entityName": "예르바_마테",
+			"st_modified": 332,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 332,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "예르바_마테",
+			"is_target": true,
+			"en": 338,
+			"id": 14
+		},
+		{
+			"en_modified": 341,
+			"entityName": "농업",
+			"st_modified": 339,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 339,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "농업",
+			"is_target": true,
+			"en": 341,
+			"id": 15
+		},
+		{
+			"en_modified": 363,
+			"st_modified": 360,
+			"coref_index": 766,
+			"entityName": "팜파스",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 360,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "팜파스",
+			"is_target": true,
+			"en": 363,
+			"id": 16
+		},
+		{
+			"en_modified": 370,
+			"st_modified": 365,
+			"coref_index": 764,
+			"entityName": "파타고니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 365,
+			"ancestor": "1-6",
+			"ne_type": "ETC",
+			"surface": "파타고니아",
+			"is_target": true,
+			"en": 370,
+			"id": 17
+		},
+		{
+			"en_modified": 389,
+			"entityName": "17세기",
+			"st_modified": 385,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 385,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "17세기",
+			"is_target": true,
+			"en": 389,
+			"id": 18
+		},
+		{
+			"en_modified": 394,
+			"entityName": "마푸체",
+			"st_modified": 391,
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 391,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마푸체",
+			"is_target": true,
+			"en": 394,
+			"id": 19
+		},
+		{
+			"en_modified": 136,
+			"entityName": "",
+			"st_modified": 126,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 126,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "콜럼버스_이전_시대",
+			"is_target": true,
+			"en": 136,
+			"id": 20
+		},
+		{
+			"en_modified": 249,
+			"entityName": "",
+			"st_modified": 243,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 243,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "파차쿠텍_왕",
+			"is_target": true,
+			"en": 249,
+			"id": 21
+		},
+		{
+			"en_modified": 416,
+			"entityName": "1516년",
+			"st_modified": 411,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 411,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1516년",
+			"is_target": false,
+			"en": 416,
+			"id": 22
+		},
+		{
+			"en_modified": 425,
+			"entityName": "유럽인",
+			"st_modified": 422,
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 422,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "유럽인",
+			"is_target": true,
+			"en": 425,
+			"id": 23
+		},
+		{
+			"en_modified": 442,
+			"st_modified": 439,
+			"coref_index": 768,
+			"entityName": "스페인",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 439,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스페인",
+			"is_target": true,
+			"en": 442,
+			"id": 24
+		},
+		{
+			"en_modified": 449,
+			"entityName": "1580년",
+			"st_modified": 444,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 444,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1580년",
+			"is_target": false,
+			"en": 449,
+			"id": 25
+		},
+		{
+			"en_modified": 458,
+			"st_modified": 450,
+			"coref_index": 765,
+			"entityName": "부에노스아이레스",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 450,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "부에노스아이레스",
+			"is_target": true,
+			"en": 458,
+			"id": 26
+		},
+		{
+			"en_modified": 484,
+			"entityName": "1776년",
+			"st_modified": 479,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 479,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1776년",
+			"is_target": false,
+			"en": 484,
+			"id": 27
+		},
+		{
+			"en_modified": 492,
+			"entityName": "리오데라플라타",
+			"st_modified": 485,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 485,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "리오데라플라타",
+			"is_target": true,
+			"en": 492,
+			"id": 28
+		},
+		{
+			"en_modified": 516,
+			"entityName": "스페인어",
+			"st_modified": 512,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 512,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스페인어",
+			"is_target": true,
+			"en": 516,
+			"id": 29
+		},
+		{
+			"en_modified": 523,
+			"st_modified": 518,
+			"coref_index": 763,
+			"entityName": "아르헨티나",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 518,
+			"ancestor": "1-0",
+			"ne_type": "LOCATION",
+			"surface": "아르헨티나",
+			"is_target": true,
+			"en": 523,
+			"id": 30
+		},
+		{
+			"en_modified": 528,
+			"entityName": "공용어",
+			"st_modified": 525,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 525,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공용어",
+			"is_target": true,
+			"en": 528,
+			"id": 31
+		},
+		{
+			"en_modified": 543,
+			"entityName": "로마_가톨릭",
+			"st_modified": 537,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 537,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "로마_가톨릭",
+			"is_target": true,
+			"en": 543,
+			"id": 32
+		},
+		{
+			"en_modified": 550,
+			"entityName": "종교",
+			"st_modified": 548,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 548,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "종교",
+			"is_target": true,
+			"en": 550,
+			"id": 33
+		},
+		{
+			"en_modified": 578,
+			"entityName": "크리오요",
+			"st_modified": 574,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 574,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "크리오요",
+			"is_target": true,
+			"en": 578,
+			"id": 34
+		},
+		{
+			"en_modified": 640,
+			"st_modified": 631,
+			"coref_index": 765,
+			"entityName": "부에노스_아이레스",
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 631,
+			"ancestor": "1-26",
+			"ne_type": "LOCATION",
+			"surface": "부에노스_아이레스",
+			"is_target": true,
+			"en": 640,
+			"id": 35
+		},
+		{
+			"en_modified": 647,
+			"entityName": "도시",
+			"st_modified": 645,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 645,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "도시",
+			"is_target": true,
+			"en": 647,
+			"id": 36
+		},
+		{
+			"en_modified": 666,
+			"entityName": "가우초",
+			"st_modified": 663,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 663,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "가우초",
+			"is_target": true,
+			"en": 666,
+			"id": 37
+		},
+		{
+			"en_modified": 675,
+			"st_modified": 672,
+			"coref_index": 766,
+			"entityName": "팜파스",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 672,
+			"ancestor": "1-16",
+			"ne_type": "ETC",
+			"surface": "팜파스",
+			"is_target": true,
+			"en": 675,
+			"id": 38
+		},
+		{
+			"en_modified": 695,
+			"st_modified": 690,
+			"coref_index": 763,
+			"entityName": "아르헨티나",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 690,
+			"ancestor": "1-0",
+			"ne_type": "LOCATION",
+			"surface": "아르헨티나",
+			"is_target": true,
+			"en": 695,
+			"id": 39
+		},
+		{
+			"en_modified": 718,
+			"st_modified": 716,
+			"coref_index": 771,
+			"entityName": "영국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 716,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "영국",
+			"is_target": true,
+			"en": 718,
+			"id": 40
+		},
+		{
+			"en_modified": 741,
+			"st_modified": 732,
+			"coref_index": 765,
+			"entityName": "부에노스아이레스",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 732,
+			"ancestor": "1-26",
+			"ne_type": "LOCATION",
+			"surface": "부에노스_아이레스",
+			"is_target": true,
+			"en": 741,
+			"id": 41
+		},
+		{
+			"en_modified": 496,
+			"entityName": "",
+			"st_modified": 493,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 493,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "부왕령",
+			"is_target": true,
+			"en": 496,
+			"id": 42
+		},
+		{
+			"en_modified": 749,
+			"entityName": "",
+			"st_modified": 747,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 747,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "침공",
+			"is_target": true,
+			"en": 749,
+			"id": 43
+		},
+		{
+			"en_modified": 470,
+			"entityName": "",
+			"st_modified": 467,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 467,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "식민지",
+			"is_target": true,
+			"en": 470,
+			"id": 44
+		},
+		{
+			"en_modified": 794,
+			"entityName": "페르디난도_7세",
+			"st_modified": 786,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 786,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "페르디난도_7세",
+			"is_target": true,
+			"en": 794,
+			"id": 45
+		},
+		{
+			"en_modified": 800,
+			"entityName": "나폴레옹",
+			"st_modified": 796,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 796,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "나폴레옹",
+			"is_target": true,
+			"en": 800,
+			"id": 46
+		},
+		{
+			"en_modified": 846,
+			"entityName": "1차_의회",
+			"st_modified": 841,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 841,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1차_의회",
+			"is_target": true,
+			"en": 846,
+			"id": 47
+		},
+		{
+			"en_modified": 876,
+			"entityName": "아르헨티나_5월_혁명",
+			"st_modified": 871,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 871,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "5월_혁명",
+			"is_target": true,
+			"en": 876,
+			"id": 48
+		},
+		{
+			"en_modified": 894,
+			"st_modified": 889,
+			"coref_index": 763,
+			"entityName": "아르헨티나",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 889,
+			"ancestor": "1-39",
+			"ne_type": "LOCATION",
+			"surface": "아르헨티나",
+			"is_target": true,
+			"en": 894,
+			"id": 49
+		},
+		{
+			"en_modified": 924,
+			"entityName": "남아메리카_합주국",
+			"st_modified": 915,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 915,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "남아메리카_합주국",
+			"is_target": true,
+			"en": 924,
+			"id": 50
+		},
+		{
+			"en_modified": 938,
+			"entityName": "자유_연맹",
+			"st_modified": 933,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 933,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "자유_연맹",
+			"is_target": true,
+			"en": 938,
+			"id": 51
+		},
+		{
+			"en_modified": 1004,
+			"entityName": "파라과이",
+			"st_modified": 1000,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1000,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "파라과이",
+			"is_target": true,
+			"en": 1004,
+			"id": 52
+		},
+		{
+			"en_modified": 1011,
+			"entityName": "1811년",
+			"st_modified": 1006,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1006,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1811년",
+			"is_target": false,
+			"en": 1011,
+			"id": 53
+		},
+		{
+			"en_modified": 785,
+			"entityName": "",
+			"st_modified": 773,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 773,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1810년_5월_25일",
+			"is_target": false,
+			"en": 785,
+			"id": 54
+		},
+		{
+			"en_modified": 838,
+			"entityName": "",
+			"st_modified": 826,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 826,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "부에노스_아이레스_시민",
+			"is_target": true,
+			"en": 838,
+			"id": 55
+		},
+		{
+			"en_modified": 944,
+			"entityName": "",
+			"st_modified": 939,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 939,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1815년",
+			"is_target": false,
+			"en": 944,
+			"id": 56
+		},
+		{
+			"en_modified": 930,
+			"entityName": "",
+			"st_modified": 925,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 925,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1810년",
+			"is_target": false,
+			"en": 930,
+			"id": 57
+		},
+		{
+			"en_modified": 961,
+			"entityName": "",
+			"st_modified": 957,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 957,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "자치론자",
+			"is_target": true,
+			"en": 961,
+			"id": 58
+		},
+		{
+			"en_modified": 969,
+			"entityName": "",
+			"st_modified": 963,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 963,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "중앙집권론자",
+			"is_target": true,
+			"en": 969,
+			"id": 59
+		},
+		{
+			"en_modified": 983,
+			"entityName": "",
+			"st_modified": 981,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 981,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "국가",
+			"is_target": true,
+			"en": 983,
+			"id": 60
+		},
+		{
+			"en_modified": 1014,
+			"entityName": "",
+			"st_modified": 1012,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1012,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독립",
+			"is_target": true,
+			"en": 1014,
+			"id": 61
+		},
+		{
+			"en_modified": 1037,
+			"st_modified": 1027,
+			"coref_index": 767,
+			"entityName": "호세_데_산_마르틴",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1027,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "호세_데_산_마르틴",
+			"is_target": true,
+			"en": 1037,
+			"id": 62
+		},
+		{
+			"en_modified": 1044,
+			"entityName": "1814년",
+			"st_modified": 1039,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1039,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1814년",
+			"is_target": false,
+			"en": 1044,
+			"id": 63
+		},
+		{
+			"en_modified": 1052,
+			"entityName": "1817년",
+			"st_modified": 1047,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1047,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1817년",
+			"is_target": false,
+			"en": 1052,
+			"id": 64
+		},
+		{
+			"en_modified": 1102,
+			"st_modified": 1099,
+			"coref_index": 767,
+			"entityName": "마르틴",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1099,
+			"ancestor": "1-62",
+			"ne_type": "ETC",
+			"surface": "마르틴",
+			"is_target": true,
+			"en": 1102,
+			"id": 65
+		},
+		{
+			"en_modified": 1129,
+			"st_modified": 1126,
+			"coref_index": 767,
+			"entityName": "마르틴",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1126,
+			"ancestor": "1-62",
+			"ne_type": "ETC",
+			"surface": "마르틴",
+			"is_target": true,
+			"en": 1129,
+			"id": 66
+		},
+		{
+			"en_modified": 1147,
+			"entityName": "안데스_산맥",
+			"st_modified": 1144,
+			"kbox_types": [
+				"Place",
+				"Place",
+				"MountainRange",
+				"NaturalPlace"
+			],
+			"eType": "ELU",
+			"st": 1144,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "안데스",
+			"is_target": true,
+			"en": 1147,
+			"id": 67
+		},
+		{
+			"en_modified": 1154,
+			"entityName": "칠레",
+			"st_modified": 1152,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1152,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "칠레",
+			"is_target": true,
+			"en": 1154,
+			"id": 68
+		},
+		{
+			"en_modified": 1158,
+			"entityName": "페루",
+			"st_modified": 1156,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1156,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "페루",
+			"is_target": true,
+			"en": 1158,
+			"id": 69
+		},
+		{
+			"en_modified": 1163,
+			"entityName": "왕당파",
+			"st_modified": 1160,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1160,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "왕당파",
+			"is_target": true,
+			"en": 1163,
+			"id": 70
+		},
+		{
+			"en_modified": 1188,
+			"entityName": "1816년",
+			"st_modified": 1183,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1183,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1816년",
+			"is_target": false,
+			"en": 1188,
+			"id": 71
+		},
+		{
+			"en_modified": 1194,
+			"entityName": "7월_9일",
+			"st_modified": 1189,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1189,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "7월_9일",
+			"is_target": false,
+			"en": 1194,
+			"id": 72
+		},
+		{
+			"en_modified": 1201,
+			"entityName": "투쿠만_의회",
+			"st_modified": 1195,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1195,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투쿠만_의회",
+			"is_target": true,
+			"en": 1201,
+			"id": 73
+		},
+		{
+			"en_modified": 1211,
+			"st_modified": 1208,
+			"coref_index": 768,
+			"entityName": "스페인",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1208,
+			"ancestor": "1-24",
+			"ne_type": "LOCATION",
+			"surface": "스페인",
+			"is_target": true,
+			"en": 1211,
+			"id": 74
+		},
+		{
+			"en_modified": 1235,
+			"entityName": "1820년",
+			"st_modified": 1230,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1230,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1820년",
+			"is_target": false,
+			"en": 1235,
+			"id": 75
+		},
+		{
+			"en_modified": 1274,
+			"st_modified": 1271,
+			"coref_index": 769,
+			"entityName": "브라질",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1271,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "브라질",
+			"is_target": true,
+			"en": 1274,
+			"id": 76
+		},
+		{
+			"en_modified": 1283,
+			"entityName": "포르투갈",
+			"st_modified": 1279,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1279,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "포르투갈",
+			"is_target": true,
+			"en": 1283,
+			"id": 77
+		},
+		{
+			"en_modified": 1328,
+			"entityName": "1825년",
+			"st_modified": 1323,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1323,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1825년",
+			"is_target": false,
+			"en": 1328,
+			"id": 78
+		},
+		{
+			"en_modified": 1333,
+			"entityName": "볼리비아",
+			"st_modified": 1329,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1329,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "볼리비아",
+			"is_target": true,
+			"en": 1333,
+			"id": 79
+		},
+		{
+			"en_modified": 1350,
+			"entityName": "1826년",
+			"st_modified": 1345,
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"eType": "WIKILINK",
+			"st": 1345,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1826년",
+			"is_target": false,
+			"en": 1350,
+			"id": 80
+		},
+		{
+			"en_modified": 1357,
+			"st_modified": 1352,
+			"coref_index": 763,
+			"entityName": "아르헨티나",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1352,
+			"ancestor": "1-0",
+			"ne_type": "LOCATION",
+			"surface": "아르헨티나",
+			"is_target": true,
+			"en": 1357,
+			"id": 81
+		},
+		{
+			"en_modified": 1362,
+			"st_modified": 1359,
+			"coref_index": 769,
+			"entityName": "브라질",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1359,
+			"ancestor": "1-76",
+			"ne_type": "LOCATION",
+			"surface": "브라질",
+			"is_target": true,
+			"en": 1362,
+			"id": 82
+		},
+		{
+			"en_modified": 1404,
+			"st_modified": 1401,
+			"coref_index": 769,
+			"entityName": "브라질",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1401,
+			"ancestor": "1-76",
+			"ne_type": "LOCATION",
+			"surface": "브라질",
+			"is_target": true,
+			"en": 1404,
+			"id": 83
+		},
+		{
+			"en_modified": 1433,
+			"st_modified": 1430,
+			"coref_index": 769,
+			"entityName": "브라질",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1430,
+			"ancestor": "1-76",
+			"ne_type": "LOCATION",
+			"surface": "브라질",
+			"is_target": true,
+			"en": 1433,
+			"id": 84
+		},
+		{
+			"en_modified": 1475,
+			"st_modified": 1463,
+			"coref_index": 770,
+			"entityName": "아르헨티나-브라질_전쟁",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1463,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아르헨티나-브라질_전쟁",
+			"is_target": true,
+			"en": 1475,
+			"id": 85
+		},
+		{
+			"en_modified": 1485,
+			"entityName": "1828년",
+			"st_modified": 1480,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1480,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1828년",
+			"is_target": false,
+			"en": 1485,
+			"id": 86
+		},
+		{
+			"en_modified": 1500,
+			"st_modified": 1488,
+			"coref_index": 770,
+			"entityName": "아르헨티나-브라질_전쟁",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1488,
+			"ancestor": "1-85",
+			"ne_type": "ETC",
+			"surface": "아르헨티나-브라질_전쟁",
+			"is_target": true,
+			"en": 1500,
+			"id": 87
+		},
+		{
+			"en_modified": 1528,
+			"entityName": "우루과이",
+			"st_modified": 1524,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1524,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "우루과이",
+			"is_target": true,
+			"en": 1528,
+			"id": 88
+		},
+		{
+			"en_modified": 1576,
+			"st_modified": 1564,
+			"coref_index": 772,
+			"entityName": "후안_마누엘_데_로사스",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 1564,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "후안_마누엘_데_로사스",
+			"is_target": true,
+			"en": 1576,
+			"id": 89
+		},
+		{
+			"en_modified": 1590,
+			"entityName": "연방주의자",
+			"st_modified": 1585,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"PoliticalParty"
+			],
+			"eType": "WIKILINK",
+			"st": 1585,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "연방주의자",
+			"is_target": true,
+			"en": 1590,
+			"id": 90
+		}
+	],
+	"globalSID": "2493485,2493486,2493487,2493488,2493489,2493490,2493491,2493492,2493493,2493494,2493495,2493496,2493497,2493498,2493499,2493500,2493501,2493502,2493503,2493504,2493505,2493506,2493507,2493508,2493509,2493510,2493511",
+	"plainText": "아르헨티나의 역사는 콜롬버스 이전기 또는 역사 초기(1516 이전), 식민지 시기(1516_-_1810), 독립전쟁과 후기 식민지 시기(1810_-_1880), 1880년_이후의 현대 역사로 크게 네 가지로 분류할 수 있다. 콜럼버스_이전_시대 아르헨티나에 최초로 인간이 정주한 증거는 파타고니아에서 발견되며 기원전 11000여년으로 거슬러 올라간다. 이 지역에는 국가 없이 인디오들이 부족을 이루며 살고 있었는데, 15세기 초반부터 파차쿠텍_왕이 통치하던 잉카_제국은 1480년에 공격을 시작하여 오늘날의 아르헨티나 북서부를 정복해서 코야수유 지역에 포함시켰다. 과라니족들은 유카, 고구마, 예르바_마테 농업을 발전시켰다. 중부와 남부 지역(팜파스와 파타고니아)는 유목민들이 지배했으며 17세기에 마푸체인들이 통일시켰다. 식민 시대 1516년 이 땅에 유럽인들이 처음으로 들어왔다. 스페인은 1580년 부에노스아이레스에 영구 식민지를식민지를 건설했으며, 1776년 리오데라플라타 부왕령을 설치했다. (이 영향으로 스페인어가 아르헨티나의 공용어로 쓰이고 있고 로마_가톨릭이 주요 종교이다.) 이 지역은 주로 스페인 이민자들과 크리오요라는 그들의 후손과 토착민과 아프리카 노예의 후예들의 나라였다. 식민 시대 정착민 중 1/3은 부에노스_아이레스나 다른 도시에 모여 살았으며, 나머지는 가우초라 하여 \"팜파스\"에서 살았다. 토착민들은 아르헨티나에서 그 밖의 다른 지역에서 살았다. 영국이 1806~1807년에 부에노스_아이레스에 두 번 침공했으나 크리요오들은 그들을 물리쳤다. 독립 1810년_5월_25일 페르디난도_7세가 나폴레옹의 침공으로 쫓겨났단 소문이 사실로 드러나면서 부에노스_아이레스_시민들은 1차_의회(First Government Junta, 5월_혁명)을 조직했다. 현재의 아르헨티나를 이루게 되는 두 나라가 생겼는데, 남아메리카_합주국(1810년)과 자유_연맹(1815년)이었다. 다른 주들은 자치론자와 중앙집권론자들의 견해 차로 통합 국가에 귀속되는데 시간이 걸렸다. 파라과이는 1811년 독립을 선언하며 분리했다. 호세_데_산_마르틴이 1814년에서 1817년 사이에 군사 작전을 지휘하면서 점차 독립은 현실이 되었다. 아르헨티나 사람들은 산 마르틴을 국가 독립 영웅으로 추앙하고 있다. 산 마르틴과 그의 군대는 1817년 안데스를 넘어 칠레와 페루의 왕당파를 무찔러 독립을 공고하게 다졌다. 1816년 7월_9일 투쿠만_의회가 소집되어 스페인에서 공식적으로 독립을 선언했다. 1820년 자유 연맹(Liga Federal)은 남아메리카 통합주 군대와 브라질에서 온 포르투갈 군대의 공격으로 무너졌으며, 이 주는 남아메리카 통합주로 귀속되었다. 1825년 볼리비아가 독립을 선언했고, 1826년에 아르헨티나는 브라질로부터 독립을 시도하는 시스플라티나 주를 적극적으로 지지한 결과 당시 브라질의 속주였던 시스플라티나 주의 독립을 막으려는 브라질과 무력으로 충돌하여 전쟁을 하기에 이르렀다. 이것이 아르헨티나-브라질_전쟁이었다. 1828년에는 아르헨티나-브라질_전쟁이 정전을 맺고 그 결과 시스플라티나 주가 우루과이라는 이름으로 독립했다. 이 정전으로 부에노스 아이레스 주 총독 후안_마누엘_데_로사스가 부상했는데, 연방주의자인 그는 공포 정치를 펴고 불안한 연맹을 계속 유지했다. ",
+	"docID": "644534",
+	"ModifiedText": "아르헨티나의 역사는 콜롬버스 이전기 또는 역사 초기(1516 이전), 식민지 시기(1516 - 1810), 독립전쟁과 후기 식민지 시기(1810 - 1880), 1880년 이후의 현대 역사로 크게 네 가지로 분류할 수 있다. 콜럼버스 이전 시대 아르헨티나에 최초로 인간이 정주한 증거는 파타고니아에서 발견되며 기원전 11000여년으로 거슬러 올라간다. 이 지역에는 국가 없이 인디오들이 부족을 이루며 살고 있었는데, 15세기 초반부터 파차쿠텍 왕이 통치하던 잉카 제국은 1480년에 공격을 시작하여 오늘날의 아르헨티나 북서부를 정복해서 코야수유 지역에 포함시켰다. 과라니족들은 유카, 고구마, 예르바 마테 농업을 발전시켰다. 중부와 남부 지역(팜파스와 파타고니아)는 유목민들이 지배했으며 17세기에 마푸체인들이 통일시켰다. 식민 시대 1516년 이 땅에 유럽인들이 처음으로 들어왔다. 스페인은 1580년 부에노스아이레스에 영구 식민지를식민지를 건설했으며, 1776년 리오데라플라타 부왕령을 설치했다. (이 영향으로 스페인어가 아르헨티나의 공용어로 쓰이고 있고 로마 가톨릭이 주요 종교이다.) 이 지역은 주로 스페인 이민자들과 크리오요라는 그들의 후손과 토착민과 아프리카 노예의 후예들의 나라였다. 식민 시대 정착민 중 1/3은 부에노스 아이레스나 다른 도시에 모여 살았으며, 나머지는 가우초라 하여 \"팜파스\"에서 살았다. 토착민들은 아르헨티나에서 그 밖의 다른 지역에서 살았다. 영국이 1806~1807년에 부에노스 아이레스에 두 번 침공했으나 크리요오들은 그들을 물리쳤다. 독립 1810년 5월 25일 페르디난도 7세가 나폴레옹의 침공으로 쫓겨났단 소문이 사실로 드러나면서 부에노스 아이레스 시민들은 1차 의회(First Government Junta, 5월 혁명)을 조직했다. 현재의 아르헨티나를 이루게 되는 두 나라가 생겼는데, 남아메리카 합주국(1810년)과 자유 연맹(1815년)이었다. 다른 주들은 자치론자와 중앙집권론자들의 견해 차로 통합 국가에 귀속되는데 시간이 걸렸다. 파라과이는 1811년 독립을 선언하며 분리했다. 호세 데 산 마르틴이 1814년에서 1817년 사이에 군사 작전을 지휘하면서 점차 독립은 현실이 되었다. 아르헨티나 사람들은 산 마르틴을 국가 독립 영웅으로 추앙하고 있다. 산 마르틴과 그의 군대는 1817년 안데스를 넘어 칠레와 페루의 왕당파를 무찔러 독립을 공고하게 다졌다. 1816년 7월 9일 투쿠만 의회가 소집되어 스페인에서 공식적으로 독립을 선언했다. 1820년 자유 연맹(Liga Federal)은 남아메리카 통합주 군대와 브라질에서 온 포르투갈 군대의 공격으로 무너졌으며, 이 주는 남아메리카 통합주로 귀속되었다. 1825년 볼리비아가 독립을 선언했고, 1826년에 아르헨티나는 브라질로부터 독립을 시도하는 시스플라티나 주를 적극적으로 지지한 결과 당시 브라질의 속주였던 시스플라티나 주의 독립을 막으려는 브라질과 무력으로 충돌하여 전쟁을 하기에 이르렀다. 이것이 아르헨티나-브라질 전쟁이었다. 1828년에는 아르헨티나-브라질 전쟁이 정전을 맺고 그 결과 시스플라티나 주가 우루과이라는 이름으로 독립했다. 이 정전으로 부에노스 아이레스 주 총독 후안 마누엘 데 로사스가 부상했는데, 연방주의자인 그는 공포 정치를 펴고 불안한 연맹을 계속 유지했다. "
+}

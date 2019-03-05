@@ -1,0 +1,276 @@
+{
+	"docID": "326248",
+	"globalSID": "1729434,1729435,1729436,1729437,1729438",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 16,
+			"ancestor": "",
+			"surface": "1557년",
+			"entityName": "1557년"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "센고쿠_시대",
+			"entityName": "센고쿠_시대"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "아즈치모모야마_시대",
+			"entityName": "아즈치모모야마_시대"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "무장",
+			"entityName": "무장"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 70,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "이요_국",
+			"entityName": "이요_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "무라카미_수군",
+			"entityName": "무라카미_수군"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 141,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 150,
+			"ancestor": "-1",
+			"coref_index": 448,
+			"surface": "구루시마_미치후사",
+			"entityName": "구루시마_미치후사"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 209,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 218,
+			"ancestor": "-1",
+			"surface": "무라카미_가게치카",
+			"entityName": "무라카미_가게치카"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 8,
+			"ancestor": "-1",
+			"coref_index": 447,
+			"surface": "도쿠이_미치유키",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 33,
+			"ancestor": "",
+			"coref_index": 456,
+			"surface": "1592년_음력_6월_2일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 98,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "이요_무라카미_씨",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 128,
+			"ancestor": "-1",
+			"coref_index": 449,
+			"surface": "당주_무라카미_미치야스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 136,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 138,
+			"ancestor": "-1",
+			"surface": "차남",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 159,
+			"ancestor": "-1",
+			"surface": "형",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 169,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 173,
+			"ancestor": "1-8",
+			"coref_index": 447,
+			"surface": "미치유키",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 183,
+			"ancestor": "1-8",
+			"coref_index": 447,
+			"surface": "미치히사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 189,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 193,
+			"ancestor": "1-8",
+			"coref_index": 447,
+			"surface": "미치토시",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 203,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 205,
+			"ancestor": "-1",
+			"surface": "사촌",
+			"entityName": ""
+		}
+	],
+	"plainText": "도쿠이_미치유키(, 1557년 ~ 1592년_음력_6월_2일)는 센고쿠_시대에서 아즈치모모야마_시대에 걸쳐 활약한 무장이다. 이요_국 출신. 무라카미_수군(村上水軍)의 일족인 이요_무라카미_씨(伊予村上氏)의 당주_무라카미_미치야스(村上通康)의 차남이자 구루시마_미치후사(?島通?)의 형이다. 별명으로는 미치유키(通之), 미치히사(通久), 미치토시(通年)가 있다. 사촌으로는 무라카미_가게치카(村上景親)가 있다."
+}

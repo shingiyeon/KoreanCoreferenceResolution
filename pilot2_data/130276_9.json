@@ -1,0 +1,66 @@
+{
+	"docID": "130276",
+	"globalSID": "942274,942275",
+	"pronouns": [],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "조치원",
+			"entityName": "조치원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 15,
+			"ancestor": "",
+			"surface": "1909년_5월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 48,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 50,
+			"ancestor": "5-3",
+			"coref_index": 150,
+			"surface": "대전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 95,
+			"ancestor": "",
+			"surface": "1910년_7월",
+			"entityName": ""
+		}
+	],
+	"plainText": "경부선 분기 1909년_5월 호남선철도 기성회가 조직되었을 때, 호남선 분기점을 두고 대전과 조치원 양쪽 지방 사이에 다툼이 벌어졌으나, 대전으로 결정되어 1910년_7월 호남선 철도 기공식을 가졌다."
+}

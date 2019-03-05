@@ -1,0 +1,84 @@
+{
+	"docID": "120246",
+	"globalSID": "878290",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 101,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-1",
+			"surface": "그"
+		},
+		{
+			"st": 46,
+			"coref_index": 109,
+			"id": 1,
+			"en": 56,
+			"ancestor": "3-0",
+			"surface": "그의_서자_아르눌프"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "신성_로마_제국의_황제",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 56,
+			"ancestor": "3-0",
+			"coref_index": 109,
+			"surface": "그의_서자_아르눌프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "동프랑크_왕국의_왕위",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 79,
+			"ancestor": "2-3",
+			"coref_index": 110,
+			"surface": "신성_로마_제국",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 신성_로마_제국의_황제로 공인받는데도 실패했고, 적자를 얻는데도 실패하였지만 그의_서자_아르눌프는 동프랑크_왕국의_왕위와 신성_로마_제국의 제관을 수여받는다."
+}

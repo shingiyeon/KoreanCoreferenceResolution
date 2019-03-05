@@ -1,0 +1,267 @@
+{
+	"docID": "123526",
+	"globalSID": "900621,900622,900623,900624,900625,900626",
+	"pronouns": [
+		{
+			"en": 181,
+			"ancestor": "-1",
+			"surface": "여러 방면에서",
+			"id": 0,
+			"st": 174
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "1-4",
+			"coref_index": 126,
+			"surface": "헤이조쿄",
+			"entityName": "헤이조쿄"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "1-4",
+			"coref_index": 126,
+			"surface": "헤이조쿄",
+			"entityName": "헤이조쿄"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "장안",
+			"entityName": "장안"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "1-4",
+			"coref_index": 126,
+			"surface": "헤이조쿄",
+			"entityName": "헤이조쿄"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 109,
+			"ancestor": "-1",
+			"coref_index": 127,
+			"surface": "후지와라노_후히토",
+			"entityName": "후지와라노_후히토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "다이호_율령",
+			"entityName": "다이호_율령"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 161,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 164,
+			"ancestor": "-1",
+			"surface": "일본국",
+			"entityName": "일본"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 203,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 207,
+			"ancestor": "-1",
+			"surface": "율령국가",
+			"entityName": "율령국가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 215,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 219,
+			"ancestor": "-1",
+			"surface": "전제국가",
+			"entityName": "전제국가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 221,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 227,
+			"ancestor": "-1",
+			"surface": "중앙집권국가",
+			"entityName": "중앙집권국가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 251,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 253,
+			"ancestor": "-1",
+			"surface": "호적",
+			"entityName": "호적"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 255,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 257,
+			"ancestor": "-1",
+			"surface": "계장",
+			"entityName": "계장"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 274,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 277,
+			"ancestor": "-1",
+			"surface": "조용조",
+			"entityName": "조용조"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 311,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 320,
+			"ancestor": "2-4",
+			"coref_index": 127,
+			"surface": "후지와라노_후히토",
+			"entityName": "후지와라노_후히토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 337,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 341,
+			"ancestor": "-1",
+			"surface": "10세기",
+			"entityName": "10세기"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 279,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 281,
+			"ancestor": "-1",
+			"surface": "군역",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 16,
+			"ne_type": "TIME",
+			"en": 4,
+			"ancestor": "",
+			"surface": "710년",
+			"entityName": ""
+		}
+	],
+	"plainText": "710년에 수도를 나라의 헤이조쿄로 천도하였다. 헤이조쿄는 중국의 수도 장안을 모방하여 만들어진 도시로, 공무원이 주민의 대부분을 차지하는 정치도시였다. 헤이조쿄로 천도하는 데는 후지와라노_후히토가 중요한 역할을 수행하였다. 헤이죠코 천도에 앞서 선정되고 시행된 다이호_율령(大?律令)이 일본국내의 실정에 맞게 여러 방면에서 검토하고 수정하여 시행착오를 거치면서 율령국가, 천황중심의 전제국가, 중앙집권국가를 지향하던 시대였다. 율령국가라는 성격은 호적과 계장(計帳)으로 인민을 파악하고, 조용조와 군역을 부과했다는 점에서 드러난다. 다이호 율령은 이후에 후지와라노_후히토 등에 의해 누차 손질되어오며 10세기까지 일본에서 최고 법전의 지위를 유지한다."
+}

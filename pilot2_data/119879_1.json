@@ -1,0 +1,204 @@
+{
+	"docID": "119879",
+	"globalSID": "876702,876703",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "브라질",
+			"entityName": "브라질"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 51,
+			"ancestor": "-1",
+			"surface": "안드라디나",
+			"entityName": "안드라디나"
+		},
+		{
+			"kbox_types": [
+				"Activity",
+				"Sport"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "축구",
+			"entityName": "축구"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 65,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 70,
+			"ancestor": "",
+			"surface": "2005년",
+			"entityName": "2005년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 78,
+			"ancestor": "",
+			"surface": "2007년",
+			"entityName": "2007년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 85,
+			"ancestor": "-1",
+			"coref_index": 95,
+			"surface": "K-리그",
+			"entityName": "K-리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 87,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 94,
+			"ancestor": "-1",
+			"coref_index": 97,
+			"surface": "부산_아이파크",
+			"entityName": "부산_아이파크"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 101,
+			"ancestor": "-1",
+			"coref_index": 98,
+			"surface": "경남_FC",
+			"entityName": "경남_FC"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 112,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 115,
+			"ancestor": "1-5",
+			"coref_index": 95,
+			"surface": "K리그",
+			"entityName": "K리그"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 28,
+			"ancestor": "",
+			"surface": "1978년_9월_1일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 129,
+			"ancestor": "1-11",
+			"coref_index": 96,
+			"surface": "뽀뽀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"coref_index": 96,
+			"surface": "아디우송_페헤이라_지_소자",
+			"entityName": ""
+		}
+	],
+	"plainText": "아디우송_페헤이라_지_소자(, 1978년_9월_1일 ~ )는 포푸로 불리는 브라질 안드라디나 출신의 축구 선수이다. 2005년부터 2007년까지 K-리그의 부산_아이파크, 경남_FC에서 활약하였으며, K리그에서 활동할 당시에는 뽀뽀라는 이름으로 활약하였다."
+}

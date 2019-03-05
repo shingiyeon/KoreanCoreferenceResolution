@@ -1,0 +1,27 @@
+{
+	"docID": "336444",
+	"globalSID": "1762481",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 6,
+			"ancestor": "-1",
+			"coref_index": 460,
+			"surface": "두산_베어스",
+			"entityName": "두산_베어스"
+		}
+	],
+	"plainText": "두산_베어스 시절"
+}

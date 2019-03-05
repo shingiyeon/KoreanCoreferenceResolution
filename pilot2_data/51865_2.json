@@ -1,0 +1,231 @@
+{
+	"docID": "51865",
+	"globalSID": "481703,481704,481705,481706,481707",
+	"pronouns": [
+		{
+			"st": 98,
+			"coref_index": 656,
+			"id": 0,
+			"en": 102,
+			"ancestor": "2-0",
+			"surface": "이 지방"
+		},
+		{
+			"en": 112,
+			"ancestor": "-1",
+			"surface": "이 지방의 주요 농업으로는",
+			"id": 1,
+			"st": 98
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "1-0",
+			"coref_index": 656,
+			"surface": "포메라니아",
+			"entityName": "포메라니아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"coref_index": 661,
+			"surface": "북유럽_평원",
+			"entityName": "북유럽_평원"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 26,
+			"ancestor": "1-6",
+			"coref_index": 657,
+			"surface": "슈체친",
+			"entityName": "슈체친"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "트로이미아스토",
+			"entityName": "트로이미아스토"
+		},
+		{
+			"kbox_types": [
+				"Plant",
+				"Eukaryote",
+				"Species"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "곡물",
+			"entityName": "곡물"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 134,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 137,
+			"ancestor": "-1",
+			"surface": "사탕무",
+			"entityName": "사탕무"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 139,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 141,
+			"ancestor": "-1",
+			"surface": "감자",
+			"entityName": "감자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 163,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 165,
+			"ancestor": "-1",
+			"surface": "관광",
+			"entityName": "관광"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 167,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 172,
+			"ancestor": "2-0",
+			"coref_index": 656,
+			"surface": "포메라니아",
+			"entityName": "포메라니아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 80,
+			"ancestor": "-1",
+			"surface": "호수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 83,
+			"ancestor": "-1",
+			"surface": "숲",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 85,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "마을",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 152,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 158,
+			"ancestor": "-1",
+			"surface": "19세기_말",
+			"entityName": ""
+		}
+	],
+	"plainText": "포메라니아는 북유럽_평원 저지에 속한다. 슈체친과 트로이미아스토 등 소수의 중심 도시 바깥으로는 척박한 토지는 주로 농지로 쓰이며, 수많은 호수, 숲, 마을이 산재하고 있다. 이 지방의 주요 농업으로는 목축, 임업, 수산업, 그리고 곡물과 사탕무, 감자 재배 등이 있다. 19세기_말 이래로 관광은 포메라니아, 특히 해안을 따라 난 유흥지에서 중요한 수입원이 되었다. 그나마 있는 산업 지역에서 가장 중요한 생산품으로는 선박, 금속 제품, 설탕 정제, 제지를 들 수 있다."
+}

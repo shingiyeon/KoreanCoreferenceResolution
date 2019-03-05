@@ -1,0 +1,1348 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"st": 9,
+			"eType": "ELU",
+			"entityName": "강원_FC",
+			"en": 18,
+			"is_target": true,
+			"surface": "강원도민프로축구단",
+			"coref_index": 380,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 22,
+			"eType": "WIKILINK",
+			"entityName": "강원도_(남)",
+			"en": 25,
+			"is_target": true,
+			"surface": "강원도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 2,
+			"ne_type": "TIME",
+			"st": 54,
+			"eType": "WIKILINK",
+			"entityName": "2008년",
+			"en": 59,
+			"is_target": false,
+			"surface": "2008년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 68,
+			"eType": "WIKILINK",
+			"entityName": "K리그_2009",
+			"en": 75,
+			"is_target": true,
+			"surface": "2009_시즌",
+			"coref_index": 378,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 76,
+			"eType": "WIKILINK",
+			"entityName": "K리그",
+			"en": 79,
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 376,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 38,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 50,
+			"is_target": true,
+			"surface": "대한민국의_프로_축구단",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 98,
+			"eType": "NEW",
+			"en": 100,
+			"entityName": "",
+			"is_target": true,
+			"surface": "역사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 117,
+			"eType": "WIKILINK",
+			"en": 120,
+			"entityName": "김진선_(1946년)",
+			"is_target": true,
+			"surface": "김진선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"st": 128,
+			"eType": "WIKILINK",
+			"en": 131,
+			"entityName": "K리그",
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 376,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"st": 231,
+			"eType": "WIKILINK",
+			"en": 244,
+			"entityName": "울산_현대미포조선_돌고래_축구단",
+			"is_target": true,
+			"surface": "울산_현대미포조선_돌고래",
+			"coref_index": 377,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 246,
+			"eType": "WIKILINK",
+			"en": 249,
+			"entityName": "최순호",
+			"is_target": true,
+			"surface": "최순호",
+			"coref_index": 379,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 297,
+			"eType": "WIKILINK",
+			"en": 310,
+			"entityName": "울산_현대미포조선_돌고래_축구단",
+			"is_target": true,
+			"surface": "울산_현대미포조선_돌고래",
+			"coref_index": 377,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 344,
+			"eType": "WIKILINK",
+			"en": 347,
+			"entityName": "11월",
+			"is_target": false,
+			"surface": "11월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "TIME",
+			"st": 104,
+			"eType": "NEW",
+			"en": 116,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2008년_4월_28일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 121,
+			"eType": "NEW",
+			"en": 126,
+			"entityName": "",
+			"is_target": true,
+			"surface": "강원도지사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 157,
+			"eType": "NEW",
+			"en": 169,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2008년_6월_18일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 203,
+			"eType": "NEW",
+			"en": 213,
+			"entityName": "",
+			"is_target": true,
+			"surface": "프로축구연맹_이사회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "TIME",
+			"st": 190,
+			"eType": "NEW",
+			"en": 202,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2008년_11월_5일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "TIME",
+			"st": 273,
+			"eType": "NEW",
+			"en": 286,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2008년_11월_17일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "TIME",
+			"st": 402,
+			"eType": "NEW",
+			"en": 415,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2008년_12월_18일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 440,
+			"eType": "WIKILINK",
+			"entityName": "K리그_2009",
+			"en": 447,
+			"is_target": true,
+			"surface": "2009_시즌",
+			"coref_index": 378,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 21,
+			"ne_type": "ORGANIZATION",
+			"st": 544,
+			"eType": "WIKILINK",
+			"entityName": "가와사키_프론탈레",
+			"en": 553,
+			"is_target": true,
+			"surface": "가와사키_프론탈레",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 556,
+			"eType": "WIKILINK",
+			"entityName": "오하시_마사히로",
+			"en": 564,
+			"is_target": true,
+			"surface": "오하시_마사히로",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 23,
+			"ne_type": "LOCATION",
+			"st": 581,
+			"eType": "WIKILINK",
+			"entityName": "브라질",
+			"en": 584,
+			"is_target": true,
+			"surface": "브라질",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 587,
+			"eType": "WIKILINK",
+			"entityName": "에를리송_카이옹_지_소자_페헤이라",
+			"en": 590,
+			"is_target": true,
+			"surface": "까이용",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 25,
+			"ne_type": "TIME",
+			"st": 599,
+			"eType": "WIKILINK",
+			"entityName": "2009년",
+			"en": 604,
+			"is_target": false,
+			"surface": "2009년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "TIME",
+			"st": 605,
+			"eType": "WIKILINK",
+			"entityName": "3월_8일",
+			"en": 610,
+			"is_target": false,
+			"surface": "3월_8일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 621,
+			"eType": "WIKILINK",
+			"entityName": "K리그",
+			"en": 624,
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 376,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 28,
+			"ne_type": "ORGANIZATION",
+			"st": 632,
+			"eType": "WIKILINK",
+			"entityName": "제주_유나이티드_FC",
+			"en": 640,
+			"is_target": true,
+			"surface": "제주_유나이티드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 655,
+			"eType": "ELU",
+			"entityName": "역사",
+			"en": 658,
+			"is_target": true,
+			"surface": "역사적",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"st": 683,
+			"eType": "WIKILINK",
+			"entityName": "FC_서울",
+			"en": 688,
+			"is_target": true,
+			"surface": "FC_서울",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 31,
+			"ne_type": "PERSON",
+			"st": 838,
+			"eType": "WIKILINK",
+			"entityName": "최순호",
+			"en": 841,
+			"is_target": true,
+			"surface": "최순호",
+			"coref_index": 379,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 869,
+			"eType": "WIKILINK",
+			"entityName": "내셔널리그_(대한민국)",
+			"en": 875,
+			"is_target": true,
+			"surface": "내셔널_리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 33,
+			"ne_type": "PERSON",
+			"st": 892,
+			"eType": "WIKILINK",
+			"entityName": "김영후",
+			"en": 895,
+			"is_target": true,
+			"surface": "김영후",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 917,
+			"eType": "WIKILINK",
+			"entityName": "K리그_신인상",
+			"en": 920,
+			"is_target": true,
+			"surface": "신인상",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 929,
+			"eType": "WIKILINK",
+			"entityName": "2010년_FIFA_월드컵",
+			"en": 936,
+			"is_target": true,
+			"surface": "남아공_월드컵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"FootballMatch",
+				"SoccerClub",
+				"Agent",
+				"Event",
+				"SocietalEvent",
+				"SportsTeam",
+				"Organisation",
+				"SportsEvent"
+			],
+			"id": 36,
+			"ne_type": "ORGANIZATION",
+			"st": 942,
+			"eType": "WIKILINK",
+			"entityName": "대한민국_축구_국가대표팀",
+			"en": 946,
+			"is_target": true,
+			"surface": "국가대표",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 976,
+			"eType": "WIKILINK",
+			"en": 983,
+			"entityName": "K리그_2010",
+			"is_target": true,
+			"surface": "2010_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 1065,
+			"eType": "WIKILINK",
+			"en": 1068,
+			"entityName": "헤나투_메데이루스",
+			"is_target": true,
+			"surface": "헤나토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 39,
+			"ne_type": "PERSON",
+			"st": 1070,
+			"eType": "WIKILINK",
+			"en": 1078,
+			"entityName": "바제_일리요스키",
+			"is_target": true,
+			"surface": "바제_일리요스키",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 1145,
+			"eType": "WIKILINK",
+			"en": 1148,
+			"entityName": "FA컵_2010",
+			"is_target": true,
+			"surface": "FA컵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 1164,
+			"eType": "WIKILINK",
+			"en": 1174,
+			"entityName": "대전_한국수력원자력_축구단",
+			"is_target": true,
+			"surface": "대전_한국수력원자력",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 1184,
+			"eType": "WIKILINK",
+			"en": 1187,
+			"entityName": "리그컵_2010",
+			"is_target": true,
+			"surface": "리그컵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 984,
+			"eType": "NEW",
+			"en": 986,
+			"entityName": "",
+			"is_target": true,
+			"surface": "강원",
+			"coref_index": 380,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "EVENT",
+			"st": 999,
+			"eType": "NEW",
+			"en": 1004,
+			"entityName": "",
+			"is_target": true,
+			"surface": "10라운드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 1221,
+			"eType": "WIKILINK",
+			"entityName": "K리그_2011",
+			"en": 1228,
+			"is_target": true,
+			"surface": "2011_시즌",
+			"coref_index": 385,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 46,
+			"ne_type": "ORGANIZATION",
+			"st": 1368,
+			"eType": "WIKILINK",
+			"entityName": "포항_스틸러스",
+			"en": 1375,
+			"is_target": true,
+			"surface": "포항_스틸러스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 47,
+			"ne_type": "ORGANIZATION",
+			"st": 1456,
+			"eType": "WIKILINK",
+			"entityName": "광주_FC",
+			"en": 1458,
+			"is_target": true,
+			"surface": "광주",
+			"coref_index": 384,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 48,
+			"ne_type": "ORGANIZATION",
+			"st": 1489,
+			"eType": "WIKILINK",
+			"entityName": "부산_아이파크",
+			"en": 1496,
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "LOCATION",
+			"st": 1218,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1220,
+			"is_target": true,
+			"surface": "강원",
+			"coref_index": 380,
+			"ancestor": "1-43"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "PERSON",
+			"st": 1260,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1266,
+			"is_target": true,
+			"surface": "최순호_감독",
+			"coref_index": 379,
+			"ancestor": "1-31"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 1280,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1289,
+			"is_target": true,
+			"surface": "김상호_수석_코치",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "EVENT",
+			"st": 1344,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1353,
+			"is_target": true,
+			"surface": "인천_유나이티드전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "EVENT",
+			"st": 1443,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1453,
+			"is_target": true,
+			"surface": "리그_컵_조별_리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "TIME",
+			"st": 1608,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1613,
+			"is_target": false,
+			"surface": "2009년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 2160,
+			"eType": "WIKILINK",
+			"entityName": "승강제",
+			"en": 2163,
+			"is_target": true,
+			"surface": "승강제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"FootballMatch",
+				"SportsTeamSeason",
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 2170,
+			"eType": "WIKILINK",
+			"entityName": "K리그_클래식_2013",
+			"en": 2177,
+			"is_target": true,
+			"surface": "2013_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 57,
+			"ne_type": "PERSON",
+			"st": 2183,
+			"eType": "WIKILINK",
+			"entityName": "박호진",
+			"en": 2186,
+			"is_target": true,
+			"surface": "박호진",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 2188,
+			"eType": "WIKILINK",
+			"entityName": "박민",
+			"en": 2190,
+			"is_target": true,
+			"surface": "박민",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 59,
+			"ne_type": "PERSON",
+			"st": 2192,
+			"eType": "WIKILINK",
+			"entityName": "웨즐레이_바르보자_지_모라이스",
+			"en": 2195,
+			"is_target": true,
+			"surface": "웨슬리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "TIME",
+			"st": 2244,
+			"eType": "WIKILINK",
+			"entityName": "5월_12일",
+			"en": 2250,
+			"is_target": false,
+			"surface": "5월_12일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 61,
+			"ne_type": "ORGANIZATION",
+			"st": 2251,
+			"eType": "WIKILINK",
+			"entityName": "성남_FC",
+			"en": 2253,
+			"is_target": true,
+			"surface": "성남",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 2305,
+			"eType": "WIKILINK",
+			"entityName": "사퇴",
+			"en": 2307,
+			"is_target": true,
+			"surface": "사퇴",
+			"coref_index": 382,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 63,
+			"ne_type": "PERSON",
+			"st": 2324,
+			"eType": "WIKILINK",
+			"entityName": "김용갑_(축구인)",
+			"en": 2327,
+			"is_target": true,
+			"surface": "김용갑",
+			"coref_index": 381,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"FootballMatch",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 2376,
+			"eType": "WIKILINK",
+			"entityName": "K리그_승강_플레이오프_2013",
+			"en": 2384,
+			"is_target": true,
+			"surface": "승강_플레이오프",
+			"coref_index": 386,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 65,
+			"ne_type": "PERSON",
+			"st": 2418,
+			"eType": "WIKILINK",
+			"entityName": "김용갑_(축구인)",
+			"en": 2421,
+			"is_target": true,
+			"surface": "김용갑",
+			"coref_index": 381,
+			"ancestor": "1-63"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 2426,
+			"eType": "WIKILINK",
+			"entityName": "사퇴",
+			"en": 2428,
+			"is_target": true,
+			"surface": "사퇴",
+			"coref_index": 382,
+			"ancestor": "1-62"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 67,
+			"ne_type": "PERSON",
+			"st": 2442,
+			"eType": "WIKILINK",
+			"entityName": "아르투르_베르나르지스",
+			"en": 2453,
+			"is_target": true,
+			"surface": "아르투르_베르나르지스",
+			"coref_index": 383,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "ORGANIZATION",
+			"st": 2223,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2225,
+			"is_target": true,
+			"surface": "강원",
+			"coref_index": 380,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "PERSON",
+			"st": 2297,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2300,
+			"is_target": true,
+			"surface": "김학범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 70,
+			"ne_type": "PERSON",
+			"st": 2481,
+			"eType": "WIKILINK",
+			"entityName": "아르투르_베르나르지스",
+			"en": 2485,
+			"is_target": true,
+			"surface": "아르투르",
+			"coref_index": 383,
+			"ancestor": "1-67"
+		},
+		{
+			"kbox_types": [
+				"FootballMatch",
+				"SportsTeamSeason",
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 71,
+			"ne_type": "ETC",
+			"st": 2501,
+			"eType": "WIKILINK",
+			"entityName": "K리그_챌린지_2014",
+			"en": 2508,
+			"is_target": true,
+			"surface": "2014_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 72,
+			"ne_type": "ORGANIZATION",
+			"st": 2514,
+			"eType": "WIKILINK",
+			"entityName": "안산_경찰청_축구단",
+			"en": 2516,
+			"is_target": true,
+			"surface": "안산",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 73,
+			"ne_type": "PERSON",
+			"st": 2658,
+			"eType": "WIKILINK",
+			"entityName": "아르투르_베르나르지스",
+			"en": 2662,
+			"is_target": true,
+			"surface": "아르투르",
+			"coref_index": 383,
+			"ancestor": "1-70"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 74,
+			"ne_type": "PERSON",
+			"st": 2677,
+			"eType": "WIKILINK",
+			"entityName": "박효진_(축구인)",
+			"en": 2680,
+			"is_target": true,
+			"surface": "박효진",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 75,
+			"ne_type": "ORGANIZATION",
+			"st": 2731,
+			"eType": "WIKILINK",
+			"entityName": "광주_FC",
+			"en": 2736,
+			"is_target": true,
+			"surface": "광주_FC",
+			"coref_index": 384,
+			"ancestor": "1-47"
+		}
+	],
+	"globalSID": "1525484,1525485,1525486,1525487,1525488,1525489,1525490,1525491,1525492,1525493,1525494,1525495,1525496,1525497,1525498,1525499,1525500,1525501,1525502,1525503,1525504,1525505,1525506,1525507,1525508,1525509,1525510,1525511,1525512,1525513,1525514,1525515,1525516,1525517,1525518,1525519,1525520,1525521,1525522,1525523,1525524,1525525,1525526,1525527,1525528,1525529",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 1027,
+			"ancestor": "-1",
+			"st": 1024,
+			"surface": "그보다"
+		},
+		{
+			"id": 1,
+			"en": 1036,
+			"ancestor": "-1",
+			"st": 1024,
+			"surface": "그보다 더 높은 순위로"
+		},
+		{
+			"id": 2,
+			"en": 1135,
+			"ancestor": "-1",
+			"st": 1131,
+			"surface": "한 단계"
+		},
+		{
+			"id": 3,
+			"en": 1419,
+			"ancestor": "-1",
+			"st": 1415,
+			"surface": "이때까지"
+		},
+		{
+			"id": 4,
+			"en": 1426,
+			"ancestor": "-1",
+			"st": 1420,
+			"surface": "모든 대회를"
+		},
+		{
+			"id": 5,
+			"ancestor": "1-45",
+			"st": 1605,
+			"en": 1606,
+			"surface": "이",
+			"coref_index": 385
+		},
+		{
+			"id": 6,
+			"en": 1804,
+			"surface": "이 과정",
+			"st": 1800,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 2001,
+			"surface": "현 강릉중앙고등학교)출신으로",
+			"st": 1986,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 2269,
+			"surface": "그 후,",
+			"st": 2265,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"ancestor": "1-64",
+			"st": 2413,
+			"en": 2414,
+			"surface": "그",
+			"coref_index": 386
+		},
+		{
+			"id": 10,
+			"en": 2531,
+			"surface": "개막전 안산에 3-0 대패를 당한 것을",
+			"st": 2510,
+			"ancestor": "-1"
+		},
+		{
+			"id": 11,
+			"en": 2536,
+			"surface": "개막전 안산에 3-0 대패를 당한 것을 시작으로",
+			"st": 2510,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "강원 FC(, \"강원도민프로축구단\")는 강원도를 광역 연고지로 하는 대한민국의_프로_축구단이다. 2008년 창단된 강원은 2009_시즌 K리그의 15번째 구단으로 참가하였다. 역사 창단 2008년_4월_28일 김진선 강원도지사가 K리그의 15번째 구단으로 축구단 창단을 발표했다. 2008년_6월_18일 축구단 창단준비위원회가 발족하였다. 2008년_11월_5일 프로축구연맹_이사회에서 강원의 창단을 승인하였다. 울산_현대미포조선_돌고래의 최순호 감독이 강원의 초대 감독으로 선임되었다. 2008년_11월_17일에 우선지명을 통해 울산_현대미포조선_돌고래 출신의 선수 네 명을 비롯하여 14명의 선수를 선발하였고, 11월에 실시된 2009 K리그 드래프트를 통해 9명의 선수를 더 선발하여 23명의 선수를 선발하였다. 2008년_12월_18일 창단식을 거행하고 공식 출범하였다. 초창기 2009_시즌 시작되기 전에 10명의 선수를 더 선발하여 33명의 선수단을 구성하였다. 또한 창단 첫 해에는 외국인 선수 없이 한국인 선수단으로만 진행할 계획이었으나 아시아쿼터제로 일본 가와사키_프론탈레에서 오하시_마사히로를 영입하였고, 이후 4월에는 브라질에서 까이용을 영입하였다. 2009년 3월_8일 강릉 홈에서 열린 K리그 첫 경기에서 제주_유나이티드에게 1-0 으로 승리하여 역사적인 첫 승리를 기록하였고, 두 번째 경기에서 FC_서울과의 원정경기에서 2-1 역전승을 거두면서 돌풍의 주역으로 떠올랐다. 이후 공격 축구를 펼쳐 42득점을 기록해 그해 K리그에서 네 번째로 많은 득점을 올렸으나 반대로 가장 많은 실점을 거두었고, 첫 시즌을 13위로 마감하였다. 낮은 순위를 기록했음에도 불구하고 팬들은 최순호 감독의 화끈한 공격 축구에 매료되기에 충분했다. 내셔널_리그에서 최고의 골잡이로 활약했던 김영후는 K리그 공격 포인트 1위를 기록하며 신인상을 차지하였고, 남아공_월드컵을 앞두고 국가대표에 승선시켜야 한다는 의견을 제시하는 사람도 많았다. 2010_시즌 강원은 하위권을 맴돌았다. 10라운드에선 10위까지 올랐으나, 이후로는 그보다 더 높은 순위로 올라갈 수 없었다. 시즌 중반 여름 이적 시장에서 헤나토와 바제_일리요스키를 영입하였으나 눈에 띄는 활약을 보여주지 못하였다. 최종 리그 순위는 12위로 데뷔 시즌보다 한 단계 올랐다. 그러나 FA컵에서는 첫 경기인 16강에서 대전_한국수력원자력에게 패배하였고, 리그컵에서도 조별 리그에서 4전 전패로 탈락하였다. 흔들리는 강원 2011_시즌의 출발은 굉장이 좋지 않았다. 4라운드까지 전패한 이후 최순호_감독이 자진 사퇴했다. 이후 김상호_수석_코치가 새로운 감독으로 부임하였으나, 무려 7라운드까지 승점 1점을 쌓지 못했고, 첫 득점도 7라운드 인천_유나이티드전에서 터졌다. 8라운드에서 포항_스틸러스와 비기며 1점을 챙겼지만 무려 12라운드까지 1승조차 거두지 못했다. 이때까지 모든 대회를 통틀어 강원이 승리한 경기는 리그_컵_조별_리그에서 광주에게 5-0으로 거둔 대승이었다. 마침내 13라운드에서 부산_아이파크에게 1-0 승리를 거두며 리그 첫 승리를 기록했는데, 무려 216일 만의 승리였다. 이후에 강원은 두 경기에서 승리를 거두었고, 시즌 총 3승을 거두었다. 30경기에서 득점은 14골에 그쳤다. 이는 2009년 첫 시즌 이래로 최악의 시즌이었다. 승강제가 실시되는 2012 시즌을 앞두고 배효성, 김명중, 김은중 등 공수에 걸쳐 전력을 보강하여 새 시즌에 임한 강원은 2라운드에 6위까지 기록하는 등 초반 선전하는 모습을 보였으나 시즌이 진행될수록 부진한 모습을 보였고 18라운드가 지난 후에는 김상호 감독이 코칭 스태프들과 함께 사퇴하였다. 이 과정에서 남종현 대표이사가 선수들 앞에서 잔여 연봉을 포기하고 사퇴하겠다는 내용을 담은 사퇴서를 선수들이 보는 앞에서 쓰게 했다는 내용이 알려져 찬반여론이 일기도 하였다. 이을용 스카우트와 전환철 스카우트가 코치로 보직을 변경하였고, 국가대표 출신의 이민성과 김태수 강릉시청 GK코치가 새롭게 합류했다.김학범 감독은 “강릉농공고(현 강릉중앙고등학교)출신으로 고향팀에 도움을 주고 싶었는데 어려운 시기에 도움을 줄 기회가 생겨 기쁘다”며 “현재 구성된 코칭스태프들과 및 선수들과 함께 시련을 강인하게 헤쳐 나갈 준비가 돼있다”는 소감을 밝혔다. 이후 2012년 11월 28일 성남에게 1-0 승리를 거두며 1부 리그 잔류를 확정지었다. 강등 승강제가 실시되는 2013_시즌을 앞두고 박호진, 박민, 웨슬리 등 공수에 걸쳐 전력을 보강하여 새 시즌에 임한 강원은 10경기 연속 무승을 기록하다 5월_12일 성남을 2-1로 이겼다. 그 후, 무승과 연패가 이어지며 22라운드가 지난 후에는 김학범 감독이 사퇴하였고, 이후 새로운 감독으로 김용갑 감독이 임명되었다. 그룹 B에서 부임 이후 7승을 하는 등 잔류를 하는 듯 보였지만, 승강_플레이오프 1, 2차전 총합 4 : 2로 패배해 강등되었다. 그 후, 김용갑 감독이 사퇴하였다. 새로운 감독으로 아르투르_베르나르지스 감독이 임명되었다. 2부 리그에서의 첫 시즌이자 아르투르 감독 체제에서의 첫 시즌인 2014_시즌, 개막전 안산에 3-0 대패를 당한 것을 시작으로 8라운드까지는 부진을 면치 못하였다. 하지만 이후 반등을 시작하여 플레이오프 진출권 주변인 3위에서 5위 사이를 넘나들었다. 2014년 9월, 구단은 훈련과 선수단 관리 방식을 두고 선수단과 마찰을 겪은 것을 이유로 아르투르 감독을 경질하고 후임으로 박효진 코치를 감독 대행으로 선임하였다. 이후 최종 순위 3위로 승격 플레이오프에 진출하였으나, 광주_FC에 패하여 승격은 좌절되었다. ",
+	"docID": "269786"
+}

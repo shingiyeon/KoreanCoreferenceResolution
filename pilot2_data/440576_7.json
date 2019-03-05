@@ -1,0 +1,161 @@
+{
+	"docID": "440576",
+	"globalSID": "2043508,2043509,2043510,2043511",
+	"pronouns": [
+		{
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "그 후",
+			"id": 0,
+			"st": 29
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 98,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "MC",
+			"entityName": "MC_(사회자)"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 105,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "사회자",
+			"entityName": "사회자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 9,
+			"ancestor": "",
+			"surface": "1995년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "ABC_뉴스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "3-7",
+			"coref_index": 584,
+			"surface": "특파원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "ABC_월드_뉴스_나우",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "공동_앵커",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 68,
+			"ancestor": "",
+			"surface": "2000년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "The_Mole",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 3,
+			"ancestor": "6-1",
+			"coref_index": 585,
+			"surface": "ABC",
+			"entityName": ""
+		}
+	],
+	"plainText": "ABC 1995년, ABC_뉴스의 특파원이 되었다. 그 후 《ABC_월드_뉴스_나우》의 공동_앵커를 담당하였다. 2000년에는 ABC의 리얼리티 프로그램 《The_Mole》의 MC가 되며 사회자 일도 시작하였다."
+}

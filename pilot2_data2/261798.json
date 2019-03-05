@@ -1,0 +1,993 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 59,
+			"text": "저 이름",
+			"is_pronoun": true,
+			"en_modified": 63,
+			"en": 63,
+			"st_modified": 59
+		},
+		{
+			"st": 59,
+			"text": "저 이름 아래)",
+			"is_pronoun": true,
+			"en_modified": 67,
+			"en": 67,
+			"st_modified": 59
+		},
+		{
+			"st": 183,
+			"text": "전자 공학",
+			"is_pronoun": true,
+			"en_modified": 188,
+			"en": 188,
+			"st_modified": 183
+		},
+		{
+			"st": 183,
+			"text": "전자 공학의 열광자들",
+			"is_pronoun": true,
+			"en_modified": 194,
+			"en": 194,
+			"st_modified": 183
+		},
+		{
+			"st": 356,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 358,
+			"en": 358,
+			"st_modified": 356
+		},
+		{
+			"st": 364,
+			"text": "모든 사람들",
+			"is_pronoun": true,
+			"en_modified": 370,
+			"en": 370,
+			"st_modified": 364
+		},
+		{
+			"st": 408,
+			"text": "여러 사람",
+			"is_pronoun": true,
+			"en_modified": 413,
+			"en": 413,
+			"st_modified": 408
+		},
+		{
+			"st": 408,
+			"text": "여러 사람을 위한 정규적인 공개_포럼",
+			"is_pronoun": true,
+			"en_modified": 428,
+			"en": 428,
+			"st_modified": 408
+		},
+		{
+			"st": 447,
+			"text": "그 첫 번째 모임",
+			"is_pronoun": true,
+			"en_modified": 456,
+			"en": 456,
+			"st_modified": 447
+		},
+		{
+			"st": 585,
+			"text": "그것",
+			"is_pronoun": true,
+			"en_modified": 587,
+			"en": 587,
+			"st_modified": 585
+		},
+		{
+			"st": 731,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 733,
+			"en": 733,
+			"st_modified": 731
+		},
+		{
+			"st": 731,
+			"text": "그들 대부분",
+			"is_pronoun": true,
+			"en_modified": 737,
+			"en": 737,
+			"st_modified": 731
+		},
+		{
+			"st": 739,
+			"text": "전자공학",
+			"is_pronoun": true,
+			"en_modified": 743,
+			"en": 743,
+			"st_modified": 739
+		},
+		{
+			"st": 739,
+			"text": "전자공학",
+			"is_pronoun": true,
+			"en_modified": 743,
+			"en": 743,
+			"st_modified": 739
+		},
+		{
+			"st": 762,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 764,
+			"en": 764,
+			"st_modified": 762
+		},
+		{
+			"st": 831,
+			"text": "이 클럽",
+			"is_pronoun": true,
+			"en_modified": 835,
+			"en": 835,
+			"st_modified": 831
+		},
+		{
+			"st": 831,
+			"text": "이 클럽의 높은 지위",
+			"is_pronoun": true,
+			"en_modified": 842,
+			"en": 842,
+			"st_modified": 831
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 59,
+			"ancestor": "1-6",
+			"surface": "저 이름",
+			"en_modified": 63,
+			"en": 63,
+			"st_modified": 59,
+			"id": 0,
+			"coref_index": 364
+		},
+		{
+			"st": 59,
+			"ancestor": "-1",
+			"surface": "저 이름 아래)",
+			"en_modified": 67,
+			"en": 67,
+			"st_modified": 59,
+			"id": 1
+		},
+		{
+			"st": 183,
+			"ancestor": "-1",
+			"surface": "전자 공학의",
+			"en_modified": 189,
+			"en": 189,
+			"st_modified": 183,
+			"id": 2
+		},
+		{
+			"st": 183,
+			"ancestor": "-1",
+			"surface": "전자 공학의 열광자들과",
+			"en_modified": 195,
+			"en": 195,
+			"st_modified": 183,
+			"id": 3
+		},
+		{
+			"st": 356,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"en_modified": 359,
+			"en": 359,
+			"st_modified": 356,
+			"id": 4
+		},
+		{
+			"st": 364,
+			"ancestor": "-1",
+			"surface": "모든 사람들에게",
+			"en_modified": 372,
+			"en": 372,
+			"st_modified": 364,
+			"id": 5
+		},
+		{
+			"st": 408,
+			"ancestor": "-1",
+			"surface": "여러 사람을",
+			"en_modified": 414,
+			"en": 414,
+			"st_modified": 408,
+			"id": 6
+		},
+		{
+			"st": 408,
+			"ancestor": "-1",
+			"surface": "여러 사람을 위한 정규적인 공개_포럼을",
+			"en_modified": 429,
+			"en": 429,
+			"st_modified": 408,
+			"id": 7
+		},
+		{
+			"st": 447,
+			"ancestor": "-1",
+			"surface": "그 첫 번째 모임",
+			"en_modified": 456,
+			"en": 456,
+			"st_modified": 447,
+			"id": 8
+		},
+		{
+			"st": 585,
+			"ancestor": "1-27",
+			"surface": "그것",
+			"en_modified": 587,
+			"en": 587,
+			"st_modified": 585,
+			"id": 9,
+			"coref_index": 367
+		},
+		{
+			"st": 731,
+			"ancestor": "1-30",
+			"surface": "그들",
+			"en_modified": 733,
+			"en": 733,
+			"st_modified": 731,
+			"id": 10,
+			"coref_index": 368
+		},
+		{
+			"st": 731,
+			"ancestor": "-1",
+			"surface": "그들 대부분은",
+			"en_modified": 738,
+			"en": 738,
+			"st_modified": 731,
+			"id": 11
+		},
+		{
+			"st": 739,
+			"ancestor": "-1",
+			"surface": "전자공학",
+			"en_modified": 743,
+			"en": 743,
+			"st_modified": 739,
+			"id": 12
+		},
+		{
+			"st": 739,
+			"ancestor": "-1",
+			"surface": "전자공학 이나",
+			"en_modified": 746,
+			"en": 746,
+			"st_modified": 739,
+			"id": 13
+		},
+		{
+			"st": 762,
+			"ancestor": "1-30",
+			"surface": "그들",
+			"en_modified": 764,
+			"en": 764,
+			"st_modified": 762,
+			"id": 14,
+			"coref_index": 368
+		},
+		{
+			"st": 831,
+			"ancestor": "1-28",
+			"surface": "이 클럽",
+			"en_modified": 835,
+			"en": 835,
+			"st_modified": 831,
+			"id": 15,
+			"coref_index": 364
+		},
+		{
+			"st": 831,
+			"ancestor": "-1",
+			"surface": "이 클럽의 높은 지위로부터",
+			"en_modified": 845,
+			"en": 845,
+			"st_modified": 831,
+			"id": 16
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 55,
+			"entityName": "1977년",
+			"st_modified": 50,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 50,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1977년",
+			"is_target": false,
+			"en": 55,
+			"id": 0
+		},
+		{
+			"en_modified": 77,
+			"entityName": "실리콘_밸리",
+			"st_modified": 72,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 72,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "실리콘밸리",
+			"is_target": true,
+			"en": 77,
+			"id": 1
+		},
+		{
+			"en_modified": 88,
+			"st_modified": 85,
+			"coref_index": 365,
+			"entityName": "컴퓨터",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 85,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "컴퓨터",
+			"is_target": true,
+			"en": 88,
+			"id": 2
+		},
+		{
+			"en_modified": 104,
+			"entityName": "애플_(기업)",
+			"st_modified": 101,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 101,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "애플사",
+			"is_target": true,
+			"en": 104,
+			"id": 3
+		},
+		{
+			"en_modified": 141,
+			"entityName": "해커",
+			"st_modified": 139,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 139,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "해커",
+			"is_target": true,
+			"en": 141,
+			"id": 4
+		},
+		{
+			"en_modified": 44,
+			"entityName": "",
+			"st_modified": 36,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 36,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1975년_3월",
+			"is_target": false,
+			"en": 44,
+			"id": 5
+		},
+		{
+			"en_modified": 10,
+			"st_modified": 0,
+			"coref_index": 364,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "홈브루_컴퓨터_클럽",
+			"is_target": true,
+			"en": 10,
+			"id": 6
+		},
+		{
+			"en_modified": 150,
+			"entityName": "",
+			"st_modified": 144,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 144,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "IT_기업가",
+			"is_target": true,
+			"en": 150,
+			"id": 7
+		},
+		{
+			"en_modified": 202,
+			"entityName": "전자_회로",
+			"st_modified": 200,
+			"kbox_types": [
+				"Agent"
+			],
+			"eType": "WIKILINK",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "회로",
+			"is_target": true,
+			"en": 202,
+			"id": 8
+		},
+		{
+			"en_modified": 287,
+			"entityName": "사람들의_컴퓨터_회사",
+			"st_modified": 276,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 276,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사람들의_컴퓨터_회사",
+			"is_target": true,
+			"en": 287,
+			"id": 9
+		},
+		{
+			"en_modified": 336,
+			"st_modified": 330,
+			"coref_index": 366,
+			"entityName": "고돈_프렌치",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 330,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "고돈_프렌치",
+			"is_target": true,
+			"en": 336,
+			"id": 10
+		},
+		{
+			"en_modified": 344,
+			"entityName": "프레드_무어",
+			"st_modified": 338,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 338,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프레드_무어",
+			"is_target": true,
+			"en": 344,
+			"id": 11
+		},
+		{
+			"en_modified": 181,
+			"st_modified": 171,
+			"coref_index": 364,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 171,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "홈브루_컴퓨터_클럽",
+			"is_target": true,
+			"en": 181,
+			"id": 12
+		},
+		{
+			"en_modified": 198,
+			"entityName": "",
+			"st_modified": 196,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 196,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "부품",
+			"is_target": true,
+			"en": 198,
+			"id": 13
+		},
+		{
+			"en_modified": 210,
+			"entityName": "",
+			"st_modified": 204,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 204,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "컴퓨터_장치",
+			"is_target": true,
+			"en": 210,
+			"id": 14
+		},
+		{
+			"en_modified": 262,
+			"entityName": "",
+			"st_modified": 257,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 257,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "취미생활자",
+			"is_target": true,
+			"en": 262,
+			"id": 15
+		},
+		{
+			"en_modified": 271,
+			"entityName": "",
+			"st_modified": 265,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 265,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "비공식_그룹",
+			"is_target": true,
+			"en": 271,
+			"id": 16
+		},
+		{
+			"en_modified": 388,
+			"st_modified": 385,
+			"coref_index": 365,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 385,
+			"ancestor": "1-2",
+			"ne_type": "ETC",
+			"surface": "컴퓨터",
+			"is_target": true,
+			"en": 388,
+			"id": 17
+		},
+		{
+			"en_modified": 428,
+			"entityName": "",
+			"st_modified": 423,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 423,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공개_포럼",
+			"is_target": true,
+			"en": 428,
+			"id": 18
+		},
+		{
+			"en_modified": 170,
+			"entityName": "",
+			"st_modified": 168,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 168,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "역사",
+			"is_target": true,
+			"en": 170,
+			"id": 19
+		},
+		{
+			"en_modified": 463,
+			"entityName": "캘리포니아_주",
+			"st_modified": 458,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"eType": "WIKILINK",
+			"st": 458,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "캘리포니아",
+			"is_target": true,
+			"en": 463,
+			"id": 20
+		},
+		{
+			"en_modified": 474,
+			"entityName": "현대_카운티",
+			"st_modified": 471,
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Automobile"
+			],
+			"eType": "ELU",
+			"st": 471,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "카운티",
+			"is_target": true,
+			"en": 474,
+			"id": 21
+		},
+		{
+			"en_modified": 481,
+			"entityName": "멘로파크",
+			"st_modified": 476,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 476,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "멘로_파크",
+			"is_target": true,
+			"en": 481,
+			"id": 22
+		},
+		{
+			"en_modified": 492,
+			"st_modified": 489,
+			"coref_index": 366,
+			"entityName": "프렌치_키스",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 489,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "프렌치",
+			"is_target": true,
+			"en": 492,
+			"id": 23
+		},
+		{
+			"en_modified": 535,
+			"entityName": "스탠퍼드_선형_가속기_센터",
+			"st_modified": 521,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 521,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스탠퍼드_선형_가속기_센터",
+			"is_target": true,
+			"en": 535,
+			"id": 24
+		},
+		{
+			"en_modified": 507,
+			"entityName": "",
+			"st_modified": 499,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 499,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1975년_3월",
+			"is_target": false,
+			"en": 507,
+			"id": 25
+		},
+		{
+			"en_modified": 552,
+			"entityName": "1999년",
+			"st_modified": 547,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 547,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1999년",
+			"is_target": false,
+			"en": 552,
+			"id": 26
+		},
+		{
+			"en_modified": 578,
+			"st_modified": 567,
+			"coref_index": 367,
+			"entityName": "실리콘_벨리의_해적들",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 567,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "실리콘_벨리의_해적들",
+			"is_target": true,
+			"en": 578,
+			"id": 27
+		},
+		{
+			"en_modified": 688,
+			"st_modified": 678,
+			"coref_index": 364,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 678,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "홈브루_컴퓨터_클럽",
+			"is_target": true,
+			"en": 688,
+			"id": 28
+		},
+		{
+			"en_modified": 774,
+			"entityName": "앨테어_8800",
+			"st_modified": 766,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 766,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "앨테어_8800",
+			"is_target": true,
+			"en": 774,
+			"id": 29
+		},
+		{
+			"en_modified": 713,
+			"st_modified": 707,
+			"coref_index": 368,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 707,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "홈브루_회원",
+			"is_target": true,
+			"en": 713,
+			"id": 30
+		},
+		{
+			"en_modified": 866,
+			"entityName": "오즈번",
+			"st_modified": 863,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 863,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오스본",
+			"is_target": true,
+			"en": 866,
+			"id": 31
+		},
+		{
+			"en_modified": 875,
+			"entityName": "리_펠젠스타인",
+			"st_modified": 868,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 868,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "리_펠젠스타인",
+			"is_target": true,
+			"en": 875,
+			"id": 32
+		},
+		{
+			"en_modified": 905,
+			"entityName": "애플_(기업)",
+			"st_modified": 903,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 903,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "애플",
+			"is_target": true,
+			"en": 905,
+			"id": 33
+		},
+		{
+			"en_modified": 916,
+			"entityName": "스티브_잡스",
+			"st_modified": 910,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 910,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "스티브_잡스",
+			"is_target": true,
+			"en": 916,
+			"id": 34
+		},
+		{
+			"en_modified": 926,
+			"entityName": "스티브_워즈니악",
+			"st_modified": 918,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 918,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "스티브_워즈니악",
+			"is_target": true,
+			"en": 926,
+			"id": 35
+		},
+		{
+			"en_modified": 939,
+			"entityName": "존_드래퍼",
+			"st_modified": 934,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 934,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "존_드래퍼",
+			"is_target": true,
+			"en": 939,
+			"id": 36
+		},
+		{
+			"en_modified": 850,
+			"entityName": "",
+			"st_modified": 846,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 846,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "밥_마쉬",
+			"is_target": true,
+			"en": 850,
+			"id": 37
+		},
+		{
+			"en_modified": 858,
+			"entityName": "",
+			"st_modified": 852,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 852,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "조지_모로우",
+			"is_target": true,
+			"en": 858,
+			"id": 38
+		},
+		{
+			"en_modified": 862,
+			"entityName": "",
+			"st_modified": 860,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 860,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아담",
+			"is_target": true,
+			"en": 862,
+			"id": 39
+		},
+		{
+			"en_modified": 896,
+			"entityName": "",
+			"st_modified": 885,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 885,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "마이크로컴퓨터_회사들",
+			"is_target": true,
+			"en": 896,
+			"id": 40
+		}
+	],
+	"globalSID": "1475123,1475124,1475125,1475126,1475127,1475128,1475129,1475130,1475131,1475132,1475133,1475134,1475135,1475136",
+	"plainText": "홈브루_컴퓨터_클럽(Homebrew Computer Club)은 1975년_3월에서 대략 1977년까지 (저 이름 아래) 만난, 실리콘밸리에 있는 초기 컴퓨터 취미생활자 클럽이다. 애플사의 창립자들을 포함하는, 몇몇 매우 높은 수준의 프로필을 지닌 해커들과 IT_기업가들이 클럽의 회원으로 나타났다. 역사 홈브루_컴퓨터_클럽은 전자 공학의 열광자들과 부품, 회로, 컴퓨터_장치를 스스로 조립하는 데 필요한 정보를 교환하기 위해 모였었던 기술적으로 마음이 있는 취미생활자들의 비공식_그룹이었다. 사람들의_컴퓨터_회사 (영어:People's Computer Company)의 해체 뒤에 클럽은 고돈_프렌치와 프레드_무어에 의해 시작되었다. 그들은 둘 다 모든 사람들에게 좀 더 접근하기 쉬운 컴퓨터를 만드는 작업을 모여서 하기 위해 여러 사람을 위한 정규적인 공개_포럼을 유지하는 데에 관심을 보였다. 그 첫 번째 모임은 캘리포니아, 산 마테오 카운티, 멘로_파크에 있는 고돈 프렌치의 차고에서 1975년_3월 열렸다. 다음 모임들은 스탠퍼드_선형_가속기_센터에 강당에서 열렸다. 1999년 만들어진 텔레비전 영화 \"실리콘_벨리의_해적들\" (그리고 그것이 기반된 책, \"Fire in the valley: The Making of the Personal Computer\")은 최초의 개인용 컴퓨터를 만드는 데 있어 홈브루_컴퓨터_클럽이 했던 역할을 설명했다. 회원들 홈브루_회원들이 비록 취미생활가였을지라도, 그들 대부분은 전자공학 이나 프로그래밍 배경이 있었다. 그들은 앨테어_8800과 다른 기술적인 주제들에 대해 대화를 하거나 회로도나 프로그래밍 팁을 교환하기 위해 모임에 왔었다. 이 클럽의 높은 지위로부터 밥_마쉬, 조지_모로우, 아담 오스본, 리_펠젠스타인을 포함하는 많은 마이크로컴퓨터_회사들의 창설자, 애플 창설자 스티브_잡스와 스티브_워즈니악이 나타났다. 존_드래퍼 또한 클럽의 회원이었다. ",
+	"docID": "261798",
+	"ModifiedText": "홈브루 컴퓨터 클럽(Homebrew Computer Club)은 1975년 3월에서 대략 1977년까지 (저 이름 아래) 만난, 실리콘밸리에 있는 초기 컴퓨터 취미생활자 클럽이다. 애플사의 창립자들을 포함하는, 몇몇 매우 높은 수준의 프로필을 지닌 해커들과 IT 기업가들이 클럽의 회원으로 나타났다. 역사 홈브루 컴퓨터 클럽은 전자 공학의 열광자들과 부품, 회로, 컴퓨터 장치를 스스로 조립하는 데 필요한 정보를 교환하기 위해 모였었던 기술적으로 마음이 있는 취미생활자들의 비공식 그룹이었다. 사람들의 컴퓨터 회사 (영어:People's Computer Company)의 해체 뒤에 클럽은 고돈 프렌치와 프레드 무어에 의해 시작되었다. 그들은 둘 다 모든 사람들에게 좀 더 접근하기 쉬운 컴퓨터를 만드는 작업을 모여서 하기 위해 여러 사람을 위한 정규적인 공개 포럼을 유지하는 데에 관심을 보였다. 그 첫 번째 모임은 캘리포니아, 산 마테오 카운티, 멘로 파크에 있는 고돈 프렌치의 차고에서 1975년 3월 열렸다. 다음 모임들은 스탠퍼드 선형 가속기 센터에 강당에서 열렸다. 1999년 만들어진 텔레비전 영화 \"실리콘 벨리의 해적들\" (그리고 그것이 기반된 책, \"Fire in the valley: The Making of the Personal Computer\")은 최초의 개인용 컴퓨터를 만드는 데 있어 홈브루 컴퓨터 클럽이 했던 역할을 설명했다. 회원들 홈브루 회원들이 비록 취미생활가였을지라도, 그들 대부분은 전자공학 이나 프로그래밍 배경이 있었다. 그들은 앨테어 8800과 다른 기술적인 주제들에 대해 대화를 하거나 회로도나 프로그래밍 팁을 교환하기 위해 모임에 왔었다. 이 클럽의 높은 지위로부터 밥 마쉬, 조지 모로우, 아담 오스본, 리 펠젠스타인을 포함하는 많은 마이크로컴퓨터 회사들의 창설자, 애플 창설자 스티브 잡스와 스티브 워즈니악이 나타났다. 존 드래퍼 또한 클럽의 회원이었다. "
+}

@@ -1,0 +1,614 @@
+{
+	"docID": "68577",
+	"globalSID": "564869,564870,564871,564872,564873,564874,564875,564876,564877,564878,564879,564880",
+	"pronouns": [
+		{
+			"en": 23,
+			"st": 17,
+			"surface": "다른 형태라",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"st": 117,
+			"coref_index": 806,
+			"id": 1,
+			"en": 118,
+			"ancestor": "4-5",
+			"surface": "이"
+		},
+		{
+			"en": 257,
+			"st": 253,
+			"surface": "그 밖의",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 262,
+			"st": 253,
+			"surface": "그 밖의 저술에서",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 265,
+			"st": 263,
+			"surface": "우리",
+			"id": 4,
+			"ancestor": "-1"
+		},
+		{
+			"st": 354,
+			"coref_index": 807,
+			"id": 5,
+			"en": 355,
+			"ancestor": "4-15",
+			"surface": "그"
+		},
+		{
+			"en": 358,
+			"st": 354,
+			"surface": "그의 책",
+			"id": 6,
+			"ancestor": "-1"
+		},
+		{
+			"st": 532,
+			"coref_index": 800,
+			"id": 7,
+			"en": 534,
+			"ancestor": "4-19",
+			"surface": "이들"
+		},
+		{
+			"en": 604,
+			"st": 602,
+			"surface": "예를",
+			"id": 8,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "1-5",
+			"coref_index": 793,
+			"surface": "오늘날",
+			"entityName": "오늘날"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "메소포타미아",
+			"entityName": "메소포타미아"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "고대_이집트",
+			"entityName": "고대_이집트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "고대_인도",
+			"entityName": "고대_인도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "고대_중국",
+			"entityName": "고대_중국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 91,
+			"ancestor": "-1",
+			"coref_index": 806,
+			"surface": "고대_문명",
+			"entityName": "고대_문명"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "자연_철학",
+			"entityName": "자연_철학"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 153,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 159,
+			"ancestor": "-1",
+			"coref_index": 797,
+			"surface": "고대_그리스",
+			"entityName": "고대_그리스"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 163,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 169,
+			"ancestor": "-1",
+			"surface": "히포크라테스",
+			"entityName": "히포크라테스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 171,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 173,
+			"ancestor": "-1",
+			"coref_index": 799,
+			"surface": "의학",
+			"entityName": "의학"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"st": 198,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 205,
+			"ancestor": "-1",
+			"coref_index": 794,
+			"surface": "아리스토텔레스",
+			"entityName": "아리스토텔레스"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"st": 230,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 237,
+			"ancestor": "4-10",
+			"coref_index": 794,
+			"surface": "아리스토텔레스",
+			"entityName": "아리스토텔레스"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"st": 267,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 274,
+			"ancestor": "4-10",
+			"coref_index": 794,
+			"surface": "아리스토텔레스",
+			"entityName": "아리스토텔레스"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"st": 301,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 308,
+			"ancestor": "4-10",
+			"coref_index": 794,
+			"surface": "아리스토텔레스",
+			"entityName": "아리스토텔레스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 316,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 322,
+			"ancestor": "-1",
+			"surface": "아테네_학당",
+			"entityName": "아테네_학당"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"st": 328,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 335,
+			"ancestor": "-1",
+			"coref_index": 807,
+			"surface": "테오프라스토스",
+			"entityName": "테오프라스토스"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 337,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 339,
+			"ancestor": "3-3",
+			"coref_index": 795,
+			"surface": "식물",
+			"entityName": "식물"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 360,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 362,
+			"ancestor": "-1",
+			"surface": "중세",
+			"entityName": "중세"
+		},
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"st": 366,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 369,
+			"ancestor": "-1",
+			"surface": "식물학",
+			"entityName": "식물학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 390,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 400,
+			"ancestor": "-1",
+			"coref_index": 800,
+			"surface": "중세_이슬람_의학자",
+			"entityName": "중세_이슬람_의학자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 428,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 432,
+			"ancestor": "-1",
+			"surface": "알자히즈",
+			"entityName": "알자히즈"
+		},
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"st": 445,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 448,
+			"ancestor": "-1",
+			"surface": "동물학",
+			"entityName": "동물학"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 462,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "ETC",
+			"en": 466,
+			"ancestor": "-1",
+			"surface": "쿠르드족",
+			"entityName": "쿠르드족"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 470,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "ETC",
+			"en": 475,
+			"ancestor": "-1",
+			"surface": "알디나와리",
+			"entityName": "알디나와리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 502,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "ETC",
+			"en": 506,
+			"ancestor": "-1",
+			"surface": "페르시아",
+			"entityName": "페르시아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 508,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 25,
+			"ne_type": "ETC",
+			"en": 511,
+			"ancestor": "-1",
+			"surface": "알라지",
+			"entityName": "알라지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 513,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "ETC",
+			"en": 516,
+			"ancestor": "-1",
+			"surface": "해부학",
+			"entityName": "해부학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 518,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "ETC",
+			"en": 521,
+			"ancestor": "2-10",
+			"coref_index": 796,
+			"surface": "생리학",
+			"entityName": "생리학"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 536,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 28,
+			"ne_type": "LOCATION",
+			"en": 539,
+			"ancestor": "4-7",
+			"coref_index": 797,
+			"surface": "그리스",
+			"entityName": "그리스"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"st": 621,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 29,
+			"ne_type": "PERSON",
+			"en": 628,
+			"ancestor": "4-11",
+			"coref_index": 794,
+			"surface": "아리스토텔레스",
+			"entityName": "아리스토텔레스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 123,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 30,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "현대_생물학",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 385,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 31,
+			"ne_type": "ETC",
+			"en": 388,
+			"ancestor": "2-12",
+			"coref_index": 798,
+			"surface": "생물학",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 453,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 32,
+			"ne_type": "ETC",
+			"en": 455,
+			"ancestor": "-1",
+			"surface": "저서",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 569,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 33,
+			"ne_type": "ETC",
+			"en": 571,
+			"ancestor": "4-9",
+			"coref_index": 799,
+			"surface": "의학",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 608,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 34,
+			"ne_type": "PERSON",
+			"en": 618,
+			"ancestor": "4-19",
+			"coref_index": 800,
+			"surface": "중세_이슬람_의학자",
+			"entityName": ""
+		}
+	],
+	"plainText": "역사 비록 오늘날의 생물학과는 다른 형태라 할지라도 생물에 대한 연구는 고대에서부터 있어왔다. 메소포타미아, 고대_이집트, 고대_인도, 고대_중국과 같은 고대_문명에서는 일찍부터 자연_철학이 발달하여 있었다. 이 가운데 현대_생물학의 연구 방법에 가장 많은 영향을 준 것은 고대_그리스였다. 히포크라테스는 의학의 일부로서 생물에 대한 연구를 진행하였고, 아리스토텔레스는 생물에 관한 다양한 기록을 남겼다. 특히 아리스토텔레스가 저술한 《동물의 역사》와 그 밖의 저술에서 우리는 아리스토텔레스가 많은 생물들을 연구하였음을 확인할 수 있다. 아리스토텔레스의 뒤를 이어 아테네_학당을 계승한 테오프라스토스는 식물과 관련된 저술을 남겼으며 그의 책은 중세에까지 식물학에 큰 영향을 남겼다. 이후 생물학은 중세_이슬람_의학자들에 의해 큰 발전을 이루었다. 아프리카계 아랍인 알자히즈(781년–869년)가 동물학에 대한 저서를 남겼고, 쿠르드족이었던 알디나와리(828년–896년)가 식물학 저서를 남겼으며, 페르시아의 알라지는 해부학과 생리학에 업적을 남겼다. 이들은 그리스의 철학에 바탕을 둔 생물학 이론을 발전시켰다. 특히 의학은 그리스 학자들의 전통을 충실히 계승하여 발전시켰다. 예를 들면 중세_이슬람_의학자들은 아리스토텔레스의 생각을 받아들여 생명 사이의 위계 질서를 당연히 여겼다."
+}

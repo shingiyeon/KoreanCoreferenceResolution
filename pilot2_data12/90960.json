@@ -1,0 +1,1981 @@
+{
+	"pronouns": [
+		{
+			"st_modified": 173,
+			"en": 174,
+			"surface": "이 전쟁",
+			"ancestor": "1-2",
+			"en_modified": 177,
+			"id": 0,
+			"st": 170,
+			"coref_index": 1094
+		},
+		{
+			"st_modified": 173,
+			"en": 191,
+			"surface": "이 전쟁을 이스라엘은 ‘독립전쟁’이라고",
+			"ancestor": "-1",
+			"en_modified": 194,
+			"id": 1,
+			"st": 170
+		},
+		{
+			"st_modified": 211,
+			"en": 210,
+			"surface": "이것",
+			"ancestor": "1-2",
+			"en_modified": 213,
+			"id": 2,
+			"st": 208,
+			"coref_index": 1094
+		},
+		{
+			"st_modified": 211,
+			"en": 229,
+			"surface": "이것을 ‘알_나크바’(재앙의 시작)라고",
+			"ancestor": "-1",
+			"en_modified": 232,
+			"id": 3,
+			"st": 208
+		},
+		{
+			"st_modified": 270,
+			"en": 269,
+			"surface": "이를",
+			"ancestor": "-1",
+			"en_modified": 272,
+			"id": 4,
+			"st": 267
+		},
+		{
+			"st_modified": 353,
+			"en": 354,
+			"surface": "이 지역",
+			"ancestor": "1-31",
+			"en_modified": 357,
+			"id": 5,
+			"st": 350,
+			"coref_index": 1106
+		},
+		{
+			"st_modified": 460,
+			"en": 459,
+			"surface": "이들",
+			"ancestor": "1-33",
+			"en_modified": 462,
+			"id": 6,
+			"st": 457,
+			"coref_index": 1099
+		},
+		{
+			"st_modified": 496,
+			"en": 496,
+			"surface": "자신들",
+			"ancestor": "1-33",
+			"en_modified": 499,
+			"id": 7,
+			"st": 493,
+			"coref_index": 1099
+		},
+		{
+			"st_modified": 496,
+			"en": 505,
+			"surface": "자신들의 문화와 전통을",
+			"ancestor": "-1",
+			"en_modified": 508,
+			"id": 8,
+			"st": 493
+		},
+		{
+			"st_modified": 592,
+			"en": 591,
+			"surface": "이들",
+			"ancestor": "-1",
+			"en_modified": 594,
+			"id": 9,
+			"st": 589
+		},
+		{
+			"st_modified": 724,
+			"en": 722,
+			"surface": "그",
+			"ancestor": "-1",
+			"en_modified": 725,
+			"id": 10,
+			"st": 721
+		},
+		{
+			"st_modified": 830,
+			"en": 830,
+			"surface": "그 외",
+			"ancestor": "-1",
+			"en_modified": 833,
+			"id": 11,
+			"st": 827
+		},
+		{
+			"st_modified": 836,
+			"en": 835,
+			"surface": "이들",
+			"ancestor": "1-44",
+			"en_modified": 838,
+			"id": 12,
+			"st": 833,
+			"coref_index": 1099
+		},
+		{
+			"st_modified": 879,
+			"en": 877,
+			"surface": "이",
+			"ancestor": "-1",
+			"en_modified": 880,
+			"id": 13,
+			"st": 876
+		},
+		{
+			"st_modified": 998,
+			"en": 997,
+			"surface": "이들",
+			"ancestor": "1-61",
+			"en_modified": 1000,
+			"id": 14,
+			"st": 995,
+			"coref_index": 1099
+		},
+		{
+			"st_modified": 1051,
+			"en": 1053,
+			"surface": "모든 노력",
+			"ancestor": "-1",
+			"en_modified": 1056,
+			"id": 15,
+			"st": 1048
+		},
+		{
+			"st_modified": 1272,
+			"en": 1273,
+			"surface": "이 시기",
+			"ancestor": "1-74",
+			"en_modified": 1276,
+			"id": 16,
+			"st": 1269,
+			"coref_index": 1107
+		},
+		{
+			"st_modified": 1272,
+			"en": 1279,
+			"surface": "이 시기의 대표적인",
+			"ancestor": "-1",
+			"en_modified": 1282,
+			"id": 17,
+			"st": 1269
+		},
+		{
+			"st_modified": 1272,
+			"en": 1283,
+			"surface": "이 시기의 대표적인 유대인",
+			"ancestor": "-1",
+			"en_modified": 1286,
+			"id": 18,
+			"st": 1269
+		},
+		{
+			"st_modified": 1272,
+			"en": 1287,
+			"surface": "이 시기의 대표적인 유대인 반대가",
+			"ancestor": "-1",
+			"en_modified": 1290,
+			"id": 19,
+			"st": 1269
+		}
+	],
+	"plainText": "제1차_중동_전쟁(, 아랍-이스라엘_전쟁 혹은 이스라엘_독립전쟁)은 이스라엘의 건국을 둘러싼 이스라엘과 주변 아랍국들 간에 벌어진 전쟁으로, 현대 중동_분쟁의 시발점이다. 개요 1948년 아라비아 지역에서 아랍_연합_공화국과 신생국_이스라엘 간에 전쟁이 벌어졌다. 이후 지속되는 아랍 위기의 시작이었다. 이 전쟁을 이스라엘은 ‘독립전쟁’이라고 부르며, 팔레스타인 측에서는 이것을 ‘알_나크바’(재앙의 시작)라고 부른다. 유엔이 영국령_팔레스타인 지역의 분할을 제시하자 아랍측이 이를 거부하고, 이집트, 시리아, 트란스요르단, 레바논, 이라크와 몇몇 아랍 국가들의 지원하에 이스라엘을 공격하면서 전쟁이 시작되었고, 결과적으로는 이 지역이 이스라엘, 이집트, 트란스요르단에 의해서 분할되는 결과를 낳았다. 배경 유대인 박해와 시오니즘 유대인들이 팔레스타인_지역에서 추방된 '디아스포라'는 거의 1,800년_전의 일이다. 이들은 오랜 기간에 걸쳐서 각지로 퍼져나갔으나 긴 세월에 걸쳐서 자신들의 문화와 전통을 지키기 위하여 많은 노력을 기울였다. 유럽으로 진출한 유대인들은 크게 서유럽_계통의 '세파르디_유대인'과 동유럽의 '아슈케나짐_유대인'으로 구분되며 이들은 기독교화된 유럽에서 오랜 기간에 걸쳐 박해와 차별을 경험한다. 15세기에는 서유럽, 특히 에스파냐_지역에서 대대적인 유대인 박해가 발생하여 많은 유대인들이 그나마 좀 더 자유로운 분위기였던 동유럽 등지로 이주하는 결과를 가져왔다.그 중에서 특히 1300년대의 볼레스와프_왕 시절에 유대인에게 관용_정책을 베풀었던 폴란드에 많은 유대인들이 이주하였다. 유럽에서 반(反)유대주의의 역사는 대단히 오래되었다고 할 수 있다. 그 외에도 이들은 기독교가 금지하고 있던 포주나 고리대금업 등에 종사하고 있었기 때문에 이 또한 유대인들의 이미지를 나쁘게 만드는 데 일조하고 있었다. 적어도 12세기 이후에는 \"고리대금업자\" 내지는 \"수전노\", \"예수를 팔아넘긴 죄인\" 등 현대까지 내려오는 유대인의 부정적인 이미지들이 조성되었다. 이들이 반복되는 박해로 공동체 안의 안정된 삶을 보장받을 수 없었기에 부동산보다 동산의 확보에 모든 노력을 기울여 왔던 데서 이러한 악감정의 이유를 찾을 수 있다. 18세기에 이르러 유대인들은 자유주의의 물결로 평등한 시민권을 보장받고 게토를 벗어나게 되지만 뒤이어 온_반동주의의 물결과 함께 박해 또한 심각해진다. 러시아의 포그룸 같은 대규모 박해가 발생하면서 유대인들은 다시 이주를 시작하고 일부는 아메리카_대륙으로 건너가 미국 북동부나 샌프란시스코의 골드러쉬 등에 참여하기도 하였다. 이 시기의 대표적인 유대인 반대가 드러난 사건의 하나인 드레퓌스 사건을 취재하던 오스트리아의 기자 테오도르_헤르츨은 유대민족주의의 필요성을 인식하고 현대 시오니즘 운동을 제창하며 고대_이스라엘의 언어와 풍습들을 되살리는 노력을 기울인다. ",
+	"parID": "1",
+	"docID": "90960",
+	"pronoun_candidate": [
+		{
+			"st_modified": 173,
+			"is_pronoun": true,
+			"en": 174,
+			"en_modified": 177,
+			"st": 170,
+			"text": "이 전쟁"
+		},
+		{
+			"st_modified": 173,
+			"is_pronoun": true,
+			"en": 188,
+			"en_modified": 191,
+			"st": 170,
+			"text": "이 전쟁을 이스라엘은 ‘독립전쟁’"
+		},
+		{
+			"st_modified": 211,
+			"is_pronoun": true,
+			"en": 210,
+			"en_modified": 213,
+			"st": 208,
+			"text": "이것"
+		},
+		{
+			"st_modified": 211,
+			"is_pronoun": true,
+			"en": 227,
+			"en_modified": 230,
+			"st": 208,
+			"text": "이것을 ‘알_나크바’(재앙의 시작)"
+		},
+		{
+			"st_modified": 270,
+			"is_pronoun": true,
+			"en": 268,
+			"en_modified": 271,
+			"st": 267,
+			"text": "이"
+		},
+		{
+			"st_modified": 353,
+			"is_pronoun": true,
+			"en": 354,
+			"en_modified": 357,
+			"st": 350,
+			"text": "이 지역"
+		},
+		{
+			"st_modified": 460,
+			"is_pronoun": true,
+			"en": 459,
+			"en_modified": 462,
+			"st": 457,
+			"text": "이들"
+		},
+		{
+			"st_modified": 496,
+			"is_pronoun": true,
+			"en": 496,
+			"en_modified": 499,
+			"st": 493,
+			"text": "자신들"
+		},
+		{
+			"st_modified": 496,
+			"is_pronoun": true,
+			"en": 504,
+			"en_modified": 507,
+			"st": 493,
+			"text": "자신들의 문화와 전통"
+		},
+		{
+			"st_modified": 592,
+			"is_pronoun": true,
+			"en": 591,
+			"en_modified": 594,
+			"st": 589,
+			"text": "이들"
+		},
+		{
+			"st_modified": 724,
+			"is_pronoun": true,
+			"en": 724,
+			"en_modified": 727,
+			"st": 721,
+			"text": "그 중"
+		},
+		{
+			"st_modified": 830,
+			"is_pronoun": true,
+			"en": 831,
+			"en_modified": 834,
+			"st": 827,
+			"text": "그 외에"
+		},
+		{
+			"st_modified": 836,
+			"is_pronoun": true,
+			"en": 835,
+			"en_modified": 838,
+			"st": 833,
+			"text": "이들"
+		},
+		{
+			"st_modified": 879,
+			"is_pronoun": true,
+			"en": 877,
+			"en_modified": 880,
+			"st": 876,
+			"text": "이"
+		},
+		{
+			"st_modified": 998,
+			"is_pronoun": true,
+			"en": 997,
+			"en_modified": 1000,
+			"st": 995,
+			"text": "이들"
+		},
+		{
+			"st_modified": 1051,
+			"is_pronoun": true,
+			"en": 1053,
+			"en_modified": 1056,
+			"st": 1048,
+			"text": "모든 노력"
+		},
+		{
+			"st_modified": 1272,
+			"is_pronoun": true,
+			"en": 1273,
+			"en_modified": 1276,
+			"st": 1269,
+			"text": "이 시기"
+		},
+		{
+			"st_modified": 1272,
+			"is_pronoun": true,
+			"en": 1278,
+			"en_modified": 1281,
+			"st": 1269,
+			"text": "이 시기의 대표적"
+		},
+		{
+			"st_modified": 1272,
+			"is_pronoun": true,
+			"en": 1282,
+			"en_modified": 1285,
+			"st": 1269,
+			"text": "이 시기의 대표적인 유대"
+		},
+		{
+			"st_modified": 1272,
+			"is_pronoun": true,
+			"en": 1286,
+			"en_modified": 1289,
+			"st": 1269,
+			"text": "이 시기의 대표적인 유대인 반대"
+		}
+	],
+	"ZA_candidate": [
+		{
+			"en_modified": 149,
+			"id": 0,
+			"st_modified": 148,
+			"surface": "그"
+		}
+	],
+	"ModifiedText": "제1차 중동 전쟁(, 아랍-이스라엘 전쟁 혹은 이스라엘 독립전쟁)은 이스라엘의 건국을 둘러싼 이스라엘과 주변 아랍국들 간에 벌어진 전쟁으로, 현대 중동 분쟁의 시발점이다. 개요 1948년 아라비아 지역에서 아랍 연합 공화국과 신생국 이스라엘 간에 전쟁이 벌어졌다. 그는 이후 지속되는 아랍 위기의 시작이었다. 이 전쟁을 이스라엘은 ‘독립전쟁’이라고 부르며, 팔레스타인 측에서는 이것을 ‘알 나크바’(재앙의 시작)라고 부른다. 유엔이 영국령 팔레스타인 지역의 분할을 제시하자 아랍측이 이를 거부하고, 이집트, 시리아, 트란스요르단, 레바논, 이라크와 몇몇 아랍 국가들의 지원하에 이스라엘을 공격하면서 전쟁이 시작되었고, 결과적으로는 이 지역이 이스라엘, 이집트, 트란스요르단에 의해서 분할되는 결과를 낳았다. 배경 유대인 박해와 시오니즘 유대인들이 팔레스타인 지역에서 추방된 '디아스포라'는 거의 1,800년 전의 일이다. 이들은 오랜 기간에 걸쳐서 각지로 퍼져나갔으나 긴 세월에 걸쳐서 자신들의 문화와 전통을 지키기 위하여 많은 노력을 기울였다. 유럽으로 진출한 유대인들은 크게 서유럽 계통의 '세파르디 유대인'과 동유럽의 '아슈케나짐 유대인'으로 구분되며 이들은 기독교화된 유럽에서 오랜 기간에 걸쳐 박해와 차별을 경험한다. 15세기에는 서유럽, 특히 에스파냐 지역에서 대대적인 유대인 박해가 발생하여 많은 유대인들이 그나마 좀 더 자유로운 분위기였던 동유럽 등지로 이주하는 결과를 가져왔다.그 중에서 특히 1300년대의 볼레스와프 왕 시절에 유대인에게 관용 정책을 베풀었던 폴란드에 많은 유대인들이 이주하였다. 유럽에서 반(反)유대주의의 역사는 대단히 오래되었다고 할 수 있다. 그 외에도 이들은 기독교가 금지하고 있던 포주나 고리대금업 등에 종사하고 있었기 때문에 이 또한 유대인들의 이미지를 나쁘게 만드는 데 일조하고 있었다. 적어도 12세기 이후에는 \"고리대금업자\" 내지는 \"수전노\", \"예수를 팔아넘긴 죄인\" 등 현대까지 내려오는 유대인의 부정적인 이미지들이 조성되었다. 이들이 반복되는 박해로 공동체 안의 안정된 삶을 보장받을 수 없었기에 부동산보다 동산의 확보에 모든 노력을 기울여 왔던 데서 이러한 악감정의 이유를 찾을 수 있다. 18세기에 이르러 유대인들은 자유주의의 물결로 평등한 시민권을 보장받고 게토를 벗어나게 되지만 뒤이어 온 반동주의의 물결과 함께 박해 또한 심각해진다. 러시아의 포그룸 같은 대규모 박해가 발생하면서 유대인들은 다시 이주를 시작하고 일부는 아메리카 대륙으로 건너가 미국 북동부나 샌프란시스코의 골드러쉬 등에 참여하기도 하였다. 이 시기의 대표적인 유대인 반대가 드러난 사건의 하나인 드레퓌스 사건을 취재하던 오스트리아의 기자 테오도르 헤르츨은 유대민족주의의 필요성을 인식하고 현대 시오니즘 운동을 제창하며 고대 이스라엘의 언어와 풍습들을 되살리는 노력을 기울인다. ",
+	"globalSID": "702879,702880,702881,702882,702883,702884,702885,702886,702887,702888,702889,702890,702891,702892,702893,702894,702895,702896,702897",
+	"entities": [
+		{
+			"id": 0,
+			"en": 42,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 38,
+			"st_modified": 38,
+			"entityName": "이스라엘",
+			"surface": "이스라엘",
+			"en_modified": 42,
+			"coref_index": 1093,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 1,
+			"en": 56,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-0",
+			"st": 52,
+			"st_modified": 52,
+			"entityName": "이스라엘",
+			"surface": "이스라엘",
+			"en_modified": 56,
+			"coref_index": 1093,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 2,
+			"en": 9,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 0,
+			"st_modified": 0,
+			"entityName": "",
+			"surface": "제1차_중동_전쟁",
+			"en_modified": 9,
+			"coref_index": 1094,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 3,
+			"en": 22,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "1-2",
+			"st": 12,
+			"st_modified": 12,
+			"entityName": "",
+			"surface": "아랍-이스라엘_전쟁",
+			"en_modified": 22,
+			"coref_index": 1094,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 4,
+			"en": 35,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "1-2",
+			"st": 26,
+			"st_modified": 26,
+			"entityName": "",
+			"surface": "이스라엘_독립전쟁",
+			"en_modified": 35,
+			"coref_index": 1094,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 5,
+			"en": 46,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 44,
+			"st_modified": 44,
+			"entityName": "",
+			"surface": "건국",
+			"en_modified": 46,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 6,
+			"en": 75,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 73,
+			"st_modified": 73,
+			"entityName": "",
+			"surface": "전쟁",
+			"en_modified": 75,
+			"coref_index": 1096,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 7,
+			"en": 87,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 82,
+			"st_modified": 82,
+			"entityName": "",
+			"surface": "중동_분쟁",
+			"en_modified": 87,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 8,
+			"en": 92,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 89,
+			"st_modified": 89,
+			"entityName": "",
+			"surface": "시발점",
+			"en_modified": 92,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 9,
+			"en": 64,
+			"is_target": true,
+			"ne_type": "ORGANIZATION",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 61,
+			"st_modified": 61,
+			"entityName": "",
+			"surface": "아랍국",
+			"en_modified": 64,
+			"coref_index": 1095,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 10,
+			"en": 104,
+			"is_target": false,
+			"ne_type": "TIME",
+			"eType": "WIKILINK",
+			"ancestor": "",
+			"st": 99,
+			"st_modified": 99,
+			"entityName": "1948년",
+			"surface": "1948년",
+			"en_modified": 104,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			]
+		},
+		{
+			"id": 11,
+			"en": 124,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "1-9",
+			"st": 115,
+			"st_modified": 115,
+			"entityName": "아랍_연합_공화국",
+			"surface": "아랍_연합_공화국",
+			"en_modified": 124,
+			"coref_index": 1095,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 12,
+			"en": 134,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-0",
+			"st": 130,
+			"st_modified": 130,
+			"entityName": "이스라엘",
+			"surface": "이스라엘",
+			"en_modified": 134,
+			"coref_index": 1093,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 13,
+			"en": 180,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-12",
+			"st": 176,
+			"st_modified": 179,
+			"entityName": "이스라엘",
+			"surface": "이스라엘",
+			"en_modified": 183,
+			"coref_index": 1093,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 14,
+			"en": 202,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 197,
+			"st_modified": 200,
+			"entityName": "팔레스타인",
+			"surface": "팔레스타인",
+			"en_modified": 205,
+			"coref_index": 1100,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 15,
+			"en": 109,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 105,
+			"st_modified": 105,
+			"entityName": "",
+			"surface": "아라비아",
+			"en_modified": 109,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 16,
+			"en": 112,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 110,
+			"st_modified": 110,
+			"entityName": "",
+			"surface": "지역",
+			"en_modified": 112,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 17,
+			"en": 129,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 126,
+			"st_modified": 126,
+			"entityName": "",
+			"surface": "신생국",
+			"en_modified": 129,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 18,
+			"en": 140,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "1-6",
+			"st": 138,
+			"st_modified": 138,
+			"entityName": "",
+			"surface": "전쟁",
+			"en_modified": 140,
+			"coref_index": 1096,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 19,
+			"en": 187,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "1-2",
+			"st": 183,
+			"st_modified": 186,
+			"entityName": "",
+			"surface": "독립전쟁",
+			"en_modified": 190,
+			"coref_index": 1094,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 20,
+			"en": 218,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "1-2",
+			"st": 213,
+			"st_modified": 216,
+			"entityName": "",
+			"surface": "알_나크바",
+			"en_modified": 221,
+			"coref_index": 1094,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 21,
+			"en": 237,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 235,
+			"st_modified": 238,
+			"entityName": "유엔",
+			"surface": "유엔",
+			"en_modified": 240,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			]
+		},
+		{
+			"id": 22,
+			"en": 279,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 276,
+			"st_modified": 279,
+			"entityName": "이집트",
+			"surface": "이집트",
+			"en_modified": 282,
+			"coref_index": 1097,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 23,
+			"en": 284,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 281,
+			"st_modified": 284,
+			"entityName": "시리아",
+			"surface": "시리아",
+			"en_modified": 287,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 24,
+			"en": 292,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 286,
+			"st_modified": 289,
+			"entityName": "트란스요르단",
+			"surface": "트란스요르단",
+			"en_modified": 295,
+			"coref_index": 1098,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			]
+		},
+		{
+			"id": 25,
+			"en": 297,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 294,
+			"st_modified": 297,
+			"entityName": "레바논",
+			"surface": "레바논",
+			"en_modified": 300,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 26,
+			"en": 302,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 299,
+			"st_modified": 302,
+			"entityName": "이라크",
+			"surface": "이라크",
+			"en_modified": 305,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 27,
+			"en": 324,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-1",
+			"st": 320,
+			"st_modified": 323,
+			"entityName": "이스라엘",
+			"surface": "이스라엘",
+			"en_modified": 327,
+			"coref_index": 1093,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 28,
+			"en": 360,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-27",
+			"st": 356,
+			"st_modified": 359,
+			"entityName": "이스라엘",
+			"surface": "이스라엘",
+			"en_modified": 363,
+			"coref_index": 1093,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 29,
+			"en": 365,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-22",
+			"st": 362,
+			"st_modified": 365,
+			"entityName": "이집트",
+			"surface": "이집트",
+			"en_modified": 368,
+			"coref_index": 1097,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 30,
+			"en": 373,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-24",
+			"st": 367,
+			"st_modified": 370,
+			"entityName": "트란스요르단",
+			"surface": "트란스요르단",
+			"en_modified": 376,
+			"coref_index": 1098,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			]
+		},
+		{
+			"id": 31,
+			"en": 248,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 239,
+			"st_modified": 242,
+			"entityName": "",
+			"surface": "영국령_팔레스타인",
+			"en_modified": 251,
+			"coref_index": 1106,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 32,
+			"en": 395,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 393,
+			"st_modified": 396,
+			"entityName": "",
+			"surface": "배경",
+			"en_modified": 398,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 33,
+			"en": 412,
+			"ancestor": "1-35",
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"is_target": true,
+			"st": 409,
+			"st_modified": 412,
+			"entityName": "유대인",
+			"surface": "유대인",
+			"en_modified": 415,
+			"coref_index": 1099,
+			"kbox_types": [
+				"EthnicGroup"
+			]
+		},
+		{
+			"en": 436,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "ELU",
+			"id": 34,
+			"st": 431,
+			"st_modified": 434,
+			"entityName": "디아스포라",
+			"surface": "디아스포라",
+			"en_modified": 439,
+			"ancestor": "-1",
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 35,
+			"en": 399,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 396,
+			"st_modified": 399,
+			"entityName": "",
+			"surface": "유대인",
+			"en_modified": 402,
+			"coref_index": 1099,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 36,
+			"en": 423,
+			"ancestor": "1-14",
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"is_target": true,
+			"st": 415,
+			"st_modified": 418,
+			"entityName": "",
+			"surface": "팔레스타인_지역",
+			"en_modified": 426,
+			"coref_index": 1100,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"en": 450,
+			"is_target": false,
+			"ne_type": "TIME",
+			"eType": "NEW",
+			"id": 37,
+			"st": 442,
+			"st_modified": 445,
+			"entityName": "",
+			"surface": "1,800년_전",
+			"en_modified": 453,
+			"ancestor": "",
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 38,
+			"en": 529,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 527,
+			"st_modified": 530,
+			"entityName": "유럽",
+			"surface": "유럽",
+			"en_modified": 532,
+			"coref_index": 1102,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			]
+		},
+		{
+			"id": 39,
+			"en": 568,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 565,
+			"st_modified": 568,
+			"entityName": "동유럽",
+			"surface": "동유럽",
+			"en_modified": 571,
+			"coref_index": 1101,
+			"kbox_types": [
+				"Place",
+				"Airport",
+				"Infrastructure",
+				"ArchitecturalStructure"
+			]
+		},
+		{
+			"id": 40,
+			"en": 596,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 593,
+			"st_modified": 596,
+			"entityName": "기독교",
+			"surface": "기독교",
+			"en_modified": 599,
+			"coref_index": 1103,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 41,
+			"en": 638,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "ELU",
+			"ancestor": "-1",
+			"st": 635,
+			"st_modified": 638,
+			"entityName": "서유럽",
+			"surface": "서유럽",
+			"en_modified": 641,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 42,
+			"en": 702,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "ELU",
+			"ancestor": "1-39",
+			"st": 699,
+			"st_modified": 702,
+			"entityName": "동유럽",
+			"surface": "동유럽",
+			"en_modified": 705,
+			"coref_index": 1101,
+			"kbox_types": [
+				"Place",
+				"Airport",
+				"Infrastructure",
+				"ArchitecturalStructure"
+			]
+		},
+		{
+			"id": 43,
+			"en": 771,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 768,
+			"st_modified": 771,
+			"entityName": "폴란드",
+			"surface": "폴란드",
+			"en_modified": 774,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 44,
+			"en": 539,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "1-33",
+			"st": 536,
+			"st_modified": 539,
+			"entityName": "",
+			"surface": "유대인",
+			"en_modified": 542,
+			"coref_index": 1099,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 45,
+			"en": 551,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 545,
+			"st_modified": 548,
+			"entityName": "",
+			"surface": "서유럽_계통",
+			"en_modified": 554,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 46,
+			"en": 562,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 554,
+			"st_modified": 557,
+			"entityName": "",
+			"surface": "세파르디_유대인",
+			"en_modified": 565,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 47,
+			"en": 580,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 571,
+			"st_modified": 574,
+			"entityName": "",
+			"surface": "아슈케나짐_유대인",
+			"en_modified": 583,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 48,
+			"en": 601,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "1-38",
+			"st": 599,
+			"st_modified": 602,
+			"entityName": "",
+			"surface": "유럽",
+			"en_modified": 604,
+			"coref_index": 1102,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 49,
+			"en": 616,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 614,
+			"st_modified": 617,
+			"entityName": "",
+			"surface": "박해",
+			"en_modified": 619,
+			"coref_index": 1104,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 50,
+			"en": 620,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 618,
+			"st_modified": 621,
+			"entityName": "",
+			"surface": "차별",
+			"en_modified": 623,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 51,
+			"en": 632,
+			"is_target": true,
+			"ne_type": "TIME",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 628,
+			"st_modified": 631,
+			"entityName": "",
+			"surface": "15세기",
+			"en_modified": 635,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 52,
+			"en": 650,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 643,
+			"st_modified": 646,
+			"entityName": "",
+			"surface": "에스파냐_지역",
+			"en_modified": 653,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 53,
+			"en": 709,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 707,
+			"st_modified": 710,
+			"entityName": "",
+			"surface": "이주",
+			"en_modified": 712,
+			"coref_index": 1105,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 54,
+			"en": 736,
+			"is_target": false,
+			"ne_type": "TIME",
+			"eType": "NEW",
+			"ancestor": "",
+			"st": 730,
+			"st_modified": 733,
+			"entityName": "",
+			"surface": "1300년대",
+			"en_modified": 739,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 55,
+			"en": 745,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 738,
+			"st_modified": 741,
+			"entityName": "",
+			"surface": "볼레스와프_왕",
+			"en_modified": 748,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 56,
+			"en": 761,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 756,
+			"st_modified": 759,
+			"entityName": "",
+			"surface": "관용_정책",
+			"en_modified": 764,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 57,
+			"en": 791,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "1-38",
+			"st": 789,
+			"st_modified": 792,
+			"entityName": "",
+			"surface": "유럽",
+			"en_modified": 794,
+			"coref_index": 1102,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 58,
+			"en": 802,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 794,
+			"st_modified": 797,
+			"entityName": "",
+			"surface": "반(反)유대주의",
+			"en_modified": 805,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 59,
+			"en": 840,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "1-40",
+			"st": 837,
+			"st_modified": 840,
+			"entityName": "",
+			"surface": "기독교",
+			"en_modified": 843,
+			"coref_index": 1103,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 60,
+			"en": 920,
+			"is_target": true,
+			"ne_type": "TIME",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 916,
+			"st_modified": 919,
+			"entityName": "",
+			"surface": "12세기",
+			"en_modified": 923,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 61,
+			"en": 975,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "1-44",
+			"st": 972,
+			"st_modified": 975,
+			"entityName": "",
+			"surface": "유대인",
+			"en_modified": 978,
+			"coref_index": 1099,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 62,
+			"en": 949,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 947,
+			"st_modified": 950,
+			"entityName": "",
+			"surface": "예수",
+			"en_modified": 952,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 63,
+			"en": 1107,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1103,
+			"st_modified": 1106,
+			"entityName": "자유주의",
+			"surface": "자유주의",
+			"en_modified": 1110,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 64,
+			"en": 1129,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1127,
+			"st_modified": 1130,
+			"entityName": "게토",
+			"surface": "게토",
+			"en_modified": 1132,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 65,
+			"en": 1175,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1172,
+			"st_modified": 1175,
+			"entityName": "러시아",
+			"surface": "러시아",
+			"en_modified": 1178,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 66,
+			"en": 1180,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1177,
+			"st_modified": 1180,
+			"entityName": "포그룸",
+			"surface": "포그룸",
+			"en_modified": 1183,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 67,
+			"en": 1227,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1220,
+			"st_modified": 1223,
+			"entityName": "아메리카_대륙",
+			"surface": "아메리카_대륙",
+			"en_modified": 1230,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 68,
+			"en": 1236,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1234,
+			"st_modified": 1237,
+			"entityName": "미국",
+			"surface": "미국",
+			"en_modified": 1239,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 69,
+			"en": 1248,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1242,
+			"st_modified": 1245,
+			"entityName": "샌프란시스코",
+			"surface": "샌프란시스코",
+			"en_modified": 1251,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			]
+		},
+		{
+			"id": 70,
+			"en": 1319,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1314,
+			"st_modified": 1317,
+			"entityName": "오스트리아",
+			"surface": "오스트리아",
+			"en_modified": 1322,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			]
+		},
+		{
+			"id": 71,
+			"en": 1332,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1324,
+			"st_modified": 1327,
+			"entityName": "테오도르_헤르츨",
+			"surface": "테오도르_헤르츨",
+			"en_modified": 1335,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 72,
+			"en": 1359,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1355,
+			"st_modified": 1358,
+			"entityName": "시오니즘",
+			"surface": "시오니즘",
+			"en_modified": 1362,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 73,
+			"en": 1376,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "WIKILINK",
+			"ancestor": "-1",
+			"st": 1369,
+			"st_modified": 1372,
+			"entityName": "고대_이스라엘",
+			"surface": "고대_이스라엘",
+			"en_modified": 1379,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 74,
+			"en": 1091,
+			"is_target": true,
+			"ne_type": "TIME",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1087,
+			"st_modified": 1090,
+			"entityName": "",
+			"surface": "18세기",
+			"en_modified": 1094,
+			"coref_index": 1107,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 75,
+			"en": 1100,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "1-61",
+			"st": 1097,
+			"st_modified": 1100,
+			"entityName": "",
+			"surface": "유대인",
+			"en_modified": 1103,
+			"coref_index": 1099,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 76,
+			"en": 1115,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1113,
+			"st_modified": 1116,
+			"entityName": "",
+			"surface": "평등",
+			"en_modified": 1118,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 77,
+			"en": 1120,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1117,
+			"st_modified": 1120,
+			"entityName": "",
+			"surface": "시민권",
+			"en_modified": 1123,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 78,
+			"en": 1124,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1122,
+			"st_modified": 1125,
+			"entityName": "",
+			"surface": "보장",
+			"en_modified": 1127,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 79,
+			"en": 1150,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1146,
+			"st_modified": 1149,
+			"entityName": "",
+			"surface": "반동주의",
+			"en_modified": 1153,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 80,
+			"en": 1161,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "1-49",
+			"st": 1159,
+			"st_modified": 1162,
+			"entityName": "",
+			"surface": "박해",
+			"en_modified": 1164,
+			"coref_index": 1104,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 81,
+			"en": 1202,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "1-75",
+			"st": 1198,
+			"st_modified": 1201,
+			"entityName": "",
+			"surface": "유대인들",
+			"en_modified": 1205,
+			"coref_index": 1099,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 82,
+			"en": 1209,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "1-53",
+			"st": 1207,
+			"st_modified": 1210,
+			"entityName": "",
+			"surface": "이주",
+			"en_modified": 1212,
+			"coref_index": 1105,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 83,
+			"en": 1240,
+			"is_target": true,
+			"ne_type": "LOCATION",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1237,
+			"st_modified": 1240,
+			"entityName": "",
+			"surface": "북동부",
+			"en_modified": 1243,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 84,
+			"en": 1254,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1250,
+			"st_modified": 1253,
+			"entityName": "",
+			"surface": "골드러쉬",
+			"en_modified": 1257,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 85,
+			"en": 1283,
+			"is_target": true,
+			"ne_type": "PERSON",
+			"eType": "NEW",
+			"ancestor": "1-75",
+			"st": 1280,
+			"st_modified": 1283,
+			"entityName": "",
+			"surface": "유대인",
+			"en_modified": 1286,
+			"coref_index": 1099,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 86,
+			"en": 1323,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1321,
+			"st_modified": 1324,
+			"entityName": "",
+			"surface": "기자",
+			"en_modified": 1326,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 87,
+			"en": 1340,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1334,
+			"st_modified": 1337,
+			"entityName": "",
+			"surface": "유대민족주의",
+			"en_modified": 1343,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 88,
+			"en": 1345,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1342,
+			"st_modified": 1345,
+			"entityName": "",
+			"surface": "필요성",
+			"en_modified": 1348,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 89,
+			"en": 1362,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1360,
+			"st_modified": 1363,
+			"entityName": "",
+			"surface": "운동",
+			"en_modified": 1365,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 90,
+			"en": 1380,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1378,
+			"st_modified": 1381,
+			"entityName": "",
+			"surface": "언어",
+			"en_modified": 1383,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 91,
+			"en": 1384,
+			"is_target": true,
+			"ne_type": "EVENT",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1382,
+			"st_modified": 1385,
+			"entityName": "",
+			"surface": "풍습",
+			"en_modified": 1387,
+			"kbox_types": [
+				"NULL"
+			]
+		},
+		{
+			"id": 92,
+			"en": 1394,
+			"is_target": true,
+			"ne_type": "ETC",
+			"eType": "NEW",
+			"ancestor": "-1",
+			"st": 1392,
+			"st_modified": 1395,
+			"entityName": "",
+			"surface": "노력",
+			"en_modified": 1397,
+			"kbox_types": [
+				"NULL"
+			]
+		}
+	]
+}

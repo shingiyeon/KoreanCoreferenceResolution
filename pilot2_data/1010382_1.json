@@ -1,0 +1,51 @@
+{
+	"docID": "1010382",
+	"globalSID": "3192856,3192857",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "중궤도",
+			"entityName": "중궤도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "O3b_네트워크사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "18,918?km/h",
+			"entityName": ""
+		}
+	],
+	"plainText": "O3b_네트워크사가 소유하고 운영한다. 적도 상공 8,063 km인 중궤도를 18,918?km/h(마하 15.45)의 속도로 돈다."
+}

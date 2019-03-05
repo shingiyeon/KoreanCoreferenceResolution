@@ -1,0 +1,132 @@
+{
+	"docID": "1709546",
+	"globalSID": "3918172,3918173,3918174,3918175,3918176",
+	"pronouns": [
+		{
+			"st": 145,
+			"coref_index": 275,
+			"id": 0,
+			"en": 147,
+			"ancestor": "8-3",
+			"surface": "이곳"
+		},
+		{
+			"en": 203,
+			"st": 198,
+			"surface": "자기지뢰에",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"st": 12,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 15,
+			"ancestor": "1-4",
+			"coref_index": 280,
+			"surface": "말라야",
+			"entityName": "말라야_연방"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "페낭",
+			"entityName": "페낭"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 66,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 70,
+			"ancestor": "7-0",
+			"coref_index": 275,
+			"surface": "싱가포르",
+			"entityName": "싱가포르"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 129,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 133,
+			"ancestor": "8-2",
+			"coref_index": 275,
+			"surface": "싱가포르",
+			"entityName": "싱가포르"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 151,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 154,
+			"ancestor": "6-6",
+			"coref_index": 282,
+			"surface": "일본군",
+			"entityName": "일본군"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 225,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 229,
+			"ancestor": "8-2",
+			"coref_index": 275,
+			"surface": "싱가포르",
+			"entityName": "싱가포르"
+		}
+	],
+	"plainText": "연합군은 8월 28일 말라야에 도착해 소규모의 함대를 페낭으로 보냈다. 페낭은 저항 없이 항복했고, 함대는 9월 2일 싱가포르를 향해 출항해 믈라카 해협의 남쪽 입구인 라플레스 등대를 지나쳤다. 연합군 함대는 1945년 9월 4일 싱가포르에 도착했다. 그러나 이곳에서도 일본군의 저항은 없었다. 그러나 프랑스 전함 리셸리우는 9월 9일 오전 7시 44분 자기지뢰에 걸려 좌초되었고, 9월 11일 정오에 싱가포르로 간신히 들어왔다."
+}

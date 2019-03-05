@@ -1,0 +1,57 @@
+{
+	"docID": "912074",
+	"globalSID": "3012134",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 13,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "내셔널리그",
+			"entityName": "내셔널리그_(대한민국)"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "경주_한국수력원자력",
+			"entityName": "경주_한국수력원자력_축구단"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "EVENT",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "2014_시즌",
+			"entityName": ""
+		}
+	],
+	"plainText": "2014_시즌을 앞두고 내셔널리그의 경주_한국수력원자력으로 이적하였다."
+}

@@ -1,0 +1,1235 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 236,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 237,
+			"en": 237,
+			"st_modified": 236
+		},
+		{
+			"st": 325,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 326,
+			"en": 326,
+			"st_modified": 325
+		},
+		{
+			"st": 328,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 330,
+			"en": 330,
+			"st_modified": 328
+		},
+		{
+			"st": 328,
+			"text": "자신의 최고 전성기",
+			"is_pronoun": true,
+			"en_modified": 338,
+			"en": 338,
+			"st_modified": 328
+		},
+		{
+			"st": 418,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 419,
+			"en": 419,
+			"st_modified": 418
+		},
+		{
+			"st": 478,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 479,
+			"en": 479,
+			"st_modified": 478
+		},
+		{
+			"st": 550,
+			"text": "한 시즌",
+			"is_pronoun": true,
+			"en_modified": 554,
+			"en": 554,
+			"st_modified": 550
+		},
+		{
+			"st": 550,
+			"text": "한 시즌 뒤",
+			"is_pronoun": true,
+			"en_modified": 556,
+			"en": 556,
+			"st_modified": 550
+		},
+		{
+			"st": 550,
+			"text": "한 시즌 뒤인 2005년 여름",
+			"is_pronoun": true,
+			"en_modified": 566,
+			"en": 566,
+			"st_modified": 550
+		},
+		{
+			"st": 598,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 599,
+			"en": 599,
+			"st_modified": 598
+		},
+		{
+			"st": 631,
+			"text": "이곳에서",
+			"is_pronoun": true,
+			"en_modified": 635,
+			"en": 635,
+			"st_modified": 631
+		},
+		{
+			"st": 669,
+			"text": "한 시즌",
+			"is_pronoun": true,
+			"en_modified": 673,
+			"en": 673,
+			"st_modified": 669
+		},
+		{
+			"st": 669,
+			"text": "한 시즌 뒤",
+			"is_pronoun": true,
+			"en_modified": 675,
+			"en": 675,
+			"st_modified": 669
+		},
+		{
+			"st": 676,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 677,
+			"en": 677,
+			"st_modified": 676
+		},
+		{
+			"st": 706,
+			"text": "그 곳",
+			"is_pronoun": true,
+			"en_modified": 709,
+			"en": 709,
+			"st_modified": 706
+		},
+		{
+			"st": 732,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 734,
+			"en": 734,
+			"st_modified": 732
+		},
+		{
+			"st": 732,
+			"text": "자신의 기량",
+			"is_pronoun": true,
+			"en_modified": 738,
+			"en": 738,
+			"st_modified": 732
+		},
+		{
+			"st": 756,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 757,
+			"en": 757,
+			"st_modified": 756
+		},
+		{
+			"st": 890,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 891,
+			"en": 891,
+			"st_modified": 890
+		},
+		{
+			"st": 1045,
+			"text": "그곳",
+			"is_pronoun": true,
+			"en_modified": 1047,
+			"en": 1047,
+			"st_modified": 1045
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 236,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 237,
+			"en": 237,
+			"st_modified": 236,
+			"id": 0,
+			"coref_index": 157
+		},
+		{
+			"st": 325,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 326,
+			"en": 326,
+			"st_modified": 325,
+			"id": 1,
+			"coref_index": 157
+		},
+		{
+			"st": 328,
+			"ancestor": "1-0",
+			"surface": "자신",
+			"en_modified": 330,
+			"en": 330,
+			"st_modified": 328,
+			"id": 2,
+			"coref_index": 157
+		},
+		{
+			"st": 328,
+			"ancestor": "-1",
+			"surface": "자신의 최고 전성기",
+			"en_modified": 338,
+			"en": 338,
+			"st_modified": 328,
+			"id": 3
+		},
+		{
+			"st": 418,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 419,
+			"en": 419,
+			"st_modified": 418,
+			"id": 4,
+			"coref_index": 157
+		},
+		{
+			"st": 478,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 479,
+			"en": 479,
+			"st_modified": 478,
+			"id": 5,
+			"coref_index": 157
+		},
+		{
+			"st": 550,
+			"ancestor": "-1",
+			"surface": "한 시즌",
+			"en_modified": 554,
+			"en": 554,
+			"st_modified": 550,
+			"id": 6
+		},
+		{
+			"st": 550,
+			"ancestor": "-1",
+			"surface": "한 시즌 뒤인",
+			"en_modified": 557,
+			"en": 557,
+			"st_modified": 550,
+			"id": 7
+		},
+		{
+			"st": 550,
+			"ancestor": "-1",
+			"surface": "한 시즌 뒤인 2005년 여름",
+			"en_modified": 566,
+			"en": 566,
+			"st_modified": 550,
+			"id": 8
+		},
+		{
+			"st": 598,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 599,
+			"en": 599,
+			"st_modified": 598,
+			"id": 9,
+			"coref_index": 157
+		},
+		{
+			"st": 631,
+			"ancestor": "1-34",
+			"surface": "이곳",
+			"en_modified": 633,
+			"en": 633,
+			"st_modified": 631,
+			"id": 10,
+			"coref_index": 161
+		},
+		{
+			"st": 669,
+			"ancestor": "-1",
+			"surface": "한 시즌",
+			"en_modified": 673,
+			"en": 673,
+			"st_modified": 669,
+			"id": 11
+		},
+		{
+			"st": 669,
+			"ancestor": "-1",
+			"surface": "한 시즌 뒤",
+			"en_modified": 675,
+			"en": 675,
+			"st_modified": 669,
+			"id": 12
+		},
+		{
+			"st": 676,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 677,
+			"en": 677,
+			"st_modified": 676,
+			"id": 13,
+			"coref_index": 157
+		},
+		{
+			"st": 706,
+			"ancestor": "1-35",
+			"surface": "그 곳",
+			"en_modified": 709,
+			"en": 709,
+			"st_modified": 706,
+			"id": 14,
+			"coref_index": 162
+		},
+		{
+			"st": 732,
+			"ancestor": "1-0",
+			"surface": "자신",
+			"en_modified": 734,
+			"en": 734,
+			"st_modified": 732,
+			"id": 15,
+			"coref_index": 157
+		},
+		{
+			"st": 732,
+			"ancestor": "-1",
+			"surface": "자신의 기량을",
+			"en_modified": 739,
+			"en": 739,
+			"st_modified": 732,
+			"id": 16
+		},
+		{
+			"st": 756,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 757,
+			"en": 757,
+			"st_modified": 756,
+			"id": 17,
+			"coref_index": 157
+		},
+		{
+			"st": 890,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 891,
+			"en": 891,
+			"st_modified": 890,
+			"id": 18,
+			"coref_index": 157
+		},
+		{
+			"st": 1045,
+			"ancestor": "1-44",
+			"surface": "그곳",
+			"en_modified": 1047,
+			"en": 1047,
+			"st_modified": 1045,
+			"id": 19,
+			"coref_index": 159
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 7,
+			"st_modified": 0,
+			"coref_index": 157,
+			"entityName": "마테야_케주만",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마테야_케주만",
+			"is_target": true,
+			"en": 7,
+			"id": 0
+		},
+		{
+			"en_modified": 41,
+			"entityName": "유고슬라비아_사회주의_연방공화국",
+			"st_modified": 24,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 24,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "유고슬라비아_사회주의_연방공화국",
+			"is_target": true,
+			"en": 41,
+			"id": 1
+		},
+		{
+			"en_modified": 44,
+			"entityName": "제문_(베오그라드)",
+			"st_modified": 42,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 42,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "제문",
+			"is_target": true,
+			"en": 44,
+			"id": 2
+		},
+		{
+			"en_modified": 58,
+			"entityName": "세르비아",
+			"st_modified": 54,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 54,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "세르비아",
+			"is_target": true,
+			"en": 58,
+			"id": 3
+		},
+		{
+			"en_modified": 77,
+			"entityName": "공격수",
+			"st_modified": 74,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 74,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공격수",
+			"is_target": true,
+			"en": 77,
+			"id": 4
+		},
+		{
+			"en_modified": 123,
+			"entityName": "스포츠_에이전트",
+			"st_modified": 115,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 115,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스포츠_에이전트",
+			"is_target": true,
+			"en": 123,
+			"id": 5
+		},
+		{
+			"en_modified": 22,
+			"entityName": "",
+			"st_modified": 10,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 10,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1979년_4월_12일",
+			"is_target": false,
+			"en": 22,
+			"id": 6
+		},
+		{
+			"en_modified": 148,
+			"st_modified": 145,
+			"coref_index": 157,
+			"entityName": "마테야_케주만",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 145,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "케주만",
+			"is_target": true,
+			"en": 148,
+			"id": 7
+		},
+		{
+			"en_modified": 189,
+			"entityName": "2000년",
+			"st_modified": 184,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 184,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2000년",
+			"is_target": false,
+			"en": 189,
+			"id": 8
+		},
+		{
+			"en_modified": 215,
+			"entityName": "네덜란드_에레디비시",
+			"st_modified": 205,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 205,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "네덜란드_에레디비시",
+			"is_target": true,
+			"en": 215,
+			"id": 9
+		},
+		{
+			"en_modified": 226,
+			"entityName": "PSV_에인트호번",
+			"st_modified": 217,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 217,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "PSV_에인트호번",
+			"is_target": true,
+			"en": 226,
+			"id": 10
+		},
+		{
+			"en_modified": 244,
+			"entityName": "2001년",
+			"st_modified": 239,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 239,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2001년",
+			"is_target": false,
+			"en": 244,
+			"id": 11
+		},
+		{
+			"en_modified": 251,
+			"entityName": "2003년",
+			"st_modified": 246,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 246,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2003년",
+			"is_target": false,
+			"en": 251,
+			"id": 12
+		},
+		{
+			"en_modified": 258,
+			"entityName": "2004년",
+			"st_modified": 253,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 253,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2004년",
+			"is_target": false,
+			"en": 258,
+			"id": 13
+		},
+		{
+			"en_modified": 388,
+			"st_modified": 382,
+			"coref_index": 158,
+			"entityName": "프리미어리그",
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 382,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "프리미어리그",
+			"is_target": true,
+			"en": 388,
+			"id": 14
+		},
+		{
+			"en_modified": 395,
+			"entityName": "세리에_A",
+			"st_modified": 390,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 390,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_A",
+			"is_target": true,
+			"en": 395,
+			"id": 15
+		},
+		{
+			"en_modified": 144,
+			"entityName": "",
+			"st_modified": 139,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 139,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "클럽_경력",
+			"is_target": true,
+			"en": 144,
+			"id": 16
+		},
+		{
+			"en_modified": 163,
+			"entityName": "",
+			"st_modified": 150,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 150,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "1998년_FK_파르티잔",
+			"is_target": true,
+			"en": 163,
+			"id": 17
+		},
+		{
+			"en_modified": 168,
+			"entityName": "",
+			"st_modified": 166,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 166,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이적",
+			"is_target": true,
+			"en": 168,
+			"id": 18
+		},
+		{
+			"en_modified": 198,
+			"entityName": "",
+			"st_modified": 190,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 190,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1050만_유로",
+			"is_target": true,
+			"en": 198,
+			"id": 19
+		},
+		{
+			"en_modified": 203,
+			"entityName": "",
+			"st_modified": 200,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이적료",
+			"is_target": true,
+			"en": 203,
+			"id": 20
+		},
+		{
+			"en_modified": 275,
+			"entityName": "",
+			"st_modified": 269,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 269,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "리그_득점왕",
+			"is_target": true,
+			"en": 275,
+			"id": 21
+		},
+		{
+			"en_modified": 294,
+			"entityName": "",
+			"st_modified": 284,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 284,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "2000-01_시즌",
+			"is_target": true,
+			"en": 294,
+			"id": 22
+		},
+		{
+			"en_modified": 306,
+			"entityName": "",
+			"st_modified": 296,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 296,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "2002-03_시즌",
+			"is_target": true,
+			"en": 306,
+			"id": 23
+		},
+		{
+			"en_modified": 316,
+			"entityName": "",
+			"st_modified": 311,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 311,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "리그_우승",
+			"is_target": true,
+			"en": 316,
+			"id": 24
+		},
+		{
+			"en_modified": 404,
+			"entityName": "",
+			"st_modified": 402,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 402,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "클럽",
+			"is_target": true,
+			"en": 404,
+			"id": 25
+		},
+		{
+			"en_modified": 426,
+			"entityName": "2004년",
+			"st_modified": 421,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 421,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2004년",
+			"is_target": false,
+			"en": 426,
+			"id": 26
+		},
+		{
+			"en_modified": 445,
+			"entityName": "파운드_스털링",
+			"st_modified": 442,
+			"kbox_types": [
+				"Currency"
+			],
+			"eType": "ELU",
+			"st": 442,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "파운드",
+			"is_target": true,
+			"en": 445,
+			"id": 27
+		},
+		{
+			"en_modified": 463,
+			"st_modified": 452,
+			"coref_index": 158,
+			"entityName": "잉글랜드_프리미어리그",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 452,
+			"ancestor": "1-14",
+			"ne_type": "ETC",
+			"surface": "잉글랜드_프리미어리그",
+			"is_target": true,
+			"en": 463,
+			"id": 28
+		},
+		{
+			"en_modified": 469,
+			"entityName": "첼시_FC",
+			"st_modified": 464,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 464,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "첼시_FC",
+			"is_target": true,
+			"en": 469,
+			"id": 29
+		},
+		{
+			"en_modified": 498,
+			"entityName": "리버풀_FC",
+			"st_modified": 492,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 492,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "리버풀_FC",
+			"is_target": true,
+			"en": 498,
+			"id": 30
+		},
+		{
+			"en_modified": 508,
+			"entityName": "풋볼_리그_컵",
+			"st_modified": 501,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 501,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "풋볼_리그_컵",
+			"is_target": true,
+			"en": 508,
+			"id": 31
+		},
+		{
+			"en_modified": 563,
+			"entityName": "2005년",
+			"st_modified": 558,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 558,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2005년",
+			"is_target": false,
+			"en": 563,
+			"id": 32
+		},
+		{
+			"en_modified": 609,
+			"entityName": "페르난도_토레스",
+			"st_modified": 601,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 601,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "페르난도_토레스",
+			"is_target": true,
+			"en": 609,
+			"id": 33
+		},
+		{
+			"en_modified": 589,
+			"st_modified": 567,
+			"coref_index": 161,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 567,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스페인_프리메라리가의_아틀레티코_마드리드",
+			"is_target": true,
+			"en": 589,
+			"id": 34
+		},
+		{
+			"en_modified": 697,
+			"st_modified": 679,
+			"coref_index": 162,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 679,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "터키_수페르리그의_페네르바체_SK",
+			"is_target": true,
+			"en": 697,
+			"id": 35
+		},
+		{
+			"en_modified": 800,
+			"entityName": "리그_1",
+			"st_modified": 796,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 796,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "리그_1",
+			"is_target": true,
+			"en": 800,
+			"id": 36
+		},
+		{
+			"en_modified": 812,
+			"st_modified": 802,
+			"coref_index": 160,
+			"entityName": "파리_생제르맹_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 802,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "파리_생제르맹_FC",
+			"is_target": true,
+			"en": 812,
+			"id": 37
+		},
+		{
+			"en_modified": 916,
+			"entityName": "러시아_프리미어리그",
+			"st_modified": 906,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 906,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "러시아_프리미어리그",
+			"is_target": true,
+			"en": 916,
+			"id": 38
+		},
+		{
+			"en_modified": 933,
+			"entityName": "FC_제니트_상트페테르부르크",
+			"st_modified": 918,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 918,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "FC_제니트_상트페테르부르크",
+			"is_target": true,
+			"en": 933,
+			"id": 39
+		},
+		{
+			"en_modified": 981,
+			"st_modified": 974,
+			"coref_index": 159,
+			"entityName": "사우스_차이나",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 974,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "사우스_차이나",
+			"is_target": true,
+			"en": 981,
+			"id": 40
+		},
+		{
+			"en_modified": 1006,
+			"entityName": "8월_31일",
+			"st_modified": 1000,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1000,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "8월_31일",
+			"is_target": false,
+			"en": 1006,
+			"id": 41
+		},
+		{
+			"en_modified": 1014,
+			"entityName": "FC_BATE",
+			"st_modified": 1007,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1007,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "FC_BATE",
+			"is_target": true,
+			"en": 1014,
+			"id": 42
+		},
+		{
+			"en_modified": 1031,
+			"entityName": "2012년",
+			"st_modified": 1026,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 1026,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년",
+			"is_target": false,
+			"en": 1031,
+			"id": 43
+		},
+		{
+			"en_modified": 1039,
+			"st_modified": 1032,
+			"coref_index": 159,
+			"entityName": "사우스_차이나",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1032,
+			"ancestor": "1-40",
+			"ne_type": "ORGANIZATION",
+			"surface": "사우스_차이나",
+			"is_target": true,
+			"en": 1039,
+			"id": 44
+		},
+		{
+			"en_modified": 905,
+			"entityName": "",
+			"st_modified": 893,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 893,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_8월_30일",
+			"is_target": false,
+			"en": 905,
+			"id": 45
+		},
+		{
+			"en_modified": 973,
+			"entityName": "",
+			"st_modified": 961,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 961,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2011년_1월_20일",
+			"is_target": false,
+			"en": 973,
+			"id": 46
+		},
+		{
+			"en_modified": 771,
+			"entityName": "",
+			"st_modified": 759,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 759,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년_8월_19일",
+			"is_target": false,
+			"en": 771,
+			"id": 47
+		},
+		{
+			"en_modified": 850,
+			"st_modified": 840,
+			"coref_index": 160,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 840,
+			"ancestor": "1-37",
+			"ne_type": "ORGANIZATION",
+			"surface": "파리_생제르맹_FC",
+			"is_target": true,
+			"en": 850,
+			"id": 48
+		}
+	],
+	"globalSID": "942309,942310,942311,942312,942313,942314,942315,942316,942317,942318,942319,942320,942321,942322,942323,942324",
+	"plainText": "마테야_케주만(, 1979년_4월_12일, 유고슬라비아_사회주의_연방공화국 제문 ~ )은 은퇴한 세르비아의 축구 선수이다. 포지션은 공격수였으며, 최전방에서 골을 넣는 스트라이커의 역할을 수행했다. 현재는 스포츠_에이전트로 활동 중이다. 선수 경력 클럽_경력 케주만은 1998년_FK_파르티잔으로 이적하여 좋은 모습을 보인 뒤, 2000년 1050만_유로의 이적료로 네덜란드_에레디비시의 PSV_에인트호번으로 이적하였다. 그는 2001년과 2003년, 2004년에 걸쳐서 세 번의 리그_득점왕을 차지하였고, 2000-01_시즌과 2002-03_시즌 2번의 리그_우승에 공헌하였다. 그는 자신의 최고 전성기라고 불러도 손색이 없을 정도로 대단한 활약을 펼쳤고, 이러한 활약으로 인하여 프리미어리그, 세리에_A 등의 거대 클럽의 관심을 받게 되었다. 그는 2004년 여름 이적시장에서 530만 파운드의 이적료로 잉글랜드_프리미어리그 첼시_FC로 이적하였다. 그는 2004-05 시즌 리버풀_FC과의 풋볼_리그_컵 결승전에서 결승골을 기록하기도 하였지만, 큰 인상을 심어주지 못하며 결국 한 시즌 뒤인 2005년 여름 스페인_프리메라리가의_아틀레티코_마드리드로 이적하였다. 그는 페르난도_토레스와 투톱을 이루며 경기에 출장하였지만, 이곳에서도 많은 골을 넣지는 못하며 실망스러운 모습을 보였다. 다시 한 시즌 뒤 그는 터키_수페르리그의_페네르바체_SK로 이적하였고, 그 곳에서 두 시즌 동안 준수한 활약을 펼치며 자신의 기량을 재회복하는 발판으로 삼았다. 그는 2008년_8월_19일 여름 이적시장에서 400만 유로의 이적료로 리그_1의 파리_생제르맹_FC으로 1년 임대를 떠나게 되었고, 시즌이 끝난 뒤 파리_생제르맹_FC에서 100만 유로의 이적료를 추가로 지불하여 완전 이적에 성공하였다. 그는 2009년_8월_30일 러시아_프리미어리그의 FC_제니트_상트페테르부르크로 임대 이적하였고, 시즌이 끝난 뒤 복귀하였다. 2011년_1월_20일 사우스_차이나에 입단했고, 계약 기간이 끝나자 8월_31일 FC_BATE에 입단해 활약했다. 2012년 사우스_차이나로 돌아와 그곳에서 은퇴했다. ",
+	"docID": "130280",
+	"ModifiedText": "마테야 케주만(, 1979년 4월 12일, 유고슬라비아 사회주의 연방공화국 제문 ~ )은 은퇴한 세르비아의 축구 선수이다. 포지션은 공격수였으며, 최전방에서 골을 넣는 스트라이커의 역할을 수행했다. 현재는 스포츠 에이전트로 활동 중이다. 선수 경력 클럽 경력 케주만은 1998년 FK 파르티잔으로 이적하여 좋은 모습을 보인 뒤, 2000년 1050만 유로의 이적료로 네덜란드 에레디비시의 PSV 에인트호번으로 이적하였다. 그는 2001년과 2003년, 2004년에 걸쳐서 세 번의 리그 득점왕을 차지하였고, 2000-01 시즌과 2002-03 시즌 2번의 리그 우승에 공헌하였다. 그는 자신의 최고 전성기라고 불러도 손색이 없을 정도로 대단한 활약을 펼쳤고, 이러한 활약으로 인하여 프리미어리그, 세리에 A 등의 거대 클럽의 관심을 받게 되었다. 그는 2004년 여름 이적시장에서 530만 파운드의 이적료로 잉글랜드 프리미어리그 첼시 FC로 이적하였다. 그는 2004-05 시즌 리버풀 FC과의 풋볼 리그 컵 결승전에서 결승골을 기록하기도 하였지만, 큰 인상을 심어주지 못하며 결국 한 시즌 뒤인 2005년 여름 스페인 프리메라리가의 아틀레티코 마드리드로 이적하였다. 그는 페르난도 토레스와 투톱을 이루며 경기에 출장하였지만, 이곳에서도 많은 골을 넣지는 못하며 실망스러운 모습을 보였다. 다시 한 시즌 뒤 그는 터키 수페르리그의 페네르바체 SK로 이적하였고, 그 곳에서 두 시즌 동안 준수한 활약을 펼치며 자신의 기량을 재회복하는 발판으로 삼았다. 그는 2008년 8월 19일 여름 이적시장에서 400만 유로의 이적료로 리그 1의 파리 생제르맹 FC으로 1년 임대를 떠나게 되었고, 시즌이 끝난 뒤 파리 생제르맹 FC에서 100만 유로의 이적료를 추가로 지불하여 완전 이적에 성공하였다. 그는 2009년 8월 30일 러시아 프리미어리그의 FC 제니트 상트페테르부르크로 임대 이적하였고, 시즌이 끝난 뒤 복귀하였다. 2011년 1월 20일 사우스 차이나에 입단했고, 계약 기간이 끝나자 8월 31일 FC BATE에 입단해 활약했다. 2012년 사우스 차이나로 돌아와 그곳에서 은퇴했다. "
+}

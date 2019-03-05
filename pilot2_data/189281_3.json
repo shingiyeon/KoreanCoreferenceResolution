@@ -1,0 +1,208 @@
+{
+	"docID": "189281",
+	"globalSID": "1202113,1202114,1202115,1202116",
+	"pronouns": [
+		{
+			"en": 124,
+			"st": 122,
+			"surface": "날이",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 180,
+			"st": 178,
+			"surface": "이때",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 3,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "1-1",
+			"coref_index": 311,
+			"surface": "크라우트_록",
+			"entityName": "크라우트록"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "록밴드",
+			"entityName": "록_밴드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "영미",
+			"entityName": "영미"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "반체제_문화",
+			"entityName": "반체제_문화"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 96,
+			"ancestor": "-1",
+			"surface": "히피_운동",
+			"entityName": "히피_운동"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 98,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 102,
+			"ancestor": "-1",
+			"surface": "대중음악",
+			"entityName": "대중음악"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 114,
+			"ancestor": "-1",
+			"surface": "사회적",
+			"entityName": "사회"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 137,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 140,
+			"ancestor": "1-14",
+			"coref_index": 312,
+			"surface": "록음악",
+			"entityName": "록_음악"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 142,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 147,
+			"ancestor": "-1",
+			"coref_index": 314,
+			"surface": "사이키델릭",
+			"entityName": "사이키델릭"
+		},
+		{
+			"kbox_types": [
+				"TopicalConcept",
+				"MusicGenre",
+				"Genre"
+			],
+			"st": 149,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 153,
+			"ancestor": "1-3",
+			"coref_index": 313,
+			"surface": "헤비메탈",
+			"entityName": "헤비_메탈"
+		},
+		{
+			"kbox_types": [
+				"TopicalConcept",
+				"MusicGenre",
+				"Genre"
+			],
+			"st": 155,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 163,
+			"ancestor": "-1",
+			"surface": "프로그레시브_록",
+			"entityName": "프로그레시브_록"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 187,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 192,
+			"ancestor": "-1",
+			"surface": "스콜피온즈",
+			"entityName": "스콜피온즈"
+		}
+	],
+	"plainText": "정의 크라우트_록은 ‘록밴드’ 악기들 (기타, 베이스기타, 드럼 등)을 이용한 록 음악과 일렉트로닉 음악을 조합하였다. 1960년대 말까지는 영미의 반체제_문화와 히피_운동이 대중음악에서는 처음으로 사회적, 정치적으로 날이 선 가사들을 읊으면서 록음악을 사이키델릭, 헤비메탈, 프로그레시브_록 등등의 장르로 이끌었다. 이때 독일 그룹 스콜피온즈가 뜨기 시작하였다."
+}

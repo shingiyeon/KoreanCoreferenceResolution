@@ -1,0 +1,327 @@
+{
+	"docID": "514085",
+	"globalSID": "2217017,2217018,2217019",
+	"pronouns": [
+		{
+			"en": 175,
+			"st": 172,
+			"surface": "이 때",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 202,
+			"st": 193,
+			"surface": "시마즈 군?류조지",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 205,
+			"st": 193,
+			"surface": "시마즈 군?류조지 군과",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 217,
+			"st": 184,
+			"surface": "지쿠고_방면에서 시마즈 군?류조지 군과 싸우고 있었기 때문에",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "-1",
+			"surface": "덴쇼",
+			"entityName": "덴쇼"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 19,
+			"ancestor": "",
+			"surface": "1578년",
+			"entityName": "1578년"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"coref_index": 652,
+			"surface": "미미가와_전투",
+			"entityName": "미미가와_전투"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 96,
+			"ancestor": "-1",
+			"coref_index": 648,
+			"surface": "류조지_다카노부",
+			"entityName": "류조지_다카노부"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "-1",
+			"coref_index": 651,
+			"surface": "지쿠고",
+			"entityName": "지쿠고_국"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 110,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 118,
+			"ancestor": "-1",
+			"surface": "쓰쿠시_히로카도",
+			"entityName": "쓰쿠시_히로카도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 140,
+			"ancestor": "-1",
+			"coref_index": 649,
+			"surface": "아키즈키_다네자네",
+			"entityName": "아키즈키_다네자네"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 180,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 182,
+			"ancestor": "-1",
+			"surface": "휴가",
+			"entityName": "휴가노쿠니"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 184,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 190,
+			"ancestor": "-1",
+			"surface": "지쿠고_방면",
+			"entityName": "지쿠고_시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 39,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 45,
+			"ancestor": "2-1",
+			"coref_index": 640,
+			"surface": "오토모_가문",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 53,
+			"ancestor": "2-7",
+			"coref_index": 647,
+			"surface": "시마즈_가문",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 67,
+			"ancestor": "2-1",
+			"coref_index": 640,
+			"surface": "오토모_가문",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 155,
+			"ancestor": "2-1",
+			"coref_index": 640,
+			"surface": "오토모_가문",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 202,
+			"ancestor": "8-3",
+			"coref_index": 648,
+			"surface": "류조지",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 231,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 233,
+			"ancestor": "1-0",
+			"coref_index": 644,
+			"surface": "쇼운",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 279,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 281,
+			"ancestor": "1-0",
+			"coref_index": 644,
+			"surface": "쇼운",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 283,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 286,
+			"ancestor": "2-6",
+			"coref_index": 643,
+			"surface": "도세쓰",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 293,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 302,
+			"ancestor": "8-6",
+			"coref_index": 649,
+			"surface": "아키즈키_다네자네",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 304,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 312,
+			"ancestor": "-1",
+			"coref_index": 653,
+			"surface": "지쿠시_히로카도",
+			"entityName": ""
+		}
+	],
+	"plainText": "그러나 덴쇼(天正) 6년(1578년)에 미미가와_전투(耳川の?い)에서 오토모_가문이 시마즈_가문에게 대패하여 오토모_가문의 세력이 쇠퇴하기 시작하자, 히젠의 류조지_다카노부(龍造寺隆信)와 지쿠고의 쓰쿠시_히로카도(筑紫?門), 지쿠젠의 아키즈키_다네자네(秋月種?)등이 오토모_가문의 영지로 침공을 개시하였다. 이 때 소린은 휴가와 지쿠고_방면에서 시마즈 군?류조지 군과 싸우고 있었기 때문에 원군을 보내지 못하여, 쇼운이 지키는 지쿠젠은 적대 세력 한복판에 고립되어 있는 상황이었다. 그러한 상황에서 쇼운은 도세쓰와 협력하여 아키즈키_다네자네와 지쿠시_히로카도 등을 보란듯이 격퇴하여 뛰어난 지략과 무용을 과시하였다."
+}

@@ -1,0 +1,242 @@
+{
+	"docID": "130280",
+	"globalSID": "942321,942322,942323,942324",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 157,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 134,
+			"coref_index": 157,
+			"id": 1,
+			"en": 135,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 289,
+			"coref_index": 159,
+			"id": 2,
+			"en": 291,
+			"ancestor": "5-8",
+			"surface": "그곳"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 44,
+			"ancestor": "-1",
+			"surface": "리그_1",
+			"entityName": "리그_1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 56,
+			"ancestor": "-1",
+			"coref_index": 160,
+			"surface": "파리_생제르맹_FC",
+			"entityName": "파리_생제르맹_FC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "러시아_프리미어리그",
+			"entityName": "러시아_프리미어리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 162,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 177,
+			"ancestor": "-1",
+			"surface": "FC_제니트_상트페테르부르크",
+			"entityName": "FC_제니트_상트페테르부르크"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 218,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 225,
+			"ancestor": "-1",
+			"coref_index": 159,
+			"surface": "사우스_차이나",
+			"entityName": "사우스_차이나"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 244,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 250,
+			"ancestor": "",
+			"surface": "8월_31일",
+			"entityName": "8월_31일"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 251,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 258,
+			"ancestor": "-1",
+			"surface": "FC_BATE",
+			"entityName": "FC_BATE"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 270,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 275,
+			"ancestor": "",
+			"surface": "2012년",
+			"entityName": "2012년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 276,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 283,
+			"ancestor": "5-4",
+			"coref_index": 159,
+			"surface": "사우스_차이나",
+			"entityName": "사우스_차이나"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 149,
+			"ancestor": "",
+			"surface": "2009년_8월_30일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 205,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 217,
+			"ancestor": "",
+			"surface": "2011년_1월_20일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 15,
+			"ancestor": "",
+			"surface": "2008년_8월_19일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 84,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 94,
+			"ancestor": "5-1",
+			"coref_index": 160,
+			"surface": "파리_생제르맹_FC",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 2008년_8월_19일 여름 이적시장에서 400만 유로의 이적료로 리그_1의 파리_생제르맹_FC으로 1년 임대를 떠나게 되었고, 시즌이 끝난 뒤 파리_생제르맹_FC에서 100만 유로의 이적료를 추가로 지불하여 완전 이적에 성공하였다. 그는 2009년_8월_30일 러시아_프리미어리그의 FC_제니트_상트페테르부르크로 임대 이적하였고, 시즌이 끝난 뒤 복귀하였다. 2011년_1월_20일 사우스_차이나에 입단했고, 계약 기간이 끝나자 8월_31일 FC_BATE에 입단해 활약했다. 2012년 사우스_차이나로 돌아와 그곳에서 은퇴했다."
+}

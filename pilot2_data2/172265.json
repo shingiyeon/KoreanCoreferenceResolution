@@ -1,0 +1,1892 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 288,
+			"text": "13세가 되던 해",
+			"is_pronoun": true,
+			"en_modified": 297,
+			"en": 297,
+			"st_modified": 288
+		},
+		{
+			"st": 1007,
+			"text": "자기_방어권",
+			"is_pronoun": true,
+			"en_modified": 1013,
+			"en": 1013,
+			"st_modified": 1007
+		},
+		{
+			"st": 1071,
+			"text": "지난 날",
+			"is_pronoun": true,
+			"en_modified": 1075,
+			"en": 1075,
+			"st_modified": 1071
+		},
+		{
+			"st": 1095,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 1097,
+			"en": 1097,
+			"st_modified": 1095
+		},
+		{
+			"st": 1110,
+			"text": "나",
+			"is_pronoun": true,
+			"en_modified": 1111,
+			"en": 1111,
+			"st_modified": 1110
+		},
+		{
+			"st": 1113,
+			"text": "그런 말",
+			"is_pronoun": true,
+			"en_modified": 1117,
+			"en": 1117,
+			"st_modified": 1113
+		},
+		{
+			"st": 1113,
+			"text": "그런 말을 했다는 걸",
+			"is_pronoun": true,
+			"en_modified": 1124,
+			"en": 1124,
+			"st_modified": 1113
+		},
+		{
+			"st": 1131,
+			"text": "나",
+			"is_pronoun": true,
+			"en_modified": 1132,
+			"en": 1132,
+			"st_modified": 1131
+		},
+		{
+			"st": 1141,
+			"text": "그런 것들",
+			"is_pronoun": true,
+			"en_modified": 1146,
+			"en": 1146,
+			"st_modified": 1141
+		},
+		{
+			"st": 1285,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1286,
+			"en": 1286,
+			"st_modified": 1285
+		},
+		{
+			"st": 1285,
+			"text": "그의 아버지",
+			"is_pronoun": true,
+			"en_modified": 1291,
+			"en": 1291,
+			"st_modified": 1285
+		},
+		{
+			"st": 1285,
+			"text": "그의 아버지 얼",
+			"is_pronoun": true,
+			"en_modified": 1293,
+			"en": 1293,
+			"st_modified": 1285
+		},
+		{
+			"st": 1285,
+			"text": "그의 아버지 얼 리틀",
+			"is_pronoun": true,
+			"en_modified": 1296,
+			"en": 1296,
+			"st_modified": 1285
+		},
+		{
+			"st": 1407,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 1409,
+			"en": 1409,
+			"st_modified": 1407
+		},
+		{
+			"st": 1407,
+			"text": "자신의 아버지",
+			"is_pronoun": true,
+			"en_modified": 1414,
+			"en": 1414,
+			"st_modified": 1407
+		},
+		{
+			"st": 1442,
+			"text": "자기_존중",
+			"is_pronoun": true,
+			"en_modified": 1447,
+			"en": 1447,
+			"st_modified": 1442
+		},
+		{
+			"st": 1499,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1500,
+			"en": 1500,
+			"st_modified": 1499
+		},
+		{
+			"st": 1570,
+			"text": "얼마",
+			"is_pronoun": true,
+			"en_modified": 1572,
+			"en": 1572,
+			"st_modified": 1570
+		},
+		{
+			"st": 1570,
+			"text": "얼마 후",
+			"is_pronoun": true,
+			"en_modified": 1574,
+			"en": 1574,
+			"st_modified": 1570
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 288,
+			"ancestor": "-1",
+			"surface": "13세가 되던 해",
+			"en_modified": 297,
+			"en": 297,
+			"st_modified": 288,
+			"id": 0
+		},
+		{
+			"st": 1007,
+			"ancestor": "-1",
+			"surface": "자기_방어권이",
+			"en_modified": 1014,
+			"en": 1014,
+			"st_modified": 1007,
+			"id": 1
+		},
+		{
+			"st": 1071,
+			"ancestor": "-1",
+			"surface": "지난 날",
+			"en_modified": 1075,
+			"en": 1075,
+			"st_modified": 1071,
+			"id": 2
+		},
+		{
+			"st": 1095,
+			"ancestor": "1-3",
+			"surface": "자신",
+			"en_modified": 1097,
+			"en": 1097,
+			"st_modified": 1095,
+			"id": 3,
+			"coref_index": 289
+		},
+		{
+			"st": 1110,
+			"ancestor": "1-41",
+			"surface": "나",
+			"en_modified": 1111,
+			"en": 1111,
+			"st_modified": 1110,
+			"id": 4,
+			"coref_index": 289
+		},
+		{
+			"st": 1113,
+			"ancestor": "-1",
+			"surface": "그런 말을",
+			"en_modified": 1118,
+			"en": 1118,
+			"st_modified": 1113,
+			"id": 5
+		},
+		{
+			"st": 1113,
+			"ancestor": "-1",
+			"surface": "그런 말을 했다는 걸",
+			"en_modified": 1124,
+			"en": 1124,
+			"st_modified": 1113,
+			"id": 6
+		},
+		{
+			"st": 1131,
+			"ancestor": "1-41",
+			"surface": "나",
+			"en_modified": 1132,
+			"en": 1132,
+			"st_modified": 1131,
+			"id": 7,
+			"coref_index": 289
+		},
+		{
+			"st": 1141,
+			"ancestor": "1-57",
+			"surface": "그런 것들",
+			"en_modified": 1146,
+			"en": 1146,
+			"st_modified": 1141,
+			"id": 8,
+			"coref_index": 290
+		},
+		{
+			"st": 1285,
+			"ancestor": "1-78",
+			"surface": "그",
+			"en_modified": 1286,
+			"en": 1286,
+			"st_modified": 1285,
+			"id": 9,
+			"coref_index": 289
+		},
+		{
+			"st": 1285,
+			"ancestor": "1-81",
+			"surface": "그의 아버지",
+			"en_modified": 1291,
+			"en": 1291,
+			"st_modified": 1285,
+			"id": 10,
+			"coref_index": 295
+		},
+		{
+			"st": 1285,
+			"ancestor": "-1",
+			"surface": "그의 아버지 얼",
+			"en_modified": 1293,
+			"en": 1293,
+			"st_modified": 1285,
+			"id": 11
+		},
+		{
+			"st": 1285,
+			"ancestor": "1-81",
+			"surface": "그의 아버지 얼 리틀",
+			"en_modified": 1296,
+			"en": 1296,
+			"st_modified": 1285,
+			"id": 12,
+			"coref_index": 295
+		},
+		{
+			"st": 1407,
+			"ancestor": "1-78",
+			"surface": "자신",
+			"en_modified": 1409,
+			"en": 1409,
+			"st_modified": 1407,
+			"id": 13,
+			"coref_index": 289
+		},
+		{
+			"st": 1407,
+			"ancestor": "1-81",
+			"surface": "자신의 아버지와",
+			"en_modified": 1415,
+			"en": 1415,
+			"st_modified": 1407,
+			"id": 14,
+			"coref_index": 295
+		},
+		{
+			"st": 1442,
+			"ancestor": "-1",
+			"surface": "자기_존중을",
+			"en_modified": 1448,
+			"en": 1448,
+			"st_modified": 1442,
+			"id": 15
+		},
+		{
+			"st": 1499,
+			"ancestor": "-1",
+			"surface": "그로",
+			"en_modified": 1501,
+			"en": 1501,
+			"st_modified": 1499,
+			"id": 16
+		},
+		{
+			"st": 1570,
+			"ancestor": "-1",
+			"surface": "얼마",
+			"en_modified": 1572,
+			"en": 1572,
+			"st_modified": 1570,
+			"id": 17
+		},
+		{
+			"st": 1570,
+			"ancestor": "-1",
+			"surface": "얼마 후",
+			"en_modified": 1574,
+			"en": 1574,
+			"st_modified": 1570,
+			"id": 18
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 86,
+			"st_modified": 81,
+			"coref_index": 294,
+			"entityName": "맬컴_엑스",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 81,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "맬컴_리틀",
+			"is_target": true,
+			"en": 86,
+			"id": 0
+		},
+		{
+			"en_modified": 112,
+			"entityName": "수니파",
+			"st_modified": 109,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 109,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "수니파",
+			"is_target": true,
+			"en": 112,
+			"id": 1
+		},
+		{
+			"en_modified": 140,
+			"st_modified": 127,
+			"coref_index": 289,
+			"entityName": "맬컴_엑스",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 127,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "엘_하지_말릭_엘_샤바즈",
+			"is_target": true,
+			"en": 140,
+			"id": 2
+		},
+		{
+			"en_modified": 5,
+			"st_modified": 0,
+			"coref_index": 289,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "맬컴_엑스",
+			"is_target": true,
+			"en": 5,
+			"id": 3
+		},
+		{
+			"en_modified": 20,
+			"entityName": "",
+			"st_modified": 8,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 8,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1925년_5월_19일",
+			"is_target": false,
+			"en": 20,
+			"id": 4
+		},
+		{
+			"en_modified": 35,
+			"entityName": "",
+			"st_modified": 23,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 23,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1965년_2월_21일",
+			"is_target": false,
+			"en": 35,
+			"id": 5
+		},
+		{
+			"en_modified": 64,
+			"entityName": "",
+			"st_modified": 57,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 57,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이슬람_운동가",
+			"is_target": true,
+			"en": 64,
+			"id": 6
+		},
+		{
+			"en_modified": 211,
+			"st_modified": 184,
+			"coref_index": 290,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 184,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "네이션_오브_이슬람(Nation_of_Islam)",
+			"is_target": true,
+			"en": 211,
+			"id": 7
+		},
+		{
+			"en_modified": 54,
+			"entityName": "",
+			"st_modified": 42,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 42,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "흑인_인권_운동_활동가",
+			"is_target": true,
+			"en": 54,
+			"id": 8
+		},
+		{
+			"en_modified": 252,
+			"entityName": "백인_우월주의",
+			"st_modified": 244,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 244,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "백인_우월주의자",
+			"is_target": true,
+			"en": 252,
+			"id": 9
+		},
+		{
+			"en_modified": 277,
+			"entityName": "린치",
+			"st_modified": 275,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 275,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "린치",
+			"is_target": true,
+			"en": 277,
+			"id": 10
+		},
+		{
+			"en_modified": 379,
+			"entityName": "1946년",
+			"st_modified": 374,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 374,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1946년",
+			"is_target": false,
+			"en": 379,
+			"id": 11
+		},
+		{
+			"en_modified": 229,
+			"st_modified": 225,
+			"coref_index": 295,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 225,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "얼_리틀",
+			"is_target": true,
+			"en": 229,
+			"id": 12
+		},
+		{
+			"en_modified": 267,
+			"st_modified": 265,
+			"coref_index": 289,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 265,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "맬컴",
+			"is_target": true,
+			"en": 267,
+			"id": 13
+		},
+		{
+			"en_modified": 271,
+			"entityName": "",
+			"st_modified": 269,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 269,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "삼촌",
+			"is_target": true,
+			"en": 271,
+			"id": 14
+		},
+		{
+			"en_modified": 291,
+			"entityName": "",
+			"st_modified": 288,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 288,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "13세",
+			"is_target": true,
+			"en": 291,
+			"id": 15
+		},
+		{
+			"en_modified": 301,
+			"entityName": "",
+			"st_modified": 298,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 298,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "어머니",
+			"is_target": true,
+			"en": 301,
+			"id": 16
+		},
+		{
+			"en_modified": 307,
+			"entityName": "",
+			"st_modified": 303,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 303,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "정신병원",
+			"is_target": true,
+			"en": 307,
+			"id": 17
+		},
+		{
+			"en_modified": 325,
+			"entityName": "",
+			"st_modified": 320,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 320,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "위탁_가정",
+			"is_target": true,
+			"en": 325,
+			"id": 18
+		},
+		{
+			"en_modified": 339,
+			"entityName": "",
+			"st_modified": 337,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 337,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "흑인",
+			"is_target": true,
+			"en": 339,
+			"id": 19
+		},
+		{
+			"en_modified": 357,
+			"entityName": "",
+			"st_modified": 352,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 352,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "의무_부과",
+			"is_target": true,
+			"en": 357,
+			"id": 20
+		},
+		{
+			"en_modified": 366,
+			"entityName": "",
+			"st_modified": 364,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 364,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "병역",
+			"is_target": true,
+			"en": 366,
+			"id": 21
+		},
+		{
+			"en_modified": 387,
+			"entityName": "",
+			"st_modified": 382,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 382,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "불법_침입",
+			"is_target": true,
+			"en": 387,
+			"id": 22
+		},
+		{
+			"en_modified": 397,
+			"entityName": "",
+			"st_modified": 389,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 389,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기물_파손_혐의",
+			"is_target": true,
+			"en": 397,
+			"id": 23
+		},
+		{
+			"en_modified": 402,
+			"entityName": "",
+			"st_modified": 399,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 399,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "징역형",
+			"is_target": true,
+			"en": 402,
+			"id": 24
+		},
+		{
+			"en_modified": 437,
+			"st_modified": 427,
+			"coref_index": 290,
+			"entityName": "네이션_오브_이슬람",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 427,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "네이션_오브_이슬람",
+			"is_target": true,
+			"en": 437,
+			"id": 25
+		},
+		{
+			"en_modified": 501,
+			"st_modified": 491,
+			"coref_index": 290,
+			"entityName": "네이션_오브_이슬람",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 491,
+			"ancestor": "1-25",
+			"ne_type": "ETC",
+			"surface": "네이션_오브_이슬람",
+			"is_target": true,
+			"en": 501,
+			"id": 26
+		},
+		{
+			"en_modified": 545,
+			"entityName": "일라이저_무하마드",
+			"st_modified": 536,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 536,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "일라이저_무하마드",
+			"is_target": true,
+			"en": 545,
+			"id": 27
+		},
+		{
+			"en_modified": 571,
+			"st_modified": 568,
+			"coref_index": 291,
+			"entityName": "이슬람교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 568,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이슬람",
+			"is_target": true,
+			"en": 571,
+			"id": 28
+		},
+		{
+			"en_modified": 584,
+			"entityName": "아프리카",
+			"st_modified": 580,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "ELU",
+			"st": 580,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "아프리카",
+			"is_target": true,
+			"en": 584,
+			"id": 29
+		},
+		{
+			"en_modified": 590,
+			"entityName": "중동",
+			"st_modified": 586,
+			"kbox_types": [
+				"Place",
+				"Airport",
+				"Infrastructure",
+				"ArchitecturalStructure"
+			],
+			"eType": "ELU",
+			"st": 586,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "중동지역",
+			"is_target": true,
+			"en": 590,
+			"id": 30
+		},
+		{
+			"en_modified": 615,
+			"entityName": "무슬림_모스크_인코퍼레이션",
+			"st_modified": 601,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 601,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "무슬림_모스크_인코퍼레이션",
+			"is_target": true,
+			"en": 615,
+			"id": 31
+		},
+		{
+			"en_modified": 652,
+			"entityName": "아프로_아메리칸_연대_기구",
+			"st_modified": 638,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 638,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아프로_아메리칸_연대_기구",
+			"is_target": true,
+			"en": 652,
+			"id": 32
+		},
+		{
+			"en_modified": 721,
+			"st_modified": 711,
+			"coref_index": 290,
+			"entityName": "네이션_오브_이슬람",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 711,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "네이션_오브_이슬람",
+			"is_target": true,
+			"en": 721,
+			"id": 33
+		},
+		{
+			"en_modified": 754,
+			"st_modified": 744,
+			"coref_index": 290,
+			"entityName": "네이션_오브_이슬람",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 744,
+			"ancestor": "1-26",
+			"ne_type": "ETC",
+			"surface": "네이션_오브_이슬람",
+			"is_target": true,
+			"en": 754,
+			"id": 34
+		},
+		{
+			"en_modified": 743,
+			"entityName": "",
+			"st_modified": 735,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 735,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1965년_2월",
+			"is_target": false,
+			"en": 743,
+			"id": 35
+		},
+		{
+			"en_modified": 815,
+			"st_modified": 805,
+			"coref_index": 290,
+			"entityName": "네이션_오브_이슬람",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 805,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "네이션_오브_이슬람",
+			"is_target": true,
+			"en": 815,
+			"id": 36
+		},
+		{
+			"en_modified": 838,
+			"entityName": "흑인_우월주의",
+			"st_modified": 831,
+			"kbox_types": [
+				"Ideology",
+				"TopicalConcept"
+			],
+			"eType": "WIKILINK",
+			"st": 831,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "흑인_우월주의",
+			"is_target": true,
+			"en": 838,
+			"id": 37
+		},
+		{
+			"en_modified": 879,
+			"entityName": "인종_간_화합",
+			"st_modified": 872,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 872,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인종_간_화합",
+			"is_target": true,
+			"en": 879,
+			"id": 38
+		},
+		{
+			"en_modified": 912,
+			"entityName": "흑인_분리주의",
+			"st_modified": 905,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 905,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "흑인_분리주의",
+			"is_target": true,
+			"en": 912,
+			"id": 39
+		},
+		{
+			"en_modified": 935,
+			"st_modified": 932,
+			"coref_index": 291,
+			"entityName": "이슬람교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 932,
+			"ancestor": "1-28",
+			"ne_type": "ETC",
+			"surface": "이슬람",
+			"is_target": true,
+			"en": 935,
+			"id": 40
+		},
+		{
+			"en_modified": 779,
+			"st_modified": 774,
+			"coref_index": 289,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 774,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "맬컴_엑스",
+			"is_target": true,
+			"en": 779,
+			"id": 41
+		},
+		{
+			"en_modified": 820,
+			"st_modified": 817,
+			"coref_index": 292,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 817,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "대변인",
+			"is_target": true,
+			"en": 820,
+			"id": 42
+		},
+		{
+			"en_modified": 849,
+			"entityName": "",
+			"st_modified": 847,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 847,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "미국",
+			"is_target": true,
+			"en": 849,
+			"id": 43
+		},
+		{
+			"en_modified": 870,
+			"entityName": "",
+			"st_modified": 862,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 862,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "흑인_인권_운동",
+			"is_target": true,
+			"en": 870,
+			"id": 44
+		},
+		{
+			"en_modified": 899,
+			"entityName": "",
+			"st_modified": 897,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 897,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "국가",
+			"is_target": true,
+			"en": 899,
+			"id": 45
+		},
+		{
+			"en_modified": 961,
+			"entityName": "",
+			"st_modified": 953,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 953,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인종_차별_반대",
+			"is_target": true,
+			"en": 961,
+			"id": 46
+		},
+		{
+			"en_modified": 970,
+			"entityName": "",
+			"st_modified": 967,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 967,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시민권",
+			"is_target": true,
+			"en": 970,
+			"id": 47
+		},
+		{
+			"en_modified": 1005,
+			"entityName": "",
+			"st_modified": 999,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 999,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "민족_자결권",
+			"is_target": true,
+			"en": 1005,
+			"id": 48
+		},
+		{
+			"en_modified": 1013,
+			"entityName": "",
+			"st_modified": 1007,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1007,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "자기_방어권",
+			"is_target": true,
+			"en": 1013,
+			"id": 49
+		},
+		{
+			"en_modified": 783,
+			"entityName": "",
+			"st_modified": 781,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 781,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사상",
+			"is_target": true,
+			"en": 783,
+			"id": 50
+		},
+		{
+			"en_modified": 1047,
+			"entityName": "사진가",
+			"st_modified": 1042,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "ELU",
+			"st": 1042,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사진_작가",
+			"is_target": true,
+			"en": 1047,
+			"id": 51
+		},
+		{
+			"en_modified": 1056,
+			"entityName": "고던_파크스",
+			"st_modified": 1050,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 1050,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "고던_파크스",
+			"is_target": true,
+			"en": 1056,
+			"id": 52
+		},
+		{
+			"en_modified": 1028,
+			"entityName": "",
+			"st_modified": 1026,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1026,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "암살",
+			"is_target": true,
+			"en": 1028,
+			"id": 53
+		},
+		{
+			"en_modified": 1039,
+			"entityName": "",
+			"st_modified": 1034,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1034,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "저널리스트",
+			"is_target": true,
+			"en": 1039,
+			"id": 54
+		},
+		{
+			"en_modified": 1061,
+			"entityName": "",
+			"st_modified": 1058,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1058,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인터뷰",
+			"is_target": true,
+			"en": 1061,
+			"id": 55
+		},
+		{
+			"en_modified": 1069,
+			"st_modified": 1067,
+			"coref_index": 289,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1067,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "엑스",
+			"is_target": true,
+			"en": 1069,
+			"id": 56
+		},
+		{
+			"en_modified": 1086,
+			"st_modified": 1076,
+			"coref_index": 290,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1076,
+			"ancestor": "1-25",
+			"ne_type": "ORGANIZATION",
+			"surface": "네이션_오브_이슬람",
+			"is_target": true,
+			"en": 1086,
+			"id": 57
+		},
+		{
+			"en_modified": 1091,
+			"st_modified": 1088,
+			"coref_index": 292,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1088,
+			"ancestor": "1-42",
+			"ne_type": "PERSON",
+			"surface": "대변인",
+			"is_target": true,
+			"en": 1091,
+			"id": 58
+		},
+		{
+			"en_modified": 1104,
+			"st_modified": 1102,
+			"coref_index": 293,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1102,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "발언",
+			"is_target": true,
+			"en": 1104,
+			"id": 59
+		},
+		{
+			"en_modified": 1136,
+			"entityName": "",
+			"st_modified": 1134,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1134,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "좀비",
+			"is_target": true,
+			"en": 1136,
+			"id": 60
+		},
+		{
+			"en_modified": 1117,
+			"st_modified": 1116,
+			"coref_index": 293,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1116,
+			"ancestor": "1-59",
+			"ne_type": "ETC",
+			"surface": "말",
+			"is_target": true,
+			"en": 1117,
+			"id": 61
+		},
+		{
+			"en_modified": 1174,
+			"entityName": "",
+			"st_modified": 1172,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1172,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "생애",
+			"is_target": true,
+			"en": 1174,
+			"id": 62
+		},
+		{
+			"en_modified": 1180,
+			"entityName": "",
+			"st_modified": 1175,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1175,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "생애_초반",
+			"is_target": true,
+			"en": 1180,
+			"id": 63
+		},
+		{
+			"en_modified": 1264,
+			"st_modified": 1259,
+			"coref_index": 294,
+			"entityName": "맬컴_엑스",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1259,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "맬컴_리틀",
+			"is_target": true,
+			"en": 1264,
+			"id": 64
+		},
+		{
+			"en_modified": 1301,
+			"entityName": "침례교",
+			"st_modified": 1298,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1298,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "침례교",
+			"is_target": true,
+			"en": 1301,
+			"id": 65
+		},
+		{
+			"en_modified": 1309,
+			"entityName": "평신도",
+			"st_modified": 1306,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1306,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "평신도",
+			"is_target": true,
+			"en": 1309,
+			"id": 66
+		},
+		{
+			"en_modified": 1329,
+			"entityName": "범아프리카주의",
+			"st_modified": 1321,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1321,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "범아프리카주의자",
+			"is_target": true,
+			"en": 1329,
+			"id": 67
+		},
+		{
+			"en_modified": 1338,
+			"entityName": "마커스_가비",
+			"st_modified": 1332,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1332,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마커스_가비",
+			"is_target": true,
+			"en": 1338,
+			"id": 68
+		},
+		{
+			"en_modified": 1371,
+			"entityName": "만국_흑인_진보_연합",
+			"st_modified": 1360,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1360,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "만국_흑인_진보_연합",
+			"is_target": true,
+			"en": 1371,
+			"id": 69
+		},
+		{
+			"en_modified": 1467,
+			"entityName": "아버지",
+			"st_modified": 1464,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1464,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아버지",
+			"is_target": true,
+			"en": 1467,
+			"id": 70
+		},
+		{
+			"en_modified": 1538,
+			"entityName": "쿠_클럭스_클랜",
+			"st_modified": 1530,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1530,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "쿠_클럭스_클랜",
+			"is_target": true,
+			"en": 1538,
+			"id": 71
+		},
+		{
+			"en_modified": 1556,
+			"entityName": "위스콘신_주",
+			"st_modified": 1550,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"eType": "WIKILINK",
+			"st": 1550,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "위스콘신_주",
+			"is_target": true,
+			"en": 1556,
+			"id": 72
+		},
+		{
+			"en_modified": 1561,
+			"entityName": "밀워키",
+			"st_modified": 1558,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1558,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "밀워키",
+			"is_target": true,
+			"en": 1561,
+			"id": 73
+		},
+		{
+			"en_modified": 1583,
+			"entityName": "미시간_주",
+			"st_modified": 1578,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"eType": "WIKILINK",
+			"st": 1578,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "미시간_주",
+			"is_target": true,
+			"en": 1583,
+			"id": 74
+		},
+		{
+			"en_modified": 1587,
+			"entityName": "랜싱",
+			"st_modified": 1585,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1585,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "랜싱",
+			"is_target": true,
+			"en": 1587,
+			"id": 75
+		},
+		{
+			"en_modified": 1183,
+			"entityName": "",
+			"st_modified": 1181,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1181,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "출생",
+			"is_target": true,
+			"en": 1183,
+			"id": 76
+		},
+		{
+			"en_modified": 1187,
+			"entityName": "",
+			"st_modified": 1185,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1185,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "가계",
+			"is_target": true,
+			"en": 1187,
+			"id": 77
+		},
+		{
+			"en_modified": 1193,
+			"st_modified": 1188,
+			"coref_index": 289,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1188,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "맬컴_엑스",
+			"is_target": true,
+			"en": 1193,
+			"id": 78
+		},
+		{
+			"en_modified": 1207,
+			"entityName": "",
+			"st_modified": 1195,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1195,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1925년_5월_19일",
+			"is_target": false,
+			"en": 1207,
+			"id": 79
+		},
+		{
+			"en_modified": 1222,
+			"entityName": "",
+			"st_modified": 1208,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1208,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "미국_네브래스카_주_오마하",
+			"is_target": true,
+			"en": 1222,
+			"id": 80
+		},
+		{
+			"en_modified": 1229,
+			"st_modified": 1225,
+			"coref_index": 295,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1225,
+			"ancestor": "1-12",
+			"ne_type": "PERSON",
+			"surface": "얼_리틀",
+			"is_target": true,
+			"en": 1229,
+			"id": 81
+		},
+		{
+			"en_modified": 1237,
+			"entityName": "",
+			"st_modified": 1231,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1231,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "루이스_노턴",
+			"is_target": true,
+			"en": 1237,
+			"id": 82
+		},
+		{
+			"en_modified": 1241,
+			"entityName": "",
+			"st_modified": 1239,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1239,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아들",
+			"is_target": true,
+			"en": 1241,
+			"id": 83
+		},
+		{
+			"en_modified": 1355,
+			"entityName": "",
+			"st_modified": 1353,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1353,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "가비",
+			"is_target": true,
+			"en": 1355,
+			"id": 84
+		},
+		{
+			"en_modified": 1386,
+			"entityName": "",
+			"st_modified": 1384,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1384,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "간부",
+			"is_target": true,
+			"en": 1386,
+			"id": 85
+		},
+		{
+			"en_modified": 1447,
+			"entityName": "",
+			"st_modified": 1442,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1442,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "자기_존중",
+			"is_target": true,
+			"en": 1447,
+			"id": 86
+		},
+		{
+			"en_modified": 1471,
+			"entityName": "",
+			"st_modified": 1469,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1469,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "형제",
+			"is_target": true,
+			"en": 1471,
+			"id": 87
+		},
+		{
+			"en_modified": 1475,
+			"entityName": "",
+			"st_modified": 1472,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1472,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "세_명",
+			"is_target": true,
+			"en": 1475,
+			"id": 88
+		},
+		{
+			"en_modified": 1483,
+			"entityName": "",
+			"st_modified": 1480,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1480,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "한_명",
+			"is_target": true,
+			"en": 1483,
+			"id": 89
+		},
+		{
+			"en_modified": 1527,
+			"entityName": "",
+			"st_modified": 1525,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1525,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "가족",
+			"is_target": true,
+			"en": 1527,
+			"id": 90
+		},
+		{
+			"en_modified": 1565,
+			"entityName": "",
+			"st_modified": 1563,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1563,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이사",
+			"is_target": true,
+			"en": 1565,
+			"id": 91
+		},
+		{
+			"en_modified": 1520,
+			"entityName": "",
+			"st_modified": 1515,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1515,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1926년",
+			"is_target": false,
+			"en": 1520,
+			"id": 92
+		}
+	],
+	"globalSID": "1135831,1135832,1135833,1135834,1135835,1135836,1135837,1135838,1135839,1135840,1135841,1135842,1135843,1135844,1135845,1135846,1135847,1135848,1135849,1135850,1135851,1135852,1135853,1135854,1135855,1135856",
+	"plainText": "맬컴_엑스(, 1925년_5월_19일 ~ 1965년_2월_21일)는 미국의 흑인_인권_운동_활동가이자 이슬람_운동가이다. 이슬람 개종 전 이름인 맬컴_리틀(Malcolm Little)이나 말년에 수니파로 귀의한 후 얻은 이름인 엘_하지_말릭_엘_샤바즈()로도 알려져 있다. 미국의 흑인 무슬림 지도자이자 흑인 이슬람 종교 단체인 네이션_오브_이슬람(Nation_of_Islam)의 대변인이었다. 아버지 얼_리틀(Earl Little)은 백인_우월주의자에 의해 살해당하였고, 맬컴의 삼촌 역시 린치를 당했다. 맬컴이 13세가 되던 해 어머니는 정신병원에 입원하였고, 맬컴은 위탁_가정을 전전하게 되었다. 흑인에 대한 부당한 대우와 의무_부과에 저항하여 병역을 거부하였고 1946년에는 불법_침입과 기물_파손_혐의로 징역형을 받았다. 맬컴 엑스는 수감 생활을 하면서 네이션_오브_이슬람에 가입하였고, 1952년 가석방으로 출감한 이후에는 지도자가 되었다. 맬컴 엑스는 12년 동안 네이션_오브_이슬람의 대표적인 논객으로 활동하였지만, 1964년 3월 회장이었던 일라이저_무하마드와 불화를 겪고 탈퇴하였다. 네이션 오브 이슬람에서 탈퇴한 뒤 아프리카와 중동지역을 여행하고 돌아와 무슬림_모스크_인코퍼레이션(Muslim Mosque, Inc.)과 아프로_아메리칸_연대_기구(Organization of Afro-American Unity, OAAU)를 설립하였다. 맬컴 엑스가 네이션_오브_이슬람을 탈퇴하고 1년쯤 후인 1965년_2월 네이션_오브_이슬람의 회원 세 명에 의해 암살되었다. 맬컴_엑스의 사상은 시간이 지남에 따라 크게 바뀌었다. 네이션_오브_이슬람의 대변인이었던 시절 엑스는 흑인_우월주의를 주장하였고, 미국 내에서 크게 일어났던 흑인_인권_운동이 인종_간_화합을 주장했던 것과 달리 흑인만의 국가를 세우는 흑인_분리주의를 지지하였다. 그러나 네이션 오브 이슬람과 결별한 뒤에는 생각을 바꾸어 인종_차별_반대와 흑인의 시민권 신장을 위해 활동하였다. 하지만 여전히 흑인들에게 민족_자결권과 자기_방어권이 있다고 주장하였다. 암살되기 직전 저널리스트이자 사진_작가였던 고던_파크스와 인터뷰를 하면서 엑스는 지난 날 네이션_오브_이슬람의 대변인으로서 자신이 했던 발언에 대해 \"나는 그런 말을 했다는 걸 후회한다. 나는 좀비였고…… 그런 것들에 빠져들어 너무 많은 말을 했다\"고 밝혔다. 생애 생애_초반 출생과 가계 맬컴_엑스는 1925년_5월_19일 미국_네브래스카_주_오마하에서 얼_리틀과 루이스_노턴의 아들로 태어났다. 출생 당시 이름은 맬컴_리틀(Malcolm Little)이었다. 그의 아버지 얼 리틀은 침례교를 믿는 평신도 설교자였고, 동시에 범아프리카주의자였던 마커스_가비를 지지하였다. 얼 리틀은 가비가 세운 만국_흑인_진보_연합(UNIA)에 가입하여 간부로 활동하였다. 맬컴 엑스는 평생동안 자신의 아버지와 만국 흑인 진보 연합이 설파한 흑인의 자존심과 자기_존중을 잊지 않았다. 엑스는 훗날 아버지의 형제 세_명 가운데 한_명이 백인들에게 린치를 당했고 그로 인해 죽었다고 말했다. 1926년 엑스의 가족들은 쿠_클럭스_클랜의 가혹 행위를 피해 위스콘신_주의 밀워키로 이사하였고, 얼마 후 다시 미시간_주의 랜싱으로 옮겼다. ",
+	"docID": "172265",
+	"ModifiedText": "맬컴 엑스(, 1925년 5월 19일 ~ 1965년 2월 21일)는 미국의 흑인 인권 운동 활동가이자 이슬람 운동가이다. 이슬람 개종 전 이름인 맬컴 리틀(Malcolm Little)이나 말년에 수니파로 귀의한 후 얻은 이름인 엘 하지 말릭 엘 샤바즈()로도 알려져 있다. 미국의 흑인 무슬림 지도자이자 흑인 이슬람 종교 단체인 네이션 오브 이슬람(Nation of Islam)의 대변인이었다. 아버지 얼 리틀(Earl Little)은 백인 우월주의자에 의해 살해당하였고, 맬컴의 삼촌 역시 린치를 당했다. 맬컴이 13세가 되던 해 어머니는 정신병원에 입원하였고, 맬컴은 위탁 가정을 전전하게 되었다. 흑인에 대한 부당한 대우와 의무 부과에 저항하여 병역을 거부하였고 1946년에는 불법 침입과 기물 파손 혐의로 징역형을 받았다. 맬컴 엑스는 수감 생활을 하면서 네이션 오브 이슬람에 가입하였고, 1952년 가석방으로 출감한 이후에는 지도자가 되었다. 맬컴 엑스는 12년 동안 네이션 오브 이슬람의 대표적인 논객으로 활동하였지만, 1964년 3월 회장이었던 일라이저 무하마드와 불화를 겪고 탈퇴하였다. 네이션 오브 이슬람에서 탈퇴한 뒤 아프리카와 중동지역을 여행하고 돌아와 무슬림 모스크 인코퍼레이션(Muslim Mosque, Inc.)과 아프로 아메리칸 연대 기구(Organization of Afro-American Unity, OAAU)를 설립하였다. 맬컴 엑스가 네이션 오브 이슬람을 탈퇴하고 1년쯤 후인 1965년 2월 네이션 오브 이슬람의 회원 세 명에 의해 암살되었다. 맬컴 엑스의 사상은 시간이 지남에 따라 크게 바뀌었다. 네이션 오브 이슬람의 대변인이었던 시절 엑스는 흑인 우월주의를 주장하였고, 미국 내에서 크게 일어났던 흑인 인권 운동이 인종 간 화합을 주장했던 것과 달리 흑인만의 국가를 세우는 흑인 분리주의를 지지하였다. 그러나 네이션 오브 이슬람과 결별한 뒤에는 생각을 바꾸어 인종 차별 반대와 흑인의 시민권 신장을 위해 활동하였다. 하지만 여전히 흑인들에게 민족 자결권과 자기 방어권이 있다고 주장하였다. 암살되기 직전 저널리스트이자 사진 작가였던 고던 파크스와 인터뷰를 하면서 엑스는 지난 날 네이션 오브 이슬람의 대변인으로서 자신이 했던 발언에 대해 \"나는 그런 말을 했다는 걸 후회한다. 나는 좀비였고…… 그런 것들에 빠져들어 너무 많은 말을 했다\"고 밝혔다. 생애 생애 초반 출생과 가계 맬컴 엑스는 1925년 5월 19일 미국 네브래스카 주 오마하에서 얼 리틀과 루이스 노턴의 아들로 태어났다. 출생 당시 이름은 맬컴 리틀(Malcolm Little)이었다. 그의 아버지 얼 리틀은 침례교를 믿는 평신도 설교자였고, 동시에 범아프리카주의자였던 마커스 가비를 지지하였다. 얼 리틀은 가비가 세운 만국 흑인 진보 연합(UNIA)에 가입하여 간부로 활동하였다. 맬컴 엑스는 평생동안 자신의 아버지와 만국 흑인 진보 연합이 설파한 흑인의 자존심과 자기 존중을 잊지 않았다. 엑스는 훗날 아버지의 형제 세 명 가운데 한 명이 백인들에게 린치를 당했고 그로 인해 죽었다고 말했다. 1926년 엑스의 가족들은 쿠 클럭스 클랜의 가혹 행위를 피해 위스콘신 주의 밀워키로 이사하였고, 얼마 후 다시 미시간 주의 랜싱으로 옮겼다. "
+}

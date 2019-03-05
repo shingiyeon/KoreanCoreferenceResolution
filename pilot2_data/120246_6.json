@@ -1,0 +1,387 @@
+{
+	"docID": "120246",
+	"globalSID": "878292,878293,878294,878295,878296",
+	"pronouns": [
+		{
+			"st": 90,
+			"coref_index": 101,
+			"id": 0,
+			"en": 91,
+			"ancestor": "6-0",
+			"surface": "그"
+		},
+		{
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "그의 정확한 출생일",
+			"id": 1,
+			"st": 90
+		},
+		{
+			"st": 191,
+			"coref_index": 101,
+			"id": 2,
+			"en": 192,
+			"ancestor": "6-0",
+			"surface": "그"
+		},
+		{
+			"en": 202,
+			"ancestor": "-1",
+			"surface": "그의 이복_삼촌이면서",
+			"id": 3,
+			"st": 191
+		},
+		{
+			"en": 220,
+			"ancestor": "-1",
+			"surface": "그의 이복_삼촌이면서 어머니 쪽으로는 이종사촌이었다.",
+			"id": 4,
+			"st": 191
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"entityName": "카를로만_(궁재)",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 10,
+			"ancestor": "1-1",
+			"is_target": true,
+			"surface": "카를로만",
+			"coref_index": 101
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 12,
+			"eType": "WIKILINK",
+			"entityName": "828년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 16,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "828년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"entityName": "820년",
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 24,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "820년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "WIKILINK",
+			"entityName": "바이에른",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 32,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "바이에른"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"entityName": "루트비히_2세_(동프랑크)",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 45,
+			"ancestor": "3-25",
+			"is_target": true,
+			"surface": "독일왕_루트비히",
+			"coref_index": 102
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"entityName": "구엘프_1세",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 62,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "구엘프_1세"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"entityName": "바이에른의_엠므",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 74,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "엠므"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 112,
+			"eType": "ELU",
+			"entityName": "카를로만_(궁재)",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 116,
+			"ancestor": "6-0",
+			"is_target": true,
+			"surface": "카를로만",
+			"coref_index": 101
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"entityName": "루트비히_3세_(동프랑크)",
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 132,
+			"ancestor": "3-33",
+			"is_target": true,
+			"surface": "동프랑크의_소_루트비히",
+			"coref_index": 111
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 170,
+			"eType": "WIKILINK",
+			"entityName": "서프랑크_왕국",
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 177,
+			"ancestor": "2-1",
+			"is_target": true,
+			"surface": "서프랑크_왕국",
+			"coref_index": 105
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "생애_초반"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 35,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "왕"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 54,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아르톨프_백작"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 70,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "딸_바이에른"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 78,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아들"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 100,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "출생일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 134,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 143,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "비만왕_카를_3세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 147,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 149,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "형제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 162,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 164,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "삼촌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 19,
+			"ne_type": "PERSON",
+			"en": 189,
+			"ancestor": "2-2",
+			"is_target": true,
+			"surface": "대머리왕_카를_2세",
+			"coref_index": 106
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 194,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 20,
+			"ne_type": "PERSON",
+			"en": 199,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이복_삼촌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 203,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 21,
+			"ne_type": "PERSON",
+			"en": 206,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "어머니"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 212,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 216,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이종사촌"
+		}
+	],
+	"plainText": "생애_초반 카를로만은 828년 또는 820년 무렵 바이에른의 왕인 독일왕_루트비히와 아르톨프_백작의 구엘프_1세의 딸_바이에른의 엠므의 아들로 태어났다. 그러나 그의 정확한 출생일은 알려져있지 않다. 카를로만에게는 동프랑크의_소_루트비히와 비만왕_카를_3세 등의 형제들이 태어났다. 배다른 삼촌이기도 한 서프랑크_왕국의 대머리왕_카를_2세는 그의 이복_삼촌이면서 어머니 쪽으로는 이종사촌이었다."
+}

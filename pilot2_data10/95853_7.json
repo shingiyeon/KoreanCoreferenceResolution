@@ -1,0 +1,420 @@
+{
+	"docID": "95853",
+	"globalSID": "736143,736144,736145,736146,736147,736148,736149",
+	"pronouns": [
+		{
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "모든 장교와 병사들은",
+			"id": 0,
+			"st": 39
+		},
+		{
+			"st": 97,
+			"coref_index": 1167,
+			"id": 1,
+			"en": 98,
+			"ancestor": "1-11",
+			"surface": "군"
+		},
+		{
+			"en": 101,
+			"ancestor": "-1",
+			"surface": "군 관련",
+			"id": 2,
+			"st": 97
+		},
+		{
+			"en": 106,
+			"ancestor": "-1",
+			"surface": "베르사유_조약의 군 관련 조항들을",
+			"id": 3,
+			"st": 88
+		},
+		{
+			"en": 200,
+			"ancestor": "-1",
+			"surface": "이 숫자",
+			"id": 4,
+			"st": 196
+		},
+		{
+			"en": 206,
+			"ancestor": "-1",
+			"surface": "이 숫자의 징집병이",
+			"id": 5,
+			"st": 196
+		},
+		{
+			"en": 222,
+			"ancestor": "-1",
+			"surface": "이 징집법을",
+			"id": 6,
+			"st": 216
+		},
+		{
+			"st": 258,
+			"coref_index": 1168,
+			"id": 7,
+			"en": 262,
+			"ancestor": "7-10",
+			"surface": "이 날짜"
+		},
+		{
+			"en": 279,
+			"ancestor": "-1",
+			"surface": "이 날짜를 베어마흐트의 창립일로 볼 수",
+			"id": 8,
+			"st": 258
+		},
+		{
+			"st": 291,
+			"coref_index": 1167,
+			"id": 9,
+			"en": 292,
+			"ancestor": "1-11",
+			"surface": "군"
+		},
+		{
+			"en": 297,
+			"ancestor": "-1",
+			"surface": "군 수뇌부의",
+			"id": 10,
+			"st": 291
+		},
+		{
+			"en": 305,
+			"ancestor": "-1",
+			"surface": "군 수뇌부의 정치적 성향이",
+			"id": 11,
+			"st": 291
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"st": 12,
+			"eType": "WIKILINK",
+			"entityName": "파울_폰_힌덴부르크",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "파울_폰_힌덴부르크",
+			"coref_index": 1165
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"entityName": "아돌프_히틀러",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 58,
+			"ancestor": "3-0",
+			"is_target": true,
+			"surface": "아돌프_히틀러",
+			"coref_index": 1161
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 226,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 231,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 264,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 269,
+			"ancestor": "7-2",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"st": 325,
+			"eType": "ELU",
+			"entityName": "아돌프_히틀러",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 328,
+			"ancestor": "7-1",
+			"is_target": true,
+			"surface": "히틀러",
+			"coref_index": 1161
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 384,
+			"eType": "WIKILINK",
+			"entityName": "제1차_세계_대전",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 393,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "제1차_세계_대전"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1934년_8월_2일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 26,
+			"ancestor": "2-9",
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 1162
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 77,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1935년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "5-3",
+			"is_target": true,
+			"surface": "베르사유_조약",
+			"coref_index": 1158
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 126,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 138,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1935년_3월_16일",
+			"coref_index": 1168
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 163,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 170,
+			"ancestor": "7-9",
+			"is_target": true,
+			"surface": "베르사유_조약",
+			"coref_index": 1158
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 444,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 457,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1935년_10월_15일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 398,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 401,
+			"ancestor": "5-4",
+			"is_target": true,
+			"surface": "독일군",
+			"coref_index": 1163
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 343,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 346,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "국방군",
+			"coref_index": 1164
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 435,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 438,
+			"ancestor": "7-14",
+			"is_target": true,
+			"surface": "국방군",
+			"coref_index": 1164
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 202,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 205,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "징집병"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 140,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 143,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "징병제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 84,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "ORGANIZATION",
+			"en": 86,
+			"ancestor": "6-10",
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 1159
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 19,
+			"ne_type": "ORGANIZATION",
+			"en": 157,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "정규군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 380,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 382,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "휘장"
+		}
+	],
+	"plainText": "1934년_8월_2일 파울_폰_힌덴부르크 대통령의 사망 후, 독일군의 모든 장교와 병사들은 아돌프_히틀러에게 충성맹세를 하였다. 1935년이 됐을 때 독일은 베르사유_조약의 군 관련 조항들을 이미 공개적으로 무시하고 있었고, 1935년_3월_16일에 징병제가 재도입 되었다. 정규군의 규모는 베르사유_조약에 명시된 십만 명의 정도를 유지했으나, 매년 이 숫자의 징집병이 훈련을 받았다. 이 징집법을 통해 베어마흐트(독일 국방군)라는 명칭이 도입되었다. 그러므로 이 날짜를 베어마흐트의 창립일로 볼 수 있을 뿐만 아니라, 군 수뇌부의 정치적 성향이 어떠하였건 간에 (군 장성들 또한 히틀러에게 충성맹세를 하였지만) 국방군의 조직과 권한은 나치의 창조물이라고 볼 수 있다. 국방군의 휘장은 제1차_세계_대전 말기에 독일군 탱크와 전투기에 처음 쓰였던 철십자를 양식화한 문양이었다. 국방군의 존재는 1935년_10월_15일에 공식적으로 선포되었다."
+}

@@ -1,0 +1,57 @@
+{
+	"docID": "1631138",
+	"globalSID": "3854848,3854849",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "UEFA_컵위너스컵",
+			"entityName": "UEFA_컵위너스컵"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "라치오",
+			"entityName": "SS_라치오"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "마요르카",
+			"entityName": "RCD_마요르카"
+		}
+	],
+	"plainText": "UEFA 컵위너스컵 1998-99는 UEFA_컵위너스컵의 39번째 대회이자 마지막 대회이다. 라치오가 결승전에서 마요르카를 누르고 우승을 차지했다."
+}

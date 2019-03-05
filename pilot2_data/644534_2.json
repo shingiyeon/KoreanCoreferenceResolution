@@ -1,0 +1,270 @@
+{
+	"docID": "644534",
+	"globalSID": "2493486,2493487,2493488,2493489,2493490",
+	"pronouns": [
+		{
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "이 지역에는",
+			"id": 0,
+			"st": 71
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 16,
+			"ancestor": "1-0",
+			"coref_index": 763,
+			"surface": "아르헨티나",
+			"entityName": "아르헨티나"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 39,
+			"ancestor": "-1",
+			"coref_index": 764,
+			"surface": "파타고니아",
+			"entityName": "파타고니아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "인디오",
+			"entityName": "인디오"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 135,
+			"ancestor": "-1",
+			"surface": "잉카_제국",
+			"entityName": "잉카_제국"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 137,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 142,
+			"ancestor": "",
+			"surface": "1480년",
+			"entityName": "1480년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 174,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 178,
+			"ancestor": "-1",
+			"surface": "코야수유",
+			"entityName": "코야수유"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 194,
+			"ancestor": "-1",
+			"surface": "과라니족",
+			"entityName": "과라니족"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 197,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 199,
+			"ancestor": "-1",
+			"surface": "유카",
+			"entityName": "유카"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 201,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 204,
+			"ancestor": "-1",
+			"surface": "고구마",
+			"entityName": "고구마"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 206,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 212,
+			"ancestor": "-1",
+			"surface": "예르바_마테",
+			"entityName": "예르바_마테"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 213,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 215,
+			"ancestor": "-1",
+			"surface": "농업",
+			"entityName": "농업"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 234,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 237,
+			"ancestor": "-1",
+			"coref_index": 766,
+			"surface": "팜파스",
+			"entityName": "팜파스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 239,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 244,
+			"ancestor": "2-1",
+			"coref_index": 764,
+			"surface": "파타고니아",
+			"entityName": "파타고니아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 259,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 263,
+			"ancestor": "-1",
+			"surface": "17세기",
+			"entityName": "17세기"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 265,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 268,
+			"ancestor": "-1",
+			"surface": "마푸체",
+			"entityName": "마푸체"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "TIME",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "콜럼버스_이전_시대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 123,
+			"ancestor": "-1",
+			"surface": "파차쿠텍_왕",
+			"entityName": ""
+		}
+	],
+	"plainText": "콜럼버스_이전_시대 아르헨티나에 최초로 인간이 정주한 증거는 파타고니아에서 발견되며 기원전 11000여년으로 거슬러 올라간다. 이 지역에는 국가 없이 인디오들이 부족을 이루며 살고 있었는데, 15세기 초반부터 파차쿠텍_왕이 통치하던 잉카_제국은 1480년에 공격을 시작하여 오늘날의 아르헨티나 북서부를 정복해서 코야수유 지역에 포함시켰다. 과라니족들은 유카, 고구마, 예르바_마테 농업을 발전시켰다. 중부와 남부 지역(팜파스와 파타고니아)는 유목민들이 지배했으며 17세기에 마푸체인들이 통일시켰다."
+}

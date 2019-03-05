@@ -1,0 +1,221 @@
+{
+	"docID": "300687",
+	"globalSID": "1644890,1644891,1644892",
+	"pronouns": [
+		{
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "한 명으로서",
+			"id": 0,
+			"st": 42
+		},
+		{
+			"st": 165,
+			"coref_index": 424,
+			"id": 1,
+			"en": 166,
+			"ancestor": "1-11",
+			"surface": "그"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "1998년",
+			"entityName": "1998년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "브리즈번_스트라이커스",
+			"entityName": "브리즈번_스트라이커스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "내셔널_사커_리그",
+			"entityName": "내셔널_사커_리그"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 68,
+			"ancestor": "",
+			"surface": "2001년",
+			"entityName": "2001년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 79,
+			"ancestor": "-1",
+			"surface": "시드니_올림픽_FC",
+			"entityName": "시드니_올림픽_FC"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 99,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 104,
+			"ancestor": "",
+			"surface": "2003년",
+			"entityName": "2003년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 114,
+			"ancestor": "-1",
+			"surface": "퍼스_글로리_FC",
+			"entityName": "퍼스_글로리_FC"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 129,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 134,
+			"ancestor": "",
+			"surface": "2005년",
+			"entityName": "2005년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 135,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "뉴캐슬_유나이티드_제츠_FC",
+			"entityName": "뉴캐슬_유나이티드_제츠_FC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 188,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 192,
+			"ancestor": "-1",
+			"surface": "폴_오콘",
+			"entityName": "폴_오콘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 168,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 178,
+			"ancestor": "-1",
+			"surface": "2007-08_시즌",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 91,
+			"ancestor": "",
+			"surface": "2003년",
+			"entityName": ""
+		}
+	],
+	"plainText": "1998년 브리즈번_스트라이커스에서 내셔널_사커_리그에서 가장 어린 선수중 한 명으로서 프로 생활을 시작하였고, 2001년 시드니_올림픽_FC로 이적하여 2003년까지 뛰었다. 2003년 퍼스_글로리_FC로 이적하여 활약하였으며, 2005년 뉴캐슬_유나이티드_제츠_FC로 팀을 옮겨 활약하였다. 그는 2007-08_시즌을 앞두고 은퇴한 폴_오콘을 대신하여 팀의 새로운 주장으로 활약하였다."
+}

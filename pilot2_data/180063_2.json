@@ -1,0 +1,64 @@
+{
+	"docID": "180063",
+	"globalSID": "1170053,1170054",
+	"pronouns": [
+		{
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "현",
+			"id": 0,
+			"st": 49
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Software",
+				"VideoGame",
+				"Work"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "스타크래프트",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "스타크래프트",
+			"coref_index": 305
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "ELU",
+			"entityName": "웅진_스타즈",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 48,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한빛_스타즈",
+			"coref_index": 306
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"entityName": "웅진_스타즈",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 57,
+			"ancestor": "2-1",
+			"is_target": true,
+			"surface": "웅진_스타즈",
+			"coref_index": 306
+		}
+	],
+	"plainText": "스타크래프트 2001년부터 프로게이머 활동을 시작하였으며, 2002년 9월 한빛_스타즈(현 웅진_스타즈)에 입단하였다."
+}

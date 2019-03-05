@@ -1,0 +1,143 @@
+{
+	"docID": "634848",
+	"globalSID": "2468003,2468004",
+	"pronouns": [
+		{
+			"st": 36,
+			"coref_index": 759,
+			"id": 0,
+			"en": 38,
+			"ancestor": "1-7",
+			"surface": "그녀"
+		},
+		{
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "그녀의 비위를",
+			"id": 1,
+			"st": 36
+		},
+		{
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "그 뒤",
+			"id": 2,
+			"st": 66
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 28,
+			"ancestor": "1-7",
+			"coref_index": 759,
+			"surface": "마리_앙투아네트",
+			"entityName": "마리_앙투아네트"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 70,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 76,
+			"ancestor": "4-4",
+			"coref_index": 760,
+			"surface": "루이_15세",
+			"entityName": "루이_15세"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 87,
+			"ancestor": "1-6",
+			"coref_index": 761,
+			"surface": "루이_16세",
+			"entityName": "루이_16세"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 101,
+			"ancestor": "4-4",
+			"coref_index": 760,
+			"surface": "루이_15세",
+			"entityName": "루이_15세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "뒤바리_백작_부인",
+			"entityName": "뒤바리_백작_부인"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Castle",
+				"ArchitecturalStructure",
+				"SocietalEvent",
+				"Prison",
+				"Place",
+				"Building",
+				"Event",
+				"MilitaryStructure",
+				"SocietalEvent"
+			],
+			"st": 136,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "바스티유_감옥",
+			"entityName": "바스티유_감옥"
+		}
+	],
+	"plainText": "궁정에서 영향력이 미미했던 왕세손빈 마리_앙투아네트에게 접근하여 그녀의 비위를 맞추고 가깝게 지내면서 신뢰를 쌓았다. 그 뒤 루이_15세가 죽고 루이_16세가 즉위하면서 루이_15세의 총애를 배경으로 위세를 부리던 뒤바리_백작_부인이 축출되고 바스티유_감옥에 갇히면서 궁정의 실권을 장악한다."
+}

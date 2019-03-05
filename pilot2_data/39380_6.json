@@ -1,0 +1,435 @@
+{
+	"docID": "39380",
+	"globalSID": "370764,370765",
+	"pronouns": [
+		{
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "군에",
+			"id": 0,
+			"st": 16
+		},
+		{
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "때마침 곧 군에 입대해야 할 선수가",
+			"id": 1,
+			"st": 10
+		},
+		{
+			"st": 65,
+			"coref_index": 527,
+			"id": 2,
+			"en": 66,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 212,
+			"ancestor": "-1",
+			"surface": "이 트레이드",
+			"id": 3,
+			"st": 206
+		},
+		{
+			"en": 215,
+			"ancestor": "-1",
+			"surface": "이 트레이드 상대",
+			"id": 4,
+			"st": 206
+		},
+		{
+			"en": 217,
+			"ancestor": "-1",
+			"surface": "이 트레이드 상대 중",
+			"id": 5,
+			"st": 206
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "한화_이글스",
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 6,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한화_이글스",
+			"coref_index": 523
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"entityName": "한화_이글스",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 55,
+			"ancestor": "6-0",
+			"is_target": true,
+			"surface": "한화_이글스",
+			"coref_index": 523
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"entityName": "한대화",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 60,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한대화"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 113,
+			"eType": "WIKILINK",
+			"entityName": "KIA_타이거즈",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 121,
+			"ancestor": "3-2",
+			"is_target": true,
+			"surface": "KIA_타이거즈",
+			"coref_index": 519
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 123,
+			"eType": "WIKILINK",
+			"entityName": "한화_이글스",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 129,
+			"ancestor": "6-1",
+			"is_target": true,
+			"surface": "한화_이글스",
+			"coref_index": 523
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 150,
+			"eType": "WIKILINK",
+			"entityName": "KIA_타이거즈",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 153,
+			"ancestor": "6-3",
+			"is_target": true,
+			"surface": "KIA",
+			"coref_index": 519
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "WIKILINK",
+			"entityName": "내야수",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 157,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "내야수",
+			"coref_index": 520
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 163,
+			"eType": "WIKILINK",
+			"entityName": "투수",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 165,
+			"ancestor": "5-6",
+			"is_target": true,
+			"surface": "투수",
+			"coref_index": 524
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 166,
+			"eType": "WIKILINK",
+			"entityName": "이동현_(1979년)",
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 169,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이동현"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 171,
+			"eType": "WIKILINK",
+			"entityName": "외야수",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 174,
+			"ancestor": "4-4",
+			"is_target": true,
+			"surface": "외야수",
+			"coref_index": 525
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 175,
+			"eType": "WIKILINK",
+			"entityName": "김경언_(야구_선수)",
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 178,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "김경언"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 181,
+			"eType": "WIKILINK",
+			"entityName": "한화_이글스",
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 183,
+			"ancestor": "6-4",
+			"is_target": true,
+			"surface": "한화",
+			"coref_index": 523
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "WIKILINK",
+			"entityName": "투수",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 186,
+			"ancestor": "6-7",
+			"is_target": true,
+			"surface": "투수",
+			"coref_index": 524
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 187,
+			"eType": "WIKILINK",
+			"entityName": "안영명",
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 190,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "안영명",
+			"coref_index": 526
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 192,
+			"eType": "WIKILINK",
+			"entityName": "박성호_(야구_선수)",
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 195,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "박성호"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 197,
+			"eType": "WIKILINK",
+			"entityName": "외야수",
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 200,
+			"ancestor": "6-9",
+			"is_target": true,
+			"surface": "외야수",
+			"coref_index": 525
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 201,
+			"eType": "WIKILINK",
+			"entityName": "김다원",
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 204,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "김다원"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 218,
+			"eType": "WIKILINK",
+			"entityName": "안영명",
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 221,
+			"ancestor": "6-13",
+			"is_target": true,
+			"surface": "안영명",
+			"coref_index": 526
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 227,
+			"eType": "WIKILINK",
+			"entityName": "이범호",
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 230,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이범호"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 239,
+			"eType": "WIKILINK",
+			"entityName": "한화_이글스",
+			"id": 19,
+			"ne_type": "ORGANIZATION",
+			"en": 245,
+			"ancestor": "6-4",
+			"is_target": true,
+			"surface": "한화_이글스",
+			"coref_index": 523
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 20,
+			"ne_type": "TIME",
+			"en": 112,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2010년_6월_8일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 21,
+			"ne_type": "PERSON",
+			"en": 161,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "장성호",
+			"coref_index": 527
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 63,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "감독"
+		}
+	],
+	"plainText": "한화_이글스 시절 때마침 곧 군에 입대해야 할 선수가 특히 많아 전력 누수가 불가피해진 한화_이글스의 한대화 감독이 그에게 눈독을 들이게 되었고, 지지부진하였던 트레이드 논의 끝에 2010년_6월_8일 KIA_타이거즈와 한화_이글스 간의 3:3 트레이드로 이적하였다.(KIA 내야수 장성호, 투수 이동현, 외야수 김경언 ↔ 한화 투수 안영명, 박성호, 외야수 김다원) 이 트레이드 상대 중 안영명은 이듬해 이범호의 보상 선수로 한화_이글스에 돌아오게 되어 잠시 한솥밥을 먹게 된다.."
+}

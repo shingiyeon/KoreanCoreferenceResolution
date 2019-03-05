@@ -1,0 +1,86 @@
+{
+	"docID": "848153",
+	"globalSID": "2902041",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "아프리카",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아프리카",
+			"coref_index": 1043
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "WIKILINK",
+			"entityName": "이슬람교",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이슬람교",
+			"coref_index": 1046
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"entityName": "기독교",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1051
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 8,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "종교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "전통종교"
+		}
+	],
+	"plainText": "아프리카의 종교는 크게 이슬람교, 기독교, 전통종교로 나뉜다."
+}

@@ -1,0 +1,23 @@
+{
+	"docID": "69991",
+	"globalSID": "573709",
+	"pronouns": [],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "EVENT",
+			"en": 4,
+			"ancestor": "-1",
+			"surface": "독립운동",
+			"entityName": ""
+		}
+	],
+	"plainText": "독립운동"
+}

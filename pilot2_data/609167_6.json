@@ -1,0 +1,64 @@
+{
+	"docID": "609167",
+	"globalSID": "2410390",
+	"pronouns": [
+		{
+			"en": 3,
+			"st": 0,
+			"surface": "이 때",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 4,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 11,
+			"ancestor": "2-0",
+			"coref_index": 727,
+			"surface": "삿사_나리마사",
+			"entityName": "삿사_나리마사"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 13,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 21,
+			"ancestor": "4-2",
+			"coref_index": 728,
+			"surface": "마에다_도시이에",
+			"entityName": "마에다_도시이에"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "후와_미쓰하루",
+			"entityName": "후와_미쓰하루"
+		}
+	],
+	"plainText": "이 때 삿사_나리마사는 마에다_도시이에, 후와_미쓰하루(不破光治)와 함께 에치젠 후추 10만 석을 같이 받았지만, 함께 받는 사람이 3명이였기에 3만 3000석으로 나누어 다스렸다."
+}

@@ -1,0 +1,265 @@
+{
+	"docID": "130280",
+	"globalSID": "942317,942318,942319,942320",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 157,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 60,
+			"coref_index": 157,
+			"id": 1,
+			"en": 61,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 136,
+			"ancestor": "-1",
+			"surface": "한 시즌",
+			"id": 2,
+			"st": 132
+		},
+		{
+			"en": 139,
+			"ancestor": "-1",
+			"surface": "한 시즌 뒤인",
+			"id": 3,
+			"st": 132
+		},
+		{
+			"en": 148,
+			"ancestor": "-1",
+			"surface": "한 시즌 뒤인 2005년 여름",
+			"id": 4,
+			"st": 132
+		},
+		{
+			"st": 180,
+			"coref_index": 157,
+			"id": 5,
+			"en": 181,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 213,
+			"coref_index": 161,
+			"id": 6,
+			"en": 215,
+			"ancestor": "4-8",
+			"surface": "이곳"
+		},
+		{
+			"en": 255,
+			"ancestor": "-1",
+			"surface": "한 시즌",
+			"id": 7,
+			"st": 251
+		},
+		{
+			"en": 257,
+			"ancestor": "-1",
+			"surface": "한 시즌 뒤",
+			"id": 8,
+			"st": 251
+		},
+		{
+			"st": 258,
+			"coref_index": 157,
+			"id": 9,
+			"en": 259,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 288,
+			"coref_index": 162,
+			"id": 10,
+			"en": 291,
+			"ancestor": "4-9",
+			"surface": "그 곳"
+		},
+		{
+			"st": 314,
+			"coref_index": 157,
+			"id": 11,
+			"en": 316,
+			"ancestor": "1-0",
+			"surface": "자신"
+		},
+		{
+			"en": 321,
+			"ancestor": "-1",
+			"surface": "자신의 기량을",
+			"id": 12,
+			"st": 314
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"surface": "2004년",
+			"entityName": "2004년"
+		},
+		{
+			"kbox_types": [
+				"Currency"
+			],
+			"st": 24,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "파운드",
+			"entityName": "파운드_스털링"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "3-7",
+			"coref_index": 158,
+			"surface": "잉글랜드_프리미어리그",
+			"entityName": "잉글랜드_프리미어리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 51,
+			"ancestor": "-1",
+			"surface": "첼시_FC",
+			"entityName": "첼시_FC"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 80,
+			"ancestor": "-1",
+			"surface": "리버풀_FC",
+			"entityName": "리버풀_FC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "-1",
+			"surface": "풋볼_리그_컵",
+			"entityName": "풋볼_리그_컵"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 140,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 145,
+			"ancestor": "",
+			"surface": "2005년",
+			"entityName": "2005년"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 183,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 191,
+			"ancestor": "-1",
+			"surface": "페르난도_토레스",
+			"entityName": "페르난도_토레스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 171,
+			"ancestor": "-1",
+			"coref_index": 161,
+			"surface": "스페인_프리메라리가의_아틀레티코_마드리드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 261,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 279,
+			"ancestor": "-1",
+			"coref_index": 162,
+			"surface": "터키_수페르리그의_페네르바체_SK",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 2004년 여름 이적시장에서 530만 파운드의 이적료로 잉글랜드_프리미어리그 첼시_FC로 이적하였다. 그는 2004-05 시즌 리버풀_FC과의 풋볼_리그_컵 결승전에서 결승골을 기록하기도 하였지만, 큰 인상을 심어주지 못하며 결국 한 시즌 뒤인 2005년 여름 스페인_프리메라리가의_아틀레티코_마드리드로 이적하였다. 그는 페르난도_토레스와 투톱을 이루며 경기에 출장하였지만, 이곳에서도 많은 골을 넣지는 못하며 실망스러운 모습을 보였다. 다시 한 시즌 뒤 그는 터키_수페르리그의_페네르바체_SK로 이적하였고, 그 곳에서 두 시즌 동안 준수한 활약을 펼치며 자신의 기량을 재회복하는 발판으로 삼았다."
+}

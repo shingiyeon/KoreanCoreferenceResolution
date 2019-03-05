@@ -1,0 +1,223 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "브리티시컬럼비아_주",
+			"en": 4,
+			"is_target": true,
+			"surface": "컬럼비아",
+			"coref_index": 725,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 16,
+			"eType": "WIKILINK",
+			"entityName": "아메리카",
+			"en": 20,
+			"is_target": true,
+			"surface": "아메리카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 2,
+			"ne_type": "PERSON",
+			"st": 26,
+			"eType": "WIKILINK",
+			"entityName": "크리스토퍼_콜럼버스",
+			"en": 36,
+			"is_target": true,
+			"surface": "크리스토퍼_콜럼버스",
+			"coref_index": 726,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 50,
+			"eType": "WIKILINK",
+			"entityName": "캐나다",
+			"en": 53,
+			"is_target": true,
+			"surface": "캐나다",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 4,
+			"ne_type": "LOCATION",
+			"st": 55,
+			"eType": "WIKILINK",
+			"entityName": "미국",
+			"en": 57,
+			"is_target": true,
+			"surface": "미국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 5,
+			"ne_type": "LOCATION",
+			"st": 110,
+			"eType": "ELU",
+			"en": 114,
+			"entityName": "콜롬비아",
+			"is_target": true,
+			"surface": "콜롬비아",
+			"coref_index": 725,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 126,
+			"eType": "ELU",
+			"en": 136,
+			"entityName": "크리스토퍼_콜럼버스",
+			"is_target": true,
+			"surface": "크리스토퍼_콜럼버스",
+			"coref_index": 726,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 143,
+			"eType": "WIKILINK",
+			"en": 147,
+			"entityName": "스페인어",
+			"is_target": true,
+			"surface": "스페인어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 155,
+			"eType": "WIKILINK",
+			"en": 160,
+			"entityName": "남아메리카",
+			"is_target": true,
+			"surface": "남아메리카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 162,
+			"eType": "ELU",
+			"en": 165,
+			"entityName": "공화제",
+			"is_target": true,
+			"surface": "공화국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 10,
+			"ne_type": "LOCATION",
+			"st": 167,
+			"eType": "WIKILINK",
+			"en": 171,
+			"entityName": "콜롬비아",
+			"is_target": true,
+			"surface": "콜롬비아",
+			"coref_index": 725,
+			"ancestor": "1-5"
+		}
+	],
+	"globalSID": "509690,509691,509692,509693",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 65,
+			"ancestor": "-1",
+			"st": 59,
+			"surface": "여러 지명과"
+		},
+		{
+			"id": 1,
+			"en": 69,
+			"ancestor": "-1",
+			"st": 59,
+			"surface": "여러 지명과 이름에"
+		},
+		{
+			"id": 2,
+			"en": 182,
+			"ancestor": "-1",
+			"st": 177,
+			"surface": "여러 지명"
+		},
+		{
+			"id": 3,
+			"en": 184,
+			"ancestor": "-1",
+			"st": 177,
+			"surface": "여러 지명 등"
+		}
+	],
+	"plainText": "컬럼비아(Columbia)는 아메리카를 발견한 크리스토퍼_콜럼버스의 이름에서 온 지명으로 캐나다와 미국의 여러 지명과 이름에 쓰이고 있다. 미국에서는 미국을 가리키는 시어로도 사용된다. 같이 보기 콜롬비아(Colombia)는 크리스토퍼_콜럼버스에서 유래한 스페인어식 이름이며, 남아메리카의 공화국인 콜롬비아를 비롯한 여러 지명 등에 사용된다. ",
+	"docID": "57597"
+}

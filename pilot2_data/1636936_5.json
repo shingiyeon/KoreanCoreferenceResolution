@@ -1,0 +1,38 @@
+{
+	"docID": "1636936",
+	"globalSID": "3860411",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 122,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "모세의_십계명",
+			"entityName": "십계명"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 93,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 100,
+			"ancestor": "1-4",
+			"coref_index": 261,
+			"surface": "히라테_유리나",
+			"entityName": ""
+		}
+	],
+	"plainText": "안무는 연극적인 댄스 퍼포먼스를 답습했으며, 곡이나 가사가 가리켜 나타내는 대상을 그대로 직접적으로 표현하는 수법이 사용됐으며, 포메이션 댄스를 주고 받으면서, 센터 히라테_유리나가 좌우로 나란한 멤버 사이를 나아가는 모세의_십계명이라고 불리는 안무에 따라서, 자아의 태동이 시작되는 표현과 함께, ‘사회의 체계적임과 젊은 사람의 자아의 불꽃의 양면을 대비시킨 장면’이 실사되고 있다."
+}

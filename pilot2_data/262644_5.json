@@ -1,0 +1,30 @@
+{
+	"docID": "262644",
+	"globalSID": "1479677,1479678",
+	"pronouns": [
+		{
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "이 책",
+			"id": 0,
+			"st": 43
+		},
+		{
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "이 책의 저자",
+			"id": 1,
+			"st": 43
+		},
+		{
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "이 책의 저자 윌리엄 밀러는",
+			"id": 2,
+			"st": 43
+		}
+	],
+	"parID": "5",
+	"entities": [],
+	"plainText": "CIO는 1998년 출판된 <4세대 혁신>이란 책에서 처음으로 언급되었는데, 이 책의 저자 윌리엄 밀러는 기업의 필수 생존조건으로 혁신을 강조하였다. CIO 외에 최고문화책임자(CCO:chief culture officer), 최고지속가능경영책임자(CSO:chief sustainability officer) 등도 새롭게 부상하고 있는 기업 내 새로운 직책이다."
+}

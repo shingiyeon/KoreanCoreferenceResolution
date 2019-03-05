@@ -1,0 +1,266 @@
+{
+	"docID": "83142",
+	"globalSID": "655187,655188",
+	"pronouns": [
+		{
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "예를",
+			"id": 0,
+			"st": 52
+		},
+		{
+			"st": 168,
+			"coref_index": 1009,
+			"id": 1,
+			"en": 169,
+			"ancestor": "1-0",
+			"surface": "나"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "교육칙어",
+			"entityName": "교육칙어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 76,
+			"ancestor": "-1",
+			"surface": "일본_천황",
+			"entityName": "일본_천황"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 173,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 177,
+			"ancestor": "2-3",
+			"coref_index": 1008,
+			"surface": "기독교인",
+			"entityName": "기독교인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 16,
+			"ancestor": "-1",
+			"surface": "1891년_일본_천황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "절대권력",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 26,
+			"ancestor": "-1",
+			"surface": "상징",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 40,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "봉독식",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "불경사건",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "존황파(尊皇派)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "EVENT",
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "보복_테러",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 119,
+			"ancestor": "-1",
+			"surface": "아내",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 123,
+			"ancestor": "-1",
+			"surface": "자식",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 128,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "직장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 141,
+			"ancestor": "1-0",
+			"coref_index": 1009,
+			"surface": "우치무라",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 143,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 145,
+			"ancestor": "4-12",
+			"coref_index": 1010,
+			"surface": "교원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "글",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 216,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 219,
+			"ancestor": "-1",
+			"surface": "구안록",
+			"entityName": ""
+		}
+	],
+	"plainText": "하지만, 1891년_일본_천황의 절대권력의 상징인 《교육칙어》(敎育勅語)봉독식 때 정성 들여 예를 다하지 않은 '불경사건'으로 일본_천황을 숭배하는 존황파(尊皇派)들에게 미움을 받아, 보복_테러의 표적이 되어 아내와 자식 그리고 직장을 잃었다. 우치무라는 교원으로 활동하면서 글을 쓰기 시작했는데, 《나는 왜 기독교인이 되었는가?》(\"How I Became a Christian\"), 《구안록》등을 저술했다."
+}

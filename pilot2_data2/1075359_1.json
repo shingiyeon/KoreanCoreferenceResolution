@@ -1,0 +1,1722 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 68,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 69,
+			"en": 69,
+			"st_modified": 68
+		},
+		{
+			"st": 97,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 98,
+			"en": 98,
+			"st_modified": 97
+		},
+		{
+			"st": 100,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 101,
+			"en": 101,
+			"st_modified": 100
+		},
+		{
+			"st": 100,
+			"text": "그의 선수생활",
+			"is_pronoun": true,
+			"en_modified": 107,
+			"en": 107,
+			"st_modified": 100
+		},
+		{
+			"st": 228,
+			"text": "그 시즌",
+			"is_pronoun": true,
+			"en_modified": 232,
+			"en": 232,
+			"st_modified": 228
+		},
+		{
+			"st": 247,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 248,
+			"en": 248,
+			"st_modified": 247
+		},
+		{
+			"st": 250,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 251,
+			"en": 251,
+			"st_modified": 250
+		},
+		{
+			"st": 250,
+			"text": "그의 첫 1군 데뷔시즌",
+			"is_pronoun": true,
+			"en_modified": 262,
+			"en": 262,
+			"st_modified": 250
+		},
+		{
+			"st": 287,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 288,
+			"en": 288,
+			"st_modified": 287
+		},
+		{
+			"st": 324,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 325,
+			"en": 325,
+			"st_modified": 324
+		},
+		{
+			"st": 359,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 360,
+			"en": 360,
+			"st_modified": 359
+		},
+		{
+			"st": 376,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 377,
+			"en": 377,
+			"st_modified": 376
+		},
+		{
+			"st": 511,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 512,
+			"en": 512,
+			"st_modified": 511
+		},
+		{
+			"st": 540,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 541,
+			"en": 541,
+			"st_modified": 540
+		},
+		{
+			"st": 540,
+			"text": "그의 선발 자리",
+			"is_pronoun": true,
+			"en_modified": 548,
+			"en": 548,
+			"st_modified": 540
+		},
+		{
+			"st": 566,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 567,
+			"en": 567,
+			"st_modified": 566
+		},
+		{
+			"st": 678,
+			"text": "다른팀",
+			"is_pronoun": true,
+			"en_modified": 681,
+			"en": 681,
+			"st_modified": 678
+		},
+		{
+			"st": 684,
+			"text": "한번씩)",
+			"is_pronoun": true,
+			"en_modified": 688,
+			"en": 688,
+			"st_modified": 684
+		},
+		{
+			"st": 793,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 794,
+			"en": 794,
+			"st_modified": 793
+		},
+		{
+			"st": 793,
+			"text": "그의 주장직",
+			"is_pronoun": true,
+			"en_modified": 799,
+			"en": 799,
+			"st_modified": 793
+		},
+		{
+			"st": 841,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 842,
+			"en": 842,
+			"st_modified": 841
+		},
+		{
+			"st": 865,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 866,
+			"en": 866,
+			"st_modified": 865
+		},
+		{
+			"st": 898,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 899,
+			"en": 899,
+			"st_modified": 898
+		},
+		{
+			"st": 922,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 923,
+			"en": 923,
+			"st_modified": 922
+		},
+		{
+			"st": 922,
+			"text": "그의 수비수",
+			"is_pronoun": true,
+			"en_modified": 928,
+			"en": 928,
+			"st_modified": 922
+		},
+		{
+			"st": 922,
+			"text": "그의 수비수 파트너로",
+			"is_pronoun": true,
+			"en_modified": 933,
+			"en": 933,
+			"st_modified": 922
+		},
+		{
+			"st": 922,
+			"text": "그의 수비수 파트너로는 마르크_이울리아노, 모레노_토리첼리, 파올로_몬테",
+			"is_pronoun": true,
+			"en_modified": 962,
+			"en": 962,
+			"st_modified": 922
+		},
+		{
+			"st": 1078,
+			"text": "한 골",
+			"is_pronoun": true,
+			"en_modified": 1081,
+			"en": 1081,
+			"st_modified": 1078
+		},
+		{
+			"st": 1078,
+			"text": "한 골을 실점하는걸조차도 애석하게 생각할 정도",
+			"is_pronoun": true,
+			"en_modified": 1103,
+			"en": 1103,
+			"st_modified": 1078
+		},
+		{
+			"st": 1107,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1108,
+			"en": 1108,
+			"st_modified": 1107
+		},
+		{
+			"st": 1107,
+			"text": "그의 선수 생활중",
+			"is_pronoun": true,
+			"en_modified": 1116,
+			"en": 1116,
+			"st_modified": 1107
+		},
+		{
+			"st": 1107,
+			"text": "그의 선수 생활중 최고의 시간 중 하나",
+			"is_pronoun": true,
+			"en_modified": 1128,
+			"en": 1128,
+			"st_modified": 1107
+		},
+		{
+			"st": 1146,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1147,
+			"en": 1147,
+			"st_modified": 1146
+		},
+		{
+			"st": 1211,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1212,
+			"en": 1212,
+			"st_modified": 1211
+		},
+		{
+			"st": 1222,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1223,
+			"en": 1223,
+			"st_modified": 1222
+		},
+		{
+			"st": 1222,
+			"text": "그의 첫 프로 경기 데뷔전",
+			"is_pronoun": true,
+			"en_modified": 1236,
+			"en": 1236,
+			"st_modified": 1222
+		},
+		{
+			"st": 1284,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1285,
+			"en": 1285,
+			"st_modified": 1284
+		},
+		{
+			"st": 1284,
+			"text": "그의 팀 베테랑 동료들",
+			"is_pronoun": true,
+			"en_modified": 1296,
+			"en": 1296,
+			"st_modified": 1284
+		},
+		{
+			"st": 1423,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1424,
+			"en": 1424,
+			"st_modified": 1423
+		},
+		{
+			"st": 1423,
+			"text": "그의 선수 생활 마지막 시즌",
+			"is_pronoun": true,
+			"en_modified": 1438,
+			"en": 1438,
+			"st_modified": 1423
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 68,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 69,
+			"en": 69,
+			"st_modified": 68,
+			"id": 0,
+			"coref_index": 7
+		},
+		{
+			"st": 97,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 98,
+			"en": 98,
+			"st_modified": 97,
+			"id": 1,
+			"coref_index": 7
+		},
+		{
+			"st": 100,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 101,
+			"en": 101,
+			"st_modified": 100,
+			"id": 2,
+			"coref_index": 7
+		},
+		{
+			"st": 100,
+			"ancestor": "-1",
+			"surface": "그의 선수생활을",
+			"en_modified": 108,
+			"en": 108,
+			"st_modified": 100,
+			"id": 3
+		},
+		{
+			"st": 228,
+			"ancestor": "-1",
+			"surface": "그 시즌",
+			"en_modified": 232,
+			"en": 232,
+			"st_modified": 228,
+			"id": 4
+		},
+		{
+			"st": 247,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 248,
+			"en": 248,
+			"st_modified": 247,
+			"id": 5,
+			"coref_index": 7
+		},
+		{
+			"st": 250,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 251,
+			"en": 251,
+			"st_modified": 250,
+			"id": 6,
+			"coref_index": 7
+		},
+		{
+			"st": 250,
+			"ancestor": "-1",
+			"surface": "그의 첫 1군 데뷔시즌에서",
+			"en_modified": 264,
+			"en": 264,
+			"st_modified": 250,
+			"id": 7
+		},
+		{
+			"st": 287,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 288,
+			"en": 288,
+			"st_modified": 287,
+			"id": 8,
+			"coref_index": 7
+		},
+		{
+			"st": 324,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 325,
+			"en": 325,
+			"st_modified": 324,
+			"id": 9,
+			"coref_index": 7
+		},
+		{
+			"st": 359,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 360,
+			"en": 360,
+			"st_modified": 359,
+			"id": 10,
+			"coref_index": 7
+		},
+		{
+			"st": 376,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 377,
+			"en": 377,
+			"st_modified": 376,
+			"id": 11,
+			"coref_index": 7
+		},
+		{
+			"st": 511,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 512,
+			"en": 512,
+			"st_modified": 511,
+			"id": 12,
+			"coref_index": 7
+		},
+		{
+			"st": 540,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 541,
+			"en": 541,
+			"st_modified": 540,
+			"id": 13,
+			"coref_index": 7
+		},
+		{
+			"st": 540,
+			"ancestor": "-1",
+			"surface": "그의 선발 자리는",
+			"en_modified": 549,
+			"en": 549,
+			"st_modified": 540,
+			"id": 14
+		},
+		{
+			"st": 566,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 567,
+			"en": 567,
+			"st_modified": 566,
+			"id": 15,
+			"coref_index": 7
+		},
+		{
+			"st": 678,
+			"ancestor": "-1",
+			"surface": "다른팀으로",
+			"en_modified": 683,
+			"en": 683,
+			"st_modified": 678,
+			"id": 16
+		},
+		{
+			"st": 684,
+			"ancestor": "-1",
+			"surface": "한번씩)",
+			"en_modified": 688,
+			"en": 688,
+			"st_modified": 684,
+			"id": 17
+		},
+		{
+			"st": 793,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 794,
+			"en": 794,
+			"st_modified": 793,
+			"id": 18,
+			"coref_index": 7
+		},
+		{
+			"st": 793,
+			"ancestor": "-1",
+			"surface": "그의 주장직은",
+			"en_modified": 800,
+			"en": 800,
+			"st_modified": 793,
+			"id": 19
+		},
+		{
+			"st": 841,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 842,
+			"en": 842,
+			"st_modified": 841,
+			"id": 20,
+			"coref_index": 7
+		},
+		{
+			"st": 865,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 866,
+			"en": 866,
+			"st_modified": 865,
+			"id": 21,
+			"coref_index": 7
+		},
+		{
+			"st": 898,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 899,
+			"en": 899,
+			"st_modified": 898,
+			"id": 22,
+			"coref_index": 7
+		},
+		{
+			"st": 922,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 923,
+			"en": 923,
+			"st_modified": 922,
+			"id": 23,
+			"coref_index": 7
+		},
+		{
+			"st": 922,
+			"ancestor": "-1",
+			"surface": "그의 수비수",
+			"en_modified": 928,
+			"en": 928,
+			"st_modified": 922,
+			"id": 24
+		},
+		{
+			"st": 922,
+			"ancestor": "-1",
+			"surface": "그의 수비수 파트너로는",
+			"en_modified": 934,
+			"en": 934,
+			"st_modified": 922,
+			"id": 25
+		},
+		{
+			"st": 922,
+			"ancestor": "-1",
+			"surface": "그의 수비수 파트너로는 마르크_이울리아노, 모레노_토리첼리, 파올로_몬테로,",
+			"en_modified": 964,
+			"en": 964,
+			"st_modified": 922,
+			"id": 26
+		},
+		{
+			"st": 1078,
+			"ancestor": "-1",
+			"surface": "한 골을",
+			"en_modified": 1082,
+			"en": 1082,
+			"st_modified": 1078,
+			"id": 27
+		},
+		{
+			"st": 1078,
+			"ancestor": "-1",
+			"surface": "한 골을 실점하는걸조차도 애석하게 생각할 정도였다.",
+			"en_modified": 1106,
+			"en": 1106,
+			"st_modified": 1078,
+			"id": 28
+		},
+		{
+			"st": 1107,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 1108,
+			"en": 1108,
+			"st_modified": 1107,
+			"id": 29,
+			"coref_index": 7
+		},
+		{
+			"st": 1107,
+			"ancestor": "-1",
+			"surface": "그의 선수 생활중",
+			"en_modified": 1116,
+			"en": 1116,
+			"st_modified": 1107,
+			"id": 30
+		},
+		{
+			"st": 1107,
+			"ancestor": "-1",
+			"surface": "그의 선수 생활중 최고의 시간 중 하나였던",
+			"en_modified": 1130,
+			"en": 1130,
+			"st_modified": 1107,
+			"id": 31
+		},
+		{
+			"st": 1146,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 1147,
+			"en": 1147,
+			"st_modified": 1146,
+			"id": 32,
+			"coref_index": 7
+		},
+		{
+			"st": 1211,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 1212,
+			"en": 1212,
+			"st_modified": 1211,
+			"id": 33,
+			"coref_index": 7
+		},
+		{
+			"st": 1222,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 1223,
+			"en": 1223,
+			"st_modified": 1222,
+			"id": 34,
+			"coref_index": 7
+		},
+		{
+			"st": 1222,
+			"ancestor": "-1",
+			"surface": "그의 첫 프로 경기 데뷔전이",
+			"en_modified": 1237,
+			"en": 1237,
+			"st_modified": 1222,
+			"id": 35
+		},
+		{
+			"st": 1284,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 1285,
+			"en": 1285,
+			"st_modified": 1284,
+			"id": 36,
+			"coref_index": 7
+		},
+		{
+			"st": 1284,
+			"ancestor": "-1",
+			"surface": "그의 팀 베테랑 동료들인",
+			"en_modified": 1297,
+			"en": 1297,
+			"st_modified": 1284,
+			"id": 37
+		},
+		{
+			"st": 1423,
+			"ancestor": "1-51",
+			"surface": "그",
+			"en_modified": 1424,
+			"en": 1424,
+			"st_modified": 1423,
+			"id": 38,
+			"coref_index": 7
+		},
+		{
+			"st": 1423,
+			"ancestor": "-1",
+			"surface": "그의 선수 생활 마지막 시즌에",
+			"en_modified": 1439,
+			"en": 1439,
+			"st_modified": 1423,
+			"id": 39
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 37,
+			"entityName": "중국_슈퍼리그",
+			"st_modified": 30,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 30,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "중국_슈퍼리그",
+			"is_target": true,
+			"en": 37,
+			"id": 0
+		},
+		{
+			"en_modified": 44,
+			"entityName": "우한_줘얼",
+			"st_modified": 39,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 39,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "우한_줘얼",
+			"is_target": true,
+			"en": 44,
+			"id": 1
+		},
+		{
+			"en_modified": 91,
+			"entityName": "UC_삼프도리아",
+			"st_modified": 86,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 86,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "삼프도리아",
+			"is_target": true,
+			"en": 91,
+			"id": 2
+		},
+		{
+			"en_modified": 112,
+			"st_modified": 109,
+			"coref_index": 6,
+			"entityName": "SSC_나폴리",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 109,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "나폴리",
+			"is_target": true,
+			"en": 112,
+			"id": 3
+		},
+		{
+			"en_modified": 118,
+			"st_modified": 114,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 114,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 118,
+			"id": 4
+		},
+		{
+			"en_modified": 133,
+			"st_modified": 129,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 129,
+			"ancestor": "1-4",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 133,
+			"id": 5
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1967년_2월_11일",
+			"is_target": false,
+			"en": 21,
+			"id": 6
+		},
+		{
+			"en_modified": 6,
+			"st_modified": 0,
+			"coref_index": 7,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "치로_페라라",
+			"is_target": true,
+			"en": 6,
+			"id": 7
+		},
+		{
+			"en_modified": 157,
+			"st_modified": 154,
+			"coref_index": 6,
+			"entityName": "나폴리",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 154,
+			"ancestor": "1-3",
+			"ne_type": "LOCATION",
+			"surface": "나폴리",
+			"is_target": true,
+			"en": 157,
+			"id": 8
+		},
+		{
+			"en_modified": 161,
+			"entityName": "나폴리",
+			"st_modified": 158,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 158,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "나폴리",
+			"is_target": true,
+			"en": 161,
+			"id": 9
+		},
+		{
+			"en_modified": 322,
+			"st_modified": 309,
+			"coref_index": 10,
+			"entityName": "이탈리아_축구_국가대표팀",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 309,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "이탈리아_축구_국가대표팀",
+			"is_target": true,
+			"en": 322,
+			"id": 10
+		},
+		{
+			"en_modified": 357,
+			"st_modified": 343,
+			"coref_index": 11,
+			"entityName": "1990년_FIFA_월드컵",
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 343,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1990년_FIFA_월드컵",
+			"is_target": true,
+			"en": 357,
+			"id": 11
+		},
+		{
+			"en_modified": 395,
+			"entityName": "",
+			"st_modified": 379,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 379,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "1989년_UEFA_컵_결승전",
+			"is_target": true,
+			"en": 395,
+			"id": 12
+		},
+		{
+			"en_modified": 191,
+			"entityName": "",
+			"st_modified": 179,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 179,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "SSC_나폴리의_유스팀",
+			"is_target": true,
+			"en": 191,
+			"id": 13
+		},
+		{
+			"en_modified": 414,
+			"st_modified": 410,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 410,
+			"ancestor": "1-5",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 414,
+			"id": 14
+		},
+		{
+			"en_modified": 437,
+			"st_modified": 434,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 434,
+			"ancestor": "1-7",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 437,
+			"id": 15
+		},
+		{
+			"en_modified": 446,
+			"entityName": "마르첼로_리피",
+			"st_modified": 439,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 439,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마르첼로_리피",
+			"is_target": true,
+			"en": 446,
+			"id": 16
+		},
+		{
+			"en_modified": 455,
+			"st_modified": 451,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 451,
+			"ancestor": "1-14",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 455,
+			"id": 17
+		},
+		{
+			"en_modified": 533,
+			"entityName": "하나로",
+			"st_modified": 530,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 530,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "하나로",
+			"is_target": true,
+			"en": 533,
+			"id": 18
+		},
+		{
+			"en_modified": 602,
+			"st_modified": 598,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 598,
+			"ancestor": "1-17",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 602,
+			"id": 19
+		},
+		{
+			"en_modified": 612,
+			"st_modified": 609,
+			"coref_index": 6,
+			"entityName": "나폴리",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 609,
+			"ancestor": "1-3",
+			"ne_type": "LOCATION",
+			"surface": "나폴리",
+			"is_target": true,
+			"en": 612,
+			"id": 20
+		},
+		{
+			"en_modified": 662,
+			"st_modified": 659,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 659,
+			"ancestor": "1-15",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 662,
+			"id": 21
+		},
+		{
+			"en_modified": 674,
+			"entityName": "코파_이탈리아",
+			"st_modified": 667,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 667,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "코파_이탈리아",
+			"is_target": true,
+			"en": 674,
+			"id": 22
+		},
+		{
+			"en_modified": 704,
+			"entityName": "수페르코파_이탈리아나",
+			"st_modified": 693,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 693,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "수페르코파_이탈리아나",
+			"is_target": true,
+			"en": 704,
+			"id": 23
+		},
+		{
+			"en_modified": 718,
+			"st_modified": 715,
+			"coref_index": 6,
+			"entityName": "나폴리",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 715,
+			"ancestor": "1-20",
+			"ne_type": "LOCATION",
+			"surface": "나폴리",
+			"is_target": true,
+			"en": 718,
+			"id": 24
+		},
+		{
+			"en_modified": 752,
+			"entityName": "UEFA_챔피언스_리그",
+			"st_modified": 740,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 740,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_챔피언스_리그",
+			"is_target": true,
+			"en": 752,
+			"id": 25
+		},
+		{
+			"en_modified": 760,
+			"entityName": "UEFA_컵",
+			"st_modified": 754,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 754,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_컵",
+			"is_target": true,
+			"en": 760,
+			"id": 26
+		},
+		{
+			"en_modified": 769,
+			"entityName": "인터콘티넨털컵_(축구)",
+			"st_modified": 762,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 762,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인터콘티넨털컵",
+			"is_target": true,
+			"en": 769,
+			"id": 27
+		},
+		{
+			"en_modified": 779,
+			"entityName": "UEFA_슈퍼컵",
+			"st_modified": 771,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 771,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_슈퍼컵",
+			"is_target": true,
+			"en": 779,
+			"id": 28
+		},
+		{
+			"en_modified": 832,
+			"entityName": "알레산드로_델_피에로",
+			"st_modified": 821,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 821,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "알레산드로_델_피에로",
+			"is_target": true,
+			"en": 832,
+			"id": 29
+		},
+		{
+			"en_modified": 848,
+			"st_modified": 844,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 844,
+			"ancestor": "1-17",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 848,
+			"id": 30
+		},
+		{
+			"en_modified": 872,
+			"st_modified": 868,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 868,
+			"ancestor": "1-30",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 872,
+			"id": 31
+		},
+		{
+			"en_modified": 911,
+			"st_modified": 907,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 907,
+			"ancestor": "1-31",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 911,
+			"id": 32
+		},
+		{
+			"en_modified": 944,
+			"st_modified": 935,
+			"coref_index": 8,
+			"entityName": "마르크_이울리아노",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 935,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마르크_이울리아노",
+			"is_target": true,
+			"en": 944,
+			"id": 33
+		},
+		{
+			"en_modified": 954,
+			"entityName": "모레노_토리첼리",
+			"st_modified": 946,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 946,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "모레노_토리첼리",
+			"is_target": true,
+			"en": 954,
+			"id": 34
+		},
+		{
+			"en_modified": 963,
+			"st_modified": 956,
+			"coref_index": 9,
+			"entityName": "파올로_몬테로",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 956,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "파올로_몬테로",
+			"is_target": true,
+			"en": 963,
+			"id": 35
+		},
+		{
+			"en_modified": 972,
+			"st_modified": 965,
+			"coref_index": 12,
+			"entityName": "잔루카_페소토",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 965,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "잔루카_페소토",
+			"is_target": true,
+			"en": 972,
+			"id": 36
+		},
+		{
+			"en_modified": 980,
+			"entityName": "릴리앙_튀랑",
+			"st_modified": 974,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 974,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "릴리앙_튀랑",
+			"is_target": true,
+			"en": 980,
+			"id": 37
+		},
+		{
+			"en_modified": 992,
+			"entityName": "알레산드로_비린델리",
+			"st_modified": 982,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 982,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "알레산드로_비린델리",
+			"is_target": true,
+			"en": 992,
+			"id": 38
+		},
+		{
+			"en_modified": 1001,
+			"entityName": "이고르_투도르",
+			"st_modified": 994,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 994,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이고르_투도르",
+			"is_target": true,
+			"en": 1001,
+			"id": 39
+		},
+		{
+			"en_modified": 1011,
+			"entityName": "잔루카_참브로타",
+			"st_modified": 1003,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1003,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "잔루카_참브로타",
+			"is_target": true,
+			"en": 1011,
+			"id": 40
+		},
+		{
+			"en_modified": 1023,
+			"entityName": "니콜라_레그로탈리에",
+			"st_modified": 1013,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1013,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "니콜라_레그로탈리에",
+			"is_target": true,
+			"en": 1023,
+			"id": 41
+		},
+		{
+			"en_modified": 1036,
+			"st_modified": 1028,
+			"coref_index": 13,
+			"entityName": "파올로_칸나바로",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1028,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "파올로_칸나바로",
+			"is_target": true,
+			"en": 1036,
+			"id": 42
+		},
+		{
+			"en_modified": 1049,
+			"st_modified": 1045,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 1045,
+			"ancestor": "1-32",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 1049,
+			"id": 43
+		},
+		{
+			"en_modified": 1154,
+			"entityName": "세리에_A",
+			"st_modified": 1149,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 1149,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_A",
+			"is_target": true,
+			"en": 1154,
+			"id": 44
+		},
+		{
+			"en_modified": 1217,
+			"st_modified": 1214,
+			"coref_index": 6,
+			"entityName": "SSC_나폴리",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1214,
+			"ancestor": "1-24",
+			"ne_type": "ORGANIZATION",
+			"surface": "나폴리",
+			"is_target": true,
+			"en": 1217,
+			"id": 45
+		},
+		{
+			"en_modified": 1273,
+			"entityName": "스쿠데토",
+			"st_modified": 1269,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1269,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스쿠데토",
+			"is_target": true,
+			"en": 1273,
+			"id": 46
+		},
+		{
+			"en_modified": 1307,
+			"st_modified": 1298,
+			"coref_index": 8,
+			"entityName": "마르크_이울리아노",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1298,
+			"ancestor": "1-33",
+			"ne_type": "ETC",
+			"surface": "마르크_이울리아노",
+			"is_target": true,
+			"en": 1307,
+			"id": 47
+		},
+		{
+			"en_modified": 1319,
+			"st_modified": 1312,
+			"coref_index": 9,
+			"entityName": "파올로_몬테로",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1312,
+			"ancestor": "1-35",
+			"ne_type": "PERSON",
+			"surface": "파올로_몬테로",
+			"is_target": true,
+			"en": 1319,
+			"id": 48
+		},
+		{
+			"en_modified": 1328,
+			"st_modified": 1324,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 1324,
+			"ancestor": "1-31",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 1328,
+			"id": 49
+		},
+		{
+			"en_modified": 1352,
+			"entityName": "우루과이",
+			"st_modified": 1348,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1348,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "우루과이",
+			"is_target": true,
+			"en": 1352,
+			"id": 50
+		},
+		{
+			"en_modified": 1389,
+			"st_modified": 1386,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1386,
+			"ancestor": "1-15",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 1389,
+			"id": 51
+		},
+		{
+			"en_modified": 1421,
+			"st_modified": 1418,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1418,
+			"ancestor": "1-51",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 1421,
+			"id": 52
+		}
+	],
+	"globalSID": "3286088,3286089,3286090,3286091,3286092,3286093,3286094,3286095,3286096,3286097,3286098,3286099,3286100,3286101,3286102,3286103,3286104,3286105,3286106,3286107,3286108,3286109,3286110,3286111,3286112",
+	"plainText": "치로_페라라(, 1967년_2월_11일 ~ )는 현재 중국_슈퍼리그의 우한_줘얼의 감독을 맡고 있는 전직 축구 선수이다. 그가 가장 최근에 맡은 감독직은 삼프도리아에서였다. 그는 그의 선수생활을 나폴리와 유벤투스에서 보냈다. 또한 유벤투스의 감독을 맡기도 하였다. 선수 경력 나폴리 나폴리 태생의, 페라라는 1980년에 SSC_나폴리의_유스팀에서 선수 생활을 시작하였다. 1984년에 유스팀 생활을 마치고, 그 시즌에 1군팀으로 차출되었다. 그는 그의 첫 1군 데뷔시즌에서 총 14경기를 출전하였다. 다음 시즌에 그는 팀의 베스트 일레븐에 포함되었고, 이탈리아_축구_국가대표팀은 그를 곧 대표팀에 차출했고 심지어 1990년_FIFA_월드컵에 그를 데려가기도 하였다. 또한 그는 1989년_UEFA_컵_결승전에서 골을 넣기도 하였다. 유벤투스 1994년 여름 이적시장에서 치로 페라라는 마르첼로_리피가 있던 유벤투스로 이적하였고, 첫 시즌에 40경기에 출전하며 1골을 넣는등 빠르게 베스트 일레븐 멤버가 되어갔다. 그는 당시의 최고의 중앙 수비수중 하나로 거론되었고 그의 선발 자리는 10여년간 변함없었다. 또한 그는 1995년과 1996년에 팀의 주장이 되기도 하였고 유벤투스에서 6번, 나폴리에서 2번 모두 총 8회로, 지난 20년간 가장 우승 경험이 많은 선수중 하나였다. 페라라는 또한 코파_이탈리아(각각 다른팀으로 한번씩) 2회, 수페르코파_이탈리아나(유벤투스로 2회, 나폴리에서 1회) 3회 그리고 일부 유럽대회(UEFA_챔피언스_리그, UEFA_컵, 인터콘티넨털컵, UEFA_슈퍼컵등에서 우승컵을 들었다. 그의 주장직은 1996년에 이탈리아 출신의 후임자 알레산드로_델_피에로에게 넘어갔다. 그가 유벤투스에서 뛰던 선수 경력 동안에, 그는 유벤투스의 수비라인에서 가장 중요한 역할을 맡았었다. 그가 12년간을 유벤투스에서 있는 동안에, 그의 수비수 파트너로는 마르크_이울리아노, 모레노_토리첼리, 파올로_몬테로, 잔루카_페소토, 릴리앙_튀랑, 알레산드로_비린델리, 이고르_투도르, 잔루카_참브로타, 니콜라_레그로탈리에 그리고 파올로_칸나바로등이 거쳐갔다. 유벤투스는 당시에 최고의 수비력이라고 평가되었고, 팀은 단 한 골을 실점하는걸조차도 애석하게 생각할 정도였다. 그의 선수 생활중 최고의 시간 중 하나였던 1996-1997 시즌에, 그는 세리에_A 32 경기에 출전하여 1골을 넣었고 또한 국가대표팀 경기에서도 8 경기에 출전하였다. 아이러니하게도 그가 나폴리에 있던 그의 첫 프로 경기 데뷔전이 0-0으로 비긴 유벤투스전이였다. 2004-05 시즌에 스쿠데토를 차지를 한후에, 그의 팀 베테랑 동료들인 마르크_이울리아노 그리고 파올로_몬테로와 함께 유벤투스에서의 생활을 마감하였다. 몬테로는 우루과이로 돌아갔고 이울리아노는 소클럽에서 뛰기로 결정하였고 반면에 페라라는 2005년 5월 38살의 나이에 은퇴를 하였다. 페라라는 그의 선수 생활 마지막 시즌에 단 4경기만을 출전하였다. ",
+	"docID": "1075359",
+	"ModifiedText": "치로 페라라(, 1967년 2월 11일 ~ )는 현재 중국 슈퍼리그의 우한 줘얼의 감독을 맡고 있는 전직 축구 선수이다. 그가 가장 최근에 맡은 감독직은 삼프도리아에서였다. 그는 그의 선수생활을 나폴리와 유벤투스에서 보냈다. 또한 유벤투스의 감독을 맡기도 하였다. 선수 경력 나폴리 나폴리 태생의, 페라라는 1980년에 SSC 나폴리의 유스팀에서 선수 생활을 시작하였다. 1984년에 유스팀 생활을 마치고, 그 시즌에 1군팀으로 차출되었다. 그는 그의 첫 1군 데뷔시즌에서 총 14경기를 출전하였다. 다음 시즌에 그는 팀의 베스트 일레븐에 포함되었고, 이탈리아 축구 국가대표팀은 그를 곧 대표팀에 차출했고 심지어 1990년 FIFA 월드컵에 그를 데려가기도 하였다. 또한 그는 1989년 UEFA 컵 결승전에서 골을 넣기도 하였다. 유벤투스 1994년 여름 이적시장에서 치로 페라라는 마르첼로 리피가 있던 유벤투스로 이적하였고, 첫 시즌에 40경기에 출전하며 1골을 넣는등 빠르게 베스트 일레븐 멤버가 되어갔다. 그는 당시의 최고의 중앙 수비수중 하나로 거론되었고 그의 선발 자리는 10여년간 변함없었다. 또한 그는 1995년과 1996년에 팀의 주장이 되기도 하였고 유벤투스에서 6번, 나폴리에서 2번 모두 총 8회로, 지난 20년간 가장 우승 경험이 많은 선수중 하나였다. 페라라는 또한 코파 이탈리아(각각 다른팀으로 한번씩) 2회, 수페르코파 이탈리아나(유벤투스로 2회, 나폴리에서 1회) 3회 그리고 일부 유럽대회(UEFA 챔피언스 리그, UEFA 컵, 인터콘티넨털컵, UEFA 슈퍼컵등에서 우승컵을 들었다. 그의 주장직은 1996년에 이탈리아 출신의 후임자 알레산드로 델 피에로에게 넘어갔다. 그가 유벤투스에서 뛰던 선수 경력 동안에, 그는 유벤투스의 수비라인에서 가장 중요한 역할을 맡았었다. 그가 12년간을 유벤투스에서 있는 동안에, 그의 수비수 파트너로는 마르크 이울리아노, 모레노 토리첼리, 파올로 몬테로, 잔루카 페소토, 릴리앙 튀랑, 알레산드로 비린델리, 이고르 투도르, 잔루카 참브로타, 니콜라 레그로탈리에 그리고 파올로 칸나바로등이 거쳐갔다. 유벤투스는 당시에 최고의 수비력이라고 평가되었고, 팀은 단 한 골을 실점하는걸조차도 애석하게 생각할 정도였다. 그의 선수 생활중 최고의 시간 중 하나였던 1996-1997 시즌에, 그는 세리에 A 32 경기에 출전하여 1골을 넣었고 또한 국가대표팀 경기에서도 8 경기에 출전하였다. 아이러니하게도 그가 나폴리에 있던 그의 첫 프로 경기 데뷔전이 0-0으로 비긴 유벤투스전이였다. 2004-05 시즌에 스쿠데토를 차지를 한후에, 그의 팀 베테랑 동료들인 마르크 이울리아노 그리고 파올로 몬테로와 함께 유벤투스에서의 생활을 마감하였다. 몬테로는 우루과이로 돌아갔고 이울리아노는 소클럽에서 뛰기로 결정하였고 반면에 페라라는 2005년 5월 38살의 나이에 은퇴를 하였다. 페라라는 그의 선수 생활 마지막 시즌에 단 4경기만을 출전하였다. "
+}

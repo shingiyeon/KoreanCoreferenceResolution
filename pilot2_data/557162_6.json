@@ -1,0 +1,67 @@
+{
+	"docID": "557162",
+	"globalSID": "2300669,2300670,2300671",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "2-0",
+			"coref_index": 701,
+			"surface": "오페라_브라우저",
+			"entityName": "오페라_브라우저"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "동기화",
+			"entityName": "동기화"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 26,
+			"ancestor": "3-8",
+			"coref_index": 698,
+			"surface": "오페라_미니",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "오페라_미니_4",
+			"entityName": ""
+		}
+	],
+	"plainText": "오페라_미니_4는 오페라_브라우저와 오페라_미니를 동기화 할 수 있는 기능 외에도 상당히 많은 기능을 추가했다. 오페라 미니 4의 이전 버전은 고사양용 오페라 미니 어드벤스드, 저사양용 오페라 미니 베이직으로 나뉘어 출시되었지만, 오페라 미니 4는 오페라 미니 어드벤스드 버전만의 업그레이드 버전이다. 때문에 사용자는 오페라 미니 4와 오페라 미니 3 베이직을 선택해서 받을 수 있었다."
+}

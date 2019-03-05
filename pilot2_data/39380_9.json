@@ -1,0 +1,138 @@
+{
+	"docID": "39380",
+	"globalSID": "370770,370771",
+	"pronouns": [
+		{
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "브라이언_고든의 공을",
+			"id": 0,
+			"st": 46
+		}
+	],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 53,
+			"ancestor": "-1",
+			"surface": "브라이언_고든",
+			"entityName": "브라이언_고든"
+		},
+		{
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 68,
+			"ancestor": "-1",
+			"surface": "KBO_리그",
+			"entityName": "KBO_리그"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 137,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "채병용",
+			"entityName": "채병용"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"surface": "2012년_9월_18일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "포항_삼성",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 116,
+			"ancestor": "",
+			"surface": "2012년_10월_2일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 127,
+			"ancestor": "-1",
+			"surface": "대전_SK_와이번스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "SK",
+			"entityName": ""
+		}
+	],
+	"plainText": "2012년_9월_18일 포항_삼성전에서 5회 초, 1사 1루에서 2번 타자로 나와 브라이언_고든의 공을 받아쳐 KBO_리그 통산 3번째로 2,000안타를 기록하였으며, 최연소 기록이다. 2012년_10월_2일 대전_SK_와이번스전에서 SK 선발 채병용의 직구를 받아쳐 솔로 홈런을 쳤고 동시에 프로 통산 9번째로 1,000타점에 성공했다."
+}

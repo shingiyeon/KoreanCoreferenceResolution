@@ -1,0 +1,118 @@
+{
+	"docID": "365280",
+	"globalSID": "1856374",
+	"pronouns": [
+		{
+			"st": 10,
+			"coref_index": 511,
+			"id": 0,
+			"en": 11,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 21,
+			"st": 10,
+			"surface": "그의 헌신적인 활동에",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 30,
+			"st": 10,
+			"surface": "그의 헌신적인 활동에 대한 공적으로,",
+			"id": 2,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 36,
+			"ancestor": "",
+			"surface": "1984년",
+			"entityName": "1984년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "대통령_자유_메달",
+			"entityName": "대통령_자유_메달"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "사회_사업",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 39,
+			"ancestor": "1-5",
+			"coref_index": 517,
+			"surface": "미국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "민간인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "훈장",
+			"entityName": ""
+		}
+	],
+	"plainText": "사회_사업에 대한 그의 헌신적인 활동에 대한 공적으로, 1984년 미국에서 민간인으로는 최고의 훈장인 대통령_자유_메달을 받았다."
+}

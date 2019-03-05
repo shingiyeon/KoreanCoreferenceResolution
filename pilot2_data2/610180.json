@@ -1,0 +1,1111 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 324,
+			"text": "이들",
+			"is_pronoun": true,
+			"en_modified": 326,
+			"en": 326,
+			"st_modified": 324
+		},
+		{
+			"st": 826,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 827,
+			"en": 827,
+			"st_modified": 826
+		},
+		{
+			"st": 1004,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 1005,
+			"en": 1005,
+			"st_modified": 1004
+		},
+		{
+			"st": 1043,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 1044,
+			"en": 1044,
+			"st_modified": 1043
+		},
+		{
+			"st": 1138,
+			"text": "이 사건",
+			"is_pronoun": true,
+			"en_modified": 1142,
+			"en": 1142,
+			"st_modified": 1138
+		},
+		{
+			"st": 1489,
+			"text": "각 광역단체장들",
+			"is_pronoun": true,
+			"en_modified": 1497,
+			"en": 1497,
+			"st_modified": 1489
+		},
+		{
+			"st": 1582,
+			"text": "현 새누리당 국회의원)",
+			"is_pronoun": true,
+			"en_modified": 1594,
+			"en": 1594,
+			"st_modified": 1582
+		},
+		{
+			"st": 1582,
+			"text": "현 새누리당 국회의원) 충청도지사",
+			"is_pronoun": true,
+			"en_modified": 1600,
+			"en": 1600,
+			"st_modified": 1582
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 324,
+			"ancestor": "-1",
+			"surface": "이들",
+			"en_modified": 326,
+			"en": 326,
+			"st_modified": 324,
+			"id": 0
+		},
+		{
+			"st": 826,
+			"ancestor": "-1",
+			"surface": "이는",
+			"en_modified": 828,
+			"en": 828,
+			"st_modified": 826,
+			"id": 1
+		},
+		{
+			"st": 1004,
+			"ancestor": "-1",
+			"surface": "이에",
+			"en_modified": 1006,
+			"en": 1006,
+			"st_modified": 1004,
+			"id": 2
+		},
+		{
+			"st": 1043,
+			"ancestor": "-1",
+			"surface": "이에",
+			"en_modified": 1045,
+			"en": 1045,
+			"st_modified": 1043,
+			"id": 3
+		},
+		{
+			"st": 1138,
+			"ancestor": "-1",
+			"surface": "이 사건은",
+			"en_modified": 1143,
+			"en": 1143,
+			"st_modified": 1138,
+			"id": 4
+		},
+		{
+			"st": 1489,
+			"ancestor": "-1",
+			"surface": "각 광역단체장들이",
+			"en_modified": 1498,
+			"en": 1498,
+			"st_modified": 1489,
+			"id": 5
+		},
+		{
+			"st": 1582,
+			"ancestor": "-1",
+			"surface": "현 새누리당 국회의원)",
+			"en_modified": 1594,
+			"en": 1594,
+			"st_modified": 1582,
+			"id": 6
+		},
+		{
+			"st": 1582,
+			"ancestor": "-1",
+			"surface": "현 새누리당 국회의원) 충청도지사",
+			"en_modified": 1600,
+			"en": 1600,
+			"st_modified": 1582,
+			"id": 7
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 38,
+			"entityName": "대한민국",
+			"st_modified": 34,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 34,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 38,
+			"id": 0
+		},
+		{
+			"en_modified": 44,
+			"st_modified": 40,
+			"coref_index": 743,
+			"entityName": "시민단체",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 40,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시민단체",
+			"is_target": true,
+			"en": 44,
+			"id": 1
+		},
+		{
+			"en_modified": 142,
+			"st_modified": 139,
+			"coref_index": 737,
+			"entityName": "알권리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 139,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "알권리",
+			"is_target": true,
+			"en": 142,
+			"id": 2
+		},
+		{
+			"en_modified": 245,
+			"entityName": "김영희_(1960년)",
+			"st_modified": 242,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 242,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김영희",
+			"is_target": true,
+			"en": 245,
+			"id": 3
+		},
+		{
+			"en_modified": 29,
+			"entityName": "",
+			"st_modified": 17,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 17,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년_10월_9일",
+			"is_target": false,
+			"en": 29,
+			"id": 4
+		},
+		{
+			"en_modified": 219,
+			"entityName": "",
+			"st_modified": 216,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 216,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이승휘",
+			"is_target": true,
+			"en": 219,
+			"id": 5
+		},
+		{
+			"en_modified": 258,
+			"entityName": "",
+			"st_modified": 255,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 255,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "서경기",
+			"is_target": true,
+			"en": 258,
+			"id": 6
+		},
+		{
+			"en_modified": 422,
+			"st_modified": 418,
+			"coref_index": 741,
+			"entityName": "대한민국의_공공기관",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 418,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공공기관",
+			"is_target": true,
+			"en": 422,
+			"id": 7
+		},
+		{
+			"en_modified": 300,
+			"entityName": "",
+			"st_modified": 297,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 297,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "사무국",
+			"is_target": true,
+			"en": 300,
+			"id": 8
+		},
+		{
+			"en_modified": 310,
+			"entityName": "",
+			"st_modified": 307,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 307,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "활동가",
+			"is_target": true,
+			"en": 310,
+			"id": 9
+		},
+		{
+			"en_modified": 343,
+			"st_modified": 337,
+			"coref_index": 744,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 337,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정보공개청구",
+			"is_target": true,
+			"en": 343,
+			"id": 10
+		},
+		{
+			"en_modified": 352,
+			"entityName": "",
+			"st_modified": 348,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 348,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공공정보",
+			"is_target": true,
+			"en": 352,
+			"id": 11
+		},
+		{
+			"en_modified": 366,
+			"entityName": "",
+			"st_modified": 364,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 364,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "대중",
+			"is_target": true,
+			"en": 366,
+			"id": 12
+		},
+		{
+			"en_modified": 376,
+			"entityName": "",
+			"st_modified": 374,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 374,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "언론",
+			"is_target": true,
+			"en": 376,
+			"id": 13
+		},
+		{
+			"en_modified": 380,
+			"entityName": "",
+			"st_modified": 378,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 378,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "보도",
+			"is_target": true,
+			"en": 380,
+			"id": 14
+		},
+		{
+			"en_modified": 398,
+			"entityName": "",
+			"st_modified": 391,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 391,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "행정감시_활동",
+			"is_target": true,
+			"en": 398,
+			"id": 15
+		},
+		{
+			"en_modified": 436,
+			"entityName": "",
+			"st_modified": 434,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 434,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "의무",
+			"is_target": true,
+			"en": 436,
+			"id": 16
+		},
+		{
+			"en_modified": 443,
+			"entityName": "",
+			"st_modified": 441,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 441,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정보",
+			"is_target": true,
+			"en": 443,
+			"id": 17
+		},
+		{
+			"en_modified": 458,
+			"st_modified": 456,
+			"coref_index": 742,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 456,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "정부",
+			"is_target": true,
+			"en": 458,
+			"id": 18
+		},
+		{
+			"en_modified": 462,
+			"entityName": "",
+			"st_modified": 460,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 460,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "국민",
+			"is_target": true,
+			"en": 462,
+			"id": 19
+		},
+		{
+			"en_modified": 468,
+			"st_modified": 464,
+			"coref_index": 737,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 464,
+			"ancestor": "1-2",
+			"ne_type": "ETC",
+			"surface": "알_권리",
+			"is_target": true,
+			"en": 468,
+			"id": 20
+		},
+		{
+			"en_modified": 513,
+			"entityName": "",
+			"st_modified": 507,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 507,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정보공개정책",
+			"is_target": true,
+			"en": 513,
+			"id": 21
+		},
+		{
+			"en_modified": 544,
+			"st_modified": 541,
+			"coref_index": 738,
+			"entityName": "하승수",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 541,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "하승수",
+			"is_target": true,
+			"en": 544,
+			"id": 22
+		},
+		{
+			"en_modified": 558,
+			"st_modified": 555,
+			"coref_index": 739,
+			"entityName": "전진한_(1974년)",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 555,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "전진한",
+			"is_target": true,
+			"en": 558,
+			"id": 23
+		},
+		{
+			"en_modified": 655,
+			"st_modified": 652,
+			"coref_index": 738,
+			"entityName": "하승수",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 652,
+			"ancestor": "1-22",
+			"ne_type": "PERSON",
+			"surface": "하승수",
+			"is_target": true,
+			"en": 655,
+			"id": 24
+		},
+		{
+			"en_modified": 660,
+			"entityName": "녹색당_(대한민국)",
+			"st_modified": 657,
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 657,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "녹색당",
+			"is_target": true,
+			"en": 660,
+			"id": 25
+		},
+		{
+			"en_modified": 715,
+			"st_modified": 712,
+			"coref_index": 739,
+			"entityName": "전진한",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 712,
+			"ancestor": "1-23",
+			"ne_type": "PERSON",
+			"surface": "전진한",
+			"is_target": true,
+			"en": 715,
+			"id": 26
+		},
+		{
+			"en_modified": 540,
+			"entityName": "",
+			"st_modified": 528,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 528,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년_10월_9일",
+			"is_target": false,
+			"en": 540,
+			"id": 27
+		},
+		{
+			"en_modified": 570,
+			"entityName": "",
+			"st_modified": 567,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 567,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "정진임",
+			"is_target": true,
+			"en": 570,
+			"id": 28
+		},
+		{
+			"en_modified": 605,
+			"entityName": "",
+			"st_modified": 597,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 597,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_8월",
+			"is_target": false,
+			"en": 605,
+			"id": 29
+		},
+		{
+			"en_modified": 621,
+			"entityName": "",
+			"st_modified": 612,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 612,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2011년에_2월",
+			"is_target": false,
+			"en": 621,
+			"id": 30
+		},
+		{
+			"en_modified": 651,
+			"entityName": "",
+			"st_modified": 646,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 646,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년",
+			"is_target": false,
+			"en": 651,
+			"id": 31
+		},
+		{
+			"en_modified": 734,
+			"entityName": "",
+			"st_modified": 729,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 729,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년",
+			"is_target": false,
+			"en": 734,
+			"id": 32
+		},
+		{
+			"en_modified": 923,
+			"entityName": "문헌정보학",
+			"st_modified": 918,
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"eType": "ELU",
+			"st": 918,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "문헌정보학",
+			"is_target": true,
+			"en": 923,
+			"id": 33
+		},
+		{
+			"en_modified": 1013,
+			"st_modified": 1010,
+			"coref_index": 740,
+			"entityName": "서울특별시",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1010,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울시",
+			"is_target": true,
+			"en": 1013,
+			"id": 34
+		},
+		{
+			"en_modified": 1049,
+			"st_modified": 1046,
+			"coref_index": 740,
+			"entityName": "서울특별시",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1046,
+			"ancestor": "1-34",
+			"ne_type": "LOCATION",
+			"surface": "서울시",
+			"is_target": true,
+			"en": 1049,
+			"id": 35
+		},
+		{
+			"en_modified": 1156,
+			"st_modified": 1152,
+			"coref_index": 741,
+			"entityName": "대한민국의_공공기관",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1152,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "공공기관",
+			"is_target": true,
+			"en": 1156,
+			"id": 36
+		},
+		{
+			"en_modified": 954,
+			"st_modified": 952,
+			"coref_index": 742,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 952,
+			"ancestor": "1-18",
+			"ne_type": "ORGANIZATION",
+			"surface": "정부",
+			"is_target": true,
+			"en": 954,
+			"id": 37
+		},
+		{
+			"en_modified": 1100,
+			"entityName": "",
+			"st_modified": 1094,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1094,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "정보공개센터",
+			"is_target": true,
+			"en": 1100,
+			"id": 38
+		},
+		{
+			"en_modified": 1150,
+			"st_modified": 1144,
+			"coref_index": 743,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1144,
+			"ancestor": "1-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "시민사회단체",
+			"is_target": true,
+			"en": 1150,
+			"id": 39
+		},
+		{
+			"en_modified": 1220,
+			"entityName": "후쿠시마_제1_원자력_발전소_사고",
+			"st_modified": 1202,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1202,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "후쿠시마_제1_원자력_발전소_사고",
+			"is_target": true,
+			"en": 1220,
+			"id": 40
+		},
+		{
+			"en_modified": 1273,
+			"entityName": "한미FTA",
+			"st_modified": 1268,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1268,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "한미FTA",
+			"is_target": true,
+			"en": 1273,
+			"id": 41
+		},
+		{
+			"en_modified": 1325,
+			"entityName": "이명박",
+			"st_modified": 1322,
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"eType": "WIKILINK",
+			"st": 1322,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이명박",
+			"is_target": true,
+			"en": 1325,
+			"id": 42
+		},
+		{
+			"en_modified": 1230,
+			"entityName": "",
+			"st_modified": 1224,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1224,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "원자력_발전",
+			"is_target": true,
+			"en": 1230,
+			"id": 43
+		},
+		{
+			"en_modified": 1235,
+			"entityName": "",
+			"st_modified": 1232,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1232,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "방사능",
+			"is_target": true,
+			"en": 1235,
+			"id": 44
+		},
+		{
+			"en_modified": 1366,
+			"entityName": "",
+			"st_modified": 1358,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1358,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_2월",
+			"is_target": false,
+			"en": 1366,
+			"id": 45
+		},
+		{
+			"en_modified": 1374,
+			"entityName": "",
+			"st_modified": 1367,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1367,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "국가권익위원회",
+			"is_target": true,
+			"en": 1374,
+			"id": 46
+		},
+		{
+			"en_modified": 1382,
+			"st_modified": 1376,
+			"coref_index": 744,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1376,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "정보공개청구",
+			"is_target": true,
+			"en": 1382,
+			"id": 47
+		},
+		{
+			"en_modified": 1390,
+			"entityName": "",
+			"st_modified": 1387,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1387,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "공무원",
+			"is_target": true,
+			"en": 1390,
+			"id": 48
+		},
+		{
+			"en_modified": 1426,
+			"entityName": "",
+			"st_modified": 1424,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1424,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "범죄",
+			"is_target": true,
+			"en": 1426,
+			"id": 49
+		},
+		{
+			"en_modified": 1448,
+			"entityName": "",
+			"st_modified": 1446,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1446,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "징계",
+			"is_target": true,
+			"en": 1448,
+			"id": 50
+		},
+		{
+			"en_modified": 1581,
+			"entityName": "정우택_(1953년)",
+			"st_modified": 1578,
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1578,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "정우택",
+			"is_target": true,
+			"en": 1581,
+			"id": 51
+		},
+		{
+			"en_modified": 1588,
+			"entityName": "새누리당",
+			"st_modified": 1584,
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1584,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "새누리당",
+			"is_target": true,
+			"en": 1588,
+			"id": 52
+		},
+		{
+			"en_modified": 1605,
+			"entityName": "오세훈",
+			"st_modified": 1602,
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "ELU",
+			"st": 1602,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "오세훈",
+			"is_target": true,
+			"en": 1605,
+			"id": 53
+		},
+		{
+			"en_modified": 1623,
+			"entityName": "쌍용_체어맨",
+			"st_modified": 1617,
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Automobile"
+			],
+			"eType": "WIKILINK",
+			"st": 1617,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "쌍용_체어맨",
+			"is_target": true,
+			"en": 1623,
+			"id": 54
+		},
+		{
+			"en_modified": 1644,
+			"entityName": "현대_에쿠스",
+			"st_modified": 1638,
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Automobile"
+			],
+			"eType": "WIKILINK",
+			"st": 1638,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "현대_에쿠스",
+			"is_target": true,
+			"en": 1644,
+			"id": 55
+		},
+		{
+			"en_modified": 1475,
+			"entityName": "",
+			"st_modified": 1467,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1467,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_3월",
+			"is_target": false,
+			"en": 1475,
+			"id": 56
+		}
+	],
+	"globalSID": "2412474,2412475,2412476,2412477,2412478,2412479,2412480,2412481,2412482,2412483,2412484,2412485,2412486,2412487,2412488,2412489,2412490,2412491,2412492,2412493,2412494,2412495",
+	"plainText": "투명사회를 위한 정보공개센터는 2008년_10월_9일_설립된 대한민국의 시민단체이다. 영문명은 \"The Center for Freedom of Information and Transparent Society\" 이다. 기록정보의 대중화를 통해 국민의 알권리를 실현하고, 정보공개를 통한 행정감시와 권력감시 등의 활동으로 사회전반의 투명성과 책임성을 높여 나가는 것을 목적으로 하고 있다. 이승휘(명지대 기록관리학과 교수) 가 대표를, 김영희(MBC PD), 서경기(여울교회 목사)가 전임 대표단으로서 고문을 맡고 있다. 주된 활동은 사무국에 근무하는 활동가들을 중심으로 이루어지며 이들은 공공기관에 대한 정보공개청구를 통해 공공정보를 분석하거나 가공해 대중에 공개하거나 언론의 보도를 지원하는 일종의 행정감시_활동을 주요 활동으로 삼고 있다. 또한 공공기관이 상시적으로 공개할 의무가 있는 정보들이 원만하게 공개되어 정부가 국민의 알_권리를 온전히 보장하는지 감시하는 활동들도 진행하며 정부 및 공공기관들의 정보공개정책에 관여하기도 한다. 역사 2008년_10월_9일 하승수를 소장으로, 당시 전진한이 사무국장을, 정진임이 간사를 맡아 3인 사무국 체제로 설립되었다. 2009년_8월에 강언주, 2011년에_2월에 강성국이 상근 활동가로 차례로 가담했다. 2012년 하승수는 녹색당 창당 활동을 위해 소장직을 그만두고 현재 비상근 임원인 운영위원으로 참여하고 있으며 동시에 전진한이 2대 소장을 맡았다. 2013년에는 조민지가 상근 활동가로 사무국에 합류했다. 2015년 2월에 있었던 정기총회를 기점으로 조직구조에 큰 변화를 주었다. 그간 임원진을 구성했던 이사단이 해소되고 이는 운영위원회로 대체되었으며 2대 소장을 역임했던 전진한이 3년 간의 소장 임기를 끝으로 퇴임했다. 3대 소장으로는 그간 단체의 이사로 활동해 왔던 김유승 중앙대 문헌정보학과 교수가 새로 취임했다. 주요활동 2011년 2월 정부가 관리하는 기금 40개 중 8개가 자산보다 부채가 많은 자산잠식 상태인 것을 밝혔으며, 이에 앞서 서울시를 상대로 광고비 내역에 관한 정보공개 청구를 했다. 이에 서울시는 광고비 과다지출 사실을 은폐하기 위해 악의적으로 광고비 내역을 비공개 하였고 정보공개센터는 정보공개청구 비공개에 대한 손배소송을 청구했고 승소한 바 있다. 이 사건은 시민사회단체가 공공기관의 정보 비공개에 대한 손배소송의 첫 승소로서 중요한 판례로 인식되고 있다. 또한 후쿠시마_제1_원자력_발전소_사고 이후 원자력_발전과 방사능에 관한 정보공개 활동, 졸속적인 재협상으로 갈등이 첨예한 한미FTA와 관련해 정부의 정보폐쇄성을 지속적으로 지적하고 있으며 정부의 기록물 관리실태 감시, 이명박 전 대통령의 기록물 생산관리에 대한 평가활동을 수행했다. 2009년_2월 국가권익위원회에 정보공개청구를 통해 공무원들의 '예산목적 외 사용금지', '금품 및 향응 수수중' 등 범죄들이 '경고 및 주의' 등의 가벼운 징계에 그치고 있는 경향을 지적했다. 2009년_3월 전국 16개 광역단체에 각 광역단체장들이 사용하는 전용차량의 모델과 배기량, 구입비용을 정보공개청구해 전용차량 구입에 가장 많은 세금을 지출한 순으로 단체장들의 순위를 매겼다. 당시 정우택(현 새누리당 국회의원) 충청도지사와 오세훈 전 서울시장이 각각 쌍용_체어맨을 66,060,000원, 현대_에쿠스 차량을 65,960,000원에 구입해 1위와 2위를 차지했다. ",
+	"docID": "610180",
+	"ModifiedText": "투명사회를 위한 정보공개센터는 2008년 10월 9일 설립된 대한민국의 시민단체이다. 영문명은 \"The Center for Freedom of Information and Transparent Society\" 이다. 기록정보의 대중화를 통해 국민의 알권리를 실현하고, 정보공개를 통한 행정감시와 권력감시 등의 활동으로 사회전반의 투명성과 책임성을 높여 나가는 것을 목적으로 하고 있다. 이승휘(명지대 기록관리학과 교수) 가 대표를, 김영희(MBC PD), 서경기(여울교회 목사)가 전임 대표단으로서 고문을 맡고 있다. 주된 활동은 사무국에 근무하는 활동가들을 중심으로 이루어지며 이들은 공공기관에 대한 정보공개청구를 통해 공공정보를 분석하거나 가공해 대중에 공개하거나 언론의 보도를 지원하는 일종의 행정감시 활동을 주요 활동으로 삼고 있다. 또한 공공기관이 상시적으로 공개할 의무가 있는 정보들이 원만하게 공개되어 정부가 국민의 알 권리를 온전히 보장하는지 감시하는 활동들도 진행하며 정부 및 공공기관들의 정보공개정책에 관여하기도 한다. 역사 2008년 10월 9일 하승수를 소장으로, 당시 전진한이 사무국장을, 정진임이 간사를 맡아 3인 사무국 체제로 설립되었다. 2009년 8월에 강언주, 2011년에 2월에 강성국이 상근 활동가로 차례로 가담했다. 2012년 하승수는 녹색당 창당 활동을 위해 소장직을 그만두고 현재 비상근 임원인 운영위원으로 참여하고 있으며 동시에 전진한이 2대 소장을 맡았다. 2013년에는 조민지가 상근 활동가로 사무국에 합류했다. 2015년 2월에 있었던 정기총회를 기점으로 조직구조에 큰 변화를 주었다. 그간 임원진을 구성했던 이사단이 해소되고 이는 운영위원회로 대체되었으며 2대 소장을 역임했던 전진한이 3년 간의 소장 임기를 끝으로 퇴임했다. 3대 소장으로는 그간 단체의 이사로 활동해 왔던 김유승 중앙대 문헌정보학과 교수가 새로 취임했다. 주요활동 2011년 2월 정부가 관리하는 기금 40개 중 8개가 자산보다 부채가 많은 자산잠식 상태인 것을 밝혔으며, 이에 앞서 서울시를 상대로 광고비 내역에 관한 정보공개 청구를 했다. 이에 서울시는 광고비 과다지출 사실을 은폐하기 위해 악의적으로 광고비 내역을 비공개 하였고 정보공개센터는 정보공개청구 비공개에 대한 손배소송을 청구했고 승소한 바 있다. 이 사건은 시민사회단체가 공공기관의 정보 비공개에 대한 손배소송의 첫 승소로서 중요한 판례로 인식되고 있다. 또한 후쿠시마 제1 원자력 발전소 사고 이후 원자력 발전과 방사능에 관한 정보공개 활동, 졸속적인 재협상으로 갈등이 첨예한 한미FTA와 관련해 정부의 정보폐쇄성을 지속적으로 지적하고 있으며 정부의 기록물 관리실태 감시, 이명박 전 대통령의 기록물 생산관리에 대한 평가활동을 수행했다. 2009년 2월 국가권익위원회에 정보공개청구를 통해 공무원들의 '예산목적 외 사용금지', '금품 및 향응 수수중' 등 범죄들이 '경고 및 주의' 등의 가벼운 징계에 그치고 있는 경향을 지적했다. 2009년 3월 전국 16개 광역단체에 각 광역단체장들이 사용하는 전용차량의 모델과 배기량, 구입비용을 정보공개청구해 전용차량 구입에 가장 많은 세금을 지출한 순으로 단체장들의 순위를 매겼다. 당시 정우택(현 새누리당 국회의원) 충청도지사와 오세훈 전 서울시장이 각각 쌍용 체어맨을 66,060,000원, 현대 에쿠스 차량을 65,960,000원에 구입해 1위와 2위를 차지했다. "
+}

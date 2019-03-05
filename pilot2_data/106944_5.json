@@ -1,0 +1,162 @@
+{
+	"docID": "106944",
+	"globalSID": "798956,798957,798958,798959",
+	"pronouns": [
+		{
+			"en": 141,
+			"ancestor": "-1",
+			"surface": "이 시기의",
+			"id": 0,
+			"st": 136
+		},
+		{
+			"en": 148,
+			"ancestor": "-1",
+			"surface": "이 시기의 대표작으로는",
+			"id": 1,
+			"st": 136
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "4-5",
+			"coref_index": 3,
+			"surface": "로맨티시즘",
+			"entityName": "낭만주의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "서양",
+			"entityName": "서양"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"ComicsCreator",
+				"Artist"
+			],
+			"st": 48,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "이케다_리요코",
+			"entityName": "이케다_리요코"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"st": 58,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "베르사이유의_장미",
+			"entityName": "베르사이유의_장미"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "올훼스의_창",
+			"entityName": "오르페우스의_창"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 80,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 84,
+			"ancestor": "1-1",
+			"coref_index": 4,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "아뉴스데이",
+			"entityName": "하느님의_어린_양"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 159,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 169,
+			"ancestor": "-1",
+			"surface": "굿바이_미스터_블랙",
+			"entityName": "굿바이_미스터_블랙"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 173,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 178,
+			"ancestor": "-1",
+			"surface": "불새의_늪",
+			"entityName": ""
+		}
+	],
+	"plainText": "1기 제1기 '로맨티시즘의 시절'의 작품들은 서양을 배경으로한 시대물이 대부분이었다. 이케다_리요코의 《베르사이유의_장미》와 《올훼스의_창》이 대한민국에서 큰 인기를 끌면서 독자와 출판사가 서양 배경의 시대물을 선호했기 때문인 것으로 보인다. 이 시기의 대표작으로는 《아뉴스데이》, 《굿바이_미스터_블랙》, 《불새의_늪》등이 있다."
+}

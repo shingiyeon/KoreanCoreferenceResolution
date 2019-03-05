@@ -1,0 +1,330 @@
+{
+	"docID": "440576",
+	"globalSID": "2043497,2043498,2043499,2043500",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 71,
+			"ancestor": "-1",
+			"coref_index": 580,
+			"surface": "뉴욕",
+			"entityName": "뉴욕"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "코넬리어스_밴더빌트",
+			"entityName": "코넬리어스_밴더빌트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "인물",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 17,
+			"ancestor": "-1",
+			"coref_index": 579,
+			"surface": "작가_와이어트_에모리_쿠퍼",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "예술가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "디자이너",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "작가인_레지널드_클레이풀_밴더빌트",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 62,
+			"ancestor": "-1",
+			"coref_index": 578,
+			"surface": "딸_글로리아_밴더빌트",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "차남",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 80,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 83,
+			"ancestor": "2-7",
+			"coref_index": 578,
+			"surface": "어머니",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "5세손",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 107,
+			"ancestor": "2-3",
+			"coref_index": 579,
+			"surface": "아버지",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 109,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "EVENT",
+			"en": 113,
+			"ancestor": "-1",
+			"surface": "심장발작",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 127,
+			"ancestor": "",
+			"surface": "1978년_1월_5일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "50세",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 134,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 136,
+			"ancestor": "-1",
+			"coref_index": 581,
+			"surface": "사망",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 141,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "형_카터",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 147,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 17,
+			"ne_type": "TIME",
+			"en": 159,
+			"ancestor": "",
+			"surface": "1988년_7월_22일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "LOCATION",
+			"en": 163,
+			"ancestor": "2-0",
+			"coref_index": 580,
+			"surface": "뉴욕",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 173,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "LOCATION",
+			"en": 186,
+			"ancestor": "-1",
+			"surface": "팬트하우스_14층_베란다",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 194,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 197,
+			"ancestor": "-1",
+			"surface": "23세",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 201,
+			"ancestor": "2-15",
+			"coref_index": 581,
+			"surface": "사망",
+			"entityName": ""
+		}
+	],
+	"plainText": "인물 작가_와이어트_에모리_쿠퍼와 예술가 겸 디자이너, 작가인_레지널드_클레이풀_밴더빌트의 딸_글로리아_밴더빌트의 차남으로 뉴욕에서 태어났다. 어머니는 코넬리어스_밴더빌트의 5세손이다. 아버지는 심장발작으로 1978년_1월_5일, 50세에 사망하였고, 형_카터는 1988년_7월_22일, 뉴욕에 있는 어머니의 팬트하우스_14층_베란다에서 뛰어내려 23세에 사망하였다."
+}

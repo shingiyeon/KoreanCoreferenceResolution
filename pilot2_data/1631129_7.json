@@ -1,0 +1,41 @@
+{
+	"docID": "1631129",
+	"globalSID": "3854844,3854845",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"entityName": "로순다_스타디온",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 40,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "로순다_스타디온"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "1998년_5월_13일_스웨덴_스톡홀름"
+		}
+	],
+	"plainText": "결승전 결승전은 1998년_5월_13일_스웨덴_스톡홀름의 로순다_스타디온에서 열렸다."
+}

@@ -1,0 +1,312 @@
+{
+	"docID": "236956",
+	"globalSID": "1377506,1377507,1377508,1377509,1377510,1377511,1377512",
+	"pronouns": [
+		{
+			"en": 408,
+			"ancestor": "-1",
+			"surface": "그다음날",
+			"id": 0,
+			"st": 404
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 3,
+			"eType": "ELU",
+			"entityName": "설운도",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 6,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"entityName": "1958년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 13,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1958년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"entityName": "6월_23일",
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 20,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "6월_23일"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"entityName": "부산광역시",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "부산"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "ELU",
+			"entityName": "아버지",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아버지",
+			"coref_index": 322
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"entityName": "부산한독원예학교",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "부산한독원예학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "ELU",
+			"entityName": "아버지",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "2-4",
+			"is_target": true,
+			"surface": "아버지",
+			"coref_index": 322
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 140,
+			"eType": "WIKILINK",
+			"entityName": "1982년",
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 145,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1982년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 167,
+			"eType": "WIKILINK",
+			"entityName": "KBS",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 170,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "KBS"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 213,
+			"eType": "WIKILINK",
+			"entityName": "1983년",
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 218,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1983년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 232,
+			"eType": "ELU",
+			"entityName": "이산_가족",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 236,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이산가족"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 317,
+			"eType": "ELU",
+			"entityName": "박건호",
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 320,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "박건호",
+			"coref_index": 323
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 383,
+			"eType": "ELU",
+			"entityName": "박건호",
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 386,
+			"ancestor": "2-11",
+			"is_target": true,
+			"surface": "박건호",
+			"coref_index": 323
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 456,
+			"eType": "WIKILINK",
+			"entityName": "기네스북",
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 460,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기네스북"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 483,
+			"eType": "ELU",
+			"entityName": "이산_가족",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 487,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이산가족"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 548,
+			"eType": "ELU",
+			"entityName": "설운도",
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 551,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 553,
+			"eType": "WIKILINK",
+			"entityName": "1984년",
+			"id": 16,
+			"ne_type": "TIME",
+			"en": 558,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1984년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 559,
+			"eType": "WIKILINK",
+			"entityName": "12월",
+			"id": 17,
+			"ne_type": "TIME",
+			"en": 562,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "12월"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 593,
+			"eType": "WIKILINK",
+			"entityName": "설운도",
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 596,
+			"ancestor": "2-15",
+			"is_target": true,
+			"surface": "설운도",
+			"coref_index": 321
+		}
+	],
+	"plainText": "생애 설운도는 1958년 6월_23일에 부산에서 아버지 이상택과 어머니 곽순자의 3남 3녀 중 장남으로 태어났다. 부산한독원예학교 재학 중 아버지의 사업실패로 가정 형편이 어려워지자 돈을 벌기 위해 연탄배달에 나섰다. 이후 육군에 입대하여 전역한 뒤 1982년에 당시 서바이벌 오디션 프로그램이었던 KBS 《신인탄생》에 출연해 프로그램 5주 연속으로 우승하며 데뷔하였다. 이듬해인 1983년에 KBS 특별 생방송 《이산가족을 찾습니다》에 출연하여 데뷔 곡〈잃어버린 30년〉을 부르게 되었는데 하루 만에 빅히트를 기록하였다. 《잃어버린 30년》(원작: 남국인, 개작: 박건호/ 작곡: 남국인)은 원래〈아버지께〉라는 제목으로 발표된 노래인데 이산가족 생방송을 하는걸 매니저가 보고 작사가 박건호에게 전화를 걸어 하룻밤에 작사 그다음날 녹음 모레에 방송 하루 만에 엄청난 히트를 하여 녹음 후 최단 기단의 히트한 곡으로 기네스북에 기록되었다. 데뷔한 지 얼마되지 않아 이산가족의 설움을 그린 곡〈잃어버린 30년〉으로 제 3회 KBS 가요대상 7대 가수상을 수상하고 일약 스타덤에 오른 설운도는 1984년 12월에 발표한 정통 트로트〈나침반〉(작사: 김상길/ 작곡: 설운도)으로 다시 인기를 이어나갔다."
+}

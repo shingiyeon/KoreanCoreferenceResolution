@@ -1,0 +1,324 @@
+{
+	"docID": "970374",
+	"globalSID": "3126289,3126290,3126291,3126292,3126293,3126294,3126295",
+	"pronouns": [
+		{
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "어느 정도",
+			"id": 0,
+			"st": 8
+		},
+		{
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "여러 정파",
+			"id": 1,
+			"st": 135
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 77,
+			"ancestor": "-1",
+			"coref_index": 1179,
+			"surface": "금주법",
+			"entityName": "금주법"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 190,
+			"ancestor": "-1",
+			"surface": "아동_노동",
+			"entityName": "아동_노동"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 230,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 236,
+			"ancestor": "-1",
+			"surface": "여성_참정권",
+			"entityName": "여성참정권"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 336,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 343,
+			"ancestor": "-1",
+			"surface": "로마가톨릭교회",
+			"entityName": "로마_가톨릭교회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 345,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 349,
+			"ancestor": "-1",
+			"surface": "루터교회",
+			"entityName": "루터교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "정당",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "출석률",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 100,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 102,
+			"ancestor": "-1",
+			"surface": "관세",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "화폐_공급",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 138,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "정파",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 171,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 175,
+			"ancestor": "2-0",
+			"coref_index": 1178,
+			"surface": "노동조합",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 226,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 228,
+			"ancestor": "3-0",
+			"coref_index": 1179,
+			"surface": "금주",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 244,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 250,
+			"ancestor": "-1",
+			"surface": "지방_행정부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 252,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 254,
+			"ancestor": "-1",
+			"surface": "학교",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 256,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 258,
+			"ancestor": "-1",
+			"coref_index": 1180,
+			"surface": "병원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 275,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 279,
+			"ancestor": "-1",
+			"surface": "사립학교",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 281,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 283,
+			"ancestor": "3-14",
+			"coref_index": 1180,
+			"surface": "병원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 294,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 296,
+			"ancestor": "-1",
+			"surface": "종파",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 317,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 322,
+			"ancestor": "-1",
+			"surface": "선교_활동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 375,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ORGANIZATION",
+			"en": 377,
+			"ancestor": "-1",
+			"surface": "대학",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 379,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"en": 381,
+			"ancestor": "3-14",
+			"coref_index": 1180,
+			"surface": "병원",
+			"entityName": ""
+		}
+	],
+	"plainText": "정치상 지형은 어느 정도 부패했는데도 출석률은 매우 높았고 공평하게 짝을 이룬 정당이 접전을 벌였다는 점에서 주목할 만했다. 쟁점은 금주법과 교육과 민족과 인종을 대상으로 문화와 관세와 화폐_공급을 위시한 경제였다. 빠르게 성장하는 도시에는 여러 정파가 도시 정치를 통제하는 역량을 점점 획득하고 있었다. 노동조합은 8시간 노동과 아동_노동 금지를 찬성하는 운동하고 있었고 중산층 개혁가들은 행정 개혁과 금주와 여성_참정권을 요구했다. 지방_행정부는 학교와 병원을 건립했고 현지의 자선가들은 사립학교와 병원도 설립했다. 많은 종파가 신도 수효와 부에서 성장을 이뤘고 선교_활동을 전 세계로 확장했다. 로마가톨릭교회와 루터교회는 종교 학교를 창립했고 더 큰 종파들도 많은 대학과 병원을 설치했다."
+}

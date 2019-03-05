@@ -1,0 +1,126 @@
+{
+	"docID": "609167",
+	"globalSID": "2410383,2410384,2410385",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 3,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 10,
+			"ancestor": "1-0",
+			"coref_index": 727,
+			"surface": "삿사_나리마사",
+			"entityName": "삿사_나리마사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "삿사_나리무네",
+			"entityName": "삿사_나리무네"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 38,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 45,
+			"ancestor": "2-0",
+			"coref_index": 727,
+			"surface": "삿사_나리마사",
+			"entityName": "삿사_나리마사"
+		},
+		{
+			"kbox_types": [
+				"Disease"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "전사",
+			"entityName": "작전_중_사망"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "에이로쿠",
+			"entityName": "에이로쿠"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 99,
+			"ancestor": "",
+			"surface": "1560년",
+			"entityName": "1560년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 103,
+			"ancestor": "-1",
+			"surface": "가독",
+			"entityName": "가독"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 110,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 116,
+			"ancestor": "-1",
+			"surface": "히라성_성주",
+			"entityName": ""
+		}
+	],
+	"plainText": "생애 삿사_나리마사는 삿사_나리무네(佐?成宗)의 3남으로 태어났다. 삿사_나리마사는 형이 2명이 있지만 형들이 연달아 싸움에서 전사하였기 때문에, 에이로쿠(永?) 3년 1560년에 가독의 후계자로 히라성_성주가 되었다."
+}

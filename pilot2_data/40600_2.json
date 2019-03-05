@@ -1,0 +1,154 @@
+{
+	"docID": "40600",
+	"globalSID": "382863,382864,382865",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "칼데아_시대",
+			"entityName": "신바빌로니아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 36,
+			"ancestor": "-1",
+			"coref_index": 537,
+			"surface": "바빌로니아_점성술",
+			"entityName": "바빌로니아_점성술"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "-1",
+			"surface": "헬레니즘_점성술",
+			"entityName": "헬레니즘_점성술"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 102,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "로마_시대",
+			"entityName": "로마_시대"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 137,
+			"ancestor": "-1",
+			"surface": "프톨레마이오스",
+			"entityName": "클라우디오스_프톨레마이오스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "1-14",
+			"coref_index": 530,
+			"surface": "황도대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 124,
+			"ancestor": "1-14",
+			"coref_index": 530,
+			"surface": "황도대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 140,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "알마게스트",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 147,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "2세기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "기원전_1세기_중반",
+			"entityName": ""
+		}
+	],
+	"plainText": "사용 황도대는 칼데아_시대(기원전_1세기_중반) 바빌로니아_점성술로부터 파생된 헬레니즘_점성술에 근거하여 즉, 황도를 따라 지나는 항성의 목록에 대한 보다 이른 체계에서부터 유래되어 로마_시대부터 사용되어오고 있다. 황도대의 구조는 프톨레마이오스의 \"알마게스트\"(2세기)에 묘사되어 있다."
+}

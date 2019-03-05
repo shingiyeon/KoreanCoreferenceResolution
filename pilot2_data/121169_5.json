@@ -1,0 +1,239 @@
+{
+	"docID": "121169",
+	"globalSID": "886049,886050,886051",
+	"pronouns": [
+		{
+			"en": 53,
+			"st": 49,
+			"surface": "그 과정",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 84,
+			"st": 49,
+			"surface": "그 과정에서 성남_일화_천마로의 이적을 추진하던 포항_스틸러스와",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 211,
+			"st": 207,
+			"surface": "이 과정",
+			"id": 2,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "2008년",
+			"entityName": "2008년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 16,
+			"ancestor": "-1",
+			"surface": "러시아_프리미어리그",
+			"entityName": "러시아_프리미어리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 34,
+			"ancestor": "-1",
+			"coref_index": 115,
+			"surface": "FC_크릴리야_소베토프_사마라",
+			"entityName": "FC_크릴리야_소베토프_사마라"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 64,
+			"ancestor": "-1",
+			"coref_index": 116,
+			"surface": "성남_일화_천마",
+			"entityName": "성남_일화_천마"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 76,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 83,
+			"ancestor": "4-1",
+			"coref_index": 114,
+			"surface": "포항_스틸러스",
+			"entityName": "포항_스틸러스"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 101,
+			"ancestor": "5-4",
+			"coref_index": 114,
+			"surface": "포항_스틸러스",
+			"entityName": "포항_스틸러스"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 105,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 108,
+			"ancestor": "1-0",
+			"coref_index": 112,
+			"surface": "오범석",
+			"entityName": "오범석"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 156,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 163,
+			"ancestor": "5-4",
+			"coref_index": 114,
+			"surface": "포항_스틸러스",
+			"entityName": "포항_스틸러스"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 179,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 195,
+			"ancestor": "5-2",
+			"coref_index": 115,
+			"surface": "FC_크릴리야_소베토프_사마라",
+			"entityName": "FC_크릴리야_소베토프_사마라"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 214,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 216,
+			"ancestor": "5-7",
+			"coref_index": 114,
+			"surface": "포항",
+			"entityName": "포항_스틸러스"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 218,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 220,
+			"ancestor": "5-3",
+			"coref_index": 116,
+			"surface": "성남",
+			"entityName": "성남_일화_천마"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 124,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "EVENT",
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "국제축구연맹_제소",
+			"entityName": ""
+		}
+	],
+	"plainText": "2008년 러시아_프리미어리그의 FC_크릴리야_소베토프_사마라로의 이적을 추진하였으나, 그 과정에서 성남_일화_천마로의 이적을 추진하던 포항_스틸러스와 마찰을 빚었다. 포항_스틸러스 측과 오범석 측은 각각 '임의탈퇴'와 '국제축구연맹_제소'라는 강경책을 내세워 대립하였고, 결국 포항_스틸러스가 이적 동의서를 발급하면서 FC_크릴리야_소베토프_사마라로 완전 이적하였다. 이 과정에서 포항과 성남의 팬들에게 많은 비난을 받기도 하였다."
+}

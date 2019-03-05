@@ -1,0 +1,57 @@
+{
+	"docID": "485858",
+	"globalSID": "2146921",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"st": 4,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "4-0",
+			"coref_index": 620,
+			"surface": "조덕환",
+			"entityName": "조덕환"
+		},
+		{
+			"kbox_types": [
+				"Website",
+				"Work"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"coref_index": 624,
+			"surface": "이즘",
+			"entityName": "이즘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 14,
+			"ancestor": "",
+			"surface": "2011년",
+			"entityName": ""
+		}
+	],
+	"plainText": "하지만 조덕환은 2011년 《이즘》과의 인터뷰에서 《Let It Be》를 염두에 둔 것은 아니라고 말했다."
+}

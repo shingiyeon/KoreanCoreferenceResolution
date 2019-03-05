@@ -1,0 +1,173 @@
+{
+	"docID": "119879",
+	"globalSID": "876707,876708",
+	"pronouns": [
+		{
+			"en": 128,
+			"ancestor": "-1",
+			"surface": "다른 브라질 용병",
+			"id": 0,
+			"st": 119
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"entityName": "부산_아이파크",
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 11,
+			"ancestor": "3-0",
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"coref_index": 97
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"entityName": "앙드레_에글리",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "앙드레_에글리"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 56,
+			"ancestor": "1-7",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 84,
+			"ancestor": "1-7",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 104,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 109,
+			"ancestor": "1-7",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 129,
+			"eType": "WIKILINK",
+			"entityName": "이베라우두_지_제수스_페헤이라",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 132,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "까보레",
+			"coref_index": 99
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 149,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 154,
+			"ancestor": "1-7",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 17,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "신임감독",
+			"coref_index": 100
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 101,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2007_시즌"
+		}
+	],
+	"plainText": "그러나 부산_아이파크의 신임감독이었던 앙드레_에글리 감독은 뽀뽀를 팀에서 내보내고, 뽀뽀는 경남_FC에 새 둥지를 틀게 된다. 뽀뽀의 활약은 경남_FC에서도 이어지며, 2007_시즌부터 경남_FC에서 뛰게 된 또 다른 브라질 용병 까보레와 함께 팀의 공격을 주도하며 경남_FC가 4위라는 호성적으로 전반기를 마감하는 데 큰 기여를 한다."
+}

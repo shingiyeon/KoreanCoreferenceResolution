@@ -1,0 +1,252 @@
+{
+	"docID": "51865",
+	"globalSID": "481724,481725,481726",
+	"pronouns": [
+		{
+			"en": 38,
+			"ancestor": "-1",
+			"surface": "그 동쪽",
+			"id": 0,
+			"st": 34
+		},
+		{
+			"en": 40,
+			"ancestor": "-1",
+			"surface": "그 동쪽 끝",
+			"id": 1,
+			"st": 34
+		},
+		{
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "그 동쪽 끝 지역(스웁스크",
+			"id": 2,
+			"st": 34
+		},
+		{
+			"en": 53,
+			"ancestor": "-1",
+			"surface": "그 동쪽 끝 지역(스웁스크 지역)은",
+			"id": 3,
+			"st": 34
+		},
+		{
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "여러 옛 지방이",
+			"id": 4,
+			"st": 92
+		}
+	],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "오늘날",
+			"entityName": "오늘날"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "스웁스크",
+			"entityName": "스웁스크"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 58,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "포모제_주",
+			"entityName": "포모제_주"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 81,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 86,
+			"ancestor": "1-0",
+			"coref_index": 656,
+			"surface": "포메라니아",
+			"entityName": "포메라니아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 107,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 117,
+			"ancestor": "-1",
+			"surface": "슐라베-스톨프_영토",
+			"entityName": "슐라베-스톨프_영토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 119,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "라우엔부르크-뷔토브_영토",
+			"entityName": "라우엔부르크-뷔토브_영토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 134,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 142,
+			"ancestor": "-1",
+			"surface": "나우가르트_영토",
+			"entityName": "나우가르트_영토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 144,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "캄민_주교령",
+			"entityName": "캄민_주교령"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 195,
+			"ancestor": "-1",
+			"surface": "노이마르크",
+			"entityName": "노이마르크"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 217,
+			"ancestor": "-1",
+			"surface": "그렌츠마르크_포젠-베스트_프로이센",
+			"entityName": "그렌츠마르크_포젠-베스트_프로이센"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "포메라니아_지방",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "서포모제_주",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "EVENT",
+			"en": 167,
+			"ancestor": "-1",
+			"surface": "제2차_세계_대전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 174,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 185,
+			"ancestor": "-1",
+			"surface": "포메라니아_남쪽_지역",
+			"entityName": ""
+		}
+	],
+	"plainText": "과거 먼 포메라니아_지방은 오늘날 서포모제_주 안에 있으며, 그 동쪽 끝 지역(스웁스크 지역)은 오늘날 포모제_주의 북서쪽 끝부분을 이룬다. 먼 포메라니아에는 과거 여러 옛 지방이 있었는데, 슐라베-스톨프_영토, 라우엔부르크-뷔토브_영토, 나우가르트_영토, 캄민_주교령이 유명했다. 제2차_세계_대전 시기에 먼 포메라니아_남쪽_지역에는 옛 노이마르크 땅과 그렌츠마르크_포젠-베스트_프로이센도 추가되었다."
+}

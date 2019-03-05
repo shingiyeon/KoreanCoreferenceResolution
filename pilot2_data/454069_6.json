@@ -1,0 +1,27 @@
+{
+	"docID": "454069",
+	"globalSID": "2069990",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 7,
+			"ancestor": "5-12",
+			"coref_index": 593,
+			"surface": "NC_다이노스",
+			"entityName": "NC_다이노스"
+		}
+	],
+	"plainText": "NC_다이노스 시절"
+}

@@ -1,0 +1,248 @@
+{
+	"docID": "8435",
+	"globalSID": "127442,127443",
+	"pronouns": [
+		{
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "현 고양시 덕양구 일부),",
+			"id": 0,
+			"st": 112
+		},
+		{
+			"en": 136,
+			"ancestor": "-1",
+			"surface": "현",
+			"id": 1,
+			"st": 135
+		},
+		{
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "현 하남시 일부)을",
+			"id": 2,
+			"st": 135
+		},
+		{
+			"en": 161,
+			"ancestor": "-1",
+			"surface": "현 하남시 일부)을 제외한 다른 경기도 지역과의",
+			"id": 3,
+			"st": 135
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"entityName": "기획재정부",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 21,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기획재정부"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 99,
+			"eType": "ELU",
+			"entityName": "광명시",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 102,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "광명시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 153,
+			"eType": "ELU",
+			"entityName": "경기도",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 156,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "경기도",
+			"coref_index": 1021
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 188,
+			"eType": "ELU",
+			"entityName": "정부서울청사",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 194,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "정부서울청사"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Building",
+				"Place",
+				"Place"
+			],
+			"st": 197,
+			"eType": "ELU",
+			"entityName": "청와대",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 200,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "청와대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 13,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1982년부터_2012년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "경제부처"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 43,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "7개의_중앙부처"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 64,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1985년_8월_1일_"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 134,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "광주군_서부면"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 111,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "고양군_신도읍"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 242,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 246,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "과천지역",
+			"coref_index": 1018
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 248,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 257,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "서울특별시_통화권"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 217,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 224,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "안양시_통화권"
+		}
+	],
+	"plainText": "1982년부터_2012년까지 기획재정부 등 경제부처를 중심으로 7개의_중앙부처가 위치하였다. 1985년_8월_1일_시외전화 요금수입 감소, 이미 서울통화권으로 자연스럽게 편입된 광명시, 고양군_신도읍(현 고양시 덕양구 일부), 광주군_서부면(현 하남시 일부)을 제외한 다른 경기도 지역과의 형평성 문제 등과 같은 숱한 논란에도 불구하고 정부서울청사 및 청와대와의 연락 용이 차원에서 종래 안양시_통화권(지역번호 0343) 지역이었던 과천지역이 서울특별시_통화권(지역번호 02)으로 편입되었다."
+}

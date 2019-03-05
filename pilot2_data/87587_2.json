@@ -1,0 +1,164 @@
+{
+	"docID": "87587",
+	"globalSID": "681197,681198,681199",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"surface": "1919년",
+			"entityName": "1919년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "숙명여고보",
+			"entityName": "숙명여자고등학교"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 23,
+			"ancestor": "-1",
+			"surface": "일본",
+			"entityName": "일본"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "도쿄여자고등사범학교",
+			"entityName": "도쿄여자고등사범학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "진주일신여자고등보학교",
+			"entityName": "진주일신여자고등보학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 82,
+			"ancestor": "-1",
+			"surface": "동덕여자고등보통학교",
+			"entityName": "동덕여자고등보통학교"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 95,
+			"ancestor": "",
+			"surface": "1934년",
+			"entityName": "1934년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 104,
+			"ancestor": "-1",
+			"surface": "이화여자전문학교",
+			"entityName": "이화여자전문학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "교수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 85,
+			"ancestor": "-1",
+			"surface": "교사",
+			"entityName": ""
+		}
+	],
+	"plainText": "생애 1919년 숙명여고보를 졸업하고 일본으로 유학했다. 도쿄여자고등사범학교를 졸업한 뒤 귀국하여 모교와 진주일신여자고등보학교, 동덕여자고등보통학교 교사를 거쳐 1934년 이화여자전문학교 교수가 되었다."
+}

@@ -1,0 +1,147 @@
+{
+	"docID": "157225",
+	"globalSID": "1063935,1063936",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 13,
+			"ancestor": "-1",
+			"coref_index": 233,
+			"surface": "리버풀",
+			"entityName": "리버풀_FC"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 27,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 30,
+			"ancestor": "4-0",
+			"coref_index": 233,
+			"surface": "리버풀",
+			"entityName": "리버풀"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 65,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "유벤투스",
+			"entityName": "유벤투스_FC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"surface": "2009년_여름",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "이적",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 36,
+			"ancestor": "-1",
+			"surface": "부상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 55,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 63,
+			"ancestor": "",
+			"surface": "2010년_8월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "임대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "한_시즌",
+			"entityName": ""
+		}
+	],
+	"plainText": "2009년_여름, 리버풀로 이적하였다. 그렇지만 리버풀에서도 부상으로 자주 나오지 못 하면서 결국 2010년_8월, 유벤투스로 한_시즌 동안 임대되었다."
+}

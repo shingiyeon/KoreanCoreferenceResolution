@@ -1,0 +1,71 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 20,
+			"eType": "WIKILINK",
+			"entityName": "UEFA_컵위너스컵",
+			"en": 30,
+			"is_target": true,
+			"surface": "UEFA_컵위너스컵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 52,
+			"eType": "WIKILINK",
+			"entityName": "SS_라치오",
+			"en": 55,
+			"is_target": true,
+			"surface": "라치오",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"st": 63,
+			"eType": "WIKILINK",
+			"entityName": "RCD_마요르카",
+			"en": 67,
+			"is_target": true,
+			"surface": "마요르카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 92,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 104,
+			"is_target": false,
+			"surface": "1999년_5월_19일",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "3854848,3854849,3854850,3854851",
+	"parID": "1",
+	"pronouns": [],
+	"plainText": "UEFA 컵위너스컵 1998-99는 UEFA_컵위너스컵의 39번째 대회이자 마지막 대회이다. 라치오가 결승전에서 마요르카를 누르고 우승을 차지했다. 결승전 결승전은 1999년_5월_19일 잉글랜드 버밍엄의 빌라 파크에서 열렸다. ",
+	"docID": "1631138"
+}

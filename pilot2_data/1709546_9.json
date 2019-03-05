@@ -1,0 +1,369 @@
+{
+	"docID": "1709546",
+	"globalSID": "3918177,3918178,3918179,3918180,3918181",
+	"pronouns": [
+		{
+			"st": 20,
+			"coref_index": 286,
+			"id": 0,
+			"en": 21,
+			"ancestor": "9-1",
+			"surface": "그"
+		},
+		{
+			"en": 30,
+			"st": 20,
+			"surface": "그의 휘하_장교들을",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"st": 87,
+			"coref_index": 287,
+			"id": 2,
+			"en": 89,
+			"ancestor": "9-4",
+			"surface": "그곳"
+		},
+		{
+			"en": 136,
+			"st": 133,
+			"surface": "여기서",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 151,
+			"st": 133,
+			"surface": "여기서 도쿄의 시간을 지킬 필요는",
+			"id": 4,
+			"ancestor": "-1"
+		},
+		{
+			"en": 259,
+			"st": 248,
+			"surface": "다른 26,000명이",
+			"id": 5,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 188,
+			"ancestor": "6-4",
+			"coref_index": 282,
+			"surface": "일본군",
+			"entityName": "일본군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "6-5",
+			"coref_index": 286,
+			"surface": "이타가키",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "부제독_후쿠도메_시게루",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 28,
+			"ancestor": "-1",
+			"surface": "휘하_장교",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 42,
+			"ancestor": "4-5",
+			"coref_index": 287,
+			"surface": "HMS_서섹스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "-1",
+			"coref_index": 288,
+			"surface": "항복",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 72,
+			"ancestor": "-1",
+			"surface": "소령_필립_크리스티슨",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 74,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 85,
+			"ancestor": "-1",
+			"surface": "중령_로버트_맨세르지",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 101,
+			"ancestor": "-1",
+			"surface": "일본_장교",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "2시간",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 124,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "영국군_장교",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 139,
+			"ancestor": "-1",
+			"surface": "도쿄",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 141,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "시간",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 178,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 183,
+			"ancestor": "-1",
+			"surface": "오후_6시",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 194,
+			"ancestor": "1-1",
+			"coref_index": 275,
+			"surface": "싱가포르",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 201,
+			"ancestor": "-1",
+			"surface": "병력",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 204,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 206,
+			"ancestor": "9-5",
+			"coref_index": 288,
+			"surface": "항복",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 214,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 221,
+			"ancestor": "-1",
+			"surface": "77,000명",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 229,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 235,
+			"ancestor": "-1",
+			"surface": "일본군_병사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 238,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "PERSON",
+			"en": 240,
+			"ancestor": "-1",
+			"surface": "포로",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 251,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "PERSON",
+			"en": 258,
+			"ancestor": "-1",
+			"surface": "26,000명",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 260,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "LOCATION",
+			"en": 263,
+			"ancestor": "1-4",
+			"coref_index": 280,
+			"surface": "말라야",
+			"entityName": ""
+		}
+	],
+	"plainText": "이타가키는 부제독_후쿠도메_시게루와 그의 휘하_장교들을 데리고 HMS_서섹스로 가서 항복을 논의하기로 했다. 소령_필립_크리스티슨과 중령_로버트_맨세르지가 그곳에 있었다. 일본_장교가 \"2시간이나 늦었군요.\"라고 말하자, 영국군_장교가 \"여기서 도쿄의 시간을 지킬 필요는 없습니다.\"라고 대답하면서 긴장이 고조되었다. 오후_6시에 일본군은 싱가포르 내부의 병력에게 항복을 명령했다. 77,000명으로 추정되는 일본군_병사들이 포로로 붙잡혔고, 다른 26,000명이 말라야에서 붙잡혔다."
+}

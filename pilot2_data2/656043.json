@@ -1,0 +1,1262 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 143,
+			"text": "그녀",
+			"is_pronoun": true,
+			"en_modified": 145,
+			"en": 145,
+			"st_modified": 143
+		},
+		{
+			"st": 173,
+			"text": "그 후",
+			"is_pronoun": true,
+			"en_modified": 176,
+			"en": 176,
+			"st_modified": 173
+		},
+		{
+			"st": 361,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 362,
+			"en": 362,
+			"st_modified": 361
+		},
+		{
+			"st": 361,
+			"text": "그의 아버지",
+			"is_pronoun": true,
+			"en_modified": 367,
+			"en": 367,
+			"st_modified": 361
+		},
+		{
+			"st": 385,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 386,
+			"en": 386,
+			"st_modified": 385
+		},
+		{
+			"st": 385,
+			"text": "그의 어머니",
+			"is_pronoun": true,
+			"en_modified": 391,
+			"en": 391,
+			"st_modified": 385
+		},
+		{
+			"st": 436,
+			"text": "그녀",
+			"is_pronoun": true,
+			"en_modified": 438,
+			"en": 438,
+			"st_modified": 436
+		},
+		{
+			"st": 530,
+			"text": "그녀",
+			"is_pronoun": true,
+			"en_modified": 532,
+			"en": 532,
+			"st_modified": 530
+		},
+		{
+			"st": 530,
+			"text": "그녀의 음악 경력",
+			"is_pronoun": true,
+			"en_modified": 539,
+			"en": 539,
+			"st_modified": 530
+		},
+		{
+			"st": 530,
+			"text": "그녀의 음악 경력 이전",
+			"is_pronoun": true,
+			"en_modified": 542,
+			"en": 542,
+			"st_modified": 530
+		},
+		{
+			"st": 630,
+			"text": "그녀",
+			"is_pronoun": true,
+			"en_modified": 632,
+			"en": 632,
+			"st_modified": 630
+		},
+		{
+			"st": 864,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 866,
+			"en": 866,
+			"st_modified": 864
+		},
+		{
+			"st": 930,
+			"text": "그녀",
+			"is_pronoun": true,
+			"en_modified": 932,
+			"en": 932,
+			"st_modified": 930
+		},
+		{
+			"st": 930,
+			"text": "그녀의 둘째 아이",
+			"is_pronoun": true,
+			"en_modified": 939,
+			"en": 939,
+			"st_modified": 930
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 143,
+			"ancestor": "1-6",
+			"surface": "그녀",
+			"en_modified": 145,
+			"en": 145,
+			"st_modified": 143,
+			"id": 0,
+			"coref_index": 775
+		},
+		{
+			"st": 173,
+			"ancestor": "-1",
+			"surface": "그 후",
+			"en_modified": 176,
+			"en": 176,
+			"st_modified": 173,
+			"id": 1
+		},
+		{
+			"st": 361,
+			"ancestor": "1-13",
+			"surface": "그",
+			"en_modified": 362,
+			"en": 362,
+			"st_modified": 361,
+			"id": 2,
+			"coref_index": 775
+		},
+		{
+			"st": 361,
+			"ancestor": "1-15",
+			"surface": "그의 아버지",
+			"en_modified": 367,
+			"en": 367,
+			"st_modified": 361,
+			"id": 3,
+			"coref_index": 776
+		},
+		{
+			"st": 385,
+			"ancestor": "1-13",
+			"surface": "그",
+			"en_modified": 386,
+			"en": 386,
+			"st_modified": 385,
+			"id": 4,
+			"coref_index": 775
+		},
+		{
+			"st": 385,
+			"ancestor": "1-18",
+			"surface": "그의 어머니",
+			"en_modified": 391,
+			"en": 391,
+			"st_modified": 385,
+			"id": 5,
+			"coref_index": 777
+		},
+		{
+			"st": 436,
+			"ancestor": "1-13",
+			"surface": "그녀",
+			"en_modified": 438,
+			"en": 438,
+			"st_modified": 436,
+			"id": 6,
+			"coref_index": 775
+		},
+		{
+			"st": 530,
+			"ancestor": "1-29",
+			"surface": "그녀",
+			"en_modified": 532,
+			"en": 532,
+			"st_modified": 530,
+			"id": 7,
+			"coref_index": 774
+		},
+		{
+			"st": 530,
+			"ancestor": "-1",
+			"surface": "그녀의 음악 경력",
+			"en_modified": 539,
+			"en": 539,
+			"st_modified": 530,
+			"id": 8
+		},
+		{
+			"st": 530,
+			"ancestor": "-1",
+			"surface": "그녀의 음악 경력 이전에,",
+			"en_modified": 544,
+			"en": 544,
+			"st_modified": 530,
+			"id": 9
+		},
+		{
+			"st": 630,
+			"ancestor": "1-29",
+			"surface": "그녀",
+			"en_modified": 632,
+			"en": 632,
+			"st_modified": 630,
+			"id": 10,
+			"coref_index": 774
+		},
+		{
+			"st": 864,
+			"ancestor": "-1",
+			"surface": "그들",
+			"en_modified": 866,
+			"en": 866,
+			"st_modified": 864,
+			"id": 11
+		},
+		{
+			"st": 930,
+			"ancestor": "1-54",
+			"surface": "그녀",
+			"en_modified": 932,
+			"en": 932,
+			"st_modified": 930,
+			"id": 12,
+			"coref_index": 774
+		},
+		{
+			"st": 930,
+			"ancestor": "-1",
+			"surface": "그녀의 둘째 아이",
+			"en_modified": 939,
+			"en": 939,
+			"st_modified": 930,
+			"id": 13
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 47,
+			"entityName": "1972년",
+			"st_modified": 42,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 42,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1972년",
+			"is_target": false,
+			"en": 47,
+			"id": 0
+		},
+		{
+			"en_modified": 53,
+			"entityName": "8월_6일",
+			"st_modified": 48,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 48,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "8월_6일",
+			"is_target": false,
+			"en": 53,
+			"id": 1
+		},
+		{
+			"en_modified": 61,
+			"entityName": "영국",
+			"st_modified": 59,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 59,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "영국",
+			"is_target": true,
+			"en": 61,
+			"id": 2
+		},
+		{
+			"en_modified": 110,
+			"st_modified": 103,
+			"coref_index": 773,
+			"entityName": "스파이스_걸스",
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"eType": "WIKILINK",
+			"st": 103,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "스파이스_걸스",
+			"is_target": true,
+			"en": 110,
+			"id": 3
+		},
+		{
+			"en_modified": 152,
+			"entityName": "1998년",
+			"st_modified": 147,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 147,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1998년",
+			"is_target": false,
+			"en": 152,
+			"id": 4
+		},
+		{
+			"en_modified": 160,
+			"st_modified": 153,
+			"coref_index": 773,
+			"entityName": "스파이스_걸스",
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"eType": "WIKILINK",
+			"st": 153,
+			"ancestor": "1-3",
+			"ne_type": "ORGANIZATION",
+			"surface": "스파이스_걸스",
+			"is_target": true,
+			"en": 160,
+			"id": 5
+		},
+		{
+			"en_modified": 7,
+			"st_modified": 0,
+			"coref_index": 775,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "제럴딘_에스텔",
+			"is_target": true,
+			"en": 7,
+			"id": 6
+		},
+		{
+			"en_modified": 40,
+			"st_modified": 26,
+			"coref_index": 774,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 26,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "할리웰(Halliwell)",
+			"is_target": true,
+			"en": 40,
+			"id": 7
+		},
+		{
+			"en_modified": 80,
+			"st_modified": 77,
+			"coref_index": 774,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 77,
+			"ancestor": "1-7",
+			"ne_type": "PERSON",
+			"surface": "할리웰",
+			"is_target": true,
+			"en": 80,
+			"id": 8
+		},
+		{
+			"en_modified": 128,
+			"st_modified": 121,
+			"coref_index": 774,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 121,
+			"ancestor": "1-8",
+			"ne_type": "ORGANIZATION",
+			"surface": "진저_스파이스",
+			"is_target": true,
+			"en": 128,
+			"id": 9
+		},
+		{
+			"en_modified": 231,
+			"st_modified": 224,
+			"coref_index": 773,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 224,
+			"ancestor": "1-5",
+			"ne_type": "ORGANIZATION",
+			"surface": "스파이스_걸스",
+			"is_target": true,
+			"en": 231,
+			"id": 10
+		},
+		{
+			"en_modified": 373,
+			"entityName": "잉글랜드",
+			"st_modified": 369,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 369,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "잉글랜드",
+			"is_target": true,
+			"en": 373,
+			"id": 11
+		},
+		{
+			"en_modified": 378,
+			"entityName": "스웨덴",
+			"st_modified": 375,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 375,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스웨덴",
+			"is_target": true,
+			"en": 378,
+			"id": 12
+		},
+		{
+			"en_modified": 272,
+			"st_modified": 269,
+			"coref_index": 775,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 269,
+			"ancestor": "1-6",
+			"ne_type": "PERSON",
+			"surface": "할리웰",
+			"is_target": true,
+			"en": 272,
+			"id": 13
+		},
+		{
+			"en_modified": 293,
+			"entityName": "",
+			"st_modified": 274,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 274,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "하트퍼드셔_주의_왓퍼드_제네럴_병원",
+			"is_target": true,
+			"en": 293,
+			"id": 14
+		},
+		{
+			"en_modified": 308,
+			"st_modified": 296,
+			"coref_index": 776,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 296,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "로런스_프랜시스_할리웰",
+			"is_target": true,
+			"en": 308,
+			"id": 15
+		},
+		{
+			"en_modified": 314,
+			"entityName": "",
+			"st_modified": 309,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 309,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1922년",
+			"is_target": false,
+			"en": 314,
+			"id": 16
+		},
+		{
+			"en_modified": 322,
+			"entityName": "",
+			"st_modified": 317,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 317,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1993년",
+			"is_target": false,
+			"en": 322,
+			"id": 17
+		},
+		{
+			"en_modified": 335,
+			"st_modified": 325,
+			"coref_index": 777,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 325,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "애나_마리아_할리웰",
+			"is_target": true,
+			"en": 335,
+			"id": 18
+		},
+		{
+			"en_modified": 367,
+			"st_modified": 364,
+			"coref_index": 776,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 364,
+			"ancestor": "1-15",
+			"ne_type": "PERSON",
+			"surface": "아버지",
+			"is_target": true,
+			"en": 367,
+			"id": 19
+		},
+		{
+			"en_modified": 381,
+			"entityName": "",
+			"st_modified": 379,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 379,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "후손",
+			"is_target": true,
+			"en": 381,
+			"id": 20
+		},
+		{
+			"en_modified": 391,
+			"st_modified": 388,
+			"coref_index": 777,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 388,
+			"ancestor": "1-18",
+			"ne_type": "PERSON",
+			"surface": "어머니",
+			"is_target": true,
+			"en": 391,
+			"id": 21
+		},
+		{
+			"en_modified": 401,
+			"entityName": "",
+			"st_modified": 393,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 393,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스페인_우에스카",
+			"is_target": true,
+			"en": 401,
+			"id": 22
+		},
+		{
+			"en_modified": 411,
+			"st_modified": 408,
+			"coref_index": 775,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 408,
+			"ancestor": "1-13",
+			"ne_type": "PERSON",
+			"surface": "할리웰",
+			"is_target": true,
+			"en": 411,
+			"id": 23
+		},
+		{
+			"en_modified": 418,
+			"entityName": "",
+			"st_modified": 413,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 413,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "노스왓퍼드",
+			"is_target": true,
+			"en": 418,
+			"id": 24
+		},
+		{
+			"en_modified": 427,
+			"entityName": "",
+			"st_modified": 420,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 420,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "공영_주택단지",
+			"is_target": true,
+			"en": 427,
+			"id": 25
+		},
+		{
+			"en_modified": 485,
+			"entityName": "",
+			"st_modified": 440,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 440,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "왓퍼드_그래마_여학교(Watford_Grammar_School_for_Girls)",
+			"is_target": true,
+			"en": 485,
+			"id": 26
+		},
+		{
+			"en_modified": 518,
+			"entityName": "",
+			"st_modified": 487,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 487,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "캠던_여학교(Camden_School_for_Girls)",
+			"is_target": true,
+			"en": 518,
+			"id": 27
+		},
+		{
+			"en_modified": 638,
+			"entityName": "더_선",
+			"st_modified": 635,
+			"kbox_types": [
+				"WrittenWork",
+				"PeriodicalLiterature",
+				"Newspaper",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 635,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "더_선",
+			"is_target": true,
+			"en": 638,
+			"id": 28
+		},
+		{
+			"en_modified": 528,
+			"st_modified": 525,
+			"coref_index": 774,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 525,
+			"ancestor": "1-8",
+			"ne_type": "PERSON",
+			"surface": "할리웰",
+			"is_target": true,
+			"en": 528,
+			"id": 29
+		},
+		{
+			"en_modified": 549,
+			"entityName": "",
+			"st_modified": 545,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 545,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "마조르카",
+			"is_target": true,
+			"en": 549,
+			"id": 30
+		},
+		{
+			"en_modified": 597,
+			"entityName": "",
+			"st_modified": 567,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 567,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "터키_버전의_《Let's_Make_a_Deal》_진행자",
+			"is_target": true,
+			"en": 597,
+			"id": 31
+		},
+		{
+			"en_modified": 611,
+			"entityName": "",
+			"st_modified": 602,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 602,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "글래머_포토그래피",
+			"is_target": true,
+			"en": 611,
+			"id": 32
+		},
+		{
+			"en_modified": 659,
+			"entityName": "프라이버시",
+			"st_modified": 656,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 656,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사생활",
+			"is_target": true,
+			"en": 659,
+			"id": 33
+		},
+		{
+			"en_modified": 686,
+			"entityName": "사차_제바시",
+			"st_modified": 680,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 680,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사차_제바시",
+			"is_target": true,
+			"en": 686,
+			"id": 34
+		},
+		{
+			"en_modified": 758,
+			"entityName": "빅토리아_베컴",
+			"st_modified": 751,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 751,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "빅토리아_베컴",
+			"is_target": true,
+			"en": 758,
+			"id": 35
+		},
+		{
+			"en_modified": 765,
+			"entityName": "엠마_번튼",
+			"st_modified": 760,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 760,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "엠마_번튼",
+			"is_target": true,
+			"en": 765,
+			"id": 36
+		},
+		{
+			"en_modified": 705,
+			"entityName": "",
+			"st_modified": 698,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 698,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "블루벨_마돈나",
+			"is_target": true,
+			"en": 705,
+			"id": 37
+		},
+		{
+			"en_modified": 721,
+			"entityName": "",
+			"st_modified": 710,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 710,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2006년_5월_7일",
+			"is_target": false,
+			"en": 721,
+			"id": 38
+		},
+		{
+			"en_modified": 789,
+			"entityName": "포뮬러_원",
+			"st_modified": 784,
+			"kbox_types": [
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 784,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "포뮬러_원",
+			"is_target": true,
+			"en": 789,
+			"id": 39
+		},
+		{
+			"en_modified": 799,
+			"entityName": "레드불_레이싱",
+			"st_modified": 792,
+			"kbox_types": [
+				"Agent",
+				"FormulaOneTeam",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 792,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "레드불_레이싱",
+			"is_target": true,
+			"en": 799,
+			"id": 40
+		},
+		{
+			"en_modified": 811,
+			"st_modified": 804,
+			"coref_index": 778,
+			"entityName": "크리스천_호너",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 804,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "크리스천_호너",
+			"is_target": true,
+			"en": 811,
+			"id": 41
+		},
+		{
+			"en_modified": 841,
+			"entityName": "타임즈",
+			"st_modified": 838,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 838,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "타임즈",
+			"is_target": true,
+			"en": 841,
+			"id": 42
+		},
+		{
+			"en_modified": 885,
+			"entityName": "베드퍼드셔_주",
+			"st_modified": 878,
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 878,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "베드퍼드셔_주",
+			"is_target": true,
+			"en": 885,
+			"id": 43
+		},
+		{
+			"en_modified": 968,
+			"entityName": "2017년",
+			"st_modified": 963,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 963,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2017년",
+			"is_target": false,
+			"en": 968,
+			"id": 44
+		},
+		{
+			"en_modified": 975,
+			"entityName": "1월_21일",
+			"st_modified": 969,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 969,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1월_21일",
+			"is_target": false,
+			"en": 975,
+			"id": 45
+		},
+		{
+			"en_modified": 772,
+			"st_modified": 769,
+			"coref_index": 774,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 769,
+			"ancestor": "1-29",
+			"ne_type": "PERSON",
+			"surface": "할리웰",
+			"is_target": true,
+			"en": 772,
+			"id": 46
+		},
+		{
+			"en_modified": 782,
+			"entityName": "",
+			"st_modified": 774,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 774,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2014년_2월",
+			"is_target": false,
+			"en": 782,
+			"id": 47
+		},
+		{
+			"en_modified": 803,
+			"entityName": "",
+			"st_modified": 801,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 801,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "오너",
+			"is_target": true,
+			"en": 803,
+			"id": 48
+		},
+		{
+			"en_modified": 818,
+			"entityName": "",
+			"st_modified": 815,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 815,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "데이트",
+			"is_target": true,
+			"en": 818,
+			"id": 49
+		},
+		{
+			"en_modified": 835,
+			"entityName": "",
+			"st_modified": 826,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 826,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2014년_11월",
+			"is_target": false,
+			"en": 835,
+			"id": 50
+		},
+		{
+			"en_modified": 876,
+			"entityName": "",
+			"st_modified": 868,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 868,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2015년_5월",
+			"is_target": false,
+			"en": 876,
+			"id": 51
+		},
+		{
+			"en_modified": 903,
+			"entityName": "",
+			"st_modified": 893,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 893,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "세인트_마리스_교회",
+			"is_target": true,
+			"en": 903,
+			"id": 52
+		},
+		{
+			"en_modified": 909,
+			"entityName": "",
+			"st_modified": 906,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 906,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "결혼식",
+			"is_target": true,
+			"en": 909,
+			"id": 53
+		},
+		{
+			"en_modified": 919,
+			"st_modified": 916,
+			"coref_index": 774,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 916,
+			"ancestor": "1-46",
+			"ne_type": "PERSON",
+			"surface": "할리웰",
+			"is_target": true,
+			"en": 919,
+			"id": 54
+		},
+		{
+			"en_modified": 923,
+			"st_modified": 921,
+			"coref_index": 778,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 921,
+			"ancestor": "1-41",
+			"ne_type": "PERSON",
+			"surface": "호너",
+			"is_target": true,
+			"en": 923,
+			"id": 55
+		},
+		{
+			"en_modified": 943,
+			"st_modified": 941,
+			"coref_index": 779,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 941,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아들",
+			"is_target": true,
+			"en": 943,
+			"id": 56
+		},
+		{
+			"en_modified": 958,
+			"st_modified": 945,
+			"coref_index": 779,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 945,
+			"ancestor": "1-56",
+			"ne_type": "PERSON",
+			"surface": "몬터규_조지_헥토르_호너",
+			"is_target": true,
+			"en": 958,
+			"id": 57
+		},
+		{
+			"en_modified": 979,
+			"entityName": "",
+			"st_modified": 977,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 977,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "런던",
+			"is_target": true,
+			"en": 979,
+			"id": 58
+		}
+	],
+	"globalSID": "2515945,2515946,2515947,2515948,2515949,2515950,2515951,2515952,2515953,2515954,2515955,2515956,2515957,2515958,2515959,2515960,2515961,2515962,2515963",
+	"plainText": "제럴딘_에스텔 \"제리\" 호너(, 결혼 전 성은 할리웰(Halliwell), 1972년 8월_6일 ~ )는 영국의 가수, 작가, 배우이다. 할리웰은 1990년대를 대표하는 여성 팝 그룹?스파이스_걸스의 멤버로, 애칭은 진저_스파이스()이다. 그룹의 리더였던 그녀는 1998년 스파이스_걸스에서 돌연 탈퇴하였다. 그 후 솔로 데뷔앨범을 발표, 왕성한 활동을 펼치며 큰 인기를 얻었다. 2007년 재결합한 스파이스_걸스에 재합류하며, 새앨범을 발표하였고 월드투어도 함께하였다. 초기 삶 할리웰은 하트퍼드셔_주의_왓퍼드_제네럴_병원에서 로런스_프랜시스_할리웰(1922년 ~ 1993년)과 애나_마리아_할리웰(결혼 전 성씨는 이달고) 사이에서 태어났다. 그의 아버지는 잉글랜드와 스웨덴 후손이며, 그의 어머니는 스페인_우에스카 출신이다. 할리웰은 노스왓퍼드의 공영_주택단지에서 성장했다. 그녀는 왓퍼드_그래마_여학교(Watford_Grammar_School_for_Girls)와 캠던_여학교(Camden_School_for_Girls)에 다녔다. 할리웰은 그녀의 음악 경력 이전에, 마조르카에 있는 클럽의 댄서로 일했고, 터키_버전의_《Let's_Make_a_Deal》_진행자였으며, 글래머_포토그래피의 모델이였다. 만 19세 나이에 그녀는 \"더_선\"의 페이지 3 걸로 등장했다. 사생활 할리웰은 전 남자친구인 영화 극작가 사차_제바시()와 사이에서 딸 \"블루벨_마돈나\"() (2006년_5월_7일, 런던 출생)을 포틀랜드 병원에서 출산했다. 대모는 빅토리아_베컴과 엠마_번튼이다. 할리웰은 2014년_2월, 포뮬러_원 팀 레드불_레이싱의 오너 크리스천_호너()와 데이트를 시작했다. 2014년_11월, \"타임즈\"에서는 두 사람의 약혼이 보도 되었다. 그들은 2015년_5월, 베드퍼드셔_주 워번에 있는 세인트_마리스_교회에서 결혼식을 올렸다. 할리웰은 호너와 사이에서 그녀의 둘째 아이인 아들 \"몬터규_조지_헥토르_호너\"() (2017년 1월_21일, 런던 출생)을 출산했다. ",
+	"docID": "656043",
+	"ModifiedText": "제럴딘 에스텔 \"제리\" 호너(, 결혼 전 성은 할리웰(Halliwell), 1972년 8월 6일 ~ )는 영국의 가수, 작가, 배우이다. 할리웰은 1990년대를 대표하는 여성 팝 그룹?스파이스 걸스의 멤버로, 애칭은 진저 스파이스()이다. 그룹의 리더였던 그녀는 1998년 스파이스 걸스에서 돌연 탈퇴하였다. 그 후 솔로 데뷔앨범을 발표, 왕성한 활동을 펼치며 큰 인기를 얻었다. 2007년 재결합한 스파이스 걸스에 재합류하며, 새앨범을 발표하였고 월드투어도 함께하였다. 초기 삶 할리웰은 하트퍼드셔 주의 왓퍼드 제네럴 병원에서 로런스 프랜시스 할리웰(1922년 ~ 1993년)과 애나 마리아 할리웰(결혼 전 성씨는 이달고) 사이에서 태어났다. 그의 아버지는 잉글랜드와 스웨덴 후손이며, 그의 어머니는 스페인 우에스카 출신이다. 할리웰은 노스왓퍼드의 공영 주택단지에서 성장했다. 그녀는 왓퍼드 그래마 여학교(Watford Grammar School for Girls)와 캠던 여학교(Camden School for Girls)에 다녔다. 할리웰은 그녀의 음악 경력 이전에, 마조르카에 있는 클럽의 댄서로 일했고, 터키 버전의 《Let's Make a Deal》 진행자였으며, 글래머 포토그래피의 모델이였다. 만 19세 나이에 그녀는 \"더 선\"의 페이지 3 걸로 등장했다. 사생활 할리웰은 전 남자친구인 영화 극작가 사차 제바시()와 사이에서 딸 \"블루벨 마돈나\"() (2006년 5월 7일, 런던 출생)을 포틀랜드 병원에서 출산했다. 대모는 빅토리아 베컴과 엠마 번튼이다. 할리웰은 2014년 2월, 포뮬러 원 팀 레드불 레이싱의 오너 크리스천 호너()와 데이트를 시작했다. 2014년 11월, \"타임즈\"에서는 두 사람의 약혼이 보도 되었다. 그들은 2015년 5월, 베드퍼드셔 주 워번에 있는 세인트 마리스 교회에서 결혼식을 올렸다. 할리웰은 호너와 사이에서 그녀의 둘째 아이인 아들 \"몬터규 조지 헥토르 호너\"() (2017년 1월 21일, 런던 출생)을 출산했다. "
+}

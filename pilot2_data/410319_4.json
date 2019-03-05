@@ -1,0 +1,80 @@
+{
+	"docID": "410319",
+	"globalSID": "1971704",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "1941년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 13,
+			"ancestor": "3-1",
+			"coref_index": 549,
+			"surface": "안치라나나_만",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "해협_지역",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "해군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "해안포",
+			"entityName": ""
+		}
+	],
+	"plainText": "1941년 안치라나나_만과 해협_지역은 해군의 해안포로 방비가 되어있었다."
+}

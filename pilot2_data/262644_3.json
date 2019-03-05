@@ -1,0 +1,105 @@
+{
+	"docID": "262644",
+	"globalSID": "1479673,1479674,1479675",
+	"pronouns": [
+		{
+			"en": 165,
+			"st": 159,
+			"surface": "이런 전략에",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 170,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 174,
+			"ancestor": "3-4",
+			"coref_index": 370,
+			"surface": "블랙베리",
+			"entityName": "블랙베리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 194,
+			"ancestor": "-1",
+			"surface": "최고_재무_책임자",
+			"entityName": "최고재무책임자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 201,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 210,
+			"ancestor": "-1",
+			"surface": "최고_집행_책임자",
+			"entityName": "최고집행책임자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 50,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 63,
+			"ancestor": "",
+			"surface": "2013년_11월_25일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 48,
+			"ancestor": "-1",
+			"coref_index": 370,
+			"surface": "블랙베리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 217,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 227,
+			"ancestor": "-1",
+			"surface": "최고_마케팅_책임자",
+			"entityName": ""
+		}
+	],
+	"plainText": "배경 독자적인 소셜 네트워크 서비스인 BBM채널을 개시하고 있는 미국의 기업, 블랙베리는 2013년_11월_25일 고위 간부 3명의 퇴사를 발표했는데 신임 최고 경영 책임자(CEO)는 실적이 부진한 회사를 재건하기 위해서 소비자용 시장에서 비즈니스용 시장으로의 이행을 추진하고 있다. 이런 전략에 따라서 블랙베리는 인선을 실시하여 최고_재무_책임자(CFO)와 최고_집행_책임자(COO), 최고_마케팅_책임자(CMO) 등의 퇴사를 공식화했다."
+}

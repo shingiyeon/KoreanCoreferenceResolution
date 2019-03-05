@@ -1,0 +1,247 @@
+{
+	"docID": "123526",
+	"globalSID": "900632,900633,900634",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "나라",
+			"entityName": "나라_시"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 50,
+			"ancestor": "",
+			"surface": "740년",
+			"entityName": "740년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 54,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 58,
+			"ancestor": "",
+			"surface": "745년",
+			"entityName": "745년"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 67,
+			"ancestor": "-1",
+			"coref_index": 133,
+			"surface": "쇼무_천황",
+			"entityName": "쇼무_천황"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"coref_index": 129,
+			"surface": "구니쿄",
+			"entityName": "구니쿄"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Settlement",
+				"Place",
+				"AdministrativeRegion"
+			],
+			"st": 78,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 82,
+			"ancestor": "-1",
+			"surface": "교토_부",
+			"entityName": "교토_부"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 89,
+			"ancestor": "4-4",
+			"coref_index": 129,
+			"surface": "기즈가와_시",
+			"entityName": "기즈가와_시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 96,
+			"ancestor": "-1",
+			"coref_index": 130,
+			"surface": "나니와쿄",
+			"entityName": "나니와쿄"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Settlement",
+				"Place",
+				"AdministrativeRegion"
+			],
+			"st": 102,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "오사카_부",
+			"entityName": "오사카_부"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 108,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 113,
+			"ancestor": "4-7",
+			"coref_index": 130,
+			"surface": "오사카_시",
+			"entityName": "오사카_시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 123,
+			"ancestor": "-1",
+			"coref_index": 131,
+			"surface": "시가라키노미야",
+			"entityName": "시가라키노미야"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"AdministrativeRegion"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 134,
+			"ancestor": "-1",
+			"surface": "시가_현",
+			"entityName": "시가_현"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 135,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 139,
+			"ancestor": "4-10",
+			"coref_index": 131,
+			"surface": "고카_시",
+			"entityName": "고카_시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 36,
+			"ancestor": "1-10",
+			"coref_index": 132,
+			"surface": "나라_시대",
+			"entityName": ""
+		}
+	],
+	"plainText": "명칭 나라에 수도(헤이조쿄, 平城京)가 세워졌기 때문에 나라_시대라고 한다. 단, 740년 부터 745년 동안 쇼무_천황이 구니쿄(恭仁京, 교토_부 기즈가와_시), 나니와쿄(難波京, 오사카_부 오사카_시), 시가라키노미야(紫香?宮, 시가_현 고카_시)에 각각 단 기간에 걸쳐 수도를 옮긴 일이 있다."
+}

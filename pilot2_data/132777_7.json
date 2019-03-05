@@ -1,0 +1,108 @@
+{
+	"docID": "132777",
+	"globalSID": "953548,953549",
+	"pronouns": [
+		{
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "같은 해",
+			"id": 0,
+			"st": 60
+		},
+		{
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "같은 해 11월_25일에는",
+			"id": 1,
+			"st": 60
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "도르트문트",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "2-0",
+			"is_target": true,
+			"surface": "도르트문트",
+			"coref_index": 183
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 75,
+			"eType": "ELU",
+			"entityName": "도르트문트",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 80,
+			"ancestor": "2-0",
+			"is_target": true,
+			"surface": "도르트문트",
+			"coref_index": 183
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 82,
+			"eType": "ELU",
+			"entityName": "뉘른베르크",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 87,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "뉘른베르크"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 17,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2005년_8월_6일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 72,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "11월_25일"
+		}
+	],
+	"plainText": "도르트문트 2005년_8월_6일, 16세 334세의 나이로, 샤힌은 분데스리가 최연소 출장 기록을 세웠고, 같은 해 11월_25일에는 도르트문트와 뉘른베르크 간 경기에서 골을 넣어 분데스리가 최연소 득점 기록도 갈아치웠다."
+}

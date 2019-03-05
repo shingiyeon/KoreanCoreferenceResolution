@@ -1,0 +1,210 @@
+{
+	"docID": "557162",
+	"globalSID": "2300672,2300673",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "4-1",
+			"coref_index": 700,
+			"surface": "검색_엔진",
+			"entityName": "검색_엔진"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 23,
+			"ancestor": "-1",
+			"coref_index": 704,
+			"surface": "구글",
+			"entityName": "구글"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 50,
+			"ancestor": "-1",
+			"coref_index": 703,
+			"surface": "오페라_소프트웨어",
+			"entityName": "오페라_소프트웨어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "-1",
+			"coref_index": 702,
+			"surface": "야후",
+			"entityName": "야후"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 64,
+			"ancestor": "7-0",
+			"coref_index": 700,
+			"surface": "검색_엔진",
+			"entityName": "검색_엔진"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 68,
+			"ancestor": "7-3",
+			"coref_index": 702,
+			"surface": "야후",
+			"entityName": "야후"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 106,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 115,
+			"ancestor": "7-2",
+			"coref_index": 703,
+			"surface": "오페라_소프트웨어",
+			"entityName": "오페라_소프트웨어"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 125,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "오페라_모바일",
+			"entityName": "오페라_모바일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 142,
+			"ancestor": "7-0",
+			"coref_index": 700,
+			"surface": "검색_엔진",
+			"entityName": "검색_엔진"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 144,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 146,
+			"ancestor": "7-5",
+			"coref_index": 702,
+			"surface": "야후",
+			"entityName": "야후"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 152,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 154,
+			"ancestor": "7-1",
+			"coref_index": 704,
+			"surface": "구글",
+			"entityName": "구글"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 39,
+			"ancestor": "",
+			"surface": "2007년_1월_8일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 104,
+			"ancestor": "",
+			"surface": "2008년_2월_27일",
+			"entityName": ""
+		}
+	],
+	"plainText": "원래 오페라 미니의 기본 검색_엔진은 구글이었지만,2007년_1월_8일, 오페라_소프트웨어와 야후는 기본 검색_엔진을 야후로 바꾸겠다는 파트너쉽을 체결했다. 하지만 2008년_2월_27일, 오페라_소프트웨어는 오페라 미니와 오페라_모바일의 기본 검색_엔진을 야후에서 다시 구글로 바꾸겠다고 발표했다."
+}

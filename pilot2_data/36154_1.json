@@ -1,0 +1,221 @@
+{
+	"docID": "36154",
+	"globalSID": "356717,356718,356719",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 25,
+			"ancestor": "",
+			"surface": "2010년",
+			"entityName": "2010년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 32,
+			"ancestor": "",
+			"surface": "2월_12일",
+			"entityName": "2월_12일"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 40,
+			"ancestor": "",
+			"surface": "2010년",
+			"entityName": "2010년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 47,
+			"ancestor": "",
+			"surface": "2월_28일",
+			"entityName": "2월_28일"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 53,
+			"ancestor": "-1",
+			"coref_index": 490,
+			"surface": "캐나다",
+			"entityName": "캐나다"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 54,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "브리티시컬럼비아_주",
+			"entityName": "브리티시컬럼비아_주"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 69,
+			"ancestor": "-1",
+			"coref_index": 492,
+			"surface": "밴쿠버",
+			"entityName": "밴쿠버"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Town",
+				"Place"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 74,
+			"ancestor": "-1",
+			"coref_index": 495,
+			"surface": "휘슬러",
+			"entityName": "휘슬러_(브리티시컬럼비아_주)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 87,
+			"ancestor": "-1",
+			"coref_index": 489,
+			"surface": "동계_올림픽",
+			"entityName": "동계_올림픽"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 97,
+			"ancestor": "1-8",
+			"coref_index": 489,
+			"surface": "동계_올림픽",
+			"entityName": "동계_올림픽"
+		},
+		{
+			"kbox_types": [
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "2010년_동계_패럴림픽",
+			"entityName": "2010년_동계_패럴림픽"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation"
+			],
+			"st": 145,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 156,
+			"ancestor": "-1",
+			"surface": "밴쿠버올림픽조직위원회",
+			"entityName": "밴쿠버_동계_올림픽_조직위원회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "EVENT",
+			"en": 12,
+			"ancestor": "-1",
+			"coref_index": 504,
+			"surface": "2010년_동계_올림픽",
+			"entityName": ""
+		}
+	],
+	"plainText": "2010년_동계_올림픽(, , )은 2010년 2월_12일부터 2010년 2월_28일까지 캐나다 브리티시컬럼비아_주의 밴쿠버와 휘슬러에서 개최된 동계_올림픽이다. 동계_올림픽으로는 21번째로 열린 대회이다. 2010년 동계 올림픽과 2010년_동계_패럴림픽은 밴쿠버올림픽조직위원회(VANOC)에서 주관하였다."
+}

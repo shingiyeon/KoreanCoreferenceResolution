@@ -1,0 +1,407 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 4,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 780,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "대한민국_헌법_제5호",
+			"en": 49,
+			"is_target": true,
+			"surface": "대한민국_헌법_제5호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 59,
+			"eType": "WIKILINK",
+			"entityName": "국민투표",
+			"en": 63,
+			"is_target": true,
+			"surface": "국민투표",
+			"coref_index": 781,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 80,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 84,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 780,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 24,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 37,
+			"is_target": false,
+			"surface": "1962년_12월_26일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 114,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 118,
+			"is_target": true,
+			"surface": "개헌절차",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 119,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 123,
+			"is_target": true,
+			"surface": "헌법개정",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 125,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 132,
+			"is_target": true,
+			"surface": "헌법_제98조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 139,
+			"eType": "NEW",
+			"en": 143,
+			"entityName": "",
+			"is_target": true,
+			"surface": "국민투표",
+			"coref_index": 781,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 146,
+			"eType": "NEW",
+			"en": 148,
+			"entityName": "",
+			"is_target": true,
+			"surface": "찬성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 160,
+			"eType": "NEW",
+			"en": 163,
+			"entityName": "",
+			"is_target": true,
+			"surface": "제1항",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 165,
+			"eType": "NEW",
+			"en": 167,
+			"entityName": "",
+			"is_target": true,
+			"surface": "국회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 169,
+			"eType": "NEW",
+			"en": 173,
+			"entityName": "",
+			"is_target": true,
+			"surface": "가결사항",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 293,
+			"eType": "WIKILINK",
+			"en": 305,
+			"entityName": "5·16_군사정변",
+			"is_target": true,
+			"surface": "1961년_5월_16일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 307,
+			"eType": "WIKILINK",
+			"en": 310,
+			"entityName": "박정희",
+			"is_target": true,
+			"surface": "박정희",
+			"coref_index": 783,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 331,
+			"eType": "ELU",
+			"en": 334,
+			"entityName": "쿠데타",
+			"is_target": true,
+			"surface": "쿠데타",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Legislature",
+				"Agent",
+				"Organisation"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 370,
+			"eType": "ELU",
+			"en": 373,
+			"entityName": "참의원_(일본)",
+			"is_target": true,
+			"surface": "참의원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 17,
+			"ne_type": "LOCATION",
+			"st": 479,
+			"eType": "WIKILINK",
+			"en": 487,
+			"entityName": "국가재건최고회의",
+			"is_target": true,
+			"surface": "국가재건최고회의",
+			"coref_index": 782,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 18,
+			"ne_type": "LOCATION",
+			"st": 555,
+			"eType": "WIKILINK",
+			"en": 563,
+			"entityName": "국가재건최고회의",
+			"is_target": true,
+			"surface": "국가재건최고회의",
+			"coref_index": 782,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 601,
+			"eType": "WIKILINK",
+			"en": 604,
+			"entityName": "박정희",
+			"is_target": true,
+			"surface": "박정희",
+			"coref_index": 783,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"st": 350,
+			"eType": "NEW",
+			"en": 355,
+			"entityName": "",
+			"is_target": true,
+			"surface": "혁명위원회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "TIME",
+			"st": 397,
+			"eType": "NEW",
+			"en": 402,
+			"entityName": "",
+			"is_target": false,
+			"surface": "5월_22",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 489,
+			"eType": "NEW",
+			"en": 494,
+			"entityName": "",
+			"is_target": false,
+			"surface": "6월_6일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "TIME",
+			"st": 548,
+			"eType": "NEW",
+			"en": 554,
+			"entityName": "",
+			"is_target": false,
+			"surface": "8월_12일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "EVENT",
+			"st": 569,
+			"eType": "NEW",
+			"en": 576,
+			"entityName": "",
+			"is_target": true,
+			"surface": "8·12_선언",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2534504,2534505,2534506,2534507,2534508,2534509,2534510,2534511,2534512,2534513,2534514",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 256,
+			"ancestor": "-1",
+			"st": 252,
+			"surface": "그 결과"
+		},
+		{
+			"id": 1,
+			"en": 521,
+			"ancestor": "-1",
+			"st": 517,
+			"surface": "이 법은"
+		},
+		{
+			"id": 2,
+			"en": 613,
+			"ancestor": "-1",
+			"st": 611,
+			"surface": "이를"
+		}
+	],
+	"plainText": "대한민국 헌법 제6호(大韓民國憲法第六號)는 1962년_12월_26일 대한민국_헌법_제5호이 전부 개정되고 국민투표로 개정된 최초의 헌법이다. (대한민국 헌법을 제정한 이래로 5번째로 개정한 헌법이다.). 개헌절차 헌법개정시 헌법_제98조에 따른다. 국민투표에서 찬성을 얻지 못한 때에는 제1항의 국회의 가결사항은 소급하여 효력을 상실한다. 국민투표의 절차에 관한 사항은 법률로써 정한다.</ref> 의 경우에 국민투표로써 헌법개정이 부결되었을 때에는 그 결과가 판명된 즉시 소급하여 효력을 상실한 뜻을 공포한다.. 개헌경과 1961년_5월_16일, 박정희 소장을 중심으로 민정안정을 목적으로 쿠데타를 일으켜 정권을 장악한다. 혁명위원회는 포고 제4호로써 민의원 참의원 및 지방의원등 대의원 헌법기관이 해산하고 5월_22일 국가재건최고회의 포고 제6호 정당 및 사회단체는 해산되어 정치활동이 완전히 금지됨에 따라 헌정이 중단되었다. 헌정 공백을 메우기 위해 국가재건최고회의는 6월_6일 국가재건비상조치법 을 제정.공포하였으며 이 법은 헌법에 대신하는 기본법으로서 역할을 수행한다. 8월_12일 국가재건최고회의는 이른바 8·12_선언으로 민정이양에 관한 계획을 최초로 결정하고 박정희의장을 통해 이를 발표하였다. ",
+	"docID": "667122"
+}

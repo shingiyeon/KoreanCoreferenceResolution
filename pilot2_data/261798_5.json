@@ -1,0 +1,76 @@
+{
+	"docID": "261798",
+	"globalSID": "1475132,1475133,1475134",
+	"pronouns": [
+		{
+			"st": 28,
+			"coref_index": 368,
+			"id": 0,
+			"en": 30,
+			"ancestor": "5-1",
+			"surface": "그들"
+		},
+		{
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "그들 대부분은",
+			"id": 1,
+			"st": 28
+		},
+		{
+			"en": 40,
+			"ancestor": "-1",
+			"surface": "전자공학",
+			"id": 2,
+			"st": 36
+		},
+		{
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "전자공학 이나",
+			"id": 3,
+			"st": 36
+		},
+		{
+			"st": 59,
+			"coref_index": 368,
+			"id": 4,
+			"en": 61,
+			"ancestor": "5-1",
+			"surface": "그들"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 71,
+			"ancestor": "-1",
+			"surface": "앨테어_8800",
+			"entityName": "앨테어_8800"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 10,
+			"ancestor": "-1",
+			"coref_index": 368,
+			"surface": "홈브루_회원",
+			"entityName": ""
+		}
+	],
+	"plainText": "회원들 홈브루_회원들이 비록 취미생활가였을지라도, 그들 대부분은 전자공학 이나 프로그래밍 배경이 있었다. 그들은 앨테어_8800과 다른 기술적인 주제들에 대해 대화를 하거나 회로도나 프로그래밍 팁을 교환하기 위해 모임에 왔었다."
+}

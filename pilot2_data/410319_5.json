@@ -1,0 +1,309 @@
+{
+	"docID": "410319",
+	"globalSID": "1971705,1971706,1971707,1971708",
+	"pronouns": [
+		{
+			"st": 166,
+			"coref_index": 563,
+			"id": 0,
+			"en": 170,
+			"ancestor": "5-6",
+			"surface": "이 기습"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 552,
+			"surface": "추축국",
+			"entityName": "추축국"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 8,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 13,
+			"ancestor": "-1",
+			"coref_index": 558,
+			"surface": "일본_제국",
+			"entityName": "일본_제국"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "동남아시아",
+			"entityName": "동남아시아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "버마",
+			"entityName": "버마"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 61,
+			"ancestor": "-1",
+			"coref_index": 550,
+			"surface": "일본_제국_해군",
+			"entityName": "일본_제국_해군"
+		},
+		{
+			"kbox_types": [
+				"NaturalPlace",
+				"Place",
+				"Ocean",
+				"BodyOfWater"
+			],
+			"st": 70,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 73,
+			"ancestor": "-1",
+			"coref_index": 553,
+			"surface": "인도양",
+			"entityName": "인도양"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "-1",
+			"coref_index": 563,
+			"surface": "인도양_기습",
+			"entityName": "인도양_기습"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"coref_index": 561,
+			"surface": "실론",
+			"entityName": "실론"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 133,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 136,
+			"ancestor": "-1",
+			"surface": "콜롬보",
+			"entityName": "콜롬보"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 138,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "트링코말리",
+			"entityName": "트링코말리"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 150,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 154,
+			"ancestor": "-1",
+			"surface": "벵골_만",
+			"entityName": "벵골_만"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 179,
+			"ancestor": "-1",
+			"coref_index": 551,
+			"surface": "영국_동부함대",
+			"entityName": "영국_동부함대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 190,
+			"ancestor": "-1",
+			"surface": "동아프리카",
+			"entityName": "동아프리카"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 192,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 194,
+			"ancestor": "-1",
+			"surface": "케냐",
+			"entityName": "케냐"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 195,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 198,
+			"ancestor": "-1",
+			"surface": "몸바사",
+			"entityName": "몸바사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 202,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 209,
+			"ancestor": "-1",
+			"surface": "킬린디니_항구",
+			"entityName": "킬린디니_항구"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 16,
+			"ne_type": "TIME",
+			"en": 23,
+			"ancestor": "",
+			"surface": "1942년_2월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 93,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 17,
+			"ne_type": "TIME",
+			"en": 101,
+			"ancestor": "",
+			"surface": "1942년_3월",
+			"entityName": ""
+		}
+	],
+	"plainText": "추축국의 상황 일본_제국이 1942년_2월 말 들어 동남아시아의 동쪽에 있는 버마를 점령하면서 일본_제국_해군 소속 잠수함은 인도양 동부와 북부로 작전지역을 넓혔다. 1942년_3월에는 일본 해군 항공모함이 인도양_기습을 벌여 실론 섬의 콜롬보, 트링코말리 해군기지와 벵골_만의 선박을 공격했다. 이 기습은 영국_동부함대가 쫓겨나 동아프리카의 케냐 몸바사 근처 킬린디니_항구로 근거지를 옮겨야 했다."
+}

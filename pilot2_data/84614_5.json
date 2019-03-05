@@ -1,0 +1,298 @@
+{
+	"docID": "84614",
+	"globalSID": "661857,661858,661859",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "고려_태조",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 1038
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"entityName": "903년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "903년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"entityName": "909년",
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 14,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "909년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"entityName": "913년",
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 20,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "913년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 37,
+			"eType": "ELU",
+			"entityName": "장화왕후",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 41,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "장화왕후",
+			"coref_index": 1037
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 47,
+			"eType": "WIKILINK",
+			"entityName": "고려_혜종",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 49,
+			"ancestor": "5-18",
+			"is_target": true,
+			"surface": "혜종",
+			"coref_index": 1039
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"entityName": "912년",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 55,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "912년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 64,
+			"eType": "ELU",
+			"entityName": "장화왕후",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 68,
+			"ancestor": "5-4",
+			"is_target": true,
+			"surface": "장화왕후",
+			"coref_index": 1037
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"entityName": "903년",
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 78,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "903년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "909년",
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 85,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "909년"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 172,
+			"eType": "WIKILINK",
+			"entityName": "궁예",
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 174,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "궁예"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "WIKILINK",
+			"entityName": "왕건",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 192,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 1038
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 194,
+			"eType": "WIKILINK",
+			"entityName": "군사",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 196,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "군사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 202,
+			"eType": "WIKILINK",
+			"entityName": "나주",
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 204,
+			"ancestor": "1-8",
+			"is_target": true,
+			"surface": "나주",
+			"coref_index": 1034
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 211,
+			"eType": "WIKILINK",
+			"entityName": "목포",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 213,
+			"ancestor": "4-1",
+			"is_target": true,
+			"surface": "목포",
+			"coref_index": 1040
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 70,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 72,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "왕건",
+			"coref_index": 1038
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 152,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "부모"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 181,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 183,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "장군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 45,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아들",
+			"coref_index": 1039
+		}
+	],
+	"plainText": "왕건은 903년과 909년, 913년에 각각 나주에 출진하였는데, 장화왕후의 아들인 혜종이 912년에 태어났으므로 장화왕후는 왕건과 903년이나 909년 경 혼인한 것으로 보인다. 처녀시절 오씨는 꿈에 포구(浦)의 용(龍)이 와서 배에 들어가는 태몽을 꾸고 놀라 깨어 부모에게 말하니 모두 기이하게 여겼다. 궁예로부터 수군 장군으로 임명된 왕건은 군사를 이끌고 나주로 출정하여 목포(木浦)에 배를 머무르고 있었다."
+}

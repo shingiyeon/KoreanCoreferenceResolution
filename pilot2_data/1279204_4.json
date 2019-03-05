@@ -1,0 +1,38 @@
+{
+	"docID": "1279204",
+	"globalSID": "3525865",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "2-4",
+			"coref_index": 141,
+			"surface": "김의갑",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"surface": "선조_23년",
+			"entityName": ""
+		}
+	],
+	"plainText": "김의갑은 선조_23년(1590)에 무과에 급제하여 전사하자 주부의 벼슬에 올랐다."
+}

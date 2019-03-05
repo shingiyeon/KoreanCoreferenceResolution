@@ -1,0 +1,225 @@
+{
+	"docID": "1594985",
+	"globalSID": "3814751,3814752,3814753,3814754,3814755",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 19,
+			"ancestor": "1-0",
+			"coref_index": 246,
+			"surface": "카메룬",
+			"entityName": "카메룬"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 27,
+			"ancestor": "-1",
+			"coref_index": 249,
+			"surface": "스페인",
+			"entityName": "스페인"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "발렌시아",
+			"entityName": "발렌시아_CF"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 69,
+			"ancestor": "-1",
+			"coref_index": 247,
+			"surface": "툴루즈",
+			"entityName": "툴루즈_FC"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 120,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 123,
+			"ancestor": "3-3",
+			"coref_index": 247,
+			"surface": "툴루즈",
+			"entityName": "툴루즈"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 125,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "리그_1",
+			"entityName": "리그_1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 154,
+			"ancestor": "-1",
+			"surface": "올랭피크_리옹",
+			"entityName": "올랭피크_리옹"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 156,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "마르세유",
+			"entityName": "올랭피크_드_마르세유"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 162,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 166,
+			"ancestor": "-1",
+			"coref_index": 248,
+			"surface": "포츠머스",
+			"entityName": "포츠머스_FC"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"SoccerClub",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"City",
+				"SportsTeam",
+				"Place",
+				"Organisation"
+			],
+			"st": 181,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 185,
+			"ancestor": "3-8",
+			"coref_index": 248,
+			"surface": "포츠머스",
+			"entityName": "포츠머스"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 257,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 276,
+			"ancestor": "-1",
+			"surface": "2007-08_UEFA_챔피언스리그",
+			"entityName": "UEFA_챔피언스리그_2007-08"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "프랑스_리그_2",
+			"entityName": ""
+		}
+	],
+	"plainText": "클럽 경력 1999년 고국인 카메룬을 떠나 스페인의 발렌시아의 유소년 팀에 입단하였다. 2000년엔 프랑스_리그_2의 툴루즈로 적을 옮겼고, 2001년엔 19세의 나이로 팀의 주전급 미드필더로 활약하기 시작하였다. 툴루즈의 리그_1 승격을 이끈 후인 2005년엔 올랭피크_리옹과 마르세유, 포츠머스 등의 러브콜을 받았으며, 포츠머스와는 계약 합의까지 도달하였지만 취업 비자 문제로 최종 결렬되었다. 이후 2006-07 시즌엔 36경기에서 8골을 기록하며 팀의 2007-08_UEFA_챔피언스리그 진출을 이끌었다."
+}

@@ -1,0 +1,56 @@
+{
+	"docID": "152461",
+	"globalSID": "1041654,1041655,1041656",
+	"pronouns": [
+		{
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "이런 류의",
+			"id": 0,
+			"st": 45
+		},
+		{
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "이런 류의 육류 제품은",
+			"id": 1,
+			"st": 45
+		},
+		{
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "고기를",
+			"id": 2,
+			"st": 84
+		},
+		{
+			"en": 97,
+			"ancestor": "-1",
+			"surface": "주로 소시지 형태로 고기를 많이 먹기 때문에",
+			"id": 3,
+			"st": 73
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "프랑스",
+			"entityName": "프랑스"
+		}
+	],
+	"plainText": "대개 육류는 냄비에 끓여서 조리한다. 물론 팬에 구워 먹는 경우도 흔하지만 최근 이런 류의 육류 제품은 거의 프랑스에서 수입된다. 주로 소시지 형태로 고기를 많이 먹기 때문에 독일에만 1500여 가지에 이르는 소시지 종류가 있다."
+}

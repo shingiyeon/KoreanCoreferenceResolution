@@ -1,0 +1,1074 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 90,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 91,
+			"en": 91,
+			"st_modified": 90
+		},
+		{
+			"st": 127,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 128,
+			"en": 128,
+			"st_modified": 127
+		},
+		{
+			"st": 208,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 209,
+			"en": 209,
+			"st_modified": 208
+		},
+		{
+			"st": 343,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 344,
+			"en": 344,
+			"st_modified": 343
+		},
+		{
+			"st": 444,
+			"text": "나",
+			"is_pronoun": true,
+			"en_modified": 445,
+			"en": 445,
+			"st_modified": 444
+		},
+		{
+			"st": 444,
+			"text": "나 마이너차겐",
+			"is_pronoun": true,
+			"en_modified": 451,
+			"en": 451,
+			"st_modified": 444
+		},
+		{
+			"st": 466,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 467,
+			"en": 467,
+			"st_modified": 466
+		},
+		{
+			"st": 741,
+			"text": "같은 해",
+			"is_pronoun": true,
+			"en_modified": 745,
+			"en": 745,
+			"st_modified": 741
+		},
+		{
+			"st": 741,
+			"text": "같은 해 11월_25일에",
+			"is_pronoun": true,
+			"en_modified": 754,
+			"en": 754,
+			"st_modified": 741
+		},
+		{
+			"st": 854,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 855,
+			"en": 855,
+			"st_modified": 854
+		},
+		{
+			"st": 854,
+			"text": "그를 지도했던 베르트_판_마르베이크_감독",
+			"is_pronoun": true,
+			"en_modified": 876,
+			"en": 876,
+			"st_modified": 854
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 90,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 91,
+			"en": 91,
+			"st_modified": 90,
+			"id": 0,
+			"coref_index": 184
+		},
+		{
+			"st": 127,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 128,
+			"en": 128,
+			"st_modified": 127,
+			"id": 1,
+			"coref_index": 184
+		},
+		{
+			"st": 208,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 209,
+			"en": 209,
+			"st_modified": 208,
+			"id": 2,
+			"coref_index": 184
+		},
+		{
+			"st": 343,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 344,
+			"en": 344,
+			"st_modified": 343,
+			"id": 3,
+			"coref_index": 184
+		},
+		{
+			"st": 444,
+			"ancestor": "-1",
+			"surface": "나",
+			"en_modified": 445,
+			"en": 445,
+			"st_modified": 444,
+			"id": 4
+		},
+		{
+			"st": 444,
+			"ancestor": "-1",
+			"surface": "나 마이너차겐에서",
+			"en_modified": 453,
+			"en": 453,
+			"st_modified": 444,
+			"id": 5
+		},
+		{
+			"st": 466,
+			"ancestor": "1-21",
+			"surface": "그",
+			"en_modified": 467,
+			"en": 467,
+			"st_modified": 466,
+			"id": 6,
+			"coref_index": 184
+		},
+		{
+			"st": 741,
+			"ancestor": "-1",
+			"surface": "같은 해",
+			"en_modified": 745,
+			"en": 745,
+			"st_modified": 741,
+			"id": 7
+		},
+		{
+			"st": 741,
+			"ancestor": "-1",
+			"surface": "같은 해 11월_25일에는",
+			"en_modified": 755,
+			"en": 755,
+			"st_modified": 741,
+			"id": 8
+		},
+		{
+			"st": 854,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 855,
+			"en": 855,
+			"st_modified": 854,
+			"id": 9,
+			"coref_index": 184
+		},
+		{
+			"st": 854,
+			"ancestor": "-1",
+			"surface": "그를 지도했던 베르트_판_마르베이크_감독과",
+			"en_modified": 877,
+			"en": 877,
+			"st_modified": 854,
+			"id": 10
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 5,
+			"st_modified": 0,
+			"coref_index": 184,
+			"entityName": "누리_샤힌",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "누리_샤힌",
+			"is_target": true,
+			"en": 5,
+			"id": 0
+		},
+		{
+			"en_modified": 34,
+			"entityName": "노르트라인베스트팔렌_주",
+			"st_modified": 22,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"eType": "WIKILINK",
+			"st": 22,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "노르트라인베스트팔렌_주",
+			"is_target": true,
+			"en": 34,
+			"id": 1
+		},
+		{
+			"en_modified": 40,
+			"st_modified": 35,
+			"coref_index": 186,
+			"entityName": "뤼덴샤이트",
+			"kbox_types": [
+				"Town",
+				"PopulatedPlace",
+				"Settlement",
+				"Town",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 35,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "뤼덴샤이트",
+			"is_target": true,
+			"en": 40,
+			"id": 2
+		},
+		{
+			"en_modified": 66,
+			"entityName": "푸스발-분데스리가",
+			"st_modified": 61,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 61,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "분데스리가",
+			"is_target": true,
+			"en": 66,
+			"id": 3
+		},
+		{
+			"en_modified": 73,
+			"st_modified": 68,
+			"coref_index": 183,
+			"entityName": "보루시아_도르트문트",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 68,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "도르트문트",
+			"is_target": true,
+			"en": 73,
+			"id": 4
+		},
+		{
+			"en_modified": 83,
+			"entityName": "터키_축구_국가대표팀",
+			"st_modified": 75,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 75,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "터키_국가대표팀",
+			"is_target": true,
+			"en": 83,
+			"id": 5
+		},
+		{
+			"en_modified": 100,
+			"entityName": "미드필더",
+			"st_modified": 93,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 93,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "중앙_미드필더",
+			"is_target": true,
+			"en": 100,
+			"id": 6
+		},
+		{
+			"en_modified": 20,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1988년_9월_5일",
+			"is_target": false,
+			"en": 20,
+			"id": 7
+		},
+		{
+			"en_modified": 48,
+			"st_modified": 46,
+			"coref_index": 185,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 46,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "터키",
+			"is_target": true,
+			"en": 48,
+			"id": 8
+		},
+		{
+			"en_modified": 135,
+			"st_modified": 130,
+			"coref_index": 183,
+			"entityName": "도르트문트",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 130,
+			"ancestor": "1-4",
+			"ne_type": "LOCATION",
+			"surface": "도르트문트",
+			"is_target": true,
+			"en": 135,
+			"id": 9
+		},
+		{
+			"en_modified": 161,
+			"entityName": "푸스발-분데스리가_2010-11",
+			"st_modified": 151,
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"eType": "WIKILINK",
+			"st": 151,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2010-11_시즌",
+			"is_target": true,
+			"en": 161,
+			"id": 10
+		},
+		{
+			"en_modified": 189,
+			"st_modified": 184,
+			"coref_index": 187,
+			"entityName": "페예노르트",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 184,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "페예노르트",
+			"is_target": true,
+			"en": 189,
+			"id": 11
+		},
+		{
+			"en_modified": 232,
+			"entityName": "레알_마드리드_CF",
+			"st_modified": 225,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 225,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "레알_마드리드",
+			"is_target": true,
+			"en": 232,
+			"id": 12
+		},
+		{
+			"en_modified": 257,
+			"entityName": "리버풀_FC",
+			"st_modified": 254,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 254,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "리버풀",
+			"is_target": true,
+			"en": 257,
+			"id": 13
+		},
+		{
+			"en_modified": 294,
+			"st_modified": 289,
+			"coref_index": 183,
+			"entityName": "도르트문트",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 289,
+			"ancestor": "1-9",
+			"ne_type": "LOCATION",
+			"surface": "도르트문트",
+			"is_target": true,
+			"en": 294,
+			"id": 14
+		},
+		{
+			"en_modified": 193,
+			"entityName": "",
+			"st_modified": 191,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 191,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1년",
+			"is_target": false,
+			"en": 193,
+			"id": 15
+		},
+		{
+			"en_modified": 252,
+			"st_modified": 250,
+			"coref_index": 184,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 250,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "샤힌",
+			"is_target": true,
+			"en": 252,
+			"id": 16
+		},
+		{
+			"en_modified": 280,
+			"entityName": "",
+			"st_modified": 272,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 272,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년_1월",
+			"is_target": false,
+			"en": 280,
+			"id": 17
+		},
+		{
+			"en_modified": 361,
+			"entityName": "국가대표팀",
+			"st_modified": 356,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 356,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "국가대표팀",
+			"is_target": true,
+			"en": 361,
+			"id": 18
+		},
+		{
+			"en_modified": 396,
+			"entityName": "UEFA_유로_2016",
+			"st_modified": 384,
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 384,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_유로_2016",
+			"is_target": true,
+			"en": 396,
+			"id": 19
+		},
+		{
+			"en_modified": 335,
+			"st_modified": 333,
+			"coref_index": 185,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 333,
+			"ancestor": "1-8",
+			"ne_type": "ORGANIZATION",
+			"surface": "터키",
+			"is_target": true,
+			"en": 335,
+			"id": 20
+		},
+		{
+			"en_modified": 317,
+			"st_modified": 315,
+			"coref_index": 184,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 315,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "샤힌",
+			"is_target": true,
+			"en": 317,
+			"id": 21
+		},
+		{
+			"en_modified": 323,
+			"entityName": "",
+			"st_modified": 319,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 319,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "U-16",
+			"is_target": true,
+			"en": 323,
+			"id": 22
+		},
+		{
+			"en_modified": 415,
+			"entityName": "프라이버시",
+			"st_modified": 412,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 412,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사생활",
+			"is_target": true,
+			"en": 415,
+			"id": 23
+		},
+		{
+			"en_modified": 425,
+			"st_modified": 420,
+			"coref_index": 186,
+			"entityName": "뤼덴샤이트",
+			"kbox_types": [
+				"Town",
+				"PopulatedPlace",
+				"Settlement",
+				"Town",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 420,
+			"ancestor": "1-2",
+			"ne_type": "LOCATION",
+			"surface": "뤼덴샤이트",
+			"is_target": true,
+			"en": 425,
+			"id": 24
+		},
+		{
+			"en_modified": 434,
+			"entityName": "터키인",
+			"st_modified": 431,
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 431,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "터키계",
+			"is_target": true,
+			"en": 434,
+			"id": 25
+		},
+		{
+			"en_modified": 451,
+			"entityName": "마이너차겐",
+			"st_modified": 446,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 446,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마이너차겐",
+			"is_target": true,
+			"en": 451,
+			"id": 26
+		},
+		{
+			"en_modified": 529,
+			"entityName": "마드리드",
+			"st_modified": 525,
+			"kbox_types": [
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 525,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "마드리드",
+			"is_target": true,
+			"en": 529,
+			"id": 27
+		},
+		{
+			"en_modified": 545,
+			"entityName": "터키어",
+			"st_modified": 542,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 542,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "터키어",
+			"is_target": true,
+			"en": 545,
+			"id": 28
+		},
+		{
+			"en_modified": 550,
+			"entityName": "독일어",
+			"st_modified": 547,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 547,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독일어",
+			"is_target": true,
+			"en": 550,
+			"id": 29
+		},
+		{
+			"en_modified": 554,
+			"entityName": "영어",
+			"st_modified": 552,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 552,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "영어",
+			"is_target": true,
+			"en": 554,
+			"id": 30
+		},
+		{
+			"en_modified": 561,
+			"entityName": "네덜란드어",
+			"st_modified": 556,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 556,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "네덜란드어",
+			"is_target": true,
+			"en": 561,
+			"id": 31
+		},
+		{
+			"en_modified": 571,
+			"entityName": "스페인어",
+			"st_modified": 567,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 567,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스페인어",
+			"is_target": true,
+			"en": 571,
+			"id": 32
+		},
+		{
+			"en_modified": 493,
+			"entityName": "",
+			"st_modified": 484,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 484,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2007년_11월",
+			"is_target": false,
+			"en": 493,
+			"id": 33
+		},
+		{
+			"en_modified": 482,
+			"entityName": "",
+			"st_modified": 472,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 472,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "투우바_에메니-샤힌",
+			"is_target": true,
+			"en": 482,
+			"id": 34
+		},
+		{
+			"en_modified": 509,
+			"entityName": "",
+			"st_modified": 501,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 501,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2011년_9월",
+			"is_target": false,
+			"en": 509,
+			"id": 35
+		},
+		{
+			"en_modified": 673,
+			"st_modified": 668,
+			"coref_index": 183,
+			"entityName": "보루시아_도르트문트",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 668,
+			"ancestor": "1-4",
+			"ne_type": "ORGANIZATION",
+			"surface": "도르트문트",
+			"is_target": true,
+			"en": 673,
+			"id": 36
+		},
+		{
+			"en_modified": 607,
+			"st_modified": 605,
+			"coref_index": 184,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 605,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "샤힌",
+			"is_target": true,
+			"en": 607,
+			"id": 37
+		},
+		{
+			"en_modified": 660,
+			"entityName": "",
+			"st_modified": 655,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 655,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2001년",
+			"is_target": false,
+			"en": 660,
+			"id": 38
+		},
+		{
+			"en_modified": 686,
+			"st_modified": 681,
+			"coref_index": 183,
+			"entityName": "도르트문트",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 681,
+			"ancestor": "1-9",
+			"ne_type": "LOCATION",
+			"surface": "도르트문트",
+			"is_target": true,
+			"en": 686,
+			"id": 39
+		},
+		{
+			"en_modified": 761,
+			"st_modified": 756,
+			"coref_index": 183,
+			"entityName": "도르트문트",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 756,
+			"ancestor": "1-9",
+			"ne_type": "LOCATION",
+			"surface": "도르트문트",
+			"is_target": true,
+			"en": 761,
+			"id": 40
+		},
+		{
+			"en_modified": 768,
+			"entityName": "뉘른베르크",
+			"st_modified": 763,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 763,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "뉘른베르크",
+			"is_target": true,
+			"en": 768,
+			"id": 41
+		},
+		{
+			"en_modified": 698,
+			"entityName": "",
+			"st_modified": 687,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 687,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2005년_8월_6일",
+			"is_target": false,
+			"en": 698,
+			"id": 42
+		},
+		{
+			"en_modified": 753,
+			"entityName": "",
+			"st_modified": 746,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 746,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "11월_25일",
+			"is_target": false,
+			"en": 753,
+			"id": 43
+		},
+		{
+			"en_modified": 817,
+			"entityName": "",
+			"st_modified": 806,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 806,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2007년_7월_5일",
+			"is_target": false,
+			"en": 817,
+			"id": 44
+		},
+		{
+			"en_modified": 821,
+			"st_modified": 819,
+			"coref_index": 184,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 819,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "샤힌",
+			"is_target": true,
+			"en": 821,
+			"id": 45
+		},
+		{
+			"en_modified": 835,
+			"st_modified": 823,
+			"coref_index": 187,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 823,
+			"ancestor": "1-11",
+			"ne_type": "ORGANIZATION",
+			"surface": "에레디비시의_페예노르트",
+			"is_target": true,
+			"en": 835,
+			"id": 46
+		},
+		{
+			"en_modified": 876,
+			"entityName": "",
+			"st_modified": 862,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 862,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "베르트_판_마르베이크_감독",
+			"is_target": true,
+			"en": 876,
+			"id": 47
+		},
+		{
+			"en_modified": 880,
+			"entityName": "",
+			"st_modified": 878,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 878,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "재회",
+			"is_target": true,
+			"en": 880,
+			"id": 48
+		}
+	],
+	"globalSID": "953532,953533,953534,953535,953536,953537,953538,953539,953540,953541,953542,953543,953544,953545,953546,953547,953548,953549,953550",
+	"plainText": "누리_샤힌 (, 1988년_9월_5일, 노르트라인베스트팔렌_주 뤼덴샤이트 ~) 은 터키의 축구 선수로, 현재 분데스리가의 도르트문트와 터키_국가대표팀 소속이다. 그는 중앙_미드필더로 주로 활약하며, 패스 능력으로 알려져 있다. 그는 도르트문트에서 데뷔해 6년을 보냈고, 2010-11_시즌에 분데스리가 우승도 거두었는데, 막간에 페예노르트로 1년 임대되기도 했다. 이후, 그는 2011년에 €10M으로 레알_마드리드에 입단했다. 2012년 8월, 샤힌은 리버풀 1년 임대에 합의했지만, 2013년_1월에 파기되었고, 도르트문트에 18개월 임대로 복귀하게 되었다. 샤힌은 U-16 대표팀 시절부터 터키를 대표했다. 그는 2005년에 성인 국가대표팀에 데뷔해 45번 국제 경기에 출전했고, UEFA_유로_2016에 자국을 대표로 나갔었다. 사생활 샤힌은 뤼덴샤이트 출신으로 터키계 부모님 사이에서 나 마이너차겐에서 유년 시절을 보냈다. 그는 사촌 투우바_에메니-샤힌과 2007년_11월에 결혼했다. 2011년_9월, 둘 사이에 아들 외메르가 마드리드에서 출생했다. 샤힌은 터키어, 독일어, 영어, 네덜란드어, 그리고 스페인어의 5개국어를 유창히 구사할 수 있다. 클럽 경력 초기 경력 샤힌은 6세에 마이너차겐에 입단하면서 축구를 시작했다. 마이너차겐에서 7년을 보낸 샤힌은 2001년에 프로 구단 도르트문트에 입단했다. 도르트문트 2005년_8월_6일, 16세 334세의 나이로, 샤힌은 분데스리가 최연소 출장 기록을 세웠고, 같은 해 11월_25일에는 도르트문트와 뉘른베르크 간 경기에서 골을 넣어 분데스리가 최연소 득점 기록도 갈아치웠다. 2007년_7월_5일, 샤힌은 에레디비시의_페예노르트로 1년 임대되어 도르트문트 시절 그를 지도했던 베르트_판_마르베이크_감독과 재회했다. ",
+	"docID": "132777",
+	"ModifiedText": "누리 샤힌 (, 1988년 9월 5일, 노르트라인베스트팔렌 주 뤼덴샤이트 ~) 은 터키의 축구 선수로, 현재 분데스리가의 도르트문트와 터키 국가대표팀 소속이다. 그는 중앙 미드필더로 주로 활약하며, 패스 능력으로 알려져 있다. 그는 도르트문트에서 데뷔해 6년을 보냈고, 2010-11 시즌에 분데스리가 우승도 거두었는데, 막간에 페예노르트로 1년 임대되기도 했다. 이후, 그는 2011년에 €10M으로 레알 마드리드에 입단했다. 2012년 8월, 샤힌은 리버풀 1년 임대에 합의했지만, 2013년 1월에 파기되었고, 도르트문트에 18개월 임대로 복귀하게 되었다. 샤힌은 U-16 대표팀 시절부터 터키를 대표했다. 그는 2005년에 성인 국가대표팀에 데뷔해 45번 국제 경기에 출전했고, UEFA 유로 2016에 자국을 대표로 나갔었다. 사생활 샤힌은 뤼덴샤이트 출신으로 터키계 부모님 사이에서 나 마이너차겐에서 유년 시절을 보냈다. 그는 사촌 투우바 에메니-샤힌과 2007년 11월에 결혼했다. 2011년 9월, 둘 사이에 아들 외메르가 마드리드에서 출생했다. 샤힌은 터키어, 독일어, 영어, 네덜란드어, 그리고 스페인어의 5개국어를 유창히 구사할 수 있다. 클럽 경력 초기 경력 샤힌은 6세에 마이너차겐에 입단하면서 축구를 시작했다. 마이너차겐에서 7년을 보낸 샤힌은 2001년에 프로 구단 도르트문트에 입단했다. 도르트문트 2005년 8월 6일, 16세 334세의 나이로, 샤힌은 분데스리가 최연소 출장 기록을 세웠고, 같은 해 11월 25일에는 도르트문트와 뉘른베르크 간 경기에서 골을 넣어 분데스리가 최연소 득점 기록도 갈아치웠다. 2007년 7월 5일, 샤힌은 에레디비시의 페예노르트로 1년 임대되어 도르트문트 시절 그를 지도했던 베르트 판 마르베이크 감독과 재회했다. "
+}

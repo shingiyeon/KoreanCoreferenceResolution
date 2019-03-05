@@ -1,0 +1,27 @@
+{
+	"docID": "454069",
+	"globalSID": "2069998,2069999",
+	"pronouns": [],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 70,
+			"ancestor": "3-1",
+			"coref_index": 592,
+			"surface": "넥센_히어로즈",
+			"entityName": "넥센_히어로즈"
+		}
+	],
+	"plainText": "2014 시즌 114경기 2할대 타율, 26득점, 58안타, 6홈런, 34타점을 기록하였다. 특히, 전 소속팀인 넥센_히어로즈를 상대로 15경기 타율 0.419 10득점 18안타 2홈런 12타점으로 강한 모습을 보여주었다."
+}

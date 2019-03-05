@@ -1,0 +1,287 @@
+{
+	"docID": "454069",
+	"globalSID": "2069987,2069988,2069989",
+	"pronouns": [
+		{
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "군",
+			"id": 0,
+			"st": 16
+		},
+		{
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "군 복무",
+			"id": 1,
+			"st": 16
+		},
+		{
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "이 팀 선수",
+			"id": 2,
+			"st": 39
+		},
+		{
+			"st": 158,
+			"coref_index": 597,
+			"id": 3,
+			"en": 159,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 169,
+			"ancestor": "-1",
+			"surface": "그와 박정준, 이창섭",
+			"id": 4,
+			"st": 158
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "넥센_히어로즈",
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 7,
+			"ancestor": "3-1",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"entityName": "현대_유니콘스",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 33,
+			"ancestor": "3-0",
+			"is_target": true,
+			"surface": "현대_유니콘스",
+			"coref_index": 591
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"entityName": "넥센_히어로즈",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 64,
+			"ancestor": "5-0",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "넥센_히어로즈",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 88,
+			"ancestor": "5-0",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 104,
+			"eType": "WIKILINK",
+			"entityName": "2013년",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 109,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2013년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 110,
+			"eType": "WIKILINK",
+			"entityName": "4월_18일",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 116,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "4월_18일"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"entityName": "NC_다이노스",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 127,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 134,
+			"eType": "WIKILINK",
+			"entityName": "송신영",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 137,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "송신영"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 139,
+			"eType": "WIKILINK",
+			"entityName": "신재영_(야구_선수)",
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 142,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "신재영"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 144,
+			"eType": "WIKILINK",
+			"entityName": "넥센_히어로즈",
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 151,
+			"ancestor": "5-0",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 161,
+			"eType": "WIKILINK",
+			"entityName": "박정준_(1984년)",
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 164,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "박정준"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 166,
+			"eType": "WIKILINK",
+			"entityName": "이창섭_(야구_선수)",
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 169,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이창섭"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 181,
+			"eType": "WIKILINK",
+			"entityName": "NC_다이노스",
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 188,
+			"ancestor": "5-6",
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 13,
+			"ancestor": "4-0",
+			"is_target": true,
+			"surface": "상무",
+			"coref_index": 594
+		}
+	],
+	"plainText": "넥센_히어로즈 복귀 상무에서 군 복무를 마치고 현대_유니콘스 해체 후 이 팀 선수들을 주축으로 창단한 넥센_히어로즈 때도 계속 백업에 머물렀다. 넥센_히어로즈에서 백업으로 활약하던 중, 2013년 4월_18일 당시 NC_다이노스 소속이었던 송신영, 신재영과 넥센_히어로즈 소속이었던 그와 박정준, 이창섭의 2:3 트레이드로 NC_다이노스에 이적하였다."
+}

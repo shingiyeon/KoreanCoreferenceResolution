@@ -1,0 +1,74 @@
+{
+	"docID": "119879",
+	"globalSID": "876709",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 14,
+			"ancestor": "1-7",
+			"coref_index": 98,
+			"surface": "경남_FC",
+			"entityName": "경남_FC"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 70,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 75,
+			"ancestor": "1-7",
+			"coref_index": 98,
+			"surface": "경남_FC",
+			"entityName": "경남_FC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "1-10",
+			"coref_index": 96,
+			"surface": "뽀뽀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 56,
+			"ancestor": "-1",
+			"surface": "일본_J리그_요코하마_FC",
+			"entityName": ""
+		}
+	],
+	"plainText": "하지만, 뽀뽀는 경남_FC에서의 맹활약에도 불구하고, 팀의 재정난을 이유로 일본_J리그_요코하마_FC로의 임대설이 있었으나, 경남_FC팬들의 반발과 전력손실로 인한 6강 플레이오프 진출 좌절의 우려로 인해 계획을 전면 백지화했다."
+}

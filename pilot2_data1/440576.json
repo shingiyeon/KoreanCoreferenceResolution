@@ -1,0 +1,1504 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "앤더슨_쿠퍼",
+			"en": 6,
+			"is_target": true,
+			"surface": "앤더슨_쿠퍼",
+			"coref_index": 582,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "기자_(직업)",
+			"en": 43,
+			"is_target": true,
+			"surface": "기자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 45,
+			"eType": "WIKILINK",
+			"entityName": "작가",
+			"en": 47,
+			"is_target": true,
+			"surface": "작가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"st": 53,
+			"eType": "WIKILINK",
+			"entityName": "방송인",
+			"en": 56,
+			"is_target": true,
+			"surface": "방송인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Broadcaster",
+				"TelevisionStation",
+				"Agent",
+				"Organisation"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 66,
+			"eType": "WIKILINK",
+			"entityName": "CNN",
+			"en": 69,
+			"is_target": true,
+			"surface": "CNN",
+			"coref_index": 587,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 79,
+			"eType": "WIKILINK",
+			"entityName": "앤더슨_쿠퍼_360°",
+			"en": 90,
+			"is_target": true,
+			"surface": "앤더슨_쿠퍼_360°",
+			"coref_index": 577,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 92,
+			"eType": "WIKILINK",
+			"entityName": "앵커",
+			"en": 94,
+			"is_target": true,
+			"surface": "앵커",
+			"coref_index": 588,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 104,
+			"eType": "WIKILINK",
+			"entityName": "앤더슨_쿠퍼_360°",
+			"en": 115,
+			"is_target": true,
+			"surface": "앤더슨_쿠퍼_360°",
+			"coref_index": 577,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "TIME",
+			"st": 24,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 35,
+			"is_target": false,
+			"surface": "1967년_6월_3일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "LOCATION",
+			"st": 145,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 161,
+			"is_target": true,
+			"surface": "CNN_워싱턴_D.C_스튜디오",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 10,
+			"ne_type": "LOCATION",
+			"st": 248,
+			"eType": "WIKILINK",
+			"entityName": "뉴욕",
+			"en": 250,
+			"is_target": true,
+			"surface": "뉴욕",
+			"coref_index": 580,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 264,
+			"eType": "WIKILINK",
+			"entityName": "코넬리어스_밴더빌트",
+			"en": 274,
+			"is_target": true,
+			"surface": "코넬리어스_밴더빌트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 179,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 181,
+			"is_target": true,
+			"surface": "인물",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 182,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 196,
+			"is_target": true,
+			"surface": "작가_와이어트_에모리_쿠퍼",
+			"coref_index": 579,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 198,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 201,
+			"is_target": true,
+			"surface": "예술가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "PERSON",
+			"st": 204,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 208,
+			"is_target": true,
+			"surface": "디자이너",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 210,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 228,
+			"is_target": true,
+			"surface": "작가인_레지널드_클레이풀_밴더빌트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 230,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 241,
+			"is_target": true,
+			"surface": "딸_글로리아_밴더빌트",
+			"coref_index": 578,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 243,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 245,
+			"is_target": true,
+			"surface": "차남",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 259,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 262,
+			"is_target": true,
+			"surface": "어머니",
+			"coref_index": 578,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "PERSON",
+			"st": 276,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 279,
+			"is_target": true,
+			"surface": "5세손",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 283,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 286,
+			"is_target": true,
+			"surface": "아버지",
+			"coref_index": 579,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "EVENT",
+			"st": 288,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 292,
+			"is_target": true,
+			"surface": "심장발작",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "TIME",
+			"st": 295,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 306,
+			"is_target": false,
+			"surface": "1978년_1월_5일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 308,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 311,
+			"is_target": true,
+			"surface": "50세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 313,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 315,
+			"is_target": true,
+			"surface": "사망",
+			"coref_index": 581,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 320,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 324,
+			"is_target": true,
+			"surface": "형_카터",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "TIME",
+			"st": 326,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 338,
+			"is_target": false,
+			"surface": "1988년_7월_22일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "LOCATION",
+			"st": 340,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 342,
+			"is_target": true,
+			"surface": "뉴욕",
+			"coref_index": 580,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "LOCATION",
+			"st": 352,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 365,
+			"is_target": true,
+			"surface": "팬트하우스_14층_베란다",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 373,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 376,
+			"is_target": true,
+			"surface": "23세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 378,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 380,
+			"is_target": true,
+			"surface": "사망",
+			"coref_index": 581,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 392,
+			"eType": "WIKILINK",
+			"entityName": "예일_대학교",
+			"en": 398,
+			"is_target": true,
+			"surface": "예일_대학교",
+			"coref_index": 583,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 399,
+			"eType": "WIKILINK",
+			"entityName": "정치학",
+			"en": 402,
+			"is_target": true,
+			"surface": "정치학",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 34,
+			"ne_type": "LOCATION",
+			"st": 463,
+			"eType": "WIKILINK",
+			"entityName": "베트남",
+			"en": 466,
+			"is_target": true,
+			"surface": "베트남",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 473,
+			"eType": "WIKILINK",
+			"entityName": "하노이_대학교",
+			"en": 480,
+			"is_target": true,
+			"surface": "하노이_대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 483,
+			"eType": "WIKILINK",
+			"entityName": "베트남어",
+			"en": 487,
+			"is_target": true,
+			"surface": "베트남어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "TIME",
+			"st": 385,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 390,
+			"is_target": false,
+			"surface": "1989년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "TIME",
+			"st": 413,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 422,
+			"is_target": false,
+			"surface": "1990년대_초반",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ORGANIZATION",
+			"st": 429,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 432,
+			"is_target": true,
+			"surface": "특파원",
+			"coref_index": 584,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "TIME",
+			"st": 496,
+			"eType": "NEW",
+			"en": 504,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2012년_7월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "PERSON",
+			"st": 510,
+			"eType": "NEW",
+			"en": 512,
+			"entityName": "",
+			"is_target": true,
+			"surface": "게이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "PERSON",
+			"st": 506,
+			"eType": "NEW",
+			"en": 508,
+			"entityName": "",
+			"is_target": true,
+			"surface": "자신",
+			"coref_index": 582,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 515,
+			"eType": "NEW",
+			"en": 517,
+			"entityName": "",
+			"is_target": true,
+			"surface": "고백",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"id": 44,
+			"ne_type": "ORGANIZATION",
+			"st": 530,
+			"eType": "WIKILINK",
+			"entityName": "예일_대학교",
+			"en": 536,
+			"is_target": true,
+			"surface": "예일_대학교",
+			"coref_index": 583,
+			"ancestor": "1-32"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 543,
+			"eType": "WIKILINK",
+			"entityName": "ABC_(미국_방송사)",
+			"en": 546,
+			"is_target": true,
+			"surface": "ABC",
+			"coref_index": 585,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 639,
+			"eType": "WIKILINK",
+			"entityName": "버마",
+			"en": 641,
+			"is_target": true,
+			"surface": "버마",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 47,
+			"ne_type": "LOCATION",
+			"st": 643,
+			"eType": "WIKILINK",
+			"entityName": "소말리아",
+			"en": 647,
+			"is_target": true,
+			"surface": "소말리아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 48,
+			"ne_type": "LOCATION",
+			"st": 649,
+			"eType": "WIKILINK",
+			"entityName": "르완다",
+			"en": 652,
+			"is_target": true,
+			"surface": "르완다",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 49,
+			"ne_type": "ETC",
+			"st": 776,
+			"eType": "WIKILINK",
+			"entityName": "MC_(사회자)",
+			"en": 778,
+			"is_target": true,
+			"surface": "MC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 783,
+			"eType": "ELU",
+			"entityName": "사회자",
+			"en": 786,
+			"is_target": true,
+			"surface": "사회자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "TIME",
+			"st": 682,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 687,
+			"is_target": false,
+			"surface": "1995년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "ORGANIZATION",
+			"st": 689,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 695,
+			"is_target": true,
+			"surface": "ABC_뉴스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 697,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 700,
+			"is_target": true,
+			"surface": "특파원",
+			"coref_index": 584,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 712,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 724,
+			"is_target": true,
+			"surface": "ABC_월드_뉴스_나우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "PERSON",
+			"st": 727,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 732,
+			"is_target": true,
+			"surface": "공동_앵커",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "TIME",
+			"st": 741,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 746,
+			"is_target": false,
+			"surface": "2000년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 765,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 773,
+			"is_target": true,
+			"surface": "The_Mole",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "ORGANIZATION",
+			"st": 678,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 681,
+			"is_target": true,
+			"surface": "ABC",
+			"coref_index": 585,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"Broadcaster",
+				"TelevisionStation",
+				"Agent",
+				"Organisation"
+			],
+			"id": 59,
+			"ne_type": "ORGANIZATION",
+			"st": 823,
+			"eType": "WIKILINK",
+			"en": 826,
+			"entityName": "CNN",
+			"is_target": true,
+			"surface": "CNN",
+			"coref_index": 586,
+			"ancestor": "1-63"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Square",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 60,
+			"ne_type": "LOCATION",
+			"st": 902,
+			"eType": "WIKILINK",
+			"en": 909,
+			"entityName": "타임스_스퀘어",
+			"is_target": true,
+			"surface": "타임스_스퀘어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "ETC",
+			"st": 958,
+			"eType": "WIKILINK",
+			"en": 961,
+			"entityName": "동부_표준시",
+			"is_target": true,
+			"surface": "UTC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 965,
+			"eType": "WIKILINK",
+			"en": 976,
+			"entityName": "앤더슨_쿠퍼_360°",
+			"is_target": true,
+			"surface": "앤더슨_쿠퍼_360°",
+			"coref_index": 577,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "ORGANIZATION",
+			"st": 797,
+			"eType": "NEW",
+			"en": 800,
+			"entityName": "",
+			"is_target": true,
+			"surface": "CNN",
+			"coref_index": 587,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 829,
+			"eType": "NEW",
+			"en": 831,
+			"entityName": "",
+			"is_target": true,
+			"surface": "이적",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "TIME",
+			"st": 836,
+			"eType": "NEW",
+			"en": 841,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2001년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 842,
+			"eType": "NEW",
+			"en": 853,
+			"entityName": "",
+			"is_target": true,
+			"surface": "CNN_뉴스_프로그램",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ETC",
+			"st": 855,
+			"eType": "NEW",
+			"en": 857,
+			"entityName": "",
+			"is_target": true,
+			"surface": "담당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "TIME",
+			"st": 862,
+			"eType": "NEW",
+			"en": 867,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2002년",
+			"coref_index": 590,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ORGANIZATION",
+			"st": 870,
+			"eType": "NEW",
+			"en": 873,
+			"entityName": "",
+			"is_target": true,
+			"surface": "CNN",
+			"coref_index": 587,
+			"ancestor": "1-63"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "PERSON",
+			"st": 887,
+			"eType": "NEW",
+			"en": 889,
+			"entityName": "",
+			"is_target": true,
+			"surface": "앵커",
+			"coref_index": 588,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "TIME",
+			"st": 932,
+			"eType": "NEW",
+			"en": 943,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2003년_9월_8일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "ETC",
+			"st": 979,
+			"eType": "NEW",
+			"en": 981,
+			"entityName": "",
+			"is_target": true,
+			"surface": "진행",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 923,
+			"eType": "NEW",
+			"en": 925,
+			"entityName": "",
+			"is_target": true,
+			"surface": "담당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "TIME",
+			"st": 947,
+			"eType": "NEW",
+			"en": 957,
+			"entityName": "",
+			"is_target": false,
+			"surface": "매주_평일_밤_8시",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "ETC",
+			"st": 912,
+			"eType": "NEW",
+			"en": 921,
+			"entityName": "",
+			"is_target": true,
+			"surface": "새해_전야_스페셜",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "ETC",
+			"st": 874,
+			"eType": "NEW",
+			"en": 885,
+			"entityName": "",
+			"is_target": true,
+			"surface": "황금_시간대_프로그램",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "TIME",
+			"st": 813,
+			"eType": "NEW",
+			"en": 820,
+			"entityName": "",
+			"is_target": true,
+			"surface": "두_번째_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "ETC",
+			"st": 998,
+			"eType": "ELU",
+			"en": 1002,
+			"entityName": "남아시아",
+			"is_target": true,
+			"surface": "남아시아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 79,
+			"ne_type": "LOCATION",
+			"st": 1013,
+			"eType": "WIKILINK",
+			"en": 1017,
+			"entityName": "바그다드",
+			"is_target": true,
+			"surface": "바그다드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 80,
+			"ne_type": "LOCATION",
+			"st": 1038,
+			"eType": "WIKILINK",
+			"en": 1041,
+			"entityName": "레바논",
+			"is_target": true,
+			"surface": "레바논",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 81,
+			"ne_type": "LOCATION",
+			"st": 1043,
+			"eType": "WIKILINK",
+			"en": 1047,
+			"entityName": "베이루트",
+			"is_target": true,
+			"surface": "베이루트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ETC",
+			"st": 1050,
+			"eType": "WIKILINK",
+			"en": 1056,
+			"entityName": "백향목_혁명",
+			"is_target": true,
+			"surface": "백향목_혁명",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"id": 83,
+			"ne_type": "PERSON",
+			"st": 1064,
+			"eType": "WIKILINK",
+			"en": 1076,
+			"entityName": "교황_요한_바오로_2세",
+			"is_target": true,
+			"surface": "교황_요한_바오로_2세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "ETC",
+			"st": 1134,
+			"eType": "WIKILINK",
+			"en": 1143,
+			"entityName": "허리케인_카트리나",
+			"is_target": true,
+			"surface": "허리케인_카트리나",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Port",
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"Infrastructure",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 85,
+			"ne_type": "LOCATION",
+			"st": 1148,
+			"eType": "WIKILINK",
+			"en": 1153,
+			"entityName": "뉴올리언스",
+			"is_target": true,
+			"surface": "뉴올리언스",
+			"coref_index": 589,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Port",
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"Infrastructure",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 86,
+			"ne_type": "LOCATION",
+			"st": 1202,
+			"eType": "ELU",
+			"en": 1207,
+			"entityName": "뉴올리언스",
+			"is_target": true,
+			"surface": "뉴올리언스",
+			"coref_index": 589,
+			"ancestor": "1-85"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 1118,
+			"eType": "NEW",
+			"en": 1126,
+			"entityName": "",
+			"is_target": true,
+			"surface": "허리케인_데니스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "TIME",
+			"st": 988,
+			"eType": "NEW",
+			"en": 996,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2005년_1월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "PERSON",
+			"st": 1087,
+			"eType": "NEW",
+			"en": 1096,
+			"entityName": "",
+			"is_target": true,
+			"surface": "영국_찰스_왕세자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "TIME",
+			"st": 1029,
+			"eType": "NEW",
+			"en": 1031,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "TIME",
+			"st": 1033,
+			"eType": "NEW",
+			"en": 1035,
+			"entityName": "",
+			"is_target": false,
+			"surface": "3월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "TIME",
+			"st": 1059,
+			"eType": "NEW",
+			"en": 1061,
+			"entityName": "",
+			"is_target": false,
+			"surface": "4월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "TIME",
+			"st": 1129,
+			"eType": "NEW",
+			"en": 1131,
+			"entityName": "",
+			"is_target": false,
+			"surface": "9월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "TIME",
+			"st": 1113,
+			"eType": "NEW",
+			"en": 1115,
+			"entityName": "",
+			"is_target": false,
+			"surface": "7월",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "2043494,2043495,2043496,2043497,2043498,2043499,2043500,2043501,2043502,2043503,2043504,2043505,2043506,2043507,2043508,2043509,2043510,2043511,2043512,2043513,2043514,2043515,2043516,2043517,2043518,2043519,2043520",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-0",
+			"st": 60,
+			"en": 61,
+			"surface": "그",
+			"coref_index": 582
+		},
+		{
+			"id": 1,
+			"ancestor": "1-0",
+			"st": 506,
+			"en": 508,
+			"surface": "자신",
+			"coref_index": 582
+		},
+		{
+			"id": 2,
+			"en": 512,
+			"ancestor": "-1",
+			"st": 510,
+			"surface": "게이"
+		},
+		{
+			"id": 3,
+			"en": 574,
+			"ancestor": "-1",
+			"st": 571,
+			"surface": "그 후"
+		},
+		{
+			"id": 4,
+			"en": 710,
+			"ancestor": "-1",
+			"st": 707,
+			"surface": "그 후"
+		},
+		{
+			"id": 5,
+			"ancestor": "1-68",
+			"st": 896,
+			"en": 901,
+			"surface": "그 해부터",
+			"coref_index": 590
+		},
+		{
+			"id": 6,
+			"en": 1195,
+			"ancestor": "-1",
+			"st": 1190,
+			"surface": "그 후에도"
+		},
+		{
+			"id": 7,
+			"en": 1221,
+			"ancestor": "-1",
+			"st": 1190,
+			"surface": "그 후에도 지속적으로 뉴올리언스를 취재하고 부흥하는 모습"
+		}
+	],
+	"plainText": "앤더슨_쿠퍼(Anderson Cooper, 1967년_6월_3일 ~ )는 기자, 작가, 그리고 방송인이다. 그는 현재 CNN의 주요한 뉴스인 앤더슨_쿠퍼_360°의 앵커로 활동 중이다. 앤더슨_쿠퍼_360°은 보통 뉴욕의 스튜디오에서 촬영되지만, 속보를 위해 CNN_워싱턴_D.C_스튜디오나, 현장에서 촬영되기도 한다. 인물 작가_와이어트_에모리_쿠퍼와 예술가 겸 디자이너, 작가인_레지널드_클레이풀_밴더빌트의 딸_글로리아_밴더빌트의 차남으로 뉴욕에서 태어났다. 어머니는 코넬리어스_밴더빌트의 5세손이다. 아버지는 심장발작으로 1978년_1월_5일, 50세에 사망하였고, 형_카터는 1988년_7월_22일, 뉴욕에 있는 어머니의 팬트하우스_14층_베란다에서 뛰어내려 23세에 사망하였다. 1989년, 예일_대학교(정치학부)를 졸업하였고, 1990년대_초반, 처음으로 특파원으로서의 일을 시작한 후, 1년 간 기자 일을 그만두고 베트남에서 지내며 하노이_대학교에서 베트남어를 공부하였다. 2012년_7월, 자신이 게이라고 고백하였다. 경력 채널 원 예일_대학교 졸업 후, ABC에 신입 사원 채용에 지원했지만 불합격했다. 그 후 미국의 청소년을 위한 프로그램을 제작하는 채널 원에 입사하였고 6개월 후에 퇴직하였다. 1년 간의 베트남 생활 후 버마, 소말리아, 르완다 등 분쟁 지역에서 영상과 기사를 전달하였다. ABC 1995년, ABC_뉴스의 특파원이 되었다. 그 후 《ABC_월드_뉴스_나우》의 공동_앵커를 담당하였다. 2000년에는 ABC의 리얼리티 프로그램 《The_Mole》의 MC가 되며 사회자 일도 시작하였다. CNN 《The Mole》의 두_번째_시즌 후 CNN으로 이적하였다. 2001년 CNN_뉴스_프로그램을 담당한 후, 2002년부터 CNN 황금_시간대_프로그램의 앵커가 되었다. 그 해부터 타임스_스퀘어에서 새해_전야_스페셜을 담당하고 있다. 2003년_9월_8일부터는 매주_평일_밤_8시(UTC)에 《앤더슨_쿠퍼_360°》를 진행하고 있다. 2005년_1월, 남아시아 지진 해일 피해와 바그다드 선거를 취재하였다. 2월과 3월에는 레바논의 베이루트에서 백향목_혁명을, 4월에는 교황_요한_바오로_2세 서거 후의 모습과 영국_찰스_왕세자 부부의 결혼식을 취재하였다. 7월에는 허리케인_데니스를, 9월에는 허리케인_카트리나 이후의 뉴올리언스를 취재하였고, 상원 의원들에게 정부의 대응을 강하게 비판하였다. 그 후에도 지속적으로 뉴올리언스를 취재하고 부흥하는 모습을 전하고 있다. ",
+	"docID": "440576"
+}

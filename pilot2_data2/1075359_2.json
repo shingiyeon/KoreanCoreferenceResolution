@@ -1,0 +1,1775 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 90,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 91,
+			"en": 91,
+			"st_modified": 90
+		},
+		{
+			"st": 90,
+			"text": "그의 능력",
+			"is_pronoun": true,
+			"en_modified": 95,
+			"en": 95,
+			"st_modified": 90
+		},
+		{
+			"st": 128,
+			"text": "이 당시",
+			"is_pronoun": true,
+			"en_modified": 132,
+			"en": 132,
+			"st_modified": 128
+		},
+		{
+			"st": 128,
+			"text": "이 당시의 이탈리아 대표팀",
+			"is_pronoun": true,
+			"en_modified": 142,
+			"en": 142,
+			"st_modified": 128
+		},
+		{
+			"st": 292,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 293,
+			"en": 293,
+			"st_modified": 292
+		},
+		{
+			"st": 398,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 399,
+			"en": 399,
+			"st_modified": 398
+		},
+		{
+			"st": 398,
+			"text": "그의 선수 경력 최고",
+			"is_pronoun": true,
+			"en_modified": 409,
+			"en": 409,
+			"st_modified": 398
+		},
+		{
+			"st": 398,
+			"text": "그의 선수 경력 최고의 활약",
+			"is_pronoun": true,
+			"en_modified": 413,
+			"en": 413,
+			"st_modified": 398
+		},
+		{
+			"st": 440,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 441,
+			"en": 441,
+			"st_modified": 440
+		},
+		{
+			"st": 505,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 506,
+			"en": 506,
+			"st_modified": 505
+		},
+		{
+			"st": 536,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 537,
+			"en": 537,
+			"st_modified": 536
+		},
+		{
+			"st": 536,
+			"text": "그의 자리",
+			"is_pronoun": true,
+			"en_modified": 541,
+			"en": 541,
+			"st_modified": 536
+		},
+		{
+			"st": 555,
+			"text": "이 시기이후",
+			"is_pronoun": true,
+			"en_modified": 561,
+			"en": 561,
+			"st_modified": 555
+		},
+		{
+			"st": 623,
+			"text": "이들",
+			"is_pronoun": true,
+			"en_modified": 625,
+			"en": 625,
+			"st_modified": 623
+		},
+		{
+			"st": 627,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 628,
+			"en": 628,
+			"st_modified": 627
+		},
+		{
+			"st": 699,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 700,
+			"en": 700,
+			"st_modified": 699
+		},
+		{
+			"st": 699,
+			"text": "그의 모국",
+			"is_pronoun": true,
+			"en_modified": 704,
+			"en": 704,
+			"st_modified": 699
+		},
+		{
+			"st": 699,
+			"text": "그의 모국 밖에서",
+			"is_pronoun": true,
+			"en_modified": 708,
+			"en": 708,
+			"st_modified": 699
+		},
+		{
+			"st": 970,
+			"text": "한번",
+			"is_pronoun": true,
+			"en_modified": 972,
+			"en": 972,
+			"st_modified": 970
+		},
+		{
+			"st": 970,
+			"text": "한번의 승리",
+			"is_pronoun": true,
+			"en_modified": 976,
+			"en": 976,
+			"st_modified": 970
+		},
+		{
+			"st": 1106,
+			"text": "이 결과들",
+			"is_pronoun": true,
+			"en_modified": 1111,
+			"en": 1111,
+			"st_modified": 1106
+		},
+		{
+			"st": 1117,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1118,
+			"en": 1118,
+			"st_modified": 1117
+		},
+		{
+			"st": 1217,
+			"text": "브라질_국가대표팀 선수 지",
+			"is_pronoun": true,
+			"en_modified": 1231,
+			"en": 1231,
+			"st_modified": 1217
+		},
+		{
+			"st": 1431,
+			"text": "조별리그",
+			"is_pronoun": true,
+			"en_modified": 1435,
+			"en": 1435,
+			"st_modified": 1431
+		},
+		{
+			"st": 1431,
+			"text": "조별리그 바이에른_뮌헨과",
+			"is_pronoun": true,
+			"en_modified": 1444,
+			"en": 1444,
+			"st_modified": 1431
+		},
+		{
+			"st": 1431,
+			"text": "조별리그 바이에른_뮌헨과의 홈 경기",
+			"is_pronoun": true,
+			"en_modified": 1450,
+			"en": 1450,
+			"st_modified": 1431
+		}
+	],
+	"parID": "2",
+	"pronouns": [
+		{
+			"st": 90,
+			"ancestor": "2-26",
+			"surface": "그",
+			"en_modified": 91,
+			"en": 91,
+			"st_modified": 90,
+			"id": 0,
+			"coref_index": 7
+		},
+		{
+			"st": 90,
+			"ancestor": "-1",
+			"surface": "그의 능력이",
+			"en_modified": 96,
+			"en": 96,
+			"st_modified": 90,
+			"id": 1
+		},
+		{
+			"st": 128,
+			"ancestor": "-1",
+			"surface": "이 당시의",
+			"en_modified": 133,
+			"en": 133,
+			"st_modified": 128,
+			"id": 2
+		},
+		{
+			"st": 128,
+			"ancestor": "-1",
+			"surface": "이 당시의 이탈리아 대표팀은",
+			"en_modified": 143,
+			"en": 143,
+			"st_modified": 128,
+			"id": 3
+		},
+		{
+			"st": 292,
+			"ancestor": "2-26",
+			"surface": "그",
+			"en_modified": 293,
+			"en": 293,
+			"st_modified": 292,
+			"id": 4,
+			"coref_index": 7
+		},
+		{
+			"st": 398,
+			"ancestor": "2-16",
+			"surface": "그",
+			"en_modified": 399,
+			"en": 399,
+			"st_modified": 398,
+			"id": 5,
+			"coref_index": 7
+		},
+		{
+			"st": 398,
+			"ancestor": "-1",
+			"surface": "그의 선수 경력 최고의",
+			"en_modified": 410,
+			"en": 410,
+			"st_modified": 398,
+			"id": 6
+		},
+		{
+			"st": 398,
+			"ancestor": "-1",
+			"surface": "그의 선수 경력 최고의 활약을",
+			"en_modified": 414,
+			"en": 414,
+			"st_modified": 398,
+			"id": 7
+		},
+		{
+			"st": 440,
+			"ancestor": "2-16",
+			"surface": "그",
+			"en_modified": 441,
+			"en": 441,
+			"st_modified": 440,
+			"id": 8,
+			"coref_index": 7
+		},
+		{
+			"st": 505,
+			"ancestor": "2-16",
+			"surface": "그",
+			"en_modified": 506,
+			"en": 506,
+			"st_modified": 505,
+			"id": 9,
+			"coref_index": 7
+		},
+		{
+			"st": 536,
+			"ancestor": "2-16",
+			"surface": "그",
+			"en_modified": 537,
+			"en": 537,
+			"st_modified": 536,
+			"id": 10,
+			"coref_index": 7
+		},
+		{
+			"st": 536,
+			"ancestor": "-1",
+			"surface": "그의 자리는",
+			"en_modified": 542,
+			"en": 542,
+			"st_modified": 536,
+			"id": 11
+		},
+		{
+			"st": 555,
+			"ancestor": "2-15",
+			"surface": "이 시기이후로",
+			"en_modified": 562,
+			"en": 562,
+			"st_modified": 555,
+			"id": 12,
+			"coref_index": 18
+		},
+		{
+			"st": 623,
+			"ancestor": "-1",
+			"surface": "이들은",
+			"en_modified": 626,
+			"en": 626,
+			"st_modified": 623,
+			"id": 13
+		},
+		{
+			"st": 627,
+			"ancestor": "2-16",
+			"surface": "그",
+			"en_modified": 628,
+			"en": 628,
+			"st_modified": 627,
+			"id": 14,
+			"coref_index": 7
+		},
+		{
+			"st": 699,
+			"ancestor": "2-23",
+			"surface": "그",
+			"en_modified": 700,
+			"en": 700,
+			"st_modified": 699,
+			"id": 15,
+			"coref_index": 7
+		},
+		{
+			"st": 699,
+			"ancestor": "2-18",
+			"surface": "그의 모국",
+			"en_modified": 704,
+			"en": 704,
+			"st_modified": 699,
+			"id": 16,
+			"coref_index": 14
+		},
+		{
+			"st": 699,
+			"ancestor": "-1",
+			"surface": "그의 모국 밖에서는",
+			"en_modified": 709,
+			"en": 709,
+			"st_modified": 699,
+			"id": 17
+		},
+		{
+			"st": 970,
+			"ancestor": "-1",
+			"surface": "한번의",
+			"en_modified": 973,
+			"en": 973,
+			"st_modified": 970,
+			"id": 18
+		},
+		{
+			"st": 970,
+			"ancestor": "-1",
+			"surface": "한번의 승리를",
+			"en_modified": 977,
+			"en": 977,
+			"st_modified": 970,
+			"id": 19
+		},
+		{
+			"st": 1106,
+			"ancestor": "-1",
+			"surface": "이 결과들로",
+			"en_modified": 1112,
+			"en": 1112,
+			"st_modified": 1106,
+			"id": 20
+		},
+		{
+			"st": 1117,
+			"ancestor": "2-27",
+			"surface": "그",
+			"en_modified": 1118,
+			"en": 1118,
+			"st_modified": 1117,
+			"id": 21,
+			"coref_index": 7
+		},
+		{
+			"st": 1217,
+			"ancestor": "-1",
+			"surface": "브라질_국가대표팀 선수 지에구,",
+			"en_modified": 1234,
+			"en": 1234,
+			"st_modified": 1217,
+			"id": 22
+		},
+		{
+			"st": 1431,
+			"ancestor": "-1",
+			"surface": "조별리그",
+			"en_modified": 1435,
+			"en": 1435,
+			"st_modified": 1431,
+			"id": 23
+		},
+		{
+			"st": 1431,
+			"ancestor": "-1",
+			"surface": "조별리그 바이에른_뮌헨과의",
+			"en_modified": 1445,
+			"en": 1445,
+			"st_modified": 1431,
+			"id": 24
+		},
+		{
+			"st": 1431,
+			"ancestor": "-1",
+			"surface": "조별리그 바이에른_뮌헨과의 홈 경기",
+			"en_modified": 1450,
+			"en": 1450,
+			"st_modified": 1431,
+			"id": 25
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 19,
+			"st_modified": 6,
+			"coref_index": 10,
+			"entityName": "이탈리아_축구_국가대표팀",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 6,
+			"ancestor": "1-10",
+			"ne_type": "ORGANIZATION",
+			"surface": "이탈리아_축구_국가대표팀",
+			"is_target": true,
+			"en": 19,
+			"id": 0
+		},
+		{
+			"en_modified": 58,
+			"st_modified": 44,
+			"coref_index": 11,
+			"entityName": "1990년_FIFA_월드컵",
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 44,
+			"ancestor": "1-11",
+			"ne_type": "ETC",
+			"surface": "1990년_FIFA_월드컵",
+			"is_target": true,
+			"en": 58,
+			"id": 1
+		},
+		{
+			"en_modified": 67,
+			"entityName": "유로_2000",
+			"st_modified": 60,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 60,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "유로_2000",
+			"is_target": true,
+			"en": 67,
+			"id": 2
+		},
+		{
+			"en_modified": 138,
+			"st_modified": 134,
+			"coref_index": 14,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 134,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 138,
+			"id": 3
+		},
+		{
+			"en_modified": 151,
+			"entityName": "프랑코_바레시",
+			"st_modified": 144,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 144,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프랑코_바레시",
+			"is_target": true,
+			"en": 151,
+			"id": 4
+		},
+		{
+			"en_modified": 165,
+			"entityName": "알레산드로_코스타쿠르타",
+			"st_modified": 153,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 153,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "알레산드로_코스타쿠르타",
+			"is_target": true,
+			"en": 165,
+			"id": 5
+		},
+		{
+			"en_modified": 174,
+			"entityName": "마우로_타소티",
+			"st_modified": 167,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 167,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마우로_타소티",
+			"is_target": true,
+			"en": 174,
+			"id": 6
+		},
+		{
+			"en_modified": 187,
+			"entityName": "피에트로_비에르코보드",
+			"st_modified": 176,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 176,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "피에트로_비에르코보드",
+			"is_target": true,
+			"en": 187,
+			"id": 7
+		},
+		{
+			"en_modified": 196,
+			"entityName": "리카르도_페리",
+			"st_modified": 189,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 189,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "리카르도_페리",
+			"is_target": true,
+			"en": 196,
+			"id": 8
+		},
+		{
+			"en_modified": 206,
+			"entityName": "주세페_베르고미",
+			"st_modified": 198,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 198,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "주세페_베르고미",
+			"is_target": true,
+			"en": 206,
+			"id": 9
+		},
+		{
+			"en_modified": 215,
+			"st_modified": 208,
+			"coref_index": 12,
+			"entityName": "잔루카_페소토",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 208,
+			"ancestor": "1-36",
+			"ne_type": "PERSON",
+			"surface": "잔루카_페소토",
+			"is_target": true,
+			"en": 215,
+			"id": 10
+		},
+		{
+			"en_modified": 224,
+			"entityName": "파올로_말디니",
+			"st_modified": 217,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 217,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "파올로_말디니",
+			"is_target": true,
+			"en": 224,
+			"id": 11
+		},
+		{
+			"en_modified": 249,
+			"st_modified": 241,
+			"coref_index": 13,
+			"entityName": "파비오_칸나바로",
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 241,
+			"ancestor": "1-42",
+			"ne_type": "PERSON",
+			"surface": "파비오_칸나바로",
+			"is_target": true,
+			"en": 249,
+			"id": 12
+		},
+		{
+			"en_modified": 260,
+			"st_modified": 251,
+			"coref_index": 15,
+			"entityName": "알레산드로_네스타",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 251,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "알레산드로_네스타",
+			"is_target": true,
+			"en": 260,
+			"id": 13
+		},
+		{
+			"en_modified": 322,
+			"entityName": "프랑스",
+			"st_modified": 319,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 319,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 322,
+			"id": 14
+		},
+		{
+			"en_modified": 343,
+			"st_modified": 329,
+			"coref_index": 18,
+			"entityName": "1998년_FIFA_월드컵",
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 329,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1998년_FIFA_월드컵",
+			"is_target": true,
+			"en": 343,
+			"id": 15
+		},
+		{
+			"en_modified": 374,
+			"st_modified": 371,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 371,
+			"ancestor": "1-7",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 374,
+			"id": 16
+		},
+		{
+			"en_modified": 380,
+			"st_modified": 376,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 376,
+			"ancestor": "1-32",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 380,
+			"id": 17
+		},
+		{
+			"en_modified": 447,
+			"st_modified": 443,
+			"coref_index": 14,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 443,
+			"ancestor": "2-3",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 447,
+			"id": 18
+		},
+		{
+			"en_modified": 546,
+			"st_modified": 543,
+			"coref_index": 15,
+			"entityName": "알레산드로_네스타",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 543,
+			"ancestor": "2-13",
+			"ne_type": "PERSON",
+			"surface": "네스타",
+			"is_target": true,
+			"en": 546,
+			"id": 19
+		},
+		{
+			"en_modified": 566,
+			"st_modified": 563,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 563,
+			"ancestor": "2-16",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 566,
+			"id": 20
+		},
+		{
+			"en_modified": 579,
+			"st_modified": 575,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 575,
+			"ancestor": "2-17",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 579,
+			"id": 21
+		},
+		{
+			"en_modified": 605,
+			"st_modified": 601,
+			"coref_index": 13,
+			"entityName": "파비오_칸나바로",
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "ELU",
+			"st": 601,
+			"ancestor": "2-12",
+			"ne_type": "PERSON",
+			"surface": "칸나바로",
+			"is_target": true,
+			"en": 605,
+			"id": 22
+		},
+		{
+			"en_modified": 697,
+			"st_modified": 694,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 694,
+			"ancestor": "2-20",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 697,
+			"id": 23
+		},
+		{
+			"en_modified": 727,
+			"st_modified": 723,
+			"coref_index": 14,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 723,
+			"ancestor": "2-18",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 727,
+			"id": 24
+		},
+		{
+			"en_modified": 746,
+			"st_modified": 742,
+			"coref_index": 14,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 742,
+			"ancestor": "2-18",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 746,
+			"id": 25
+		},
+		{
+			"en_modified": 29,
+			"st_modified": 23,
+			"coref_index": 7,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 23,
+			"ancestor": "1-52",
+			"ne_type": "PERSON",
+			"surface": "치로_페라라",
+			"is_target": true,
+			"en": 29,
+			"id": 26
+		},
+		{
+			"en_modified": 791,
+			"st_modified": 788,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 788,
+			"ancestor": "1-7",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 791,
+			"id": 27
+		},
+		{
+			"en_modified": 807,
+			"st_modified": 793,
+			"coref_index": 16,
+			"entityName": "2006년_FIFA_월드컵",
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 793,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2006년_FIFA_월드컵",
+			"is_target": true,
+			"en": 807,
+			"id": 28
+		},
+		{
+			"en_modified": 852,
+			"st_modified": 849,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 849,
+			"ancestor": "2-27",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 852,
+			"id": 29
+		},
+		{
+			"en_modified": 868,
+			"st_modified": 861,
+			"coref_index": 12,
+			"entityName": "잔루카_페소토",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 861,
+			"ancestor": "2-10",
+			"ne_type": "PERSON",
+			"surface": "잔루카_페소토",
+			"is_target": true,
+			"en": 868,
+			"id": 30
+		},
+		{
+			"en_modified": 882,
+			"st_modified": 878,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 878,
+			"ancestor": "2-17",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 882,
+			"id": 31
+		},
+		{
+			"en_modified": 914,
+			"st_modified": 911,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 911,
+			"ancestor": "2-29",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 914,
+			"id": 32
+		},
+		{
+			"en_modified": 919,
+			"entityName": "피렌체",
+			"st_modified": 916,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 916,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "피렌체",
+			"is_target": true,
+			"en": 919,
+			"id": 33
+		},
+		{
+			"en_modified": 925,
+			"entityName": "코베르차노",
+			"st_modified": 920,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 920,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "코베르차노",
+			"is_target": true,
+			"en": 925,
+			"id": 34
+		},
+		{
+			"en_modified": 940,
+			"entityName": "UEFA_프로_라이센스",
+			"st_modified": 928,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 928,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_프로_라이센스",
+			"is_target": true,
+			"en": 940,
+			"id": 35
+		},
+		{
+			"en_modified": 995,
+			"entityName": "클라우디오_라니에리",
+			"st_modified": 985,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 985,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "클라우디오_라니에리",
+			"is_target": true,
+			"en": 995,
+			"id": 36
+		},
+		{
+			"en_modified": 1019,
+			"st_modified": 1016,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1016,
+			"ancestor": "2-32",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 1019,
+			"id": 37
+		},
+		{
+			"en_modified": 1060,
+			"entityName": "AC_시에나",
+			"st_modified": 1057,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1057,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "시에나",
+			"is_target": true,
+			"en": 1060,
+			"id": 38
+		},
+		{
+			"en_modified": 1065,
+			"entityName": "SS_라치오",
+			"st_modified": 1062,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1062,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "라치오",
+			"is_target": true,
+			"en": 1065,
+			"id": 39
+		},
+		{
+			"en_modified": 1091,
+			"entityName": "AC_밀란",
+			"st_modified": 1089,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1089,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "밀란",
+			"is_target": true,
+			"en": 1091,
+			"id": 40
+		},
+		{
+			"en_modified": 1164,
+			"st_modified": 1160,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 1160,
+			"ancestor": "2-31",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 1164,
+			"id": 41
+		},
+		{
+			"en_modified": 1169,
+			"st_modified": 1166,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1166,
+			"ancestor": "2-32",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 1169,
+			"id": 42
+		},
+		{
+			"en_modified": 840,
+			"st_modified": 831,
+			"coref_index": 16,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 831,
+			"ancestor": "2-28",
+			"ne_type": "EVENT",
+			"surface": "2006년_월드컵",
+			"is_target": true,
+			"en": 840,
+			"id": 43
+		},
+		{
+			"en_modified": 909,
+			"entityName": "",
+			"st_modified": 901,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 901,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년_7월",
+			"is_target": false,
+			"en": 909,
+			"id": 44
+		},
+		{
+			"en_modified": 1014,
+			"entityName": "",
+			"st_modified": 1002,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1002,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_5월_18일",
+			"is_target": false,
+			"en": 1014,
+			"id": 45
+		},
+		{
+			"en_modified": 1158,
+			"entityName": "",
+			"st_modified": 1147,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1147,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_6월_5일",
+			"is_target": false,
+			"en": 1158,
+			"id": 46
+		},
+		{
+			"en_modified": 1205,
+			"st_modified": 1201,
+			"coref_index": 5,
+			"entityName": "유벤투스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 1201,
+			"ancestor": "1-4",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 1205,
+			"id": 47
+		},
+		{
+			"en_modified": 1233,
+			"entityName": "지에구_히바스_다_쿠냐",
+			"st_modified": 1230,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1230,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "지에구",
+			"is_target": true,
+			"en": 1233,
+			"id": 48
+		},
+		{
+			"en_modified": 1241,
+			"entityName": "펠리피_멜루",
+			"st_modified": 1235,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1235,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "펠리피_멜루",
+			"is_target": true,
+			"en": 1241,
+			"id": 49
+		},
+		{
+			"en_modified": 1260,
+			"st_modified": 1246,
+			"coref_index": 16,
+			"entityName": "2006년_FIFA_월드컵",
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1246,
+			"ancestor": "2-43",
+			"ne_type": "ETC",
+			"surface": "2006년_FIFA_월드컵",
+			"is_target": true,
+			"en": 1260,
+			"id": 50
+		},
+		{
+			"en_modified": 1276,
+			"st_modified": 1268,
+			"coref_index": 13,
+			"entityName": "파비오_칸나바로",
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 1268,
+			"ancestor": "2-12",
+			"ne_type": "PERSON",
+			"surface": "파비오_칸나바로",
+			"is_target": true,
+			"en": 1276,
+			"id": 51
+		},
+		{
+			"en_modified": 1285,
+			"entityName": "파비오_그로소",
+			"st_modified": 1278,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1278,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "파비오_그로소",
+			"is_target": true,
+			"en": 1285,
+			"id": 52
+		},
+		{
+			"en_modified": 1320,
+			"entityName": "마르틴_카세레스",
+			"st_modified": 1312,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1312,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마르틴_카세레스",
+			"is_target": true,
+			"en": 1320,
+			"id": 53
+		},
+		{
+			"en_modified": 1367,
+			"st_modified": 1364,
+			"coref_index": 7,
+			"entityName": "페라라",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1364,
+			"ancestor": "2-29",
+			"ne_type": "LOCATION",
+			"surface": "페라라",
+			"is_target": true,
+			"en": 1367,
+			"id": 54
+		},
+		{
+			"en_modified": 1430,
+			"entityName": "UEFA_챔피언스리그_2009-10",
+			"st_modified": 1411,
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1411,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_챔피언스리그_2009-10",
+			"is_target": true,
+			"en": 1430,
+			"id": 55
+		},
+		{
+			"en_modified": 1443,
+			"entityName": "FC_바이에른_뮌헨",
+			"st_modified": 1436,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1436,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "바이에른_뮌헨",
+			"is_target": true,
+			"en": 1443,
+			"id": 56
+		},
+		{
+			"en_modified": 1498,
+			"entityName": "데르비_디탈리아",
+			"st_modified": 1490,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1490,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "데르비_디탈리아",
+			"is_target": true,
+			"en": 1498,
+			"id": 57
+		},
+		{
+			"en_modified": 1512,
+			"entityName": "FC_인테르나치오날레_밀라노",
+			"st_modified": 1504,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1504,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "인테르나치오날레",
+			"is_target": true,
+			"en": 1512,
+			"id": 58
+		},
+		{
+			"en_modified": 1557,
+			"entityName": "시칠리아",
+			"st_modified": 1553,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"AdministrativeRegion",
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 1553,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "시칠리아",
+			"is_target": true,
+			"en": 1557,
+			"id": 59
+		},
+		{
+			"en_modified": 1570,
+			"entityName": "칼초_카타니아",
+			"st_modified": 1566,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1566,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "카타니아",
+			"is_target": true,
+			"en": 1570,
+			"id": 60
+		},
+		{
+			"en_modified": 1582,
+			"entityName": "AS_바리",
+			"st_modified": 1580,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1580,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "바리",
+			"is_target": true,
+			"en": 1582,
+			"id": 61
+		},
+		{
+			"en_modified": 1226,
+			"entityName": "",
+			"st_modified": 1217,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1217,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "브라질_국가대표팀",
+			"is_target": true,
+			"en": 1226,
+			"id": 62
+		},
+		{
+			"en_modified": 1308,
+			"entityName": "",
+			"st_modified": 1298,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1298,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "우루과이_국가대표팀",
+			"is_target": true,
+			"en": 1308,
+			"id": 63
+		},
+		{
+			"en_modified": 1385,
+			"entityName": "",
+			"st_modified": 1377,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1377,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "조별_리그_예선",
+			"is_target": true,
+			"en": 1385,
+			"id": 64
+		},
+		{
+			"en_modified": 1530,
+			"st_modified": 1528,
+			"coref_index": 5,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1528,
+			"ancestor": "2-66",
+			"ne_type": "ORGANIZATION",
+			"surface": "유베",
+			"is_target": true,
+			"en": 1530,
+			"id": 65
+		},
+		{
+			"en_modified": 1375,
+			"st_modified": 1373,
+			"coref_index": 5,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1373,
+			"ancestor": "1-31",
+			"ne_type": "ORGANIZATION",
+			"surface": "유베",
+			"is_target": true,
+			"en": 1375,
+			"id": 66
+		}
+	],
+	"globalSID": "3286113,3286114,3286115,3286116,3286117,3286118,3286119,3286120,3286121,3286122,3286123,3286124,3286125,3286126,3286127,3286128,3286129,3286130,3286131,3286132,3286133,3286134,3286135,3286136",
+	"plainText": "국가대표팀 이탈리아_축구_국가대표팀에서, 치로_페라라는 49경기에 출전하였고, 1990년_FIFA_월드컵과 유로_2000 같은 굵직한 대회에 참가하기도 하였다. 그의 능력이 탁월하였음에도, 국가대표팀에서는 많은 출전은 못하였다. 이 당시의 이탈리아 대표팀은 프랑코_바레시, 알레산드로_코스타쿠르타, 마우로_타소티, 피에트로_비에르코보드, 리카르도_페리, 주세페_베르고미, 잔루카_페소토, 파올로_말디니 그리고 이후에 슈퍼 스타들인 파비오_칸나바로, 알레산드로_네스타 같은 최고 수준의 수비수들의 과잉을 겪고 있었다. 또한 그는 예기치 못한 부상으로 불운을 겪었다. 특히 프랑스에서 열렸던 1998년_FIFA_월드컵 선수단을 구성할 때는 더욱 그랬다. 31살이였던 페라라는 유벤투스에서 최고의 세 시즌을 보내며, 그의 선수 경력 최고의 활약을 보였다. 96–97 시즌과 97–98 시즌에 그는 이탈리아내에서 최고의 선수라고 할 수 있었고, 대표팀에서도 주전 선수이기도 하였다. 월드컵 시작을 몇주 앞두고 그는 심각한 부상을 입었고 대회 출전을 놓치고 말았다. 그의 자리는 네스타가 대체하였다. 이 시기이후로 페라라는 대표팀(또한 유벤투스에서도)에서 후보 선수가 되었고, 반면 칸나바로는 최고의 활약을 펼쳤다. 많은 이들은 그가 만약 부상을 입지않았더라면 98년 프랑스 월드컵에서 최고의 스타 선수중 하나가 됐을거라고 믿는다. 지금 이시기에는 페라라가 그의 모국 밖에서는 잘 알려지진 않았지만, 이탈리아내에서는 아직까지도 수많은 이탈리아의 월드 클래스 선수들중에서 최고의 선수로 여겨지고 있다. 감독 경력 치로 페라라는 2006년_FIFA_월드컵에서 이탈리아 대표팀 기술진 중 일부였다. 2006년_월드컵을 우승한후에, 페라라는 과거 팀동료 잔루카_페소토의 코치로서 함께 유벤투스의 유스팀 코치진으로 합류하였다. 2008년_7월에 페라라는 피렌체 코베르차노에서 UEFA_프로_라이센스를 취득하였다. 2008-09 시즌에 7 경기에서 단 한번의 승리를 거두지 못한 클라우디오_라니에리를 경질하고 2009년_5월_18일에 페라라를 남은 두 주를 맡을 감독 대행으로 선임하였다. 남은 두 경기에서 시에나, 라치오를 각각 3-0, 2-0으로 이기고 라이벌 밀란을 제치고 2위에 올랐다. 이 결과들로 인하여 그는 다음 시즌 팀을 맡을 감독 후보로서 부상하였다. 2009년_6월_5일, 유벤투스는 페라라를 2009-10 시즌을 맡을 정식 감독으로 선임하였다. 유벤투스는 여름 이적시장에서 브라질_국가대표팀 선수 지에구, 펠리피_멜루 그리고 2006년_FIFA_월드컵 우승멤버였던 파비오_칸나바로, 파비오_그로소, 임대 계약으로 젊은 우루과이_국가대표팀 선수 마르틴_카세레스를 영입하는등 막대한 투자를 하였다. 리그 초반 경기 4 경기를 승리한 이후, 페라라의 행운은 유베가 조별_리그_예선 통과를 위하여 무승부를 거둬야한다고 점쳐뒀던 UEFA_챔피언스리그_2009-10 조별리그 바이에른_뮌헨과의 홈 경기에서 1-4 패배를 하였고 결국 조별 예선에서 탈락하고 말았다. 반면에 데르비_디탈리아의 라이벌 인테르나치오날레에게서는 승리를 거두었지만, 유베는 겨울이 지난후 힘을 잃어버렸고, 특히 시칠리아를 연고로 하는 카타니아와 최근에 승격한 바리 같은 약팀들에게 덜미를 잡혔다. ",
+	"docID": "1075359",
+	"ModifiedText": "국가대표팀 이탈리아 축구 국가대표팀에서, 치로 페라라는 49경기에 출전하였고, 1990년 FIFA 월드컵과 유로 2000 같은 굵직한 대회에 참가하기도 하였다. 그의 능력이 탁월하였음에도, 국가대표팀에서는 많은 출전은 못하였다. 이 당시의 이탈리아 대표팀은 프랑코 바레시, 알레산드로 코스타쿠르타, 마우로 타소티, 피에트로 비에르코보드, 리카르도 페리, 주세페 베르고미, 잔루카 페소토, 파올로 말디니 그리고 이후에 슈퍼 스타들인 파비오 칸나바로, 알레산드로 네스타 같은 최고 수준의 수비수들의 과잉을 겪고 있었다. 또한 그는 예기치 못한 부상으로 불운을 겪었다. 특히 프랑스에서 열렸던 1998년 FIFA 월드컵 선수단을 구성할 때는 더욱 그랬다. 31살이였던 페라라는 유벤투스에서 최고의 세 시즌을 보내며, 그의 선수 경력 최고의 활약을 보였다. 96–97 시즌과 97–98 시즌에 그는 이탈리아내에서 최고의 선수라고 할 수 있었고, 대표팀에서도 주전 선수이기도 하였다. 월드컵 시작을 몇주 앞두고 그는 심각한 부상을 입었고 대회 출전을 놓치고 말았다. 그의 자리는 네스타가 대체하였다. 이 시기이후로 페라라는 대표팀(또한 유벤투스에서도)에서 후보 선수가 되었고, 반면 칸나바로는 최고의 활약을 펼쳤다. 많은 이들은 그가 만약 부상을 입지않았더라면 98년 프랑스 월드컵에서 최고의 스타 선수중 하나가 됐을거라고 믿는다. 지금 이시기에는 페라라가 그의 모국 밖에서는 잘 알려지진 않았지만, 이탈리아내에서는 아직까지도 수많은 이탈리아의 월드 클래스 선수들중에서 최고의 선수로 여겨지고 있다. 감독 경력 치로 페라라는 2006년 FIFA 월드컵에서 이탈리아 대표팀 기술진 중 일부였다. 2006년 월드컵을 우승한후에, 페라라는 과거 팀동료 잔루카 페소토의 코치로서 함께 유벤투스의 유스팀 코치진으로 합류하였다. 2008년 7월에 페라라는 피렌체 코베르차노에서 UEFA 프로 라이센스를 취득하였다. 2008-09 시즌에 7 경기에서 단 한번의 승리를 거두지 못한 클라우디오 라니에리를 경질하고 2009년 5월 18일에 페라라를 남은 두 주를 맡을 감독 대행으로 선임하였다. 남은 두 경기에서 시에나, 라치오를 각각 3-0, 2-0으로 이기고 라이벌 밀란을 제치고 2위에 올랐다. 이 결과들로 인하여 그는 다음 시즌 팀을 맡을 감독 후보로서 부상하였다. 2009년 6월 5일, 유벤투스는 페라라를 2009-10 시즌을 맡을 정식 감독으로 선임하였다. 유벤투스는 여름 이적시장에서 브라질 국가대표팀 선수 지에구, 펠리피 멜루 그리고 2006년 FIFA 월드컵 우승멤버였던 파비오 칸나바로, 파비오 그로소, 임대 계약으로 젊은 우루과이 국가대표팀 선수 마르틴 카세레스를 영입하는등 막대한 투자를 하였다. 리그 초반 경기 4 경기를 승리한 이후, 페라라의 행운은 유베가 조별 리그 예선 통과를 위하여 무승부를 거둬야한다고 점쳐뒀던 UEFA 챔피언스리그 2009-10 조별리그 바이에른 뮌헨과의 홈 경기에서 1-4 패배를 하였고 결국 조별 예선에서 탈락하고 말았다. 반면에 데르비 디탈리아의 라이벌 인테르나치오날레에게서는 승리를 거두었지만, 유베는 겨울이 지난후 힘을 잃어버렸고, 특히 시칠리아를 연고로 하는 카타니아와 최근에 승격한 바리 같은 약팀들에게 덜미를 잡혔다. "
+}

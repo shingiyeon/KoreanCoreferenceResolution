@@ -1,0 +1,51 @@
+{
+	"docID": "667122",
+	"globalSID": "2534506,2534507",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "-1",
+			"surface": "개헌절차",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "헌법개정",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "헌법_제98조",
+			"entityName": ""
+		}
+	],
+	"plainText": "개헌절차 헌법개정시 헌법_제98조에 따른다."
+}

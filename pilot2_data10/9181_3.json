@@ -1,0 +1,462 @@
+{
+	"docID": "9181",
+	"globalSID": "139678,139679,139680,139681,139682",
+	"pronouns": [
+		{
+			"st": 75,
+			"coref_index": 1137,
+			"id": 0,
+			"en": 76,
+			"ancestor": "3-2",
+			"surface": "그"
+		},
+		{
+			"st": 114,
+			"coref_index": 1126,
+			"id": 1,
+			"en": 116,
+			"ancestor": "3-4",
+			"surface": "그곳"
+		},
+		{
+			"st": 114,
+			"coref_index": 1137,
+			"id": 2,
+			"en": 125,
+			"ancestor": "3-2",
+			"surface": "그곳의 유럽인 발견자"
+		},
+		{
+			"st": 114,
+			"coref_index": 1137,
+			"id": 3,
+			"en": 129,
+			"ancestor": "3-2",
+			"surface": "그곳의 유럽인 발견자의 이름"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "인도",
+			"entityName": "인도"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 22,
+			"ancestor": "-1",
+			"coref_index": 1127,
+			"surface": "포르투갈",
+			"entityName": "포르투갈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"coref_index": 1137,
+			"surface": "페르낭_두_포",
+			"entityName": "페르낭_두_포"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 56,
+			"ancestor": "",
+			"surface": "1472년",
+			"entityName": "1472년"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 62,
+			"ancestor": "2-5",
+			"coref_index": 1126,
+			"surface": "비오코_섬",
+			"entityName": "비오코_섬"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"surface": "포르모사",
+			"entityName": "포르모자"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 174,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 179,
+			"ancestor": "",
+			"surface": "1474년",
+			"entityName": "1474년"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 180,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 184,
+			"ancestor": "3-1",
+			"coref_index": 1127,
+			"surface": "포르투갈",
+			"entityName": "포르투갈"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 198,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 203,
+			"ancestor": "",
+			"surface": "1778년",
+			"entityName": "1778년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 215,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 220,
+			"ancestor": "-1",
+			"surface": "니제르_강",
+			"entityName": "니제르_강"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 222,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 227,
+			"ancestor": "-1",
+			"surface": "오고에_강",
+			"entityName": "오고에_강"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 243,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 251,
+			"ancestor": "-1",
+			"surface": "엘_파르도_조약",
+			"entityName": "엘_파르도_조약"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 256,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 259,
+			"ancestor": "2-7",
+			"coref_index": 1128,
+			"surface": "스페인",
+			"entityName": "스페인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "-1",
+			"surface": "경로",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "역사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "탐험가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "발견",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 83,
+			"ancestor": "-1",
+			"surface": "아름다움",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 118,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "LOCATION",
+			"en": 120,
+			"ancestor": "-1",
+			"surface": "유럽",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 122,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "PERSON",
+			"en": 125,
+			"ancestor": "-1",
+			"surface": "발견자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "이름",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "LOCATION",
+			"en": 172,
+			"ancestor": "2-6",
+			"coref_index": 1124,
+			"surface": "안노본(Annob?n)_섬",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 186,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "LOCATION",
+			"en": 189,
+			"ancestor": "-1",
+			"surface": "식민지",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 191,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "ETC",
+			"en": 193,
+			"ancestor": "-1",
+			"surface": "개척",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 208,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "LOCATION",
+			"en": 212,
+			"ancestor": "-1",
+			"surface": "작은_섬",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 262,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 25,
+			"ne_type": "ETC",
+			"en": 264,
+			"ancestor": "-1",
+			"surface": "양도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 235,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "ETC",
+			"en": 241,
+			"ancestor": "-1",
+			"surface": "상업적_권리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "LOCATION",
+			"en": 143,
+			"ancestor": "-1",
+			"coref_index": 1130,
+			"surface": "페르난도_포",
+			"entityName": ""
+		}
+	],
+	"plainText": "역사 인도에 가는 경로를 찾던, 포르투갈의 탐험가 페르낭_두_포(Fern?o do P?)가 1472년 비오코_섬을 최초로 발견하였다. 그는 “아름다움”을 뜻하는 포르모사(Formosa)로 불렀지만, 이내 그곳의 유럽인 발견자의 이름을 따라간다. 페르난도_포(Fernando P?)와 안노본(Annob?n)_섬은 1474년 포르투갈이 식민지로 개척하였다. 1778년 근접한 작은_섬들과 니제르_강과 오고에_강 사이 본토의 상업적_권리가 엘_파르도_조약에 따라 스페인에게 양도되었다."
+}

@@ -1,0 +1,69 @@
+{
+	"docID": "50688",
+	"globalSID": "470727,470728",
+	"pronouns": [
+		{
+			"en": 23,
+			"ancestor": "-1",
+			"surface": "이 새로운 국가 절대주의를",
+			"id": 0,
+			"st": 9
+		},
+		{
+			"st": 32,
+			"coref_index": 635,
+			"id": 1,
+			"en": 33,
+			"ancestor": "5-0",
+			"surface": "이"
+		},
+		{
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "이를 주도한 내무대신 바흐(bach, A, 1813~1893)의",
+			"id": 2,
+			"st": 32
+		},
+		{
+			"en": 71,
+			"ancestor": "-1",
+			"surface": "이를 주도한 내무대신 바흐(bach, A, 1813~1893)의 이름을",
+			"id": 3,
+			"st": 32
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "-1",
+			"coref_index": 635,
+			"surface": "절대주의",
+			"entityName": "절대주의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 82,
+			"ancestor": "5-0",
+			"coref_index": 635,
+			"surface": "절대주의",
+			"entityName": "절대주의"
+		}
+	],
+	"plainText": "교황과 정교협약 이 새로운 국가 절대주의를 후세 사람들은 이를 주도한 내무대신 바흐(bach, A, 1813~1893)의 이름을 따서 바흐 절대주의라고 부르게 되었다."
+}

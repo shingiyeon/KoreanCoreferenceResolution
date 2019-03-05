@@ -1,0 +1,1479 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "우치무라_간조",
+			"en": 7,
+			"is_target": true,
+			"surface": "우치무라_간조",
+			"coref_index": 1009,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 40,
+			"eType": "WIKILINK",
+			"entityName": "일본",
+			"en": 42,
+			"is_target": true,
+			"surface": "일본",
+			"coref_index": 1003,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 44,
+			"eType": "WIKILINK",
+			"entityName": "개신교",
+			"en": 47,
+			"is_target": true,
+			"surface": "개신교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 48,
+			"eType": "ELU",
+			"entityName": "생각",
+			"en": 51,
+			"is_target": true,
+			"surface": "사상가",
+			"coref_index": 1005,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 60,
+			"eType": "WIKILINK",
+			"entityName": "기독교",
+			"en": 63,
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1004,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 69,
+			"eType": "WIKILINK",
+			"entityName": "일본인",
+			"en": 72,
+			"is_target": true,
+			"surface": "일본인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 82,
+			"eType": "WIKILINK",
+			"entityName": "하나님",
+			"en": 85,
+			"is_target": true,
+			"surface": "하나님",
+			"coref_index": 1012,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 94,
+			"eType": "WIKILINK",
+			"entityName": "일본",
+			"en": 96,
+			"is_target": true,
+			"surface": "일본",
+			"coref_index": 1003,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "TIME",
+			"st": 10,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 22,
+			"is_target": false,
+			"surface": "1861년_3월_26일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 99,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 102,
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1004,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 110,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 113,
+			"is_target": true,
+			"surface": "사상가",
+			"coref_index": 1005,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "TIME",
+			"st": 25,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 37,
+			"is_target": false,
+			"surface": "1930년_3월_28일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 125,
+			"eType": "WIKILINK",
+			"entityName": "미국",
+			"en": 127,
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 1006,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 133,
+			"eType": "ELU",
+			"entityName": "아서_C._클라크",
+			"en": 136,
+			"is_target": true,
+			"surface": "클라크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 141,
+			"eType": "WIKILINK",
+			"entityName": "삿포로농과대학교",
+			"en": 149,
+			"is_target": true,
+			"surface": "삿포로농과대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 165,
+			"eType": "WIKILINK",
+			"entityName": "기독교인",
+			"en": 169,
+			"is_target": true,
+			"surface": "기독교인",
+			"coref_index": 1008,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 216,
+			"eType": "WIKILINK",
+			"entityName": "성직자",
+			"en": 219,
+			"is_target": true,
+			"surface": "성직자",
+			"coref_index": 1007,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 128,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 131,
+			"is_target": true,
+			"surface": "농학자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "EVENT",
+			"st": 203,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 207,
+			"is_target": true,
+			"surface": "신앙생활",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 221,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 224,
+			"is_target": true,
+			"surface": "평신도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 259,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 271,
+			"is_target": true,
+			"surface": "우치무라의_기독교_사상",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 282,
+			"eType": "WIKILINK",
+			"entityName": "대학교",
+			"en": 285,
+			"is_target": true,
+			"surface": "대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 291,
+			"eType": "WIKILINK",
+			"entityName": "1882년",
+			"en": 296,
+			"is_target": false,
+			"surface": "1882년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 308,
+			"eType": "WIKILINK",
+			"entityName": "삿포로_독립교회",
+			"en": 316,
+			"is_target": true,
+			"surface": "삿포로_독립교회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 325,
+			"eType": "WIKILINK",
+			"entityName": "교회",
+			"en": 327,
+			"is_target": true,
+			"surface": "교회",
+			"coref_index": 1015,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 297,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 306,
+			"is_target": true,
+			"surface": "우치무라와_친구들",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 354,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 361,
+			"is_target": true,
+			"surface": "5명의_위원들",
+			"coref_index": 1017,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "PERSON",
+			"st": 427,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 433,
+			"is_target": true,
+			"surface": "교회의_회원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 28,
+			"ne_type": "TIME",
+			"st": 458,
+			"eType": "WIKILINK",
+			"entityName": "1884년",
+			"en": 463,
+			"is_target": false,
+			"surface": "1884년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 29,
+			"ne_type": "LOCATION",
+			"st": 464,
+			"eType": "WIKILINK",
+			"entityName": "미국",
+			"en": 466,
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 1006,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 476,
+			"eType": "WIKILINK",
+			"entityName": "앰허스트대학교",
+			"en": 483,
+			"is_target": true,
+			"surface": "앰허스트대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 527,
+			"eType": "WIKILINK",
+			"entityName": "하드포드신학교",
+			"en": 534,
+			"is_target": true,
+			"surface": "하드포드신학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 541,
+			"eType": "WIKILINK",
+			"entityName": "신학",
+			"en": 543,
+			"is_target": true,
+			"surface": "신학",
+			"coref_index": 1011,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 569,
+			"eType": "WIKILINK",
+			"entityName": "성직자",
+			"en": 572,
+			"is_target": true,
+			"surface": "성직자",
+			"coref_index": 1007,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"id": 34,
+			"ne_type": "TIME",
+			"st": 583,
+			"eType": "WIKILINK",
+			"entityName": "1888년",
+			"en": 588,
+			"is_target": false,
+			"surface": "1888년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 35,
+			"ne_type": "LOCATION",
+			"st": 589,
+			"eType": "WIKILINK",
+			"entityName": "일본",
+			"en": 591,
+			"is_target": true,
+			"surface": "일본",
+			"coref_index": 1003,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 599,
+			"eType": "WIKILINK",
+			"entityName": "도쿄",
+			"en": 601,
+			"is_target": true,
+			"surface": "도쿄",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "EVENT",
+			"st": 470,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 474,
+			"is_target": true,
+			"surface": "사회운동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 493,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 495,
+			"is_target": true,
+			"surface": "유학",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 606,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 613,
+			"is_target": true,
+			"surface": "제일고등중학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "PERSON",
+			"st": 614,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 616,
+			"is_target": true,
+			"surface": "교원",
+			"coref_index": 1010,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "EVENT",
+			"st": 619,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 621,
+			"is_target": true,
+			"surface": "취직",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 654,
+			"eType": "WIKILINK",
+			"entityName": "교육칙어",
+			"en": 658,
+			"is_target": true,
+			"surface": "교육칙어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 696,
+			"eType": "WIKILINK",
+			"entityName": "일본_천황",
+			"en": 701,
+			"is_target": true,
+			"surface": "일본_천황",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 798,
+			"eType": "ELU",
+			"entityName": "기독교인",
+			"en": 802,
+			"is_target": true,
+			"surface": "기독교인",
+			"coref_index": 1008,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "PERSON",
+			"st": 630,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 641,
+			"is_target": true,
+			"surface": "1891년_일본_천황",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 643,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 647,
+			"is_target": true,
+			"surface": "절대권력",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 649,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 651,
+			"is_target": true,
+			"surface": "상징",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 665,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 668,
+			"is_target": true,
+			"surface": "봉독식",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "EVENT",
+			"st": 688,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 692,
+			"is_target": true,
+			"surface": "불경사건",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ORGANIZATION",
+			"st": 708,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 716,
+			"is_target": true,
+			"surface": "존황파(尊皇派)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "EVENT",
+			"st": 728,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 733,
+			"is_target": true,
+			"surface": "보복_테러",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 742,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 744,
+			"is_target": true,
+			"surface": "아내",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 746,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 748,
+			"is_target": true,
+			"surface": "자식",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ORGANIZATION",
+			"st": 753,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 755,
+			"is_target": true,
+			"surface": "직장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "PERSON",
+			"st": 762,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 766,
+			"is_target": true,
+			"surface": "우치무라",
+			"coref_index": 1009,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 768,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 770,
+			"is_target": true,
+			"surface": "교원",
+			"coref_index": 1010,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 779,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 780,
+			"is_target": true,
+			"surface": "글",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "ETC",
+			"st": 841,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 844,
+			"is_target": true,
+			"surface": "구안록",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 59,
+			"ne_type": "TIME",
+			"st": 906,
+			"eType": "WIKILINK",
+			"en": 911,
+			"entityName": "1921년",
+			"is_target": false,
+			"surface": "1921년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 60,
+			"ne_type": "LOCATION",
+			"st": 914,
+			"eType": "WIKILINK",
+			"en": 916,
+			"entityName": "도쿄",
+			"is_target": true,
+			"surface": "도쿄",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 61,
+			"ne_type": "PERSON",
+			"st": 924,
+			"eType": "WIKILINK",
+			"en": 927,
+			"entityName": "일요일",
+			"is_target": true,
+			"surface": "일요일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 930,
+			"eType": "WIKILINK",
+			"en": 933,
+			"entityName": "로마서",
+			"is_target": true,
+			"surface": "로마서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 858,
+			"eType": "NEW",
+			"en": 861,
+			"entityName": "",
+			"is_target": true,
+			"surface": "만조보",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 874,
+			"eType": "NEW",
+			"en": 877,
+			"entityName": "",
+			"is_target": true,
+			"surface": "성서지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ETC",
+			"st": 971,
+			"eType": "ELU",
+			"entityName": "한국의_로마_가톨릭교회",
+			"en": 975,
+			"is_target": true,
+			"surface": "한국교회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 66,
+			"ne_type": "PERSON",
+			"st": 978,
+			"eType": "ELU",
+			"entityName": "우치무라_간조",
+			"en": 985,
+			"is_target": true,
+			"surface": "우치무라_간조",
+			"coref_index": 1009,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"id": 67,
+			"ne_type": "ETC",
+			"st": 987,
+			"eType": "WIKILINK",
+			"entityName": "신학",
+			"en": 989,
+			"is_target": true,
+			"surface": "신학",
+			"coref_index": 1011,
+			"ancestor": "1-32"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "ETC",
+			"st": 991,
+			"eType": "WIKILINK",
+			"entityName": "무교회주의",
+			"en": 996,
+			"is_target": true,
+			"surface": "무교회주의",
+			"coref_index": 1014,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 69,
+			"ne_type": "PERSON",
+			"st": 1019,
+			"eType": "ELU",
+			"entityName": "우치무라_간조",
+			"en": 1026,
+			"is_target": true,
+			"surface": "우치무라_간조",
+			"coref_index": 1009,
+			"ancestor": "1-66"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "ETC",
+			"st": 1028,
+			"eType": "WIKILINK",
+			"entityName": "복음주의자",
+			"en": 1033,
+			"is_target": true,
+			"surface": "복음주의자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Work",
+				"Book"
+			],
+			"id": 71,
+			"ne_type": "ETC",
+			"st": 1040,
+			"eType": "WIKILINK",
+			"entityName": "성경",
+			"en": 1042,
+			"is_target": true,
+			"surface": "성경",
+			"coref_index": 1016,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "ETC",
+			"st": 1044,
+			"eType": "ELU",
+			"entityName": "하나님",
+			"en": 1047,
+			"is_target": true,
+			"surface": "하나님",
+			"coref_index": 1012,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1088,
+			"eType": "WIKILINK",
+			"entityName": "예수_그리스도",
+			"en": 1095,
+			"is_target": true,
+			"surface": "예수_그리스도",
+			"coref_index": 1012,
+			"ancestor": "1-72"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 1097,
+			"eType": "WIKILINK",
+			"entityName": "십자가",
+			"en": 1100,
+			"is_target": true,
+			"surface": "십자가",
+			"coref_index": 1013,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "ETC",
+			"st": 1153,
+			"eType": "WIKILINK",
+			"entityName": "그리스도",
+			"en": 1157,
+			"is_target": true,
+			"surface": "그리스도",
+			"coref_index": 1012,
+			"ancestor": "1-73"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "ETC",
+			"st": 1159,
+			"eType": "WIKILINK",
+			"entityName": "십자가",
+			"en": 1162,
+			"is_target": true,
+			"surface": "십자가",
+			"coref_index": 1013,
+			"ancestor": "1-74"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "ETC",
+			"st": 1175,
+			"eType": "WIKILINK",
+			"entityName": "무교회주의",
+			"en": 1180,
+			"is_target": true,
+			"surface": "무교회주의",
+			"coref_index": 1014,
+			"ancestor": "1-68"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "ETC",
+			"st": 1190,
+			"eType": "WIKILINK",
+			"entityName": "기독교",
+			"en": 1193,
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1004,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "ETC",
+			"st": 1207,
+			"eType": "WIKILINK",
+			"entityName": "교회",
+			"en": 1209,
+			"is_target": true,
+			"surface": "교회",
+			"coref_index": 1015,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1221,
+			"eType": "WIKILINK",
+			"entityName": "성서",
+			"en": 1223,
+			"is_target": true,
+			"surface": "성서",
+			"coref_index": 1016,
+			"ancestor": "1-71"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 81,
+			"ne_type": "PERSON",
+			"st": 1238,
+			"eType": "ELU",
+			"entityName": "우치무라_간조",
+			"en": 1245,
+			"is_target": true,
+			"surface": "우치무라_간조",
+			"coref_index": 1009,
+			"ancestor": "1-66"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ETC",
+			"st": 1248,
+			"eType": "WIKILINK",
+			"entityName": "기독교",
+			"en": 1251,
+			"is_target": true,
+			"surface": "기독교",
+			"coref_index": 1004,
+			"ancestor": "1-78"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "ETC",
+			"st": 1264,
+			"eType": "WIKILINK",
+			"entityName": "성서",
+			"en": 1266,
+			"is_target": true,
+			"surface": "성서",
+			"coref_index": 1016,
+			"ancestor": "1-80"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "ETC",
+			"st": 1269,
+			"eType": "WIKILINK",
+			"entityName": "교회",
+			"en": 1271,
+			"is_target": true,
+			"surface": "교회",
+			"coref_index": 1015,
+			"ancestor": "1-79"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 85,
+			"ne_type": "PERSON",
+			"st": 1347,
+			"eType": "WIKILINK",
+			"en": 1350,
+			"entityName": "김교신",
+			"is_target": true,
+			"surface": "김교신",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 86,
+			"ne_type": "PERSON",
+			"st": 1352,
+			"eType": "WIKILINK",
+			"en": 1355,
+			"entityName": "함석헌",
+			"is_target": true,
+			"surface": "함석헌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 87,
+			"ne_type": "PERSON",
+			"st": 1357,
+			"eType": "WIKILINK",
+			"en": 1360,
+			"entityName": "송두용",
+			"is_target": true,
+			"surface": "송두용",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "ETC",
+			"st": 1362,
+			"eType": "WIKILINK",
+			"en": 1365,
+			"entityName": "최태용",
+			"is_target": true,
+			"surface": "최태용",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "ETC",
+			"st": 1332,
+			"eType": "NEW",
+			"en": 1341,
+			"entityName": "",
+			"is_target": true,
+			"surface": "무교회주의_개신교",
+			"coref_index": 1014,
+			"ancestor": "1-68"
+		}
+	],
+	"globalSID": "655175,655176,655177,655178,655179,655180,655181,655182,655183,655184,655185,655186,655187,655188,655189,655190,655191,655192,655193,655194,655195,655196,655197,655198,655199",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 114,
+			"ancestor": "-1",
+			"st": 108,
+			"surface": "한 사상가로"
+		},
+		{
+			"id": 1,
+			"ancestor": "1-0",
+			"st": 183,
+			"en": 184,
+			"surface": "그",
+			"coref_index": 1009
+		},
+		{
+			"id": 2,
+			"ancestor": "1-26",
+			"st": 391,
+			"en": 393,
+			"surface": "그들",
+			"coref_index": 1017
+		},
+		{
+			"id": 3,
+			"en": 407,
+			"ancestor": "-1",
+			"st": 403,
+			"surface": "그 외의"
+		},
+		{
+			"id": 4,
+			"en": 410,
+			"ancestor": "-1",
+			"st": 403,
+			"surface": "그 외의 것은"
+		},
+		{
+			"id": 5,
+			"en": 679,
+			"ancestor": "-1",
+			"st": 677,
+			"surface": "예를"
+		},
+		{
+			"id": 6,
+			"ancestor": "1-0",
+			"st": 793,
+			"en": 794,
+			"surface": "나",
+			"coref_index": 1009
+		},
+		{
+			"id": 7,
+			"ancestor": "1-66",
+			"st": 1037,
+			"en": 1038,
+			"surface": "그",
+			"coref_index": 1009
+		},
+		{
+			"id": 8,
+			"ancestor": "1-69",
+			"st": 1081,
+			"en": 1082,
+			"surface": "나",
+			"coref_index": 1009
+		},
+		{
+			"id": 9,
+			"ancestor": "1-9",
+			"st": 1081,
+			"en": 1086,
+			"surface": "나의 신앙",
+			"coref_index": 1004
+		},
+		{
+			"id": 10,
+			"ancestor": "1-69",
+			"st": 1132,
+			"en": 1133,
+			"surface": "나",
+			"coref_index": 1009
+		},
+		{
+			"id": 11,
+			"ancestor": "1-9",
+			"st": 1132,
+			"en": 1137,
+			"surface": "나의 신앙",
+			"coref_index": 1004
+		},
+		{
+			"id": 12,
+			"ancestor": "1-69",
+			"st": 1172,
+			"en": 1173,
+			"surface": "그",
+			"coref_index": 1009
+		},
+		{
+			"id": 13,
+			"en": 1277,
+			"ancestor": "-1",
+			"st": 1273,
+			"surface": "그 관습"
+		},
+		{
+			"id": 14,
+			"ancestor": "1-0",
+			"st": 1312,
+			"en": 1313,
+			"surface": "그",
+			"coref_index": 1009
+		},
+		{
+			"id": 15,
+			"en": 1327,
+			"ancestor": "-1",
+			"st": 1312,
+			"surface": "그에게 영향을 받은 제자로는"
+		}
+	],
+	"plainText": "우치무라_간조(, 1861년_3월_26일 - 1930년_3월_28일)는 일본의 개신교 사상가이다. 서구적인 기독교가 아닌, 일본인들에게 말씀하시는 하나님의 가르침 즉, 일본적인 기독교를 찾고자 한 사상가로 평가받는다. 생애 미국 농학자인 클라크가 세운 삿포로농과대학교를 다니던 중 친구의 전도로 기독교인이 되었다. 대학생 시절 그는 친구들과 기도 모임을 구성하여 신앙생활했는데, 모임은 성직자와 평신도의 구분이 없는 민주적인 공동체였다. 이러한 새로운 신앙경험은 우치무라의_기독교_사상에 영향을 주었다. 대학교를 졸업한 1882년 우치무라와_친구들은 삿포로_독립교회를 통해 서구의 교회가 아닌 일본적 교회를 설립하고자 했다. 교회는 5명의_위원들에 의해 공동으로 운영되었는데, 일상적인 교회의 일은 그들이 함께 처리했고 그 외의 것은 언제나 투표로 처리했다. 또 교회의_회원은 의무적으로 교회를 위해서 일해야만 했다. 1884년 미국에서의 사회운동과 앰허스트대학교(Amherst) 유학으로 신앙의 실천의 중요성과 신앙에 대한 생각을 굳혔고, 하드포드신학교에 입학하여 신학을 공부했다. 하지만, 성직을 특권으로 보아서 성직자가 되지는 않았다. 1888년 일본에 돌아왔고, 도쿄에 있는 제일고등중학교 교원으로 취직했다. 하지만, 1891년_일본_천황의 절대권력의 상징인 《교육칙어》(敎育勅語)봉독식 때 정성 들여 예를 다하지 않은 '불경사건'으로 일본_천황을 숭배하는 존황파(尊皇派)들에게 미움을 받아, 보복_테러의 표적이 되어 아내와 자식 그리고 직장을 잃었다. 우치무라는 교원으로 활동하면서 글을 쓰기 시작했는데, 《나는 왜 기독교인이 되었는가?》(\"How I Became a Christian\"), 《구안록》등을 저술했다. 또한 《만조보》지의 기자와 월간지 《성서지》 연구의 간행인으로도 일하는 등 바쁘게 활동했다. 1921년에는 도쿄의 한복판에서 일요일마다 로마서를 강의하여 수많은 청중들이 크게 감동을 받기도 했다고 한다. 신학 한국교회에서 우치무라_간조의 신학은 무교회주의라고 해서 불온시되기도 하였다. 하지만, 우치무라_간조는 복음주의자였다. 그는 성경이 하나님의 영감으로 기록된 하나님의 말씀임을 믿는다고 고백하였으며,\"나의 신앙은 예수_그리스도의 십자가 보혈로 말미암아 얻은 구원에 대한 감사일뿐이다. 그러니 나의 신앙은 낡았고 구식이다\"이라면서 그리스도의 십자가만을 강조하였다. 그가 무교회주의를 주장한 이유도 기독교 신앙의 근거는 가시적인 교회 즉, 예배당이 아닌 성서뿐이라고 보았기 때문이다. 우치무라_간조는 \"기독교 신앙의 유일한 근거는 성서뿐, 교회와 그 관습은 기독교를 담아내는 껍데기\"라고 하였다. 한국 교회에의 영향 그에게 영향을 받은 제자로는 한국의 무교회주의_개신교 운동가인 김교신, 함석헌, 송두용, 최태용 선생 등이 있다. ",
+	"docID": "83142"
+}

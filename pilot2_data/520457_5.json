@@ -1,0 +1,158 @@
+{
+	"docID": "520457",
+	"globalSID": "2228357,2228358",
+	"pronouns": [
+		{
+			"st": 52,
+			"coref_index": 671,
+			"id": 0,
+			"en": 59,
+			"ancestor": "5-7",
+			"surface": "노부나가 자신"
+		},
+		{
+			"st": 128,
+			"coref_index": 678,
+			"id": 1,
+			"en": 132,
+			"ancestor": "5-5",
+			"surface": "이 전투"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "1-0",
+			"coref_index": 666,
+			"surface": "사이카슈",
+			"entityName": "사이카슈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 40,
+			"ancestor": "-1",
+			"surface": "덴쇼",
+			"entityName": "덴쇼"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 49,
+			"ancestor": "",
+			"surface": "1577년",
+			"entityName": "1577년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "이즈미_국",
+			"entityName": "이즈미_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 75,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 80,
+			"ancestor": "-1",
+			"surface": "가와치_국",
+			"entityName": "가와치_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 101,
+			"ancestor": "-1",
+			"coref_index": 678,
+			"surface": "기슈_정벌",
+			"entityName": "기슈_정벌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 171,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 175,
+			"ancestor": "5-0",
+			"coref_index": 666,
+			"surface": "사이카슈",
+			"entityName": "사이카슈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "4-2",
+			"coref_index": 671,
+			"surface": "노부나가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 56,
+			"ancestor": "5-7",
+			"coref_index": 671,
+			"surface": "노부나가",
+			"entityName": ""
+		}
+	],
+	"plainText": "노부나가는 혼간지를 쓰러트리고자 사이카슈를 먼저 제압하려고 생각하여 덴쇼 5년(1577년)에 노부나가 자신이 대군을 이끌고 이즈미_국·가와치_국에서 기이로 침공하여(제1차 기슈_정벌, 사이카슈에게 종속의 맹세를 받아냈다. 그러나 이 전투에서 오다軍은 전력을 막대히 끽휴했을 뿐만 아니라 복속하게 했을 터인 사이카슈도 금방 자유로운 활동을 재개하여 혼간지 측에 가담했다."
+}

@@ -1,0 +1,166 @@
+{
+	"docID": "68578",
+	"globalSID": "564962",
+	"pronouns": [
+		{
+			"st": 55,
+			"coref_index": 812,
+			"id": 0,
+			"en": 56,
+			"ancestor": "1-6",
+			"surface": "그"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "1398년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1398년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"entityName": "1400년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 13,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1400년"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"entityName": "조선_정종",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "정종"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"entityName": "왕세자",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 37,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "왕세자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "대리청정",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대리청정",
+			"coref_index": 814
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"entityName": "충녕대군",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 68,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "충녕대군"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"entityName": "1418년",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 84,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1418년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 87,
+			"eType": "WIKILINK",
+			"entityName": "1422년",
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 92,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1422년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"entityName": "태상왕",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 98,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "태상왕"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "WIKILINK",
+			"entityName": "대리청정",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "3-4",
+			"is_target": true,
+			"surface": "대리청정",
+			"coref_index": 814
+		}
+	],
+	"plainText": "1398년부터 1400년까지 둘째 형인 정종이 재위하는 동안 왕세자 신분으로 대리청정을 하였으며, 그가 셋째 아들 충녕대군에게 선양한 뒤에는 1418년부터 1422년까지 태상왕 신분으로 대리청정을 하였다."
+}

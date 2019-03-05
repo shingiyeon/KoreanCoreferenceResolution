@@ -1,0 +1,95 @@
+{
+	"docID": "132777",
+	"globalSID": "953537,953538",
+	"pronouns": [
+		{
+			"st": 28,
+			"coref_index": 184,
+			"id": 0,
+			"en": 29,
+			"ancestor": "3-3",
+			"surface": "그"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "국가대표팀",
+			"entityName": "국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "UEFA_유로_2016",
+			"entityName": "UEFA_유로_2016"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 20,
+			"ancestor": "1-8",
+			"coref_index": 185,
+			"surface": "터키",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "1-0",
+			"coref_index": 184,
+			"surface": "샤힌",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "U-16",
+			"entityName": ""
+		}
+	],
+	"plainText": "샤힌은 U-16 대표팀 시절부터 터키를 대표했다. 그는 2005년에 성인 국가대표팀에 데뷔해 45번 국제 경기에 출전했고, UEFA_유로_2016에 자국을 대표로 나갔었다."
+}

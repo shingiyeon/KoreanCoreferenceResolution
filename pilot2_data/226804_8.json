@@ -1,0 +1,77 @@
+{
+	"docID": "226804",
+	"globalSID": "1335529,1335530,1335531",
+	"pronouns": [
+		{
+			"st": 63,
+			"coref_index": 320,
+			"id": 0,
+			"en": 65,
+			"ancestor": "1-0",
+			"surface": "본인"
+		},
+		{
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "본인으로서는 처음으로",
+			"id": 1,
+			"st": 63
+		},
+		{
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "그 외에도",
+			"id": 2,
+			"st": 87
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"st": 93,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 99,
+			"ancestor": "-1",
+			"surface": "퍼시픽_리그",
+			"entityName": "퍼시픽_리그"
+		},
+		{
+			"kbox_types": [
+				"Award"
+			],
+			"st": 113,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 120,
+			"ancestor": "-1",
+			"surface": "골든_글러브상",
+			"entityName": "미쓰이_골든_글러브상"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 26,
+			"ancestor": "-1",
+			"surface": "쓰보이_도모치카",
+			"entityName": ""
+		}
+	],
+	"plainText": "2006년 개막전 선발 멤버였던 쓰보이_도모치카의 전력 이탈 등도 있어 4월 하순 무렵부터 1번·좌익수를 차지해 본인으로서는 처음으로 규정 타석을 채웠다. 그 외에도 퍼시픽_리그 최다 득점을 기록하면서 골든_글러브상을 수상했고 올스타전에서도 첫 출전을 했다."
+}

@@ -1,0 +1,169 @@
+{
+	"docID": "481087",
+	"globalSID": "2129020,2129021,2129022",
+	"pronouns": [
+		{
+			"st": 119,
+			"coref_index": 607,
+			"id": 0,
+			"en": 120,
+			"ancestor": "5-5",
+			"surface": "그"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 36,
+			"ancestor": "-1",
+			"surface": "마리아_전투",
+			"entityName": "마리아_전투"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 122,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "발렌시아",
+			"entityName": "발렌시아"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 137,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 141,
+			"ancestor": "-1",
+			"surface": "타라고나",
+			"entityName": "타라고나"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 143,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 146,
+			"ancestor": "-1",
+			"surface": "레리다",
+			"entityName": "레리다"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "4-5",
+			"coref_index": 611,
+			"surface": "쉬셰",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 60,
+			"ancestor": "1-0",
+			"coref_index": 607,
+			"surface": "아리스프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "사단장(general_de_division)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 211,
+			"ancestor": "-1",
+			"surface": "레지옹_도뇌르_훈장_그랑도피시에(Grand_Officer)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 218,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 220,
+			"ancestor": "-1",
+			"surface": "백작",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 20,
+			"ancestor": "2-3",
+			"coref_index": 608,
+			"surface": "스페인",
+			"entityName": ""
+		}
+	],
+	"plainText": "쉬셰가 10,000명의 군대로 스페인의 군대를 격파한 마리아_전투(Battle of Mar?a)에서 아리스프는 1~3개의 상처를 입었다. 아리스프는 사단장(general_de_division)으로 승진했다. 이후 그는 발렌시아 점령과정에서 특히 타라고나와 레리다의 공방전에서 뛰어난 활약으로 명성을 높인 후, 아리스프는 레지옹_도뇌르_훈장_그랑도피시에(Grand_Officer)를 수여받아 백작이 되었다."
+}

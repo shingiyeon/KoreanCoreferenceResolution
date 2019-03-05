@@ -1,0 +1,92 @@
+{
+	"docID": "848153",
+	"globalSID": "2902053",
+	"pronouns": [
+		{
+			"en": 3,
+			"ancestor": "-1",
+			"surface": "이 밖",
+			"id": 0,
+			"st": 0
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "힌두교도",
+			"entityName": "힌두교"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "인도",
+			"entityName": "인도인"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 52,
+			"ancestor": "-1",
+			"surface": "남아프리카_공화국",
+			"entityName": "남아프리카_공화국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 55,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 57,
+			"ancestor": "2-11",
+			"coref_index": 1052,
+			"surface": "케냐",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "동아프리카",
+			"entityName": ""
+		}
+	],
+	"plainText": "이 밖에 힌두교도가 약 138만 명을 헤아리나 분포지역은 인도계 사람이 많은 남아프리카_공화국이나 케냐 등 동아프리카 일부에 한정되어 있다."
+}

@@ -1,0 +1,954 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 76,
+			"text": "이 지역",
+			"is_pronoun": true,
+			"en_modified": 80,
+			"en": 80,
+			"st_modified": 76
+		},
+		{
+			"st": 76,
+			"text": "이 지역 출신",
+			"is_pronoun": true,
+			"en_modified": 83,
+			"en": 83,
+			"st_modified": 76
+		},
+		{
+			"st": 76,
+			"text": "이 지역 출신의 이주민",
+			"is_pronoun": true,
+			"en_modified": 88,
+			"en": 88,
+			"st_modified": 76
+		},
+		{
+			"st": 90,
+			"text": "그 후손",
+			"is_pronoun": true,
+			"en_modified": 94,
+			"en": 94,
+			"st_modified": 90
+		},
+		{
+			"st": 90,
+			"text": "그 후손을 별개의 민족으로서 부르는 명칭",
+			"is_pronoun": true,
+			"en_modified": 112,
+			"en": 112,
+			"st_modified": 90
+		},
+		{
+			"st": 480,
+			"text": "동로마_제국",
+			"is_pronoun": true,
+			"en_modified": 486,
+			"en": 486,
+			"st_modified": 480
+		},
+		{
+			"st": 480,
+			"text": "동로마_제국의 통치",
+			"is_pronoun": true,
+			"en_modified": 490,
+			"en": 490,
+			"st_modified": 480
+		},
+		{
+			"st": 495,
+			"text": "이 지역",
+			"is_pronoun": true,
+			"en_modified": 499,
+			"en": 499,
+			"st_modified": 495
+		},
+		{
+			"st": 495,
+			"text": "이 지역의 유대인",
+			"is_pronoun": true,
+			"en_modified": 504,
+			"en": 504,
+			"st_modified": 495
+		},
+		{
+			"st": 615,
+			"text": "이런 과정",
+			"is_pronoun": true,
+			"en_modified": 620,
+			"en": 620,
+			"st_modified": 615
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 76,
+			"ancestor": "1-2",
+			"surface": "이 지역",
+			"en_modified": 80,
+			"en": 80,
+			"st_modified": 76,
+			"id": 0,
+			"coref_index": 412
+		},
+		{
+			"st": 76,
+			"ancestor": "-1",
+			"surface": "이 지역 출신의",
+			"en_modified": 84,
+			"en": 84,
+			"st_modified": 76,
+			"id": 1
+		},
+		{
+			"st": 76,
+			"ancestor": "-1",
+			"surface": "이 지역 출신의 이주민과",
+			"en_modified": 89,
+			"en": 89,
+			"st_modified": 76,
+			"id": 2
+		},
+		{
+			"st": 90,
+			"ancestor": "-1",
+			"surface": "그 후손을",
+			"en_modified": 95,
+			"en": 95,
+			"st_modified": 90,
+			"id": 3
+		},
+		{
+			"st": 90,
+			"ancestor": "-1",
+			"surface": "그 후손을 별개의 민족으로서 부르는 명칭이다.",
+			"en_modified": 115,
+			"en": 115,
+			"st_modified": 90,
+			"id": 4
+		},
+		{
+			"st": 480,
+			"ancestor": "-1",
+			"surface": "동로마_제국의",
+			"en_modified": 487,
+			"en": 487,
+			"st_modified": 480,
+			"id": 5
+		},
+		{
+			"st": 480,
+			"ancestor": "-1",
+			"surface": "동로마_제국의 통치를",
+			"en_modified": 491,
+			"en": 491,
+			"st_modified": 480,
+			"id": 6
+		},
+		{
+			"st": 495,
+			"ancestor": "1-32",
+			"surface": "이 지역의",
+			"en_modified": 500,
+			"en": 500,
+			"st_modified": 495,
+			"id": 7,
+			"coref_index": 412
+		},
+		{
+			"st": 495,
+			"ancestor": "-1",
+			"surface": "이 지역의 유대인과",
+			"en_modified": 505,
+			"en": 505,
+			"st_modified": 495,
+			"id": 8
+		},
+		{
+			"st": 615,
+			"ancestor": "-1",
+			"surface": "이런 과정을",
+			"en_modified": 621,
+			"en": 621,
+			"st_modified": 615,
+			"id": 9
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 6,
+			"st_modified": 0,
+			"coref_index": 410,
+			"entityName": "팔레스타인인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "팔레스타인인",
+			"is_target": true,
+			"en": 6,
+			"id": 0
+		},
+		{
+			"en_modified": 10,
+			"st_modified": 7,
+			"coref_index": 414,
+			"entityName": "아랍어",
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 7,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아랍어",
+			"is_target": true,
+			"en": 10,
+			"id": 1
+		},
+		{
+			"en_modified": 64,
+			"st_modified": 56,
+			"coref_index": 412,
+			"entityName": "팔레스타인_(지역)",
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"eType": "WIKILINK",
+			"st": 56,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "팔레스타인_지역",
+			"is_target": true,
+			"en": 64,
+			"id": 2
+		},
+		{
+			"en_modified": 74,
+			"st_modified": 71,
+			"coref_index": 413,
+			"entityName": "아랍인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 71,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아랍인",
+			"is_target": true,
+			"en": 74,
+			"id": 3
+		},
+		{
+			"en_modified": 122,
+			"st_modified": 116,
+			"coref_index": 410,
+			"entityName": "팔레스타인인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 116,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "팔레스타인인",
+			"is_target": true,
+			"en": 122,
+			"id": 4
+		},
+		{
+			"en_modified": 137,
+			"st_modified": 133,
+			"coref_index": 416,
+			"entityName": "이슬람교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 133,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이슬람교",
+			"is_target": true,
+			"en": 137,
+			"id": 5
+		},
+		{
+			"en_modified": 151,
+			"entityName": "기독교",
+			"st_modified": 148,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 148,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 151,
+			"id": 6
+		},
+		{
+			"en_modified": 163,
+			"entityName": "팔레스타인",
+			"st_modified": 158,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 158,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "팔레스타인",
+			"is_target": true,
+			"en": 163,
+			"id": 7
+		},
+		{
+			"en_modified": 175,
+			"st_modified": 170,
+			"coref_index": 411,
+			"entityName": "필리시테인",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 170,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "필리시테인",
+			"is_target": true,
+			"en": 175,
+			"id": 8
+		},
+		{
+			"en_modified": 191,
+			"entityName": "블레셋",
+			"st_modified": 188,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 188,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "블레셋",
+			"is_target": true,
+			"en": 191,
+			"id": 9
+		},
+		{
+			"en_modified": 205,
+			"entityName": "로마_제국",
+			"st_modified": 200,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "로마_제국",
+			"is_target": true,
+			"en": 205,
+			"id": 10
+		},
+		{
+			"en_modified": 242,
+			"st_modified": 238,
+			"coref_index": 411,
+			"entityName": "필리시테",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 238,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "필리시테",
+			"is_target": true,
+			"en": 242,
+			"id": 11
+		},
+		{
+			"en_modified": 258,
+			"entityName": "미케네_문명",
+			"st_modified": 252,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 252,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "미케네_문명",
+			"is_target": true,
+			"en": 258,
+			"id": 12
+		},
+		{
+			"en_modified": 268,
+			"entityName": "그리스",
+			"st_modified": 265,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 265,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "그리스",
+			"is_target": true,
+			"en": 268,
+			"id": 13
+		},
+		{
+			"en_modified": 279,
+			"entityName": "그리스인",
+			"st_modified": 275,
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 275,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "그리스계",
+			"is_target": true,
+			"en": 279,
+			"id": 14
+		},
+		{
+			"en_modified": 298,
+			"entityName": "사람과",
+			"st_modified": 295,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "ELU",
+			"st": 295,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사람과",
+			"is_target": true,
+			"en": 298,
+			"id": 15
+		},
+		{
+			"en_modified": 221,
+			"st_modified": 213,
+			"coref_index": 412,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 213,
+			"ancestor": "1-2",
+			"ne_type": "LOCATION",
+			"surface": "팔레스타인_지방",
+			"is_target": true,
+			"en": 221,
+			"id": 16
+		},
+		{
+			"en_modified": 167,
+			"entityName": "",
+			"st_modified": 165,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 165,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "어원",
+			"is_target": true,
+			"en": 167,
+			"id": 17
+		},
+		{
+			"en_modified": 287,
+			"entityName": "",
+			"st_modified": 285,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 285,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "현대",
+			"is_target": true,
+			"en": 287,
+			"id": 18
+		},
+		{
+			"en_modified": 323,
+			"entityName": "이스라엘",
+			"st_modified": 319,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 319,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이스라엘",
+			"is_target": true,
+			"en": 323,
+			"id": 19
+		},
+		{
+			"en_modified": 331,
+			"st_modified": 325,
+			"coref_index": 410,
+			"entityName": "팔레스타인인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 325,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "팔레스타인인",
+			"is_target": true,
+			"en": 331,
+			"id": 20
+		},
+		{
+			"en_modified": 337,
+			"st_modified": 334,
+			"coref_index": 413,
+			"entityName": "아랍인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 334,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "아랍인",
+			"is_target": true,
+			"en": 337,
+			"id": 21
+		},
+		{
+			"en_modified": 350,
+			"entityName": "모어",
+			"st_modified": 348,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 348,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "모어",
+			"is_target": true,
+			"en": 350,
+			"id": 22
+		},
+		{
+			"en_modified": 359,
+			"st_modified": 356,
+			"coref_index": 414,
+			"entityName": "아랍어",
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 356,
+			"ancestor": "1-1",
+			"ne_type": "ETC",
+			"surface": "아랍어",
+			"is_target": true,
+			"en": 359,
+			"id": 23
+		},
+		{
+			"en_modified": 365,
+			"st_modified": 362,
+			"coref_index": 413,
+			"entityName": "아랍인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 362,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "아랍인",
+			"is_target": true,
+			"en": 365,
+			"id": 24
+		},
+		{
+			"en_modified": 383,
+			"st_modified": 380,
+			"coref_index": 415,
+			"entityName": "유대인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 380,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "유대인",
+			"is_target": true,
+			"en": 383,
+			"id": 25
+		},
+		{
+			"en_modified": 377,
+			"entityName": "",
+			"st_modified": 373,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 373,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "유대교도",
+			"is_target": true,
+			"en": 377,
+			"id": 26
+		},
+		{
+			"en_modified": 401,
+			"st_modified": 395,
+			"coref_index": 410,
+			"entityName": "팔레스타인인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 395,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "팔레스타인인",
+			"is_target": true,
+			"en": 401,
+			"id": 27
+		},
+		{
+			"en_modified": 407,
+			"entityName": "시오니즘",
+			"st_modified": 403,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 403,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시오니즘",
+			"is_target": true,
+			"en": 407,
+			"id": 28
+		},
+		{
+			"en_modified": 414,
+			"entityName": "유럽",
+			"st_modified": 412,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "WIKILINK",
+			"st": 412,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "유럽",
+			"is_target": true,
+			"en": 414,
+			"id": 29
+		},
+		{
+			"en_modified": 424,
+			"st_modified": 421,
+			"coref_index": 415,
+			"entityName": "유대인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 421,
+			"ancestor": "1-25",
+			"ne_type": "ETC",
+			"surface": "유대인",
+			"is_target": true,
+			"en": 424,
+			"id": 30
+		},
+		{
+			"en_modified": 457,
+			"st_modified": 454,
+			"coref_index": 413,
+			"entityName": "아랍인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 454,
+			"ancestor": "1-21",
+			"ne_type": "ETC",
+			"surface": "아랍인",
+			"is_target": true,
+			"en": 457,
+			"id": 31
+		},
+		{
+			"en_modified": 448,
+			"st_modified": 440,
+			"coref_index": 412,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 440,
+			"ancestor": "1-2",
+			"ne_type": "LOCATION",
+			"surface": "팔레스타인_지역",
+			"is_target": true,
+			"en": 448,
+			"id": 32
+		},
+		{
+			"en_modified": 474,
+			"st_modified": 468,
+			"coref_index": 410,
+			"entityName": "팔레스타인인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "ELU",
+			"st": 468,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "팔레스타인인",
+			"is_target": true,
+			"en": 474,
+			"id": 33
+		},
+		{
+			"en_modified": 486,
+			"entityName": "동로마_제국",
+			"st_modified": 480,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 480,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "동로마_제국",
+			"is_target": true,
+			"en": 486,
+			"id": 34
+		},
+		{
+			"en_modified": 504,
+			"st_modified": 501,
+			"coref_index": 415,
+			"entityName": "유대인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 501,
+			"ancestor": "1-30",
+			"ne_type": "ETC",
+			"surface": "유대인",
+			"is_target": true,
+			"en": 504,
+			"id": 35
+		},
+		{
+			"en_modified": 511,
+			"entityName": "사마리아인",
+			"st_modified": 506,
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 506,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사마리아인",
+			"is_target": true,
+			"en": 511,
+			"id": 36
+		},
+		{
+			"en_modified": 524,
+			"entityName": "638년",
+			"st_modified": 520,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 520,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "638년",
+			"is_target": false,
+			"en": 524,
+			"id": 37
+		},
+		{
+			"en_modified": 531,
+			"entityName": "정통_칼리파",
+			"st_modified": 525,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 525,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정통_칼리파",
+			"is_target": true,
+			"en": 531,
+			"id": 38
+		},
+		{
+			"en_modified": 554,
+			"st_modified": 550,
+			"coref_index": 416,
+			"entityName": "이슬람교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 550,
+			"ancestor": "1-5",
+			"ne_type": "ETC",
+			"surface": "이슬람교",
+			"is_target": true,
+			"en": 554,
+			"id": 39
+		},
+		{
+			"en_modified": 564,
+			"st_modified": 561,
+			"coref_index": 414,
+			"entityName": "아랍어",
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 561,
+			"ancestor": "1-1",
+			"ne_type": "ETC",
+			"surface": "아랍어",
+			"is_target": true,
+			"en": 564,
+			"id": 40
+		},
+		{
+			"en_modified": 594,
+			"entityName": "이집트인",
+			"st_modified": 590,
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 590,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이집트인",
+			"is_target": true,
+			"en": 594,
+			"id": 41
+		},
+		{
+			"en_modified": 634,
+			"st_modified": 631,
+			"coref_index": 413,
+			"entityName": "아랍인",
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 631,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "아랍인",
+			"is_target": true,
+			"en": 634,
+			"id": 42
+		},
+		{
+			"en_modified": 541,
+			"entityName": "",
+			"st_modified": 532,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 532,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아랍_무슬림_세력",
+			"is_target": true,
+			"en": 541,
+			"id": 43
+		},
+		{
+			"en_modified": 600,
+			"entityName": "",
+			"st_modified": 596,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 596,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "시리아인",
+			"is_target": true,
+			"en": 600,
+			"id": 44
+		}
+	],
+	"globalSID": "1591373,1591374,1591375,1591376,1591377,1591378,1591379,1591380,1591381",
+	"plainText": "팔레스타인인(아랍어: ????? ?????????, \"ash-sha`b al-filasT?ni\")은 팔레스타인_지역에 거주하는 아랍인과 이 지역 출신의 이주민과 그 후손을 별개의 민족으로서 부르는 명칭이다. 팔레스타인인은 전체의 93%가 이슬람교 신자이고, 6%는 기독교 신자이다. 팔레스타인의 어원은 '필리시테인(Philistine, 블레셋 사람)'인데, 로마_제국 지배 이후에 팔레스타인_지방의 지역명이 되었다. 그러나, 필리시테(블레셋) 사람은 미케네_문명 당시 남부 그리스에서 이주한 그리스계 종족으로 현대의 팔레스타인 사람과는 혈통적으로 직접적인 관련은 없다. 이스라엘은 팔레스타인인을 '아랍인'으로만 부르지만, 모어(母語)가 아랍어였던 아랍인이라 하더라도 유대교도라면 유대인으로 구분한다. 개요 팔레스타인인은 시오니즘에 따라 유럽 등으로부터 유대인의 이주가 본격화되기 이전에 팔레스타인_지역에 살았던 아랍인을 지칭한다. 현대 팔레스타인인의 기원은 동로마_제국의 통치를 받던 이 지역의 유대인과 사마리아인 등의 후손들이 638년 정통_칼리파 아랍_무슬림_세력의 지배 이후에 이슬람교로 개종하고 아랍어를 쓰게 되면서 시작된 것으로 추정되고 있다. 이집트인, 시리아인 등 중동의 많은 민족들이 이런 과정을 통해 아랍화되어 아랍인이 되었다. ",
+	"docID": "287317",
+	"ModifiedText": "팔레스타인인(아랍어: ????? ?????????, \"ash-sha`b al-filasT?ni\")은 팔레스타인 지역에 거주하는 아랍인과 이 지역 출신의 이주민과 그 후손을 별개의 민족으로서 부르는 명칭이다. 팔레스타인인은 전체의 93%가 이슬람교 신자이고, 6%는 기독교 신자이다. 팔레스타인의 어원은 '필리시테인(Philistine, 블레셋 사람)'인데, 로마 제국 지배 이후에 팔레스타인 지방의 지역명이 되었다. 그러나, 필리시테(블레셋) 사람은 미케네 문명 당시 남부 그리스에서 이주한 그리스계 종족으로 현대의 팔레스타인 사람과는 혈통적으로 직접적인 관련은 없다. 이스라엘은 팔레스타인인을 '아랍인'으로만 부르지만, 모어(母語)가 아랍어였던 아랍인이라 하더라도 유대교도라면 유대인으로 구분한다. 개요 팔레스타인인은 시오니즘에 따라 유럽 등으로부터 유대인의 이주가 본격화되기 이전에 팔레스타인 지역에 살았던 아랍인을 지칭한다. 현대 팔레스타인인의 기원은 동로마 제국의 통치를 받던 이 지역의 유대인과 사마리아인 등의 후손들이 638년 정통 칼리파 아랍 무슬림 세력의 지배 이후에 이슬람교로 개종하고 아랍어를 쓰게 되면서 시작된 것으로 추정되고 있다. 이집트인, 시리아인 등 중동의 많은 민족들이 이런 과정을 통해 아랍화되어 아랍인이 되었다. "
+}

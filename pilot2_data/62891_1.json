@@ -1,0 +1,142 @@
+{
+	"docID": "62891",
+	"globalSID": "527892,527893,527894,527895",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 24,
+			"ancestor": "-1",
+			"coref_index": 749,
+			"surface": "수학적_함수",
+			"entityName": "함수_(수학)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "프로그래밍_패러다임",
+			"entityName": "프로그래밍_패러다임"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 80,
+			"ancestor": "-1",
+			"coref_index": 750,
+			"surface": "명령형_프로그래밍",
+			"entityName": "명령형_프로그래밍"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 152,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 157,
+			"ancestor": "-1",
+			"surface": "계산가능성",
+			"entityName": "계산_가능성_이론"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 204,
+			"ancestor": "-1",
+			"coref_index": 752,
+			"surface": "람다_대수",
+			"entityName": "람다_대수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"coref_index": 748,
+			"surface": "함수형_프로그래밍",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 108,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 117,
+			"ancestor": "1-5",
+			"coref_index": 748,
+			"surface": "함수형_프로그래밍",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 133,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 142,
+			"ancestor": "1-6",
+			"coref_index": 748,
+			"surface": "함수형_프로그래밍",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 221,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 230,
+			"ancestor": "1-7",
+			"coref_index": 748,
+			"surface": "함수형_프로그래밍",
+			"entityName": ""
+		}
+	],
+	"plainText": "함수형_프로그래밍은 자료 처리를 수학적_함수의 계산으로 취급하고 상태와 가변 데이터를 멀리하는 프로그래밍_패러다임의 하나이다. 명령형_프로그래밍에서는 상태를 바꾸는 것을 강조하는 것과는 달리, 함수형_프로그래밍은 함수의 응용을 강조한다. 함수형_프로그래밍은 1930년대에 계산가능성, 결정문제, 함수정의, 함수응용과 재귀를 연구하기 위해 개발된 형식체계인 람다_대수에 근간을 두고 있다. 다수의 함수형_프로그래밍 언어들은 람다 연산을 발전시킨 것으로 볼 수 있다."
+}

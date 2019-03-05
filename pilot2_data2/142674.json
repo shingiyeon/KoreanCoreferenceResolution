@@ -1,0 +1,1524 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 240,
+			"text": "이 경기",
+			"is_pronoun": true,
+			"en_modified": 244,
+			"en": 244,
+			"st_modified": 240
+		},
+		{
+			"st": 248,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 249,
+			"en": 249,
+			"st_modified": 248
+		},
+		{
+			"st": 251,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 252,
+			"en": 252,
+			"st_modified": 251
+		},
+		{
+			"st": 251,
+			"text": "그의 첫 골",
+			"is_pronoun": true,
+			"en_modified": 257,
+			"en": 257,
+			"st_modified": 251
+		},
+		{
+			"st": 281,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 282,
+			"en": 282,
+			"st_modified": 281
+		},
+		{
+			"st": 385,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 386,
+			"en": 386,
+			"st_modified": 385
+		},
+		{
+			"st": 507,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 508,
+			"en": 508,
+			"st_modified": 507
+		},
+		{
+			"st": 589,
+			"text": "모든 경기",
+			"is_pronoun": true,
+			"en_modified": 594,
+			"en": 594,
+			"st_modified": 589
+		},
+		{
+			"st": 612,
+			"text": "이 놀라운 활약",
+			"is_pronoun": true,
+			"en_modified": 620,
+			"en": 620,
+			"st_modified": 612
+		},
+		{
+			"st": 612,
+			"text": "이 놀라운 활약에 반한 인테르_밀란",
+			"is_pronoun": true,
+			"en_modified": 631,
+			"en": 631,
+			"st_modified": 612
+		},
+		{
+			"st": 633,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 634,
+			"en": 634,
+			"st_modified": 633
+		},
+		{
+			"st": 675,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 676,
+			"en": 676,
+			"st_modified": 675
+		},
+		{
+			"st": 788,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 789,
+			"en": 789,
+			"st_modified": 788
+		},
+		{
+			"st": 788,
+			"text": "그의 직업 윤리",
+			"is_pronoun": true,
+			"en_modified": 796,
+			"en": 796,
+			"st_modified": 788
+		},
+		{
+			"st": 788,
+			"text": "그의 직업 윤리까지 의심받는 지경",
+			"is_pronoun": true,
+			"en_modified": 806,
+			"en": 806,
+			"st_modified": 788
+		},
+		{
+			"st": 887,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 888,
+			"en": 888,
+			"st_modified": 887
+		},
+		{
+			"st": 887,
+			"text": "그를 쫓아낸 것",
+			"is_pronoun": true,
+			"en_modified": 895,
+			"en": 895,
+			"st_modified": 887
+		},
+		{
+			"st": 900,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 901,
+			"en": 901,
+			"st_modified": 900
+		},
+		{
+			"st": 977,
+			"text": "부상을 당해 골_가뭄에 시달리고 있던 레알_마드리드_CF",
+			"is_pronoun": true,
+			"en_modified": 1008,
+			"en": 1008,
+			"st_modified": 977
+		},
+		{
+			"st": 1010,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1011,
+			"en": 1011,
+			"st_modified": 1010
+		},
+		{
+			"st": 1079,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1080,
+			"en": 1080,
+			"st_modified": 1079
+		},
+		{
+			"st": 1154,
+			"text": "어느 팀으로",
+			"is_pronoun": true,
+			"en_modified": 1160,
+			"en": 1160,
+			"st_modified": 1154
+		},
+		{
+			"st": 1154,
+			"text": "어느 팀으로도 이적하지 못한 아드리아누는, 2006년_가",
+			"is_pronoun": true,
+			"en_modified": 1185,
+			"en": 1185,
+			"st_modified": 1154
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 240,
+			"ancestor": "-1",
+			"surface": "이 경기에서,",
+			"en_modified": 247,
+			"en": 247,
+			"st_modified": 240,
+			"id": 0
+		},
+		{
+			"st": 248,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 249,
+			"en": 249,
+			"st_modified": 248,
+			"id": 1,
+			"coref_index": 202
+		},
+		{
+			"st": 251,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 252,
+			"en": 252,
+			"st_modified": 251,
+			"id": 2,
+			"coref_index": 202
+		},
+		{
+			"st": 251,
+			"ancestor": "-1",
+			"surface": "그의 첫 골을",
+			"en_modified": 258,
+			"en": 258,
+			"st_modified": 251,
+			"id": 3
+		},
+		{
+			"st": 281,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 282,
+			"en": 282,
+			"st_modified": 281,
+			"id": 4,
+			"coref_index": 202
+		},
+		{
+			"st": 385,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 386,
+			"en": 386,
+			"st_modified": 385,
+			"id": 5,
+			"coref_index": 202
+		},
+		{
+			"st": 507,
+			"ancestor": "1-24",
+			"surface": "그",
+			"en_modified": 508,
+			"en": 508,
+			"st_modified": 507,
+			"id": 6,
+			"coref_index": 202
+		},
+		{
+			"st": 589,
+			"ancestor": "-1",
+			"surface": "모든 경기에서",
+			"en_modified": 596,
+			"en": 596,
+			"st_modified": 589,
+			"id": 7
+		},
+		{
+			"st": 612,
+			"ancestor": "-1",
+			"surface": "이 놀라운 활약에",
+			"en_modified": 621,
+			"en": 621,
+			"st_modified": 612,
+			"id": 8
+		},
+		{
+			"st": 612,
+			"ancestor": "1-18",
+			"surface": "이 놀라운 활약에 반한 인테르_밀란",
+			"en_modified": 631,
+			"en": 631,
+			"st_modified": 612,
+			"id": 9,
+			"coref_index": 203
+		},
+		{
+			"st": 633,
+			"ancestor": "1-24",
+			"surface": "그",
+			"en_modified": 634,
+			"en": 634,
+			"st_modified": 633,
+			"id": 10,
+			"coref_index": 202
+		},
+		{
+			"st": 675,
+			"ancestor": "1-24",
+			"surface": "그",
+			"en_modified": 676,
+			"en": 676,
+			"st_modified": 675,
+			"id": 11,
+			"coref_index": 202
+		},
+		{
+			"st": 788,
+			"ancestor": "1-35",
+			"surface": "그",
+			"en_modified": 789,
+			"en": 789,
+			"st_modified": 788,
+			"id": 12,
+			"coref_index": 202
+		},
+		{
+			"st": 788,
+			"ancestor": "-1",
+			"surface": "그의 직업 윤리까지",
+			"en_modified": 798,
+			"en": 798,
+			"st_modified": 788,
+			"id": 13
+		},
+		{
+			"st": 788,
+			"ancestor": "-1",
+			"surface": "그의 직업 윤리까지 의심받는 지경에",
+			"en_modified": 807,
+			"en": 807,
+			"st_modified": 788,
+			"id": 14
+		},
+		{
+			"st": 887,
+			"ancestor": "1-35",
+			"surface": "그",
+			"en_modified": 888,
+			"en": 888,
+			"st_modified": 887,
+			"id": 15,
+			"coref_index": 202
+		},
+		{
+			"st": 887,
+			"ancestor": "-1",
+			"surface": "그를 쫓아낸 것이었다.",
+			"en_modified": 899,
+			"en": 899,
+			"st_modified": 887,
+			"id": 16
+		},
+		{
+			"st": 900,
+			"ancestor": "1-35",
+			"surface": "그",
+			"en_modified": 901,
+			"en": 901,
+			"st_modified": 900,
+			"id": 17,
+			"coref_index": 202
+		},
+		{
+			"st": 977,
+			"ancestor": "-1",
+			"surface": "부상을 당해 골_가뭄에 시달리고 있던 레알_마드리드_CF",
+			"en_modified": 1008,
+			"en": 1008,
+			"st_modified": 977,
+			"id": 18
+		},
+		{
+			"st": 1010,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 1011,
+			"en": 1011,
+			"st_modified": 1010,
+			"id": 19,
+			"coref_index": 202
+		},
+		{
+			"st": 1079,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 1080,
+			"en": 1080,
+			"st_modified": 1079,
+			"id": 20,
+			"coref_index": 202
+		},
+		{
+			"st": 1154,
+			"ancestor": "-1",
+			"surface": "어느 팀",
+			"en_modified": 1158,
+			"en": 1158,
+			"st_modified": 1154,
+			"id": 21
+		},
+		{
+			"st": 1154,
+			"ancestor": "-1",
+			"surface": "어느 팀으로도 이적하지 못한 아드리아누는, 2006년_가을,",
+			"en_modified": 1187,
+			"en": 1187,
+			"st_modified": 1154,
+			"id": 22
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 5,
+			"st_modified": 0,
+			"coref_index": 202,
+			"entityName": "아드리아노",
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아드리아누",
+			"is_target": true,
+			"en": 5,
+			"id": 0
+		},
+		{
+			"en_modified": 43,
+			"entityName": "브라질",
+			"st_modified": 40,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 40,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "브라질",
+			"is_target": true,
+			"en": 43,
+			"id": 1
+		},
+		{
+			"en_modified": 50,
+			"entityName": "축구_선수",
+			"st_modified": 45,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 45,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "축구_선수",
+			"is_target": true,
+			"en": 50,
+			"id": 2
+		},
+		{
+			"en_modified": 62,
+			"st_modified": 57,
+			"coref_index": 205,
+			"entityName": "스트라이커_(축구)",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 57,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스트라이커",
+			"is_target": true,
+			"en": 62,
+			"id": 3
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1982년_2월_17일",
+			"is_target": false,
+			"en": 21,
+			"id": 4
+		},
+		{
+			"en_modified": 34,
+			"entityName": "",
+			"st_modified": 23,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 23,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "브라질_리우데자네이루",
+			"is_target": true,
+			"en": 34,
+			"id": 5
+		},
+		{
+			"en_modified": 55,
+			"entityName": "",
+			"st_modified": 52,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 52,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "포지션",
+			"is_target": true,
+			"en": 55,
+			"id": 6
+		},
+		{
+			"en_modified": 97,
+			"entityName": "",
+			"st_modified": 69,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 69,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "내셔널_프리미어_사커_리그_마이애미_유나이티드_FC",
+			"is_target": true,
+			"en": 97,
+			"id": 7
+		},
+		{
+			"en_modified": 109,
+			"entityName": "",
+			"st_modified": 104,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 104,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "선수_경력",
+			"is_target": true,
+			"en": 109,
+			"id": 8
+		},
+		{
+			"en_modified": 121,
+			"entityName": "1999년",
+			"st_modified": 116,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 116,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1999년",
+			"is_target": false,
+			"en": 121,
+			"id": 9
+		},
+		{
+			"en_modified": 127,
+			"st_modified": 122,
+			"coref_index": 202,
+			"entityName": "아드리아노",
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"eType": "ELU",
+			"st": 122,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "아드리아누",
+			"is_target": true,
+			"en": 127,
+			"id": 10
+		},
+		{
+			"en_modified": 174,
+			"entityName": "2000년",
+			"st_modified": 169,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 169,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2000년",
+			"is_target": false,
+			"en": 174,
+			"id": 11
+		},
+		{
+			"en_modified": 194,
+			"entityName": "2001년",
+			"st_modified": 189,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 189,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2001년",
+			"is_target": false,
+			"en": 194,
+			"id": 12
+		},
+		{
+			"en_modified": 198,
+			"st_modified": 195,
+			"coref_index": 203,
+			"entityName": "FC_인테르나치오날레_밀라노",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 195,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "인테르",
+			"is_target": true,
+			"en": 198,
+			"id": 13
+		},
+		{
+			"en_modified": 219,
+			"st_modified": 212,
+			"coref_index": 204,
+			"entityName": "레알_마드리드_CF",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 212,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "레알_마드리드",
+			"is_target": true,
+			"en": 219,
+			"id": 14
+		},
+		{
+			"en_modified": 280,
+			"entityName": "2002년",
+			"st_modified": 275,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 275,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2002년",
+			"is_target": false,
+			"en": 280,
+			"id": 15
+		},
+		{
+			"en_modified": 289,
+			"entityName": "ACF_피오렌티나",
+			"st_modified": 284,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 284,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "피오렌티나",
+			"is_target": true,
+			"en": 289,
+			"id": 16
+		},
+		{
+			"en_modified": 315,
+			"st_modified": 310,
+			"coref_index": 202,
+			"entityName": "아드리아노",
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"eType": "ELU",
+			"st": 310,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "아드리아누",
+			"is_target": true,
+			"en": 315,
+			"id": 17
+		},
+		{
+			"en_modified": 329,
+			"st_modified": 323,
+			"coref_index": 203,
+			"entityName": "FC_인테르나치오날레_밀라노",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 323,
+			"ancestor": "1-13",
+			"ne_type": "ORGANIZATION",
+			"surface": "인테르_밀란",
+			"is_target": true,
+			"en": 329,
+			"id": 18
+		},
+		{
+			"en_modified": 334,
+			"entityName": "파르마_FC",
+			"st_modified": 331,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 331,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "파르마",
+			"is_target": true,
+			"en": 334,
+			"id": 19
+		},
+		{
+			"en_modified": 346,
+			"entityName": "공동소유",
+			"st_modified": 342,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 342,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공동소유",
+			"is_target": true,
+			"en": 346,
+			"id": 20
+		},
+		{
+			"en_modified": 395,
+			"entityName": "아드리안_무투",
+			"st_modified": 388,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 388,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아드리안_무투",
+			"is_target": true,
+			"en": 395,
+			"id": 21
+		},
+		{
+			"en_modified": 139,
+			"entityName": "",
+			"st_modified": 129,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 129,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "플라멩구_유소년_팀",
+			"is_target": true,
+			"en": 139,
+			"id": 22
+		},
+		{
+			"en_modified": 306,
+			"entityName": "",
+			"st_modified": 298,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 298,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2002년_여름",
+			"is_target": false,
+			"en": 306,
+			"id": 23
+		},
+		{
+			"en_modified": 451,
+			"st_modified": 446,
+			"coref_index": 202,
+			"entityName": "아드리아노",
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"eType": "ELU",
+			"st": 446,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "아드리아누",
+			"is_target": true,
+			"en": 451,
+			"id": 24
+		},
+		{
+			"en_modified": 463,
+			"st_modified": 459,
+			"coref_index": 203,
+			"entityName": "산_시로",
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 459,
+			"ancestor": "1-18",
+			"ne_type": "LOCATION",
+			"surface": "산_시로",
+			"is_target": true,
+			"en": 463,
+			"id": 25
+		},
+		{
+			"en_modified": 504,
+			"entityName": "세리에_A_2004-05",
+			"st_modified": 495,
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"eType": "WIKILINK",
+			"st": 495,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2004-05시즌",
+			"is_target": true,
+			"en": 504,
+			"id": 26
+		},
+		{
+			"en_modified": 568,
+			"st_modified": 563,
+			"coref_index": 202,
+			"entityName": "아드리아노",
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"eType": "ELU",
+			"st": 563,
+			"ancestor": "1-24",
+			"ne_type": "ETC",
+			"surface": "아드리아누",
+			"is_target": true,
+			"en": 568,
+			"id": 27
+		},
+		{
+			"en_modified": 631,
+			"st_modified": 625,
+			"coref_index": 203,
+			"entityName": "FC_인테르나치오날레_밀라노",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 625,
+			"ancestor": "1-18",
+			"ne_type": "ORGANIZATION",
+			"surface": "인테르_밀란",
+			"is_target": true,
+			"en": 631,
+			"id": 28
+		},
+		{
+			"en_modified": 458,
+			"entityName": "",
+			"st_modified": 453,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 453,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2004년",
+			"is_target": false,
+			"en": 458,
+			"id": 29
+		},
+		{
+			"en_modified": 544,
+			"entityName": "",
+			"st_modified": 532,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 532,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2004년_7월_11일",
+			"is_target": false,
+			"en": 544,
+			"id": 30
+		},
+		{
+			"en_modified": 559,
+			"entityName": "",
+			"st_modified": 547,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 547,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2005년_6월_25일",
+			"is_target": false,
+			"en": 559,
+			"id": 31
+		},
+		{
+			"en_modified": 575,
+			"entityName": "",
+			"st_modified": 570,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 570,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "클럽_경기",
+			"is_target": true,
+			"en": 575,
+			"id": 32
+		},
+		{
+			"en_modified": 585,
+			"entityName": "",
+			"st_modified": 577,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 577,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "클럽_국제_경기",
+			"is_target": true,
+			"en": 585,
+			"id": 33
+		},
+		{
+			"en_modified": 658,
+			"entityName": "",
+			"st_modified": 646,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 646,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2010년_6월_30일",
+			"is_target": false,
+			"en": 658,
+			"id": 34
+		},
+		{
+			"en_modified": 688,
+			"st_modified": 683,
+			"coref_index": 202,
+			"entityName": "아드리아노",
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"eType": "ELU",
+			"st": 683,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "아드리아누",
+			"is_target": true,
+			"en": 688,
+			"id": 35
+		},
+		{
+			"en_modified": 695,
+			"entityName": "2006년",
+			"st_modified": 690,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 690,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2006년",
+			"is_target": false,
+			"en": 695,
+			"id": 36
+		},
+		{
+			"en_modified": 702,
+			"entityName": "2007년",
+			"st_modified": 697,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 697,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2007년",
+			"is_target": false,
+			"en": 702,
+			"id": 37
+		},
+		{
+			"en_modified": 733,
+			"entityName": "세리에_A_2006-07",
+			"st_modified": 724,
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"eType": "WIKILINK",
+			"st": 724,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2006-07시즌",
+			"is_target": true,
+			"en": 733,
+			"id": 38
+		},
+		{
+			"en_modified": 829,
+			"entityName": "2006년_10월",
+			"st_modified": 820,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 820,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2006년_10월",
+			"is_target": true,
+			"en": 829,
+			"id": 39
+		},
+		{
+			"en_modified": 849,
+			"entityName": "둥가",
+			"st_modified": 847,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 847,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "둥가",
+			"is_target": true,
+			"en": 849,
+			"id": 40
+		},
+		{
+			"en_modified": 929,
+			"st_modified": 922,
+			"coref_index": 204,
+			"entityName": "레알_마드리드_CF",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 922,
+			"ancestor": "1-14",
+			"ne_type": "ORGANIZATION",
+			"surface": "레알_마드리드",
+			"is_target": true,
+			"en": 929,
+			"id": 41
+		},
+		{
+			"en_modified": 933,
+			"entityName": "첼시_FC",
+			"st_modified": 931,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 931,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "첼시",
+			"is_target": true,
+			"en": 933,
+			"id": 42
+		},
+		{
+			"en_modified": 940,
+			"st_modified": 935,
+			"coref_index": 206,
+			"entityName": "AC_밀란",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 935,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "AC_밀란",
+			"is_target": true,
+			"en": 940,
+			"id": 43
+		},
+		{
+			"en_modified": 961,
+			"entityName": "라울_곤살레스",
+			"st_modified": 954,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 954,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "라울_곤살레스",
+			"is_target": true,
+			"en": 961,
+			"id": 44
+		},
+		{
+			"en_modified": 973,
+			"entityName": "뤼트_판_니스텔로이",
+			"st_modified": 963,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 963,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "뤼트_판_니스텔로이",
+			"is_target": true,
+			"en": 973,
+			"id": 45
+		},
+		{
+			"en_modified": 1008,
+			"st_modified": 998,
+			"coref_index": 204,
+			"entityName": "레알_마드리드_CF",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 998,
+			"ancestor": "1-41",
+			"ne_type": "ORGANIZATION",
+			"surface": "레알_마드리드_CF",
+			"is_target": true,
+			"en": 1008,
+			"id": 46
+		},
+		{
+			"en_modified": 1033,
+			"st_modified": 1027,
+			"coref_index": 203,
+			"entityName": "FC_인테르나치오날레_밀라노",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 1027,
+			"ancestor": "1-28",
+			"ne_type": "ORGANIZATION",
+			"surface": "인테르_밀란",
+			"is_target": true,
+			"en": 1033,
+			"id": 47
+		},
+		{
+			"en_modified": 1057,
+			"entityName": "티에리_앙리",
+			"st_modified": 1051,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1051,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "티에리_앙리",
+			"is_target": true,
+			"en": 1057,
+			"id": 48
+		},
+		{
+			"en_modified": 1103,
+			"entityName": "웨스트_햄_유나이티드_FC",
+			"st_modified": 1092,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1092,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "웨스트_햄_유나이티드",
+			"is_target": true,
+			"en": 1103,
+			"id": 49
+		},
+		{
+			"en_modified": 1175,
+			"st_modified": 1170,
+			"coref_index": 202,
+			"entityName": "아드리아노",
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"eType": "ELU",
+			"st": 1170,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "아드리아누",
+			"is_target": true,
+			"en": 1175,
+			"id": 50
+		},
+		{
+			"en_modified": 1195,
+			"st_modified": 1188,
+			"coref_index": 204,
+			"entityName": "레알_마드리드_CF",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 1188,
+			"ancestor": "1-41",
+			"ne_type": "ORGANIZATION",
+			"surface": "레알_마드리드",
+			"is_target": true,
+			"en": 1195,
+			"id": 51
+		},
+		{
+			"en_modified": 1011,
+			"st_modified": 1010,
+			"coref_index": 202,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1010,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그",
+			"is_target": true,
+			"en": 1011,
+			"id": 52
+		},
+		{
+			"en_modified": 1040,
+			"entityName": "",
+			"st_modified": 1038,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1038,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "의사",
+			"is_target": true,
+			"en": 1040,
+			"id": 53
+		},
+		{
+			"en_modified": 1077,
+			"entityName": "",
+			"st_modified": 1071,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1071,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "클럽_아스널",
+			"is_target": true,
+			"en": 1077,
+			"id": 54
+		},
+		{
+			"en_modified": 1110,
+			"st_modified": 1105,
+			"coref_index": 205,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1105,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "스트라이커",
+			"is_target": true,
+			"en": 1110,
+			"id": 55
+		},
+		{
+			"en_modified": 1137,
+			"entityName": "",
+			"st_modified": 1119,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1119,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2007년_여름_이적_시장_막바지",
+			"is_target": true,
+			"en": 1137,
+			"id": 56
+		},
+		{
+			"en_modified": 1158,
+			"entityName": "",
+			"st_modified": 1157,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1157,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "팀",
+			"is_target": true,
+			"en": 1158,
+			"id": 57
+		},
+		{
+			"en_modified": 1186,
+			"entityName": "",
+			"st_modified": 1178,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1178,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2006년_가을",
+			"is_target": false,
+			"en": 1186,
+			"id": 58
+		},
+		{
+			"en_modified": 1202,
+			"st_modified": 1197,
+			"coref_index": 206,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1197,
+			"ancestor": "1-43",
+			"ne_type": "ORGANIZATION",
+			"surface": "AC_밀란",
+			"is_target": true,
+			"en": 1202,
+			"id": 59
+		},
+		{
+			"en_modified": 988,
+			"entityName": "",
+			"st_modified": 984,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 984,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "골_가뭄",
+			"is_target": true,
+			"en": 988,
+			"id": 60
+		},
+		{
+			"en_modified": 1069,
+			"entityName": "",
+			"st_modified": 1064,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1064,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "런던_기반",
+			"is_target": true,
+			"en": 1069,
+			"id": 61
+		}
+	],
+	"globalSID": "991335,991336,991337,991338,991339,991340,991341,991342,991343,991344,991345,991346,991347,991348,991349,991350,991351,991352,991353,991354,991355,991356,991357,991358,991359",
+	"plainText": "아드리아누 (, 1982년_2월_17일, 브라질_리우데자네이루 ~ )는 브라질의 축구_선수로 포지션은 스트라이커이다. 현재 내셔널_프리미어_사커_리그_마이애미_유나이티드_FC 소속이다. 선수_경력 클럽 경력 1999년 아드리아누는 플라멩구_유소년_팀에서 클럽 축구를 시작했다. 팀 경영진에 눈에 띄어서 2000년에는 1군으로 승격되었다. 2001년 인테르로 이적하였다. 데뷔전은 레알_마드리드와의 경기였는데, 교체 선수로 출장한 이 경기에서, 그는 그의 첫 골을 성공시켜 큰 인상을 남겼다. 2002년 그는 피오렌티나로 임대되었다. 2002년_여름에는, 아드리아누의 양해하에, 인테르_밀란과 파르마와의 2년짜리 공동소유(co-ownership) 계약이 맺어지기도 하였다. 파르마 팀에서, 그는 아드리안_무투와 함께 세리에 A의 강력한 스트라이커로서 활약하였으며, 36경기에서 22골을 기록하였다. 아드리아누는 2004년 산_시로로 돌아왔으며, 4년 반짜리 계약을 맺었다. 세리에 A의 2004-05시즌에서 그는 16경기 출장에 15 골을 기록하였다. 2004년_7월_11일부터 2005년_6월_25일까지, 아드리아누는 클럽_경기, 클럽_국제_경기 포함 모든 경기에서 무려 40골을 기록하였다. 이 놀라운 활약에 반한 인테르_밀란은 그를 붙들어 놓기 위해 2010년_6월_30일까지의 더 나은 조건의 계약을 그와 맺었다. 아드리아누는 2006년, 2007년에는 그다지 좋은 활약을 하지 못했다. 2006-07시즌이 열리고 있는 도중, 나이트클럽에서 춤추고 놀고 있는 것이 두 번씩이나 목격된 사건을 발단으로, 그의 직업 윤리까지 의심받는 지경에 이르렀다. 첫 사고는 2006년_10월 발생하였다. 브라질 출신 코치 둥가가 \"똑바로 살아라\", \"축구에 집중해라\"하면서 브라질국가대표팀에서 그를 쫓아낸 것이었다. 그는 2007-08 여름 이적 시장에서 레알_마드리드, 첼시, AC_밀란 등이 노리는 대어였다. 라울_곤살레스와 뤼트_판_니스텔로이 등이 부상을 당해 골_가뭄에 시달리고 있던 레알_마드리드_CF가 그에게 관심을 보였다. 하지만 인테르_밀란이 매각 의사를 밝히지 않았다. 티에리_앙리가 떠나버린 런던_기반의 클럽_아스널도 그에게 관심을 보였다. 웨스트_햄_유나이티드도 스트라이커 영입을 위해, 2007년_여름_이적_시장_막바지에, 힘을 써 보기도 하였다. 어느 팀으로도 이적하지 못한 아드리아누는, 2006년_가을, 레알_마드리드나 AC_밀란으로 이적하고 싶다고 말한 바 있다. ",
+	"docID": "142674",
+	"ModifiedText": "아드리아누 (, 1982년 2월 17일, 브라질 리우데자네이루 ~ )는 브라질의 축구 선수로 포지션은 스트라이커이다. 현재 내셔널 프리미어 사커 리그 마이애미 유나이티드 FC 소속이다. 선수 경력 클럽 경력 1999년 아드리아누는 플라멩구 유소년 팀에서 클럽 축구를 시작했다. 팀 경영진에 눈에 띄어서 2000년에는 1군으로 승격되었다. 2001년 인테르로 이적하였다. 데뷔전은 레알 마드리드와의 경기였는데, 교체 선수로 출장한 이 경기에서, 그는 그의 첫 골을 성공시켜 큰 인상을 남겼다. 2002년 그는 피오렌티나로 임대되었다. 2002년 여름에는, 아드리아누의 양해하에, 인테르 밀란과 파르마와의 2년짜리 공동소유(co-ownership) 계약이 맺어지기도 하였다. 파르마 팀에서, 그는 아드리안 무투와 함께 세리에 A의 강력한 스트라이커로서 활약하였으며, 36경기에서 22골을 기록하였다. 아드리아누는 2004년 산 시로로 돌아왔으며, 4년 반짜리 계약을 맺었다. 세리에 A의 2004-05시즌에서 그는 16경기 출장에 15 골을 기록하였다. 2004년 7월 11일부터 2005년 6월 25일까지, 아드리아누는 클럽 경기, 클럽 국제 경기 포함 모든 경기에서 무려 40골을 기록하였다. 이 놀라운 활약에 반한 인테르 밀란은 그를 붙들어 놓기 위해 2010년 6월 30일까지의 더 나은 조건의 계약을 그와 맺었다. 아드리아누는 2006년, 2007년에는 그다지 좋은 활약을 하지 못했다. 2006-07시즌이 열리고 있는 도중, 나이트클럽에서 춤추고 놀고 있는 것이 두 번씩이나 목격된 사건을 발단으로, 그의 직업 윤리까지 의심받는 지경에 이르렀다. 첫 사고는 2006년 10월 발생하였다. 브라질 출신 코치 둥가가 \"똑바로 살아라\", \"축구에 집중해라\"하면서 브라질국가대표팀에서 그를 쫓아낸 것이었다. 그는 2007-08 여름 이적 시장에서 레알 마드리드, 첼시, AC 밀란 등이 노리는 대어였다. 라울 곤살레스와 뤼트 판 니스텔로이 등이 부상을 당해 골 가뭄에 시달리고 있던 레알 마드리드 CF가 그에게 관심을 보였다. 하지만 인테르 밀란이 매각 의사를 밝히지 않았다. 티에리 앙리가 떠나버린 런던 기반의 클럽 아스널도 그에게 관심을 보였다. 웨스트 햄 유나이티드도 스트라이커 영입을 위해, 2007년 여름 이적 시장 막바지에, 힘을 써 보기도 하였다. 어느 팀으로도 이적하지 못한 아드리아누는, 2006년 가을, 레알 마드리드나 AC 밀란으로 이적하고 싶다고 말한 바 있다. "
+}

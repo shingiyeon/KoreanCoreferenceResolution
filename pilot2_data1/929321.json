@@ -1,0 +1,977 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "마르코_베라티",
+			"en": 7,
+			"is_target": true,
+			"surface": "마르코_베라티",
+			"coref_index": 1138,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 25,
+			"eType": "WIKILINK",
+			"entityName": "페스카라",
+			"en": 29,
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 72,
+			"eType": "WIKILINK",
+			"entityName": "중앙_미드필더",
+			"en": 79,
+			"is_target": true,
+			"surface": "중앙_미드필더",
+			"coref_index": 1140,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 23,
+			"is_target": false,
+			"surface": "1992년_11월_5일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 35,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 46,
+			"is_target": true,
+			"surface": "이탈리아의_축구_선수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 52,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 69,
+			"is_target": true,
+			"surface": "프랑스_리그_1의_파리_생제르맹",
+			"coref_index": 1142,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 142,
+			"eType": "ELU",
+			"en": 145,
+			"entityName": "마르코_베라티",
+			"is_target": true,
+			"surface": "베라티",
+			"coref_index": 1138,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 147,
+			"eType": "WIKILINK",
+			"en": 151,
+			"entityName": "페스카라",
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 160,
+			"eType": "WIKILINK",
+			"en": 163,
+			"entityName": "라퀼라",
+			"is_target": true,
+			"surface": "라퀼라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"st": 180,
+			"eType": "WIKILINK",
+			"en": 184,
+			"entityName": "유벤투스_FC",
+			"is_target": true,
+			"surface": "유벤투스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"st": 200,
+			"eType": "WIKILINK",
+			"en": 213,
+			"entityName": "이탈리아_축구_국가대표팀",
+			"is_target": true,
+			"surface": "이탈리아_축구_국가대표팀",
+			"coref_index": 1141,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 224,
+			"eType": "WIKILINK",
+			"en": 235,
+			"entityName": "알레산드로_델_피에로",
+			"is_target": true,
+			"surface": "알레산드로_델_피에로",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 243,
+			"eType": "ELU",
+			"en": 246,
+			"entityName": "마르코_베라티",
+			"is_target": true,
+			"surface": "베라티",
+			"coref_index": 1138,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"st": 268,
+			"eType": "WIKILINK",
+			"en": 272,
+			"entityName": "아탈란타_BC",
+			"is_target": true,
+			"surface": "아탈란타",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"st": 309,
+			"eType": "WIKILINK",
+			"en": 313,
+			"entityName": "페스카라_칼초",
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"st": 345,
+			"eType": "WIKILINK",
+			"en": 347,
+			"entityName": "AC_밀란",
+			"is_target": true,
+			"surface": "밀란",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 331,
+			"eType": "NEW",
+			"en": 342,
+			"entityName": "",
+			"is_target": true,
+			"surface": "페스카라_U-16_팀",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 274,
+			"eType": "NEW",
+			"en": 287,
+			"entityName": "",
+			"is_target": true,
+			"surface": "인테르나치오날레_유소년팀",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 391,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 396,
+			"is_target": true,
+			"surface": "선수_경력",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 397,
+			"eType": "ELU",
+			"entityName": "페스카라",
+			"en": 401,
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 402,
+			"eType": "WIKILINK",
+			"entityName": "중앙_미드필더",
+			"en": 409,
+			"is_target": true,
+			"surface": "중앙_미드필더",
+			"coref_index": 1140,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 430,
+			"eType": "ELU",
+			"entityName": "마르코_베라티",
+			"en": 433,
+			"is_target": true,
+			"surface": "베라티",
+			"coref_index": 1138,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 22,
+			"ne_type": "ORGANIZATION",
+			"st": 435,
+			"eType": "WIKILINK",
+			"entityName": "페스카라_칼초",
+			"en": 439,
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 492,
+			"eType": "WIKILINK",
+			"entityName": "세리에_B_2009-10",
+			"en": 502,
+			"is_target": true,
+			"surface": "2009-10_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 24,
+			"ne_type": "LOCATION",
+			"st": 505,
+			"eType": "ELU",
+			"entityName": "페스카라",
+			"en": 509,
+			"is_target": true,
+			"surface": "페스카라",
+			"coref_index": 1139,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 413,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 415,
+			"is_target": true,
+			"surface": "재능",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 421,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 425,
+			"is_target": true,
+			"surface": "패스실력",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 441,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 445,
+			"is_target": true,
+			"surface": "유소년팀",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 458,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 461,
+			"is_target": true,
+			"surface": "16살",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "TIME",
+			"st": 465,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 475,
+			"is_target": true,
+			"surface": "2008-09_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 477,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 485,
+			"is_target": true,
+			"surface": "1군_무대_데뷔",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 526,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 528,
+			"is_target": true,
+			"surface": "1군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "PERSON",
+			"st": 530,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 535,
+			"is_target": true,
+			"surface": "주축_선수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 549,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 556,
+			"is_target": true,
+			"surface": "이탈리아_언론",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 581,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 590,
+			"is_target": true,
+			"surface": "이탈리아_국가대표",
+			"coref_index": 1141,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "PERSON",
+			"st": 592,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 594,
+			"is_target": true,
+			"surface": "거물",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 618,
+			"eType": "WIKILINK",
+			"entityName": "세리에_B_2011-12",
+			"en": 628,
+			"is_target": true,
+			"surface": "2011-12_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 656,
+			"eType": "WIKILINK",
+			"entityName": "딥-라잉_플레이메이커",
+			"en": 667,
+			"is_target": true,
+			"surface": "딥-라잉_플레이메이커",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 605,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 614,
+			"is_target": true,
+			"surface": "즈데녝_제만_감독",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 684,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 686,
+			"is_target": true,
+			"surface": "언론",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 40,
+			"ne_type": "ORGANIZATION",
+			"st": 729,
+			"eType": "ELU",
+			"entityName": "파리_생제르맹_FC",
+			"en": 736,
+			"is_target": true,
+			"surface": "파리_생제르맹",
+			"coref_index": 1142,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 41,
+			"ne_type": "PERSON",
+			"st": 751,
+			"eType": "ELU",
+			"entityName": "마르코_베라티",
+			"en": 754,
+			"is_target": true,
+			"surface": "베라티",
+			"coref_index": 1138,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 42,
+			"ne_type": "LOCATION",
+			"st": 756,
+			"eType": "ELU",
+			"entityName": "파리_(프랑스)",
+			"en": 765,
+			"is_target": true,
+			"surface": "프랑스_리그_1에",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 765,
+			"eType": "WIKILINK",
+			"entityName": "리그_1",
+			"en": 769,
+			"is_target": true,
+			"surface": "리그_1",
+			"coref_index": 1143,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 44,
+			"ne_type": "ORGANIZATION",
+			"st": 775,
+			"eType": "WIKILINK",
+			"entityName": "파리_생제르맹_FC",
+			"en": 782,
+			"is_target": true,
+			"surface": "파리_생제르맹",
+			"coref_index": 1142,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 45,
+			"ne_type": "LOCATION",
+			"st": 813,
+			"eType": "WIKILINK",
+			"entityName": "파리_(도시)",
+			"en": 815,
+			"is_target": true,
+			"surface": "파리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"id": 46,
+			"ne_type": "LOCATION",
+			"st": 817,
+			"eType": "WIKILINK",
+			"entityName": "파르크_데_프랭스",
+			"en": 826,
+			"is_target": true,
+			"surface": "파르크_데_프랭스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 47,
+			"ne_type": "ORGANIZATION",
+			"st": 832,
+			"eType": "WIKILINK",
+			"entityName": "FC_로리앙",
+			"en": 835,
+			"is_target": true,
+			"surface": "로리앙",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 838,
+			"eType": "WIKILINK",
+			"entityName": "리그_1_2012-13",
+			"en": 842,
+			"is_target": true,
+			"surface": "리그_1",
+			"coref_index": 1143,
+			"ancestor": "1-43"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 953,
+			"eType": "ELU",
+			"entityName": "마르코_베라티",
+			"en": 956,
+			"is_target": true,
+			"surface": "베라티",
+			"coref_index": 1138,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "TIME",
+			"st": 737,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 749,
+			"is_target": false,
+			"surface": "2012년_7월_18일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "TIME",
+			"st": 796,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 808,
+			"is_target": false,
+			"surface": "2012년_8월_11일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "TIME",
+			"st": 873,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 880,
+			"is_target": true,
+			"surface": "2012-13",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "EVENT",
+			"st": 898,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 912,
+			"is_target": true,
+			"surface": "PSG의_챔피언스리그_경기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "TIME",
+			"st": 939,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 951,
+			"is_target": false,
+			"surface": "2013년_8월_20일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "TIME",
+			"st": 978,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 983,
+			"is_target": false,
+			"surface": "2018년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "TIME",
+			"st": 963,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 965,
+			"is_target": false,
+			"surface": "1년",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "3050277,3050278,3050279,3050280,3050281,3050282,3050283,3050284,3050285,3050286,3050287,3050288,3050289,3050290,3050291,3050292,3050293,3050294,3050295,3050296",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-0",
+			"st": 119,
+			"en": 120,
+			"surface": "그",
+			"coref_index": 1138
+		},
+		{
+			"id": 1,
+			"ancestor": "1-6",
+			"st": 177,
+			"en": 178,
+			"surface": "그",
+			"coref_index": 1138
+		},
+		{
+			"id": 2,
+			"ancestor": "1-6",
+			"st": 301,
+			"en": 302,
+			"surface": "그",
+			"coref_index": 1138
+		},
+		{
+			"id": 3,
+			"ancestor": "1-21",
+			"st": 542,
+			"en": 543,
+			"surface": "그",
+			"coref_index": 1138
+		},
+		{
+			"id": 4,
+			"en": 548,
+			"ancestor": "-1",
+			"st": 542,
+			"surface": "그의 활약은"
+		},
+		{
+			"id": 5,
+			"ancestor": "1-0",
+			"st": 631,
+			"en": 632,
+			"surface": "그",
+			"coref_index": 1138
+		},
+		{
+			"id": 6,
+			"ancestor": "1-0",
+			"st": 698,
+			"en": 699,
+			"surface": "그",
+			"coref_index": 1138
+		},
+		{
+			"id": 7,
+			"ancestor": "1-0",
+			"st": 810,
+			"en": 811,
+			"surface": "그",
+			"coref_index": 1138
+		},
+		{
+			"id": 8,
+			"ancestor": "1-0",
+			"st": 870,
+			"en": 871,
+			"surface": "그",
+			"coref_index": 1138
+		}
+	],
+	"plainText": "마르코_베라티 (, 1992년_11월_5일, 페스카라 ~) 는 이탈리아의_축구_선수로, 현재 프랑스_리그_1의_파리_생제르맹에서 중앙_미드필더로 활약하고 있다. 볼 소유 능력과 패스 능력으로 알려져 있다. 특히, 그는 기술력으로 알려져 있다. 초기 생애 베라티는 페스카라에서 태어났고, 라퀼라에서 자랐다. 어린 시절 그는 유벤투스를 응원했고 팀의 레전드이자 이탈리아_축구_국가대표팀의 플레이메이커였던 알레산드로_델_피에로의 팬이였다. 베라티의 재능은 어린 나이에 관심을 끌게되어 아탈란타와 인테르나치오날레_유소년팀 입단 신청을 받았지만, 그는 고향팀인 페스카라와 5천 유로에 계약을 맺었다. 페스카라_U-16_팀에서 밀란을 상대로 인상적인 활약을 펼친후, 30만 유로의 입단 제안을 받기도 하였다. 선수_경력 페스카라 중앙_미드필더로서의 재능과 뛰어난 패스실력을 가진 베라티는 페스카라의 유소년팀을 거치며 발전하였고, 16살이였던 2008-09_시즌에 1군_무대_데뷔를 하였다. 2009-10_시즌에는 페스카라에서 더 정기적으로 출전하였고 1군의 주축_선수가 되었다. 그의 활약은 이탈리아_언론들로부터 뛰어난 재능을 가진 잠재적인 미래와 이탈리아_국가대표의 거물이라고 보도되었다. 즈데녝_제만_감독 하의 2011-12_시즌에, 그는 감독의 상징적인 4-3-3 포메이션에서 딥-라잉_플레이메이커로 이동 배치되었고, 더 많은 언론들의 주목을 받았다. 그는 새 포지션에서 즉시 팀의 상징적인 존재가 되었다. 파리_생제르맹 2012년_7월_18일, 베라티는 프랑스_리그_1에리그_1에 소속된 파리_생제르맹과 5년 계약을 맺었다. 2012년_8월_11일, 그는 파리의 파르크_데_프랭스에서 열린 로리앙과의 리그_1 개막전에서 선발로 출전하며 새 팀에 데뷔하였다. 그는 2012-13 시즌동안 39경기에 출전하며, PSG의_챔피언스리그_경기에서 핵심적인 역할을 맡으며 9경기 출전하였다. 2013년_8월_20일, 베라티는 PSG와 1년 연장 계약을 체결하며 2018년까지 팀에 남게 되었다. ",
+	"docID": "929321"
+}

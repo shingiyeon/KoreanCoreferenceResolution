@@ -1,0 +1,101 @@
+{
+	"docID": "609167",
+	"globalSID": "2410389",
+	"pronouns": [
+		{
+			"st": 40,
+			"coref_index": 736,
+			"id": 0,
+			"en": 42,
+			"ancestor": "5-2",
+			"surface": "그곳"
+		},
+		{
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "그곳의 한 군을",
+			"id": 1,
+			"st": 40
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Noble"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "오다_노부나가",
+			"entityName": "오다_노부나가"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 19,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "-1",
+			"coref_index": 730,
+			"surface": "시바타_가쓰이에",
+			"entityName": "시바타_가쓰이에"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 32,
+			"ancestor": "-1",
+			"coref_index": 736,
+			"surface": "에치젠",
+			"entityName": "에치젠_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 68,
+			"ancestor": "-1",
+			"surface": "가가",
+			"entityName": "가가_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 70,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "일향종",
+			"entityName": "일향종"
+		}
+	],
+	"plainText": "오다_노부나가의 에치젠 정벌 이후 시바타_가쓰이에가 에치젠 영지를 받자 그곳의 한 군을 받아, 시바타 휘하에 소속되어 가가의 일향종과 싸움을 거듭하였다."
+}

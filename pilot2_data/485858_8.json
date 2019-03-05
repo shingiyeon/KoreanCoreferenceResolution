@@ -1,0 +1,43 @@
+{
+	"docID": "485858",
+	"globalSID": "2146922",
+	"pronouns": [],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "2-0",
+			"coref_index": 621,
+			"surface": "주찬권",
+			"entityName": "주찬권"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "2-3",
+			"coref_index": 622,
+			"surface": "최구희",
+			"entityName": ""
+		}
+	],
+	"plainText": "1집 때에 주찬권과 최구희는 정식 멤버가 아니라 세션이어서 커버에 실리지 못했다."
+}

@@ -1,0 +1,104 @@
+{
+	"docID": "180063",
+	"globalSID": "1170062,1170063,1170064,1170065,1170066",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "박태민",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "박태민",
+			"coref_index": 309
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 62,
+			"eType": "ELU",
+			"entityName": "나도현",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 65,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "나도현",
+			"coref_index": 307
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 151,
+			"eType": "ELU",
+			"entityName": "박태민_(프로게이머)",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 154,
+			"ancestor": "5-0",
+			"is_target": true,
+			"surface": "박태민",
+			"coref_index": 309
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 183,
+			"eType": "ELU",
+			"entityName": "나도현",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 186,
+			"ancestor": "5-1",
+			"is_target": true,
+			"surface": "나도현",
+			"coref_index": 307
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 197,
+			"eType": "ELU",
+			"entityName": "나도현",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 200,
+			"ancestor": "5-1",
+			"is_target": true,
+			"surface": "나도현",
+			"coref_index": 307
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 18,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2004년_5월_14일"
+		}
+	],
+	"plainText": "실신 사건 2004년_5월_14일 질레트 스타리그 16강전 C조 경기에서 박태민과의 경기를 위해 경기석에 앉은 나도현은 몸상태가 좋지 않다고 호소하며 경기에 조인하지 못하던 중 갑자기 실신하고 말았다. 더 이상 경기 진행이 불가능한 상태로 몰수패가 선언될 수 있었으나, 박태민 측의 의사로 후에 재경기가 치러졌고, 재경기에서는 나도현이 승리했다. 당시 나도현에게 비난의 화살이 쏟아지기도 했지만, 실신의 원인이 영양부족으로 인한 폐렴으로 알려지자 당시 열악했던 선수들의 연습환경과 처우에 대한 논쟁이 벌어지기도 했다. 이후 좋지 않은 컨디션을 극복해 가며 4강에 진출, 2연속 스타리그 4강 진출에 성공했다."
+}

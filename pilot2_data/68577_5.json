@@ -1,0 +1,221 @@
+{
+	"docID": "68577",
+	"globalSID": "564881,564882,564883",
+	"pronouns": [
+		{
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "그 동안",
+			"id": 0,
+			"st": 73
+		},
+		{
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "그 동안 볼 수",
+			"id": 1,
+			"st": 73
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "안톤_판_레이우엔훅",
+			"entityName": "안톤_판_레이우엔훅"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"coref_index": 801,
+			"surface": "현미경",
+			"entityName": "현미경"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "5-1",
+			"coref_index": 801,
+			"surface": "현미경",
+			"entityName": "현미경"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 88,
+			"ancestor": "-1",
+			"surface": "정자",
+			"entityName": "정자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"surface": "박테리아",
+			"entityName": "박테리아"
+		},
+		{
+			"kbox_types": [
+				"TopicalConcept",
+				"Taxon"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "원생동물",
+			"entityName": "원생동물"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 123,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 127,
+			"ancestor": "-1",
+			"surface": "네덜란드",
+			"entityName": "네덜란드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 136,
+			"ancestor": "-1",
+			"surface": "얀_스왐메르담",
+			"entityName": "얀_스왐메르담"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"st": 138,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "곤충",
+			"entityName": "곤충"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 37,
+			"ancestor": "2-12",
+			"coref_index": 798,
+			"surface": "생물학",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "생물학자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 159,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 165,
+			"ancestor": "-1",
+			"surface": "표본_염색법",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 177,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 180,
+			"ancestor": "5-2",
+			"coref_index": 801,
+			"surface": "현미경",
+			"entityName": ""
+		}
+	],
+	"plainText": "근대에 이르러 안톤_판_레이우엔훅이 발명한 현미경의 도입으로 생물학은 장족의 발전을 할 수 있었다. 생물학자들은 현미경을 사용하여 그 동안 볼 수 없었던 정자, 박테리아, 원생동물과 같은 작은 생물체를 관찰하게 되었다. 네덜란드의 얀_스왐메르담은 곤충을 연구하면서 미세 표본의 제작, 표본_염색법 등 오늘날 사용되는 현미경 관찰 기술들을 도입하였다."
+}

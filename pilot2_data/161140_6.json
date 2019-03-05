@@ -1,0 +1,150 @@
+{
+	"docID": "161140",
+	"globalSID": "1086471,1086472,1086473,1086474",
+	"pronouns": [
+		{
+			"en": 5,
+			"st": 0,
+			"surface": "설립 경과",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 269,
+			"st": 267,
+			"surface": "이와",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 372,
+			"st": 368,
+			"surface": "같은 해",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 376,
+			"st": 368,
+			"surface": "같은 해 12월",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Organisation",
+				"Agent"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 23,
+			"ancestor": "-1",
+			"coref_index": 252,
+			"surface": "한국교육개발원",
+			"entityName": "한국교육개발원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "교육대학",
+			"entityName": "교육대학"
+		},
+		{
+			"kbox_types": [
+				"Organisation",
+				"Agent",
+				"School",
+				"EducationalInstitution"
+			],
+			"st": 93,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 97,
+			"ancestor": "-1",
+			"surface": "사범대학",
+			"entityName": "사범대학"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 201,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 204,
+			"ancestor": "-1",
+			"surface": "프랑스",
+			"entityName": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"st": 206,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 212,
+			"ancestor": "-1",
+			"surface": "고등사범학교",
+			"entityName": "고등사범학교"
+		},
+		{
+			"kbox_types": [
+				"Organisation",
+				"Agent"
+			],
+			"st": 274,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 281,
+			"ancestor": "6-0",
+			"coref_index": 252,
+			"surface": "한국교육개발원",
+			"entityName": "한국교육개발원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 377,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 394,
+			"ancestor": "-1",
+			"surface": "제5차_경제사회발전_5개년_계획",
+			"entityName": "대한민국의_경제_개발_5개년_계획#제5차"
+		}
+	],
+	"plainText": "설립 경과 1978년 12월 한국교육개발원이 한국교육 30년을 기념하여 각계의 여론과 학자들의 연구를 토대로 작성한 《교육발전의 전망과 과제》 보고서에서 ‘교육대학과 사범대학을 통합 발전시켜 정예 교원양성과 교육연구의 중심적 역할을 할 수 있는 종합교원교육기관’의 설립 필요성을 제기하였다. 1980년 12월에는 대통령 산하 특수자문기관인 경제과학심의회의에서 프랑스의 고등사범학교(École normale supérieure)를 모델로 하는 국립사범대학교의 설립이 건의되었다. 이와 관련해 한국교육개발원이 1981년 6월 열린 《교원인사제도의 개선방향 탐색을 위한 세미나》에서 ‘교원교육종합대학교(가칭)’의 설립을 정식으로 제안하였고, 정부는 이러한 구상을 같은 해 12월 제5차_경제사회발전_5개년_계획 교육 부문에 반영하였다."
+}

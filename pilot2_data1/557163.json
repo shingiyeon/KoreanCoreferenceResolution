@@ -1,0 +1,1476 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 37,
+			"eType": "WIKILINK",
+			"en": 40,
+			"entityName": "한반도",
+			"is_target": true,
+			"surface": "한반도",
+			"coref_index": 717,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 1,
+			"ne_type": "TIME",
+			"st": 85,
+			"eType": "WIKILINK",
+			"en": 90,
+			"entityName": "2002년",
+			"is_target": false,
+			"surface": "2002년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 0,
+			"eType": "NEW",
+			"en": 10,
+			"entityName": "",
+			"is_target": true,
+			"surface": "007_어나더_데이",
+			"coref_index": 721,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 14,
+			"eType": "NEW",
+			"en": 33,
+			"entityName": "",
+			"is_target": true,
+			"surface": "제임스_본드_시리즈의_20번째_영화",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "EVENT",
+			"st": 64,
+			"eType": "NEW",
+			"en": 78,
+			"entityName": "",
+			"is_target": true,
+			"surface": "007_영화_개봉_40주년",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"id": 5,
+			"ne_type": "PERSON",
+			"st": 102,
+			"eType": "WIKILINK",
+			"en": 108,
+			"entityName": "제임스_본드",
+			"is_target": true,
+			"surface": "제임스_본드",
+			"coref_index": 705,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 109,
+			"eType": "WIKILINK",
+			"en": 117,
+			"entityName": "피어스_브로스넌",
+			"is_target": true,
+			"surface": "피어스_브로스넌",
+			"coref_index": 705,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 150,
+			"eType": "WIKILINK",
+			"en": 154,
+			"entityName": "아프리카",
+			"is_target": true,
+			"surface": "아프리카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 155,
+			"eType": "WIKILINK",
+			"en": 164,
+			"entityName": "블러드_다이아몬드",
+			"is_target": true,
+			"surface": "블러드_다이아몬드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 176,
+			"eType": "WIKILINK",
+			"en": 181,
+			"entityName": "비무장지대",
+			"is_target": true,
+			"surface": "비무장지대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 203,
+			"eType": "WIKILINK",
+			"en": 207,
+			"entityName": "윌윤_리",
+			"is_target": true,
+			"surface": "윌윤_리",
+			"coref_index": 706,
+			"ancestor": "1-22"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 212,
+			"eType": "WIKILINK",
+			"en": 215,
+			"entityName": "릭_윤",
+			"is_target": true,
+			"surface": "릭_윤",
+			"coref_index": 707,
+			"ancestor": "1-23"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 330,
+			"eType": "WIKILINK",
+			"en": 332,
+			"entityName": "증강",
+			"is_target": true,
+			"surface": "증강",
+			"coref_index": 719,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Disease"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 415,
+			"eType": "WIKILINK",
+			"en": 417,
+			"entityName": "고문",
+			"is_target": true,
+			"surface": "고문",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 489,
+			"eType": "WIKILINK",
+			"en": 498,
+			"entityName": "영국_비밀_정보국",
+			"is_target": true,
+			"surface": "영국_비밀_정보국",
+			"coref_index": 714,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 543,
+			"eType": "WIKILINK",
+			"en": 545,
+			"entityName": "쿠바",
+			"is_target": true,
+			"surface": "쿠바",
+			"coref_index": 709,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"GovernmentAgency",
+				"Organisation"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 573,
+			"eType": "WIKILINK",
+			"en": 581,
+			"entityName": "미국_국가안보국",
+			"is_target": true,
+			"surface": "미국_국가안보국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 594,
+			"eType": "WIKILINK",
+			"en": 599,
+			"entityName": "할리_베리",
+			"is_target": true,
+			"surface": "할리_베리",
+			"coref_index": 715,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 753,
+			"eType": "WIKILINK",
+			"en": 760,
+			"entityName": "토비_스티븐스",
+			"is_target": true,
+			"surface": "토비_스티븐스",
+			"coref_index": 708,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 120,
+			"eType": "NEW",
+			"en": 137,
+			"entityName": "",
+			"is_target": true,
+			"surface": "조선민주주의인민공화국_북청_해안",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "LOCATION",
+			"st": 393,
+			"eType": "NEW",
+			"en": 404,
+			"entityName": "",
+			"is_target": true,
+			"surface": "조선민주주의인민공화국",
+			"coref_index": 713,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "LOCATION",
+			"st": 553,
+			"eType": "NEW",
+			"en": 555,
+			"entityName": "",
+			"is_target": true,
+			"surface": "쿠바",
+			"coref_index": 709,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 192,
+			"eType": "NEW",
+			"en": 196,
+			"entityName": "",
+			"is_target": true,
+			"surface": "문_대령",
+			"coref_index": 706,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 209,
+			"eType": "NEW",
+			"en": 211,
+			"entityName": "",
+			"is_target": true,
+			"surface": "자오",
+			"coref_index": 707,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 742,
+			"eType": "NEW",
+			"en": 752,
+			"entityName": "",
+			"is_target": true,
+			"surface": "구스타프_그레이브스",
+			"coref_index": 708,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 25,
+			"ne_type": "LOCATION",
+			"st": 777,
+			"eType": "WIKILINK",
+			"entityName": "런던",
+			"en": 779,
+			"is_target": true,
+			"surface": "런던",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 781,
+			"eType": "WIKILINK",
+			"entityName": "펜싱",
+			"en": 783,
+			"is_target": true,
+			"surface": "펜싱",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 811,
+			"eType": "WIKILINK",
+			"entityName": "로자먼드_파이크",
+			"en": 819,
+			"is_target": true,
+			"surface": "로자먼드_파이크",
+			"coref_index": 710,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 28,
+			"ne_type": "LOCATION",
+			"st": 848,
+			"eType": "WIKILINK",
+			"entityName": "아이슬란드",
+			"en": 853,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 711,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 894,
+			"eType": "ELU",
+			"entityName": "디_그레이맨",
+			"en": 897,
+			"is_target": true,
+			"surface": "미란다",
+			"coref_index": 710,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 30,
+			"ne_type": "LOCATION",
+			"st": 918,
+			"eType": "ELU",
+			"entityName": "아이슬란드",
+			"en": 923,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 711,
+			"ancestor": "1-28"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 971,
+			"eType": "ELU",
+			"entityName": "이카로스",
+			"en": 975,
+			"is_target": true,
+			"surface": "이카루스",
+			"coref_index": 712,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 1000,
+			"eType": "ELU",
+			"entityName": "이카로스",
+			"en": 1004,
+			"is_target": true,
+			"surface": "이카루스",
+			"coref_index": 712,
+			"ancestor": "1-31"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 33,
+			"ne_type": "LOCATION",
+			"st": 1023,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 1027,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 716,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 34,
+			"ne_type": "LOCATION",
+			"st": 1082,
+			"eType": "ELU",
+			"entityName": "조선민주주의인민공화국",
+			"en": 1093,
+			"is_target": true,
+			"surface": "조선민주주의인민공화국",
+			"coref_index": 713,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 1116,
+			"eType": "ELU",
+			"entityName": "디_그레이맨",
+			"en": 1119,
+			"is_target": true,
+			"surface": "미란다",
+			"coref_index": 710,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 1153,
+			"eType": "ELU",
+			"entityName": "디_그레이맨",
+			"en": 1156,
+			"is_target": true,
+			"surface": "미란다",
+			"coref_index": 710,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "LOCATION",
+			"st": 784,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 786,
+			"is_target": true,
+			"surface": "클럽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 789,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 793,
+			"is_target": true,
+			"surface": "구스타프",
+			"coref_index": 708,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "PERSON",
+			"st": 798,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 800,
+			"is_target": true,
+			"surface": "본드",
+			"coref_index": 705,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "PERSON",
+			"st": 802,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 810,
+			"is_target": true,
+			"surface": "미란다_프로스트",
+			"coref_index": 710,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "LOCATION",
+			"st": 823,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 825,
+			"is_target": true,
+			"surface": "영국",
+			"coref_index": 718,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ORGANIZATION",
+			"st": 829,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 832,
+			"is_target": true,
+			"surface": "정보국",
+			"coref_index": 714,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "PERSON",
+			"st": 842,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 846,
+			"is_target": true,
+			"surface": "구스타프",
+			"coref_index": 708,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 864,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 868,
+			"is_target": true,
+			"surface": "인공위성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "EVENT",
+			"st": 874,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 877,
+			"is_target": true,
+			"surface": "시연회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ORGANIZATION",
+			"st": 888,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 891,
+			"is_target": true,
+			"surface": "정보국",
+			"coref_index": 714,
+			"ancestor": "1-42"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "PERSON",
+			"st": 914,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 916,
+			"is_target": true,
+			"surface": "본드",
+			"coref_index": 705,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 927,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 931,
+			"is_target": true,
+			"surface": "구스타프",
+			"coref_index": 708,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "LOCATION",
+			"st": 938,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 942,
+			"is_target": true,
+			"surface": "얼음궁전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 993,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 998,
+			"is_target": true,
+			"surface": "다이아몬드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "ETC",
+			"st": 1018,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1020,
+			"is_target": true,
+			"surface": "광선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "LOCATION",
+			"st": 1058,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1060,
+			"is_target": true,
+			"surface": "쿠바",
+			"coref_index": 709,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "EVENT",
+			"st": 1063,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1067,
+			"is_target": true,
+			"surface": "성형수술",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 1072,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1075,
+			"is_target": true,
+			"surface": "DNA",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 1124,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1127,
+			"is_target": true,
+			"surface": "스파이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 1138,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1140,
+			"is_target": true,
+			"surface": "비서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "PERSON",
+			"st": 1192,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1194,
+			"is_target": true,
+			"surface": "자오",
+			"coref_index": 707,
+			"ancestor": "1-23"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "EVENT",
+			"st": 1158,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1160,
+			"is_target": true,
+			"surface": "유혹",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "EVENT",
+			"st": 1196,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1198,
+			"is_target": true,
+			"surface": "결투",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "PERSON",
+			"st": 1244,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1247,
+			"is_target": true,
+			"surface": "징크스",
+			"coref_index": 715,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "EVENT",
+			"st": 1252,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1254,
+			"is_target": true,
+			"surface": "구출",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 62,
+			"ne_type": "LOCATION",
+			"st": 1278,
+			"eType": "ELU",
+			"entityName": "조선민주주의인민공화국",
+			"en": 1289,
+			"is_target": true,
+			"surface": "조선민주주의인민공화국",
+			"coref_index": 713,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 1421,
+			"eType": "ELU",
+			"entityName": "이카로스",
+			"en": 1425,
+			"is_target": true,
+			"surface": "이카루스",
+			"coref_index": 712,
+			"ancestor": "1-32"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 64,
+			"ne_type": "LOCATION",
+			"st": 1484,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 1488,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 716,
+			"ancestor": "1-33"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 65,
+			"ne_type": "LOCATION",
+			"st": 1511,
+			"eType": "ELU",
+			"entityName": "조선민주주의인민공화국",
+			"en": 1522,
+			"is_target": true,
+			"surface": "조선민주주의인민공화국",
+			"coref_index": 713,
+			"ancestor": "1-62"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 1583,
+			"eType": "ELU",
+			"entityName": "디_그레이맨",
+			"en": 1586,
+			"is_target": true,
+			"surface": "미란다",
+			"coref_index": 710,
+			"ancestor": "1-36"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ETC",
+			"st": 1593,
+			"eType": "ELU",
+			"entityName": "이카로스",
+			"en": 1597,
+			"is_target": true,
+			"surface": "이카루스",
+			"coref_index": 712,
+			"ancestor": "1-63"
+		},
+		{
+			"kbox_types": [
+				"Place"
+			],
+			"id": 68,
+			"ne_type": "LOCATION",
+			"st": 1656,
+			"eType": "WIKILINK",
+			"entityName": "한반도",
+			"en": 1659,
+			"is_target": true,
+			"surface": "한반도",
+			"coref_index": 717,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 69,
+			"ne_type": "LOCATION",
+			"st": 1677,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 1681,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 716,
+			"ancestor": "1-33"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 70,
+			"ne_type": "LOCATION",
+			"st": 1709,
+			"eType": "WIKILINK",
+			"entityName": "하와이",
+			"en": 1712,
+			"is_target": true,
+			"surface": "하와이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 71,
+			"ne_type": "LOCATION",
+			"st": 1729,
+			"eType": "WIKILINK",
+			"entityName": "영국",
+			"en": 1731,
+			"is_target": true,
+			"surface": "영국",
+			"coref_index": 718,
+			"ancestor": "1-41"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 72,
+			"ne_type": "LOCATION",
+			"st": 1741,
+			"eType": "WIKILINK",
+			"entityName": "쿠바",
+			"en": 1743,
+			"is_target": true,
+			"surface": "쿠바",
+			"coref_index": 709,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 73,
+			"ne_type": "LOCATION",
+			"st": 1757,
+			"eType": "WIKILINK",
+			"entityName": "스페인",
+			"en": 1760,
+			"is_target": true,
+			"surface": "스페인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 74,
+			"ne_type": "LOCATION",
+			"st": 1764,
+			"eType": "WIKILINK",
+			"entityName": "아이슬란드",
+			"en": 1769,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 711,
+			"ancestor": "1-28"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 75,
+			"ne_type": "LOCATION",
+			"st": 1783,
+			"eType": "ELU",
+			"entityName": "아이슬란드",
+			"en": 1788,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 711,
+			"ancestor": "1-28"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 76,
+			"ne_type": "LOCATION",
+			"st": 1791,
+			"eType": "WIKILINK",
+			"entityName": "노르웨이",
+			"en": 1795,
+			"is_target": true,
+			"surface": "노르웨이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Archipelago",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 77,
+			"ne_type": "LOCATION",
+			"st": 1796,
+			"eType": "WIKILINK",
+			"entityName": "스발바르_제도",
+			"en": 1803,
+			"is_target": true,
+			"surface": "스발바르_제도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 78,
+			"ne_type": "PERSON",
+			"st": 1902,
+			"eType": "WIKILINK",
+			"entityName": "마돈나",
+			"en": 1905,
+			"is_target": true,
+			"surface": "마돈나",
+			"coref_index": 720,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "ETC",
+			"st": 1929,
+			"eType": "ELU",
+			"entityName": "카메오_출연",
+			"en": 1932,
+			"is_target": true,
+			"surface": "카메오",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "TIME",
+			"st": 1623,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1640,
+			"is_target": false,
+			"surface": "2001년_말부터_2002년_초",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "ETC",
+			"st": 1813,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1819,
+			"is_target": true,
+			"surface": "007_영화",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2300709,2300710,2300711,2300712,2300713,2300714,2300715,2300716,2300717,2300718,2300719,2300720,2300721,2300722,2300723,2300724,2300725,2300726,2300727,2300728,2300729,2300730,2300731,2300732,2300733,2300734,2300735,2300736,2300737",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 506,
+			"ancestor": "-1",
+			"st": 501,
+			"surface": "모든 지위"
+		},
+		{
+			"id": 1,
+			"en": 713,
+			"ancestor": "-1",
+			"st": 709,
+			"surface": "그 출처"
+		},
+		{
+			"id": 2,
+			"en": 725,
+			"ancestor": "-1",
+			"st": 721,
+			"surface": "그 배후"
+		},
+		{
+			"id": 3,
+			"en": 1017,
+			"ancestor": "-1",
+			"st": 1011,
+			"surface": "엄청난 양의"
+		},
+		{
+			"id": 4,
+			"en": 1022,
+			"ancestor": "-1",
+			"st": 1011,
+			"surface": "엄청난 양의 광선으로"
+		},
+		{
+			"id": 5,
+			"en": 1186,
+			"ancestor": "-1",
+			"st": 1182,
+			"surface": "그 곳에"
+		},
+		{
+			"id": 6,
+			"en": 1199,
+			"ancestor": "-1",
+			"st": 1182,
+			"surface": "그 곳에 와 있던 자오와 결투를"
+		},
+		{
+			"id": 7,
+			"en": 1263,
+			"ancestor": "-1",
+			"st": 1260,
+			"surface": "그 후"
+		},
+		{
+			"id": 8,
+			"ancestor": "1-48",
+			"st": 1349,
+			"en": 1351,
+			"surface": "자신",
+			"coref_index": 708
+		},
+		{
+			"id": 9,
+			"ancestor": "1-12",
+			"st": 1344,
+			"en": 1361,
+			"surface": "온건파인 자신의 아버지 문 장군",
+			"coref_index": 719
+		},
+		{
+			"id": 10,
+			"ancestor": "1-38",
+			"st": 1364,
+			"en": 1366,
+			"surface": "자신",
+			"coref_index": 708
+		},
+		{
+			"id": 11,
+			"ancestor": "1-22",
+			"st": 1364,
+			"en": 1370,
+			"surface": "자신의 정체",
+			"coref_index": 706
+		},
+		{
+			"id": 12,
+			"en": 1385,
+			"ancestor": "-1",
+			"st": 1383,
+			"surface": "이에"
+		},
+		{
+			"id": 13,
+			"ancestor": "1-38",
+			"st": 1412,
+			"en": 1414,
+			"surface": "자신",
+			"coref_index": 708
+		},
+		{
+			"id": 14,
+			"en": 1420,
+			"ancestor": "-1",
+			"st": 1412,
+			"surface": "자신의 계획대로"
+		},
+		{
+			"id": 15,
+			"en": 1456,
+			"ancestor": "-1",
+			"st": 1454,
+			"surface": "이를"
+		},
+		{
+			"id": 16,
+			"en": 1465,
+			"ancestor": "-1",
+			"st": 1454,
+			"surface": "이를 막으려는 작전을"
+		},
+		{
+			"id": 17,
+			"en": 1556,
+			"ancestor": "-1",
+			"st": 1553,
+			"surface": "여기서"
+		},
+		{
+			"id": 18,
+			"en": 1719,
+			"ancestor": "-1",
+			"st": 1716,
+			"surface": "그 외"
+		},
+		{
+			"id": 19,
+			"en": 1727,
+			"ancestor": "-1",
+			"st": 1716,
+			"surface": "그 외의 대부분 장면"
+		},
+		{
+			"id": 20,
+			"ancestor": "1-78",
+			"st": 1920,
+			"en": 1921,
+			"surface": "그",
+			"coref_index": 720
+		},
+		{
+			"id": 21,
+			"ancestor": "1-2",
+			"st": 1923,
+			"en": 1927,
+			"surface": "이 영화",
+			"coref_index": 721
+		},
+		{
+			"id": 22,
+			"en": 1945,
+			"ancestor": "-1",
+			"st": 1923,
+			"surface": "이 영화에 카메오로 잠깐 등장하는 장면도"
+		}
+	],
+	"plainText": "007_어나더_데이()는 제임스_본드_시리즈의_20번째_영화이다. 한반도 대치 상황을 주제로 하여 눈길을 끌었으며 007_영화_개봉_40주년을 맞이하여 2002년에 개봉되었다. 내용 제임스_본드(피어스_브로스넌)는 조선민주주의인민공화국_북청_해안에 파도타기로 잠입하여 아프리카 블러드_다이아몬드 밀매자로 위장한 후 비무장지대 근처로 가 강경파 문_대령(문 상좌, 윌윤_리)·자오(릭_윤)과 만난다. 그러나 본드는 자오에 의하여 곧 정체가 탄로나 문 대령·자오와 대결하게 되어 자오는 폭발의 여파로 얼굴에 다이아몬드가 박히고 문 대령은 폭포에서 떨어진다. 문 대령의 아버지인 온건파 문 장군(증강)이 문 대령이 폭포에서 떨어지는 장면을 목격하여 죽었다고 여기게 되고, 곧 본드는 포로로 붙잡힌다. 본드는 조선민주주의인민공화국 당국으로부터 심한 고문을 당하면서도 비밀을 누설하지 않는다. 14개월 간 고생하던 본드는 포로 협상으로 풀려나지만 본드는 정보 누설 혐의를 받게 되어 영국_비밀_정보국에서 모든 지위를 박탈한다. 본드는 일을 혼자서 해결하기로 하고, 자오가 있다는 쿠바로 들어간다. 쿠바에서 베일에 싸인 신비한 여인인 미국_국가안보국(NSA) 요원 징크스(할리_베리)를 만나고 자오가 얼굴을 고치려는 것을 목격한다. 본드는 자오가 있는 의료원에 들어가 자오를 찾아냈지만, 자오는 얼굴이 고쳐지지 않는 상태로 달아났으며 본드는 자오가 흘리고 간 다이아몬드를 주워 그 출처를 조사하고, 그 배후에 신흥 다이아몬드 재벌이라는 구스타프_그레이브스(토비_스티븐스)가 있다는 것을 알게 된다. 런던의 펜싱 클럽에서 구스타프를 만난 본드는 미란다_프로스트(로자먼드_파이크)라는 영국 비밀 정보국 요원을 만난다. 구스타프는 아이슬란드에서 열리는 새로운 인공위성 이카루스 시연회에 초대한다. 비밀 정보국에서 미란다와 함께 임무 수행을 지시받은 본드는 아이슬란드로 가 구스타프의 본거지인 얼음궁전에서 구스타프 일당이 개발한 엄청난 위력의 인공위성 이카루스의 정체를 파악한다. 구스타프는 다이아몬드를 이카루스에 장착하여 엄청난 양의 광선으로 대한민국을 침공할 계획을 세운 것이다. 그리고 구스타프는 사실 쿠바에서 성형수술을 하고 DNA까지 교체한 조선민주주의인민공화국의 문 대령이고, 비밀 정보국 요원이라는 미란다는 이중 스파이로 실은 구스타프의 비서라는 것을 알게 된다. 미란다의 유혹으로 본드는 곤란에 빠지게 되고, 이미 그 곳에 와 있던 자오와 결투를 벌인다. 본드는 가까스로 자오를 물리치고, 역시 음모에 빠져 죽을 위기에 처한 징크스를 겨우 구출해 낸다. 그 후 구스타프와 미란다 일당은 조선민주주의인민공화국으로 돌아가고 조선민주주의인민공화국 내부에서는 온건파와 강경파 간의 대립이 있게 된다. 구스타프는 온건파인 자신의 아버지 문 장군에게 자신의 정체를 밝히고, 문 장군이 이에 반발하자 문 장군을 죽인다. 그리고 구스타프는 자신의 계획대로 이카루스를 띄우려 하고, 정보를 파악한 미국과 영국 당국도 이를 막으려는 작전을 수행하려 한다. 본드와 징크스도 대한민국으로 들어가 미군기지에서 임무를 지시받고 조선민주주의인민공화국으로 잠입하여, 구스타프 일당이 탄 비행기에 올라탄다. 여기서 본드와 징크스는 숨막히는 격전 끝에 구스타프와 미란다를 처치하고 이카루스의 작동을 멈추는 데 성공하게 된다. 제작과정 2001년_말부터_2002년_초 사이에 촬영이 이루어졌다. 한반도를 배경으로 하는 부분이 많으나 대한민국에서 촬영된 것은 없으며 초반부의 파도타기 장면은 하와이에서, 그 외의 대부분 장면은 영국에서 촬영되었다. 쿠바를 배경으로 하는 장면은 스페인에서, 아이슬란드를 배경으로 하는 장면은 아이슬란드 및 노르웨이 스발바르_제도에서 촬영되었다. 007_영화 40주년을 맞이하여 이전보다 다양한 특수 효과가 도입, 당시까지의 007 시리즈 중 최고인 1억 5천만 달러 이상의 제작비가 투입되었다. 주제곡은 마돈나가 작사하고 직접 불렀으며 그가 이 영화에 카메오로 잠깐 등장하는 장면도 나온다. ",
+	"docID": "557163"
+}

@@ -1,0 +1,164 @@
+{
+	"docID": "1636936",
+	"globalSID": "3860404,3860405,3860406",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"entityName": "케야키,_쓸_수_없어?",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 143,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "케야키,_쓸_수_없어?"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 64,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "케야키자카46",
+			"coref_index": 258
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 94,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2016년_4월_6일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 110,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2015년_10월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 168,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 176,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2015년_8월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 178,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 180,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그룹"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 196,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "8개월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 201,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "CD"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "DVD"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 122,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "방송_프로그램"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "Type-A_·_B_·_C"
+		}
+	],
+	"plainText": "발매 배경 DVD가 들어있는 Type-A_·_B_·_C, CD뿐인 통상판의 네 형태로 발매. 발매일은 케야키자카46의 그룹 이름인 ‘46’에 맞춰서 2016년_4월_6일로 했으며, 2015년_10월부터 케야키자카46의 방송_프로그램 《케야키,_쓸_수_없어?》를 방송 개시에 따라서 기대치를 높이면서, 2015년_8월에 그룹을 결성하고 이후에 약 8개월 뒤 CD 데뷔가 됐다."
+}

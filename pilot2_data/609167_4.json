@@ -1,0 +1,149 @@
+{
+	"docID": "609167",
+	"globalSID": "2410387,2410388",
+	"pronouns": [
+		{
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "한 사람이기도",
+			"id": 0,
+			"st": 119
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "덴쇼",
+			"entityName": "덴쇼"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "나가시노_전투",
+			"entityName": "나가시노_전투"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 38,
+			"ancestor": "-1",
+			"coref_index": 728,
+			"surface": "마에다_도시이에",
+			"entityName": "마에다_도시이에"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "노노무라_마사시게",
+			"entityName": "노노무라_마사시게"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "후쿠도미_히데카쓰",
+			"entityName": "후쿠도미_히데카쓰"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "반_나오마사",
+			"entityName": "반_나오마사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 108,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 112,
+			"ancestor": "-1",
+			"surface": "철포봉행",
+			"entityName": "오봉행"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "철포대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 18,
+			"ancestor": "",
+			"surface": "1575년_5월",
+			"entityName": ""
+		}
+	],
+	"plainText": "덴쇼(天正) 3년 1575년_5월의 나가시노_전투에서 마에다_도시이에(前田利家), 노노무라_마사시게(野?村正成), 후쿠도미_히데카쓰(福富秀勝), 반_나오마사(?直政)와 함께 철포대를 이끌었다. 철포봉행(砲奉行)의 한 사람이기도 하다."
+}

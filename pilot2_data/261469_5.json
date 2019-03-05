@@ -1,0 +1,121 @@
+{
+	"docID": "261469",
+	"globalSID": "1473153,1473154,1473155,1473156,1473157",
+	"pronouns": [
+		{
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "얼마후",
+			"id": 0,
+			"st": 46
+		},
+		{
+			"st": 135,
+			"coref_index": 357,
+			"id": 1,
+			"en": 137,
+			"ancestor": "1-2",
+			"surface": "자신"
+		},
+		{
+			"st": 172,
+			"coref_index": 357,
+			"id": 2,
+			"en": 173,
+			"ancestor": "1-2",
+			"surface": "그"
+		},
+		{
+			"en": 178,
+			"ancestor": "-1",
+			"surface": "그의 요청을",
+			"id": 3,
+			"st": 172
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 24,
+			"ancestor": "3-5",
+			"coref_index": 359,
+			"surface": "안셀무스",
+			"entityName": "안셀무스"
+		},
+		{
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"st": 161,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 170,
+			"ancestor": "-1",
+			"surface": "교황_파스칼_2세",
+			"entityName": "교황_파스칼_2세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 258,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 262,
+			"ancestor": "5-0",
+			"coref_index": 359,
+			"surface": "안셀무스",
+			"entityName": "안셀무스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 324,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 328,
+			"ancestor": "5-2",
+			"coref_index": 359,
+			"surface": "안셀무스",
+			"entityName": "안셀무스"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 336,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 340,
+			"ancestor": "-1",
+			"surface": "캔터베리",
+			"entityName": "캔터베리"
+		}
+	],
+	"plainText": "종교적 마찰 형과 달리 헨리 1세는 안셀무스와 초기에는 친근한 관계를 유지하였으나 얼마후 부터는 불편한 관계를 이어가는데 이유는 역시 성직 임명권 때문이였다. 주교직과 수도원장직이 막대한 부를 가져올 수 있음을 알고있던 헨리는 수차례에 걸쳐 자신에게 임명권을 부여할것을 요청하였으나 당시 교황_파스칼_2세는 그의 요청을 매번 거절하였으며 이후에는 아예 세속 군주가 성직자들에게 봉토를 하사는 것과 성직자들이 군주들에게 충성을 서약하는 것을 금지해버렸던 것이다. 안셀무스는 이에따라 헨리로부터 임명받은 성직자들에 대한 축성을 거부하였으며 왕에 대한 충성서약 역시 거부하였다. 결국 안셀무스는 두 번째로 캔터베리를 떠나 로마로 돌아오게 된다."
+}

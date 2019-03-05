@@ -1,0 +1,244 @@
+{
+	"docID": "326248",
+	"globalSID": "1729439,1729440,1729441,1729442",
+	"pronouns": [
+		{
+			"en": 89,
+			"st": 88,
+			"surface": "이",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 245,
+			"st": 243,
+			"surface": "이를",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "남북조_시대",
+			"entityName": "남북조_시대_(일본)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 108,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 112,
+			"ancestor": "-1",
+			"coref_index": 451,
+			"surface": "고노_씨",
+			"entityName": "고노_씨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 177,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 181,
+			"ancestor": "-1",
+			"surface": "에이로쿠",
+			"entityName": "에이로쿠"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"st": 190,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 195,
+			"ancestor": "",
+			"surface": "1567년",
+			"entityName": "1567년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 198,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 201,
+			"ancestor": "-1",
+			"surface": "아버지",
+			"entityName": "아버지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "구루시마_무라카미",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "島村上氏",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "동생",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 72,
+			"ancestor": "1-6",
+			"coref_index": 448,
+			"surface": "미치후사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 91,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 95,
+			"ancestor": "2-8",
+			"coref_index": 448,
+			"surface": "미치후사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 99,
+			"ancestor": "-1",
+			"surface": "생모",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 119,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "고노_미치나오",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 202,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 206,
+			"ancestor": "1-11",
+			"coref_index": 449,
+			"surface": "미치야스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 213,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 217,
+			"ancestor": "1-6",
+			"coref_index": 448,
+			"surface": "미치후사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 208,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "EVENT",
+			"en": 210,
+			"ancestor": "-1",
+			"surface": "병사",
+			"entityName": ""
+		}
+	],
+	"plainText": "생애 남북조_시대 도쿠이 집안으로 출계해 도쿠이 씨를 쓰게 되었다. 구루시마_무라카미 씨(?島村上氏)의 이름은 넷째 동생 미치후사(通?)가 이어받게 되었는데 이는 미치후사의 생모가 주가(主家) 고노_씨(河野氏)의 고노_미치나오(河野通直)의 딸로 미치야스의 정실이었기 때문에 가독을 이어받을 수 있었던 것으로 보인다. 에이로쿠(永?) 10년(1567년)에 아버지 미치야스가 병사하고 미치후사는 7세의 나이로 가독을 이어받았고 미치유키는 이를 보좌하였다."
+}

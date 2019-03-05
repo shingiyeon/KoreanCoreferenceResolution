@@ -1,0 +1,126 @@
+{
+	"docID": "610180",
+	"globalSID": "2412494,2412495",
+	"pronouns": [
+		{
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "각 광역단체장들이",
+			"id": 0,
+			"st": 22
+		},
+		{
+			"en": 127,
+			"ancestor": "-1",
+			"surface": "현 새누리당 국회의원)",
+			"id": 1,
+			"st": 115
+		},
+		{
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "현 새누리당 국회의원) 충청도지사",
+			"id": 2,
+			"st": 115
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person"
+			],
+			"st": 111,
+			"eType": "WIKILINK",
+			"entityName": "정우택_(1953년)",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 114,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "정우택"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"st": 117,
+			"eType": "WIKILINK",
+			"entityName": "새누리당",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 121,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "새누리당"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 135,
+			"eType": "ELU",
+			"entityName": "오세훈",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 138,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오세훈"
+		},
+		{
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Automobile"
+			],
+			"st": 150,
+			"eType": "WIKILINK",
+			"entityName": "쌍용_체어맨",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 156,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "쌍용_체어맨"
+		},
+		{
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Automobile"
+			],
+			"st": 171,
+			"eType": "WIKILINK",
+			"entityName": "현대_에쿠스",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 177,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "현대_에쿠스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2009년_3월"
+		}
+	],
+	"plainText": "2009년_3월 전국 16개 광역단체에 각 광역단체장들이 사용하는 전용차량의 모델과 배기량, 구입비용을 정보공개청구해 전용차량 구입에 가장 많은 세금을 지출한 순으로 단체장들의 순위를 매겼다. 당시 정우택(현 새누리당 국회의원) 충청도지사와 오세훈 전 서울시장이 각각 쌍용_체어맨을 66,060,000원, 현대_에쿠스 차량을 65,960,000원에 구입해 1위와 2위를 차지했다."
+}

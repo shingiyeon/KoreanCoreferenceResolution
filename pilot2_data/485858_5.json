@@ -1,0 +1,166 @@
+{
+	"docID": "485858",
+	"globalSID": "2146916,2146917",
+	"pronouns": [
+		{
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "우리의_소원〉을",
+			"id": 0,
+			"st": 41
+		},
+		{
+			"st": 65,
+			"coref_index": 628,
+			"id": 1,
+			"en": 68,
+			"ancestor": "5-0",
+			"surface": "이 곡"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "우리의_소원",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "우리의_소원",
+			"coref_index": 628
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 5,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "발매"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "음반"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "건전가요"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 50,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아카펠라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 61,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "수록"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 68,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "곡"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 70,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 75,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1991년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 80,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 82,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "CD"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 85,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 87,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "누락"
+		}
+	],
+	"plainText": "당시 발매되는 음반에?통상적으로?들어가는 건전가요를 그대로 쓰지 않고, 〈우리의_소원〉을 아카펠라로?불러 수록했다. 이 곡은 1991년에 나온 CD에는 누락되었다."
+}

@@ -1,0 +1,244 @@
+{
+	"docID": "816885",
+	"globalSID": "2846254,2846255,2846256,2846257",
+	"pronouns": [
+		{
+			"st": 92,
+			"coref_index": 1002,
+			"id": 0,
+			"en": 93,
+			"ancestor": "4-7",
+			"surface": "그"
+		},
+		{
+			"en": 98,
+			"ancestor": "-1",
+			"surface": "그의 이름을",
+			"id": 1,
+			"st": 92
+		},
+		{
+			"st": 125,
+			"coref_index": 987,
+			"id": 2,
+			"en": 128,
+			"ancestor": "4-3",
+			"surface": "자신들"
+		},
+		{
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "자신들의 독립을",
+			"id": 3,
+			"st": 125
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"entityName": "1770년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 14,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1770년"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"entityName": "뉴욕",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 17,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "뉴욕"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"entityName": "켄터키",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "켄터키"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 116,
+			"eType": "ELU",
+			"entityName": "폴란드",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 119,
+			"ancestor": "1-9",
+			"is_target": true,
+			"surface": "폴란드",
+			"coref_index": 987
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 138,
+			"eType": "WIKILINK",
+			"entityName": "카지미에시_푸와스키",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 148,
+			"ancestor": "1-4",
+			"is_target": true,
+			"surface": "카지미에시_푸와스키",
+			"coref_index": 988
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 150,
+			"eType": "WIKILINK",
+			"entityName": "타데우시_코시치우슈코",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 161,
+			"ancestor": "1-5",
+			"is_target": true,
+			"surface": "타데우시_코시치우슈코",
+			"coref_index": 989
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 165,
+			"eType": "ELU",
+			"entityName": "폴란드",
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 168,
+			"ancestor": "4-3",
+			"is_target": true,
+			"surface": "폴란드",
+			"coref_index": 987
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 32,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "야쿠브_사도프스키",
+			"coref_index": 1002
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 48,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "폴란드_이민"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 90,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오하이오_주의_샌더스키"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 176,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 178,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 990
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 180,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "EVENT",
+			"en": 182,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "독립"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 188,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 190,
+			"ancestor": "4-10",
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 990
+		}
+	],
+	"plainText": "미국 독립 혁명 1770년 뉴욕에 정착한 야쿠브_사도프스키를 포함한 이후의 폴란드_이민들은 켄터키 만큼 멀리 지나간 첫 유럽인들이 되었다. 오하이오_주의_샌더스키는 그의 이름을 땄다고 한다. 18세기 말기에 폴란드의 국가가 자신들의 독립을 잃자, 카지미에시_푸와스키와 타데우시_코시치우슈코 같은 폴란드의 애국자들은 미국의 독립을 위하여 미국으로 떠났다."
+}

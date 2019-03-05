@@ -1,0 +1,123 @@
+{
+	"docID": "912074",
+	"globalSID": "3012131,3012132",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-0",
+			"coref_index": 1113,
+			"surface": "돈지덕",
+			"entityName": "돈지덕"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"SoccerClub",
+				"Agent",
+				"EducationalInstitution",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 16,
+			"ancestor": "-1",
+			"surface": "인천대학교",
+			"entityName": "인천대학교"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 28,
+			"ancestor": "",
+			"surface": "2003년",
+			"entityName": "2003년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "국민은행_축구단",
+			"entityName": "고양_KB국민은행_축구단"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "선수_경력",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "졸업",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "EVENT",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "입단",
+			"entityName": ""
+		}
+	],
+	"plainText": "선수_경력 돈지덕은 인천대학교를 졸업하고 2003년 실업 축구 국민은행_축구단에 입단하였다."
+}

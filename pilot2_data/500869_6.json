@@ -1,0 +1,168 @@
+{
+	"docID": "500869",
+	"globalSID": "2182686,2182687,2182688",
+	"pronouns": [
+		{
+			"st": 4,
+			"coref_index": 630,
+			"id": 0,
+			"en": 5,
+			"ancestor": "3-4",
+			"surface": "그"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"City",
+				"AdministrativeRegion"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"entityName": "아테네",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 10,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아테네"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"entityName": "AEK_아테네_FC",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "AEK"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 33,
+			"eType": "WIKILINK",
+			"entityName": "미할리스_카프시스",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 42,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "미할리스_카프시스"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"entityName": "바실리스_라키스",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 52,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "바실리스_라키스"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 54,
+			"eType": "WIKILINK",
+			"entityName": "데미스_니콜라이디스",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 64,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "데미스_니콜라이디스"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 70,
+			"eType": "WIKILINK",
+			"entityName": "바실리오스_치아르타스",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 81,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "바실리오스_치아르타스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"entityName": "그리스_컵_2001-02",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 125,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2002년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"entityName": "올림피아코스_FC",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 137,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "올림피아코스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 143,
+			"eType": "WIKILINK",
+			"entityName": "그리스_컵",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 148,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그리스_컵"
+		}
+	],
+	"plainText": "AEK 그는 아테네 연고의 축구 클럽 AEK로 이적하였고, 미할리스_카프시스, 바실리스_라키스, 데미스_니콜라이디스, 그리고 바실리오스_치아르타스와 같은 국가대표팀 동료와 함께하였다. AEK 소속으로, 자고라키스는 2002년에 라이벌 올림피아코스를 이기고 그리스_컵을 우승했다."
+}

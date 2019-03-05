@@ -1,0 +1,344 @@
+{
+	"docID": "1314956",
+	"globalSID": "3573648,3573649,3573650",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "ELU",
+			"entityName": "전쟁사",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "군사사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"entityName": "율령제",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "율령제"
+		},
+		{
+			"kbox_types": [
+				"Family",
+				"Agent",
+				"NobleFamily"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"entityName": "무가_(일본사)",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "무가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "막부",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "막부"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"entityName": "무로마치_막부",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 69,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "무로마치_막부"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"entityName": "센고쿠_시대",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 83,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "센고쿠_시대"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"st": 92,
+			"eType": "WIKILINK",
+			"entityName": "에도_막부",
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 97,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "에도_막부"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"entityName": "국민군",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 134,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "국민군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 140,
+			"eType": "WIKILINK",
+			"entityName": "제국주의",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 144,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "제국주의"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 169,
+			"eType": "WIKILINK",
+			"entityName": "제2차_세계대전",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 177,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "제2차_세계대전"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 180,
+			"eType": "WIKILINK",
+			"entityName": "총력전",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 183,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "총력전"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 244,
+			"eType": "WIKILINK",
+			"entityName": "일본국_헌법",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 250,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "일본국_헌법"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 270,
+			"eType": "WIKILINK",
+			"entityName": "포함외교",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 274,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포함외교"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 280,
+			"eType": "WIKILINK",
+			"entityName": "자위대",
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 283,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "자위대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 290,
+			"eType": "ELU",
+			"entityName": "오늘날",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 293,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오늘날"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 229,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 235,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "연합국_군대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 218,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 220,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "미군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "징병제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 99,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 104,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "문치_정치"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 109,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "메이지_유신"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 154,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대외_전쟁"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 188,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 21,
+			"ne_type": "PERSON",
+			"en": 190,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "군민"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 263,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 22,
+			"ne_type": "ETC",
+			"en": 267,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "무력행사"
+		}
+	],
+	"plainText": "일본의 군사사(日本の軍事史)는 고대 율령제 조정의 징병제가 붕괴한 뒤 무가와 막부가 탄생한 순간, 그리고 이후 무로마치_막부가 붕괴하면서 센고쿠_시대를 거친 변화, 에도_막부의 문치_정치를 거쳐 메이지_유신 이후 현대 징병제에 근거한 국민군의 성립과 제국주의에 의한 대외_전쟁을 특징으로 한다. 일본은 제2차_세계대전에서 총력전을 겪고 군민 모두 엄청난 손해를 입은 뒤 패전했다. 패전 후 미군을 주체로 하는 연합국_군대에게 점령된 후 일본국_헌법에 의해 자위를 제외한 무력행사 및 포함외교가 금지된 자위대를 창설하여 오늘날에 이르고 있다."
+}

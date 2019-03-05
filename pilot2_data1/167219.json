@@ -1,0 +1,1557 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"en": 3,
+			"entityName": "정석원_(음악가)",
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 23,
+			"eType": "WIKILINK",
+			"en": 27,
+			"entityName": "대한민국",
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 268,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 29,
+			"eType": "WIKILINK",
+			"en": 32,
+			"entityName": "작곡가",
+			"is_target": true,
+			"surface": "작곡가",
+			"coref_index": 272,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist",
+				"Profession"
+			],
+			"id": 3,
+			"ne_type": "PERSON",
+			"st": 34,
+			"eType": "WIKILINK",
+			"en": 41,
+			"entityName": "음악_프로듀서",
+			"is_target": true,
+			"surface": "음악_프로듀서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 4,
+			"eType": "NEW",
+			"en": 17,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1968년_12월_23일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 5,
+			"ne_type": "PERSON",
+			"st": 48,
+			"eType": "ELU",
+			"en": 51,
+			"entityName": "정석원_(음악가)",
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 6,
+			"ne_type": "LOCATION",
+			"st": 53,
+			"eType": "WIKILINK",
+			"en": 58,
+			"entityName": "대구광역시",
+			"is_target": true,
+			"surface": "대구광역시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 81,
+			"eType": "WIKILINK",
+			"en": 86,
+			"entityName": "강변가요제",
+			"is_target": true,
+			"surface": "강변가요제",
+			"coref_index": 266,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 89,
+			"eType": "ELU",
+			"en": 92,
+			"entityName": "연구실",
+			"is_target": true,
+			"surface": "실험실",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 135,
+			"eType": "WIKILINK",
+			"en": 138,
+			"entityName": "신해철",
+			"is_target": true,
+			"surface": "신해철",
+			"coref_index": 264,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 169,
+			"eType": "ELU",
+			"en": 172,
+			"entityName": "신해철",
+			"is_target": true,
+			"surface": "신해철",
+			"coref_index": 264,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 184,
+			"eType": "WIKILINK",
+			"en": 188,
+			"entityName": "무한궤도_(밴드)",
+			"is_target": true,
+			"surface": "무한궤도",
+			"coref_index": 265,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Event",
+				"Work",
+				"TelevisionShow",
+				"SocietalEvent",
+				"MusicFestival"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 194,
+			"eType": "WIKILINK",
+			"en": 203,
+			"entityName": "MBC_대학가요제",
+			"is_target": true,
+			"surface": "MBC_대학가요제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Song",
+				"Work"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 207,
+			"eType": "WIKILINK",
+			"en": 211,
+			"entityName": "그대에게",
+			"is_target": true,
+			"surface": "그대에게",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 230,
+			"eType": "ELU",
+			"en": 233,
+			"entityName": "신해철",
+			"is_target": true,
+			"surface": "신해철",
+			"coref_index": 264,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 236,
+			"eType": "ELU",
+			"en": 240,
+			"entityName": "무한궤도",
+			"is_target": true,
+			"surface": "무한궤도",
+			"coref_index": 265,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 258,
+			"eType": "ELU",
+			"en": 263,
+			"entityName": "키보디스트",
+			"is_target": true,
+			"surface": "키보디스트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 264,
+			"eType": "ELU",
+			"en": 267,
+			"entityName": "김재홍_(아나운서)",
+			"is_target": true,
+			"surface": "김재홍",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 269,
+			"eType": "WIKILINK",
+			"en": 272,
+			"entityName": "조현문",
+			"is_target": true,
+			"surface": "조현문",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 273,
+			"eType": "WIKILINK",
+			"en": 276,
+			"entityName": "조석래",
+			"is_target": true,
+			"surface": "조석래",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 277,
+			"eType": "WIKILINK",
+			"en": 281,
+			"entityName": "효성그룹",
+			"is_target": true,
+			"surface": "효성그룹",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 21,
+			"ne_type": "ORGANIZATION",
+			"st": 291,
+			"eType": "WIKILINK",
+			"en": 293,
+			"entityName": "효성_(기업)",
+			"is_target": true,
+			"surface": "효성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 322,
+			"eType": "ELU",
+			"en": 327,
+			"entityName": "MBC_강변가요제",
+			"is_target": true,
+			"surface": "강변가요제",
+			"coref_index": 266,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 349,
+			"eType": "ELU",
+			"en": 352,
+			"entityName": "신해철",
+			"is_target": true,
+			"surface": "신해철",
+			"coref_index": 264,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 354,
+			"eType": "ELU",
+			"en": 357,
+			"entityName": "정석원_(음악가)",
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 377,
+			"eType": "ELU",
+			"en": 381,
+			"entityName": "무한궤도",
+			"is_target": true,
+			"surface": "무한궤도",
+			"coref_index": 267,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 429,
+			"eType": "ELU",
+			"en": 433,
+			"entityName": "무한궤도",
+			"is_target": true,
+			"surface": "무한궤도",
+			"coref_index": 267,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 27,
+			"ne_type": "PERSON",
+			"st": 442,
+			"eType": "ELU",
+			"en": 445,
+			"entityName": "정석원_(음악가)",
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 473,
+			"eType": "ELU",
+			"en": 476,
+			"entityName": "정석원_(음악가)",
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 360,
+			"eType": "NEW",
+			"en": 364,
+			"entityName": "",
+			"is_target": true,
+			"surface": "무한궤도",
+			"coref_index": 265,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "EVENT",
+			"st": 140,
+			"eType": "NEW",
+			"en": 145,
+			"entityName": "",
+			"is_target": true,
+			"surface": "강변가요제",
+			"coref_index": 266,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 487,
+			"eType": "NEW",
+			"en": 493,
+			"entityName": "",
+			"is_target": true,
+			"surface": "거리에_서면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"id": 32,
+			"ne_type": "PERSON",
+			"st": 510,
+			"eType": "ELU",
+			"entityName": "신해철",
+			"en": 513,
+			"is_target": true,
+			"surface": "신해철",
+			"coref_index": 264,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"id": 33,
+			"ne_type": "PERSON",
+			"st": 578,
+			"eType": "ELU",
+			"entityName": "신해철",
+			"en": 581,
+			"is_target": true,
+			"surface": "신해철",
+			"coref_index": 264,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 603,
+			"eType": "ELU",
+			"entityName": "무한궤도",
+			"en": 607,
+			"is_target": true,
+			"surface": "무한궤도",
+			"coref_index": 265,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 35,
+			"ne_type": "PERSON",
+			"st": 630,
+			"eType": "ELU",
+			"entityName": "정석원_(음악가)",
+			"en": 633,
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 651,
+			"eType": "ELU",
+			"entityName": "베이시스트",
+			"en": 656,
+			"is_target": true,
+			"surface": "베이시스트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 37,
+			"ne_type": "PERSON",
+			"st": 657,
+			"eType": "WIKILINK",
+			"entityName": "조형곤",
+			"en": 660,
+			"is_target": true,
+			"surface": "조형곤",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 675,
+			"eType": "ELU",
+			"entityName": "정석원_(음악가)",
+			"en": 678,
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 685,
+			"eType": "ELU",
+			"entityName": "무한궤도",
+			"en": 689,
+			"is_target": true,
+			"surface": "무한궤도",
+			"coref_index": 265,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 40,
+			"ne_type": "PERSON",
+			"st": 706,
+			"eType": "WIKILINK",
+			"entityName": "장호일",
+			"en": 709,
+			"is_target": true,
+			"surface": "장호일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 717,
+			"eType": "WIKILINK",
+			"entityName": "015B",
+			"en": 721,
+			"is_target": true,
+			"surface": "015B",
+			"coref_index": 269,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "PERSON",
+			"st": 515,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 521,
+			"is_target": true,
+			"surface": "프로_뮤지션",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "PERSON",
+			"st": 529,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 531,
+			"is_target": true,
+			"surface": "멤버",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 551,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 553,
+			"is_target": true,
+			"surface": "학업",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 583,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 592,
+			"is_target": true,
+			"surface": "대마초_흡연_사건",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 595,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 597,
+			"is_target": true,
+			"surface": "구속",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 609,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 611,
+			"is_target": true,
+			"surface": "앨범",
+			"coref_index": 270,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 662,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 669,
+			"is_target": true,
+			"surface": "드러머_조현찬",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 691,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 699,
+			"is_target": true,
+			"surface": "객원_기타리스트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 50,
+			"ne_type": "TIME",
+			"st": 735,
+			"eType": "WIKILINK",
+			"entityName": "1990년",
+			"en": 740,
+			"is_target": false,
+			"surface": "1990년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 51,
+			"ne_type": "ETC",
+			"st": 899,
+			"eType": "ELU",
+			"entityName": "밀리언셀러",
+			"en": 904,
+			"is_target": true,
+			"surface": "밀리언셀러",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 913,
+			"eType": "ELU",
+			"entityName": "정석원_(음악가)",
+			"en": 916,
+			"is_target": true,
+			"surface": "정석원",
+			"coref_index": 263,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 53,
+			"ne_type": "LOCATION",
+			"st": 998,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 1002,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 268,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ORGANIZATION",
+			"st": 729,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 733,
+			"is_target": true,
+			"surface": "015B",
+			"coref_index": 269,
+			"ancestor": "1-41"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "TIME",
+			"st": 762,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 767,
+			"is_target": false,
+			"surface": "1996년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 985,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 989,
+			"is_target": true,
+			"surface": "프로듀서",
+			"coref_index": 271,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 772,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 774,
+			"is_target": true,
+			"surface": "앨범",
+			"coref_index": 270,
+			"ancestor": "1-47"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 58,
+			"ne_type": "TIME",
+			"st": 1114,
+			"eType": "WIKILINK",
+			"entityName": "1996년",
+			"en": 1119,
+			"is_target": false,
+			"surface": "1996년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "PERSON",
+			"st": 1018,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1020,
+			"is_target": true,
+			"surface": "대중",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "TIME",
+			"st": 1039,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1043,
+			"is_target": false,
+			"surface": "90년대",
+			"coref_index": 274,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "PERSON",
+			"st": 1084,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1086,
+			"is_target": true,
+			"surface": "가수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 1121,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1144,
+			"is_target": true,
+			"surface": "015B_6집_The_Sixth_Sense",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "PERSON",
+			"st": 1172,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1176,
+			"is_target": true,
+			"surface": "프로듀서",
+			"coref_index": 271,
+			"ancestor": "1-56"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "PERSON",
+			"st": 1178,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1181,
+			"is_target": true,
+			"surface": "작곡가",
+			"coref_index": 272,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 65,
+			"ne_type": "TIME",
+			"st": 1194,
+			"eType": "WIKILINK",
+			"entityName": "2001년",
+			"en": 1199,
+			"is_target": false,
+			"surface": "2001년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 66,
+			"ne_type": "PERSON",
+			"st": 1207,
+			"eType": "WIKILINK",
+			"entityName": "이가희",
+			"en": 1210,
+			"is_target": true,
+			"surface": "이가희",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 67,
+			"ne_type": "TIME",
+			"st": 1226,
+			"eType": "WIKILINK",
+			"entityName": "2002년",
+			"en": 1231,
+			"is_target": false,
+			"surface": "2002년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 68,
+			"ne_type": "PERSON",
+			"st": 1232,
+			"eType": "WIKILINK",
+			"entityName": "박정현",
+			"en": 1235,
+			"is_target": true,
+			"surface": "박정현",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ETC",
+			"st": 1244,
+			"eType": "WIKILINK",
+			"entityName": "OP.4",
+			"en": 1248,
+			"is_target": true,
+			"surface": "OP.4",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 70,
+			"ne_type": "TIME",
+			"st": 1261,
+			"eType": "WIKILINK",
+			"entityName": "2005년",
+			"en": 1266,
+			"is_target": false,
+			"surface": "2005년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 71,
+			"ne_type": "PERSON",
+			"st": 1269,
+			"eType": "WIKILINK",
+			"entityName": "윤종신",
+			"en": 1272,
+			"is_target": true,
+			"surface": "윤종신",
+			"coref_index": 273,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 72,
+			"ne_type": "TIME",
+			"st": 1303,
+			"eType": "WIKILINK",
+			"entityName": "2006년",
+			"en": 1308,
+			"is_target": false,
+			"surface": "2006년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Work",
+				"Album"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1324,
+			"eType": "WIKILINK",
+			"entityName": "Lucky_7",
+			"en": 1331,
+			"is_target": true,
+			"surface": "Lucky_7",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 74,
+			"ne_type": "TIME",
+			"st": 1333,
+			"eType": "WIKILINK",
+			"entityName": "2007년",
+			"en": 1338,
+			"is_target": false,
+			"surface": "2007년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Single",
+				"MusicalWork",
+				"Work",
+				"Album"
+			],
+			"id": 75,
+			"ne_type": "ETC",
+			"st": 1347,
+			"eType": "WIKILINK",
+			"entityName": "Cluster_vol.1",
+			"en": 1360,
+			"is_target": true,
+			"surface": "Cluster_vol.1",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 76,
+			"ne_type": "TIME",
+			"st": 1373,
+			"eType": "WIKILINK",
+			"entityName": "2008년",
+			"en": 1378,
+			"is_target": false,
+			"surface": "2008년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 77,
+			"ne_type": "PERSON",
+			"st": 1380,
+			"eType": "ELU",
+			"entityName": "윤종신",
+			"en": 1383,
+			"is_target": true,
+			"surface": "윤종신",
+			"coref_index": 273,
+			"ancestor": "1-71"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 78,
+			"ne_type": "TIME",
+			"st": 1401,
+			"eType": "WIKILINK",
+			"entityName": "2011년",
+			"en": 1406,
+			"is_target": false,
+			"surface": "2011년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Work",
+				"Album"
+			],
+			"id": 79,
+			"ne_type": "ETC",
+			"st": 1418,
+			"eType": "WIKILINK",
+			"entityName": "20th_Century_Boy",
+			"en": 1434,
+			"is_target": true,
+			"surface": "20th_Century_Boy",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1212,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1216,
+			"is_target": true,
+			"surface": "데뷔앨범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "ETC",
+			"st": 1218,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1222,
+			"is_target": true,
+			"surface": "프로듀스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ETC",
+			"st": 1237,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1242,
+			"is_target": true,
+			"surface": "4집_앨범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "PERSON",
+			"st": 1251,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1255,
+			"is_target": true,
+			"surface": "프로듀서",
+			"coref_index": 271,
+			"ancestor": "1-56"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "ETC",
+			"st": 1257,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1259,
+			"is_target": true,
+			"surface": "작곡",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "ETC",
+			"st": 1274,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1280,
+			"is_target": true,
+			"surface": "10집_앨범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "TIME",
+			"st": 1309,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1312,
+			"is_target": false,
+			"surface": "10년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 1316,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1323,
+			"is_target": true,
+			"surface": "공일오비_앨범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "ETC",
+			"st": 1341,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1346,
+			"is_target": true,
+			"surface": "싱글_앨범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "PERSON",
+			"st": 1362,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1365,
+			"is_target": true,
+			"surface": "작곡가",
+			"coref_index": 272,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "ETC",
+			"st": 1385,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1391,
+			"is_target": true,
+			"surface": "11집_앨범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "ETC",
+			"st": 1408,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1417,
+			"is_target": true,
+			"surface": "공일오비_미니앨범",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1111656,1111657,1111658,1111659,1111660,1111661,1111662,1111663,1111664,1111665,1111666,1111667,1111668,1111669,1111670,1111671,1111672",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 214,
+			"ancestor": "-1",
+			"st": 207,
+			"surface": "그대에게〉라는"
+		},
+		{
+			"id": 1,
+			"en": 218,
+			"ancestor": "-1",
+			"st": 207,
+			"surface": "그대에게〉라는 곡으로"
+		},
+		{
+			"id": 2,
+			"en": 550,
+			"ancestor": "-1",
+			"st": 543,
+			"surface": "다른 멤버들은"
+		},
+		{
+			"id": 3,
+			"en": 616,
+			"ancestor": "-1",
+			"st": 612,
+			"surface": "한 장만"
+		},
+		{
+			"id": 4,
+			"en": 622,
+			"ancestor": "-1",
+			"st": 612,
+			"surface": "한 장만 발표한 채"
+		},
+		{
+			"id": 5,
+			"en": 924,
+			"ancestor": "-1",
+			"st": 922,
+			"surface": "소녀"
+		},
+		{
+			"id": 6,
+			"en": 928,
+			"ancestor": "-1",
+			"st": 918,
+			"surface": "특유의 소녀 취향의"
+		},
+		{
+			"id": 7,
+			"en": 932,
+			"ancestor": "-1",
+			"st": 918,
+			"surface": "특유의 소녀 취향의 가사와"
+		},
+		{
+			"id": 8,
+			"ancestor": "1-60",
+			"st": 1076,
+			"en": 1080,
+			"surface": "그 당시",
+			"coref_index": 274
+		},
+		{
+			"id": 9,
+			"en": 1171,
+			"ancestor": "-1",
+			"st": 1166,
+			"surface": "그 이후엔"
+		}
+	],
+	"plainText": "정석원(1968년_12월_23일 ~ )은 대한민국의 작곡가, 음악_프로듀서이다. 생애 정석원은 대구광역시에서 태어났고 1988년 대학 재학 당시 강변가요제에 '실험실'이라는 팀으로 참가하였으나 예선에서 떨어졌다. 그러나 역시 입상에 실패했던 신해철과 강변가요제를 계기로 같이 활동하게 되며, 그해 연말 신해철이 중·고교 친구들과 무한궤도를 결성, MBC_대학가요제에서 〈그대에게〉라는 곡으로 대상을 수상한 이후 신해철은 '무한궤도'의 데뷔음반을 제작하게 됐으나 키보디스트 김재홍과 조현문(조석래 효성그룹 회장 차남, 前 효성 부사장)이 유학과 학업을 이유로 탈퇴 선언을 하자 강변가요제에서의 빛나는 피아노솔로를 눈여겨 봤던 신해철이 정석원에게 무한궤도 합류제의를 하고 결국 무한궤도의 3기 멤버로 참여하게 되었다. 한편 탈퇴하려던 멤버들이 계획을 수정, 잔류해 결국 무한궤도의 데뷔앨범에는 정석원을 포함한 세 명의 건반주자가 참여했다. 앨범에는 정석원이 작곡, 편곡한 '거리에_서면'이 수록되기도 하였다. 이후 신해철은 프로_뮤지션이 되고 싶어 멤버들을 규합하려 했지만 다른 멤버들은 학업에 열중하길 원하는 등 견해 차이가 생기고, 신해철이 대마초_흡연_사건으로 구속되며 결국 무한궤도는 앨범 한 장만 발표한 채 해체되었다. 정석원은 무한궤도의 멤버들 중 친했던 베이시스트 조형곤, 드러머_조현찬, 그리고 정석원의 친형이자 무한궤도의 객원_기타리스트로 활약했던 장호일과 함께 밴드 015B을 만들었다. 015B는 1990년 '텅 빈 거리에서'가 수록된 1집부터 1996년 마지막 앨범 6집 'The Sixth Sense'까지 정규 앨범 6장, 라이브 앨범, 가스펠 앨범 등 몇장의 비정규 앨범들을 발매하였다. 특히 3집 '아주 오래된 연인들'이 수록된 'The Third Wave' 앨범은 015B 최초의 밀리언셀러로 기록되었다. 정석원은 특유의 소녀 취향의 가사와 당시로서는 파격적인 새로운 장르들을 도입, 접목하며 90년대 대중음악 중흥기를 이끌었고 이후 프로듀서로서도 맹활약, 대한민국 대중음악발전에 기여하였다. 대중 앞에 나서는 걸 극도로 꺼려하여 90년대 활동중에도 거의 TV출연을 하지 않는 것으로 유명했으며, 그 당시 많은 가수들이 TV출연을 거부하는 유행을 만들기도 하였다. 1996년, 015B_6집_The_Sixth_Sense을 발표 후 밴드활동을 전면 은퇴했고, 그 이후엔 프로듀서와 작곡가로서만 활동하고 있다. 2001년 신인 여가수 이가희의 데뷔앨범을 프로듀스했고, 2002년 박정현의 4집_앨범 'OP.4'의 프로듀서와 작곡. 2005년에는 윤종신의 10집_앨범을 공동 프로듀스하며 세 곡을 작곡한다. 2006년 10년 만의 공일오비_앨범 Lucky_7, 2007년에는 싱글_앨범 Cluster_vol.1의 작곡가로 참여했다. 2008년에 윤종신의 11집_앨범을 프로듀스했고, 2011년에 공일오비_미니앨범 20th_Century_Boy를 내놓았다. ",
+	"docID": "167219"
+}

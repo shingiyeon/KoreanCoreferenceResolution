@@ -1,0 +1,269 @@
+{
+	"docID": "54795",
+	"globalSID": "492141,492142,492143",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 6,
+			"ancestor": "-1",
+			"coref_index": 692,
+			"surface": "윤근수",
+			"entityName": "윤근수"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 11,
+			"ancestor": "-1",
+			"coref_index": 691,
+			"surface": "윤두수",
+			"entityName": "윤두수"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 23,
+			"ancestor": "-1",
+			"surface": "조선",
+			"entityName": "조선"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"coref_index": 684,
+			"surface": "중추부",
+			"entityName": "중추부"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 40,
+			"ancestor": "-1",
+			"coref_index": 685,
+			"surface": "윤취동",
+			"entityName": "윤취동"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 59,
+			"ancestor": "-1",
+			"coref_index": 687,
+			"surface": "윤웅렬",
+			"entityName": "윤웅렬"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 88,
+			"ancestor": "-1",
+			"surface": "윤치호",
+			"entityName": "윤치호"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 97,
+			"ancestor": "-1",
+			"surface": "윤치왕",
+			"entityName": "윤치왕"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 106,
+			"ancestor": "-1",
+			"surface": "윤치창",
+			"entityName": "윤치창"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 114,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 118,
+			"ancestor": "-1",
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"GovernmentAgency",
+				"Organisation"
+			],
+			"st": 123,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "내무부",
+			"entityName": "대한민국_내무부"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 133,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 136,
+			"ancestor": "-1",
+			"surface": "윤치영",
+			"entityName": "윤치영"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 148,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 151,
+			"ancestor": "-1",
+			"surface": "대통령",
+			"entityName": "대통령"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"st": 152,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "윤보선",
+			"entityName": "윤보선"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 157,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 162,
+			"ancestor": "-1",
+			"surface": "경기도지사",
+			"entityName": "경기도지사"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 167,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 170,
+			"ancestor": "-1",
+			"surface": "윤원선",
+			"entityName": "윤원선"
+		}
+	],
+	"plainText": "이력 윤근수, 윤두수 형제의 후손으로 조선 후기 지중추부사를 지낸 윤취동의 아들이며 군부대신을 지낸 윤웅렬의 동생이다. 독립운동가였다가 친일파로 변절한 윤치호, 군의관 윤치왕, 외교관 윤치창의 숙부이며, 대한민국 제1대 내무부장관을 지낸 윤치영의 아버지이자 제4대 대통령 윤보선, 경기도지사를 지낸 윤원선의 할아버지이다."
+}

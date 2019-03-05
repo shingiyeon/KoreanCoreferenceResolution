@@ -1,0 +1,98 @@
+{
+	"docID": "68577",
+	"globalSID": "564860,564861,564862",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "-1",
+			"coref_index": 792,
+			"surface": "생물",
+			"entityName": "생물"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "자연과학",
+			"entityName": "자연과학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 99,
+			"ancestor": "-1",
+			"surface": "카를_프리드리히_부르다흐",
+			"entityName": "카를_프리드리히_부르다흐"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 118,
+			"ancestor": "-1",
+			"surface": "고트프리드_라인홀트_트레비라누스",
+			"entityName": "고트프리드_라인홀트_트레비라누스"
+		},
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 130,
+			"ancestor": "-1",
+			"coref_index": 805,
+			"surface": "장바티스트_라마르크",
+			"entityName": "장바티스트_라마르크"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 80,
+			"ancestor": "-1",
+			"coref_index": 793,
+			"surface": "현대",
+			"entityName": ""
+		}
+	],
+	"plainText": "생물학(生物學)은 생물을 연구 대상으로 하는 자연과학이다. 생물학은 생물의 구조, 기능, 생장, 기원, 진화, 서식, 분류 등을 탐구한다. 현대 생물학은 카를_프리드리히_부르다흐, 고트프리드_라인홀트_트레비라누스, 장바티스트_라마르크와 같은 학자들에 의해 독립적인 학문으로서 자리잡았다."
+}

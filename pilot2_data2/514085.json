@@ -1,0 +1,2052 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 122,
+			"text": "사이토_시게자네(?藤??)의 여동생.",
+			"is_pronoun": true,
+			"en_modified": 142,
+			"en": 142,
+			"st_modified": 122
+		},
+		{
+			"st": 506,
+			"text": "여기",
+			"is_pronoun": true,
+			"en_modified": 508,
+			"en": 508,
+			"st_modified": 506
+		},
+		{
+			"st": 644,
+			"text": "그 뒤",
+			"is_pronoun": true,
+			"en_modified": 647,
+			"en": 647,
+			"st_modified": 644
+		},
+		{
+			"st": 976,
+			"text": "이 때",
+			"is_pronoun": true,
+			"en_modified": 979,
+			"en": 979,
+			"st_modified": 976
+		},
+		{
+			"st": 997,
+			"text": "시마즈 군?류조지",
+			"is_pronoun": true,
+			"en_modified": 1006,
+			"en": 1006,
+			"st_modified": 997
+		},
+		{
+			"st": 997,
+			"text": "시마즈 군?류조지 군",
+			"is_pronoun": true,
+			"en_modified": 1008,
+			"en": 1008,
+			"st_modified": 997
+		},
+		{
+			"st": 988,
+			"text": "지쿠고_방면에서 시마즈 군?류조지 군과 싸우고 있었기 때문",
+			"is_pronoun": true,
+			"en_modified": 1020,
+			"en": 1020,
+			"st_modified": 988
+		},
+		{
+			"st": 1270,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1271,
+			"en": 1271,
+			"st_modified": 1270
+		},
+		{
+			"st": 1270,
+			"text": "그의 뛰어난 기량",
+			"is_pronoun": true,
+			"en_modified": 1279,
+			"en": 1279,
+			"st_modified": 1270
+		},
+		{
+			"st": 1270,
+			"text": "그의 뛰어난 기량을 익히 알고 있었기 때문",
+			"is_pronoun": true,
+			"en_modified": 1293,
+			"en": 1293,
+			"st_modified": 1270
+		},
+		{
+			"st": 1312,
+			"text": "쇼운 자신",
+			"is_pronoun": true,
+			"en_modified": 1317,
+			"en": 1317,
+			"st_modified": 1312
+		},
+		{
+			"st": 1307,
+			"text": "그러나, 쇼운 자신에게 아버지 같은 존재인 도세쓰가 몇번",
+			"is_pronoun": true,
+			"en_modified": 1338,
+			"en": 1338,
+			"st_modified": 1307
+		},
+		{
+			"st": 1479,
+			"text": "다치바나?다카하시 군",
+			"is_pronoun": true,
+			"en_modified": 1490,
+			"en": 1490,
+			"st_modified": 1479
+		},
+		{
+			"st": 1614,
+			"text": "그 뒤",
+			"is_pronoun": true,
+			"en_modified": 1617,
+			"en": 1617,
+			"st_modified": 1614
+		},
+		{
+			"st": 1614,
+			"text": "그 뒤를 이은 것",
+			"is_pronoun": true,
+			"en_modified": 1623,
+			"en": 1623,
+			"st_modified": 1614
+		},
+		{
+			"st": 1696,
+			"text": "그것",
+			"is_pronoun": true,
+			"en_modified": 1698,
+			"en": 1698,
+			"st_modified": 1696
+		},
+		{
+			"st": 1712,
+			"text": "여기",
+			"is_pronoun": true,
+			"en_modified": 1714,
+			"en": 1714,
+			"st_modified": 1712
+		},
+		{
+			"st": 1735,
+			"text": "오토모 군",
+			"is_pronoun": true,
+			"en_modified": 1740,
+			"en": 1740,
+			"st_modified": 1735
+		},
+		{
+			"st": 1731,
+			"text": "방면의 오토모 군 장병",
+			"is_pronoun": true,
+			"en_modified": 1743,
+			"en": 1743,
+			"st_modified": 1731
+		},
+		{
+			"st": 1731,
+			"text": "방면의 오토모 군 장병 사이에서",
+			"is_pronoun": true,
+			"en_modified": 1748,
+			"en": 1748,
+			"st_modified": 1731
+		},
+		{
+			"st": 1895,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1896,
+			"en": 1896,
+			"st_modified": 1895
+		},
+		{
+			"st": 1895,
+			"text": "그의 딸",
+			"is_pronoun": true,
+			"en_modified": 1899,
+			"en": 1899,
+			"st_modified": 1895
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 122,
+			"ancestor": "1-16",
+			"surface": "사이토_시게자네(?藤??)의 여동생.",
+			"en_modified": 142,
+			"en": 142,
+			"st_modified": 122,
+			"id": 0,
+			"coref_index": 655
+		},
+		{
+			"st": 506,
+			"ancestor": "-1",
+			"surface": "여기에",
+			"en_modified": 509,
+			"en": 509,
+			"st_modified": 506,
+			"id": 1
+		},
+		{
+			"st": 644,
+			"ancestor": "-1",
+			"surface": "그 뒤",
+			"en_modified": 647,
+			"en": 647,
+			"st_modified": 644,
+			"id": 2
+		},
+		{
+			"st": 976,
+			"ancestor": "-1",
+			"surface": "이 때",
+			"en_modified": 979,
+			"en": 979,
+			"st_modified": 976,
+			"id": 3
+		},
+		{
+			"st": 997,
+			"ancestor": "-1",
+			"surface": "시마즈 군?류조지",
+			"en_modified": 1006,
+			"en": 1006,
+			"st_modified": 997,
+			"id": 4
+		},
+		{
+			"st": 997,
+			"ancestor": "-1",
+			"surface": "시마즈 군?류조지 군과",
+			"en_modified": 1009,
+			"en": 1009,
+			"st_modified": 997,
+			"id": 5
+		},
+		{
+			"st": 988,
+			"ancestor": "-1",
+			"surface": "지쿠고_방면에서 시마즈 군?류조지 군과 싸우고 있었기 때문에",
+			"en_modified": 1021,
+			"en": 1021,
+			"st_modified": 988,
+			"id": 6
+		},
+		{
+			"st": 1270,
+			"ancestor": "1-81",
+			"surface": "그",
+			"en_modified": 1271,
+			"en": 1271,
+			"st_modified": 1270,
+			"id": 7,
+			"coref_index": 650
+		},
+		{
+			"st": 1270,
+			"ancestor": "-1",
+			"surface": "그의 뛰어난 기량을",
+			"en_modified": 1280,
+			"en": 1280,
+			"st_modified": 1270,
+			"id": 8
+		},
+		{
+			"st": 1270,
+			"ancestor": "-1",
+			"surface": "그의 뛰어난 기량을 익히 알고 있었기 때문에",
+			"en_modified": 1294,
+			"en": 1294,
+			"st_modified": 1270,
+			"id": 9
+		},
+		{
+			"st": 1312,
+			"ancestor": "1-73",
+			"surface": "쇼운 자신",
+			"en_modified": 1317,
+			"en": 1317,
+			"st_modified": 1312,
+			"id": 10,
+			"coref_index": 644
+		},
+		{
+			"st": 1307,
+			"ancestor": "-1",
+			"surface": "그러나, 쇼운 자신에게 아버지 같은 존재인 도세쓰가 몇번이고",
+			"en_modified": 1340,
+			"en": 1340,
+			"st_modified": 1307,
+			"id": 11
+		},
+		{
+			"st": 1479,
+			"ancestor": "-1",
+			"surface": "다치바나?다카하시 군은",
+			"en_modified": 1491,
+			"en": 1491,
+			"st_modified": 1479,
+			"id": 12
+		},
+		{
+			"st": 1614,
+			"ancestor": "-1",
+			"surface": "그 뒤를",
+			"en_modified": 1618,
+			"en": 1618,
+			"st_modified": 1614,
+			"id": 13
+		},
+		{
+			"st": 1614,
+			"ancestor": "-1",
+			"surface": "그 뒤를 이은 것은",
+			"en_modified": 1624,
+			"en": 1624,
+			"st_modified": 1614,
+			"id": 14
+		},
+		{
+			"st": 1696,
+			"ancestor": "-1",
+			"surface": "그것이",
+			"en_modified": 1699,
+			"en": 1699,
+			"st_modified": 1696,
+			"id": 15
+		},
+		{
+			"st": 1712,
+			"ancestor": "-1",
+			"surface": "여기에",
+			"en_modified": 1715,
+			"en": 1715,
+			"st_modified": 1712,
+			"id": 16
+		},
+		{
+			"st": 1735,
+			"ancestor": "-1",
+			"surface": "오토모 군",
+			"en_modified": 1740,
+			"en": 1740,
+			"st_modified": 1735,
+			"id": 17
+		},
+		{
+			"st": 1731,
+			"ancestor": "-1",
+			"surface": "방면의 오토모 군 장병",
+			"en_modified": 1743,
+			"en": 1743,
+			"st_modified": 1731,
+			"id": 18
+		},
+		{
+			"st": 1731,
+			"ancestor": "-1",
+			"surface": "방면의 오토모 군 장병 사이에서는",
+			"en_modified": 1749,
+			"en": 1749,
+			"st_modified": 1731,
+			"id": 19
+		},
+		{
+			"st": 1895,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 1896,
+			"en": 1896,
+			"st_modified": 1895,
+			"id": 20,
+			"coref_index": 644
+		},
+		{
+			"st": 1895,
+			"ancestor": "-1",
+			"surface": "그의 딸을",
+			"en_modified": 1900,
+			"en": 1900,
+			"st_modified": 1895,
+			"id": 21
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 7,
+			"st_modified": 0,
+			"coref_index": 644,
+			"entityName": "다카하시_쇼운",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "다카하시_쇼운",
+			"is_target": true,
+			"en": 7,
+			"id": 0
+		},
+		{
+			"en_modified": 20,
+			"entityName": "1548년",
+			"st_modified": 15,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 15,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1548년",
+			"is_target": false,
+			"en": 20,
+			"id": 1
+		},
+		{
+			"en_modified": 40,
+			"entityName": "일본",
+			"st_modified": 38,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 38,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "일본",
+			"is_target": true,
+			"en": 40,
+			"id": 2
+		},
+		{
+			"en_modified": 47,
+			"st_modified": 41,
+			"coref_index": 641,
+			"entityName": "센고쿠_시대",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 41,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "센고쿠_시대",
+			"is_target": true,
+			"en": 47,
+			"id": 3
+		},
+		{
+			"en_modified": 35,
+			"entityName": "",
+			"st_modified": 23,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 23,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1586년_9월_10일",
+			"is_target": false,
+			"en": 35,
+			"id": 4
+		},
+		{
+			"en_modified": 61,
+			"entityName": "분고_국",
+			"st_modified": 59,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 59,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "분고",
+			"is_target": true,
+			"en": 61,
+			"id": 5
+		},
+		{
+			"en_modified": 68,
+			"st_modified": 62,
+			"coref_index": 640,
+			"entityName": "오토모_가문",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 62,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오토모_가문",
+			"is_target": true,
+			"en": 68,
+			"id": 6
+		},
+		{
+			"en_modified": 88,
+			"entityName": "요시히로_아키마사",
+			"st_modified": 79,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 79,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "요시히로_아키마사",
+			"is_target": true,
+			"en": 88,
+			"id": 7
+		},
+		{
+			"en_modified": 110,
+			"entityName": "다치바나_무네시게",
+			"st_modified": 101,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 101,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "다치바나_무네시게",
+			"is_target": true,
+			"en": 110,
+			"id": 8
+		},
+		{
+			"en_modified": 130,
+			"entityName": "사이토_시게자네",
+			"st_modified": 122,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 122,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사이토_시게자네",
+			"is_target": true,
+			"en": 130,
+			"id": 9
+		},
+		{
+			"en_modified": 141,
+			"entityName": "형제자매",
+			"st_modified": 138,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 138,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "여동생",
+			"is_target": true,
+			"en": 141,
+			"id": 10
+		},
+		{
+			"en_modified": 169,
+			"st_modified": 161,
+			"coref_index": 643,
+			"entityName": "다치바나_도세쓰",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 161,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "다치바나_도세쓰",
+			"is_target": true,
+			"en": 169,
+			"id": 11
+		},
+		{
+			"en_modified": 195,
+			"st_modified": 189,
+			"coref_index": 647,
+			"entityName": "시마즈_가문",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 189,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시마즈_가문",
+			"is_target": true,
+			"en": 195,
+			"id": 12
+		},
+		{
+			"en_modified": 223,
+			"st_modified": 220,
+			"coref_index": 642,
+			"entityName": "지쿠젠_국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 220,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "지쿠젠",
+			"is_target": true,
+			"en": 223,
+			"id": 13
+		},
+		{
+			"en_modified": 229,
+			"st_modified": 224,
+			"coref_index": 646,
+			"entityName": "이와야_성",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 224,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이와야_성",
+			"is_target": true,
+			"en": 229,
+			"id": 14
+		},
+		{
+			"en_modified": 114,
+			"entityName": "",
+			"st_modified": 112,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 112,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "친부",
+			"is_target": true,
+			"en": 114,
+			"id": 15
+		},
+		{
+			"en_modified": 120,
+			"st_modified": 118,
+			"coref_index": 655,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 118,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "부인",
+			"is_target": true,
+			"en": 120,
+			"id": 16
+		},
+		{
+			"en_modified": 152,
+			"st_modified": 146,
+			"coref_index": 640,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 146,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "오토모_가문",
+			"is_target": true,
+			"en": 152,
+			"id": 17
+		},
+		{
+			"en_modified": 184,
+			"entityName": "",
+			"st_modified": 182,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 182,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "용장",
+			"is_target": true,
+			"en": 184,
+			"id": 18
+		},
+		{
+			"en_modified": 245,
+			"entityName": "",
+			"st_modified": 243,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 243,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "병사",
+			"is_target": true,
+			"en": 245,
+			"id": 19
+		},
+		{
+			"en_modified": 306,
+			"st_modified": 300,
+			"coref_index": 645,
+			"entityName": "오토모_소린",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 300,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "오토모_소린",
+			"is_target": true,
+			"en": 306,
+			"id": 20
+		},
+		{
+			"en_modified": 284,
+			"entityName": "",
+			"st_modified": 275,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 275,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "요시히로_시게타다",
+			"is_target": true,
+			"en": 284,
+			"id": 21
+		},
+		{
+			"en_modified": 357,
+			"entityName": "규슈",
+			"st_modified": 355,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Island",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 355,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "규슈",
+			"is_target": true,
+			"en": 357,
+			"id": 22
+		},
+		{
+			"en_modified": 370,
+			"st_modified": 364,
+			"coref_index": 641,
+			"entityName": "센고쿠_시대",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 364,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "센고쿠_시대",
+			"is_target": true,
+			"en": 370,
+			"id": 23
+		},
+		{
+			"en_modified": 388,
+			"entityName": "덴분",
+			"st_modified": 386,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 386,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "덴분",
+			"is_target": true,
+			"en": 388,
+			"id": 24
+		},
+		{
+			"en_modified": 413,
+			"entityName": "오토모_요시아키",
+			"st_modified": 405,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 405,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오토모_요시아키",
+			"is_target": true,
+			"en": 413,
+			"id": 25
+		},
+		{
+			"en_modified": 402,
+			"entityName": "",
+			"st_modified": 397,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 397,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1548년",
+			"is_target": false,
+			"en": 402,
+			"id": 26
+		},
+		{
+			"en_modified": 450,
+			"entityName": "에이로쿠",
+			"st_modified": 446,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 446,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "에이로쿠",
+			"is_target": true,
+			"en": 450,
+			"id": 27
+		},
+		{
+			"en_modified": 464,
+			"entityName": "1567년",
+			"st_modified": 459,
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"eType": "WIKILINK",
+			"st": 459,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1567년",
+			"is_target": false,
+			"en": 464,
+			"id": 28
+		},
+		{
+			"en_modified": 488,
+			"entityName": "다카하시_아키타네",
+			"st_modified": 479,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 479,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "다카하시_아키타네",
+			"is_target": true,
+			"en": 488,
+			"id": 29
+		},
+		{
+			"en_modified": 512,
+			"entityName": "부젠_국",
+			"st_modified": 510,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 510,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "부젠",
+			"is_target": true,
+			"en": 512,
+			"id": 30
+		},
+		{
+			"en_modified": 516,
+			"st_modified": 513,
+			"coref_index": 642,
+			"entityName": "지쿠젠_국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 513,
+			"ancestor": "1-13",
+			"ne_type": "ETC",
+			"surface": "지쿠젠",
+			"is_target": true,
+			"en": 516,
+			"id": 31
+		},
+		{
+			"en_modified": 519,
+			"entityName": "히젠_국",
+			"st_modified": 517,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 517,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "히젠",
+			"is_target": true,
+			"en": 519,
+			"id": 32
+		},
+		{
+			"en_modified": 524,
+			"entityName": "고쿠진",
+			"st_modified": 521,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 521,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "고쿠진",
+			"is_target": true,
+			"en": 524,
+			"id": 33
+		},
+		{
+			"en_modified": 566,
+			"st_modified": 559,
+			"coref_index": 643,
+			"entityName": "다치바나_도세쓰",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 559,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "벳키_아키쓰라",
+			"is_target": true,
+			"en": 566,
+			"id": 34
+		},
+		{
+			"en_modified": 581,
+			"st_modified": 573,
+			"coref_index": 643,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 573,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "다치바나_도세쓰",
+			"is_target": true,
+			"en": 581,
+			"id": 35
+		},
+		{
+			"en_modified": 602,
+			"st_modified": 598,
+			"coref_index": 644,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 598,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "시게타네",
+			"is_target": true,
+			"en": 602,
+			"id": 36
+		},
+		{
+			"en_modified": 613,
+			"entityName": "",
+			"st_modified": 609,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 609,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "시게마사",
+			"is_target": true,
+			"en": 613,
+			"id": 37
+		},
+		{
+			"en_modified": 621,
+			"entityName": "",
+			"st_modified": 617,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 617,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "시게노부",
+			"is_target": true,
+			"en": 621,
+			"id": 38
+		},
+		{
+			"en_modified": 657,
+			"st_modified": 651,
+			"coref_index": 645,
+			"entityName": "오토모_소린",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 651,
+			"ancestor": "1-20",
+			"ne_type": "PERSON",
+			"surface": "오토모_소린",
+			"is_target": true,
+			"en": 657,
+			"id": 39
+		},
+		{
+			"en_modified": 747,
+			"entityName": "영지로",
+			"st_modified": 744,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "ELU",
+			"st": 744,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "영지로",
+			"is_target": true,
+			"en": 747,
+			"id": 40
+		},
+		{
+			"en_modified": 760,
+			"entityName": "기타큐슈",
+			"st_modified": 756,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 756,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기타큐슈",
+			"is_target": true,
+			"en": 760,
+			"id": 41
+		},
+		{
+			"en_modified": 661,
+			"entityName": "",
+			"st_modified": 659,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 659,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "명령",
+			"is_target": true,
+			"en": 661,
+			"id": 42
+		},
+		{
+			"en_modified": 671,
+			"entityName": "",
+			"st_modified": 664,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 664,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "다카하시_가문",
+			"is_target": true,
+			"en": 671,
+			"id": 43
+		},
+		{
+			"en_modified": 650,
+			"entityName": "",
+			"st_modified": 648,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 648,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "주군",
+			"is_target": true,
+			"en": 650,
+			"id": 44
+		},
+		{
+			"en_modified": 687,
+			"entityName": "",
+			"st_modified": 686,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 686,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "성",
+			"is_target": true,
+			"en": 687,
+			"id": 45
+		},
+		{
+			"en_modified": 693,
+			"entityName": "",
+			"st_modified": 689,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 689,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "다카하시",
+			"is_target": true,
+			"en": 693,
+			"id": 46
+		},
+		{
+			"en_modified": 705,
+			"entityName": "",
+			"st_modified": 703,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 703,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이름",
+			"is_target": true,
+			"en": 705,
+			"id": 47
+		},
+		{
+			"en_modified": 709,
+			"entityName": "",
+			"st_modified": 707,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 707,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "쇼운",
+			"is_target": true,
+			"en": 709,
+			"id": 48
+		},
+		{
+			"en_modified": 726,
+			"st_modified": 721,
+			"coref_index": 646,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 721,
+			"ancestor": "1-14",
+			"ne_type": "LOCATION",
+			"surface": "이와야_성",
+			"is_target": true,
+			"en": 726,
+			"id": 49
+		},
+		{
+			"en_modified": 737,
+			"st_modified": 733,
+			"coref_index": 654,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 733,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "호만_성",
+			"is_target": true,
+			"en": 737,
+			"id": 50
+		},
+		{
+			"en_modified": 764,
+			"entityName": "",
+			"st_modified": 762,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 762,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "군권",
+			"is_target": true,
+			"en": 764,
+			"id": 51
+		},
+		{
+			"en_modified": 768,
+			"entityName": "",
+			"st_modified": 766,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 766,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "위임",
+			"is_target": true,
+			"en": 768,
+			"id": 52
+		},
+		{
+			"en_modified": 779,
+			"st_modified": 771,
+			"coref_index": 643,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 771,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "다치바나_도세쓰",
+			"is_target": true,
+			"en": 779,
+			"id": 53
+		},
+		{
+			"en_modified": 784,
+			"entityName": "",
+			"st_modified": 781,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 781,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "보좌역",
+			"is_target": true,
+			"en": 784,
+			"id": 54
+		},
+		{
+			"en_modified": 791,
+			"st_modified": 788,
+			"coref_index": 642,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 788,
+			"ancestor": "1-13",
+			"ne_type": "ORGANIZATION",
+			"surface": "지쿠젠",
+			"is_target": true,
+			"en": 791,
+			"id": 55
+		},
+		{
+			"en_modified": 795,
+			"entityName": "",
+			"st_modified": 793,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 793,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "지배",
+			"is_target": true,
+			"en": 795,
+			"id": 56
+		},
+		{
+			"en_modified": 799,
+			"entityName": "",
+			"st_modified": 797,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 797,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공헌",
+			"is_target": true,
+			"en": 799,
+			"id": 57
+		},
+		{
+			"en_modified": 810,
+			"entityName": "덴쇼",
+			"st_modified": 808,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 808,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "덴쇼",
+			"is_target": true,
+			"en": 810,
+			"id": 58
+		},
+		{
+			"en_modified": 823,
+			"entityName": "1578년",
+			"st_modified": 818,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 818,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1578년",
+			"is_target": false,
+			"en": 823,
+			"id": 59
+		},
+		{
+			"en_modified": 833,
+			"st_modified": 826,
+			"coref_index": 652,
+			"entityName": "미미가와_전투",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 826,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "미미가와_전투",
+			"is_target": true,
+			"en": 833,
+			"id": 60
+		},
+		{
+			"en_modified": 900,
+			"st_modified": 892,
+			"coref_index": 648,
+			"entityName": "류조지_다카노부",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 892,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "류조지_다카노부",
+			"is_target": true,
+			"en": 900,
+			"id": 61
+		},
+		{
+			"en_modified": 912,
+			"st_modified": 909,
+			"coref_index": 651,
+			"entityName": "지쿠고_국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 909,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "지쿠고",
+			"is_target": true,
+			"en": 912,
+			"id": 62
+		},
+		{
+			"en_modified": 922,
+			"entityName": "쓰쿠시_히로카도",
+			"st_modified": 914,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 914,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "쓰쿠시_히로카도",
+			"is_target": true,
+			"en": 922,
+			"id": 63
+		},
+		{
+			"en_modified": 944,
+			"st_modified": 935,
+			"coref_index": 649,
+			"entityName": "아키즈키_다네자네",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 935,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아키즈키_다네자네",
+			"is_target": true,
+			"en": 944,
+			"id": 64
+		},
+		{
+			"en_modified": 986,
+			"entityName": "휴가노쿠니",
+			"st_modified": 984,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 984,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "휴가",
+			"is_target": true,
+			"en": 986,
+			"id": 65
+		},
+		{
+			"en_modified": 994,
+			"entityName": "지쿠고_시",
+			"st_modified": 988,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 988,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "지쿠고_방면",
+			"is_target": true,
+			"en": 994,
+			"id": 66
+		},
+		{
+			"en_modified": 849,
+			"st_modified": 843,
+			"coref_index": 640,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 843,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "오토모_가문",
+			"is_target": true,
+			"en": 849,
+			"id": 67
+		},
+		{
+			"en_modified": 857,
+			"st_modified": 851,
+			"coref_index": 647,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 851,
+			"ancestor": "1-12",
+			"ne_type": "ORGANIZATION",
+			"surface": "시마즈_가문",
+			"is_target": true,
+			"en": 857,
+			"id": 68
+		},
+		{
+			"en_modified": 871,
+			"st_modified": 865,
+			"coref_index": 640,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 865,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "오토모_가문",
+			"is_target": true,
+			"en": 871,
+			"id": 69
+		},
+		{
+			"en_modified": 959,
+			"st_modified": 953,
+			"coref_index": 640,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 953,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "오토모_가문",
+			"is_target": true,
+			"en": 959,
+			"id": 70
+		},
+		{
+			"en_modified": 1006,
+			"st_modified": 1003,
+			"coref_index": 648,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1003,
+			"ancestor": "1-61",
+			"ne_type": "PERSON",
+			"surface": "류조지",
+			"is_target": true,
+			"en": 1006,
+			"id": 71
+		},
+		{
+			"en_modified": 1037,
+			"st_modified": 1035,
+			"coref_index": 644,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1035,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "쇼운",
+			"is_target": true,
+			"en": 1037,
+			"id": 72
+		},
+		{
+			"en_modified": 1085,
+			"st_modified": 1083,
+			"coref_index": 644,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1083,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "쇼운",
+			"is_target": true,
+			"en": 1085,
+			"id": 73
+		},
+		{
+			"en_modified": 1090,
+			"st_modified": 1087,
+			"coref_index": 643,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1087,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "도세쓰",
+			"is_target": true,
+			"en": 1090,
+			"id": 74
+		},
+		{
+			"en_modified": 1106,
+			"st_modified": 1097,
+			"coref_index": 649,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1097,
+			"ancestor": "1-64",
+			"ne_type": "PERSON",
+			"surface": "아키즈키_다네자네",
+			"is_target": true,
+			"en": 1106,
+			"id": 75
+		},
+		{
+			"en_modified": 1116,
+			"st_modified": 1108,
+			"coref_index": 653,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1108,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "지쿠시_히로카도",
+			"is_target": true,
+			"en": 1116,
+			"id": 76
+		},
+		{
+			"en_modified": 1160,
+			"entityName": "1581년",
+			"st_modified": 1155,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1155,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1581년",
+			"is_target": false,
+			"en": 1160,
+			"id": 77
+		},
+		{
+			"en_modified": 1207,
+			"st_modified": 1198,
+			"coref_index": 650,
+			"entityName": "다치바나_무네시게",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1198,
+			"ancestor": "1-81",
+			"ne_type": "PERSON",
+			"surface": "다치바나_무네시게",
+			"is_target": true,
+			"en": 1207,
+			"id": 78
+		},
+		{
+			"en_modified": 1323,
+			"entityName": "아버지",
+			"st_modified": 1320,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1320,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아버지",
+			"is_target": true,
+			"en": 1323,
+			"id": 79
+		},
+		{
+			"en_modified": 1179,
+			"st_modified": 1176,
+			"coref_index": 643,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1176,
+			"ancestor": "1-74",
+			"ne_type": "PERSON",
+			"surface": "도세쓰",
+			"is_target": true,
+			"en": 1179,
+			"id": 80
+		},
+		{
+			"en_modified": 1190,
+			"st_modified": 1186,
+			"coref_index": 650,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1186,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "무네토라",
+			"is_target": true,
+			"en": 1190,
+			"id": 81
+		},
+		{
+			"en_modified": 1314,
+			"st_modified": 1312,
+			"coref_index": 644,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1312,
+			"ancestor": "1-73",
+			"ne_type": "PERSON",
+			"surface": "쇼운",
+			"is_target": true,
+			"en": 1314,
+			"id": 82
+		},
+		{
+			"en_modified": 1383,
+			"entityName": "1584년",
+			"st_modified": 1378,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1378,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1584년",
+			"is_target": false,
+			"en": 1383,
+			"id": 83
+		},
+		{
+			"en_modified": 1395,
+			"entityName": "오키타나와테_전투",
+			"st_modified": 1386,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1386,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오키타나와테_전투",
+			"is_target": true,
+			"en": 1395,
+			"id": 84
+		},
+		{
+			"en_modified": 1414,
+			"st_modified": 1406,
+			"coref_index": 648,
+			"entityName": "류조지_다카노부",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1406,
+			"ancestor": "1-61",
+			"ne_type": "PERSON",
+			"surface": "류조지_다카노부",
+			"is_target": true,
+			"en": 1414,
+			"id": 85
+		},
+		{
+			"en_modified": 1460,
+			"st_modified": 1457,
+			"coref_index": 651,
+			"entityName": "지쿠고_국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1457,
+			"ancestor": "1-62",
+			"ne_type": "ETC",
+			"surface": "지쿠고",
+			"is_target": true,
+			"en": 1460,
+			"id": 86
+		},
+		{
+			"en_modified": 1512,
+			"st_modified": 1509,
+			"coref_index": 651,
+			"entityName": "지쿠고_국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1509,
+			"ancestor": "1-86",
+			"ne_type": "ETC",
+			"surface": "지쿠고",
+			"is_target": true,
+			"en": 1512,
+			"id": 87
+		},
+		{
+			"en_modified": 1539,
+			"entityName": "1585년",
+			"st_modified": 1534,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1534,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1585년",
+			"is_target": false,
+			"en": 1539,
+			"id": 88
+		},
+		{
+			"en_modified": 1854,
+			"st_modified": 1851,
+			"coref_index": 651,
+			"entityName": "지쿠고_국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1851,
+			"ancestor": "1-87",
+			"ne_type": "ETC",
+			"surface": "지쿠고",
+			"is_target": true,
+			"en": 1854,
+			"id": 89
+		},
+		{
+			"en_modified": 1913,
+			"entityName": "다치바나_나오쓰구",
+			"st_modified": 1904,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1904,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "다치바나_나오쓰구",
+			"is_target": true,
+			"en": 1913,
+			"id": 90
+		},
+		{
+			"en_modified": 1452,
+			"st_modified": 1444,
+			"coref_index": 643,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1444,
+			"ancestor": "1-74",
+			"ne_type": "PERSON",
+			"surface": "다치바나_도세쓰",
+			"is_target": true,
+			"en": 1452,
+			"id": 91
+		},
+		{
+			"en_modified": 1545,
+			"st_modified": 1542,
+			"coref_index": 643,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1542,
+			"ancestor": "1-91",
+			"ne_type": "PERSON",
+			"surface": "도세쓰",
+			"is_target": true,
+			"en": 1545,
+			"id": 92
+		},
+		{
+			"en_modified": 1581,
+			"st_modified": 1574,
+			"coref_index": 652,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1574,
+			"ancestor": "1-60",
+			"ne_type": "EVENT",
+			"surface": "미미가와_전투",
+			"is_target": true,
+			"en": 1581,
+			"id": 93
+		},
+		{
+			"en_modified": 1681,
+			"entityName": "",
+			"st_modified": 1673,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1673,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "가마치_아키모리",
+			"is_target": true,
+			"en": 1681,
+			"id": 94
+		},
+		{
+			"en_modified": 1801,
+			"st_modified": 1793,
+			"coref_index": 653,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1793,
+			"ancestor": "1-76",
+			"ne_type": "PERSON",
+			"surface": "지쿠시_히로카도",
+			"is_target": true,
+			"en": 1801,
+			"id": 95
+		},
+		{
+			"en_modified": 1867,
+			"st_modified": 1864,
+			"coref_index": 642,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1864,
+			"ancestor": "1-55",
+			"ne_type": "LOCATION",
+			"surface": "지쿠젠",
+			"is_target": true,
+			"en": 1867,
+			"id": 96
+		},
+		{
+			"en_modified": 1815,
+			"st_modified": 1811,
+			"coref_index": 654,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1811,
+			"ancestor": "1-50",
+			"ne_type": "LOCATION",
+			"surface": "호만_성",
+			"is_target": true,
+			"en": 1815,
+			"id": 97
+		}
+	],
+	"globalSID": "2217003,2217004,2217005,2217006,2217007,2217008,2217009,2217010,2217011,2217012,2217013,2217014,2217015,2217016,2217017,2217018,2217019,2217020,2217021,2217022,2217023,2217024,2217025,2217026,2217027,2217028",
+	"plainText": "다카하시_쇼운/시게타네(, 1548년 ~ 1586년_9월_10일)은 일본 센고쿠_시대에 활약한 무장이다. 분고 오토모_가문(大友氏)의 가신. 요시히로_아키마사(吉弘鑑理)의 아들로, 다치바나_무네시게의 친부이다. 부인은 사이토_시게자네(?藤??)의 여동생. 같은 오토모_가문의 수하 무장인 다치바나_도세쓰(立花道雪)에 견줄만한 용장이었다. 시마즈_가문(島津氏)이 대군을 이끌고 공격해 왔을 때, 지쿠젠 이와야_성(岩屋城)에서 적은 수의 병사로 농성하여, 보름 가량 저항하다 옥쇄하였다. 초명은 요시히로_시게타다(吉弘?理)이며, 후의 주군 오토모_소린(大友宗麟)의 명으로 다카하시 가문을 이어받아 다카하시 시게타네(高橋?種)라 칭하였다. 규슈를 대표하는 센고쿠_시대의 명장으로 유명하다. 생애 덴분(天文) 17년(1548년), 오토모_요시아키(大友義鑑)의 중신 요시히로 시게마사의 차남으로 태어났다. 에이로쿠(永?) 10년(1567년), 오토모 가문의 가신인 다카하시_아키타네(高橋鑑種)가 모반을 일으키자, 여기에 부젠?지쿠젠?히젠의 고쿠진(?人)이 가담하여 큰 규모의 반란으로 번졌다. 반란 진압에는 벳키_아키쓰라(?次鑑連, 다치바나_도세쓰의 본명)가 크게 활약하였고, 시게타네 역시 부친 시게마사와 형 시게노부(?信)와 함께 출진하여 공적을 올렸다. 그 뒤 주군 오토모_소린의 명령으로 다카하시_가문(高橋氏)을 이어받게 되어 성을 다카하시로 바꾸는 동시에 이름도 쇼운(紹運)으로 바꾸고, 이와야_성(岩屋城)과 호만_성(??城)을 영지로 받는다. 이후 기타큐슈의 군권을 위임받은 다치바나_도세쓰의 보좌역으로서 지쿠젠의 지배에 공헌하였다. 그러나 덴쇼(天正) 6년(1578년)에 미미가와_전투(耳川の?い)에서 오토모_가문이 시마즈_가문에게 대패하여 오토모_가문의 세력이 쇠퇴하기 시작하자, 히젠의 류조지_다카노부(龍造寺隆信)와 지쿠고의 쓰쿠시_히로카도(筑紫?門), 지쿠젠의 아키즈키_다네자네(秋月種?)등이 오토모_가문의 영지로 침공을 개시하였다. 이 때 소린은 휴가와 지쿠고_방면에서 시마즈 군?류조지 군과 싸우고 있었기 때문에 원군을 보내지 못하여, 쇼운이 지키는 지쿠젠은 적대 세력 한복판에 고립되어 있는 상황이었다. 그러한 상황에서 쇼운은 도세쓰와 협력하여 아키즈키_다네자네와 지쿠시_히로카도 등을 보란듯이 격퇴하여 뛰어난 지략과 무용을 과시하였다. 덴쇼 9년(1581년, 아들을 얻지 못하고 있던 도세쓰로부터 적남 무네토라(統虎, 후의 다치바나_무네시게)를 양자로 보내어 다치바나 가문을 잇게 해달라는 청을 받는다. 무네토라는 다카하시 가문의 중요한 후계자인데다, 그의 뛰어난 기량을 익히 알고 있었기 때문에 처음에는 거절하였다. 그러나, 쇼운 자신에게 아버지 같은 존재인 도세쓰가 몇번이고 거듭하여 간청했기 때문에 결국에는 받아들이게 되었다. 덴쇼 12년(1584년), 오키타나와테_전투(沖田?の?い)에서 류조지_다카노부가 시마즈 가문에게 패하고 전사하자, 소린의 명령으로 다치바나_도세쓰와 함께 지쿠고 탈환을 목표로 침공을 개시한다. 다치바나?다카하시 군은 류조지?시마즈 군세를 격파하고 지쿠고의 대부분을 탈환하였으나, 덴쇼 13년(1585년)에 도세쓰가 진중에서 병사하는 바람에 사태가 급변하게 된다. 미미가와_전투에서 오토모 가문의 가로 급의 명장들이 대부분 전사하였고, 그 뒤를 이은 것은 경험이 부족하고 미숙한 무장들 뿐이었다. 특히 지쿠고 방면에서는 맹주라고 할 수 있는 가마치_아키모리(蒲池鑑盛)의 전사도 있어 그것이 표면화하고 있었는데, 여기에 도세쓰마저 사망하자 지쿠고 방면의 오토모 군 장병 사이에서는 전쟁을 꺼리는 분위기가 급속히 퍼져나갔다. 더욱이 도세쓰의 죽음을 호기로 본 지쿠시_히로카도가 쇼운의 거성인 호만_성을 공격하여 탈취하였기 때문에, 쇼운은 호만 성을 탈환하기 위해 지쿠고 원정을 중지하고 지쿠젠으로 귀환하였다. 그리고 히로카도와 화의를 맺어, 그의 딸을 차남 다치바나_나오쓰구(立花直次, 본명은 다카하시 무네마스(高橋統?)의 정실로 맞아들였다. ",
+	"docID": "514085",
+	"ModifiedText": "다카하시 쇼운/시게타네(, 1548년 ~ 1586년 9월 10일)은 일본 센고쿠 시대에 활약한 무장이다. 분고 오토모 가문(大友氏)의 가신. 요시히로 아키마사(吉弘鑑理)의 아들로, 다치바나 무네시게의 친부이다. 부인은 사이토 시게자네(?藤??)의 여동생. 같은 오토모 가문의 수하 무장인 다치바나 도세쓰(立花道雪)에 견줄만한 용장이었다. 시마즈 가문(島津氏)이 대군을 이끌고 공격해 왔을 때, 지쿠젠 이와야 성(岩屋城)에서 적은 수의 병사로 농성하여, 보름 가량 저항하다 옥쇄하였다. 초명은 요시히로 시게타다(吉弘?理)이며, 후의 주군 오토모 소린(大友宗麟)의 명으로 다카하시 가문을 이어받아 다카하시 시게타네(高橋?種)라 칭하였다. 규슈를 대표하는 센고쿠 시대의 명장으로 유명하다. 생애 덴분(天文) 17년(1548년), 오토모 요시아키(大友義鑑)의 중신 요시히로 시게마사의 차남으로 태어났다. 에이로쿠(永?) 10년(1567년), 오토모 가문의 가신인 다카하시 아키타네(高橋鑑種)가 모반을 일으키자, 여기에 부젠?지쿠젠?히젠의 고쿠진(?人)이 가담하여 큰 규모의 반란으로 번졌다. 반란 진압에는 벳키 아키쓰라(?次鑑連, 다치바나 도세쓰의 본명)가 크게 활약하였고, 시게타네 역시 부친 시게마사와 형 시게노부(?信)와 함께 출진하여 공적을 올렸다. 그 뒤 주군 오토모 소린의 명령으로 다카하시 가문(高橋氏)을 이어받게 되어 성을 다카하시로 바꾸는 동시에 이름도 쇼운(紹運)으로 바꾸고, 이와야 성(岩屋城)과 호만 성(??城)을 영지로 받는다. 이후 기타큐슈의 군권을 위임받은 다치바나 도세쓰의 보좌역으로서 지쿠젠의 지배에 공헌하였다. 그러나 덴쇼(天正) 6년(1578년)에 미미가와 전투(耳川の?い)에서 오토모 가문이 시마즈 가문에게 대패하여 오토모 가문의 세력이 쇠퇴하기 시작하자, 히젠의 류조지 다카노부(龍造寺隆信)와 지쿠고의 쓰쿠시 히로카도(筑紫?門), 지쿠젠의 아키즈키 다네자네(秋月種?)등이 오토모 가문의 영지로 침공을 개시하였다. 이 때 소린은 휴가와 지쿠고 방면에서 시마즈 군?류조지 군과 싸우고 있었기 때문에 원군을 보내지 못하여, 쇼운이 지키는 지쿠젠은 적대 세력 한복판에 고립되어 있는 상황이었다. 그러한 상황에서 쇼운은 도세쓰와 협력하여 아키즈키 다네자네와 지쿠시 히로카도 등을 보란듯이 격퇴하여 뛰어난 지략과 무용을 과시하였다. 덴쇼 9년(1581년, 아들을 얻지 못하고 있던 도세쓰로부터 적남 무네토라(統虎, 후의 다치바나 무네시게)를 양자로 보내어 다치바나 가문을 잇게 해달라는 청을 받는다. 무네토라는 다카하시 가문의 중요한 후계자인데다, 그의 뛰어난 기량을 익히 알고 있었기 때문에 처음에는 거절하였다. 그러나, 쇼운 자신에게 아버지 같은 존재인 도세쓰가 몇번이고 거듭하여 간청했기 때문에 결국에는 받아들이게 되었다. 덴쇼 12년(1584년), 오키타나와테 전투(沖田?の?い)에서 류조지 다카노부가 시마즈 가문에게 패하고 전사하자, 소린의 명령으로 다치바나 도세쓰와 함께 지쿠고 탈환을 목표로 침공을 개시한다. 다치바나?다카하시 군은 류조지?시마즈 군세를 격파하고 지쿠고의 대부분을 탈환하였으나, 덴쇼 13년(1585년)에 도세쓰가 진중에서 병사하는 바람에 사태가 급변하게 된다. 미미가와 전투에서 오토모 가문의 가로 급의 명장들이 대부분 전사하였고, 그 뒤를 이은 것은 경험이 부족하고 미숙한 무장들 뿐이었다. 특히 지쿠고 방면에서는 맹주라고 할 수 있는 가마치 아키모리(蒲池鑑盛)의 전사도 있어 그것이 표면화하고 있었는데, 여기에 도세쓰마저 사망하자 지쿠고 방면의 오토모 군 장병 사이에서는 전쟁을 꺼리는 분위기가 급속히 퍼져나갔다. 더욱이 도세쓰의 죽음을 호기로 본 지쿠시 히로카도가 쇼운의 거성인 호만 성을 공격하여 탈취하였기 때문에, 쇼운은 호만 성을 탈환하기 위해 지쿠고 원정을 중지하고 지쿠젠으로 귀환하였다. 그리고 히로카도와 화의를 맺어, 그의 딸을 차남 다치바나 나오쓰구(立花直次, 본명은 다카하시 무네마스(高橋統?)의 정실로 맞아들였다. "
+}

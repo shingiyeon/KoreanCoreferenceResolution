@@ -1,0 +1,1887 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 267,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 268,
+			"en": 268,
+			"st_modified": 267
+		},
+		{
+			"st": 284,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 285,
+			"en": 285,
+			"st_modified": 284
+		},
+		{
+			"st": 355,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 356,
+			"en": 356,
+			"st_modified": 355
+		},
+		{
+			"st": 355,
+			"text": "그의 배다른 삼촌",
+			"is_pronoun": true,
+			"en_modified": 364,
+			"en": 364,
+			"st_modified": 355
+		},
+		{
+			"st": 447,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 448,
+			"en": 448,
+			"st_modified": 447
+		},
+		{
+			"st": 450,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 452,
+			"en": 452,
+			"st_modified": 450
+		},
+		{
+			"st": 450,
+			"text": "자신의 아버지",
+			"is_pronoun": true,
+			"en_modified": 457,
+			"en": 457,
+			"st_modified": 450
+		},
+		{
+			"st": 450,
+			"text": "자신의 아버지 독일왕 루트비히",
+			"is_pronoun": true,
+			"en_modified": 466,
+			"en": 466,
+			"st_modified": 450
+		},
+		{
+			"st": 783,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 784,
+			"en": 784,
+			"st_modified": 783
+		},
+		{
+			"st": 815,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 816,
+			"en": 816,
+			"st_modified": 815
+		},
+		{
+			"st": 845,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 846,
+			"en": 846,
+			"st_modified": 845
+		},
+		{
+			"st": 890,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 891,
+			"en": 891,
+			"st_modified": 890
+		},
+		{
+			"st": 936,
+			"text": "그의_서자_아르눌프",
+			"is_pronoun": true,
+			"en_modified": 946,
+			"en": 946,
+			"st_modified": 936
+		},
+		{
+			"st": 1075,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1076,
+			"en": 1076,
+			"st_modified": 1075
+		},
+		{
+			"st": 1075,
+			"text": "그의 정확한 출생일",
+			"is_pronoun": true,
+			"en_modified": 1085,
+			"en": 1085,
+			"st_modified": 1075
+		},
+		{
+			"st": 1176,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1177,
+			"en": 1177,
+			"st_modified": 1176
+		},
+		{
+			"st": 1176,
+			"text": "그의 이복_삼촌",
+			"is_pronoun": true,
+			"en_modified": 1184,
+			"en": 1184,
+			"st_modified": 1176
+		},
+		{
+			"st": 1176,
+			"text": "그의 이복_삼촌이면서 어머니 쪽으로는 이종사촌",
+			"is_pronoun": true,
+			"en_modified": 1201,
+			"en": 1201,
+			"st_modified": 1176
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 267,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 268,
+			"en": 268,
+			"st_modified": 267,
+			"id": 0,
+			"coref_index": 101
+		},
+		{
+			"st": 284,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 285,
+			"en": 285,
+			"st_modified": 284,
+			"id": 1,
+			"coref_index": 101
+		},
+		{
+			"st": 355,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 356,
+			"en": 356,
+			"st_modified": 355,
+			"id": 2,
+			"coref_index": 101
+		},
+		{
+			"st": 355,
+			"ancestor": "-1",
+			"surface": "그의 배다른 삼촌이자",
+			"en_modified": 366,
+			"en": 366,
+			"st_modified": 355,
+			"id": 3
+		},
+		{
+			"st": 447,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 448,
+			"en": 448,
+			"st_modified": 447,
+			"id": 4,
+			"coref_index": 101
+		},
+		{
+			"st": 450,
+			"ancestor": "1-0",
+			"surface": "자신",
+			"en_modified": 452,
+			"en": 452,
+			"st_modified": 450,
+			"id": 5,
+			"coref_index": 101
+		},
+		{
+			"st": 450,
+			"ancestor": "1-7",
+			"surface": "자신의 아버지",
+			"en_modified": 457,
+			"en": 457,
+			"st_modified": 450,
+			"id": 6,
+			"coref_index": 102
+		},
+		{
+			"st": 450,
+			"ancestor": "-1",
+			"surface": "자신의 아버지 독일왕 루트비히에",
+			"en_modified": 467,
+			"en": 467,
+			"st_modified": 450,
+			"id": 7
+		},
+		{
+			"st": 783,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 784,
+			"en": 784,
+			"st_modified": 783,
+			"id": 8,
+			"coref_index": 101
+		},
+		{
+			"st": 815,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 816,
+			"en": 816,
+			"st_modified": 815,
+			"id": 9,
+			"coref_index": 101
+		},
+		{
+			"st": 845,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 846,
+			"en": 846,
+			"st_modified": 845,
+			"id": 10,
+			"coref_index": 101
+		},
+		{
+			"st": 890,
+			"ancestor": "1-1",
+			"surface": "그",
+			"en_modified": 891,
+			"en": 891,
+			"st_modified": 890,
+			"id": 11,
+			"coref_index": 101
+		},
+		{
+			"st": 936,
+			"ancestor": "1-28",
+			"surface": "그의_서자_아르눌프",
+			"en_modified": 946,
+			"en": 946,
+			"st_modified": 936,
+			"id": 12,
+			"coref_index": 109
+		},
+		{
+			"st": 1075,
+			"ancestor": "1-68",
+			"surface": "그",
+			"en_modified": 1076,
+			"en": 1076,
+			"st_modified": 1075,
+			"id": 13,
+			"coref_index": 101
+		},
+		{
+			"st": 1075,
+			"ancestor": "-1",
+			"surface": "그의 정확한 출생일",
+			"en_modified": 1085,
+			"en": 1085,
+			"st_modified": 1075,
+			"id": 14
+		},
+		{
+			"st": 1176,
+			"ancestor": "1-68",
+			"surface": "그",
+			"en_modified": 1177,
+			"en": 1177,
+			"st_modified": 1176,
+			"id": 15,
+			"coref_index": 101
+		},
+		{
+			"st": 1176,
+			"ancestor": "-1",
+			"surface": "그의 이복_삼촌이면서",
+			"en_modified": 1187,
+			"en": 1187,
+			"st_modified": 1176,
+			"id": 16
+		},
+		{
+			"st": 1176,
+			"ancestor": "-1",
+			"surface": "그의 이복_삼촌이면서 어머니 쪽으로는 이종사촌이었다.",
+			"en_modified": 1205,
+			"en": 1205,
+			"st_modified": 1176,
+			"id": 17
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 3,
+			"st_modified": 0,
+			"coref_index": 101,
+			"entityName": "카를만",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "카를만",
+			"is_target": true,
+			"en": 3,
+			"id": 0
+		},
+		{
+			"en_modified": 11,
+			"st_modified": 7,
+			"coref_index": 101,
+			"entityName": "카를로만_(궁재)",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 7,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "카를로만",
+			"is_target": true,
+			"en": 11,
+			"id": 1
+		},
+		{
+			"en_modified": 25,
+			"entityName": "독일어",
+			"st_modified": 22,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 22,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독일어",
+			"is_target": true,
+			"en": 25,
+			"id": 2
+		},
+		{
+			"en_modified": 41,
+			"entityName": "820년",
+			"st_modified": 37,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 37,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "820년",
+			"is_target": false,
+			"en": 41,
+			"id": 3
+		},
+		{
+			"en_modified": 46,
+			"entityName": "828년",
+			"st_modified": 42,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 42,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "828년",
+			"is_target": false,
+			"en": 46,
+			"id": 4
+		},
+		{
+			"en_modified": 70,
+			"entityName": "3월_22일",
+			"st_modified": 64,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 64,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "3월_22일",
+			"is_target": false,
+			"en": 70,
+			"id": 5
+		},
+		{
+			"en_modified": 79,
+			"entityName": "11월_29일",
+			"st_modified": 72,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 72,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "11월_29일",
+			"is_target": false,
+			"en": 79,
+			"id": 6
+		},
+		{
+			"en_modified": 90,
+			"st_modified": 82,
+			"coref_index": 102,
+			"entityName": "프랑크의_루트비히_2세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 82,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독일왕_루트비히",
+			"is_target": true,
+			"en": 90,
+			"id": 7
+		},
+		{
+			"en_modified": 108,
+			"entityName": "855년",
+			"st_modified": 104,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 104,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "855년",
+			"is_target": false,
+			"en": 108,
+			"id": 8
+		},
+		{
+			"en_modified": 114,
+			"entityName": "케른텐",
+			"st_modified": 111,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 111,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "케른텐",
+			"is_target": true,
+			"en": 114,
+			"id": 9
+		},
+		{
+			"en_modified": 117,
+			"entityName": "공작_(작위)",
+			"st_modified": 115,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 115,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공작",
+			"is_target": true,
+			"en": 117,
+			"id": 10
+		},
+		{
+			"en_modified": 123,
+			"entityName": "856년",
+			"st_modified": 119,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 119,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "856년",
+			"is_target": false,
+			"en": 123,
+			"id": 11
+		},
+		{
+			"en_modified": 128,
+			"st_modified": 124,
+			"coref_index": 104,
+			"entityName": "판노니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 124,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "판노니아",
+			"is_target": true,
+			"en": 128,
+			"id": 12
+		},
+		{
+			"en_modified": 153,
+			"entityName": "바이에른_왕국",
+			"st_modified": 145,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 145,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "바이에른의_공작",
+			"is_target": true,
+			"en": 153,
+			"id": 13
+		},
+		{
+			"en_modified": 163,
+			"entityName": "864년",
+			"st_modified": 159,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 159,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "864년",
+			"is_target": false,
+			"en": 163,
+			"id": 14
+		},
+		{
+			"en_modified": 174,
+			"st_modified": 167,
+			"coref_index": 103,
+			"entityName": "바이에른_왕국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 167,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "바이에른의_왕",
+			"is_target": true,
+			"en": 174,
+			"id": 15
+		},
+		{
+			"en_modified": 185,
+			"entityName": "876년",
+			"st_modified": 181,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 181,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "876년",
+			"is_target": false,
+			"en": 185,
+			"id": 16
+		},
+		{
+			"en_modified": 194,
+			"st_modified": 186,
+			"coref_index": 102,
+			"entityName": "프랑크의_루트비히_2세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 186,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "독일왕_루트비히",
+			"is_target": true,
+			"en": 194,
+			"id": 17
+		},
+		{
+			"en_modified": 205,
+			"st_modified": 198,
+			"coref_index": 103,
+			"entityName": "바이에른_왕국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 198,
+			"ancestor": "1-15",
+			"ne_type": "LOCATION",
+			"surface": "바이에른의_왕",
+			"is_target": true,
+			"en": 205,
+			"id": 18
+		},
+		{
+			"en_modified": 211,
+			"entityName": "877년",
+			"st_modified": 207,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 207,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "877년",
+			"is_target": false,
+			"en": 211,
+			"id": 19
+		},
+		{
+			"en_modified": 221,
+			"entityName": "이탈리아의_군주",
+			"st_modified": 215,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 215,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이탈리아_왕",
+			"is_target": true,
+			"en": 221,
+			"id": 20
+		},
+		{
+			"en_modified": 232,
+			"entityName": "네우스트리아",
+			"st_modified": 226,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 226,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "네우스트리아",
+			"is_target": true,
+			"en": 232,
+			"id": 21
+		},
+		{
+			"en_modified": 60,
+			"entityName": "",
+			"st_modified": 49,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 49,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "880년_9월_21일",
+			"is_target": false,
+			"en": 60,
+			"id": 22
+		},
+		{
+			"en_modified": 250,
+			"entityName": "",
+			"st_modified": 234,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 234,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "부르군트의_군주_카를로만_2세",
+			"is_target": true,
+			"en": 250,
+			"id": 23
+		},
+		{
+			"en_modified": 339,
+			"entityName": "루트비히_2세_(이탈리아)",
+			"st_modified": 329,
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 329,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이탈리아인_루트비히",
+			"is_target": true,
+			"en": 339,
+			"id": 24
+		},
+		{
+			"en_modified": 378,
+			"st_modified": 374,
+			"coref_index": 105,
+			"entityName": "서프랑크",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 374,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서프랑크",
+			"is_target": true,
+			"en": 378,
+			"id": 25
+		},
+		{
+			"en_modified": 391,
+			"st_modified": 382,
+			"coref_index": 106,
+			"entityName": "카를_2세_(서프랑크)",
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 382,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "대머리_카를_2세",
+			"is_target": true,
+			"en": 391,
+			"id": 26
+		},
+		{
+			"en_modified": 402,
+			"st_modified": 394,
+			"coref_index": 110,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 394,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "신성_로마_제국",
+			"is_target": true,
+			"en": 402,
+			"id": 27
+		},
+		{
+			"en_modified": 438,
+			"st_modified": 434,
+			"coref_index": 109,
+			"entityName": "아르눌프_폰_케른텐",
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 434,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아르눌프",
+			"is_target": true,
+			"en": 438,
+			"id": 28
+		},
+		{
+			"en_modified": 475,
+			"entityName": "856년",
+			"st_modified": 471,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 471,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "856년",
+			"is_target": false,
+			"en": 475,
+			"id": 29
+		},
+		{
+			"en_modified": 480,
+			"st_modified": 476,
+			"coref_index": 104,
+			"entityName": "판노니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 476,
+			"ancestor": "1-12",
+			"ne_type": "ETC",
+			"surface": "판노니아",
+			"is_target": true,
+			"en": 480,
+			"id": 30
+		},
+		{
+			"en_modified": 483,
+			"entityName": "후작",
+			"st_modified": 481,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 481,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "후작",
+			"is_target": true,
+			"en": 483,
+			"id": 31
+		},
+		{
+			"en_modified": 495,
+			"entityName": "863년",
+			"st_modified": 491,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 491,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "863년",
+			"is_target": false,
+			"en": 495,
+			"id": 32
+		},
+		{
+			"en_modified": 503,
+			"st_modified": 496,
+			"coref_index": 103,
+			"entityName": "바이에른의_왕",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 496,
+			"ancestor": "1-15",
+			"ne_type": "ETC",
+			"surface": "바이에른의_왕",
+			"is_target": true,
+			"en": 503,
+			"id": 33
+		},
+		{
+			"en_modified": 518,
+			"st_modified": 515,
+			"coref_index": 101,
+			"entityName": "카를만",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 515,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "카를만",
+			"is_target": true,
+			"en": 518,
+			"id": 34
+		},
+		{
+			"en_modified": 524,
+			"entityName": "861년",
+			"st_modified": 520,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 520,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "861년",
+			"is_target": false,
+			"en": 524,
+			"id": 35
+		},
+		{
+			"en_modified": 530,
+			"entityName": "863년",
+			"st_modified": 526,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 526,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "863년",
+			"is_target": false,
+			"en": 530,
+			"id": 36
+		},
+		{
+			"en_modified": 536,
+			"entityName": "864년",
+			"st_modified": 532,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 532,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "864년",
+			"is_target": false,
+			"en": 536,
+			"id": 37
+		},
+		{
+			"en_modified": 540,
+			"entityName": "아버지",
+			"st_modified": 537,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 537,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아버지",
+			"is_target": true,
+			"en": 540,
+			"id": 38
+		},
+		{
+			"en_modified": 549,
+			"st_modified": 541,
+			"coref_index": 102,
+			"entityName": "프랑크의_루트비히_2세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 541,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "독일왕_루트비히",
+			"is_target": true,
+			"en": 549,
+			"id": 39
+		},
+		{
+			"en_modified": 575,
+			"entityName": "869년",
+			"st_modified": 571,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 571,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "869년",
+			"is_target": false,
+			"en": 575,
+			"id": 40
+		},
+		{
+			"en_modified": 584,
+			"entityName": "모라비아_인",
+			"st_modified": 578,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 578,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "모라비아_인",
+			"is_target": true,
+			"en": 584,
+			"id": 41
+		},
+		{
+			"en_modified": 615,
+			"st_modified": 611,
+			"coref_index": 107,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 611,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 615,
+			"id": 42
+		},
+		{
+			"en_modified": 645,
+			"st_modified": 641,
+			"coref_index": 105,
+			"entityName": "서프랑크",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 641,
+			"ancestor": "1-25",
+			"ne_type": "ETC",
+			"surface": "서프랑크",
+			"is_target": true,
+			"en": 645,
+			"id": 43
+		},
+		{
+			"en_modified": 653,
+			"st_modified": 647,
+			"coref_index": 106,
+			"entityName": "대머리_카를",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 647,
+			"ancestor": "1-26",
+			"ne_type": "ETC",
+			"surface": "대머리_카를",
+			"is_target": true,
+			"en": 653,
+			"id": 44
+		},
+		{
+			"en_modified": 669,
+			"st_modified": 666,
+			"coref_index": 101,
+			"entityName": "카를만",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 666,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "카를만",
+			"is_target": true,
+			"en": 669,
+			"id": 45
+		},
+		{
+			"en_modified": 675,
+			"entityName": "875년",
+			"st_modified": 671,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 671,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "875년",
+			"is_target": false,
+			"en": 675,
+			"id": 46
+		},
+		{
+			"en_modified": 682,
+			"st_modified": 678,
+			"coref_index": 107,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 678,
+			"ancestor": "1-42",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 682,
+			"id": 47
+		},
+		{
+			"en_modified": 745,
+			"entityName": "877년",
+			"st_modified": 741,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 741,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "877년",
+			"is_target": false,
+			"en": 745,
+			"id": 48
+		},
+		{
+			"en_modified": 753,
+			"st_modified": 746,
+			"coref_index": 106,
+			"entityName": "대머리왕_카를",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 746,
+			"ancestor": "1-44",
+			"ne_type": "ETC",
+			"surface": "대머리왕_카를",
+			"is_target": true,
+			"en": 753,
+			"id": 49
+		},
+		{
+			"en_modified": 762,
+			"st_modified": 758,
+			"coref_index": 107,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 758,
+			"ancestor": "1-42",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 762,
+			"id": 50
+		},
+		{
+			"en_modified": 821,
+			"st_modified": 818,
+			"coref_index": 108,
+			"entityName": "뇌졸중",
+			"kbox_types": [
+				"Disease"
+			],
+			"eType": "WIKILINK",
+			"st": 818,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "뇌졸중",
+			"is_target": true,
+			"en": 821,
+			"id": 51
+		},
+		{
+			"en_modified": 880,
+			"st_modified": 877,
+			"coref_index": 108,
+			"entityName": "뇌졸중",
+			"kbox_types": [
+				"Disease"
+			],
+			"eType": "WIKILINK",
+			"st": 877,
+			"ancestor": "1-51",
+			"ne_type": "ETC",
+			"surface": "뇌졸중",
+			"is_target": true,
+			"en": 880,
+			"id": 52
+		},
+		{
+			"en_modified": 423,
+			"st_modified": 419,
+			"coref_index": 102,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 419,
+			"ancestor": "1-7",
+			"ne_type": "PERSON",
+			"surface": "루트비히",
+			"is_target": true,
+			"en": 423,
+			"id": 53
+		},
+		{
+			"en_modified": 466,
+			"st_modified": 462,
+			"coref_index": 102,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 462,
+			"ancestor": "1-53",
+			"ne_type": "PERSON",
+			"surface": "루트비히",
+			"is_target": true,
+			"en": 466,
+			"id": 54
+		},
+		{
+			"en_modified": 606,
+			"entityName": "",
+			"st_modified": 599,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 599,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "875년_8월",
+			"is_target": false,
+			"en": 606,
+			"id": 55
+		},
+		{
+			"en_modified": 722,
+			"entityName": "",
+			"st_modified": 718,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 718,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "877년",
+			"is_target": false,
+			"en": 722,
+			"id": 56
+		},
+		{
+			"en_modified": 704,
+			"st_modified": 700,
+			"coref_index": 107,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 700,
+			"ancestor": "1-47",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 704,
+			"id": 57
+		},
+		{
+			"en_modified": 804,
+			"entityName": "",
+			"st_modified": 800,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 800,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "877년",
+			"is_target": false,
+			"en": 804,
+			"id": 58
+		},
+		{
+			"en_modified": 811,
+			"entityName": "",
+			"st_modified": 807,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 807,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "879년",
+			"is_target": false,
+			"en": 811,
+			"id": 59
+		},
+		{
+			"en_modified": 838,
+			"entityName": "",
+			"st_modified": 834,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 834,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "880년",
+			"is_target": false,
+			"en": 838,
+			"id": 60
+		},
+		{
+			"en_modified": 856,
+			"st_modified": 851,
+			"coref_index": 111,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 851,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "소루트비히",
+			"is_target": true,
+			"en": 856,
+			"id": 61
+		},
+		{
+			"en_modified": 860,
+			"st_modified": 858,
+			"coref_index": 106,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 858,
+			"ancestor": "1-44",
+			"ne_type": "PERSON",
+			"surface": "카를",
+			"is_target": true,
+			"en": 860,
+			"id": 62
+		},
+		{
+			"en_modified": 905,
+			"entityName": "",
+			"st_modified": 893,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 893,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "신성_로마_제국의_황제",
+			"is_target": true,
+			"en": 905,
+			"id": 63
+		},
+		{
+			"en_modified": 946,
+			"st_modified": 936,
+			"coref_index": 109,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 936,
+			"ancestor": "1-28",
+			"ne_type": "PERSON",
+			"surface": "그의_서자_아르눌프",
+			"is_target": true,
+			"en": 946,
+			"id": 64
+		},
+		{
+			"en_modified": 959,
+			"entityName": "",
+			"st_modified": 948,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 948,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "동프랑크_왕국의_왕위",
+			"is_target": true,
+			"en": 959,
+			"id": 65
+		},
+		{
+			"en_modified": 969,
+			"st_modified": 961,
+			"coref_index": 110,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 961,
+			"ancestor": "1-27",
+			"ne_type": "LOCATION",
+			"surface": "신성_로마_제국",
+			"is_target": true,
+			"en": 969,
+			"id": 66
+		},
+		{
+			"en_modified": 984,
+			"entityName": "",
+			"st_modified": 982,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 982,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "생애",
+			"is_target": true,
+			"en": 984,
+			"id": 67
+		},
+		{
+			"en_modified": 995,
+			"st_modified": 991,
+			"coref_index": 101,
+			"entityName": "카를로만_(궁재)",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 991,
+			"ancestor": "1-1",
+			"ne_type": "PERSON",
+			"surface": "카를로만",
+			"is_target": true,
+			"en": 995,
+			"id": 68
+		},
+		{
+			"en_modified": 1001,
+			"entityName": "828년",
+			"st_modified": 997,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 997,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "828년",
+			"is_target": false,
+			"en": 1001,
+			"id": 69
+		},
+		{
+			"en_modified": 1009,
+			"entityName": "820년",
+			"st_modified": 1005,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1005,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "820년",
+			"is_target": false,
+			"en": 1009,
+			"id": 70
+		},
+		{
+			"en_modified": 1017,
+			"entityName": "바이에른",
+			"st_modified": 1013,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1013,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바이에른",
+			"is_target": true,
+			"en": 1017,
+			"id": 71
+		},
+		{
+			"en_modified": 1030,
+			"st_modified": 1022,
+			"coref_index": 102,
+			"entityName": "루트비히_2세_(동프랑크)",
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1022,
+			"ancestor": "1-53",
+			"ne_type": "PERSON",
+			"surface": "독일왕_루트비히",
+			"is_target": true,
+			"en": 1030,
+			"id": 72
+		},
+		{
+			"en_modified": 1047,
+			"entityName": "구엘프_1세",
+			"st_modified": 1041,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1041,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "구엘프_1세",
+			"is_target": true,
+			"en": 1047,
+			"id": 73
+		},
+		{
+			"en_modified": 1059,
+			"entityName": "바이에른의_엠므",
+			"st_modified": 1057,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1057,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "엠므",
+			"is_target": true,
+			"en": 1059,
+			"id": 74
+		},
+		{
+			"en_modified": 1101,
+			"st_modified": 1097,
+			"coref_index": 101,
+			"entityName": "카를로만_(궁재)",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1097,
+			"ancestor": "1-68",
+			"ne_type": "PERSON",
+			"surface": "카를로만",
+			"is_target": true,
+			"en": 1101,
+			"id": 75
+		},
+		{
+			"en_modified": 1117,
+			"st_modified": 1105,
+			"coref_index": 111,
+			"entityName": "루트비히_3세_(동프랑크)",
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 1105,
+			"ancestor": "1-61",
+			"ne_type": "PERSON",
+			"surface": "동프랑크의_소_루트비히",
+			"is_target": true,
+			"en": 1117,
+			"id": 76
+		},
+		{
+			"en_modified": 1162,
+			"st_modified": 1155,
+			"coref_index": 105,
+			"entityName": "서프랑크_왕국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1155,
+			"ancestor": "1-25",
+			"ne_type": "LOCATION",
+			"surface": "서프랑크_왕국",
+			"is_target": true,
+			"en": 1162,
+			"id": 77
+		},
+		{
+			"en_modified": 990,
+			"entityName": "",
+			"st_modified": 985,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 985,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "생애_초반",
+			"is_target": true,
+			"en": 990,
+			"id": 78
+		},
+		{
+			"en_modified": 1020,
+			"entityName": "",
+			"st_modified": 1019,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1019,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "왕",
+			"is_target": true,
+			"en": 1020,
+			"id": 79
+		},
+		{
+			"en_modified": 1039,
+			"entityName": "",
+			"st_modified": 1032,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1032,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아르톨프_백작",
+			"is_target": true,
+			"en": 1039,
+			"id": 80
+		},
+		{
+			"en_modified": 1055,
+			"entityName": "",
+			"st_modified": 1049,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1049,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "딸_바이에른",
+			"is_target": true,
+			"en": 1055,
+			"id": 81
+		},
+		{
+			"en_modified": 1063,
+			"entityName": "",
+			"st_modified": 1061,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1061,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아들",
+			"is_target": true,
+			"en": 1063,
+			"id": 82
+		},
+		{
+			"en_modified": 1085,
+			"entityName": "",
+			"st_modified": 1082,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1082,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "출생일",
+			"is_target": true,
+			"en": 1085,
+			"id": 83
+		},
+		{
+			"en_modified": 1128,
+			"entityName": "",
+			"st_modified": 1119,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1119,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "비만왕_카를_3세",
+			"is_target": true,
+			"en": 1128,
+			"id": 84
+		},
+		{
+			"en_modified": 1134,
+			"entityName": "",
+			"st_modified": 1132,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1132,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "형제",
+			"is_target": true,
+			"en": 1134,
+			"id": 85
+		},
+		{
+			"en_modified": 1149,
+			"entityName": "",
+			"st_modified": 1147,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1147,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "삼촌",
+			"is_target": true,
+			"en": 1149,
+			"id": 86
+		},
+		{
+			"en_modified": 1174,
+			"st_modified": 1164,
+			"coref_index": 106,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1164,
+			"ancestor": "1-26",
+			"ne_type": "PERSON",
+			"surface": "대머리왕_카를_2세",
+			"is_target": true,
+			"en": 1174,
+			"id": 87
+		},
+		{
+			"en_modified": 1184,
+			"entityName": "",
+			"st_modified": 1179,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1179,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이복_삼촌",
+			"is_target": true,
+			"en": 1184,
+			"id": 88
+		},
+		{
+			"en_modified": 1191,
+			"entityName": "",
+			"st_modified": 1188,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1188,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "어머니",
+			"is_target": true,
+			"en": 1191,
+			"id": 89
+		},
+		{
+			"en_modified": 1201,
+			"entityName": "",
+			"st_modified": 1197,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1197,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이종사촌",
+			"is_target": true,
+			"en": 1201,
+			"id": 90
+		}
+	],
+	"globalSID": "878277,878278,878279,878280,878281,878282,878283,878284,878285,878286,878287,878288,878289,878290,878291,878292,878293,878294,878295,878296",
+	"plainText": "카를만 또는 카를로만(Carloman, 독일어: Karlmann, 820년/828년 ~ 880년_9월_21일 또는 3월_22일, 11월_29일)은 독일왕_루트비히의 세 아들 중 맏아들로 855년부터 케른텐 공작, 856년 판노니아(Pannonia)의 변경백, 바이에른의_공작이 되었고 864년부터는 바이에른의_왕이 되었다. 876년 독일왕_루트비히 사후 바이에른의_왕, 877년부터는 이탈리아_왕이었다. 네우스트리아와 부르군트의_군주_카를로만_2세도 독일의 군주로 간주할 경우 그를 카를만 3세로도 부른다. 그가 살아있을 때 불리던 이름은 카롤로만니(Carolomanni)였다. 사촌 형 이탈리아인_루트비히로부터 후계자로 내정되었지만 그의 배다른 삼촌이자 이종사촌형인 서프랑크의 왕 대머리_카를_2세에게 신성_로마_제국 황제관을 강탈당했다. 독일왕 루트비히의 장남으로, 황제 아르눌프의 아버지이다. 그는 자신의 아버지 독일왕 루트비히에 의해 856년 판노니아 후작에 임명되고, 863년 바이에른의_왕에 봉해졌다. 그러나 카를만은 861년, 863년, 864년 아버지 독일왕_루트비히에 대해 반란을 기도하다가 실패하였다. 869년에는 모라비아_인들과의 전쟁에 참여하였고, 875년_8월 황제인 이탈리아의 루트비히 2세에 의해 후계자로 내정되었으나 서프랑크의 대머리_카를이 제관을 차지하였다. 카를만은 875년부터 이탈리아의 왕위를 요구하였지만 질병으로 이탈리아 원정을 할 수 없었고, 877년에야 이탈리아 왕관을 차지하였다. 877년 대머리왕_카를이 죽자 이탈리아로 가서 황제관을 요구하였으나 교황은 그에게 제관수여를 거부하였다. 877년부터 879년 사이 그는 뇌졸중에 걸려 무기력해졌고, 880년 와병중이던 그는 동생 소루트비히와 카를에게 영토를 넘기고 물러났다. 뇌졸중으로 사망하였다. 그는 신성_로마_제국의_황제로 공인받는데도 실패했고, 적자를 얻는데도 실패하였지만 그의_서자_아르눌프는 동프랑크_왕국의_왕위와 신성_로마_제국의 제관을 수여받는다. 생애 생애_초반 카를로만은 828년 또는 820년 무렵 바이에른의 왕인 독일왕_루트비히와 아르톨프_백작의 구엘프_1세의 딸_바이에른의 엠므의 아들로 태어났다. 그러나 그의 정확한 출생일은 알려져있지 않다. 카를로만에게는 동프랑크의_소_루트비히와 비만왕_카를_3세 등의 형제들이 태어났다. 배다른 삼촌이기도 한 서프랑크_왕국의 대머리왕_카를_2세는 그의 이복_삼촌이면서 어머니 쪽으로는 이종사촌이었다. ",
+	"docID": "120246",
+	"ModifiedText": "카를만 또는 카를로만(Carloman, 독일어: Karlmann, 820년/828년 ~ 880년 9월 21일 또는 3월 22일, 11월 29일)은 독일왕 루트비히의 세 아들 중 맏아들로 855년부터 케른텐 공작, 856년 판노니아(Pannonia)의 변경백, 바이에른의 공작이 되었고 864년부터는 바이에른의 왕이 되었다. 876년 독일왕 루트비히 사후 바이에른의 왕, 877년부터는 이탈리아 왕이었다. 네우스트리아와 부르군트의 군주 카를로만 2세도 독일의 군주로 간주할 경우 그를 카를만 3세로도 부른다. 그가 살아있을 때 불리던 이름은 카롤로만니(Carolomanni)였다. 사촌 형 이탈리아인 루트비히로부터 후계자로 내정되었지만 그의 배다른 삼촌이자 이종사촌형인 서프랑크의 왕 대머리 카를 2세에게 신성 로마 제국 황제관을 강탈당했다. 독일왕 루트비히의 장남으로, 황제 아르눌프의 아버지이다. 그는 자신의 아버지 독일왕 루트비히에 의해 856년 판노니아 후작에 임명되고, 863년 바이에른의 왕에 봉해졌다. 그러나 카를만은 861년, 863년, 864년 아버지 독일왕 루트비히에 대해 반란을 기도하다가 실패하였다. 869년에는 모라비아 인들과의 전쟁에 참여하였고, 875년 8월 황제인 이탈리아의 루트비히 2세에 의해 후계자로 내정되었으나 서프랑크의 대머리 카를이 제관을 차지하였다. 카를만은 875년부터 이탈리아의 왕위를 요구하였지만 질병으로 이탈리아 원정을 할 수 없었고, 877년에야 이탈리아 왕관을 차지하였다. 877년 대머리왕 카를이 죽자 이탈리아로 가서 황제관을 요구하였으나 교황은 그에게 제관수여를 거부하였다. 877년부터 879년 사이 그는 뇌졸중에 걸려 무기력해졌고, 880년 와병중이던 그는 동생 소루트비히와 카를에게 영토를 넘기고 물러났다. 뇌졸중으로 사망하였다. 그는 신성 로마 제국의 황제로 공인받는데도 실패했고, 적자를 얻는데도 실패하였지만 그의 서자 아르눌프는 동프랑크 왕국의 왕위와 신성 로마 제국의 제관을 수여받는다. 생애 생애 초반 카를로만은 828년 또는 820년 무렵 바이에른의 왕인 독일왕 루트비히와 아르톨프 백작의 구엘프 1세의 딸 바이에른의 엠므의 아들로 태어났다. 그러나 그의 정확한 출생일은 알려져있지 않다. 카를로만에게는 동프랑크의 소 루트비히와 비만왕 카를 3세 등의 형제들이 태어났다. 배다른 삼촌이기도 한 서프랑크 왕국의 대머리왕 카를 2세는 그의 이복 삼촌이면서 어머니 쪽으로는 이종사촌이었다. "
+}

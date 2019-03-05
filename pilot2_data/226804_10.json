@@ -1,0 +1,247 @@
+{
+	"docID": "226804",
+	"globalSID": "1335537,1335538,1335539",
+	"pronouns": [
+		{
+			"en": 26,
+			"st": 16,
+			"surface": "우리_자이언츠전에서",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 23,
+			"ancestor": "-1",
+			"surface": "요미우리_자이언츠",
+			"entityName": "요미우리_자이언츠"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "니시무라_겐타로",
+			"entityName": "니시무라_겐타로"
+		},
+		{
+			"kbox_types": [
+				"AnatomicalStructure"
+			],
+			"st": 56,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 62,
+			"ancestor": "-1",
+			"surface": "새끼_손가락",
+			"entityName": "새끼손가락"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "2008년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"surface": "5월_25일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "투수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "사구",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "왼손",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "EVENT",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "골절상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 80,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 85,
+			"ancestor": "",
+			"surface": "2006년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "EVENT",
+			"en": 106,
+			"ancestor": "-1",
+			"surface": "연속_경기_풀_이닝",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 107,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "EVENT",
+			"en": 112,
+			"ancestor": "-1",
+			"surface": "출전_기록",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 114,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 116,
+			"ancestor": "-1",
+			"surface": "중단",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "부상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 139,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "EVENT",
+			"en": 141,
+			"ancestor": "-1",
+			"surface": "부진",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 157,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 159,
+			"ancestor": "-1",
+			"surface": "성적",
+			"entityName": ""
+		}
+	],
+	"plainText": "2008년 5월_25일의 요미우리_자이언츠전에서 상대 투수인 니시무라_겐타로로부터 사구를 받아 왼손 새끼_손가락에 골절상을 입었고(전치 5주) 2006년부터 계속되고 있던 연속_경기_풀_이닝 출전_기록도 중단되었다. 후반기에는 부상의 영향으로 인해 부진에 시달리는 등 개인 최저의 성적을 기록했다."
+}

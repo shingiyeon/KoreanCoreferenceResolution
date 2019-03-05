@@ -1,0 +1,2492 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 85,
+			"text": "이 시스템",
+			"is_pronoun": true,
+			"en_modified": 90,
+			"en": 90,
+			"st_modified": 85
+		},
+		{
+			"st": 394,
+			"text": "조바심",
+			"is_pronoun": true,
+			"en_modified": 397,
+			"en": 397,
+			"st_modified": 394
+		},
+		{
+			"st": 434,
+			"text": "이 이야기",
+			"is_pronoun": true,
+			"en_modified": 439,
+			"en": 439,
+			"st_modified": 434
+		},
+		{
+			"st": 583,
+			"text": "내",
+			"is_pronoun": true,
+			"en_modified": 584,
+			"en": 584,
+			"st_modified": 583
+		},
+		{
+			"st": 583,
+			"text": "내 시스티나_성당",
+			"is_pronoun": true,
+			"en_modified": 592,
+			"en": 592,
+			"st_modified": 583
+		},
+		{
+			"st": 720,
+			"text": "이것",
+			"is_pronoun": true,
+			"en_modified": 722,
+			"en": 722,
+			"st_modified": 720
+		},
+		{
+			"st": 900,
+			"text": "여러 가지",
+			"is_pronoun": true,
+			"en_modified": 905,
+			"en": 905,
+			"st_modified": 900
+		},
+		{
+			"st": 900,
+			"text": "여러 가지 형태",
+			"is_pronoun": true,
+			"en_modified": 908,
+			"en": 908,
+			"st_modified": 900
+		},
+		{
+			"st": 985,
+			"text": "각자",
+			"is_pronoun": true,
+			"en_modified": 987,
+			"en": 987,
+			"st_modified": 985
+		},
+		{
+			"st": 985,
+			"text": "각자의 공동체",
+			"is_pronoun": true,
+			"en_modified": 992,
+			"en": 992,
+			"st_modified": 985
+		},
+		{
+			"st": 985,
+			"text": "각자의 공동체의 창시자",
+			"is_pronoun": true,
+			"en_modified": 997,
+			"en": 997,
+			"st_modified": 985
+		},
+		{
+			"st": 985,
+			"text": "각자의 공동체의 창시자에 의해 지명되었을 것",
+			"is_pronoun": true,
+			"en_modified": 1009,
+			"en": 1009,
+			"st_modified": 985
+		},
+		{
+			"st": 1026,
+			"text": "다른 지역",
+			"is_pronoun": true,
+			"en_modified": 1031,
+			"en": 1031,
+			"st_modified": 1026
+		},
+		{
+			"st": 1113,
+			"text": "그들에게",
+			"is_pronoun": true,
+			"en_modified": 1117,
+			"en": 1117,
+			"st_modified": 1113
+		},
+		{
+			"st": 1132,
+			"text": "그 대신",
+			"is_pronoun": true,
+			"en_modified": 1136,
+			"en": 1136,
+			"st_modified": 1132
+		},
+		{
+			"st": 1138,
+			"text": "그들에게",
+			"is_pronoun": true,
+			"en_modified": 1142,
+			"en": 1142,
+			"st_modified": 1138
+		},
+		{
+			"st": 1132,
+			"text": "그 대신에 그들에게는 교황을 결정하여 승인할 권리",
+			"is_pronoun": true,
+			"en_modified": 1159,
+			"en": 1159,
+			"st_modified": 1132
+		},
+		{
+			"st": 1411,
+			"text": "그 권리",
+			"is_pronoun": true,
+			"en_modified": 1415,
+			"en": 1415,
+			"st_modified": 1411
+		},
+		{
+			"st": 1540,
+			"text": "누가",
+			"is_pronoun": true,
+			"en_modified": 1542,
+			"en": 1542,
+			"st_modified": 1540
+		},
+		{
+			"st": 1880,
+			"text": "같은 해,",
+			"is_pronoun": true,
+			"en_modified": 1885,
+			"en": 1885,
+			"st_modified": 1880
+		},
+		{
+			"st": 1932,
+			"text": "이 혼란",
+			"is_pronoun": true,
+			"en_modified": 1936,
+			"en": 1936,
+			"st_modified": 1932
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 85,
+			"ancestor": "-1",
+			"surface": "이 시스템은",
+			"en_modified": 91,
+			"en": 91,
+			"st_modified": 85,
+			"id": 0
+		},
+		{
+			"st": 394,
+			"ancestor": "-1",
+			"surface": "조바심이",
+			"en_modified": 398,
+			"en": 398,
+			"st_modified": 394,
+			"id": 1
+		},
+		{
+			"st": 434,
+			"ancestor": "-1",
+			"surface": "이 이야기가",
+			"en_modified": 440,
+			"en": 440,
+			"st_modified": 434,
+			"id": 2
+		},
+		{
+			"st": 583,
+			"ancestor": "-1",
+			"surface": "내",
+			"en_modified": 584,
+			"en": 584,
+			"st_modified": 583,
+			"id": 3
+		},
+		{
+			"st": 583,
+			"ancestor": "-1",
+			"surface": "내 시스티나_성당에서",
+			"en_modified": 594,
+			"en": 594,
+			"st_modified": 583,
+			"id": 4
+		},
+		{
+			"st": 720,
+			"ancestor": "1-46",
+			"surface": "이것",
+			"en_modified": 722,
+			"en": 722,
+			"st_modified": 720,
+			"id": 5,
+			"coref_index": 88
+		},
+		{
+			"st": 900,
+			"ancestor": "-1",
+			"surface": "여러 가지",
+			"en_modified": 905,
+			"en": 905,
+			"st_modified": 900,
+			"id": 6
+		},
+		{
+			"st": 900,
+			"ancestor": "-1",
+			"surface": "여러 가지 형태",
+			"en_modified": 908,
+			"en": 908,
+			"st_modified": 900,
+			"id": 7
+		},
+		{
+			"st": 985,
+			"ancestor": "1-64",
+			"surface": "각자",
+			"en_modified": 987,
+			"en": 987,
+			"st_modified": 985,
+			"id": 8,
+			"coref_index": 81
+		},
+		{
+			"st": 985,
+			"ancestor": "-1",
+			"surface": "각자의 공동체의",
+			"en_modified": 993,
+			"en": 993,
+			"st_modified": 985,
+			"id": 9
+		},
+		{
+			"st": 985,
+			"ancestor": "-1",
+			"surface": "각자의 공동체의 창시자에",
+			"en_modified": 998,
+			"en": 998,
+			"st_modified": 985,
+			"id": 10
+		},
+		{
+			"st": 985,
+			"ancestor": "-1",
+			"surface": "각자의 공동체의 창시자에 의해 지명되었을 것으로",
+			"en_modified": 1011,
+			"en": 1011,
+			"st_modified": 985,
+			"id": 11
+		},
+		{
+			"st": 1026,
+			"ancestor": "-1",
+			"surface": "다른 지역에서",
+			"en_modified": 1033,
+			"en": 1033,
+			"st_modified": 1026,
+			"id": 12
+		},
+		{
+			"st": 1113,
+			"ancestor": "1-77",
+			"surface": "그들",
+			"en_modified": 1115,
+			"en": 1115,
+			"st_modified": 1113,
+			"id": 13,
+			"coref_index": 83
+		},
+		{
+			"st": 1132,
+			"ancestor": "-1",
+			"surface": "그 대신에",
+			"en_modified": 1137,
+			"en": 1137,
+			"st_modified": 1132,
+			"id": 14
+		},
+		{
+			"st": 1138,
+			"ancestor": "1-77",
+			"surface": "그들",
+			"en_modified": 1140,
+			"en": 1140,
+			"st_modified": 1138,
+			"id": 15,
+			"coref_index": 83
+		},
+		{
+			"st": 1132,
+			"ancestor": "-1",
+			"surface": "그 대신에 그들에게는 교황을 결정하여 승인할 권리를",
+			"en_modified": 1160,
+			"en": 1160,
+			"st_modified": 1132,
+			"id": 16
+		},
+		{
+			"st": 1411,
+			"ancestor": "-1",
+			"surface": "그 권리를",
+			"en_modified": 1416,
+			"en": 1416,
+			"st_modified": 1411,
+			"id": 17
+		},
+		{
+			"st": 1540,
+			"ancestor": "-1",
+			"surface": "누가",
+			"en_modified": 1542,
+			"en": 1542,
+			"st_modified": 1540,
+			"id": 18
+		},
+		{
+			"st": 1880,
+			"ancestor": "1-110",
+			"surface": "같은 해,",
+			"en_modified": 1885,
+			"en": 1885,
+			"st_modified": 1880,
+			"id": 19,
+			"coref_index": 89
+		},
+		{
+			"st": 1932,
+			"ancestor": "-1",
+			"surface": "이 혼란을",
+			"en_modified": 1937,
+			"en": 1937,
+			"st_modified": 1932,
+			"id": 20
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 4,
+			"st_modified": 0,
+			"coref_index": 76,
+			"entityName": "콘클라베",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "콘클라베",
+			"is_target": true,
+			"en": 4,
+			"id": 0
+		},
+		{
+			"en_modified": 63,
+			"entityName": "로마_가톨릭교회",
+			"st_modified": 55,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 55,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "로마_가톨릭교회",
+			"is_target": true,
+			"en": 63,
+			"id": 1
+		},
+		{
+			"en_modified": 68,
+			"st_modified": 66,
+			"coref_index": 74,
+			"entityName": "교황",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Cleric"
+			],
+			"eType": "WIKILINK",
+			"st": 66,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 68,
+			"id": 2
+		},
+		{
+			"en_modified": 95,
+			"entityName": "기독교",
+			"st_modified": 92,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 92,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 95,
+			"id": 3
+		},
+		{
+			"en_modified": 11,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "열쇠",
+			"is_target": true,
+			"en": 11,
+			"id": 4
+		},
+		{
+			"en_modified": 27,
+			"entityName": "",
+			"st_modified": 17,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 17,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "들어갈_수_있는_방",
+			"is_target": true,
+			"en": 27,
+			"id": 5
+		},
+		{
+			"en_modified": 33,
+			"entityName": "",
+			"st_modified": 31,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 31,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "걸쇠",
+			"is_target": true,
+			"en": 33,
+			"id": 6
+		},
+		{
+			"en_modified": 42,
+			"entityName": "",
+			"st_modified": 35,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 35,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "문을_잠근_방",
+			"is_target": true,
+			"en": 42,
+			"id": 7
+		},
+		{
+			"en_modified": 191,
+			"st_modified": 189,
+			"coref_index": 82,
+			"entityName": "로마",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 189,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 191,
+			"id": 8
+		},
+		{
+			"en_modified": 200,
+			"st_modified": 197,
+			"coref_index": 83,
+			"entityName": "성직자",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 197,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "성직자",
+			"is_target": true,
+			"en": 200,
+			"id": 9
+		},
+		{
+			"en_modified": 205,
+			"st_modified": 202,
+			"coref_index": 80,
+			"entityName": "평신도",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 202,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "평신도",
+			"is_target": true,
+			"en": 205,
+			"id": 10
+		},
+		{
+			"en_modified": 249,
+			"st_modified": 245,
+			"coref_index": 75,
+			"entityName": "추기경단",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 245,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "추기경단",
+			"is_target": true,
+			"en": 249,
+			"id": 11
+		},
+		{
+			"en_modified": 164,
+			"st_modified": 162,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 162,
+			"ancestor": "1-2",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 164,
+			"id": 12
+		},
+		{
+			"en_modified": 167,
+			"entityName": "",
+			"st_modified": 165,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 165,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "선거",
+			"is_target": true,
+			"en": 167,
+			"id": 13
+		},
+		{
+			"en_modified": 184,
+			"st_modified": 182,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 182,
+			"ancestor": "1-12",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 184,
+			"id": 14
+		},
+		{
+			"en_modified": 225,
+			"st_modified": 223,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 223,
+			"ancestor": "1-12",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 225,
+			"id": 15
+		},
+		{
+			"en_modified": 274,
+			"entityName": "",
+			"st_modified": 271,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 271,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "후계자",
+			"is_target": true,
+			"en": 274,
+			"id": 16
+		},
+		{
+			"en_modified": 300,
+			"entityName": "1059년",
+			"st_modified": 295,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 295,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1059년",
+			"is_target": false,
+			"en": 300,
+			"id": 17
+		},
+		{
+			"en_modified": 309,
+			"st_modified": 305,
+			"coref_index": 75,
+			"entityName": "추기경단",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 305,
+			"ancestor": "1-11",
+			"ne_type": "ETC",
+			"surface": "추기경단",
+			"is_target": true,
+			"en": 309,
+			"id": 18
+		},
+		{
+			"en_modified": 338,
+			"entityName": "1268년",
+			"st_modified": 333,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 333,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1268년",
+			"is_target": false,
+			"en": 338,
+			"id": 19
+		},
+		{
+			"en_modified": 349,
+			"entityName": "교황_클레멘스_4세",
+			"st_modified": 339,
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"eType": "WIKILINK",
+			"st": 339,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "교황_클레멘스_4세",
+			"is_target": true,
+			"en": 349,
+			"id": 20
+		},
+		{
+			"en_modified": 445,
+			"st_modified": 441,
+			"coref_index": 76,
+			"entityName": "콘클라베",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 441,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "콘클라베",
+			"is_target": true,
+			"en": 445,
+			"id": 21
+		},
+		{
+			"en_modified": 461,
+			"st_modified": 457,
+			"coref_index": 76,
+			"entityName": "콘클라베",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 457,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "콘클라베",
+			"is_target": true,
+			"en": 461,
+			"id": 22
+		},
+		{
+			"en_modified": 473,
+			"entityName": "라틴어",
+			"st_modified": 470,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "ELU",
+			"st": 470,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "라틴어",
+			"is_target": true,
+			"en": 473,
+			"id": 23
+		},
+		{
+			"en_modified": 313,
+			"st_modified": 311,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 311,
+			"ancestor": "1-14",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 313,
+			"id": 24
+		},
+		{
+			"en_modified": 353,
+			"entityName": "",
+			"st_modified": 351,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 351,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "선종",
+			"is_target": true,
+			"en": 353,
+			"id": 25
+		},
+		{
+			"en_modified": 360,
+			"st_modified": 358,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 358,
+			"ancestor": "1-14",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 360,
+			"id": 26
+		},
+		{
+			"en_modified": 369,
+			"entityName": "",
+			"st_modified": 365,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 365,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "탁상공론",
+			"is_target": true,
+			"en": 369,
+			"id": 27
+		},
+		{
+			"en_modified": 379,
+			"entityName": "",
+			"st_modified": 377,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 377,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "3년",
+			"is_target": false,
+			"en": 379,
+			"id": 28
+		},
+		{
+			"en_modified": 412,
+			"st_modified": 409,
+			"coref_index": 78,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 409,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "선거자",
+			"is_target": true,
+			"en": 412,
+			"id": 29
+		},
+		{
+			"en_modified": 481,
+			"entityName": "",
+			"st_modified": 476,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 476,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "쿰_클라비",
+			"is_target": true,
+			"en": 481,
+			"id": 30
+		},
+		{
+			"en_modified": 511,
+			"st_modified": 507,
+			"coref_index": 76,
+			"entityName": "콘클라베",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 507,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "콘클라베",
+			"is_target": true,
+			"en": 511,
+			"id": 31
+		},
+		{
+			"en_modified": 522,
+			"entityName": "1274년",
+			"st_modified": 517,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 517,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1274년",
+			"is_target": false,
+			"en": 522,
+			"id": 32
+		},
+		{
+			"en_modified": 537,
+			"entityName": "제2차_리옹_공의회",
+			"st_modified": 527,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 527,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "제2차_리옹_공의회",
+			"is_target": true,
+			"en": 537,
+			"id": 33
+		},
+		{
+			"en_modified": 561,
+			"st_modified": 557,
+			"coref_index": 76,
+			"entityName": "콘클라베",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 557,
+			"ancestor": "1-31",
+			"ne_type": "ETC",
+			"surface": "콘클라베",
+			"is_target": true,
+			"en": 561,
+			"id": 34
+		},
+		{
+			"en_modified": 569,
+			"st_modified": 563,
+			"coref_index": 77,
+			"entityName": "바티칸_시국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 563,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "바티칸_시국",
+			"is_target": true,
+			"en": 569,
+			"id": 35
+		},
+		{
+			"en_modified": 582,
+			"entityName": "바티칸_궁전",
+			"st_modified": 576,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 576,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바티칸_궁전",
+			"is_target": true,
+			"en": 582,
+			"id": 36
+		},
+		{
+			"en_modified": 592,
+			"st_modified": 585,
+			"coref_index": 79,
+			"entityName": "시스티나_성당",
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Building",
+				"ReligiousBuilding",
+				"Place",
+				"ReligiousBuilding"
+			],
+			"eType": "WIKILINK",
+			"st": 585,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "시스티나_성당",
+			"is_target": true,
+			"en": 592,
+			"id": 37
+		},
+		{
+			"en_modified": 636,
+			"st_modified": 634,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 634,
+			"ancestor": "1-2",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 636,
+			"id": 38
+		},
+		{
+			"en_modified": 660,
+			"entityName": "2005년",
+			"st_modified": 655,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 655,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2005년",
+			"is_target": false,
+			"en": 660,
+			"id": 39
+		},
+		{
+			"en_modified": 742,
+			"entityName": "교황_요한_바오로_2세",
+			"st_modified": 730,
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"eType": "WIKILINK",
+			"st": 730,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "교황_요한_바오로_2세",
+			"is_target": true,
+			"en": 742,
+			"id": 40
+		},
+		{
+			"en_modified": 771,
+			"st_modified": 768,
+			"coref_index": 77,
+			"entityName": "바티칸_시국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 768,
+			"ancestor": "1-35",
+			"ne_type": "LOCATION",
+			"surface": "바티칸",
+			"is_target": true,
+			"en": 771,
+			"id": 41
+		},
+		{
+			"en_modified": 675,
+			"entityName": "",
+			"st_modified": 662,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 662,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "콘클라베도_시스티나_성당",
+			"is_target": true,
+			"en": 675,
+			"id": 42
+		},
+		{
+			"en_modified": 680,
+			"entityName": "",
+			"st_modified": 678,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 678,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "투표",
+			"is_target": true,
+			"en": 680,
+			"id": 43
+		},
+		{
+			"en_modified": 688,
+			"st_modified": 685,
+			"coref_index": 78,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 685,
+			"ancestor": "1-29",
+			"ne_type": "PERSON",
+			"surface": "선거자",
+			"is_target": true,
+			"en": 688,
+			"id": 44
+		},
+		{
+			"en_modified": 698,
+			"st_modified": 691,
+			"coref_index": 79,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 691,
+			"ancestor": "1-37",
+			"ne_type": "LOCATION",
+			"surface": "시스티나_성당",
+			"is_target": true,
+			"en": 698,
+			"id": 45
+		},
+		{
+			"en_modified": 711,
+			"st_modified": 709,
+			"coref_index": 88,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 709,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "관례",
+			"is_target": true,
+			"en": 711,
+			"id": 46
+		},
+		{
+			"en_modified": 715,
+			"entityName": "",
+			"st_modified": 713,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 713,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "폐지",
+			"is_target": true,
+			"en": 715,
+			"id": 47
+		},
+		{
+			"en_modified": 729,
+			"entityName": "",
+			"st_modified": 724,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 724,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1996년",
+			"is_target": false,
+			"en": 729,
+			"id": 48
+		},
+		{
+			"en_modified": 787,
+			"entityName": "",
+			"st_modified": 779,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 779,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "성_마르타_숙소",
+			"is_target": true,
+			"en": 787,
+			"id": 49
+		},
+		{
+			"en_modified": 778,
+			"entityName": "",
+			"st_modified": 776,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 776,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "숙소",
+			"is_target": true,
+			"en": 778,
+			"id": 50
+		},
+		{
+			"en_modified": 806,
+			"entityName": "",
+			"st_modified": 805,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 805,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "뜰",
+			"is_target": true,
+			"en": 806,
+			"id": 51
+		},
+		{
+			"en_modified": 810,
+			"entityName": "",
+			"st_modified": 808,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 808,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "산책",
+			"is_target": true,
+			"en": 810,
+			"id": 52
+		},
+		{
+			"en_modified": 831,
+			"entityName": "",
+			"st_modified": 828,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 828,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "매스컴",
+			"is_target": true,
+			"en": 831,
+			"id": 53
+		},
+		{
+			"en_modified": 841,
+			"entityName": "",
+			"st_modified": 839,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 839,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "연락",
+			"is_target": true,
+			"en": 841,
+			"id": 54
+		},
+		{
+			"en_modified": 765,
+			"st_modified": 762,
+			"coref_index": 85,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 762,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "추기경",
+			"is_target": true,
+			"en": 765,
+			"id": 55
+		},
+		{
+			"en_modified": 856,
+			"entityName": "",
+			"st_modified": 854,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 854,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "금지",
+			"is_target": true,
+			"en": 856,
+			"id": 56
+		},
+		{
+			"en_modified": 926,
+			"st_modified": 922,
+			"coref_index": 76,
+			"entityName": "콘클라베",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 922,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "콘클라베",
+			"is_target": true,
+			"en": 926,
+			"id": 57
+		},
+		{
+			"en_modified": 944,
+			"entityName": "1274년",
+			"st_modified": 939,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 939,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1274년",
+			"is_target": false,
+			"en": 944,
+			"id": 58
+		},
+		{
+			"en_modified": 869,
+			"entityName": "",
+			"st_modified": 864,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 864,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "교황_선거",
+			"is_target": true,
+			"en": 869,
+			"id": 59
+		},
+		{
+			"en_modified": 873,
+			"entityName": "",
+			"st_modified": 871,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 871,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "역사",
+			"is_target": true,
+			"en": 873,
+			"id": 60
+		},
+		{
+			"en_modified": 882,
+			"entityName": "",
+			"st_modified": 874,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 874,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "교황_선출_방법",
+			"is_target": true,
+			"en": 882,
+			"id": 61
+		},
+		{
+			"en_modified": 896,
+			"entityName": "",
+			"st_modified": 884,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 884,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "기독교_역사_2000년",
+			"is_target": false,
+			"en": 896,
+			"id": 62
+		},
+		{
+			"en_modified": 960,
+			"entityName": "",
+			"st_modified": 946,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 946,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "제2차_리옹_공의회의_의결",
+			"is_target": true,
+			"en": 960,
+			"id": 63
+		},
+		{
+			"en_modified": 982,
+			"st_modified": 980,
+			"coref_index": 81,
+			"entityName": "주교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 980,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "주교",
+			"is_target": true,
+			"en": 982,
+			"id": 64
+		},
+		{
+			"en_modified": 1036,
+			"entityName": "사제",
+			"st_modified": 1034,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 1034,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사제",
+			"is_target": true,
+			"en": 1036,
+			"id": 65
+		},
+		{
+			"en_modified": 1041,
+			"st_modified": 1038,
+			"coref_index": 80,
+			"entityName": "평신도",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1038,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "평신도",
+			"is_target": true,
+			"en": 1041,
+			"id": 66
+		},
+		{
+			"en_modified": 1048,
+			"entityName": "교구_(기독교)",
+			"st_modified": 1046,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1046,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "교구",
+			"is_target": true,
+			"en": 1048,
+			"id": 67
+		},
+		{
+			"en_modified": 1052,
+			"st_modified": 1050,
+			"coref_index": 81,
+			"entityName": "주교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1050,
+			"ancestor": "1-64",
+			"ne_type": "ETC",
+			"surface": "주교",
+			"is_target": true,
+			"en": 1052,
+			"id": 68
+		},
+		{
+			"en_modified": 1266,
+			"entityName": "고대",
+			"st_modified": 1264,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1264,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "고대",
+			"is_target": true,
+			"en": 1266,
+			"id": 69
+		},
+		{
+			"en_modified": 1324,
+			"st_modified": 1319,
+			"coref_index": 87,
+			"entityName": "대립_교황",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1319,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "대립_교황",
+			"is_target": true,
+			"en": 1324,
+			"id": 70
+		},
+		{
+			"en_modified": 978,
+			"entityName": "",
+			"st_modified": 976,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 976,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "교회",
+			"is_target": true,
+			"en": 978,
+			"id": 71
+		},
+		{
+			"en_modified": 997,
+			"entityName": "",
+			"st_modified": 994,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 994,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "창시자",
+			"is_target": true,
+			"en": 997,
+			"id": 72
+		},
+		{
+			"en_modified": 1024,
+			"st_modified": 1022,
+			"coref_index": 82,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1022,
+			"ancestor": "1-8",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 1024,
+			"id": 73
+		},
+		{
+			"en_modified": 1031,
+			"entityName": "",
+			"st_modified": 1029,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1029,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "지역",
+			"is_target": true,
+			"en": 1031,
+			"id": 74
+		},
+		{
+			"en_modified": 1084,
+			"st_modified": 1082,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1082,
+			"ancestor": "1-12",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 1084,
+			"id": 75
+		},
+		{
+			"en_modified": 1101,
+			"entityName": "",
+			"st_modified": 1099,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1099,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "사람",
+			"is_target": true,
+			"en": 1101,
+			"id": 76
+		},
+		{
+			"en_modified": 1106,
+			"st_modified": 1103,
+			"coref_index": 83,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1103,
+			"ancestor": "1-9",
+			"ne_type": "PERSON",
+			"surface": "성직자",
+			"is_target": true,
+			"en": 1106,
+			"id": 77
+		},
+		{
+			"en_modified": 1146,
+			"st_modified": 1144,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1144,
+			"ancestor": "1-75",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 1146,
+			"id": 78
+		},
+		{
+			"en_modified": 1192,
+			"st_modified": 1190,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1190,
+			"ancestor": "1-75",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 1192,
+			"id": 79
+		},
+		{
+			"en_modified": 1196,
+			"st_modified": 1193,
+			"coref_index": 84,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1193,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "후보자",
+			"is_target": true,
+			"en": 1196,
+			"id": 80
+		},
+		{
+			"en_modified": 1227,
+			"st_modified": 1225,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1225,
+			"ancestor": "1-75",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 1227,
+			"id": 81
+		},
+		{
+			"en_modified": 1236,
+			"entityName": "",
+			"st_modified": 1234,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1234,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "민중",
+			"is_target": true,
+			"en": 1236,
+			"id": 82
+		},
+		{
+			"en_modified": 1273,
+			"st_modified": 1271,
+			"coref_index": 82,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1271,
+			"ancestor": "1-73",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 1273,
+			"id": 83
+		},
+		{
+			"en_modified": 1284,
+			"entityName": "",
+			"st_modified": 1282,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1282,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "선출",
+			"is_target": true,
+			"en": 1284,
+			"id": 84
+		},
+		{
+			"en_modified": 1307,
+			"st_modified": 1304,
+			"coref_index": 84,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1304,
+			"ancestor": "1-80",
+			"ne_type": "PERSON",
+			"surface": "후보자",
+			"is_target": true,
+			"en": 1307,
+			"id": 85
+		},
+		{
+			"en_modified": 1345,
+			"entityName": "769년",
+			"st_modified": 1341,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1341,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "769년",
+			"is_target": false,
+			"en": 1345,
+			"id": 86
+		},
+		{
+			"en_modified": 1354,
+			"st_modified": 1351,
+			"coref_index": 86,
+			"entityName": "교회회의",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1351,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시노드",
+			"is_target": true,
+			"en": 1354,
+			"id": 87
+		},
+		{
+			"en_modified": 1404,
+			"entityName": "귀족",
+			"st_modified": 1402,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1402,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "귀족",
+			"is_target": true,
+			"en": 1404,
+			"id": 88
+		},
+		{
+			"en_modified": 1429,
+			"entityName": "1059년",
+			"st_modified": 1424,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1424,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1059년",
+			"is_target": false,
+			"en": 1429,
+			"id": 89
+		},
+		{
+			"en_modified": 1441,
+			"entityName": "교황_니콜라오_2세",
+			"st_modified": 1431,
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"eType": "WIKILINK",
+			"st": 1431,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "교황_니콜라오_2세",
+			"is_target": true,
+			"en": 1441,
+			"id": 90
+		},
+		{
+			"en_modified": 1455,
+			"st_modified": 1452,
+			"coref_index": 85,
+			"entityName": "추기경",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1452,
+			"ancestor": "1-55",
+			"ne_type": "ETC",
+			"surface": "추기경",
+			"is_target": true,
+			"en": 1455,
+			"id": 91
+		},
+		{
+			"en_modified": 1498,
+			"st_modified": 1494,
+			"coref_index": 75,
+			"entityName": "추기경단",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1494,
+			"ancestor": "1-18",
+			"ne_type": "ETC",
+			"surface": "추기경단",
+			"is_target": true,
+			"en": 1498,
+			"id": 92
+		},
+		{
+			"en_modified": 1593,
+			"entityName": "추기경",
+			"st_modified": 1586,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1586,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사제급_추기경",
+			"is_target": true,
+			"en": 1593,
+			"id": 93
+		},
+		{
+			"en_modified": 1629,
+			"entityName": "1139년",
+			"st_modified": 1624,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1624,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1139년",
+			"is_target": false,
+			"en": 1629,
+			"id": 94
+		},
+		{
+			"en_modified": 1642,
+			"entityName": "제2차_라테란_공의회",
+			"st_modified": 1631,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1631,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "제2차_라테란_공의회",
+			"is_target": true,
+			"en": 1642,
+			"id": 95
+		},
+		{
+			"en_modified": 1369,
+			"entityName": "",
+			"st_modified": 1362,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1362,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "로마인_평신도",
+			"is_target": true,
+			"en": 1369,
+			"id": 96
+		},
+		{
+			"en_modified": 1376,
+			"entityName": "",
+			"st_modified": 1374,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1374,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "승인",
+			"is_target": true,
+			"en": 1376,
+			"id": 97
+		},
+		{
+			"en_modified": 1380,
+			"entityName": "",
+			"st_modified": 1378,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1378,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "폐지",
+			"is_target": true,
+			"en": 1380,
+			"id": 98
+		},
+		{
+			"en_modified": 1390,
+			"entityName": "",
+			"st_modified": 1386,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1386,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "862년",
+			"is_target": false,
+			"en": 1390,
+			"id": 99
+		},
+		{
+			"en_modified": 1398,
+			"st_modified": 1392,
+			"coref_index": 86,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1392,
+			"ancestor": "1-87",
+			"ne_type": "LOCATION",
+			"surface": "로마_시노드",
+			"is_target": true,
+			"en": 1398,
+			"id": 100
+		},
+		{
+			"en_modified": 1415,
+			"entityName": "",
+			"st_modified": 1413,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1413,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "권리",
+			"is_target": true,
+			"en": 1415,
+			"id": 101
+		},
+		{
+			"en_modified": 1445,
+			"entityName": "",
+			"st_modified": 1443,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1443,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "교령",
+			"is_target": true,
+			"en": 1445,
+			"id": 102
+		},
+		{
+			"en_modified": 1471,
+			"st_modified": 1468,
+			"coref_index": 83,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1468,
+			"ancestor": "1-77",
+			"ne_type": "PERSON",
+			"surface": "성직자",
+			"is_target": true,
+			"en": 1471,
+			"id": 103
+		},
+		{
+			"en_modified": 1492,
+			"st_modified": 1490,
+			"coref_index": 74,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1490,
+			"ancestor": "1-78",
+			"ne_type": "PERSON",
+			"surface": "교황",
+			"is_target": true,
+			"en": 1492,
+			"id": 104
+		},
+		{
+			"en_modified": 1530,
+			"entityName": "",
+			"st_modified": 1523,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1523,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "주교급_추기경",
+			"is_target": true,
+			"en": 1530,
+			"id": 105
+		},
+		{
+			"en_modified": 1602,
+			"entityName": "",
+			"st_modified": 1595,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1595,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "부제급_추기경",
+			"is_target": true,
+			"en": 1602,
+			"id": 106
+		},
+		{
+			"en_modified": 1611,
+			"entityName": "",
+			"st_modified": 1609,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1609,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "투표",
+			"is_target": true,
+			"en": 1611,
+			"id": 107
+		},
+		{
+			"en_modified": 1672,
+			"entityName": "",
+			"st_modified": 1666,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1666,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "하급_성직자",
+			"is_target": true,
+			"en": 1672,
+			"id": 108
+		},
+		{
+			"en_modified": 1693,
+			"st_modified": 1689,
+			"coref_index": 75,
+			"entityName": "추기경단",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1689,
+			"ancestor": "1-11",
+			"ne_type": "ETC",
+			"surface": "추기경단",
+			"is_target": true,
+			"en": 1693,
+			"id": 109
+		},
+		{
+			"en_modified": 1718,
+			"st_modified": 1713,
+			"coref_index": 89,
+			"entityName": "1378년",
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1713,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1378년",
+			"is_target": false,
+			"en": 1718,
+			"id": 110
+		},
+		{
+			"en_modified": 1744,
+			"entityName": "프랑스",
+			"st_modified": 1741,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1741,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 1744,
+			"id": 111
+		},
+		{
+			"en_modified": 1761,
+			"entityName": "교황_그레고리오_11세",
+			"st_modified": 1749,
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"eType": "WIKILINK",
+			"st": 1749,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "교황_그레고리오_11세",
+			"is_target": true,
+			"en": 1761,
+			"id": 112
+		},
+		{
+			"en_modified": 1779,
+			"entityName": "이탈리아",
+			"st_modified": 1775,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1775,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 1779,
+			"id": 113
+		},
+		{
+			"en_modified": 1808,
+			"st_modified": 1804,
+			"coref_index": 75,
+			"entityName": "추기경단",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1804,
+			"ancestor": "1-109",
+			"ne_type": "ETC",
+			"surface": "추기경단",
+			"is_target": true,
+			"en": 1808,
+			"id": 114
+		},
+		{
+			"en_modified": 1840,
+			"entityName": "교황_우르바노_6세",
+			"st_modified": 1830,
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"eType": "WIKILINK",
+			"st": 1830,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "교황_우르바노_6세",
+			"is_target": true,
+			"en": 1840,
+			"id": 115
+		},
+		{
+			"en_modified": 1905,
+			"entityName": "이동하",
+			"st_modified": 1902,
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 1902,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이동하",
+			"is_target": true,
+			"en": 1905,
+			"id": 116
+		},
+		{
+			"en_modified": 1924,
+			"st_modified": 1919,
+			"coref_index": 87,
+			"entityName": "대립_교황",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1919,
+			"ancestor": "1-70",
+			"ne_type": "ETC",
+			"surface": "대립_교황",
+			"is_target": true,
+			"en": 1924,
+			"id": 117
+		},
+		{
+			"en_modified": 1949,
+			"entityName": "1409년",
+			"st_modified": 1944,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1944,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1409년",
+			"is_target": false,
+			"en": 1949,
+			"id": 118
+		},
+		{
+			"en_modified": 1957,
+			"entityName": "피사_공의회",
+			"st_modified": 1951,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1951,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "피사_공의회",
+			"is_target": true,
+			"en": 1957,
+			"id": 119
+		},
+		{
+			"en_modified": 2032,
+			"entityName": "콘스탄츠_공의회",
+			"st_modified": 2024,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 2024,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "콘스탄츠_공의회",
+			"is_target": true,
+			"en": 2032,
+			"id": 120
+		},
+		{
+			"en_modified": 2092,
+			"st_modified": 2088,
+			"coref_index": 75,
+			"entityName": "추기경단",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2088,
+			"ancestor": "1-109",
+			"ne_type": "ETC",
+			"surface": "추기경단",
+			"is_target": true,
+			"en": 2092,
+			"id": 121
+		},
+		{
+			"en_modified": 2121,
+			"entityName": "공의회",
+			"st_modified": 2118,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 2118,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공의회",
+			"is_target": true,
+			"en": 2121,
+			"id": 122
+		},
+		{
+			"en_modified": 1702,
+			"entityName": "",
+			"st_modified": 1696,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1696,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "교황_선출권",
+			"is_target": true,
+			"en": 1702,
+			"id": 123
+		},
+		{
+			"en_modified": 2016,
+			"entityName": "",
+			"st_modified": 2003,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 2003,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1411년부터_1418년",
+			"is_target": false,
+			"en": 2016,
+			"id": 124
+		}
+	],
+	"globalSID": "852834,852835,852836,852837,852838,852839,852840,852841,852842,852843,852844,852845,852846,852847,852848,852849,852850,852851,852852,852853,852854,852855,852856,852857,852858,852859,852860,852861,852862,852863,852864,852865",
+	"plainText": "콘클라베()는 ‘열쇠가 있어야 들어갈_수_있는_방’, ‘걸쇠로 문을_잠근_방’을 의미하는 단어로, 로마_가톨릭교회에서 교황을 선출하는 선거 시스템이다. 이 시스템은 기독교의 역사에서 몇 세기에 걸쳐 개최되었으며, 외부의 간섭을 미리 일체 방지하여 비밀을 보관, 유지하도록 만들어진 것이다. 교황 선거의 기원 초대 교회 시절의 교황 선출은 로마에 거주한 성직자와 평신도들을 중심으로 행해졌었다. 역대 교황들은 선거법을 변경하거나, 원한다면 추기경단의 일원을 교체하는 일이 인정되었지만, 후계자를 지명하는 것만은 용납되지 못했다. 1059년 이래, 추기경단이 교황 선출의 임무를 담당하게 되었지만, 1268년 교황_클레멘스_4세의 선종_이후의 교황 선거가 탁상공론만 계속된 채 3년 가깝게 공석이 계속 되어 조바심이 난 로마 시민들은 선거자들을 밖으로 나올 수 없도록 가두었고, 이 이야기가 콘클라베의 기원이라고 한다. 콘클라베라고 하는 말은 라틴어의 ‘쿰_클라비’(cum clavi)에서 유래한다. 오늘날의 콘클라베의 원형은 1274년에 열린 제2차_리옹_공의회에서 결정된 양식에 근거하고 있다. 콘클라베는 바티칸_시국 내에 있는 바티칸_궁전 내 시스티나_성당에서 행해지며, 기본적으로 투표자의 3분의 2의 득표를 얻은 자만이 새로운 교황으로 등극하는 것으로 지정되었다. 2005년의 콘클라베도_시스티나_성당에서 투표했지만, 선거자들이 시스티나_성당 안에 갇혀 지내는 관례는 폐지되었다. 이것은 1996년 교황_요한_바오로_2세가 변경한 규정에 근거하는 것으로, 추기경들은 바티칸에 있는 숙소(성_마르타_숙소)에 머물게 되었으며, 원한다면 뜰을 산책할 수도 있게 되었다. 하지만, 매스컴 등 외부와의 연락을 취하는 것은 여전히 금지된 상태이다. 교황_선거의 역사 교황_선출_방법은 기독교_역사_2000년 내내 여러 가지 형태로 변형됐지만, 오늘날의 콘클라베(교황 선거)의 원형은 1274년의 제2차_리옹_공의회의_의결에 근거를 두고 있다. 초대 교회의 주교들은 각자의 공동체의 창시자에 의해 지명되었을 것으로 추측된다. 이윽고 로마나 다른 지역에서 사제와 평신도, 이웃 교구의 주교들이 모이고 주교를 결정하는 방법이 취해지게 되었다. 교황으로 선택받을 권리가 있는 사람은 성직자뿐이었지만, 그들에게는 투표권을 주지 않았다. 그 대신에 그들에게는 교황을 결정하여 승인할 권리를 주었다. 주교는 보좌 및 감시 임무를 맡고 있었다. 교황 후보자가 결정되면 평신도의 동의가 요구되고 동의를 받으면 교황이 되었다. 민중이 큰 소리로 동의(또는 거부)의사를 표하는 것은 고대 이래의 로마의 관습이었다. 선출 과정에서 불투명한 부분이 있으면, 후보자들끼리 분란이 일어나 대립_교황이 생기는 일도 자주 있었다. 769년에 행해진 시노드에서 정식으로 로마인_평신도에 의한 승인이 폐지되었지만, 862년의 로마_시노드에서는 귀족에 한해서만 그 권리를 부활시켰다. 1059년, 교황_니콜라오_2세는 교령을 발표하여 추기경으로 승격되려면 로마의 성직자와 평신도의 동의를 받아야 하며, 교황은 추기경단으로부터 선택되는 것으로 결정했다. 당시에는 주교급_추기경들이 최초로 모여 누가 다음 교황 자리에 어울릴까 하는 문제를 토의하여 결정되었는데 세월이 흐르면서 사제급_추기경과 부제급_추기경도 동참하여 투표하는 형태로 변모했다. 1139년, 제2차_라테란_공의회에서 교황이나 추기경의 선출에서의 평신도와 하급_성직자의 동의가 완전히 폐지되었다. 추기경단만이 교황_선출권을 갖는다는 규정은 1378년 이후에 활발한 논의를 거쳐 제정되었다. 프랑스 출신의 교황_그레고리오_11세의 사후, 로마 시민들은 이탈리아 출신의 교황을 요구하며 폭동을 일으켰으며, 추기경단은 압박을 참기 어려워 이탈리아 출신의 교황_우르바노_6세를 선출했다. 나중에 선거에 부당한 압력이 가해졌다고 생각한 추기경단은 같은 해, 로마에서 다소 떨어진 폰디로 이동하여 다시 선거를 개최하여 대립_교황을 선출했다. 이 혼란을 수습하고자 1409년에 피사_공의회가 열렸지만, 결국 교황이 세 명으로 늘어나는 등 사태만 더욱 악화하였다. 결국, 1411년부터_1418년에 걸쳐 열린 콘스탄츠_공의회에서 두 명을 폐위시키고 남은 한 명이 자진 퇴위하는 것으로 혼란을 수습하는 데에 성공했다. 이후, 추기경단만이 교황 선거권을 가지는 것이 재차 확인되어 공의회는 교황의 권위를 뛰어넘을 수 없다는 것이 확인되었다. ",
+	"docID": "116457",
+	"ModifiedText": "콘클라베()는 ‘열쇠가 있어야 들어갈 수 있는 방’, ‘걸쇠로 문을 잠근 방’을 의미하는 단어로, 로마 가톨릭교회에서 교황을 선출하는 선거 시스템이다. 이 시스템은 기독교의 역사에서 몇 세기에 걸쳐 개최되었으며, 외부의 간섭을 미리 일체 방지하여 비밀을 보관, 유지하도록 만들어진 것이다. 교황 선거의 기원 초대 교회 시절의 교황 선출은 로마에 거주한 성직자와 평신도들을 중심으로 행해졌었다. 역대 교황들은 선거법을 변경하거나, 원한다면 추기경단의 일원을 교체하는 일이 인정되었지만, 후계자를 지명하는 것만은 용납되지 못했다. 1059년 이래, 추기경단이 교황 선출의 임무를 담당하게 되었지만, 1268년 교황 클레멘스 4세의 선종 이후의 교황 선거가 탁상공론만 계속된 채 3년 가깝게 공석이 계속 되어 조바심이 난 로마 시민들은 선거자들을 밖으로 나올 수 없도록 가두었고, 이 이야기가 콘클라베의 기원이라고 한다. 콘클라베라고 하는 말은 라틴어의 ‘쿰 클라비’(cum clavi)에서 유래한다. 오늘날의 콘클라베의 원형은 1274년에 열린 제2차 리옹 공의회에서 결정된 양식에 근거하고 있다. 콘클라베는 바티칸 시국 내에 있는 바티칸 궁전 내 시스티나 성당에서 행해지며, 기본적으로 투표자의 3분의 2의 득표를 얻은 자만이 새로운 교황으로 등극하는 것으로 지정되었다. 2005년의 콘클라베도 시스티나 성당에서 투표했지만, 선거자들이 시스티나 성당 안에 갇혀 지내는 관례는 폐지되었다. 이것은 1996년 교황 요한 바오로 2세가 변경한 규정에 근거하는 것으로, 추기경들은 바티칸에 있는 숙소(성 마르타 숙소)에 머물게 되었으며, 원한다면 뜰을 산책할 수도 있게 되었다. 하지만, 매스컴 등 외부와의 연락을 취하는 것은 여전히 금지된 상태이다. 교황 선거의 역사 교황 선출 방법은 기독교 역사 2000년 내내 여러 가지 형태로 변형됐지만, 오늘날의 콘클라베(교황 선거)의 원형은 1274년의 제2차 리옹 공의회의 의결에 근거를 두고 있다. 초대 교회의 주교들은 각자의 공동체의 창시자에 의해 지명되었을 것으로 추측된다. 이윽고 로마나 다른 지역에서 사제와 평신도, 이웃 교구의 주교들이 모이고 주교를 결정하는 방법이 취해지게 되었다. 교황으로 선택받을 권리가 있는 사람은 성직자뿐이었지만, 그들에게는 투표권을 주지 않았다. 그 대신에 그들에게는 교황을 결정하여 승인할 권리를 주었다. 주교는 보좌 및 감시 임무를 맡고 있었다. 교황 후보자가 결정되면 평신도의 동의가 요구되고 동의를 받으면 교황이 되었다. 민중이 큰 소리로 동의(또는 거부)의사를 표하는 것은 고대 이래의 로마의 관습이었다. 선출 과정에서 불투명한 부분이 있으면, 후보자들끼리 분란이 일어나 대립 교황이 생기는 일도 자주 있었다. 769년에 행해진 시노드에서 정식으로 로마인 평신도에 의한 승인이 폐지되었지만, 862년의 로마 시노드에서는 귀족에 한해서만 그 권리를 부활시켰다. 1059년, 교황 니콜라오 2세는 교령을 발표하여 추기경으로 승격되려면 로마의 성직자와 평신도의 동의를 받아야 하며, 교황은 추기경단으로부터 선택되는 것으로 결정했다. 당시에는 주교급 추기경들이 최초로 모여 누가 다음 교황 자리에 어울릴까 하는 문제를 토의하여 결정되었는데 세월이 흐르면서 사제급 추기경과 부제급 추기경도 동참하여 투표하는 형태로 변모했다. 1139년, 제2차 라테란 공의회에서 교황이나 추기경의 선출에서의 평신도와 하급 성직자의 동의가 완전히 폐지되었다. 추기경단만이 교황 선출권을 갖는다는 규정은 1378년 이후에 활발한 논의를 거쳐 제정되었다. 프랑스 출신의 교황 그레고리오 11세의 사후, 로마 시민들은 이탈리아 출신의 교황을 요구하며 폭동을 일으켰으며, 추기경단은 압박을 참기 어려워 이탈리아 출신의 교황 우르바노 6세를 선출했다. 나중에 선거에 부당한 압력이 가해졌다고 생각한 추기경단은 같은 해, 로마에서 다소 떨어진 폰디로 이동하여 다시 선거를 개최하여 대립 교황을 선출했다. 이 혼란을 수습하고자 1409년에 피사 공의회가 열렸지만, 결국 교황이 세 명으로 늘어나는 등 사태만 더욱 악화하였다. 결국, 1411년부터 1418년에 걸쳐 열린 콘스탄츠 공의회에서 두 명을 폐위시키고 남은 한 명이 자진 퇴위하는 것으로 혼란을 수습하는 데에 성공했다. 이후, 추기경단만이 교황 선거권을 가지는 것이 재차 확인되어 공의회는 교황의 권위를 뛰어넘을 수 없다는 것이 확인되었다. "
+}

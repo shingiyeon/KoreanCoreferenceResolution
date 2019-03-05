@@ -1,0 +1,83 @@
+{
+	"docID": "644534",
+	"globalSID": "2493485",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "-1",
+			"coref_index": 763,
+			"surface": "아르헨티나",
+			"entityName": "아르헨티나"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "콜롬버스",
+			"entityName": "콜롬버스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "1516_-_1810",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "1810_-_1880",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 98,
+			"ancestor": "",
+			"surface": "1880년_이후",
+			"entityName": ""
+		}
+	],
+	"plainText": "아르헨티나의 역사는 콜롬버스 이전기 또는 역사 초기(1516 이전), 식민지 시기(1516_-_1810), 독립전쟁과 후기 식민지 시기(1810_-_1880), 1880년_이후의 현대 역사로 크게 네 가지로 분류할 수 있다."
+}

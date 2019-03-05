@@ -1,0 +1,68 @@
+{
+	"docID": "609167",
+	"globalSID": "2410391",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "우에스기_겐신",
+			"entityName": "우에스기_겐신"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "3-4",
+			"coref_index": 729,
+			"surface": "오다군",
+			"entityName": "오다_군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "엣추_국",
+			"entityName": "엣추_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "엣츄",
+			"entityName": ""
+		}
+	],
+	"plainText": "우에스기_겐신의 사망 이후 오다군이 엣츄를 점령하면서, 엣추_국을 다스리는 권한을 얻게 되었다."
+}

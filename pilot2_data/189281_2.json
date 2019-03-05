@@ -1,0 +1,54 @@
+{
+	"docID": "189281",
+	"globalSID": "1202112",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "1-0",
+			"coref_index": 310,
+			"surface": "1960년대",
+			"entityName": "1960년대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "1970년대",
+			"entityName": "1970년대"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 17,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "-1",
+			"surface": "크라우트_록",
+			"entityName": "크라우트록"
+		}
+	],
+	"plainText": "1960년대와 1970년대 : 크라우트_록"
+}

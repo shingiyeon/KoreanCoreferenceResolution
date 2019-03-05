@@ -1,0 +1,197 @@
+{
+	"docID": "269110",
+	"globalSID": "1522149,1522150,1522151,1522152",
+	"pronouns": [
+		{
+			"st": 52,
+			"coref_index": 375,
+			"id": 0,
+			"en": 54,
+			"ancestor": "2-2",
+			"surface": "그곳"
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"entityName": "동래",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "동래"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"entityName": "초등학교",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 36,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "초등학교"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "대구광역시",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 45,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대구",
+			"coref_index": 375
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"st": 67,
+			"eType": "WIKILINK",
+			"entityName": "중학교",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 70,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "중학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"entityName": "은행",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 84,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "은행"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"entityName": "아버지",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 93,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아버지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"entityName": "사업",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 97,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "사업"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 23,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "경상남도_하동군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "EVENT",
+			"en": 142,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "전국고교문예_현상모집"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 146,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "EVENT",
+			"en": 154,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "고교문예의_성찰"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 169,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "EVENT",
+			"en": 174,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "문예장학금"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 181,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 193,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "경희대학교_국어국문학과"
+		}
+	],
+	"plainText": "생애 본관은 동래(東萊). 경상남도_하동군에서 태어났고, 초등학교 1학년 때 대구로 이사하여 그곳에서 성장기를 보냈다. 중학교 1학년(62년) 때 은행에 다니던 아버지가 사업에 실패하여 도시 변두리에서 매우 가난한 생활을 해야 했고, 전국고교문예_현상모집에서 “고교문예의_성찰”이라는 평론으로 당선되어 문예장학금을 지급하는 경희대학교_국어국문학과(68년 입학)를 들어가게 되었으며, 같은 대학의 대학원을 졸업했다."
+}

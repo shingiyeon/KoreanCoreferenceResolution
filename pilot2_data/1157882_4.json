@@ -1,0 +1,134 @@
+{
+	"docID": "1157882",
+	"globalSID": "3397309,3397310",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 62,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 42,
+			"coref_index": 62,
+			"id": 1,
+			"en": 43,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 48,
+			"st": 42,
+			"surface": "그의 임대는",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 92,
+			"st": 77,
+			"surface": "다른 세리에_B팀_피아첸차로",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 103,
+			"st": 77,
+			"surface": "다른 세리에_B팀_피아첸차로 보내져 남은 시즌을",
+			"id": 4,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 71,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 74,
+			"ancestor": "1-0",
+			"coref_index": 62,
+			"surface": "그레코",
+			"entityName": "엘_그레코"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "세리에_B_팀_피사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "2008–09_시즌_후반기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 57,
+			"ancestor": "",
+			"surface": "2010년_1월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 80,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "세리에_B팀_피아첸차",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 100,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 102,
+			"ancestor": "-1",
+			"surface": "시즌",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 세리에_B_팀_피사에서 임대되어 2008–09_시즌_후반기를 뛰었다. 그의 임대는 2010년_1월에 급작스럽게 종료됐고, 그레코는 또다른 세리에_B팀_피아첸차로 보내져 남은 시즌을 성공적으로 보냈다."
+}

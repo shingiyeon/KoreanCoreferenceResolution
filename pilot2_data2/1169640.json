@@ -1,0 +1,1276 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 165,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 166,
+			"en": 166,
+			"st_modified": 165
+		},
+		{
+			"st": 390,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 392,
+			"en": 392,
+			"st_modified": 390
+		},
+		{
+			"st": 390,
+			"text": "자신의 프로듀싱곡 Love_is_like",
+			"is_pronoun": true,
+			"en_modified": 412,
+			"en": 412,
+			"st_modified": 390
+		},
+		{
+			"st": 443,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 444,
+			"en": 444,
+			"st_modified": 443
+		},
+		{
+			"st": 443,
+			"text": "그를 계기",
+			"is_pronoun": true,
+			"en_modified": 448,
+			"en": 448,
+			"st_modified": 443
+		},
+		{
+			"st": 469,
+			"text": "그때",
+			"is_pronoun": true,
+			"en_modified": 471,
+			"en": 471,
+			"st_modified": 469
+		},
+		{
+			"st": 469,
+			"text": "그때 23살",
+			"is_pronoun": true,
+			"en_modified": 475,
+			"en": 475,
+			"st_modified": 469
+		},
+		{
+			"st": 469,
+			"text": "그때 23살이던 그",
+			"is_pronoun": true,
+			"en_modified": 479,
+			"en": 479,
+			"st_modified": 469
+		},
+		{
+			"st": 513,
+			"text": "나",
+			"is_pronoun": true,
+			"en_modified": 514,
+			"en": 514,
+			"st_modified": 513
+		},
+		{
+			"st": 513,
+			"text": "나 In_Ya_Mellow_Tone",
+			"is_pronoun": true,
+			"en_modified": 532,
+			"en": 532,
+			"st_modified": 513
+		},
+		{
+			"st": 513,
+			"text": "나 In_Ya_Mellow_Tone 등",
+			"is_pronoun": true,
+			"en_modified": 534,
+			"en": 534,
+			"st_modified": 513
+		},
+		{
+			"st": 513,
+			"text": "나 In_Ya_Mellow_Tone 등의 멜로우한 곡들",
+			"is_pronoun": true,
+			"en_modified": 543,
+			"en": 543,
+			"st_modified": 513
+		},
+		{
+			"st": 587,
+			"text": "그 당시",
+			"is_pronoun": true,
+			"en_modified": 591,
+			"en": 591,
+			"st_modified": 587
+		},
+		{
+			"st": 587,
+			"text": "그 당시 스케치하여 만들어진 곡들(Hard_2_Get,",
+			"is_pronoun": true,
+			"en_modified": 617,
+			"en": 617,
+			"st_modified": 587
+		},
+		{
+			"st": 678,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 679,
+			"en": 679,
+			"st_modified": 678
+		},
+		{
+			"st": 678,
+			"text": "그의 디스코그래피의 초석",
+			"is_pronoun": true,
+			"en_modified": 691,
+			"en": 691,
+			"st_modified": 678
+		},
+		{
+			"st": 799,
+			"text": "그 둘",
+			"is_pronoun": true,
+			"en_modified": 802,
+			"en": 802,
+			"st_modified": 799
+		},
+		{
+			"st": 830,
+			"text": "외적인 여러이야기",
+			"is_pronoun": true,
+			"en_modified": 839,
+			"en": 839,
+			"st_modified": 830
+		},
+		{
+			"st": 911,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 913,
+			"en": 913,
+			"st_modified": 911
+		},
+		{
+			"st": 911,
+			"text": "자신의 Link6라는 레이블",
+			"is_pronoun": true,
+			"en_modified": 926,
+			"en": 926,
+			"st_modified": 911
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 165,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 166,
+			"en": 166,
+			"st_modified": 165,
+			"id": 0,
+			"coref_index": 90
+		},
+		{
+			"st": 390,
+			"ancestor": "1-0",
+			"surface": "자신",
+			"en_modified": 392,
+			"en": 392,
+			"st_modified": 390,
+			"id": 1,
+			"coref_index": 90
+		},
+		{
+			"st": 390,
+			"ancestor": "-1",
+			"surface": "자신의 프로듀싱곡 Love_is_like를",
+			"en_modified": 413,
+			"en": 413,
+			"st_modified": 390,
+			"id": 2
+		},
+		{
+			"st": 443,
+			"ancestor": "-1",
+			"surface": "그를",
+			"en_modified": 445,
+			"en": 445,
+			"st_modified": 443,
+			"id": 3
+		},
+		{
+			"st": 443,
+			"ancestor": "-1",
+			"surface": "그를 계기로",
+			"en_modified": 449,
+			"en": 449,
+			"st_modified": 443,
+			"id": 4
+		},
+		{
+			"st": 469,
+			"ancestor": "1-22",
+			"surface": "그때",
+			"en_modified": 471,
+			"en": 471,
+			"st_modified": 469,
+			"id": 5,
+			"coref_index": 93
+		},
+		{
+			"st": 469,
+			"ancestor": "-1",
+			"surface": "그때 23살이던",
+			"en_modified": 477,
+			"en": 477,
+			"st_modified": 469,
+			"id": 6
+		},
+		{
+			"st": 469,
+			"ancestor": "1-0",
+			"surface": "그때 23살이던 그",
+			"en_modified": 479,
+			"en": 479,
+			"st_modified": 469,
+			"id": 7,
+			"coref_index": 90
+		},
+		{
+			"st": 513,
+			"ancestor": "-1",
+			"surface": "나",
+			"en_modified": 514,
+			"en": 514,
+			"st_modified": 513,
+			"id": 8
+		},
+		{
+			"st": 513,
+			"ancestor": "-1",
+			"surface": "나 In_Ya_Mellow_Tone",
+			"en_modified": 532,
+			"en": 532,
+			"st_modified": 513,
+			"id": 9
+		},
+		{
+			"st": 513,
+			"ancestor": "-1",
+			"surface": "나 In_Ya_Mellow_Tone 등의",
+			"en_modified": 535,
+			"en": 535,
+			"st_modified": 513,
+			"id": 10
+		},
+		{
+			"st": 513,
+			"ancestor": "-1",
+			"surface": "나 In_Ya_Mellow_Tone 등의 멜로우한 곡들을",
+			"en_modified": 544,
+			"en": 544,
+			"st_modified": 513,
+			"id": 11
+		},
+		{
+			"st": 587,
+			"ancestor": "-1",
+			"surface": "그 당시",
+			"en_modified": 591,
+			"en": 591,
+			"st_modified": 587,
+			"id": 12
+		},
+		{
+			"st": 587,
+			"ancestor": "-1",
+			"surface": "그 당시 스케치하여 만들어진 곡들(Hard_2_Get,",
+			"en_modified": 617,
+			"en": 617,
+			"st_modified": 587,
+			"id": 13
+		},
+		{
+			"st": 678,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 679,
+			"en": 679,
+			"st_modified": 678,
+			"id": 14,
+			"coref_index": 90
+		},
+		{
+			"st": 678,
+			"ancestor": "-1",
+			"surface": "그의 디스코그래피의 초석이",
+			"en_modified": 692,
+			"en": 692,
+			"st_modified": 678,
+			"id": 15
+		},
+		{
+			"st": 799,
+			"ancestor": "-1",
+			"surface": "그 둘",
+			"en_modified": 802,
+			"en": 802,
+			"st_modified": 799,
+			"id": 16
+		},
+		{
+			"st": 830,
+			"ancestor": "-1",
+			"surface": "외적인 여러이야기",
+			"en_modified": 839,
+			"en": 839,
+			"st_modified": 830,
+			"id": 17
+		},
+		{
+			"st": 911,
+			"ancestor": "1-50",
+			"surface": "자신",
+			"en_modified": 913,
+			"en": 913,
+			"st_modified": 911,
+			"id": 18,
+			"coref_index": 90
+		},
+		{
+			"st": 911,
+			"ancestor": "1-8",
+			"surface": "자신의 Link6라는 레이블",
+			"en_modified": 926,
+			"en": 926,
+			"st_modified": 911,
+			"id": 19,
+			"coref_index": 94
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 3,
+			"st_modified": 0,
+			"coref_index": 90,
+			"entityName": "에이준",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "에이준",
+			"is_target": true,
+			"en": 3,
+			"id": 0
+		},
+		{
+			"en_modified": 16,
+			"entityName": "1989년",
+			"st_modified": 11,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 11,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1989년",
+			"is_target": false,
+			"en": 16,
+			"id": 1
+		},
+		{
+			"en_modified": 25,
+			"entityName": "대한민국",
+			"st_modified": 21,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 21,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 25,
+			"id": 2
+		},
+		{
+			"en_modified": 44,
+			"entityName": "시부야",
+			"st_modified": 41,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 41,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시부야",
+			"is_target": true,
+			"en": 44,
+			"id": 3
+		},
+		{
+			"en_modified": 54,
+			"entityName": "라틴_아메리카",
+			"st_modified": 47,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "ELU",
+			"st": 47,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "라틴_아메리카",
+			"is_target": true,
+			"en": 54,
+			"id": 4
+		},
+		{
+			"en_modified": 59,
+			"entityName": "미국",
+			"st_modified": 57,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 57,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "미국",
+			"is_target": true,
+			"en": 59,
+			"id": 5
+		},
+		{
+			"en_modified": 96,
+			"entityName": "에이준_앤_제이비트",
+			"st_modified": 81,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"eType": "WIKILINK",
+			"st": 81,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "A_June_&_J_Beat",
+			"is_target": true,
+			"en": 96,
+			"id": 6
+		},
+		{
+			"en_modified": 131,
+			"entityName": "Introducing!Production",
+			"st_modified": 109,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "WIKILINK",
+			"st": 109,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "Introducing!Production",
+			"is_target": true,
+			"en": 131,
+			"id": 7
+		},
+		{
+			"en_modified": 151,
+			"st_modified": 142,
+			"coref_index": 94,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 142,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "Link6_레이블",
+			"is_target": true,
+			"en": 151,
+			"id": 8
+		},
+		{
+			"en_modified": 108,
+			"st_modified": 106,
+			"coref_index": 91,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 106,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "일본",
+			"is_target": true,
+			"en": 108,
+			"id": 9
+		},
+		{
+			"en_modified": 34,
+			"entityName": "",
+			"st_modified": 27,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 27,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "힙합_프로듀서",
+			"is_target": true,
+			"en": 34,
+			"id": 10
+		},
+		{
+			"en_modified": 295,
+			"entityName": "비트메이킹",
+			"st_modified": 290,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 290,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "비트메이킹",
+			"is_target": true,
+			"en": 295,
+			"id": 11
+		},
+		{
+			"en_modified": 271,
+			"entityName": "",
+			"st_modified": 258,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 258,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2006년_고등학교_시절",
+			"is_target": false,
+			"en": 271,
+			"id": 12
+		},
+		{
+			"en_modified": 273,
+			"entityName": "",
+			"st_modified": 272,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 272,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "랩",
+			"is_target": true,
+			"en": 273,
+			"id": 13
+		},
+		{
+			"en_modified": 310,
+			"entityName": "",
+			"st_modified": 298,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 298,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "외국_언더그라운드_힙합",
+			"is_target": true,
+			"en": 310,
+			"id": 14
+		},
+		{
+			"en_modified": 321,
+			"entityName": "",
+			"st_modified": 319,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 319,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "힙합",
+			"is_target": true,
+			"en": 321,
+			"id": 15
+		},
+		{
+			"en_modified": 255,
+			"st_modified": 249,
+			"coref_index": 90,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 249,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "A_June",
+			"is_target": true,
+			"en": 255,
+			"id": 16
+		},
+		{
+			"en_modified": 248,
+			"entityName": "",
+			"st_modified": 242,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 242,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바이오그래피",
+			"is_target": true,
+			"en": 248,
+			"id": 17
+		},
+		{
+			"en_modified": 412,
+			"entityName": "Love_is_like",
+			"st_modified": 400,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 400,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Love_is_like",
+			"is_target": true,
+			"en": 412,
+			"id": 18
+		},
+		{
+			"en_modified": 430,
+			"entityName": "Yallow_Slaps",
+			"st_modified": 418,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 418,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Yallow_Slaps",
+			"is_target": true,
+			"en": 430,
+			"id": 19
+		},
+		{
+			"en_modified": 336,
+			"entityName": "",
+			"st_modified": 334,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 334,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "랩퍼",
+			"is_target": true,
+			"en": 336,
+			"id": 20
+		},
+		{
+			"en_modified": 346,
+			"entityName": "",
+			"st_modified": 341,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 341,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "프로듀서적",
+			"is_target": true,
+			"en": 346,
+			"id": 21
+		},
+		{
+			"en_modified": 364,
+			"st_modified": 359,
+			"coref_index": 93,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 359,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년",
+			"is_target": false,
+			"en": 364,
+			"id": 22
+		},
+		{
+			"en_modified": 381,
+			"entityName": "",
+			"st_modified": 377,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 377,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "프로듀서",
+			"is_target": true,
+			"en": 381,
+			"id": 23
+		},
+		{
+			"en_modified": 376,
+			"entityName": "",
+			"st_modified": 373,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 373,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 376,
+			"id": 24
+		},
+		{
+			"en_modified": 512,
+			"entityName": "Nujabes",
+			"st_modified": 508,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 508,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "누자베스",
+			"is_target": true,
+			"en": 512,
+			"id": 25
+		},
+		{
+			"en_modified": 577,
+			"entityName": "일인용_게임",
+			"st_modified": 574,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 574,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "플레이",
+			"is_target": true,
+			"en": 577,
+			"id": 26
+		},
+		{
+			"en_modified": 616,
+			"st_modified": 606,
+			"coref_index": 92,
+			"entityName": "Hard_2_Get",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 606,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Hard_2_Get",
+			"is_target": true,
+			"en": 616,
+			"id": 27
+		},
+		{
+			"en_modified": 629,
+			"entityName": "Do_you_know",
+			"st_modified": 618,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 618,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Do_you_know",
+			"is_target": true,
+			"en": 629,
+			"id": 28
+		},
+		{
+			"en_modified": 639,
+			"entityName": "Dreamers",
+			"st_modified": 631,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 631,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Dreamers",
+			"is_target": true,
+			"en": 639,
+			"id": 29
+		},
+		{
+			"en_modified": 656,
+			"entityName": "Self_Reflection",
+			"st_modified": 641,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 641,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Self_Reflection",
+			"is_target": true,
+			"en": 656,
+			"id": 30
+		},
+		{
+			"en_modified": 494,
+			"entityName": "",
+			"st_modified": 488,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 488,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "의류_스토어",
+			"is_target": true,
+			"en": 494,
+			"id": 31
+		},
+		{
+			"en_modified": 532,
+			"entityName": "",
+			"st_modified": 515,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 515,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "In_Ya_Mellow_Tone",
+			"is_target": true,
+			"en": 532,
+			"id": 32
+		},
+		{
+			"en_modified": 562,
+			"entityName": "",
+			"st_modified": 557,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 557,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "비트메이킹",
+			"is_target": true,
+			"en": 562,
+			"id": 33
+		},
+		{
+			"en_modified": 687,
+			"entityName": "",
+			"st_modified": 681,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 681,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "디스코그래피",
+			"is_target": true,
+			"en": 687,
+			"id": 34
+		},
+		{
+			"en_modified": 732,
+			"entityName": "Avens",
+			"st_modified": 727,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 727,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Avens",
+			"is_target": true,
+			"en": 732,
+			"id": 35
+		},
+		{
+			"en_modified": 738,
+			"entityName": "P.R",
+			"st_modified": 735,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 735,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "P.R",
+			"is_target": true,
+			"en": 738,
+			"id": 36
+		},
+		{
+			"en_modified": 744,
+			"entityName": "LHA",
+			"st_modified": 741,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 741,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "LHA",
+			"is_target": true,
+			"en": 744,
+			"id": 37
+		},
+		{
+			"en_modified": 751,
+			"entityName": "Nieve",
+			"st_modified": 746,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 746,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "Nieve",
+			"is_target": true,
+			"en": 751,
+			"id": 38
+		},
+		{
+			"en_modified": 790,
+			"entityName": "J_Beat",
+			"st_modified": 786,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 786,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "제이비트",
+			"is_target": true,
+			"en": 790,
+			"id": 39
+		},
+		{
+			"en_modified": 884,
+			"entityName": "에이준_앤_제이비트",
+			"st_modified": 869,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"eType": "WIKILINK",
+			"st": 869,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "A_June_&_J_Beat",
+			"is_target": true,
+			"en": 884,
+			"id": 40
+		},
+		{
+			"en_modified": 920,
+			"entityName": "Link6",
+			"st_modified": 915,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "WIKILINK",
+			"st": 915,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "Link6",
+			"is_target": true,
+			"en": 920,
+			"id": 41
+		},
+		{
+			"en_modified": 702,
+			"st_modified": 700,
+			"coref_index": 91,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 700,
+			"ancestor": "1-9",
+			"ne_type": "LOCATION",
+			"surface": "일본",
+			"is_target": true,
+			"en": 702,
+			"id": 42
+		},
+		{
+			"en_modified": 725,
+			"entityName": "",
+			"st_modified": 709,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 709,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "해외_아티스트_The49ers",
+			"is_target": true,
+			"en": 725,
+			"id": 43
+		},
+		{
+			"en_modified": 765,
+			"entityName": "",
+			"st_modified": 762,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 762,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "곡작업",
+			"is_target": true,
+			"en": 765,
+			"id": 44
+		},
+		{
+			"en_modified": 785,
+			"entityName": "",
+			"st_modified": 776,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 776,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년_11월",
+			"is_target": false,
+			"en": 785,
+			"id": 45
+		},
+		{
+			"en_modified": 820,
+			"entityName": "",
+			"st_modified": 816,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 816,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "화상통화",
+			"is_target": true,
+			"en": 820,
+			"id": 46
+		},
+		{
+			"en_modified": 828,
+			"entityName": "",
+			"st_modified": 826,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 826,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "음악",
+			"is_target": true,
+			"en": 828,
+			"id": 47
+		},
+		{
+			"en_modified": 853,
+			"entityName": "",
+			"st_modified": 852,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 852,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "팀",
+			"is_target": true,
+			"en": 853,
+			"id": 48
+		},
+		{
+			"en_modified": 899,
+			"entityName": "",
+			"st_modified": 896,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 896,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "소속사",
+			"is_target": true,
+			"en": 899,
+			"id": 49
+		},
+		{
+			"en_modified": 909,
+			"st_modified": 903,
+			"coref_index": 90,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 903,
+			"ancestor": "1-16",
+			"ne_type": "PERSON",
+			"surface": "A_June",
+			"is_target": true,
+			"en": 909,
+			"id": 50
+		},
+		{
+			"en_modified": 926,
+			"entityName": "",
+			"st_modified": 923,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 923,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "레이블",
+			"is_target": true,
+			"en": 926,
+			"id": 51
+		},
+		{
+			"en_modified": 975,
+			"st_modified": 932,
+			"coref_index": 92,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 932,
+			"ancestor": "1-27",
+			"ne_type": "ETC",
+			"surface": "첫_싱글_Hard_2_Get_(Feat.Jas_mace_of_The49ers)",
+			"is_target": true,
+			"en": 975,
+			"id": 52
+		},
+		{
+			"en_modified": 980,
+			"entityName": "",
+			"st_modified": 978,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 978,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "싱글",
+			"is_target": true,
+			"en": 980,
+			"id": 53
+		},
+		{
+			"en_modified": 1003,
+			"entityName": "",
+			"st_modified": 1000,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1000,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "러브콜",
+			"is_target": true,
+			"en": 1003,
+			"id": 54
+		}
+	],
+	"globalSID": "3412963,3412964,3412965,3412966,3412967,3412968,3412969,3412970,3412971",
+	"plainText": "에이준 ( () , 1989년 ~)는 대한민국의 힙합_프로듀서이다. 일본 시부야 및 라틴_아메리카 , 미국_등등 전세계를 무대로 활동중이며, 팀 A_June_&_J_Beat 멤버이자, 현재 일본 Introducing!Production에 소속되어있으며, Link6_레이블의 A&R이자 대표이다. 그는 몽환적이고 SF요소를 담거나 팝아트적인 요소를 살리는 앨범아트를 주로 사용하고 있으며, 다양한 전세계 씬에서 활동하는 아티스트이다. 바이오그래피 A_June 은 2006년_고등학교_시절 랩에 관심을 갖게되어, 자연스레 비트메이킹 및 외국_언더그라운드_힙합의 매력에 빠져 힙합에 빠지게되었다. 이후 랩퍼로써보다 프로듀서적인 면모를 갖추게 되어 2012년 우연한 기회에 프랑스 프로듀서 지인의 소개로 자신의 프로듀싱곡 Love_is_like를 미국의 Yallow_Slaps과 함께 작업하게되고, 그를 계기로 점차 해외씬에 관심을 갖게 된다. 그때 23살이던 그는 동시에 개인 의류_스토어를 운영중이였는데, 항상 누자베스 나 In_Ya_Mellow_Tone 등의 멜로우한 곡들을 선곡하였고, 평소에는 비트메이킹에 몰두하여 매장내에 플레이하고는 하였다 , 그 당시 스케치하여 만들어진 곡들(Hard_2_Get, Do_you_know, Dreamers, Self_Reflection 등등)은 이후 결과물로 완성되어 많은 그의 디스코그래피의 초석이 된다. 점차 일본을 주름잡던 해외_아티스트_The49ers, Avens , P.R , LHA, Nieve등과 친분을 쌓으며 곡작업에 박차를 가하던중 2012년_11월 제이비트와 만나게되고, 그 둘은 매일 매일을 몇시간씩 화상통화를 통하여 음악과 외적인 여러이야기를 나누던중 어렵지않게 팀을 만들기로 한다. 그리하여 A_June_&_J_Beat가 만들어지고 특별한 소속사 없이 A_June은 자신의 Link6라는 레이블을 만들어 첫_싱글_Hard_2_Get_(Feat.Jas_mace_of_The49ers)등의 싱글을 성공적으로 발표한 뒤 더욱 많은 러브콜을 받게된다. ",
+	"docID": "1169640",
+	"ModifiedText": "에이준 ( () , 1989년 ~)는 대한민국의 힙합 프로듀서이다. 일본 시부야 및 라틴 아메리카 , 미국 등등 전세계를 무대로 활동중이며, 팀 A June & J Beat 멤버이자, 현재 일본 Introducing!Production에 소속되어있으며, Link6 레이블의 A&R이자 대표이다. 그는 몽환적이고 SF요소를 담거나 팝아트적인 요소를 살리는 앨범아트를 주로 사용하고 있으며, 다양한 전세계 씬에서 활동하는 아티스트이다. 바이오그래피 A June 은 2006년 고등학교 시절 랩에 관심을 갖게되어, 자연스레 비트메이킹 및 외국 언더그라운드 힙합의 매력에 빠져 힙합에 빠지게되었다. 이후 랩퍼로써보다 프로듀서적인 면모를 갖추게 되어 2012년 우연한 기회에 프랑스 프로듀서 지인의 소개로 자신의 프로듀싱곡 Love is like를 미국의 Yallow Slaps과 함께 작업하게되고, 그를 계기로 점차 해외씬에 관심을 갖게 된다. 그때 23살이던 그는 동시에 개인 의류 스토어를 운영중이였는데, 항상 누자베스 나 In Ya Mellow Tone 등의 멜로우한 곡들을 선곡하였고, 평소에는 비트메이킹에 몰두하여 매장내에 플레이하고는 하였다 , 그 당시 스케치하여 만들어진 곡들(Hard 2 Get, Do you know, Dreamers, Self Reflection 등등)은 이후 결과물로 완성되어 많은 그의 디스코그래피의 초석이 된다. 점차 일본을 주름잡던 해외 아티스트 The49ers, Avens , P.R , LHA, Nieve등과 친분을 쌓으며 곡작업에 박차를 가하던중 2012년 11월 제이비트와 만나게되고, 그 둘은 매일 매일을 몇시간씩 화상통화를 통하여 음악과 외적인 여러이야기를 나누던중 어렵지않게 팀을 만들기로 한다. 그리하여 A June & J Beat가 만들어지고 특별한 소속사 없이 A June은 자신의 Link6라는 레이블을 만들어 첫 싱글 Hard 2 Get (Feat.Jas mace of The49ers)등의 싱글을 성공적으로 발표한 뒤 더욱 많은 러브콜을 받게된다. "
+}

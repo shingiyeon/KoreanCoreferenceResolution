@@ -1,0 +1,675 @@
+{
+	"docID": "112782",
+	"globalSID": "832305,832306,832307,832308,832309,832310,832311,832312,832313,832314,832315",
+	"pronouns": [
+		{
+			"en": 166,
+			"ancestor": "-1",
+			"surface": "한 코너",
+			"id": 0,
+			"st": 162
+		},
+		{
+			"en": 174,
+			"ancestor": "-1",
+			"surface": "한 코너 '레일맨'에서",
+			"id": 1,
+			"st": 162
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 34,
+			"eType": "ELU",
+			"entityName": "배우",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 38,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "연극배우"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 43,
+			"eType": "ELU",
+			"entityName": "신동엽_(희극인)",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 46,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "신동엽",
+			"coref_index": 59
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Language",
+				"TimePeriod"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"entityName": "1991년",
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 89,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1991년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"entityName": "서울방송",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 98,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "SBS_서울방송",
+			"coref_index": 60
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "WIKILINK",
+			"entityName": "토요일_7시_웃으면_좋아요",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 159,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "토요일_7시_웃으면_좋아요"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 229,
+			"eType": "WIKILINK",
+			"entityName": "이휘재",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 232,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이휘재"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 234,
+			"eType": "WIKILINK",
+			"entityName": "박수홍",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 237,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "박수홍"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 262,
+			"eType": "WIKILINK",
+			"entityName": "SBS_TV",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 265,
+			"ancestor": "3-3",
+			"is_target": true,
+			"surface": "SBS",
+			"coref_index": 60
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 279,
+			"eType": "WIKILINK",
+			"entityName": "기쁜_우리_토요일",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 288,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기쁜_우리_토요일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 291,
+			"eType": "WIKILINK",
+			"entityName": "MBC_TV",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 294,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "MBC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 300,
+			"eType": "WIKILINK",
+			"entityName": "남자셋_여자셋",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 307,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "남자셋_여자셋"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 329,
+			"eType": "WIKILINK",
+			"entityName": "1999년",
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 334,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1999년"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 402,
+			"eType": "WIKILINK",
+			"entityName": "이소라_(모델)",
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 405,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이소라"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 408,
+			"eType": "WIKILINK",
+			"entityName": "2001년",
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 413,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2001년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 420,
+			"eType": "WIKILINK",
+			"entityName": "2000년",
+			"id": 14,
+			"ne_type": "TIME",
+			"en": 425,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2000년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 427,
+			"eType": "WIKILINK",
+			"entityName": "일요일_일요일_밤에",
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 437,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "일요일_일요일_밤에"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 443,
+			"eType": "WIKILINK",
+			"entityName": "러브하우스",
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 448,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "러브하우스"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 492,
+			"eType": "WIKILINK",
+			"entityName": "해피투게더_(텔레비전_프로그램)",
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 497,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "해피투게더"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 501,
+			"eType": "WIKILINK",
+			"entityName": "느낌표_(MBC)",
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 504,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "느낌표"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 508,
+			"eType": "WIKILINK",
+			"entityName": "헤이헤이헤이",
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 514,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "헤이헤이헤이"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 564,
+			"eType": "ELU",
+			"entityName": "신동엽_(희극인)",
+			"id": 20,
+			"ne_type": "PERSON",
+			"en": 567,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "신동엽",
+			"coref_index": 59
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 628,
+			"eType": "WIKILINK",
+			"entityName": "퀴즈프린스",
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 633,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "퀴즈프린스"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 636,
+			"eType": "WIKILINK",
+			"entityName": "오빠밴드",
+			"id": 22,
+			"ne_type": "ETC",
+			"en": 640,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오빠밴드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 643,
+			"eType": "WIKILINK",
+			"entityName": "신동엽_신봉선의_샴페인",
+			"id": 23,
+			"ne_type": "ETC",
+			"en": 655,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "신동엽_신봉선의_샴페인"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 658,
+			"eType": "WIKILINK",
+			"entityName": "밤샘_버라이어티_야행성",
+			"id": 24,
+			"ne_type": "ETC",
+			"en": 661,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "야행성"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 703,
+			"eType": "WIKILINK",
+			"entityName": "2011년",
+			"id": 25,
+			"ne_type": "TIME",
+			"en": 708,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2011년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 710,
+			"eType": "WIKILINK",
+			"entityName": "김연아의_키스_&_크라이",
+			"id": 26,
+			"ne_type": "ETC",
+			"en": 723,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "김연아의_키스_&_크라이"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 727,
+			"eType": "WIKILINK",
+			"entityName": "불후의_명곡_전설을_노래하다",
+			"id": 27,
+			"ne_type": "ETC",
+			"en": 742,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "불후의_명곡_전설을_노래하다",
+			"coref_index": 61
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 792,
+			"eType": "WIKILINK",
+			"entityName": "대국민_토크쇼_안녕하세요",
+			"id": 28,
+			"ne_type": "ETC",
+			"en": 805,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대국민_토크쇼_안녕하세요"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 809,
+			"eType": "WIKILINK",
+			"entityName": "불후의_명곡_전설을_노래하다",
+			"id": 29,
+			"ne_type": "ETC",
+			"en": 824,
+			"ancestor": "3-27",
+			"is_target": true,
+			"surface": "불후의_명곡_전설을_노래하다",
+			"coref_index": 61
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 828,
+			"eType": "WIKILINK",
+			"entityName": "강심장",
+			"id": 30,
+			"ne_type": "ETC",
+			"en": 831,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "강심장"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 872,
+			"eType": "WIKILINK",
+			"entityName": "2002년",
+			"id": 31,
+			"ne_type": "TIME",
+			"en": 877,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2002년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 32,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1989년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 33,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "뮤지컬배우"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 34,
+			"ne_type": "TIME",
+			"en": 32,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1990년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 48,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 35,
+			"ne_type": "EVENT",
+			"en": 53,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대학_축제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 36,
+			"ne_type": "PERSON",
+			"en": 76,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "개그우먼_이성미"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 106,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 37,
+			"ne_type": "PERSON",
+			"en": 116,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "SBS_특채_개그맨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 168,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 38,
+			"ne_type": "ETC",
+			"en": 171,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "레일맨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 335,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 39,
+			"ne_type": "ETC",
+			"en": 338,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대마초"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 346,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 40,
+			"ne_type": "EVENT",
+			"en": 351,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "구속_기소"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 520,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 41,
+			"ne_type": "ETC",
+			"en": 523,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "전성기"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 883,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 42,
+			"ne_type": "EVENT",
+			"en": 900,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2012년_KBS_연예대상_대상"
+		}
+	],
+	"plainText": "생애 1989년 뮤지컬배우 첫 데뷔하였고 이듬해 1990년에 연극배우 데뷔한 신동엽은 대학_축제에서 사회를 보던 중 선배 개그우먼_이성미의 눈에 띄어 1991년 SBS_서울방송 개국과 함께 SBS_특채_개그맨으로 선발되었다. 별다른 무명 시절을 보내지 않고 《토요일_7시_웃으면_좋아요》의 한 코너 '레일맨'에서 유행어 \"안녕하시렵니까?\"로 단숨에 주목을 받았다. 곱상한 외모로 책받침 모델로도 등장하며 당시 이휘재, 박수홍 등과 함께 꽃미남 개그맨으로 꼽혔다. 이후 SBS의 버라이어티 프로그램 《기쁜_우리_토요일》, MBC 시트콤 《남자셋_여자셋》등에 잇달아 출연하며 인기를 누렸으나 1999년 대마초 흡연 혐의로 구속_기소된 뒤 약 11개월간 방송활동을 중단했다. 대마초 사건 이후로도 교제를 계속 해 왔던 연인 이소라와는 2001년 결별했다. 2000년 《일요일_일요일_밤에》의 코너 러브하우스로 방송에 복귀했고, 프로그램의 인기로 재기에도 성공할 수 있었다. 이후에도 《해피투게더》, 《느낌표》, 《헤이헤이헤이》 등으로 전성기를 이어갔다. 그러나 콩트와 스튜디오 안에서의 ?냅? 진행을 주특기로 하는신동엽엽의 스타일은 2000년대 중반 이후 봇물을 이룬 리얼 버라이어티 프로그램과 집단MC 체제에는 맞지 않았고, 퀴즈프린스스》,오빠밴드드》,신동엽_신봉선의_샴페인인》,야행성성》 등 출연한 프로그램들이 저조한 시청률로 폐지되는 부진에 시달렸다. 이후2011년년 김연아의_키스_&_크라이이》와 불후의_명곡_전설을_노래하다다》 등 오디션 형식의 프로그램에서 특유의 순발력 있는 진행으로 두각을 보이기 시작했고, 대국민_토크쇼_안녕하세요요》, 불후의_명곡_전설을_노래하다다》, 강심장장》에서 메인 MC를 맡는 등 활발한 활동을 벌이며 제2의 전성기를 맞이해2002년년에 이어서2012년_KBS_연예대상_대상상을 수상하였다. 현재 각종 케이블채널에서 특유의 섹드립으로 인해 다시 주목 받고 있다."
+}

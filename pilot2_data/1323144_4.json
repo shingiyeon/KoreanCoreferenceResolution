@@ -1,0 +1,66 @@
+{
+	"docID": "1323144",
+	"globalSID": "3586124",
+	"pronouns": [
+		{
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "이 연구소_직원",
+			"id": 0,
+			"st": 85
+		},
+		{
+			"en": 96,
+			"ancestor": "-1",
+			"surface": "이 연구소_직원 여럿",
+			"id": 1,
+			"st": 85
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "국립농업기술연구소",
+			"entityName": "국립농업기술연구소"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 98,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "실종",
+			"entityName": "더러운_전쟁"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "연구소_직원",
+			"entityName": ""
+		}
+	],
+	"plainText": "소레기에타의 농무성과 관계된 연구소인 국립농업기술연구소(INTA)는 쿠데타 이후 아르헨티나 해군의 통제하에 놓였고, 소레기에타가 장관으로 재임하던 도중 이 연구소_직원 여럿이 실종되었다."
+}

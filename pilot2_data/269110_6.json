@@ -1,0 +1,152 @@
+{
+	"docID": "269110",
+	"globalSID": "1522158,1522159",
+	"pronouns": [
+		{
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "평소의 소신처럼",
+			"id": 0,
+			"st": 42
+		},
+		{
+			"en": 83,
+			"ancestor": "-1",
+			"surface": "이에",
+			"id": 1,
+			"st": 81
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "1-0",
+			"coref_index": 374,
+			"surface": "정호승",
+			"entityName": "정호승"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "-1",
+			"surface": "시",
+			"entityName": "시_(문학)"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Eukaryote"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "인간",
+			"entityName": "인간"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 89,
+			"ancestor": "",
+			"surface": "1976년",
+			"entityName": "1976년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "김명인",
+			"entityName": "김명인_(1946년)"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 99,
+			"ancestor": "-1",
+			"surface": "김승희",
+			"entityName": "김승희"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 103,
+			"ancestor": "-1",
+			"surface": "김창완",
+			"entityName": "김창완_(시인)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 110,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 112,
+			"ancestor": "-1",
+			"surface": "반시",
+			"entityName": "반시"
+		}
+	],
+	"plainText": "정호승의 시는 “일상의 쉬운 언어로 현실의 이야기를 시로 쓰고자 한다.”는 평소의 소신처럼 쉬운 말로 인간에 대한 애정과 연민을 그려내곤 한다. 이에 1976년에는 김명인 김승희 김창완 등과 함께 반시(反詩)를 결성해 쉬운 시를 쓰려 노력하기도 했다."
+}

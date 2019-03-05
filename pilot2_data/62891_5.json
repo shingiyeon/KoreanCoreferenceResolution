@@ -1,0 +1,71 @@
+{
+	"docID": "62891",
+	"globalSID": "527908,527909,527910",
+	"pronouns": [
+		{
+			"st": 50,
+			"coref_index": 752,
+			"id": 0,
+			"en": 52,
+			"ancestor": "5-1",
+			"surface": "이것"
+		},
+		{
+			"st": 80,
+			"coref_index": 752,
+			"id": 1,
+			"en": 82,
+			"ancestor": "5-1",
+			"surface": "이것"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "알론조_처치",
+			"entityName": "알론조_처치"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "1-4",
+			"coref_index": 752,
+			"surface": "람다_대수",
+			"entityName": "람다_대수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 16,
+			"ancestor": "",
+			"surface": "1930년",
+			"entityName": ""
+		}
+	],
+	"plainText": "역사 알론조_처치가 1930년대에 개발한 람다_대수는 함수에 대한 이론적 기반을 세웠다. 이것은 프로그래밍 언어가 아니라 수학적 추상화였지만, 이것은 함수형 프로그래밍의 근간을 이루었다."
+}

@@ -1,0 +1,383 @@
+{
+	"pronoun_candidate": [],
+	"parID": "1",
+	"pronouns": [],
+	"entities": [
+		{
+			"en_modified": 15,
+			"st_modified": 10,
+			"coref_index": 223,
+			"entityName": "스페이스X",
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 10,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "스페이스X",
+			"is_target": true,
+			"en": 15,
+			"id": 0
+		},
+		{
+			"en_modified": 26,
+			"entityName": "우주로켓",
+			"st_modified": 22,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 22,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "우주로켓",
+			"is_target": true,
+			"en": 26,
+			"id": 1
+		},
+		{
+			"en_modified": 65,
+			"st_modified": 61,
+			"coref_index": 226,
+			"entityName": "팰컨_9",
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"eType": "WIKILINK",
+			"st": 61,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "팰컨_9",
+			"is_target": true,
+			"en": 65,
+			"id": 2
+		},
+		{
+			"en_modified": 102,
+			"st_modified": 100,
+			"coref_index": 224,
+			"entityName": "화성",
+			"kbox_types": [
+				"Place",
+				"Planet",
+				"CelestialBody"
+			],
+			"eType": "WIKILINK",
+			"st": 100,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "화성",
+			"is_target": true,
+			"en": 102,
+			"id": 3
+		},
+		{
+			"en_modified": 130,
+			"st_modified": 125,
+			"coref_index": 223,
+			"entityName": "스페이스X",
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 125,
+			"ancestor": "1-0",
+			"ne_type": "ORGANIZATION",
+			"surface": "스페이스X",
+			"is_target": true,
+			"en": 130,
+			"id": 4
+		},
+		{
+			"en_modified": 150,
+			"entityName": "레드_드래건_(우주선)",
+			"st_modified": 138,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 138,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "레드_드래건_(우주선)",
+			"is_target": true,
+			"en": 150,
+			"id": 5
+		},
+		{
+			"en_modified": 185,
+			"st_modified": 183,
+			"coref_index": 224,
+			"entityName": "화성",
+			"kbox_types": [
+				"Place",
+				"Planet",
+				"CelestialBody"
+			],
+			"eType": "WIKILINK",
+			"st": 183,
+			"ancestor": "1-3",
+			"ne_type": "LOCATION",
+			"surface": "화성",
+			"is_target": true,
+			"en": 185,
+			"id": 6
+		},
+		{
+			"en_modified": 208,
+			"st_modified": 204,
+			"coref_index": 225,
+			"entityName": "대한민국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 204,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 208,
+			"id": 7
+		},
+		{
+			"en_modified": 212,
+			"entityName": "김승조",
+			"st_modified": 209,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 209,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "김승조",
+			"is_target": true,
+			"en": 212,
+			"id": 8
+		},
+		{
+			"en_modified": 216,
+			"entityName": "항우연",
+			"st_modified": 213,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 213,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "항우연",
+			"is_target": true,
+			"en": 216,
+			"id": 9
+		},
+		{
+			"en_modified": 235,
+			"st_modified": 230,
+			"coref_index": 223,
+			"entityName": "스페이스X",
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 230,
+			"ancestor": "1-4",
+			"ne_type": "ORGANIZATION",
+			"surface": "스페이스X",
+			"is_target": true,
+			"en": 235,
+			"id": 10
+		},
+		{
+			"en_modified": 300,
+			"st_modified": 296,
+			"coref_index": 225,
+			"entityName": "대한민국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 296,
+			"ancestor": "1-7",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 300,
+			"id": 11
+		},
+		{
+			"en_modified": 307,
+			"st_modified": 302,
+			"coref_index": 223,
+			"entityName": "스페이스X",
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 302,
+			"ancestor": "1-4",
+			"ne_type": "ORGANIZATION",
+			"surface": "스페이스X",
+			"is_target": true,
+			"en": 307,
+			"id": 12
+		},
+		{
+			"en_modified": 313,
+			"entityName": "팰컨_1",
+			"st_modified": 309,
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"eType": "WIKILINK",
+			"st": 309,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "팰컨_1",
+			"is_target": true,
+			"en": 313,
+			"id": 13
+		},
+		{
+			"en_modified": 333,
+			"entityName": "한국형발사체_시험발사체",
+			"st_modified": 321,
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"eType": "WIKILINK",
+			"st": 321,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "한국형발사체_시험발사체",
+			"is_target": true,
+			"en": 333,
+			"id": 14
+		},
+		{
+			"en_modified": 365,
+			"st_modified": 361,
+			"coref_index": 226,
+			"entityName": "팰컨_9",
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"eType": "WIKILINK",
+			"st": 361,
+			"ancestor": "1-2",
+			"ne_type": "ETC",
+			"surface": "팰컨_9",
+			"is_target": true,
+			"en": 365,
+			"id": 15
+		},
+		{
+			"en_modified": 380,
+			"entityName": "KARI_75톤급_로켓엔진",
+			"st_modified": 374,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 374,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "75톤_엔진",
+			"is_target": true,
+			"en": 380,
+			"id": 16
+		},
+		{
+			"en_modified": 400,
+			"st_modified": 388,
+			"coref_index": 227,
+			"entityName": "한국형_정지궤도_발사체",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 388,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "한국형_정지궤도_발사체",
+			"is_target": true,
+			"en": 400,
+			"id": 17
+		},
+		{
+			"en_modified": 420,
+			"st_modified": 417,
+			"coref_index": 227,
+			"entityName": "발사체",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 417,
+			"ancestor": "1-17",
+			"ne_type": "ETC",
+			"surface": "발사체",
+			"is_target": true,
+			"en": 420,
+			"id": 18
+		},
+		{
+			"en_modified": 443,
+			"st_modified": 437,
+			"coref_index": 227,
+			"entityName": "한국형발사체",
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"eType": "WIKILINK",
+			"st": 437,
+			"ancestor": "1-17",
+			"ne_type": "ETC",
+			"surface": "한국형발사체",
+			"is_target": true,
+			"en": 443,
+			"id": 19
+		},
+		{
+			"en_modified": 492,
+			"entityName": "한국형_대형_정지궤도_발사체",
+			"st_modified": 477,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 477,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "한국형_대형_정지궤도_발사체",
+			"is_target": true,
+			"en": 492,
+			"id": 20
+		}
+	],
+	"globalSID": "3788197,3788198,3788199,3788200,3788201,3788202,3788203,3788204,3788205,3788206",
+	"plainText": "팰컨 헤비는 미국 스페이스X가 개발중인 우주로켓이다. 2016년 12월 최초 시험발사를 할 계획이다. 기존의 팰컨_9 로켓을 3개 묶어서 54.4톤의 인공위성을 발사할 수 있다. 화성에 13.6톤의 우주선을 보낼 수 있다. 스페이스X는 2024년 레드_드래건_(우주선) 유인 화성 탐사선을 팰컨 헤비 로켓으로 발사해 2025년 화성에 인간을 착륙시킨다는 계획이다. 대한민국 김승조 항우연 원장은 2012년 부터 스페이스X를 벤치마크 대상이자 잠재적 경쟁자로 꼽아 왔다. 김 원장은 2014년 까지 스페이스X를 두 차례 방문했다. 대한민국은 스페이스X의 팰컨_1를 벤치마킹한 한국형발사체_시험발사체를 2017년 12월 발사할 계획이다. 2030년 팰컨_9를 벤치마킹하여 75톤_엔진 9개를 묶은 한국형_정지궤도_발사체를 만들어 중궤도 및 정지궤도 발사체를 제작하고, 2040년까지는 한국형발사체를 3개 묶어서, 팰컨 헤비와 같은 대형 정지궤도위성 발사용 한국형_대형_정지궤도_발사체를 발사할 계획이다. ",
+	"docID": "1504115",
+	"ModifiedText": "팰컨 헤비는 미국 스페이스X가 개발중인 우주로켓이다. 2016년 12월 최초 시험발사를 할 계획이다. 기존의 팰컨 9 로켓을 3개 묶어서 54.4톤의 인공위성을 발사할 수 있다. 화성에 13.6톤의 우주선을 보낼 수 있다. 스페이스X는 2024년 레드 드래건 (우주선) 유인 화성 탐사선을 팰컨 헤비 로켓으로 발사해 2025년 화성에 인간을 착륙시킨다는 계획이다. 대한민국 김승조 항우연 원장은 2012년 부터 스페이스X를 벤치마크 대상이자 잠재적 경쟁자로 꼽아 왔다. 김 원장은 2014년 까지 스페이스X를 두 차례 방문했다. 대한민국은 스페이스X의 팰컨 1를 벤치마킹한 한국형발사체 시험발사체를 2017년 12월 발사할 계획이다. 2030년 팰컨 9를 벤치마킹하여 75톤 엔진 9개를 묶은 한국형 정지궤도 발사체를 만들어 중궤도 및 정지궤도 발사체를 제작하고, 2040년까지는 한국형발사체를 3개 묶어서, 팰컨 헤비와 같은 대형 정지궤도위성 발사용 한국형 대형 정지궤도 발사체를 발사할 계획이다. "
+}

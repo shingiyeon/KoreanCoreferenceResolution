@@ -1,0 +1,182 @@
+{
+	"docID": "816885",
+	"globalSID": "2846258,2846259,2846260",
+	"pronouns": [
+		{
+			"en": 27,
+			"st": 21,
+			"surface": "그 기병대의",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 32,
+			"st": 21,
+			"surface": "그 기병대의 사령관을",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"st": 38,
+			"coref_index": 988,
+			"id": 2,
+			"en": 39,
+			"ancestor": "5-3",
+			"surface": "그"
+		},
+		{
+			"st": 96,
+			"coref_index": 988,
+			"id": 3,
+			"en": 97,
+			"ancestor": "5-3",
+			"surface": "그"
+		},
+		{
+			"en": 139,
+			"st": 133,
+			"surface": "그 행렬에서",
+			"id": 4,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"coref_index": 991,
+			"surface": "대륙군",
+			"entityName": "대륙군"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"MilitaryPerson"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "조지_워싱턴",
+			"entityName": "조지_워싱턴"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 79,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 82,
+			"ancestor": "-1",
+			"surface": "서배너",
+			"entityName": "서배너"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "1-4",
+			"coref_index": 988,
+			"surface": "푸와스키",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "준장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 26,
+			"ancestor": "-1",
+			"surface": "기병대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "사령관",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "브랜디와인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 124,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "EVENT",
+			"en": 131,
+			"ancestor": "-1",
+			"surface": "푸와스키의_날",
+			"entityName": ""
+		}
+	],
+	"plainText": "푸와스키는 대륙군의 준장으로 복무하여 그 기병대의 사령관을 맡았다. 그는 브랜디와인의 전투에서 조지_워싱턴의 군대를 섬겼으며 31세의 나이로 서배너의 전투에서 전사하였다. 그는 후에 \"미국 기병대의 아버지\"로 알려졌으며, 푸와스키의_날과 그 행렬에서 기념되었다."
+}

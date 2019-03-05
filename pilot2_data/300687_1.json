@@ -1,0 +1,206 @@
+{
+	"docID": "300687",
+	"globalSID": "1644884,1644885,1644886",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 60,
+			"ancestor": "-1",
+			"coref_index": 426,
+			"surface": "A리그",
+			"entityName": "A리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "브리즈번_로어",
+			"entityName": "브리즈번_로어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "수비수",
+			"entityName": "수비수"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 89,
+			"ancestor": "",
+			"coref_index": 428,
+			"surface": "2009년",
+			"entityName": "2009년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 93,
+			"ancestor": "-1",
+			"coref_index": 423,
+			"surface": "K리그",
+			"entityName": "K리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 103,
+			"ancestor": "-1",
+			"coref_index": 427,
+			"surface": "인천_유나이티드",
+			"entityName": "인천_유나이티드_FC"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 114,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 117,
+			"ancestor": "1-4",
+			"coref_index": 423,
+			"surface": "K리그",
+			"entityName": "K리그"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 129,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 132,
+			"ancestor": "1-11",
+			"coref_index": 424,
+			"surface": "제이드",
+			"entityName": "제이드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 24,
+			"ancestor": "",
+			"surface": "1982년_1월_7일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 40,
+			"ancestor": "-1",
+			"surface": "오스트레일리아_타리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "축구_선수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 10,
+			"ancestor": "-1",
+			"coref_index": 424,
+			"surface": "제이드_브런슨_노스",
+			"entityName": ""
+		}
+	],
+	"plainText": "제이드_브런슨_노스(, 1982년_1월_7일 ~ )는 오스트레일리아_타리 출신의 축구_선수이다. 현재 A리그의 브리즈번_로어에서 수비수를 맡고 있다. 2009년 K리그의 인천_유나이티드에서 활약하였으며, K리그에서 활동할 당시에는 제이드라는 이름으로 활약하였다."
+}

@@ -1,0 +1,94 @@
+{
+	"docID": "610180",
+	"globalSID": "2412493",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"surface": "2009년_2월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 16,
+			"ancestor": "-1",
+			"surface": "국가권익위원회",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 24,
+			"ancestor": "2-3",
+			"coref_index": 744,
+			"surface": "정보공개청구",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "공무원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "EVENT",
+			"en": 68,
+			"ancestor": "-1",
+			"surface": "범죄",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "-1",
+			"surface": "징계",
+			"entityName": ""
+		}
+	],
+	"plainText": "2009년_2월 국가권익위원회에 정보공개청구를 통해 공무원들의 '예산목적 외 사용금지', '금품 및 향응 수수중' 등 범죄들이 '경고 및 주의' 등의 가벼운 징계에 그치고 있는 경향을 지적했다."
+}

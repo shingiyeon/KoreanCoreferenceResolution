@@ -1,0 +1,339 @@
+{
+	"docID": "970374",
+	"globalSID": "3126296,3126297,3126298,3126299,3126300,3126301,3126302",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 51,
+			"ancestor": "",
+			"surface": "1869년",
+			"entityName": "1869년"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 56,
+			"ancestor": "-1",
+			"surface": "오마하",
+			"entityName": "오마하"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 58,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "새크라멘토",
+			"entityName": "새크라멘토"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "대륙횡단철도",
+			"entityName": "대륙_횡단_철도"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 133,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "앤드루_카네기",
+			"entityName": "앤드루_카네기"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 156,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 161,
+			"ancestor": "-1",
+			"surface": "존_록펠러",
+			"entityName": "존_D._록펠러"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Museum",
+				"Building",
+				"Place",
+				"Place"
+			],
+			"st": 170,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 174,
+			"ancestor": "-1",
+			"surface": "구겐하임",
+			"entityName": "솔로몬_R._구겐하임_미술관"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 184,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 192,
+			"ancestor": "-1",
+			"surface": "마이어_구겐하임",
+			"entityName": "마이어_구겐하임"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 316,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 320,
+			"ancestor": "-1",
+			"surface": "배금주의",
+			"entityName": "배금주의"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 371,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 377,
+			"ancestor": "-1",
+			"surface": "마크_트웨인",
+			"entityName": "마크_트웨인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "남북_전쟁_후",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 112,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 116,
+			"ancestor": "1-4",
+			"coref_index": 1181,
+			"surface": "자본주의",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 306,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 314,
+			"ancestor": "-1",
+			"surface": "사상누각의_호황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 284,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 289,
+			"ancestor": "2-4",
+			"coref_index": 1175,
+			"surface": "도금_시대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 240,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 242,
+			"ancestor": "2-8",
+			"coref_index": 1177,
+			"surface": "국가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 267,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 270,
+			"ancestor": "-1",
+			"surface": "하층민",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 250,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 253,
+			"ancestor": "-1",
+			"surface": "자본가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 95,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"en": 98,
+			"ancestor": "-1",
+			"surface": "이민자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "LOCATION",
+			"en": 88,
+			"ancestor": "2-12",
+			"coref_index": 1176,
+			"surface": "유럽",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 141,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "LOCATION",
+			"en": 146,
+			"ancestor": "-1",
+			"surface": "스코틀랜드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "LOCATION",
+			"en": 197,
+			"ancestor": "-1",
+			"surface": "스위스_",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 201,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 208,
+			"ancestor": "-1",
+			"surface": "유태계_독일인",
+			"entityName": ""
+		}
+	],
+	"plainText": "호황 남북_전쟁_후 미국은 북부를 중심으로 하는 하나의 큰 국민경제가 정리되었다. 1869년, 오마하와 새크라멘토를 잇는 최초의 대륙횡단철도가 개통되면서 유럽에서 다수한 이민자들이 유입되었다. 이러한 자본주의의 급속한 성장에 따라 철강왕 앤드루_카네기(스코틀랜드 출신), 석유왕 존_록펠러, 솔로몬 R. 구겐하임의 아버지 광산왕 마이어_구겐하임(스위스_출신의 유태계_독일인) 등 이름난 부호가 등장했다. 그러나 정치는 부패했고, 국가의 비호를받은 자본가는 더욱 부를 축적하였고 하층민들은 가난에 허덕였다. ‘도금_시대’(\"Gilded Age\")는 사상누각의_호황과 배금주의를 풍자하며, 이러한 경제의 급속한 성장과 함께 나타난 정치 경제의 부패와 비리를 비판하며 마크_트웨인이 명명한 시대 명칭이다."
+}

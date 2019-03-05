@@ -1,0 +1,98 @@
+{
+	"docID": "1112469",
+	"globalSID": "3349327,3349328",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 34,
+			"id": 0,
+			"en": 2,
+			"ancestor": "2-0",
+			"surface": "이날"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "조대현",
+			"entityName": "조대현_(언론인)"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 40,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "정도전",
+			"entityName": "정도전"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 89,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "1-3",
+			"coref_index": 30,
+			"surface": "대하드라마",
+			"entityName": "사극"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 6,
+			"ancestor": "1-1",
+			"coref_index": 31,
+			"surface": "KBS",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "1-0",
+			"coref_index": 29,
+			"surface": "징비록",
+			"entityName": ""
+		}
+	],
+	"plainText": "이날 KBS 조대현 사장은 재정 적자를 언급한 뒤 \"'징비록'도 사실 '정도전'에 바로 이어서 해야 하는데, 재정 때문에 반년을 건너뛰고 시작한다. 금년부터는 대하드라마를 쉬지 않고 하겠다\"고 말했다."
+}

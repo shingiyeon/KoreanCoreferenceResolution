@@ -1,0 +1,72 @@
+{
+	"docID": "1504115",
+	"globalSID": "3788202,3788203,3788204",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "-1",
+			"coref_index": 225,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "김승조",
+			"entityName": "김승조"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "-1",
+			"surface": "항우연",
+			"entityName": "항우연"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 31,
+			"ancestor": "1-4",
+			"coref_index": 223,
+			"surface": "스페이스X",
+			"entityName": "스페이스X"
+		}
+	],
+	"plainText": "대한민국 김승조 항우연 원장은 2012년 부터 스페이스X를 벤치마크 대상이자 잠재적 경쟁자로 꼽아 왔다. 김 원장은 2014년 까지 스페이스X를 두 차례 방문했다."
+}

@@ -1,0 +1,23 @@
+{
+	"docID": "573412",
+	"globalSID": "2339158",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "파출소",
+			"entityName": "파출소"
+		}
+	],
+	"plainText": "TV 시리즈 최종회에서는 징계처분으로 다시 파출소로 가게 되지만 열심히 일하고 있다."
+}

@@ -1,0 +1,67 @@
+{
+	"docID": "96540",
+	"globalSID": "741182",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "동아프리카",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 5,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "동아프리카",
+			"coref_index": 1172
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 11,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "지구대",
+			"coref_index": 1170
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 19,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "동부_지구대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 27,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "서부_지구대"
+		}
+	],
+	"plainText": "동아프리카에서 지구대는 동부_지구대와 서부_지구대로 나뉜다."
+}

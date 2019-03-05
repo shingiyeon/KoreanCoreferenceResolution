@@ -1,0 +1,61 @@
+{
+	"docID": "9181",
+	"globalSID": "139683",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"st": 10,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 14,
+			"ancestor": "2-0",
+			"coref_index": 1121,
+			"surface": "아프리카",
+			"entityName": "아프리카"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 19,
+			"ancestor": "2-7",
+			"coref_index": 1128,
+			"surface": "스페인",
+			"entityName": "스페인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 9,
+			"ancestor": "",
+			"surface": "1968년_10월",
+			"entityName": ""
+		}
+	],
+	"plainText": "1968년_10월 아프리카의 스페인 식민지 중에서 제일 먼저 독립했다."
+}

@@ -1,0 +1,130 @@
+{
+	"docID": "440576",
+	"globalSID": "2043501",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 13,
+			"ancestor": "-1",
+			"coref_index": 583,
+			"surface": "예일_대학교",
+			"entityName": "예일_대학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "정치학",
+			"entityName": "정치학"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 78,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "베트남",
+			"entityName": "베트남"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "하노이_대학교",
+			"entityName": "하노이_대학교"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 98,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 102,
+			"ancestor": "-1",
+			"surface": "베트남어",
+			"entityName": "베트남어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "1989년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 37,
+			"ancestor": "",
+			"surface": "1990년대_초반",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 47,
+			"ancestor": "-1",
+			"coref_index": 584,
+			"surface": "특파원",
+			"entityName": ""
+		}
+	],
+	"plainText": "1989년, 예일_대학교(정치학부)를 졸업하였고, 1990년대_초반, 처음으로 특파원으로서의 일을 시작한 후, 1년 간 기자 일을 그만두고 베트남에서 지내며 하노이_대학교에서 베트남어를 공부하였다."
+}

@@ -1,0 +1,38 @@
+{
+	"docID": "13796",
+	"globalSID": "205712,205713,205714",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 134,
+			"eType": "ELU",
+			"entityName": "한국어",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 137,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한국어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "헤게모니아어",
+			"coref_index": 201
+		}
+	],
+	"plainText": "헤게모니아어 헤게모니아어(Hegemonian)은 소설 전반에 등장한 사례가 극소수이기 때문에 데이터베이스화에 다소 어려움이 산재해 있다. 하지만 헤게모니아의 독음이나 표기방식은 영문식에 따르는것으로 추측되며, 특히 어문의 구조나 체계따위가 한국어와 유사하다는 평례가 지배적이다."
+}

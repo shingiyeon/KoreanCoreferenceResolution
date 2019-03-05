@@ -1,0 +1,142 @@
+{
+	"docID": "261469",
+	"globalSID": "1473145,1473146,1473147",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 357,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-2",
+			"surface": "그"
+		},
+		{
+			"st": 174,
+			"coref_index": 357,
+			"id": 1,
+			"en": 175,
+			"ancestor": "1-2",
+			"surface": "그"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 102,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "스코틀랜드",
+			"entityName": "스코틀랜드"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 128,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 131,
+			"ancestor": "2-0",
+			"coref_index": 358,
+			"surface": "윌리엄",
+			"entityName": "윌리엄_셰익스피어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 138,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "멜컴_3세",
+			"entityName": "멜컴_3세"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 148,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 151,
+			"ancestor": "-1",
+			"coref_index": 361,
+			"surface": "마틸다",
+			"entityName": "마틸다_(잉글랜드)"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 192,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 196,
+			"ancestor": "-1",
+			"surface": "캔터베리",
+			"entityName": "캔터베리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 201,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 205,
+			"ancestor": "-1",
+			"coref_index": 359,
+			"surface": "안셀무스",
+			"entityName": "안셀무스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 84,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "EVENT",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "애닉_전투",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 곧 \"자유 헌장\"을 선포하였는데 과세를 공평하게 메기고 면세대상이였던 교회의 수입을 금하며 왕실의 권력남용을 금지하는 내용을 골자로 하였다. 또 애닉_전투 이후에 소원해져 있던 스코틀랜드와의 관계를 완화시키기 위하여 스스로 윌리엄이 처형했던 멜컴_3세의 딸인 마틸다와 결혼함으로써 외교적 안정을 꾀하였다. 그는 또한 형과의 불화로 스스로 캔터베리를 떠난 안셀무스를 다시 불러들이기도 하였다."
+}

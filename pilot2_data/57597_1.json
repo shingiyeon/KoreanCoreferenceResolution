@@ -1,0 +1,109 @@
+{
+	"docID": "57597",
+	"globalSID": "509690,509691",
+	"pronouns": [
+		{
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "여러 지명과",
+			"id": 0,
+			"st": 59
+		},
+		{
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "여러 지명과 이름에",
+			"id": 1,
+			"st": 59
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "-1",
+			"coref_index": 725,
+			"surface": "컬럼비아",
+			"entityName": "브리티시컬럼비아_주"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "아메리카",
+			"entityName": "아메리카"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 36,
+			"ancestor": "-1",
+			"coref_index": 726,
+			"surface": "크리스토퍼_콜럼버스",
+			"entityName": "크리스토퍼_콜럼버스"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 53,
+			"ancestor": "-1",
+			"surface": "캐나다",
+			"entityName": "캐나다"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 55,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "미국",
+			"entityName": "미국"
+		}
+	],
+	"plainText": "컬럼비아(Columbia)는 아메리카를 발견한 크리스토퍼_콜럼버스의 이름에서 온 지명으로 캐나다와 미국의 여러 지명과 이름에 쓰이고 있다. 미국에서는 미국을 가리키는 시어로도 사용된다."
+}

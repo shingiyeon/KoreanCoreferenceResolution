@@ -1,0 +1,297 @@
+{
+	"docID": "315523",
+	"globalSID": "1692773,1692774,1692775",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 11,
+			"ancestor": "1-9",
+			"coref_index": 431,
+			"surface": "견훤",
+			"entityName": "견훤"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 17,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 19,
+			"ancestor": "1-2",
+			"coref_index": 437,
+			"surface": "신라",
+			"entityName": "신라"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 39,
+			"ancestor": "1-2",
+			"coref_index": 437,
+			"surface": "신라",
+			"entityName": "신라"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"City",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 43,
+			"ancestor": "-1",
+			"coref_index": 438,
+			"surface": "근암성",
+			"entityName": "문경시"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"City",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"st": 47,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 50,
+			"ancestor": "3-3",
+			"coref_index": 438,
+			"surface": "문경시",
+			"entityName": "문경시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 56,
+			"ancestor": "-1",
+			"coref_index": 439,
+			"surface": "고울부",
+			"entityName": "영천시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 60,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 63,
+			"ancestor": "3-5",
+			"coref_index": 439,
+			"surface": "영천시",
+			"entityName": "영천시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 87,
+			"ancestor": "3-14",
+			"coref_index": 440,
+			"surface": "경주",
+			"entityName": "경주시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 109,
+			"ancestor": "-1",
+			"coref_index": 442,
+			"surface": "신라_경애왕",
+			"entityName": "신라_경애왕"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 136,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 138,
+			"ancestor": "1-7",
+			"coref_index": 441,
+			"surface": "왕건",
+			"entityName": "왕건"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 140,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 142,
+			"ancestor": "1-2",
+			"coref_index": 437,
+			"surface": "신라",
+			"entityName": "신라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 151,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 153,
+			"ancestor": "",
+			"surface": "9월",
+			"entityName": "9월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 7,
+			"ancestor": "",
+			"surface": "927년_8월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "군사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 81,
+			"ancestor": "-1",
+			"coref_index": 440,
+			"surface": "수도_금성",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 118,
+			"ancestor": "1-7",
+			"coref_index": 441,
+			"surface": "고려_왕_왕건",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 157,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 162,
+			"ancestor": "-1",
+			"surface": "시중_공선",
+			"entityName": ""
+		}
+	],
+	"plainText": "927년_8월, 견훤은 마침내 신라를 정벌하기 위해 군사를 이끌고 신라 근암성(현재 문경시)과 고울부(현재 영천시)를 공격해 함락시키고 수도_금성(현재 경주)로 진군했다. 위기를 느낀 신라_경애왕은 고려_왕_왕건에게 구원을 요청하였다. 그러자 왕건은 신라를 돕기 위하여 9월 초에 시중_공선에게 1만 명의 군사를 맡겨 원군을 파견하였다."
+}

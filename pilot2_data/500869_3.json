@@ -1,0 +1,142 @@
+{
+	"docID": "500869",
+	"globalSID": "2182673,2182674,2182675,2182676",
+	"pronouns": [
+		{
+			"st": 36,
+			"coref_index": 630,
+			"id": 0,
+			"en": 37,
+			"ancestor": "3-4",
+			"surface": "그"
+		},
+		{
+			"st": 53,
+			"coref_index": 629,
+			"id": 1,
+			"en": 57,
+			"ancestor": "3-2",
+			"surface": "이 클럽"
+		},
+		{
+			"st": 59,
+			"coref_index": 630,
+			"id": 2,
+			"en": 60,
+			"ancestor": "3-4",
+			"surface": "그"
+		},
+		{
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "그의 죽마고우",
+			"id": 3,
+			"st": 59
+		},
+		{
+			"en": 76,
+			"ancestor": "-1",
+			"surface": "그의 죽마고우인 지시스_브리자스",
+			"id": 4,
+			"st": 59
+		},
+		{
+			"st": 59,
+			"coref_index": 629,
+			"id": 5,
+			"en": 83,
+			"ancestor": "3-2",
+			"surface": "그의 죽마고우인 지시스_브리자스의 출신 구단"
+		},
+		{
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "지대한 공",
+			"id": 6,
+			"st": 121
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 629,
+			"surface": "카발라",
+			"entityName": "카발라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "수비형_미드필더",
+			"entityName": "미드필더"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 42,
+			"ancestor": "3-0",
+			"coref_index": 629,
+			"surface": "카발라",
+			"entityName": "카발라_FC"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 76,
+			"ancestor": "-1",
+			"surface": "지시스_브리자스",
+			"entityName": "지시스_브리자스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-0",
+			"coref_index": 630,
+			"surface": "자고라키스",
+			"entityName": ""
+		}
+	],
+	"plainText": "카발라 자고라키스는 수비형_미드필더로 주로 우측 중원을 맡았다. 그는 카발라에서 데뷔하였는데, 이 클럽은 그의 죽마고우인 지시스_브리자스의 출신 구단이기도 하다. 자고라키스는 그리스 2부리그 우승을 도와 팀의 승격에 지대한 공을 세웠다."
+}

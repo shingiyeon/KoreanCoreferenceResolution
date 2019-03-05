@@ -1,0 +1,304 @@
+{
+	"pronoun_candidate": [],
+	"parID": "1",
+	"pronouns": [],
+	"entities": [
+		{
+			"en_modified": 3,
+			"st_modified": 0,
+			"coref_index": 1113,
+			"entityName": "돈지덕",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "돈지덕",
+			"is_target": true,
+			"en": 3,
+			"id": 0
+		},
+		{
+			"en_modified": 31,
+			"entityName": "대한민국",
+			"st_modified": 27,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 27,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 31,
+			"id": 1
+		},
+		{
+			"en_modified": 35,
+			"entityName": "축구",
+			"st_modified": 33,
+			"kbox_types": [
+				"Activity",
+				"Sport"
+			],
+			"eType": "WIKILINK",
+			"st": 33,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "축구",
+			"is_target": true,
+			"en": 35,
+			"id": 2
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1980년_4월_28일",
+			"is_target": false,
+			"en": 21,
+			"id": 3
+		},
+		{
+			"en_modified": 69,
+			"st_modified": 66,
+			"coref_index": 1113,
+			"entityName": "돈지덕",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 66,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "돈지덕",
+			"is_target": true,
+			"en": 69,
+			"id": 4
+		},
+		{
+			"en_modified": 76,
+			"entityName": "인천대학교",
+			"st_modified": 71,
+			"kbox_types": [
+				"University",
+				"SoccerClub",
+				"Agent",
+				"EducationalInstitution",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 71,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "인천대학교",
+			"is_target": true,
+			"en": 76,
+			"id": 5
+		},
+		{
+			"en_modified": 88,
+			"entityName": "2003년",
+			"st_modified": 83,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 83,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2003년",
+			"is_target": false,
+			"en": 88,
+			"id": 6
+		},
+		{
+			"en_modified": 103,
+			"entityName": "고양_KB국민은행_축구단",
+			"st_modified": 95,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 95,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "국민은행_축구단",
+			"is_target": true,
+			"en": 103,
+			"id": 7
+		},
+		{
+			"en_modified": 65,
+			"entityName": "",
+			"st_modified": 60,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 60,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "선수_경력",
+			"is_target": true,
+			"en": 65,
+			"id": 8
+		},
+		{
+			"en_modified": 80,
+			"entityName": "",
+			"st_modified": 78,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 78,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "졸업",
+			"is_target": true,
+			"en": 80,
+			"id": 9
+		},
+		{
+			"en_modified": 107,
+			"entityName": "",
+			"st_modified": 105,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 105,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "입단",
+			"is_target": true,
+			"en": 107,
+			"id": 10
+		},
+		{
+			"en_modified": 117,
+			"entityName": "2013년",
+			"st_modified": 112,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 112,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년",
+			"is_target": false,
+			"en": 117,
+			"id": 11
+		},
+		{
+			"en_modified": 130,
+			"entityName": "FC_안양",
+			"st_modified": 125,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 125,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "FC_안양",
+			"is_target": true,
+			"en": 130,
+			"id": 12
+		},
+		{
+			"en_modified": 184,
+			"entityName": "내셔널리그_(대한민국)",
+			"st_modified": 179,
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 179,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "내셔널리그",
+			"is_target": true,
+			"en": 184,
+			"id": 13
+		},
+		{
+			"en_modified": 196,
+			"entityName": "경주_한국수력원자력_축구단",
+			"st_modified": 186,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 186,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "경주_한국수력원자력",
+			"is_target": true,
+			"en": 196,
+			"id": 14
+		},
+		{
+			"en_modified": 173,
+			"entityName": "",
+			"st_modified": 166,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 166,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "2014_시즌",
+			"is_target": true,
+			"en": 173,
+			"id": 15
+		}
+	],
+	"globalSID": "3012129,3012130,3012131,3012132,3012133,3012134",
+	"plainText": "돈지덕(頓智德, 1980년_4월_28일 ~ )은 대한민국의 축구 선수로서 포지션은 수비수이다. 축구인 경력 선수_경력 돈지덕은 인천대학교를 졸업하고 2003년 실업 축구 국민은행_축구단에 입단하였다. 2013년 드래프트에서 FC_안양에 우선 지명되어 34세의 나이에 프로 무대에 첫 발을 디뎠다. 2014_시즌을 앞두고 내셔널리그의 경주_한국수력원자력으로 이적하였다. ",
+	"docID": "912074",
+	"ModifiedText": "돈지덕(頓智德, 1980년 4월 28일 ~ )은 대한민국의 축구 선수로서 포지션은 수비수이다. 축구인 경력 선수 경력 돈지덕은 인천대학교를 졸업하고 2003년 실업 축구 국민은행 축구단에 입단하였다. 2013년 드래프트에서 FC 안양에 우선 지명되어 34세의 나이에 프로 무대에 첫 발을 디뎠다. 2014 시즌을 앞두고 내셔널리그의 경주 한국수력원자력으로 이적하였다. "
+}

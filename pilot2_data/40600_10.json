@@ -1,0 +1,304 @@
+{
+	"docID": "40600",
+	"globalSID": "382887,382888,382889,382890,382891,382892,382893,382894",
+	"pronouns": [
+		{
+			"en": 90,
+			"st": 74,
+			"surface": "4분원의 중간에 있는 별자리로",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 183,
+			"st": 176,
+			"surface": "열두 별자리를",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 278,
+			"st": 276,
+			"surface": "예를",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 346,
+			"st": 344,
+			"surface": "이와",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"en": 353,
+			"st": 344,
+			"surface": "이와 같은 연결은",
+			"id": 4,
+			"ancestor": "-1"
+		},
+		{
+			"st": 364,
+			"coref_index": 546,
+			"id": 5,
+			"en": 365,
+			"ancestor": "10-10",
+			"surface": "그"
+		},
+		{
+			"en": 369,
+			"st": 364,
+			"surface": "그의 소설",
+			"id": 6,
+			"ancestor": "-1"
+		},
+		{
+			"en": 382,
+			"st": 364,
+			"surface": "그의 소설 요셉과_그의_형제들에서",
+			"id": 7,
+			"ancestor": "-1"
+		},
+		{
+			"en": 410,
+			"st": 402,
+			"surface": "황도대 별자리의",
+			"id": 8,
+			"ancestor": "-1"
+		},
+		{
+			"en": 414,
+			"st": 402,
+			"surface": "황도대 별자리의 특징을",
+			"id": 9,
+			"ancestor": "-1"
+		},
+		{
+			"en": 418,
+			"st": 415,
+			"surface": "각각의",
+			"id": 10,
+			"ancestor": "-1"
+		},
+		{
+			"en": 422,
+			"st": 415,
+			"surface": "각각의 지파에",
+			"id": 11,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "히브리어_성경",
+			"entityName": "히브리어_성경"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "에제키엘서",
+			"entityName": "에제키엘_(구약성경)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 89,
+			"ancestor": "1-8",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 119,
+			"ancestor": "-1",
+			"coref_index": 542,
+			"surface": "금우궁",
+			"entityName": "금우궁"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 152,
+			"ancestor": "-1",
+			"coref_index": 543,
+			"surface": "천갈궁",
+			"entityName": "천갈궁"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 182,
+			"ancestor": "1-8",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 194,
+			"ancestor": "-1",
+			"surface": "이스라엘의_12지파",
+			"entityName": "이스라엘_민족"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 218,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 221,
+			"ancestor": "-1",
+			"surface": "민수기",
+			"entityName": "민수기"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 321,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 324,
+			"ancestor": "10-3",
+			"coref_index": 542,
+			"surface": "금우궁",
+			"entityName": "금우궁"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 329,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 332,
+			"ancestor": "10-4",
+			"coref_index": 543,
+			"surface": "천갈궁",
+			"entityName": "천갈궁"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 354,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 359,
+			"ancestor": "-1",
+			"coref_index": 546,
+			"surface": "토마스_만",
+			"entityName": "토마스_만"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Book",
+				"Work"
+			],
+			"st": 370,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 380,
+			"ancestor": "-1",
+			"surface": "요셉과_그의_형제들",
+			"entityName": "요셉과_그의_형제들"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 383,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 389,
+			"ancestor": "-1",
+			"surface": "야곱의_축복",
+			"entityName": "야곱의_축복"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 406,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 409,
+			"ancestor": "1-8",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		}
+	],
+	"plainText": "바빌로니아 황도대의 지식은 히브리어_성경에 반영되기도 했다. E. W. 벌링거는 에제키엘서와 묵시록에서 등장하는 창조물을 황도대에서 4분원의 중간에 있는 별자리로 해석했는데, 즉, 사자를 사자궁으로, 황소를 금우궁으로, 사람은 보병궁을 표현한 것으로 그리고 독수리는 천갈궁을 표현한 것으로 해석했다. 몇몇 작가들은 열두 별자리를 이스라엘의_12지파와 연관짓는다. 어니스트 L. 마틴 등은 (민수기에서 전하는) 성막을 중심으로 하는 지파들의 배치가 황도대의 순서와 일치한다고 주장해오고 있는데, 예를 들면, 유다족과 르우벤족, 에브라임족 그리고 단족이 각각 사자궁과 보병궁, 금우궁 그리고 천갈궁을 대표한다고 한다. 이와 같은 연결은 토마스_만에 의해 그의 소설 요셉과_그의_형제들에서 야곱의_축복에 대한 해석에 있어서 황도대 별자리의 특징을 각각의 지파에 귀속시킴으로 계속되었다."
+}

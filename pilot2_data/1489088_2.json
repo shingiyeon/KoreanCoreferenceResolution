@@ -1,0 +1,192 @@
+{
+	"docID": "1489088",
+	"globalSID": "3772281,3772282",
+	"pronouns": [
+		{
+			"st": 43,
+			"coref_index": 215,
+			"id": 0,
+			"en": 45,
+			"ancestor": "2-0",
+			"surface": "자신"
+		},
+		{
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "나는 제국으로",
+			"id": 1,
+			"st": 71
+		},
+		{
+			"st": 161,
+			"coref_index": 215,
+			"id": 2,
+			"en": 162,
+			"ancestor": "2-3",
+			"surface": "그"
+		},
+		{
+			"en": 166,
+			"ancestor": "-1",
+			"surface": "그의 수하",
+			"id": 3,
+			"st": 161
+		},
+		{
+			"en": 173,
+			"ancestor": "-1",
+			"surface": "그의 수하 다스_베이더",
+			"id": 4,
+			"st": 161
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter",
+				"OfficeHolder"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"entityName": "팰퍼틴",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "팰퍼틴",
+			"coref_index": 215
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 26,
+			"eType": "ELU",
+			"entityName": "제다이",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 29,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "제다이",
+			"coref_index": 214
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 38,
+			"eType": "ELU",
+			"entityName": "제다이",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 41,
+			"ancestor": "2-1",
+			"is_target": true,
+			"surface": "제다이",
+			"coref_index": 214
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter",
+				"OfficeHolder"
+			],
+			"st": 156,
+			"eType": "WIKILINK",
+			"entityName": "팰퍼틴",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 159,
+			"ancestor": "2-0",
+			"is_target": true,
+			"surface": "팰퍼틴",
+			"coref_index": 215
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"st": 167,
+			"eType": "WIKILINK",
+			"entityName": "다스_베이더",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 173,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "다스_베이더",
+			"coref_index": 219
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 5,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "구_공화국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 94,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "은하_제국",
+			"coref_index": 216
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 128,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "레아_오르가나",
+			"coref_index": 218
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 140,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "EVENT",
+			"en": 145,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "엔도_전투"
+		}
+	],
+	"plainText": "구_공화국의 의장인 팰퍼틴 의장이 오더66으로 제다이를 사살한 뒤, 제다이가 자신을 죽이려고 했다며 공화국 대신 신속한 결정이 나는 제국으로 바꾸며 탄생했다. 은하_제국은 은하계 약 24년간 주도를 잡다가 24년 후 레아_오르가나가 이끄는 반란군과의 엔도_전투에서 처참히 패하며 팰퍼틴, 그의 수하 다스_베이더가 죽고 제국군 장군/장교가 모두 사망하자 궤멸되었다."
+}

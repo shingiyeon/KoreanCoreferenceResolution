@@ -1,0 +1,352 @@
+{
+	"docID": "485858",
+	"globalSID": "2146908,2146909,2146910,2146911",
+	"pronouns": [
+		{
+			"st": 47,
+			"coref_index": 627,
+			"id": 0,
+			"en": 50,
+			"ancestor": "3-7",
+			"surface": "이 곡"
+		},
+		{
+			"st": 111,
+			"coref_index": 617,
+			"id": 1,
+			"en": 113,
+			"ancestor": "3-4",
+			"surface": "자신"
+		},
+		{
+			"en": 116,
+			"ancestor": "-1",
+			"surface": "군",
+			"id": 2,
+			"st": 115
+		},
+		{
+			"en": 122,
+			"ancestor": "-1",
+			"surface": "군에 있을 때",
+			"id": 3,
+			"st": 115
+		},
+		{
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "그것만이_내_세상〉,",
+			"id": 4,
+			"st": 142
+		},
+		{
+			"en": 178,
+			"ancestor": "-1",
+			"surface": "내게〉,",
+			"id": 5,
+			"st": 174
+		},
+		{
+			"en": 204,
+			"ancestor": "-1",
+			"surface": "그것만이",
+			"id": 6,
+			"st": 200
+		},
+		{
+			"en": 211,
+			"ancestor": "-1",
+			"surface": "내 세상〉과",
+			"id": 7,
+			"st": 205
+		},
+		{
+			"en": 221,
+			"ancestor": "-1",
+			"surface": "그대와〉는",
+			"id": 8,
+			"st": 216
+		},
+		{
+			"st": 222,
+			"coref_index": 618,
+			"id": 9,
+			"en": 226,
+			"ancestor": "1-2",
+			"surface": "이 음반"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "-1",
+			"coref_index": 616,
+			"surface": "전인권",
+			"entityName": "전인권"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 26,
+			"ancestor": "-1",
+			"coref_index": 617,
+			"surface": "최성원",
+			"entityName": "최성원_(음악가)"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 28,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 31,
+			"ancestor": "-1",
+			"coref_index": 623,
+			"surface": "허성욱",
+			"entityName": "허성욱"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 42,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 45,
+			"ancestor": "3-0",
+			"coref_index": 616,
+			"surface": "전인권",
+			"entityName": "전인권"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 106,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 109,
+			"ancestor": "3-1",
+			"coref_index": 617,
+			"surface": "최성원",
+			"entityName": "최성원"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 262,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 265,
+			"ancestor": "3-0",
+			"coref_index": 616,
+			"surface": "전인권",
+			"entityName": "전인권"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 267,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 270,
+			"ancestor": "-1",
+			"surface": "강인원",
+			"entityName": "강인원_(가수)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 1,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 627,
+			"surface": "행진",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "제작자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 79,
+			"ancestor": "-1",
+			"coref_index": 619,
+			"surface": "음악",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 96,
+			"ancestor": "1-2",
+			"coref_index": 618,
+			"surface": "앨범",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 115,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 116,
+			"ancestor": "-1",
+			"surface": "군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 142,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 151,
+			"ancestor": "-1",
+			"surface": "그것만이_내_세상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 169,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 176,
+			"ancestor": "-1",
+			"surface": "더_이상?내게",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 190,
+			"ancestor": "-1",
+			"surface": "매일_그대와",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 245,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 256,
+			"ancestor": "-1",
+			"surface": "우리_노래_전시회_I",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 272,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 274,
+			"ancestor": "3-9",
+			"coref_index": 619,
+			"surface": "노래",
+			"entityName": ""
+		}
+	],
+	"plainText": "〈행진〉은 전인권이 작사·작곡을 맡았고, 최성원과 허성욱이 편곡한 곡이다. 전인권은 이 곡을 제작자가 제촉하여 맨 마지막에 작곡했다며, \"음악이 아니라 안간힘으로 만든 앨범\"이라고 말했다. 최성원은 자신이 군에 있을 때 또는 제대 직후의 심정을 나타낸 〈그것만이_내_세상〉, 음반 제작 전에 만들어진 〈더_이상?내게〉, 그리고 〈매일_그대와〉를 작곡했다. 〈그것만이 내 세상〉과 〈매일 그대와〉는 이 음반이 나오기 1년 전에 컴필레이션 《우리_노래_전시회_I》에 각각 전인권, 강인원의 노래로 실린 바 있다."
+}

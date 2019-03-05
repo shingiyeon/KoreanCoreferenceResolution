@@ -1,0 +1,200 @@
+{
+	"docID": "656043",
+	"globalSID": "2515945,2515946,2515947,2515948,2515949",
+	"pronouns": [
+		{
+			"st": 143,
+			"coref_index": 775,
+			"id": 0,
+			"en": 145,
+			"ancestor": "1-6",
+			"surface": "그녀"
+		},
+		{
+			"en": 176,
+			"st": 173,
+			"surface": "그 후",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 47,
+			"ancestor": "",
+			"surface": "1972년",
+			"entityName": "1972년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 48,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 53,
+			"ancestor": "",
+			"surface": "8월_6일",
+			"entityName": "8월_6일"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 61,
+			"ancestor": "-1",
+			"surface": "영국",
+			"entityName": "영국"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 110,
+			"ancestor": "-1",
+			"coref_index": 773,
+			"surface": "스파이스_걸스",
+			"entityName": "스파이스_걸스"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 152,
+			"ancestor": "",
+			"surface": "1998년",
+			"entityName": "1998년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 153,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 160,
+			"ancestor": "1-3",
+			"coref_index": 773,
+			"surface": "스파이스_걸스",
+			"entityName": "스파이스_걸스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "-1",
+			"coref_index": 775,
+			"surface": "제럴딘_에스텔",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 40,
+			"ancestor": "-1",
+			"coref_index": 774,
+			"surface": "할리웰(Halliwell)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 80,
+			"ancestor": "1-7",
+			"coref_index": 774,
+			"surface": "할리웰",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 128,
+			"ancestor": "1-8",
+			"coref_index": 774,
+			"surface": "진저_스파이스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 224,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 231,
+			"ancestor": "1-5",
+			"coref_index": 773,
+			"surface": "스파이스_걸스",
+			"entityName": ""
+		}
+	],
+	"plainText": "제럴딘_에스텔 \"제리\" 호너(, 결혼 전 성은 할리웰(Halliwell), 1972년 8월_6일 ~ )는 영국의 가수, 작가, 배우이다. 할리웰은 1990년대를 대표하는 여성 팝 그룹?스파이스_걸스의 멤버로, 애칭은 진저_스파이스()이다. 그룹의 리더였던 그녀는 1998년 스파이스_걸스에서 돌연 탈퇴하였다. 그 후 솔로 데뷔앨범을 발표, 왕성한 활동을 펼치며 큰 인기를 얻었다. 2007년 재결합한 스파이스_걸스에 재합류하며, 새앨범을 발표하였고 월드투어도 함께하였다."
+}

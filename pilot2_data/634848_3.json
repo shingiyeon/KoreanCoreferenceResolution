@@ -1,0 +1,82 @@
+{
+	"docID": "634848",
+	"globalSID": "2467999,2468000",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"entityName": "파리_시",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 102,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "파리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 8,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "폴라스트롱"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 35,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "장_프랑수아_가브리엘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 69,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "잔_샤를로트_에로"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 98,
+			"ancestor": "1-8",
+			"is_target": true,
+			"surface": "딸",
+			"coref_index": 758
+		}
+	],
+	"plainText": "생애 폴라스트롱(Polastron)의 후작 장_프랑수아_가브리엘(Jean Fran?ois Gabriel)과 잔_샤를로트_에로(Jeanne Charlotte H?rault)의 딸로 파리에서 태어났다."
+}

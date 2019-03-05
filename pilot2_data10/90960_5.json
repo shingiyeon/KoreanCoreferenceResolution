@@ -1,0 +1,106 @@
+{
+	"docID": "90960",
+	"globalSID": "702886,702887,702888",
+	"pronouns": [
+		{
+			"st": 61,
+			"coref_index": 1099,
+			"id": 0,
+			"en": 63,
+			"ancestor": "5-0",
+			"surface": "이들"
+		},
+		{
+			"st": 97,
+			"coref_index": 1099,
+			"id": 1,
+			"en": 100,
+			"ancestor": "5-0",
+			"surface": "자신들"
+		},
+		{
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "자신들의 문화와 전통을",
+			"id": 2,
+			"st": 97
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 13,
+			"eType": "WIKILINK",
+			"entityName": "유대인",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 16,
+			"ancestor": "5-2",
+			"is_target": true,
+			"surface": "유대인",
+			"coref_index": 1099
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "ELU",
+			"entityName": "디아스포라",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 40,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "디아스포라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 3,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유대인",
+			"coref_index": 1099
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "2-4",
+			"is_target": true,
+			"surface": "팔레스타인_지역",
+			"coref_index": 1100
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 54,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1,800년_전"
+		}
+	],
+	"plainText": "유대인 박해와 시오니즘 유대인들이 팔레스타인_지역에서 추방된 '디아스포라'는 거의 1,800년_전의 일이다. 이들은 오랜 기간에 걸쳐서 각지로 퍼져나갔으나 긴 세월에 걸쳐서 자신들의 문화와 전통을 지키기 위하여 많은 노력을 기울였다."
+}

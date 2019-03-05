@@ -1,0 +1,135 @@
+{
+	"docID": "1279204",
+	"globalSID": "3525866,3525867",
+	"pronouns": [
+		{
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "공을",
+			"id": 0,
+			"st": 68
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "이괄의_난",
+			"entityName": "이괄의_난"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 60,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "정묘호란",
+			"entityName": "정묘호란"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "승정원",
+			"entityName": "승정원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "2-5",
+			"coref_index": 142,
+			"surface": "김시엽",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 18,
+			"ancestor": "",
+			"surface": "광해군_13년(1621)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 40,
+			"ancestor": "",
+			"surface": "인조_2년(1624)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 48,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 59,
+			"ancestor": "",
+			"surface": "인조_5년(1627)",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 80,
+			"ancestor": "2-1",
+			"coref_index": 143,
+			"surface": "병자호란",
+			"entityName": ""
+		}
+	],
+	"plainText": "김시엽은 광해군_13년(1621)에 무과에 급제하고 인조_2년(1624) 이괄의_난과 인조_5년(1627) 정묘호란 때에 공을 세웠다. 병자호란 때 전사하자 승정원 우승지 벼슬에 올랐다."
+}

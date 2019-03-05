@@ -1,0 +1,137 @@
+{
+	"docID": "1489088",
+	"globalSID": "3772292,3772293,3772294",
+	"pronouns": [
+		{
+			"st": 27,
+			"coref_index": 222,
+			"id": 0,
+			"en": 29,
+			"ancestor": "7-0",
+			"surface": "자신"
+		},
+		{
+			"en": 36,
+			"ancestor": "-1",
+			"surface": "자신의 아버지임을",
+			"id": 1,
+			"st": 27
+		},
+		{
+			"st": 41,
+			"coref_index": 219,
+			"id": 2,
+			"en": 42,
+			"ancestor": "7-1",
+			"surface": "그"
+		},
+		{
+			"en": 83,
+			"ancestor": "-1",
+			"surface": "이 검투에서",
+			"id": 3,
+			"st": 77
+		},
+		{
+			"en": 114,
+			"ancestor": "-1",
+			"surface": "이에",
+			"id": 4,
+			"st": 112
+		},
+		{
+			"st": 165,
+			"coref_index": 219,
+			"id": 5,
+			"en": 167,
+			"ancestor": "7-3",
+			"surface": "자신"
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 12,
+			"ancestor": "-1",
+			"coref_index": 222,
+			"surface": "루크_스카이워커",
+			"entityName": "루크_스카이워커"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 25,
+			"ancestor": "2-4",
+			"coref_index": 219,
+			"surface": "다스_베이더",
+			"entityName": "다스_베이더"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "광검",
+			"entityName": "광검"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"st": 132,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 138,
+			"ancestor": "7-1",
+			"coref_index": 219,
+			"surface": "다스_베이더",
+			"entityName": "다스_베이더"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"st": 140,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 149,
+			"ancestor": "7-3",
+			"coref_index": 219,
+			"surface": "아나킨_스카이워커",
+			"entityName": "아나킨_스카이워커"
+		}
+	],
+	"plainText": "한편, 루크_스카이워커는 1년 전 다스_베이더가 자신의 아버지임을 깨닫고 그를 만나러 가고, 황제 앞에서 베이더와의 광검 전투를 벌인다. 이 검투에서 루크가 승리하지만, 황제의 제자가 되지는 않았다. 이에 황제는 루크를 죽이려 하지만, 다스_베이더가 아나킨_스카이워커로 돌아오면서 황제를 없애고 자신도 죽는다."
+}

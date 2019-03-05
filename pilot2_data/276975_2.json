@@ -1,0 +1,93 @@
+{
+	"docID": "276975",
+	"globalSID": "1554400,1554401",
+	"pronouns": [
+		{
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "이 정부형태",
+			"id": 0,
+			"st": 59
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "1-1",
+			"coref_index": 401,
+			"surface": "대통령제",
+			"entityName": "대통령제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "분점정부",
+			"entityName": "분점정부"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 78,
+			"ancestor": "1-3",
+			"coref_index": 402,
+			"surface": "스리랑카",
+			"entityName": "스리랑카"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "-1",
+			"surface": "정치학자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 72,
+			"ancestor": "",
+			"surface": "2003년",
+			"entityName": ""
+		}
+	],
+	"plainText": "정치학자들은 동거 정부가 대통령제 하에서 자주 등장하는 분점정부의 대안이 될 수 있다고 지적한다. 그러나 이 정부형태는 2003년에 스리랑카가 보인 극단적인 정치적 긴장 을 유발할 수도 있다."
+}

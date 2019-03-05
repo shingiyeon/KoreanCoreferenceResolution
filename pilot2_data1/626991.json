@@ -1,0 +1,620 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "고촉통",
+			"en": 3,
+			"is_target": true,
+			"surface": "고촉통",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 30,
+			"eType": "WIKILINK",
+			"entityName": "싱가포르",
+			"en": 34,
+			"is_target": true,
+			"surface": "싱가포르",
+			"coref_index": 745,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 36,
+			"eType": "WIKILINK",
+			"entityName": "정치가",
+			"en": 39,
+			"is_target": true,
+			"surface": "정치가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 12,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 24,
+			"is_target": false,
+			"surface": "1941년_5월_21일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "리콴유",
+			"en": 46,
+			"is_target": true,
+			"surface": "리콴유",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 59,
+			"eType": "WIKILINK",
+			"entityName": "1990년",
+			"en": 64,
+			"is_target": false,
+			"surface": "1990년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 67,
+			"eType": "WIKILINK",
+			"entityName": "2004년",
+			"en": 72,
+			"is_target": false,
+			"surface": "2004년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 75,
+			"eType": "WIKILINK",
+			"entityName": "싱가포르",
+			"en": 79,
+			"is_target": true,
+			"surface": "싱가포르",
+			"coref_index": 745,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 97,
+			"eType": "WIKILINK",
+			"entityName": "2011년_5월",
+			"en": 105,
+			"is_target": true,
+			"surface": "2011년_5월",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 108,
+			"eType": "WIKILINK",
+			"entityName": ":en:Senior_Minister",
+			"en": 112,
+			"is_target": true,
+			"surface": "선임장관",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 132,
+			"eType": "WIKILINK",
+			"entityName": ":en:Monetary_Authority_of_Singapore",
+			"en": 137,
+			"is_target": true,
+			"surface": "금융관리청",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 176,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 178,
+			"is_target": true,
+			"surface": "청장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 194,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 198,
+			"is_target": true,
+			"surface": "국회의원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 200,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 207,
+			"is_target": true,
+			"surface": "명예_선임장관",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "TIME",
+			"st": 247,
+			"eType": "NEW",
+			"en": 249,
+			"entityName": "",
+			"is_target": true,
+			"surface": "생애",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 256,
+			"eType": "ELU",
+			"entityName": "싱가포르",
+			"en": 260,
+			"is_target": true,
+			"surface": "싱가포르",
+			"coref_index": 745,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 298,
+			"eType": "ELU",
+			"entityName": "하카_(민족)",
+			"en": 301,
+			"is_target": true,
+			"surface": "객가인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 17,
+			"ne_type": "TIME",
+			"st": 322,
+			"eType": "WIKILINK",
+			"entityName": "1955년",
+			"en": 327,
+			"is_target": false,
+			"surface": "1955년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 18,
+			"ne_type": "TIME",
+			"st": 389,
+			"eType": "WIKILINK",
+			"entityName": "1961년",
+			"en": 394,
+			"is_target": false,
+			"surface": "1961년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 395,
+			"eType": "WIKILINK",
+			"entityName": "싱가포르_국립_대학교",
+			"en": 406,
+			"is_target": true,
+			"surface": "싱가포르_국립_대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 415,
+			"eType": "WIKILINK",
+			"entityName": "1964년",
+			"en": 420,
+			"is_target": false,
+			"surface": "1964년",
+			"coref_index": 747,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 421,
+			"eType": "WIKILINK",
+			"entityName": "경제학",
+			"en": 424,
+			"is_target": true,
+			"surface": "경제학",
+			"coref_index": 746,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 466,
+			"eType": "WIKILINK",
+			"entityName": "1965년",
+			"en": 471,
+			"is_target": false,
+			"surface": "1965년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 485,
+			"eType": "WIKILINK",
+			"entityName": ":en:Tan_Choo_Leng",
+			"en": 488,
+			"is_target": true,
+			"surface": "탄추렁",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 24,
+			"ne_type": "TIME",
+			"st": 526,
+			"eType": "WIKILINK",
+			"entityName": "1966년",
+			"en": 531,
+			"is_target": false,
+			"surface": "1966년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 25,
+			"ne_type": "LOCATION",
+			"st": 532,
+			"eType": "WIKILINK",
+			"entityName": "미국",
+			"en": 534,
+			"is_target": true,
+			"surface": "미국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"id": 26,
+			"ne_type": "ORGANIZATION",
+			"st": 541,
+			"eType": "WIKILINK",
+			"entityName": "윌리엄스_대학교",
+			"en": 549,
+			"is_target": true,
+			"surface": "윌리엄스_대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 562,
+			"eType": "ELU",
+			"entityName": "석사",
+			"en": 566,
+			"is_target": true,
+			"surface": "석사학위",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "LOCATION",
+			"st": 261,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 266,
+			"is_target": true,
+			"surface": "바투_파핫",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "LOCATION",
+			"st": 305,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 315,
+			"is_target": true,
+			"surface": "민난_복건성_콴저우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"st": 328,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 337,
+			"is_target": true,
+			"surface": "라플스_인스티튜션",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 372,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 375,
+			"is_target": true,
+			"surface": "학생회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "PERSON",
+			"st": 376,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 378,
+			"is_target": true,
+			"surface": "각주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "EVENT",
+			"st": 505,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 507,
+			"is_target": true,
+			"surface": "결혼",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ORGANIZATION",
+			"st": 472,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 475,
+			"is_target": true,
+			"surface": "중학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ORGANIZATION",
+			"st": 451,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 453,
+			"is_target": true,
+			"surface": "정부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 558,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 561,
+			"is_target": true,
+			"surface": "경제학",
+			"coref_index": 746,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "EVENT",
+			"st": 367,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 369,
+			"is_target": true,
+			"surface": "입학",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "EVENT",
+			"st": 459,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 461,
+			"is_target": true,
+			"surface": "취임",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2450136,2450137,2450138,2450139,2450140,2450141,2450142,2450143,2450144,2450145,2450146",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-20",
+			"st": 446,
+			"en": 450,
+			"surface": "같은 해",
+			"coref_index": 747
+		},
+		{
+			"id": 1,
+			"en": 454,
+			"surface": "같은 해 정부의",
+			"st": 446,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"en": 458,
+			"surface": "같은 해 정부의 관직에",
+			"st": 446,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "고촉통(, , , , 1941년_5월_21일 ~ )은 싱가포르의 정치가이다. 리콴유(李光耀)의 뒤를 이어 1990년부터 2004년까지 싱가포르의 제2대 총리를 지냈다. 이후 2011년_5월까지 선임장관(Senior Minister) 겸 금융관리청(Monetary Authority of Singapore, MAS) 청장을 역임하고 2선으로 물러나 국회의원과 명예_선임장관(Emeritus Senior Minister) 직만을 유지하고 있다. 생애 어린 시절 싱가포르 바투_파핫(Batu Pahat, ?株巴?)에서 태어났다. 아버지는 객가인으로, 민난_복건성_콴저우 출신이다. 1955년 라플스_인스티튜션(Raffles Institution, ?佛士?院)에 입학하여，학생회 각주(主席)을 맡았다. 1961년 싱가포르_국립_대학교에 입학하였으며 1964년 경제학 1등 명예학위(一等???位)를 받았고 같은 해 정부의 관직에 취임하였다. 1965년 중학교 친구였던 변호사 탄추렁(陳子玲, 천쯔링, 진자령)과 결혼하여 슬하에 쌍둥이 딸을 두었다. 1966년 미국으로 건너가 윌리엄스_대학교에 입학하였으며 경제학 석사학위를 받았다. ",
+	"docID": "626991"
+}

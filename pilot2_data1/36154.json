@@ -1,0 +1,2160 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 0,
+			"ne_type": "TIME",
+			"st": 20,
+			"eType": "WIKILINK",
+			"entityName": "2010년",
+			"en": 25,
+			"is_target": false,
+			"surface": "2010년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "TIME",
+			"st": 26,
+			"eType": "WIKILINK",
+			"entityName": "2월_12일",
+			"en": 32,
+			"is_target": false,
+			"surface": "2월_12일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 2,
+			"ne_type": "TIME",
+			"st": 35,
+			"eType": "WIKILINK",
+			"entityName": "2010년",
+			"en": 40,
+			"is_target": false,
+			"surface": "2010년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "2월_28일",
+			"en": 47,
+			"is_target": false,
+			"surface": "2월_28일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 4,
+			"ne_type": "LOCATION",
+			"st": 50,
+			"eType": "WIKILINK",
+			"entityName": "캐나다",
+			"en": 53,
+			"is_target": true,
+			"surface": "캐나다",
+			"coref_index": 490,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 5,
+			"ne_type": "LOCATION",
+			"st": 54,
+			"eType": "WIKILINK",
+			"entityName": "브리티시컬럼비아_주",
+			"en": 64,
+			"is_target": true,
+			"surface": "브리티시컬럼비아_주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 6,
+			"ne_type": "LOCATION",
+			"st": 66,
+			"eType": "WIKILINK",
+			"entityName": "밴쿠버",
+			"en": 69,
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Town",
+				"Place"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 71,
+			"eType": "WIKILINK",
+			"entityName": "휘슬러_(브리티시컬럼비아_주)",
+			"en": 74,
+			"is_target": true,
+			"surface": "휘슬러",
+			"coref_index": 495,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "동계_올림픽",
+			"en": 87,
+			"is_target": true,
+			"surface": "동계_올림픽",
+			"coref_index": 489,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 91,
+			"eType": "WIKILINK",
+			"entityName": "동계_올림픽",
+			"en": 97,
+			"is_target": true,
+			"surface": "동계_올림픽",
+			"coref_index": 489,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 130,
+			"eType": "WIKILINK",
+			"entityName": "2010년_동계_패럴림픽",
+			"en": 143,
+			"is_target": true,
+			"surface": "2010년_동계_패럴림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 145,
+			"eType": "ELU",
+			"entityName": "밴쿠버_동계_올림픽_조직위원회",
+			"en": 156,
+			"is_target": true,
+			"surface": "밴쿠버올림픽조직위원회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "EVENT",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 12,
+			"is_target": true,
+			"surface": "2010년_동계_올림픽",
+			"coref_index": 504,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 13,
+			"ne_type": "LOCATION",
+			"st": 187,
+			"eType": "WIKILINK",
+			"entityName": "캐나다",
+			"en": 190,
+			"is_target": true,
+			"surface": "캐나다",
+			"coref_index": 490,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 198,
+			"eType": "WIKILINK",
+			"entityName": "올림픽",
+			"en": 201,
+			"is_target": true,
+			"surface": "올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 214,
+			"eType": "ELU",
+			"entityName": "브리티시컬럼비아_주",
+			"en": 222,
+			"is_target": true,
+			"surface": "브리티시컬럼비아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 16,
+			"ne_type": "LOCATION",
+			"st": 242,
+			"eType": "WIKILINK",
+			"entityName": "캐나다",
+			"en": 245,
+			"is_target": true,
+			"surface": "캐나다",
+			"coref_index": 490,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 249,
+			"eType": "WIKILINK",
+			"entityName": "1976년_하계_올림픽",
+			"en": 261,
+			"is_target": true,
+			"surface": "1976년_하계_올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 18,
+			"ne_type": "LOCATION",
+			"st": 263,
+			"eType": "WIKILINK",
+			"entityName": "몬트리올",
+			"en": 267,
+			"is_target": true,
+			"surface": "몬트리올",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 271,
+			"eType": "WIKILINK",
+			"entityName": "1988년_동계_올림픽",
+			"en": 283,
+			"is_target": true,
+			"surface": "1988년_동계_올림픽",
+			"coref_index": 494,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 20,
+			"ne_type": "LOCATION",
+			"st": 285,
+			"eType": "WIKILINK",
+			"entityName": "캘거리",
+			"en": 288,
+			"is_target": true,
+			"surface": "캘거리",
+			"coref_index": 493,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 305,
+			"eType": "WIKILINK",
+			"entityName": "NHL",
+			"en": 308,
+			"is_target": true,
+			"surface": "NHL",
+			"coref_index": 491,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 321,
+			"eType": "WIKILINK",
+			"entityName": "1998년_동계_올림픽",
+			"en": 333,
+			"is_target": true,
+			"surface": "1998년_동계_올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 351,
+			"eType": "WIKILINK",
+			"entityName": "NHL",
+			"en": 354,
+			"is_target": true,
+			"surface": "NHL",
+			"coref_index": 491,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "TIME",
+			"st": 173,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 185,
+			"is_target": false,
+			"surface": "2010년_동계_올림픽",
+			"coref_index": 509,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 25,
+			"ne_type": "LOCATION",
+			"st": 387,
+			"eType": "WIKILINK",
+			"en": 390,
+			"entityName": "밴쿠버",
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 403,
+			"eType": "WIKILINK",
+			"en": 415,
+			"entityName": "2006년_동계_올림픽",
+			"is_target": true,
+			"surface": "2006년_동계_올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 422,
+			"eType": "WIKILINK",
+			"en": 426,
+			"entityName": "올림픽기",
+			"is_target": true,
+			"surface": "올림픽기",
+			"coref_index": 510,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 503,
+			"eType": "WIKILINK",
+			"en": 508,
+			"entityName": "미카엘_장",
+			"is_target": true,
+			"surface": "미카엘_장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 396,
+			"eType": "NEW",
+			"en": 401,
+			"entityName": "",
+			"is_target": true,
+			"surface": "샘_설리반",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "TIME",
+			"st": 438,
+			"eType": "NEW",
+			"en": 450,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2006년_2월_28일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 463,
+			"eType": "NEW",
+			"en": 466,
+			"entityName": "",
+			"is_target": true,
+			"surface": "올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 475,
+			"eType": "NEW",
+			"en": 478,
+			"entityName": "",
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 479,
+			"eType": "NEW",
+			"en": 481,
+			"entityName": "",
+			"is_target": true,
+			"surface": "시청",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 495,
+			"eType": "NEW",
+			"en": 501,
+			"entityName": "",
+			"is_target": true,
+			"surface": "캐나다_총독",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "LOCATION",
+			"st": 529,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 531,
+			"is_target": true,
+			"surface": "도시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 535,
+			"eType": "ELU",
+			"en": 538,
+			"entityName": "캐나다",
+			"is_target": true,
+			"surface": "캐나다",
+			"coref_index": 490,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 549,
+			"eType": "ELU",
+			"en": 558,
+			"entityName": "캐나다_올림픽_위원회",
+			"is_target": true,
+			"surface": "캐나다올림픽위원회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 38,
+			"ne_type": "LOCATION",
+			"st": 565,
+			"eType": "WIKILINK",
+			"en": 568,
+			"entityName": "밴쿠버",
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 570,
+			"eType": "WIKILINK",
+			"en": 572,
+			"entityName": "퀘벡_주",
+			"is_target": true,
+			"surface": "퀘벡",
+			"coref_index": 496,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 573,
+			"eType": "WIKILINK",
+			"en": 585,
+			"entityName": "2002년_동계_올림픽",
+			"is_target": true,
+			"surface": "2002년_동계_올림픽",
+			"coref_index": 505,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 41,
+			"ne_type": "LOCATION",
+			"st": 598,
+			"eType": "WIKILINK",
+			"en": 601,
+			"entityName": "캘거리",
+			"is_target": true,
+			"surface": "캘거리",
+			"coref_index": 493,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 602,
+			"eType": "WIKILINK",
+			"en": 614,
+			"entityName": "1988년_동계_올림픽",
+			"is_target": true,
+			"surface": "1988년_동계_올림픽",
+			"coref_index": 494,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 43,
+			"ne_type": "LOCATION",
+			"st": 621,
+			"eType": "WIKILINK",
+			"en": 624,
+			"entityName": "밴쿠버",
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 44,
+			"ne_type": "TIME",
+			"st": 645,
+			"eType": "WIKILINK",
+			"en": 650,
+			"entityName": "1998년",
+			"is_target": false,
+			"surface": "1998년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "TIME",
+			"st": 651,
+			"eType": "WIKILINK",
+			"en": 658,
+			"entityName": "11월_21일",
+			"is_target": false,
+			"surface": "11월_21일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 46,
+			"ne_type": "LOCATION",
+			"st": 665,
+			"eType": "WIKILINK",
+			"en": 668,
+			"entityName": "밴쿠버",
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-43"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 669,
+			"eType": "WIKILINK",
+			"en": 672,
+			"entityName": "휘슬러",
+			"is_target": true,
+			"surface": "휘슬러",
+			"coref_index": 495,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 48,
+			"ne_type": "LOCATION",
+			"st": 693,
+			"eType": "WIKILINK",
+			"en": 696,
+			"entityName": "캘거리",
+			"is_target": true,
+			"surface": "캘거리",
+			"coref_index": 493,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 49,
+			"ne_type": "TIME",
+			"st": 708,
+			"eType": "WIKILINK",
+			"en": 713,
+			"entityName": "1998년",
+			"is_target": false,
+			"surface": "1998년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "TIME",
+			"st": 714,
+			"eType": "WIKILINK",
+			"en": 720,
+			"entityName": "12월_3일",
+			"is_target": false,
+			"surface": "12월_3일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 51,
+			"ne_type": "LOCATION",
+			"st": 777,
+			"eType": "WIKILINK",
+			"en": 780,
+			"entityName": "밴쿠버",
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 52,
+			"ne_type": "LOCATION",
+			"st": 800,
+			"eType": "WIKILINK",
+			"en": 803,
+			"entityName": "밴쿠버",
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-43"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "ORGANIZATION",
+			"st": 684,
+			"eType": "NEW",
+			"en": 686,
+			"entityName": "",
+			"is_target": true,
+			"surface": "퀘벡",
+			"coref_index": 496,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ORGANIZATION",
+			"st": 787,
+			"eType": "NEW",
+			"en": 789,
+			"entityName": "",
+			"is_target": true,
+			"surface": "퀘벡",
+			"coref_index": 496,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 55,
+			"ne_type": "LOCATION",
+			"st": 817,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 821,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 502,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 832,
+			"eType": "WIKILINK",
+			"entityName": "대한올림픽위원회",
+			"en": 840,
+			"is_target": true,
+			"surface": "대한올림픽위원회",
+			"coref_index": 499,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 57,
+			"ne_type": "LOCATION",
+			"st": 847,
+			"eType": "WIKILINK",
+			"entityName": "무주군",
+			"en": 849,
+			"is_target": true,
+			"surface": "무주",
+			"coref_index": 498,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 58,
+			"ne_type": "LOCATION",
+			"st": 851,
+			"eType": "WIKILINK",
+			"entityName": "평창군",
+			"en": 853,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 59,
+			"ne_type": "LOCATION",
+			"st": 866,
+			"eType": "WIKILINK",
+			"entityName": "평창군",
+			"en": 868,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 60,
+			"ne_type": "LOCATION",
+			"st": 925,
+			"eType": "WIKILINK",
+			"entityName": "강원도",
+			"en": 928,
+			"is_target": true,
+			"surface": "강원도",
+			"coref_index": 501,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "ETC",
+			"st": 930,
+			"eType": "WIKILINK",
+			"entityName": "평창",
+			"en": 932,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-59"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 62,
+			"ne_type": "LOCATION",
+			"st": 966,
+			"eType": "WIKILINK",
+			"entityName": "전라북도",
+			"en": 970,
+			"is_target": true,
+			"surface": "전라북도",
+			"coref_index": 500,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 974,
+			"eType": "WIKILINK",
+			"entityName": "1997년_동계_유니버시아드",
+			"en": 989,
+			"is_target": true,
+			"surface": "1997년_동계_유니버시아드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 996,
+			"eType": "WIKILINK",
+			"entityName": "무주",
+			"en": 998,
+			"is_target": true,
+			"surface": "무주",
+			"coref_index": 498,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ETC",
+			"st": 1063,
+			"eType": "ELU",
+			"entityName": "대한체육회",
+			"en": 1071,
+			"is_target": true,
+			"surface": "대한올림픽위원회",
+			"coref_index": 499,
+			"ancestor": "1-56"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 1113,
+			"eType": "WIKILINK",
+			"entityName": "국제스키연맹",
+			"en": 1119,
+			"is_target": true,
+			"surface": "국제스키연맹",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 67,
+			"ne_type": "LOCATION",
+			"st": 1212,
+			"eType": "ELU",
+			"entityName": "전라북도",
+			"en": 1216,
+			"is_target": true,
+			"surface": "전라북도",
+			"coref_index": 500,
+			"ancestor": "1-62"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 68,
+			"ne_type": "LOCATION",
+			"st": 1218,
+			"eType": "ELU",
+			"entityName": "강원도",
+			"en": 1221,
+			"is_target": true,
+			"surface": "강원도",
+			"coref_index": 501,
+			"ancestor": "1-60"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ETC",
+			"st": 1227,
+			"eType": "ELU",
+			"entityName": "대한체육회",
+			"en": 1235,
+			"is_target": true,
+			"surface": "대한올림픽위원회",
+			"coref_index": 499,
+			"ancestor": "1-56"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 70,
+			"ne_type": "ETC",
+			"st": 1237,
+			"eType": "WIKILINK",
+			"entityName": "2014년_동계_올림픽",
+			"en": 1249,
+			"is_target": true,
+			"surface": "2014년_동계_올림픽",
+			"coref_index": 503,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "ETC",
+			"st": 1345,
+			"eType": "ELU",
+			"entityName": "우선권",
+			"en": 1348,
+			"is_target": true,
+			"surface": "우선권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 72,
+			"ne_type": "LOCATION",
+			"st": 1444,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 1448,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 502,
+			"ancestor": "1-55"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1457,
+			"eType": "WIKILINK",
+			"entityName": "평창",
+			"en": 1459,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-59"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 1469,
+			"eType": "WIKILINK",
+			"entityName": "2014년_동계_올림픽",
+			"en": 1481,
+			"is_target": true,
+			"surface": "2014년_동계_올림픽",
+			"coref_index": 503,
+			"ancestor": "1-70"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "TIME",
+			"st": 906,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 915,
+			"is_target": false,
+			"surface": "2000년_10월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "EVENT",
+			"st": 943,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 955,
+			"is_target": true,
+			"surface": "2010년_동계_올림픽",
+			"coref_index": 504,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "TIME",
+			"st": 1048,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1061,
+			"is_target": false,
+			"surface": "2001년_11월_16일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "LOCATION",
+			"st": 1121,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1123,
+			"is_target": true,
+			"surface": "무주",
+			"coref_index": 498,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "TIME",
+			"st": 1160,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1171,
+			"is_target": false,
+			"surface": "2002년_1월_9일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ORGANIZATION",
+			"st": 1172,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1186,
+			"is_target": true,
+			"surface": "대한올림픽위원회_임시위원회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "LOCATION",
+			"st": 1262,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1264,
+			"is_target": true,
+			"surface": "무주",
+			"coref_index": 498,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "EVENT",
+			"st": 1291,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1302,
+			"is_target": true,
+			"surface": "2010년_동계올림픽",
+			"coref_index": 504,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "LOCATION",
+			"st": 1310,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1312,
+			"is_target": true,
+			"surface": "무주",
+			"coref_index": 498,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "LOCATION",
+			"st": 1314,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1316,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "TIME",
+			"st": 1329,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1334,
+			"is_target": false,
+			"surface": "2014년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "TIME",
+			"st": 1377,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1389,
+			"is_target": false,
+			"surface": "2010년_5월_25일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ORGANIZATION",
+			"st": 1391,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1409,
+			"is_target": true,
+			"surface": "대한올림픽위원회_제7차_상임위원회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "LOCATION",
+			"st": 1412,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1414,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "EVENT",
+			"st": 1430,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1442,
+			"is_target": true,
+			"surface": "2010년_동계_올림픽",
+			"coref_index": 504,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "LOCATION",
+			"st": 1485,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1487,
+			"is_target": true,
+			"surface": "무주",
+			"coref_index": 498,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 91,
+			"ne_type": "ETC",
+			"st": 1517,
+			"eType": "WIKILINK",
+			"en": 1529,
+			"entityName": "2002년_동계_올림픽",
+			"is_target": true,
+			"surface": "2002년_동계_올림픽",
+			"coref_index": 505,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"Currency"
+			],
+			"id": 92,
+			"ne_type": "ETC",
+			"st": 1592,
+			"eType": "WIKILINK",
+			"en": 1598,
+			"entityName": "캐나다_달러",
+			"is_target": true,
+			"surface": "캐나다_달러",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 93,
+			"ne_type": "TIME",
+			"st": 1606,
+			"eType": "WIKILINK",
+			"en": 1611,
+			"entityName": "1999년",
+			"is_target": false,
+			"surface": "1999년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "ETC",
+			"st": 1640,
+			"eType": "WIKILINK",
+			"en": 1643,
+			"entityName": "IOC",
+			"is_target": true,
+			"surface": "IOC",
+			"coref_index": 506,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 95,
+			"ne_type": "TIME",
+			"st": 1645,
+			"eType": "WIKILINK",
+			"en": 1650,
+			"entityName": "2002년",
+			"is_target": false,
+			"surface": "2002년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "TIME",
+			"st": 1651,
+			"eType": "WIKILINK",
+			"en": 1658,
+			"entityName": "10월_24일",
+			"is_target": false,
+			"surface": "10월_24일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 97,
+			"ne_type": "ETC",
+			"st": 1671,
+			"eType": "WIKILINK",
+			"en": 1683,
+			"entityName": "2008년_하계_올림픽",
+			"is_target": true,
+			"surface": "2008년_하계_올림픽",
+			"coref_index": 508,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 98,
+			"ne_type": "PERSON",
+			"st": 1540,
+			"eType": "NEW",
+			"en": 1545,
+			"entityName": "",
+			"is_target": true,
+			"surface": "솔트레이크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 99,
+			"ne_type": "ORGANIZATION",
+			"st": 1567,
+			"eType": "NEW",
+			"en": 1569,
+			"entityName": "",
+			"is_target": true,
+			"surface": "퀘벡",
+			"coref_index": 496,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 100,
+			"ne_type": "LOCATION",
+			"st": 1806,
+			"eType": "NEW",
+			"en": 1813,
+			"entityName": "",
+			"is_target": true,
+			"surface": "올림픽_개최지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 101,
+			"ne_type": "LOCATION",
+			"st": 1613,
+			"eType": "NEW",
+			"en": 1620,
+			"entityName": "",
+			"is_target": true,
+			"surface": "올림픽_개최지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 102,
+			"ne_type": "ORGANIZATION",
+			"st": 1882,
+			"eType": "NEW",
+			"en": 1885,
+			"entityName": "",
+			"is_target": true,
+			"surface": "IOC",
+			"coref_index": 506,
+			"ancestor": "1-94"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 103,
+			"ne_type": "TIME",
+			"st": 1943,
+			"eType": "NEW",
+			"en": 1951,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2003년_3월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 104,
+			"ne_type": "TIME",
+			"st": 1917,
+			"eType": "NEW",
+			"en": 1925,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2003년_1월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 105,
+			"ne_type": "LOCATION",
+			"st": 1966,
+			"eType": "WIKILINK",
+			"entityName": "밴쿠버",
+			"en": 1969,
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-52"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 106,
+			"ne_type": "LOCATION",
+			"st": 2035,
+			"eType": "ELU",
+			"entityName": "밴쿠버",
+			"en": 2038,
+			"is_target": true,
+			"surface": "벤쿠버",
+			"coref_index": 492,
+			"ancestor": "1-105"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 107,
+			"ne_type": "LOCATION",
+			"st": 1988,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1991,
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-105"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 108,
+			"ne_type": "LOCATION",
+			"st": 2047,
+			"eType": "ELU",
+			"entityName": "밴쿠버",
+			"en": 2050,
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-105"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 109,
+			"ne_type": "LOCATION",
+			"st": 2065,
+			"eType": "WIKILINK",
+			"entityName": "체코",
+			"en": 2067,
+			"is_target": true,
+			"surface": "체코",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 110,
+			"ne_type": "LOCATION",
+			"st": 2069,
+			"eType": "WIKILINK",
+			"entityName": "프라하",
+			"en": 2072,
+			"is_target": true,
+			"surface": "프라하",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 111,
+			"ne_type": "ETC",
+			"st": 2112,
+			"eType": "WIKILINK",
+			"entityName": "IOC",
+			"en": 2115,
+			"is_target": true,
+			"surface": "IOC",
+			"coref_index": 506,
+			"ancestor": "1-102"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 112,
+			"ne_type": "PERSON",
+			"st": 2121,
+			"eType": "WIKILINK",
+			"entityName": "자크_로게",
+			"en": 2126,
+			"is_target": true,
+			"surface": "자크_로게",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 113,
+			"ne_type": "LOCATION",
+			"st": 2134,
+			"eType": "WIKILINK",
+			"entityName": "밴쿠버",
+			"en": 2137,
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-105"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 114,
+			"ne_type": "ETC",
+			"st": 2146,
+			"eType": "WIKILINK",
+			"entityName": "평창",
+			"en": 2148,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 115,
+			"ne_type": "LOCATION",
+			"st": 2150,
+			"eType": "WIKILINK",
+			"entityName": "잘츠부르크",
+			"en": 2155,
+			"is_target": true,
+			"surface": "잘츠부르크",
+			"coref_index": 507,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 116,
+			"ne_type": "ETC",
+			"st": 2167,
+			"eType": "WIKILINK",
+			"entityName": "평창",
+			"en": 2169,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-114"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 117,
+			"ne_type": "LOCATION",
+			"st": 2218,
+			"eType": "WIKILINK",
+			"entityName": "잘츠부르크",
+			"en": 2223,
+			"is_target": true,
+			"surface": "잘츠부르크",
+			"coref_index": 507,
+			"ancestor": "1-115"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 118,
+			"ne_type": "LOCATION",
+			"st": 2239,
+			"eType": "ELU",
+			"entityName": "밴쿠버",
+			"en": 2242,
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-113"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 119,
+			"ne_type": "LOCATION",
+			"st": 2302,
+			"eType": "ELU",
+			"entityName": "밴쿠버",
+			"en": 2305,
+			"is_target": true,
+			"surface": "밴쿠버",
+			"coref_index": 492,
+			"ancestor": "1-105"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 120,
+			"ne_type": "LOCATION",
+			"st": 2311,
+			"eType": "WIKILINK",
+			"entityName": "토론토",
+			"en": 2314,
+			"is_target": true,
+			"surface": "토론토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 121,
+			"ne_type": "LOCATION",
+			"st": 2316,
+			"eType": "WIKILINK",
+			"entityName": "베이징",
+			"en": 2319,
+			"is_target": true,
+			"surface": "베이징",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 122,
+			"ne_type": "ETC",
+			"st": 2321,
+			"eType": "WIKILINK",
+			"entityName": "2008년_하계_올림픽",
+			"en": 2333,
+			"is_target": true,
+			"surface": "2008년_하계_올림픽",
+			"coref_index": 508,
+			"ancestor": "1-97"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 123,
+			"ne_type": "TIME",
+			"st": 2052,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2063,
+			"is_target": false,
+			"surface": "2003년_7월_2일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 124,
+			"ne_type": "ORGANIZATION",
+			"st": 2078,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2090,
+			"is_target": true,
+			"surface": "제115차_IOC_총회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 125,
+			"ne_type": "LOCATION",
+			"st": 2282,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2284,
+			"is_target": true,
+			"surface": "평창",
+			"coref_index": 497,
+			"ancestor": "1-114"
+		}
+	],
+	"globalSID": "356717,356718,356719,356720,356721,356722,356723,356724,356725,356726,356727,356728,356729,356730,356731,356732,356733,356734,356735,356736,356737,356738,356739,356740,356741,356742,356743,356744,356745,356746,356747,356748,356749,356750,356751,356752,356753",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 241,
+			"ancestor": "-1",
+			"st": 237,
+			"surface": "그 전에"
+		},
+		{
+			"id": 1,
+			"ancestor": "1-24",
+			"st": 296,
+			"en": 300,
+			"surface": "이 대회",
+			"coref_index": 509
+		},
+		{
+			"id": 2,
+			"ancestor": "1-27",
+			"st": 433,
+			"en": 436,
+			"surface": "이 기",
+			"coref_index": 510
+		},
+		{
+			"id": 3,
+			"en": 494,
+			"ancestor": "-1",
+			"st": 489,
+			"surface": "이 행사는"
+		},
+		{
+			"id": 4,
+			"en": 776,
+			"ancestor": "-1",
+			"st": 772,
+			"surface": "그 결과"
+		},
+		{
+			"id": 5,
+			"en": 1211,
+			"surface": "그 후,",
+			"st": 1207,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 1325,
+			"surface": "그",
+			"st": 1324,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 1328,
+			"surface": "그 대신",
+			"st": 1324,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 1371,
+			"surface": "이 내용을",
+			"st": 1366,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"en": 1376,
+			"surface": "이 내용을 바탕으로",
+			"st": 1366,
+			"ancestor": "-1"
+		},
+		{
+			"id": 10,
+			"en": 1562,
+			"ancestor": "-1",
+			"st": 1560,
+			"surface": "그로"
+		},
+		{
+			"id": 11,
+			"en": 1723,
+			"ancestor": "-1",
+			"st": 1718,
+			"surface": "그 도시에"
+		},
+		{
+			"id": 12,
+			"en": 1730,
+			"ancestor": "-1",
+			"st": 1718,
+			"surface": "그 도시에 대한 관광을"
+		},
+		{
+			"id": 13,
+			"en": 1805,
+			"ancestor": "-1",
+			"st": 1801,
+			"surface": "그 후,"
+		},
+		{
+			"id": 14,
+			"en": 2347,
+			"ancestor": "-1",
+			"st": 2316,
+			"surface": "베이징에 2008년_하계_올림픽 투표에서 완패를 당한 지"
+		}
+	],
+	"plainText": "2010년_동계_올림픽(, , )은 2010년 2월_12일부터 2010년 2월_28일까지 캐나다 브리티시컬럼비아_주의 밴쿠버와 휘슬러에서 개최된 동계_올림픽이다. 동계_올림픽으로는 21번째로 열린 대회이다. 2010년 동계 올림픽과 2010년_동계_패럴림픽은 밴쿠버올림픽조직위원회(VANOC)에서 주관하였다. 2010년_동계_올림픽은 캐나다가 세 번째로 올림픽을 개최하는 대회이며, 브리티시컬럼비아에서는 첫 번째로 열렸다. 그 전에 캐나다에서는 1976년_하계_올림픽을 몬트리올에서, 1988년_동계_올림픽을 캘거리에서 열었다. 이 대회는 또한 NHL리그가 선수들로 하여금 1998년_동계_올림픽을 출전할 수 있도록 한 이래로 NHL리그가 있는 곳 에서 열리는 최초의 대회가 되었다. 관례상 밴쿠버의 시장인 샘_설리반이 2006년_동계_올림픽 폐막식 때 올림픽기를 받았다. 이 기는 2006년_2월_28일 특별한 행사를 통해서 올림픽_개최식 전까지 밴쿠버 시청에 전시됐다. 이 행사는 캐나다_총독인 미카엘_장에 의해 공식적으로 거행되었다. 개최 도시 선정 캐나다의 후보 도시 선정 캐나다올림픽위원회(COA)는 밴쿠버, 퀘벡(2002년_동계_올림픽개최 실패후 재도전), 캘거리(1988년_동계_올림픽개최지) 중 밴쿠버를 후보지로 선정하였다. 1차 선거는 1998년 11월_21일에 열렸으며 밴쿠버-휘슬러가 26표를 얻었으며 퀘벡은 25표, 캘거리는 21표를 얻었다. 1998년 12월_3일에는 최종선거를 실시했으며 세 도시 중 가장 많은 표를 얻은 상위 두 도시가 후보에 올랐다. 그 결과 밴쿠버는 40표, 퀘벡은 32표를 얻어서 밴쿠버가 후보지로 선정되었다. 대한민국의 후보 도시 선정 대한올림픽위원회(KOC)는 무주와 평창의 개최 후보 도시 중 평창을 개최 후보 도시로 선정하였다. 두 도시의 개최 후보 도시 경쟁은 2000년_10월부터 시작되었다. 강원도가 평창을 후보지로 앞세워 2010년_동계_올림픽 유치를 선언하자, 전라북도에서도 1997년_동계_유니버시아드의 개최지인 무주를 후보지로 앞세워 유치를 선언하였다. 지역적 대립 양상을 보이던 유지 후보 선정 과정이 2001년_11월_16일에 대한올림픽위원회에서 두 후보지를 공동 개최지로 결정하여 대립이 마무리 되는 듯 하였으나, 국제스키연맹이 무주에 대해 실사하여 부적격 판정을 하자 두 지역간의 대립 끝에 결국 2002년_1월_9일 대한올림픽위원회_임시위원회에서 평창을 주 개최지로 선정하였다. 그 후, 전라북도와 강원도, 그리고 대한올림픽위원회가 2014년_동계_올림픽 후보지 선정 과정까지 무주가 국제 시설기준을 충족하는 것을 전제로 하여, 2010년_동계올림픽 유치 도시는 무주가 평창에 양보하고, 그 대신 2014년 단독 유치 신청은 우선권을 갖는다는 합의문을 작성하여, 이 내용을 바탕으로 2010년_5월_25일에 대한올림픽위원회_제7차_상임위원회에서 평창의 단독 유치안을 통과하면서 2010년_동계_올림픽의 대한민국의 후보 도시는 평창으로 선정되었고, 2014년_동계_올림픽에서는 무주의 단독 유치 우선권을 인정하였다. 최종 개최지 선정 2002년_동계_올림픽 유치에서 이른바, 솔트레이크 뇌물 파동이 일어난 후에(그로 인해, 퀘벡은 개최 실패로 인한 보상금으로 800만 캐나다_달러를 요구함.) 1999년에 올림픽_개최지 선정 방식에 큰 변화가 일어났다. IOC는 2002년 10월_24일에 평가단을 만들었다. 2008년_하계_올림픽을 개최지 선정 이전에는 후보 도시가 평가단을 직접 맞이하고, 그 도시에 대한 관광을 하며, 선물 또한 제공하는 경우가 다반사였다. 태만함과 투명성의 부족은 종종 투표에 있어서 돈을 요구 했다는 주장이 나왔다. 그 후, 올림픽_개최지 선정은 더욱 엄격히 실시하게 했으며, 후보지의 기술적인 측면을 더욱 면밀히 보게되었다. 평가단은 후보지에 대해서 조사하며 IOC에게 정보를 제공해야한다. 세 후보도시로부터 입후보파일을 2003년_1월에 받았으며 최종리포트가 제출된 2003년_3월 이전에 면밀히 관찰했다. 밴쿠버 주민들은 투표를 요청했으며 비록 밴쿠버 전 지역에 걸쳐서 기본 시설을 재설치해야 했지만, 64%가 지지했다. 투표는 벤쿠버에서만 열렸다. 밴쿠버는 2003년_7월_2일, 체코의 프라하에서 열린 제115차_IOC_총회에서 개최지로 선정되었다. 투표 결과는 IOC 위원장인 자크_로게가 발표했다. 밴쿠버의 경쟁 도시는 평창과 잘츠부르크였다. 1차투표에서는 평창이 가장 많은 표를 받았으나, 과반수 이상의 표를 받지 못했으며, 가장 적은 표를 받은 잘츠부르크는 떨어졌다. 결선 투표에서 밴쿠버는 56표를 받으며 1차 투표(51표)보다 2표 더 많은 53표를 받은 평창을 제치고 개최지로 선정되었다. 밴쿠버의 승리는 토론토가 베이징에 2008년_하계_올림픽 투표에서 완패를 당한 지 불과 2년 후이다. ",
+	"docID": "36154"
+}

@@ -1,0 +1,594 @@
+{
+	"docID": "54795",
+	"globalSID": "492153,492154,492155,492156,492157,492158,492159",
+	"pronouns": [
+		{
+			"st": 53,
+			"coref_index": 685,
+			"id": 0,
+			"en": 54,
+			"ancestor": "6-6",
+			"surface": "그"
+		},
+		{
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "그의 두 번째 부인",
+			"id": 1,
+			"st": 53
+		},
+		{
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "그의 두 번째 부인 인",
+			"id": 2,
+			"st": 53
+		},
+		{
+			"en": 71,
+			"ancestor": "-1",
+			"surface": "그의 두 번째 부인 인 안동김씨의",
+			"id": 3,
+			"st": 53
+		},
+		{
+			"st": 53,
+			"coref_index": 683,
+			"id": 4,
+			"en": 77,
+			"ancestor": "6-0",
+			"surface": "그의 두 번째 부인 인 안동김씨의 둘째 아들"
+		},
+		{
+			"st": 100,
+			"coref_index": 683,
+			"id": 5,
+			"en": 101,
+			"ancestor": "6-0",
+			"surface": "그"
+		},
+		{
+			"st": 100,
+			"coref_index": 694,
+			"id": 6,
+			"en": 107,
+			"ancestor": "6-1",
+			"surface": "그의 출생년대"
+		},
+		{
+			"en": 217,
+			"ancestor": "-1",
+			"surface": "그 중",
+			"id": 7,
+			"st": 214
+		},
+		{
+			"en": 221,
+			"ancestor": "-1",
+			"surface": "그 중 한명은",
+			"id": 8,
+			"st": 214
+		},
+		{
+			"en": 362,
+			"ancestor": "-1",
+			"surface": "다른 누나들",
+			"id": 9,
+			"st": 356
+		},
+		{
+			"en": 364,
+			"ancestor": "-1",
+			"surface": "다른 누나들 중",
+			"id": 10,
+			"st": 356
+		},
+		{
+			"en": 368,
+			"ancestor": "-1",
+			"surface": "다른 누나들 중 한명은",
+			"id": 11,
+			"st": 356
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"entityName": "윤영렬",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "윤영렬",
+			"coref_index": 683
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"entityName": "1854년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 16,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1854년",
+			"coref_index": 694
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "WIKILINK",
+			"entityName": "음력",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "음력"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"entityName": "4월_15일",
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 26,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "4월_15일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"entityName": "중추부",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "2-3",
+			"is_target": true,
+			"surface": "중추부",
+			"coref_index": 684
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "ELU",
+			"entityName": "해평_윤씨",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "해평_윤씨"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "윤취동",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 46,
+			"ancestor": "2-4",
+			"is_target": true,
+			"surface": "윤취동",
+			"coref_index": 685
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "ELU",
+			"entityName": "안동_김씨",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 70,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "안동김씨"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"entityName": "충청남도",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 83,
+			"ancestor": "4-6",
+			"is_target": true,
+			"surface": "충청남도",
+			"coref_index": 686
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"entityName": "아산시",
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 87,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아산군",
+			"coref_index": 690
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "ELU",
+			"entityName": "둔포면",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 91,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "둔포면"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 112,
+			"eType": "WIKILINK",
+			"entityName": "1854년",
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 117,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1854년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 132,
+			"eType": "WIKILINK",
+			"entityName": "1843년",
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 137,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1843년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 166,
+			"eType": "WIKILINK",
+			"entityName": "윤웅렬",
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 169,
+			"ancestor": "2-5",
+			"is_target": true,
+			"surface": "윤웅렬",
+			"coref_index": 687
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 222,
+			"eType": "WIKILINK",
+			"entityName": "온양",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 224,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "온양",
+			"coref_index": 688
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 254,
+			"eType": "WIKILINK",
+			"entityName": "이어령",
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 257,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이어령"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 317,
+			"eType": "ELU",
+			"entityName": "윤영렬",
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 320,
+			"ancestor": "6-0",
+			"is_target": true,
+			"surface": "윤영렬",
+			"coref_index": 683
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 376,
+			"eType": "ELU",
+			"entityName": "전주_이씨",
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 380,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "전주이씨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 63,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "부인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 75,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 19,
+			"ne_type": "PERSON",
+			"en": 77,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아들"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 176,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 20,
+			"ne_type": "PERSON",
+			"en": 178,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "형제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 180,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 21,
+			"ne_type": "PERSON",
+			"en": 184,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "천하장사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 244,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 247,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "소설가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 250,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 23,
+			"ne_type": "PERSON",
+			"en": 252,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "작가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 259,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 24,
+			"ne_type": "PERSON",
+			"en": 264,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "진외증조모"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 270,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 25,
+			"ne_type": "PERSON",
+			"en": 272,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "누나",
+			"coref_index": 689
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 275,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 26,
+			"ne_type": "LOCATION",
+			"en": 277,
+			"ancestor": "6-14",
+			"is_target": true,
+			"surface": "온양",
+			"coref_index": 688
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 284,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 27,
+			"ne_type": "PERSON",
+			"en": 288,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "윤씨부인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 312,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 28,
+			"ne_type": "PERSON",
+			"en": 315,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "남동생"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 359,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 29,
+			"ne_type": "PERSON",
+			"en": 361,
+			"ancestor": "6-25",
+			"is_target": true,
+			"surface": "누나",
+			"coref_index": 689
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 369,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 30,
+			"ne_type": "LOCATION",
+			"en": 371,
+			"ancestor": "6-9",
+			"is_target": true,
+			"surface": "아산",
+			"coref_index": 690
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 381,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 31,
+			"ne_type": "PERSON",
+			"en": 384,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이인서"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 387,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 32,
+			"ne_type": "EVENT",
+			"en": 389,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "시집"
+		}
+	],
+	"plainText": "생애 초기 윤영렬은 1854년 음력 4월_15일 중추부지사를 지낸 해평_윤씨 윤취동(尹聚東)과 그의 두 번째 부인 인 안동김씨의 둘째 아들로 충청남도 아산군 둔포면에서 태어났다. 그의 출생년대는 보통 1854년으로 보나, 일설에 의하면 1843년생이라는 설도 있다. 어려서부터 기력이 강건하여 형 윤웅렬과 함께 두 형제가 천하장사라는 소리를 들었다. 위로는 누이가 몇 명 있었는데, 그 중 한명은 온양에 사는 이원시에게 시집갔고, 후일 소설가 겸 작가인 이어령의 진외증조모가 된다. 누나 중 온양으로 시집간 윤씨부인은 한글과 한학 실력에도 뛰어났는데, 훗날 남동생인 윤영렬의 치적을 담은 회고록인 《윤상공 선정록》을 출간하기도 했다. 또다른 누나들 중 한명은 아산에 사는 전주이씨 이인서에게 시집갔다."
+}

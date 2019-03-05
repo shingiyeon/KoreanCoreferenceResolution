@@ -1,0 +1,117 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 20,
+			"eType": "WIKILINK",
+			"entityName": "UEFA_컵위너스컵",
+			"en": 30,
+			"is_target": true,
+			"surface": "UEFA_컵위너스컵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "첼시_FC",
+			"en": 45,
+			"is_target": true,
+			"surface": "첼시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"st": 53,
+			"eType": "WIKILINK",
+			"entityName": "VfB_슈투트가르트",
+			"en": 59,
+			"is_target": true,
+			"surface": "슈투트가르트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 84,
+			"eType": "ELU",
+			"en": 87,
+			"entityName": "다이너모_(동음이의)",
+			"is_target": true,
+			"surface": "디나모",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 147,
+			"eType": "ELU",
+			"en": 150,
+			"entityName": "다이너모_(동음이의)",
+			"is_target": true,
+			"surface": "디나모",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"id": 5,
+			"ne_type": "LOCATION",
+			"st": 209,
+			"eType": "WIKILINK",
+			"en": 217,
+			"entityName": "로순다_스타디온",
+			"is_target": true,
+			"surface": "로순다_스타디온",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 186,
+			"eType": "NEW",
+			"en": 207,
+			"entityName": "",
+			"is_target": true,
+			"surface": "1998년_5월_13일_스웨덴_스톡홀름",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "3854840,3854841,3854842,3854843,3854844,3854845",
+	"parID": "1",
+	"pronouns": [],
+	"plainText": "UEFA 컵위너스컵 1997-98은 UEFA_컵위너스컵의 38번째 대회이다. 첼시가 결승전에서 슈투트가르트를 누르고 우승을 차지했다. 예선 라운드 1 디나모 바투미는 아라라트 예레반과의 1차전 경기에서 부적격 선수를 출전시킨 사실이 발각되어 0-3 몰수패(원래는 디나모 바투미의 4-2 승리로 기록되었음)를 당했다. 결승전 결승전은 1998년_5월_13일_스웨덴_스톡홀름의 로순다_스타디온에서 열렸다. ",
+	"docID": "1631129"
+}

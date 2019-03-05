@@ -1,0 +1,85 @@
+{
+	"docID": "1112469",
+	"globalSID": "3349324",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 1,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "-1",
+			"coref_index": 29,
+			"surface": "징비록",
+			"entityName": "징비록"
+		},
+		{
+			"kbox_types": [
+				"Broadcaster",
+				"TelevisionStation",
+				"Agent",
+				"Organisation"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 14,
+			"ancestor": "-1",
+			"coref_index": 31,
+			"surface": "KBS_1TV",
+			"entityName": "KBS_1TV"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 37,
+			"ancestor": "",
+			"surface": "8월_2일",
+			"entityName": "8월_2일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "-1",
+			"coref_index": 30,
+			"surface": "대하드라마",
+			"entityName": "한국방송공사_대하드라마"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 29,
+			"ancestor": "",
+			"surface": "2015년_2월_14일",
+			"entityName": ""
+		}
+	],
+	"plainText": "《징비록》은 KBS_1TV에서 2015년_2월_14일부터 8월_2일까지 방송된 대하드라마이다."
+}

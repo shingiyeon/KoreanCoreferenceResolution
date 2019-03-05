@@ -1,0 +1,140 @@
+{
+	"docID": "142974",
+	"globalSID": "992491",
+	"pronouns": [
+		{
+			"en": 117,
+			"ancestor": "-1",
+			"surface": "이 때문",
+			"id": 0,
+			"st": 113
+		},
+		{
+			"en": 139,
+			"ancestor": "-1",
+			"surface": "이 때",
+			"id": 1,
+			"st": 136
+		},
+		{
+			"st": 136,
+			"coref_index": 208,
+			"id": 2,
+			"en": 154,
+			"ancestor": "3-3",
+			"surface": "이 때 시공한 인조잔디인 애스트로"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 39,
+			"ancestor": "-1",
+			"surface": "물방개",
+			"entityName": "물방개"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "한국프로야구",
+			"entityName": "한국프로야구"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"st": 78,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "대구시민운동장_야구장",
+			"entityName": "대구시민운동장_야구장"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 119,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 123,
+			"ancestor": "-1",
+			"coref_index": 208,
+			"surface": "인조잔디",
+			"entityName": "인조잔디"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 144,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 148,
+			"ancestor": "3-3",
+			"coref_index": 208,
+			"surface": "인조잔디",
+			"entityName": "인조잔디"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"surface": "2003년_7월_20일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "EVENT",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "SK_와이번스와의_홈_경기",
+			"entityName": ""
+		}
+	],
+	"plainText": "2003년_7월_20일 SK_와이번스와의_홈_경기에서는 야구장에 물방개가 출현하는 사건이 벌어지는 등 한국프로야구가 벌어지는 경기장 가운데 대구시민운동장_야구장과 더불어 가장 낙후된 야구장으로 꼽히며, 이 때문에 인조잔디를 그라운드에 깔았지만 이 때 시공한 인조잔디인 애스트로 터프로 인해 오히려 선수들의 부상이 잦아져 악명은 더 높아졌다."
+}

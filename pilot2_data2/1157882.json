@@ -1,0 +1,1680 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 107,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 108,
+			"en": 108,
+			"st_modified": 107
+		},
+		{
+			"st": 159,
+			"text": "얼마",
+			"is_pronoun": true,
+			"en_modified": 161,
+			"en": 161,
+			"st_modified": 159
+		},
+		{
+			"st": 159,
+			"text": "얼마 안되는 출전 기회",
+			"is_pronoun": true,
+			"en_modified": 171,
+			"en": 171,
+			"st_modified": 159
+		},
+		{
+			"st": 179,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 180,
+			"en": 180,
+			"st_modified": 179
+		},
+		{
+			"st": 212,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 213,
+			"en": 213,
+			"st_modified": 212
+		},
+		{
+			"st": 297,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 298,
+			"en": 298,
+			"st_modified": 297
+		},
+		{
+			"st": 297,
+			"text": "그의 소유권 절반",
+			"is_pronoun": true,
+			"en_modified": 306,
+			"en": 306,
+			"st_modified": 297
+		},
+		{
+			"st": 350,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 351,
+			"en": 351,
+			"st_modified": 350
+		},
+		{
+			"st": 392,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 393,
+			"en": 393,
+			"st_modified": 392
+		},
+		{
+			"st": 392,
+			"text": "그의 임대",
+			"is_pronoun": true,
+			"en_modified": 397,
+			"en": 397,
+			"st_modified": 392
+		},
+		{
+			"st": 427,
+			"text": "다른 세리에_B팀_피아첸차",
+			"is_pronoun": true,
+			"en_modified": 441,
+			"en": 441,
+			"st_modified": 427
+		},
+		{
+			"st": 427,
+			"text": "다른 세리에_B팀_피아첸차로 보내져 남은 시즌",
+			"is_pronoun": true,
+			"en_modified": 452,
+			"en": 452,
+			"st_modified": 427
+		},
+		{
+			"st": 526,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 527,
+			"en": 527,
+			"st_modified": 526
+		},
+		{
+			"st": 580,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 581,
+			"en": 581,
+			"st_modified": 580
+		},
+		{
+			"st": 620,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 621,
+			"en": 621,
+			"st_modified": 620
+		},
+		{
+			"st": 635,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 636,
+			"en": 636,
+			"st_modified": 635
+		},
+		{
+			"st": 715,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 716,
+			"en": 716,
+			"st_modified": 715
+		},
+		{
+			"st": 786,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 787,
+			"en": 787,
+			"st_modified": 786
+		},
+		{
+			"st": 789,
+			"text": "그 이후",
+			"is_pronoun": true,
+			"en_modified": 793,
+			"en": 793,
+			"st_modified": 789
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 107,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 108,
+			"en": 108,
+			"st_modified": 107,
+			"id": 0,
+			"coref_index": 62
+		},
+		{
+			"st": 159,
+			"ancestor": "-1",
+			"surface": "얼마",
+			"en_modified": 161,
+			"en": 161,
+			"st_modified": 159,
+			"id": 1
+		},
+		{
+			"st": 159,
+			"ancestor": "-1",
+			"surface": "얼마 안되는 출전 기회를",
+			"en_modified": 172,
+			"en": 172,
+			"st_modified": 159,
+			"id": 2
+		},
+		{
+			"st": 179,
+			"ancestor": "-1",
+			"surface": "이는",
+			"en_modified": 181,
+			"en": 181,
+			"st_modified": 179,
+			"id": 3
+		},
+		{
+			"st": 212,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 213,
+			"en": 213,
+			"st_modified": 212,
+			"id": 4,
+			"coref_index": 62
+		},
+		{
+			"st": 297,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 298,
+			"en": 298,
+			"st_modified": 297,
+			"id": 5,
+			"coref_index": 62
+		},
+		{
+			"st": 297,
+			"ancestor": "-1",
+			"surface": "그의 소유권 절반을",
+			"en_modified": 307,
+			"en": 307,
+			"st_modified": 297,
+			"id": 6
+		},
+		{
+			"st": 350,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 351,
+			"en": 351,
+			"st_modified": 350,
+			"id": 7,
+			"coref_index": 62
+		},
+		{
+			"st": 392,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 393,
+			"en": 393,
+			"st_modified": 392,
+			"id": 8,
+			"coref_index": 62
+		},
+		{
+			"st": 392,
+			"ancestor": "-1",
+			"surface": "그의 임대는",
+			"en_modified": 398,
+			"en": 398,
+			"st_modified": 392,
+			"id": 9
+		},
+		{
+			"st": 427,
+			"ancestor": "-1",
+			"surface": "다른 세리에_B팀_피아첸차로",
+			"en_modified": 442,
+			"en": 442,
+			"st_modified": 427,
+			"id": 10
+		},
+		{
+			"st": 427,
+			"ancestor": "-1",
+			"surface": "다른 세리에_B팀_피아첸차로 보내져 남은 시즌을",
+			"en_modified": 453,
+			"en": 453,
+			"st_modified": 427,
+			"id": 11
+		},
+		{
+			"st": 526,
+			"ancestor": "1-26",
+			"surface": "그",
+			"en_modified": 527,
+			"en": 527,
+			"st_modified": 526,
+			"id": 12,
+			"coref_index": 62
+		},
+		{
+			"st": 580,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 581,
+			"en": 581,
+			"st_modified": 580,
+			"id": 13,
+			"coref_index": 62
+		},
+		{
+			"st": 620,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 621,
+			"en": 621,
+			"st_modified": 620,
+			"id": 14,
+			"coref_index": 62
+		},
+		{
+			"st": 635,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 636,
+			"en": 636,
+			"st_modified": 635,
+			"id": 15,
+			"coref_index": 62
+		},
+		{
+			"st": 715,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 716,
+			"en": 716,
+			"st_modified": 715,
+			"id": 16,
+			"coref_index": 62
+		},
+		{
+			"st": 786,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 787,
+			"en": 787,
+			"st_modified": 786,
+			"id": 17,
+			"coref_index": 62
+		},
+		{
+			"st": 789,
+			"ancestor": "-1",
+			"surface": "그 이후",
+			"en_modified": 793,
+			"en": 793,
+			"st_modified": 789,
+			"id": 18
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 8,
+			"st_modified": 0,
+			"coref_index": 62,
+			"entityName": "레안드로_그레코",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "레안드로_그레코",
+			"is_target": true,
+			"en": 8,
+			"id": 0
+		},
+		{
+			"en_modified": 36,
+			"st_modified": 31,
+			"coref_index": 65,
+			"entityName": "세리에_A",
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 31,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_A",
+			"is_target": true,
+			"en": 36,
+			"id": 1
+		},
+		{
+			"en_modified": 44,
+			"st_modified": 37,
+			"coref_index": 73,
+			"entityName": "제노아_CFC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 37,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "제노아_CFC",
+			"is_target": true,
+			"en": 44,
+			"id": 2
+		},
+		{
+			"en_modified": 51,
+			"st_modified": 47,
+			"coref_index": 63,
+			"entityName": "미드필더",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 47,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "미드필더",
+			"is_target": true,
+			"en": 51,
+			"id": 3
+		},
+		{
+			"en_modified": 60,
+			"st_modified": 56,
+			"coref_index": 72,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 56,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 60,
+			"id": 4
+		},
+		{
+			"en_modified": 22,
+			"entityName": "",
+			"st_modified": 11,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 11,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1992년_3월_2일",
+			"is_target": false,
+			"en": 22,
+			"id": 5
+		},
+		{
+			"en_modified": 79,
+			"st_modified": 76,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 76,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 79,
+			"id": 6
+		},
+		{
+			"en_modified": 157,
+			"st_modified": 154,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 154,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 157,
+			"id": 7
+		},
+		{
+			"en_modified": 85,
+			"st_modified": 81,
+			"coref_index": 63,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 81,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "미드필더",
+			"is_target": true,
+			"en": 85,
+			"id": 8
+		},
+		{
+			"en_modified": 91,
+			"st_modified": 89,
+			"coref_index": 64,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 89,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 91,
+			"id": 9
+		},
+		{
+			"en_modified": 96,
+			"entityName": "",
+			"st_modified": 92,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 92,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "유소년팀",
+			"is_target": true,
+			"en": 96,
+			"id": 10
+		},
+		{
+			"en_modified": 103,
+			"st_modified": 101,
+			"coref_index": 68,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 101,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "선수",
+			"is_target": true,
+			"en": 103,
+			"id": 11
+		},
+		{
+			"en_modified": 124,
+			"st_modified": 122,
+			"coref_index": 64,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 122,
+			"ancestor": "1-9",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 124,
+			"id": 12
+		},
+		{
+			"en_modified": 132,
+			"st_modified": 127,
+			"coref_index": 65,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 127,
+			"ancestor": "1-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_A",
+			"is_target": true,
+			"en": 132,
+			"id": 13
+		},
+		{
+			"en_modified": 198,
+			"st_modified": 195,
+			"coref_index": 66,
+			"entityName": "베로나",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 195,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "베로나",
+			"is_target": true,
+			"en": 198,
+			"id": 14
+		},
+		{
+			"en_modified": 211,
+			"entityName": "피아첸차",
+			"st_modified": 207,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 207,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "피아첸차",
+			"is_target": true,
+			"en": 211,
+			"id": 15
+		},
+		{
+			"en_modified": 218,
+			"st_modified": 215,
+			"coref_index": 66,
+			"entityName": "엘라스_베로나_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 215,
+			"ancestor": "1-14",
+			"ne_type": "ORGANIZATION",
+			"surface": "베로나",
+			"is_target": true,
+			"en": 218,
+			"id": 16
+		},
+		{
+			"en_modified": 277,
+			"st_modified": 274,
+			"coref_index": 66,
+			"entityName": "베로나",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 274,
+			"ancestor": "1-16",
+			"ne_type": "LOCATION",
+			"surface": "베로나",
+			"is_target": true,
+			"en": 277,
+			"id": 17
+		},
+		{
+			"en_modified": 287,
+			"entityName": "",
+			"st_modified": 279,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 279,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2007년_6월",
+			"is_target": false,
+			"en": 287,
+			"id": 18
+		},
+		{
+			"en_modified": 330,
+			"entityName": "",
+			"st_modified": 322,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 322,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년_6월",
+			"is_target": false,
+			"en": 330,
+			"id": 19
+		},
+		{
+			"en_modified": 424,
+			"st_modified": 421,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 421,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 424,
+			"id": 20
+		},
+		{
+			"en_modified": 363,
+			"entityName": "",
+			"st_modified": 353,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 353,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_B_팀_피사",
+			"is_target": true,
+			"en": 363,
+			"id": 21
+		},
+		{
+			"en_modified": 385,
+			"entityName": "",
+			"st_modified": 371,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 371,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "2008–09_시즌_후반기",
+			"is_target": true,
+			"en": 385,
+			"id": 22
+		},
+		{
+			"en_modified": 407,
+			"entityName": "",
+			"st_modified": 399,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 399,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2010년_1월",
+			"is_target": false,
+			"en": 407,
+			"id": 23
+		},
+		{
+			"en_modified": 441,
+			"entityName": "",
+			"st_modified": 430,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 430,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_B팀_피아첸차",
+			"is_target": true,
+			"en": 441,
+			"id": 24
+		},
+		{
+			"en_modified": 452,
+			"entityName": "",
+			"st_modified": 450,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 450,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시즌",
+			"is_target": true,
+			"en": 452,
+			"id": 25
+		},
+		{
+			"en_modified": 476,
+			"st_modified": 473,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 473,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 476,
+			"id": 26
+		},
+		{
+			"en_modified": 596,
+			"st_modified": 586,
+			"coref_index": 67,
+			"entityName": "클라우디오_라니에리",
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 586,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "클라우디오_라니에리",
+			"is_target": true,
+			"en": 596,
+			"id": 27
+		},
+		{
+			"en_modified": 600,
+			"entityName": "FC_바젤",
+			"st_modified": 598,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 598,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "바젤",
+			"is_target": true,
+			"en": 600,
+			"id": 28
+		},
+		{
+			"en_modified": 614,
+			"st_modified": 603,
+			"coref_index": 70,
+			"entityName": "UEFA_챔피언스리그",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 603,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_챔피언스리그",
+			"is_target": true,
+			"en": 614,
+			"id": 29
+		},
+		{
+			"en_modified": 696,
+			"st_modified": 693,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 693,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 696,
+			"id": 30
+		},
+		{
+			"en_modified": 709,
+			"st_modified": 705,
+			"coref_index": 67,
+			"entityName": "라니에리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 705,
+			"ancestor": "1-27",
+			"ne_type": "ETC",
+			"surface": "라니에리",
+			"is_target": true,
+			"en": 709,
+			"id": 31
+		},
+		{
+			"en_modified": 723,
+			"entityName": "로마_더비",
+			"st_modified": 718,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 718,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "로마_더비",
+			"is_target": true,
+			"en": 723,
+			"id": 32
+		},
+		{
+			"en_modified": 752,
+			"entityName": "제레미_메네즈",
+			"st_modified": 745,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 745,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "제레미_메네즈",
+			"is_target": true,
+			"en": 752,
+			"id": 33
+		},
+		{
+			"en_modified": 800,
+			"entityName": "ACF_피오렌티나",
+			"st_modified": 795,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 795,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "피오렌티나",
+			"is_target": true,
+			"en": 800,
+			"id": 34
+		},
+		{
+			"en_modified": 806,
+			"entityName": "유벤투스_FC",
+			"st_modified": 802,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 802,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 806,
+			"id": 35
+		},
+		{
+			"en_modified": 467,
+			"st_modified": 465,
+			"coref_index": 64,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 465,
+			"ancestor": "1-9",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 467,
+			"id": 36
+		},
+		{
+			"en_modified": 472,
+			"entityName": "",
+			"st_modified": 470,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 470,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "복귀",
+			"is_target": true,
+			"en": 472,
+			"id": 37
+		},
+		{
+			"en_modified": 488,
+			"entityName": "",
+			"st_modified": 478,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 478,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "2010–11_시즌",
+			"is_target": true,
+			"en": 488,
+			"id": 38
+		},
+		{
+			"en_modified": 492,
+			"st_modified": 490,
+			"coref_index": 64,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 490,
+			"ancestor": "1-36",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 492,
+			"id": 39
+		},
+		{
+			"en_modified": 523,
+			"entityName": "",
+			"st_modified": 521,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 521,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "클럽",
+			"is_target": true,
+			"en": 523,
+			"id": 40
+		},
+		{
+			"en_modified": 554,
+			"st_modified": 552,
+			"coref_index": 64,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 552,
+			"ancestor": "1-36",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 554,
+			"id": 41
+		},
+		{
+			"en_modified": 559,
+			"entityName": "",
+			"st_modified": 556,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 556,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "1군팀",
+			"is_target": true,
+			"en": 559,
+			"id": 42
+		},
+		{
+			"en_modified": 585,
+			"entityName": "",
+			"st_modified": 583,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 583,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "감독",
+			"is_target": true,
+			"en": 585,
+			"id": 43
+		},
+		{
+			"en_modified": 677,
+			"st_modified": 675,
+			"coref_index": 64,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 675,
+			"ancestor": "1-36",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 677,
+			"id": 44
+		},
+		{
+			"en_modified": 685,
+			"entityName": "",
+			"st_modified": 683,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 683,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "승리",
+			"is_target": true,
+			"en": 685,
+			"id": 45
+		},
+		{
+			"en_modified": 811,
+			"entityName": "",
+			"st_modified": 809,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 809,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "경기",
+			"is_target": true,
+			"en": 811,
+			"id": 46
+		},
+		{
+			"en_modified": 823,
+			"st_modified": 821,
+			"coref_index": 68,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 821,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "선수",
+			"is_target": true,
+			"en": 823,
+			"id": 47
+		},
+		{
+			"en_modified": 834,
+			"st_modified": 831,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 831,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 834,
+			"id": 48
+		},
+		{
+			"en_modified": 860,
+			"entityName": "다니엘레_데_로시",
+			"st_modified": 851,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 851,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "다니엘레_데_로시",
+			"is_target": true,
+			"en": 860,
+			"id": 49
+		},
+		{
+			"en_modified": 869,
+			"entityName": "시모네_페로타",
+			"st_modified": 862,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 862,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "시모네_페로타",
+			"is_target": true,
+			"en": 869,
+			"id": 50
+		},
+		{
+			"en_modified": 885,
+			"st_modified": 882,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 882,
+			"ancestor": "1-48",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 885,
+			"id": 51
+		},
+		{
+			"en_modified": 849,
+			"entityName": "",
+			"st_modified": 841,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 841,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년_2월",
+			"is_target": false,
+			"en": 849,
+			"id": 52
+		},
+		{
+			"en_modified": 963,
+			"entityName": "세리에_A_2012-13",
+			"st_modified": 950,
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"eType": "WIKILINK",
+			"st": 950,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "세리에_A_2012-13",
+			"is_target": true,
+			"en": 963,
+			"id": 53
+		},
+		{
+			"en_modified": 977,
+			"st_modified": 974,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 974,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 977,
+			"id": 54
+		},
+		{
+			"en_modified": 1025,
+			"st_modified": 1019,
+			"coref_index": 69,
+			"entityName": "올림피아코스_CFP",
+			"kbox_types": [
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 1019,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "올림피아코스",
+			"is_target": true,
+			"en": 1025,
+			"id": 55
+		},
+		{
+			"en_modified": 1057,
+			"st_modified": 1051,
+			"coref_index": 69,
+			"entityName": "올림피아코스_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1051,
+			"ancestor": "1-55",
+			"ne_type": "ORGANIZATION",
+			"surface": "올림피아코스",
+			"is_target": true,
+			"en": 1057,
+			"id": 56
+		},
+		{
+			"en_modified": 1075,
+			"st_modified": 1072,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 1072,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 1075,
+			"id": 57
+		},
+		{
+			"en_modified": 1093,
+			"st_modified": 1089,
+			"coref_index": 62,
+			"entityName": "레안드루_몬테라_다_시우바",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1089,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "레안드로",
+			"is_target": true,
+			"en": 1093,
+			"id": 58
+		},
+		{
+			"en_modified": 1103,
+			"entityName": "몽펠리에_HSC",
+			"st_modified": 1095,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1095,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "몽펠리에_HSC",
+			"is_target": true,
+			"en": 1103,
+			"id": 59
+		},
+		{
+			"en_modified": 1118,
+			"st_modified": 1106,
+			"coref_index": 70,
+			"entityName": "UEFA_챔피언스_리그",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1106,
+			"ancestor": "1-29",
+			"ne_type": "ETC",
+			"surface": "UEFA_챔피언스_리그",
+			"is_target": true,
+			"en": 1118,
+			"id": 60
+		},
+		{
+			"en_modified": 1038,
+			"entityName": "",
+			"st_modified": 1026,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1026,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년_7월_24일",
+			"is_target": false,
+			"en": 1038,
+			"id": 61
+		},
+		{
+			"en_modified": 1146,
+			"st_modified": 1140,
+			"coref_index": 69,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1140,
+			"ancestor": "1-56",
+			"ne_type": "ORGANIZATION",
+			"surface": "올림피아코스",
+			"is_target": true,
+			"en": 1146,
+			"id": 62
+		},
+		{
+			"en_modified": 1165,
+			"st_modified": 1161,
+			"coref_index": 71,
+			"entityName": "리보르노",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1161,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "리보르노",
+			"is_target": true,
+			"en": 1165,
+			"id": 63
+		},
+		{
+			"en_modified": 1183,
+			"st_modified": 1180,
+			"coref_index": 62,
+			"entityName": "엘_그레코",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 1180,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "그레코",
+			"is_target": true,
+			"en": 1183,
+			"id": 64
+		},
+		{
+			"en_modified": 1189,
+			"st_modified": 1185,
+			"coref_index": 71,
+			"entityName": "AS_리보르노_칼초",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1185,
+			"ancestor": "1-63",
+			"ne_type": "ORGANIZATION",
+			"surface": "리보르노",
+			"is_target": true,
+			"en": 1189,
+			"id": 65
+		},
+		{
+			"en_modified": 1200,
+			"st_modified": 1196,
+			"coref_index": 72,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1196,
+			"ancestor": "1-4",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 1200,
+			"id": 66
+		},
+		{
+			"en_modified": 1226,
+			"st_modified": 1222,
+			"coref_index": 71,
+			"entityName": "리보르노",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1222,
+			"ancestor": "1-63",
+			"ne_type": "LOCATION",
+			"surface": "리보르노",
+			"is_target": true,
+			"en": 1226,
+			"id": 67
+		},
+		{
+			"en_modified": 1178,
+			"entityName": "",
+			"st_modified": 1166,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1166,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년_7월_31일",
+			"is_target": false,
+			"en": 1178,
+			"id": 68
+		},
+		{
+			"en_modified": 1220,
+			"entityName": "",
+			"st_modified": 1208,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1208,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2014년_6월_20일",
+			"is_target": false,
+			"en": 1220,
+			"id": 69
+		},
+		{
+			"en_modified": 1248,
+			"st_modified": 1245,
+			"coref_index": 73,
+			"entityName": "제노바",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 1245,
+			"ancestor": "1-2",
+			"ne_type": "LOCATION",
+			"surface": "제노아",
+			"is_target": true,
+			"en": 1248,
+			"id": 70
+		},
+		{
+			"en_modified": 1271,
+			"st_modified": 1263,
+			"coref_index": 62,
+			"entityName": "레안드로_그레코",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1263,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "레안드로_그레코",
+			"is_target": true,
+			"en": 1271,
+			"id": 71
+		},
+		{
+			"en_modified": 1261,
+			"entityName": "",
+			"st_modified": 1249,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1249,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2014년_6월_20일",
+			"is_target": false,
+			"en": 1261,
+			"id": 72
+		},
+		{
+			"en_modified": 1284,
+			"st_modified": 1273,
+			"coref_index": 73,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1273,
+			"ancestor": "1-2",
+			"ne_type": "LOCATION",
+			"surface": "세리에_A_팀_제노아",
+			"is_target": true,
+			"en": 1284,
+			"id": 73
+		}
+	],
+	"globalSID": "3397301,3397302,3397303,3397304,3397305,3397306,3397307,3397308,3397309,3397310,3397311,3397312,3397313,3397314,3397315,3397316,3397317,3397318,3397319,3397320,3397321,3397322,3397323,3397324,3397325,3397326",
+	"plainText": "레안드로_그레코(, 1992년_3월_2일 ~ )는 현재 세리에_A 제노아_CFC에서 미드필더로 뛰는 이탈리아의 축구선수이다. 클럽 경력 그레코는 미드필더로서, 로마 유소년팀의 주전 선수였다. 그는 2004–05 시즌에 로마에서 세리에_A 데뷔를 하였다. 2005–06 시즌, 그레코는 얼마 안되는 출전 기회를 잡았는데, 이는 모두 교체 출전이였다. 베로나, 피사 그리고 피아첸차 그는 베로나에서 두 시즌간 총 40 경기를 뛰며 성장했다(첫 시즌에는 26경기, 두 번째 시즌에는 14경기). 베로나는 2007년_6월에 30만 유로에 그의 소유권 절반을 획득했지만, 로마가 다시 2008년_6월에 15만 유로에 다시 회수하였다. 그는 세리에_B_팀_피사에서 임대되어 2008–09_시즌_후반기를 뛰었다. 그의 임대는 2010년_1월에 급작스럽게 종료됐고, 그레코는 또다른 세리에_B팀_피아첸차로 보내져 남은 시즌을 성공적으로 보냈다. 로마로의 복귀 그레코는 2010–11_시즌에 로마로 복귀했고, 곧바로 이적 목록에 올랐지만, 어떠한 클럽들도 그와 계약을 하는데 흥미를 보이지 않아, 대신 로마의 1군팀에 잔류하였다. 심각한 부상을 입었던 그는 감독 클라우디오_라니에리는 바젤과의 UEFA_챔피언스리그 경기에서 그를 벤치에서 불러들였고, 그는 남은 15분동안에 교체 선수로 출전한지 1분만에 득점을 성공시켜, 로마의 3-2 승리를 이끌었다. 그레코의 좋은 활약은 라니에리를 하여금 그를 로마_더비에 출전시켰고, 전반에 부상으로 교체된 제레미_메네즈를 대신하여 매끄러운 모습을 보이며 2-0 승리에 기여했다. 그는 그 이후에 피오렌티나와 유벤투스와의 경기에서도 선발 출전 선수로 올라갔다. 그레코의 재계약은 2012년_2월에 다니엘레_데_로시와 시모네_페로타와 나란히 이루어졌다. 그레코는 3년 계약과 연봉 125만 4천유로를 보너스를 받고, 게다가 2011–12 시즌에는 연봉 80만 유로가 올랐다. 세리에_A_2012-13 시즌이 시작할때, 그레코는 프리시즌 캠프에 포함되었지만, 미묘한 부상으로 인해 빠지게 되었다... 올림피아코스 2012년_7월_24일, 그리스 리그 챔피언 올림피아코스는 자유 이적 시분을 통해 그레코와 3년 계약을 맺었다. 레안드로는 몽펠리에_HSC와의 UEFA_챔피언스_리그 경기(홈에서 3-1 승리를 거둠)에서 올림피아코스 이적후 첫 골을 넣었다. 리보르노 2013년_7월_31일, 그레코는 리보르노로 이적하며 이탈리아로 돌아왔다. 2014년_6월_20일, 리보르노와의 계약이 합의하에 종료되었다. 제노아 2014년_6월_20일, 레안드로_그레코는 세리에_A_팀_제노아와 3년 계약을 맺었다. ",
+	"docID": "1157882",
+	"ModifiedText": "레안드로 그레코(, 1992년 3월 2일 ~ )는 현재 세리에 A 제노아 CFC에서 미드필더로 뛰는 이탈리아의 축구선수이다. 클럽 경력 그레코는 미드필더로서, 로마 유소년팀의 주전 선수였다. 그는 2004–05 시즌에 로마에서 세리에 A 데뷔를 하였다. 2005–06 시즌, 그레코는 얼마 안되는 출전 기회를 잡았는데, 이는 모두 교체 출전이였다. 베로나, 피사 그리고 피아첸차 그는 베로나에서 두 시즌간 총 40 경기를 뛰며 성장했다(첫 시즌에는 26경기, 두 번째 시즌에는 14경기). 베로나는 2007년 6월에 30만 유로에 그의 소유권 절반을 획득했지만, 로마가 다시 2008년 6월에 15만 유로에 다시 회수하였다. 그는 세리에 B 팀 피사에서 임대되어 2008–09 시즌 후반기를 뛰었다. 그의 임대는 2010년 1월에 급작스럽게 종료됐고, 그레코는 또다른 세리에 B팀 피아첸차로 보내져 남은 시즌을 성공적으로 보냈다. 로마로의 복귀 그레코는 2010–11 시즌에 로마로 복귀했고, 곧바로 이적 목록에 올랐지만, 어떠한 클럽들도 그와 계약을 하는데 흥미를 보이지 않아, 대신 로마의 1군팀에 잔류하였다. 심각한 부상을 입었던 그는 감독 클라우디오 라니에리는 바젤과의 UEFA 챔피언스리그 경기에서 그를 벤치에서 불러들였고, 그는 남은 15분동안에 교체 선수로 출전한지 1분만에 득점을 성공시켜, 로마의 3-2 승리를 이끌었다. 그레코의 좋은 활약은 라니에리를 하여금 그를 로마 더비에 출전시켰고, 전반에 부상으로 교체된 제레미 메네즈를 대신하여 매끄러운 모습을 보이며 2-0 승리에 기여했다. 그는 그 이후에 피오렌티나와 유벤투스와의 경기에서도 선발 출전 선수로 올라갔다. 그레코의 재계약은 2012년 2월에 다니엘레 데 로시와 시모네 페로타와 나란히 이루어졌다. 그레코는 3년 계약과 연봉 125만 4천유로를 보너스를 받고, 게다가 2011–12 시즌에는 연봉 80만 유로가 올랐다. 세리에 A 2012-13 시즌이 시작할때, 그레코는 프리시즌 캠프에 포함되었지만, 미묘한 부상으로 인해 빠지게 되었다... 올림피아코스 2012년 7월 24일, 그리스 리그 챔피언 올림피아코스는 자유 이적 시분을 통해 그레코와 3년 계약을 맺었다. 레안드로는 몽펠리에 HSC와의 UEFA 챔피언스 리그 경기(홈에서 3-1 승리를 거둠)에서 올림피아코스 이적후 첫 골을 넣었다. 리보르노 2013년 7월 31일, 그레코는 리보르노로 이적하며 이탈리아로 돌아왔다. 2014년 6월 20일, 리보르노와의 계약이 합의하에 종료되었다. 제노아 2014년 6월 20일, 레안드로 그레코는 세리에 A 팀 제노아와 3년 계약을 맺었다. "
+}

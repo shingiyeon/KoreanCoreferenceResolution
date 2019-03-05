@@ -1,0 +1,65 @@
+{
+	"docID": "336444",
+	"globalSID": "1762479,1762480",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "kt_위즈",
+			"entityName": "kt_위즈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "내야수",
+			"entityName": "내야수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "오태곤",
+			"entityName": "오태곤"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "선수",
+			"entityName": ""
+		}
+	],
+	"plainText": "가족관계 kt_위즈 내야수인 오태곤 선수와 사촌형제지간이다."
+}

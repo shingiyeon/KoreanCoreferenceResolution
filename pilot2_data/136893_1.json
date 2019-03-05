@@ -1,0 +1,160 @@
+{
+	"docID": "136893",
+	"globalSID": "970943,970944,970945,970946",
+	"pronouns": [
+		{
+			"st": 193,
+			"coref_index": 188,
+			"id": 0,
+			"en": 194,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 199,
+			"st": 193,
+			"surface": "그의 무용은",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 36,
+			"ancestor": "-1",
+			"coref_index": 188,
+			"surface": "몬페라토의_코라도",
+			"entityName": "코라도_1세"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "-1",
+			"surface": "피에몬테어",
+			"entityName": "피에몬테어"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 67,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 71,
+			"ancestor": "-1",
+			"coref_index": 193,
+			"surface": "예루살렘",
+			"entityName": "예루살렘"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 128,
+			"ancestor": "-1",
+			"surface": "예루살렘_왕위",
+			"entityName": "예루살렘_왕국#예루살렘_왕국의_군주"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 141,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 144,
+			"ancestor": "-1",
+			"surface": "아사신",
+			"entityName": "아사신"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 155,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 162,
+			"ancestor": "-1",
+			"surface": "제3차_십자군",
+			"entityName": "제3차_십자군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 182,
+			"ancestor": "1-0",
+			"coref_index": 188,
+			"surface": "코라도",
+			"entityName": "코라도_1세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 200,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 203,
+			"ancestor": "-1",
+			"surface": "이슬람",
+			"entityName": "이슬람교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 24,
+			"ancestor": "",
+			"surface": "1192년_4월_28일",
+			"entityName": ""
+		}
+	],
+	"plainText": "코라도 1세(?? – 1192년_4월_28일)는 몬페라토의_코라도(, 피에몬테어: Conr? ?d Monfr?), 혹은 예루살렘의 코라도 1세(Conrad I of Jerusalem)이라 불렸던 몬페라토의 후작이다. 예루살렘_왕위 즉위 직전에 암살교단(아사신)에 의해 암살당한 제3차_십자군측 인물 중 한 명이다. 일명 코라도라고 불리고 있다. 그의 무용은 이슬람측에서 알 말키슈의 이름으로 두려움의 대상이었다."
+}

@@ -1,0 +1,284 @@
+{
+	"docID": "2758",
+	"globalSID": "44186,44187",
+	"pronouns": [
+		{
+			"en": 104,
+			"ancestor": "-1",
+			"surface": "이들",
+			"id": 0,
+			"st": 102
+		},
+		{
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "이들 나라도",
+			"id": 1,
+			"st": 102
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "범노르만_운동",
+			"entityName": "범노르만_운동"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "범스칸디나비아주의",
+			"entityName": "범스칸디나비아주의"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"st": 55,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 61,
+			"ancestor": "1-0",
+			"coref_index": 387,
+			"surface": "스칸디나비아",
+			"entityName": "스칸디나비아"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 63,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 66,
+			"ancestor": "1-4",
+			"coref_index": 390,
+			"surface": "핀란드",
+			"entityName": "핀란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 68,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 73,
+			"ancestor": "1-5",
+			"coref_index": 388,
+			"surface": "아이슬란드",
+			"entityName": "아이슬란드"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"st": 109,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 115,
+			"ancestor": "4-2",
+			"coref_index": 387,
+			"surface": "스칸디나비아",
+			"entityName": "스칸디나비아"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 127,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 133,
+			"ancestor": "1-10",
+			"coref_index": 392,
+			"surface": "노르딕_국가",
+			"entityName": "노르딕_국가"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 151,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 155,
+			"ancestor": "1-1",
+			"coref_index": 393,
+			"surface": "노르웨이",
+			"entityName": "노르웨이"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 157,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 160,
+			"ancestor": "3-0",
+			"coref_index": 391,
+			"surface": "스웨덴",
+			"entityName": "스웨덴"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 162,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 165,
+			"ancestor": "1-3",
+			"coref_index": 394,
+			"surface": "덴마크",
+			"entityName": "덴마크"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"st": 173,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 177,
+			"ancestor": "1-6",
+			"coref_index": 395,
+			"surface": "그린란드",
+			"entityName": "그린란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 180,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 183,
+			"ancestor": "1-4",
+			"coref_index": 390,
+			"surface": "핀란드",
+			"entityName": "핀란드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 166,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 171,
+			"ancestor": "1-8",
+			"coref_index": 389,
+			"surface": "페로_제도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 190,
+			"ancestor": "1-7",
+			"coref_index": 396,
+			"surface": "올란드_제도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 198,
+			"ancestor": "1-5",
+			"coref_index": 388,
+			"surface": "아이슬란드",
+			"entityName": ""
+		}
+	],
+	"plainText": "1830년대의 범노르만_운동과 1830년대에서 1850년대까지의 정치적인 범스칸디나비아주의 이후, 스칸디나비아에 핀란드와 아이슬란드를 포함하는 것은 의견이 갈라진다. 문맥에 따라서는 이들 나라도 스칸디나비아에 포함되긴 하지만, 노르딕_국가라는 단어가 표현의 모호함 없이 노르웨이, 스웨덴, 덴마크(페로_제도와 그린란드), 핀란드(올란드_제도), 아이슬란드 전체를 가리킨다."
+}

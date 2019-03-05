@@ -1,0 +1,231 @@
+{
+	"docID": "1169640",
+	"globalSID": "3412969",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 93,
+			"id": 0,
+			"en": 2,
+			"ancestor": "3-4",
+			"surface": "그때"
+		},
+		{
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "그때 23살이던",
+			"id": 1,
+			"st": 0
+		},
+		{
+			"st": 0,
+			"coref_index": 90,
+			"id": 2,
+			"en": 10,
+			"ancestor": "1-0",
+			"surface": "그때 23살이던 그"
+		},
+		{
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "나",
+			"id": 3,
+			"st": 44
+		},
+		{
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "나 In_Ya_Mellow_Tone",
+			"id": 4,
+			"st": 44
+		},
+		{
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "나 In_Ya_Mellow_Tone 등의",
+			"id": 5,
+			"st": 44
+		},
+		{
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "나 In_Ya_Mellow_Tone 등의 멜로우한 곡들을",
+			"id": 6,
+			"st": 44
+		},
+		{
+			"en": 122,
+			"ancestor": "-1",
+			"surface": "그 당시",
+			"id": 7,
+			"st": 118
+		},
+		{
+			"en": 148,
+			"ancestor": "-1",
+			"surface": "그 당시 스케치하여 만들어진 곡들(Hard_2_Get,",
+			"id": 8,
+			"st": 118
+		},
+		{
+			"st": 209,
+			"coref_index": 90,
+			"id": 9,
+			"en": 210,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 223,
+			"ancestor": "-1",
+			"surface": "그의 디스코그래피의 초석이",
+			"id": 10,
+			"st": 209
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "누자베스",
+			"entityName": "Nujabes"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "플레이",
+			"entityName": "일인용_게임"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 147,
+			"ancestor": "-1",
+			"coref_index": 92,
+			"surface": "Hard_2_Get",
+			"entityName": "Hard_2_Get"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "Do_you_know",
+			"entityName": "Do_you_know"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 162,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 170,
+			"ancestor": "-1",
+			"surface": "Dreamers",
+			"entityName": "Dreamers"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 187,
+			"ancestor": "-1",
+			"surface": "Self_Reflection",
+			"entityName": "Self_Reflection"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "의류_스토어",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "In_Ya_Mellow_Tone",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "비트메이킹",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 212,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 218,
+			"ancestor": "-1",
+			"surface": "디스코그래피",
+			"entityName": ""
+		}
+	],
+	"plainText": "그때 23살이던 그는 동시에 개인 의류_스토어를 운영중이였는데, 항상 누자베스 나 In_Ya_Mellow_Tone 등의 멜로우한 곡들을 선곡하였고, 평소에는 비트메이킹에 몰두하여 매장내에 플레이하고는 하였다 , 그 당시 스케치하여 만들어진 곡들(Hard_2_Get, Do_you_know, Dreamers, Self_Reflection 등등)은 이후 결과물로 완성되어 많은 그의 디스코그래피의 초석이 된다."
+}

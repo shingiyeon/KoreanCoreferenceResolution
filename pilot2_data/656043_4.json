@@ -1,0 +1,96 @@
+{
+	"docID": "656043",
+	"globalSID": "2515957,2515958,2515959",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "-1",
+			"surface": "사생활",
+			"entityName": "프라이버시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "사차_제바시",
+			"entityName": "사차_제바시"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 95,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 102,
+			"ancestor": "-1",
+			"surface": "빅토리아_베컴",
+			"entityName": "빅토리아_베컴"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "엠마_번튼",
+			"entityName": "엠마_번튼"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "블루벨_마돈나",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 54,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 65,
+			"ancestor": "",
+			"surface": "2006년_5월_7일",
+			"entityName": ""
+		}
+	],
+	"plainText": "사생활 할리웰은 전 남자친구인 영화 극작가 사차_제바시()와 사이에서 딸 \"블루벨_마돈나\"() (2006년_5월_7일, 런던 출생)을 포틀랜드 병원에서 출산했다. 대모는 빅토리아_베컴과 엠마_번튼이다."
+}

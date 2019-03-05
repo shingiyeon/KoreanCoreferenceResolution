@@ -1,0 +1,160 @@
+{
+	"docID": "84614",
+	"globalSID": "661847,661848,661849,661850",
+	"pronouns": [
+		{
+			"en": 52,
+			"ancestor": "-1",
+			"surface": "본관은",
+			"id": 0,
+			"st": 49
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "장화왕후",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "장화왕후",
+			"coref_index": 1037
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 22,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "고려"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"entityName": "고려_태조",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "태조_왕건",
+			"coref_index": 1038
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"entityName": "나주_오씨",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "나주",
+			"coref_index": 1034
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"entityName": "나주",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "나주",
+			"coref_index": 1034
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"entityName": "오부돈",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 71,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오부돈",
+			"coref_index": 1035
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 93,
+			"eType": "WIKILINK",
+			"entityName": "고려_혜종",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 95,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "혜종",
+			"coref_index": 1041
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 81,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오다련",
+			"coref_index": 1036
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 108,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 115,
+			"ancestor": "1-4",
+			"is_target": true,
+			"surface": "전라남도_나주",
+			"coref_index": 1034
+		}
+	],
+	"plainText": "장화왕후(莊和王后, 생몰년 미상)는 고려 태조_왕건의 제2왕후이다. 성은 오씨(吳氏), 본관은 나주(羅州). 나주의 호족 오부돈의 손녀이자 오다련(吳多憐)의 딸이며, 혜종(惠宗)의 어머니이다. 전라남도_나주 출신이다."
+}

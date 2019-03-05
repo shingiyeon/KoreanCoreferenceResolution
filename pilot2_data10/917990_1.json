@@ -1,0 +1,170 @@
+{
+	"docID": "917990",
+	"globalSID": "3024439,3024440",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 40,
+			"ancestor": "-1",
+			"coref_index": 1118,
+			"surface": "아일랜드",
+			"entityName": "아일랜드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "싱어송_라이터",
+			"entityName": "싱어송_라이터"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "랩퍼",
+			"entityName": "랩퍼"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 75,
+			"ancestor": "-1",
+			"coref_index": 1117,
+			"surface": "더_스크립트",
+			"entityName": "더_스크립트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 113,
+			"ancestor": "-1",
+			"surface": "더_보이스_UK",
+			"entityName": "더_보이스_UK"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 15,
+			"ancestor": "-1",
+			"coref_index": 1114,
+			"surface": "대니_존_마크_루크_오도너휴",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 30,
+			"ancestor": "",
+			"surface": "1980년_10월_3일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "얼터너티브_록_밴드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 79,
+			"ancestor": "-1",
+			"surface": "리더",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 103,
+			"ancestor": "-1",
+			"surface": "텔레비전_리얼리티_쇼",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 130,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "코치",
+			"entityName": ""
+		}
+	],
+	"plainText": "대니_존_마크_루크_오도너휴(, 1980년_10월_3일 ~ )는 아일랜드의 싱어송_라이터이자 랩퍼로서 얼터너티브_록_밴드인 더_스크립트의 리더로서 알려져있다. 또한 텔레비전_리얼리티_쇼 \"더_보이스_UK\"(The Voice UK)의 코치로도 알려져 있다."
+}

@@ -1,0 +1,124 @@
+{
+	"docID": "57597",
+	"globalSID": "509692,509693",
+	"pronouns": [
+		{
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "여러 지명",
+			"id": 0,
+			"st": 73
+		},
+		{
+			"en": 80,
+			"ancestor": "-1",
+			"surface": "여러 지명 등",
+			"id": 1,
+			"st": 73
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"entityName": "콜롬비아",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 10,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "콜롬비아",
+			"coref_index": 725
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 22,
+			"eType": "ELU",
+			"entityName": "크리스토퍼_콜럼버스",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 32,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "크리스토퍼_콜럼버스",
+			"coref_index": 726
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"entityName": "스페인어",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스페인어"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"entityName": "남아메리카",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 56,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "남아메리카"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "ELU",
+			"entityName": "공화제",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 61,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "공화국"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"entityName": "콜롬비아",
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 67,
+			"ancestor": "7-0",
+			"is_target": true,
+			"surface": "콜롬비아",
+			"coref_index": 725
+		}
+	],
+	"plainText": "같이 보기 콜롬비아(Colombia)는 크리스토퍼_콜럼버스에서 유래한 스페인어식 이름이며, 남아메리카의 공화국인 콜롬비아를 비롯한 여러 지명 등에 사용된다."
+}

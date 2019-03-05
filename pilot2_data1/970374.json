@@ -1,0 +1,1506 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 0,
+			"ne_type": "TIME",
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "1873년",
+			"en": 48,
+			"is_target": false,
+			"surface": "1873년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 1,
+			"ne_type": "TIME",
+			"st": 63,
+			"eType": "WIKILINK",
+			"entityName": "1893년",
+			"en": 68,
+			"is_target": false,
+			"surface": "1893년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 116,
+			"eType": "WIKILINK",
+			"entityName": "찰스_두들리_워너",
+			"en": 125,
+			"is_target": true,
+			"surface": "찰스_두들리_워너",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 26,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 37,
+			"is_target": false,
+			"surface": "1865년_남북_전쟁",
+			"coref_index": 1174,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 74,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 78,
+			"is_target": true,
+			"surface": "자본주의",
+			"coref_index": 1181,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "PERSON",
+			"st": 108,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 114,
+			"is_target": true,
+			"surface": "마크_트웨인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 545,
+			"eType": "WIKILINK",
+			"en": 549,
+			"entityName": "노동_조합",
+			"is_target": true,
+			"surface": "노동조합",
+			"coref_index": 1178,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 630,
+			"eType": "WIKILINK",
+			"en": 634,
+			"entityName": "남북_전쟁",
+			"is_target": true,
+			"surface": "남북전쟁",
+			"coref_index": 1174,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 663,
+			"eType": "WIKILINK",
+			"en": 664,
+			"entityName": "면",
+			"is_target": true,
+			"surface": "면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 666,
+			"eType": "WIKILINK",
+			"en": 668,
+			"entityName": "담배",
+			"is_target": true,
+			"surface": "담배",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "EVENT",
+			"st": 196,
+			"eType": "NEW",
+			"en": 202,
+			"entityName": "",
+			"is_target": true,
+			"surface": "도금의_시대",
+			"coref_index": 1175,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 235,
+			"eType": "NEW",
+			"en": 238,
+			"entityName": "",
+			"is_target": true,
+			"surface": "미국인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 254,
+			"eType": "NEW",
+			"en": 256,
+			"entityName": "",
+			"is_target": true,
+			"surface": "유럽",
+			"coref_index": 1176,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 289,
+			"eType": "NEW",
+			"en": 296,
+			"entityName": "",
+			"is_target": true,
+			"surface": "산업화의_상승",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "LOCATION",
+			"st": 311,
+			"eType": "NEW",
+			"en": 313,
+			"entityName": "",
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 1177,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 324,
+			"eType": "NEW",
+			"en": 329,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1860년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "TIME",
+			"st": 332,
+			"eType": "NEW",
+			"en": 337,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1890년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "EVENT",
+			"st": 381,
+			"eType": "NEW",
+			"en": 386,
+			"entityName": "",
+			"is_target": true,
+			"surface": "도금_시대",
+			"coref_index": 1175,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "LOCATION",
+			"st": 398,
+			"eType": "NEW",
+			"en": 400,
+			"entityName": "",
+			"is_target": true,
+			"surface": "유럽",
+			"coref_index": 1176,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 566,
+			"eType": "NEW",
+			"en": 568,
+			"entityName": "",
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 1177,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 577,
+			"eType": "NEW",
+			"en": 582,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1873년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "TIME",
+			"st": 587,
+			"eType": "NEW",
+			"en": 592,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1893년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 697,
+			"eType": "NEW",
+			"en": 699,
+			"entityName": "",
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 1177,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 830,
+			"eType": "WIKILINK",
+			"entityName": "금주법",
+			"en": 833,
+			"is_target": true,
+			"surface": "금주법",
+			"coref_index": 1179,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 941,
+			"eType": "WIKILINK",
+			"entityName": "아동_노동",
+			"en": 946,
+			"is_target": true,
+			"surface": "아동_노동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 986,
+			"eType": "WIKILINK",
+			"entityName": "여성참정권",
+			"en": 992,
+			"is_target": true,
+			"surface": "여성_참정권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 1092,
+			"eType": "ELU",
+			"entityName": "로마_가톨릭교회",
+			"en": 1099,
+			"is_target": true,
+			"surface": "로마가톨릭교회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 1101,
+			"eType": "ELU",
+			"entityName": "루터교",
+			"en": 1105,
+			"is_target": true,
+			"surface": "루터교회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ORGANIZATION",
+			"st": 800,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 802,
+			"is_target": true,
+			"surface": "정당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 777,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 780,
+			"is_target": true,
+			"surface": "출석률",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 856,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 858,
+			"is_target": true,
+			"surface": "관세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 860,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 865,
+			"is_target": true,
+			"surface": "화폐_공급",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 894,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 896,
+			"is_target": true,
+			"surface": "정파",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 927,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 931,
+			"is_target": true,
+			"surface": "노동조합",
+			"coref_index": 1178,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 982,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 984,
+			"is_target": true,
+			"surface": "금주",
+			"coref_index": 1179,
+			"ancestor": "1-23"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ORGANIZATION",
+			"st": 1000,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1006,
+			"is_target": true,
+			"surface": "지방_행정부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ORGANIZATION",
+			"st": 1008,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1010,
+			"is_target": true,
+			"surface": "학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 1012,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1014,
+			"is_target": true,
+			"surface": "병원",
+			"coref_index": 1180,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ORGANIZATION",
+			"st": 1031,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1035,
+			"is_target": true,
+			"surface": "사립학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ORGANIZATION",
+			"st": 1037,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1039,
+			"is_target": true,
+			"surface": "병원",
+			"coref_index": 1180,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 1050,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1052,
+			"is_target": true,
+			"surface": "종파",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 1073,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1078,
+			"is_target": true,
+			"surface": "선교_활동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ORGANIZATION",
+			"st": 1131,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1133,
+			"is_target": true,
+			"surface": "대학",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 1135,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1137,
+			"is_target": true,
+			"surface": "병원",
+			"coref_index": 1180,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 44,
+			"ne_type": "TIME",
+			"st": 1191,
+			"eType": "WIKILINK",
+			"entityName": "1869년",
+			"en": 1196,
+			"is_target": false,
+			"surface": "1869년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 45,
+			"ne_type": "LOCATION",
+			"st": 1198,
+			"eType": "WIKILINK",
+			"entityName": "오마하",
+			"en": 1201,
+			"is_target": true,
+			"surface": "오마하",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"id": 46,
+			"ne_type": "LOCATION",
+			"st": 1203,
+			"eType": "WIKILINK",
+			"entityName": "새크라멘토",
+			"en": 1208,
+			"is_target": true,
+			"surface": "새크라멘토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 1217,
+			"eType": "WIKILINK",
+			"entityName": "대륙_횡단_철도",
+			"en": 1223,
+			"is_target": true,
+			"surface": "대륙횡단철도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 1278,
+			"eType": "ELU",
+			"entityName": "앤드루_카네기",
+			"en": 1285,
+			"is_target": true,
+			"surface": "앤드루_카네기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 1301,
+			"eType": "ELU",
+			"entityName": "존_D._록펠러",
+			"en": 1306,
+			"is_target": true,
+			"surface": "존_록펠러",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Museum",
+				"Building",
+				"Place",
+				"Place"
+			],
+			"id": 50,
+			"ne_type": "LOCATION",
+			"st": 1315,
+			"eType": "ELU",
+			"entityName": "솔로몬_R._구겐하임_미술관",
+			"en": 1319,
+			"is_target": true,
+			"surface": "구겐하임",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 1329,
+			"eType": "ELU",
+			"entityName": "마이어_구겐하임",
+			"en": 1337,
+			"is_target": true,
+			"surface": "마이어_구겐하임",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "ETC",
+			"st": 1461,
+			"eType": "WIKILINK",
+			"entityName": "배금주의",
+			"en": 1465,
+			"is_target": true,
+			"surface": "배금주의",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 1516,
+			"eType": "WIKILINK",
+			"entityName": "마크_트웨인",
+			"en": 1522,
+			"is_target": true,
+			"surface": "마크_트웨인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "TIME",
+			"st": 1148,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1155,
+			"is_target": true,
+			"surface": "남북_전쟁_후",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 1257,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1261,
+			"is_target": true,
+			"surface": "자본주의",
+			"coref_index": 1181,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 1451,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1459,
+			"is_target": true,
+			"surface": "사상누각의_호황",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 1429,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1434,
+			"is_target": true,
+			"surface": "도금_시대",
+			"coref_index": 1175,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "ORGANIZATION",
+			"st": 1385,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1387,
+			"is_target": true,
+			"surface": "국가",
+			"coref_index": 1177,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "ORGANIZATION",
+			"st": 1412,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1415,
+			"is_target": true,
+			"surface": "하층민",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "ORGANIZATION",
+			"st": 1395,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1398,
+			"is_target": true,
+			"surface": "자본가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "ORGANIZATION",
+			"st": 1240,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1243,
+			"is_target": true,
+			"surface": "이민자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "LOCATION",
+			"st": 1231,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1233,
+			"is_target": true,
+			"surface": "유럽",
+			"coref_index": 1176,
+			"ancestor": "1-18"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "LOCATION",
+			"st": 1286,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1291,
+			"is_target": true,
+			"surface": "스코틀랜드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "LOCATION",
+			"st": 1338,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1341,
+			"is_target": true,
+			"surface": "스위스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ETC",
+			"st": 1346,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1353,
+			"is_target": true,
+			"surface": "유태계_독일인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 1537,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1542,
+			"is_target": true,
+			"surface": "정치_부패",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 67,
+			"ne_type": "PERSON",
+			"st": 1556,
+			"eType": "WIKILINK",
+			"entityName": "에이브러햄_링컨",
+			"en": 1564,
+			"is_target": true,
+			"surface": "에이브러햄_링컨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 68,
+			"ne_type": "PERSON",
+			"st": 1598,
+			"eType": "WIKILINK",
+			"entityName": "앤드루_존슨",
+			"en": 1604,
+			"is_target": true,
+			"surface": "앤드루_존슨",
+			"coref_index": 1182,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 69,
+			"ne_type": "ORGANIZATION",
+			"st": 1610,
+			"eType": "WIKILINK",
+			"entityName": "공화당_(미국)",
+			"en": 1613,
+			"is_target": true,
+			"surface": "공화당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 70,
+			"ne_type": "ORGANIZATION",
+			"st": 1625,
+			"eType": "WIKILINK",
+			"entityName": "민주당_(미국)",
+			"en": 1628,
+			"is_target": true,
+			"surface": "민주당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "ETC",
+			"st": 1753,
+			"eType": "WIKILINK",
+			"entityName": "남북_전쟁",
+			"en": 1757,
+			"is_target": true,
+			"surface": "남북전쟁",
+			"coref_index": 1174,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 72,
+			"ne_type": "ORGANIZATION",
+			"st": 1785,
+			"eType": "WIKILINK",
+			"entityName": "공화당_급진파",
+			"en": 1792,
+			"is_target": true,
+			"surface": "공화당_급진파",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 73,
+			"ne_type": "PERSON",
+			"st": 1811,
+			"eType": "ELU",
+			"entityName": "앤드루_존슨",
+			"en": 1817,
+			"is_target": true,
+			"surface": "앤드루_존슨",
+			"coref_index": 1182,
+			"ancestor": "1-68"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 1897,
+			"eType": "WIKILINK",
+			"entityName": "쿠_클럭스_클랜",
+			"en": 1905,
+			"is_target": true,
+			"surface": "쿠_클럭스_클랜",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "TIME",
+			"st": 1543,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1548,
+			"is_target": true,
+			"surface": "존슨_시대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "LOCATION",
+			"st": 1549,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1551,
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 1177,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "PERSON",
+			"st": 1552,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1555,
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 1183,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "ETC",
+			"st": 1566,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1568,
+			"is_target": true,
+			"surface": "암살",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "PERSON",
+			"st": 1572,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1575,
+			"is_target": true,
+			"surface": "부통령",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "LOCATION",
+			"st": 1583,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1585,
+			"is_target": true,
+			"surface": "남부",
+			"coref_index": 1184,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "LOCATION",
+			"st": 1591,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1593,
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 1177,
+			"ancestor": "1-76"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "PERSON",
+			"st": 1594,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1597,
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 1183,
+			"ancestor": "1-77"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "LOCATION",
+			"st": 1622,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1624,
+			"is_target": true,
+			"surface": "남부",
+			"coref_index": 1184,
+			"ancestor": "1-80"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "ETC",
+			"st": 1629,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1631,
+			"is_target": true,
+			"surface": "출신",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "PERSON",
+			"st": 1639,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1641,
+			"is_target": true,
+			"surface": "백인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "EVENT",
+			"st": 1643,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1645,
+			"is_target": true,
+			"surface": "특사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 1666,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1668,
+			"is_target": true,
+			"surface": "정책",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "EVENT",
+			"st": 1691,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1696,
+			"is_target": true,
+			"surface": "정치_활동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "EVENT",
+			"st": 1704,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1709,
+			"is_target": true,
+			"surface": "노예단속법",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "EVENT",
+			"st": 1715,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1720,
+			"is_target": true,
+			"surface": "흑인단속법",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "EVENT",
+			"st": 1723,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1725,
+			"is_target": true,
+			"surface": "제정",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "EVENT",
+			"st": 1794,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1796,
+			"is_target": true,
+			"surface": "반발",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "EVENT",
+			"st": 1819,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1821,
+			"is_target": true,
+			"surface": "탄핵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "ETC",
+			"st": 1827,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1829,
+			"is_target": true,
+			"surface": "재판",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 95,
+			"ne_type": "ETC",
+			"st": 1891,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1894,
+			"is_target": true,
+			"surface": "차별심",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "EVENT",
+			"st": 1917,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1922,
+			"is_target": true,
+			"surface": "테러_활동",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "3126276,3126277,3126278,3126279,3126280,3126281,3126282,3126283,3126284,3126285,3126286,3126287,3126288,3126289,3126290,3126291,3126292,3126293,3126294,3126295,3126296,3126297,3126298,3126299,3126300,3126301,3126302,3126303,3126304,3126305,3126306,3126307,3126308",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 270,
+			"ancestor": "-1",
+			"st": 268,
+			"surface": "이것"
+		},
+		{
+			"id": 1,
+			"en": 365,
+			"ancestor": "-1",
+			"st": 361,
+			"surface": "그 이후"
+		},
+		{
+			"id": 2,
+			"en": 524,
+			"ancestor": "-1",
+			"st": 522,
+			"surface": "이들"
+		},
+		{
+			"id": 3,
+			"en": 657,
+			"ancestor": "-1",
+			"st": 655,
+			"surface": "그들"
+		},
+		{
+			"id": 4,
+			"en": 661,
+			"ancestor": "-1",
+			"st": 655,
+			"surface": "그들의 경제"
+		},
+		{
+			"id": 5,
+			"en": 684,
+			"ancestor": "-1",
+			"st": 682,
+			"surface": "그것"
+		},
+		{
+			"id": 6,
+			"en": 769,
+			"ancestor": "-1",
+			"st": 764,
+			"surface": "어느 정도"
+		},
+		{
+			"id": 7,
+			"en": 896,
+			"ancestor": "-1",
+			"st": 891,
+			"surface": "여러 정파"
+		},
+		{
+			"id": 8,
+			"en": 1749,
+			"surface": "무엇을",
+			"st": 1746,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"en": 1763,
+			"surface": "무엇을 위한 남북전쟁이었나”라고",
+			"st": 1746,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "도금 시대(鍍金 時代, Gilded Age)는 1865년_남북_전쟁이 끝나고 1873년에 시작되어, 불황이 오는 1893년까지 미국 자본주의가 급속하게 발전한 28년간의 시대를 말한다. 문학가 마크_트웨인과 찰스_두들리_워너가 쓴 동명의 소설 《도금 시대, 오늘날 이야기》(\"The Gilded Age: A Tale of Today\")에서 유래한다. 도금의_시대는 특히, 북부와 서부에서 진행된 급속한 경제 성장기이다. 미국인들, 특히 숙련공들의 임금은 유럽보다 훨씬 높았으며, 이것은 이민자 수백만 명을 유인했다. 산업화의_상승이란 노동력이 증가했는데도 미국에서의 실질 임금은 1860년에서 1890년까지 60% 이상 올랐다는 것을 의미하며, 그 이후로도 계속 올라갔다. 그러나 도금_시대는 또한 쏟아져 나온 유럽 이민자들처럼 빈곤하고 불평등한 시대였으며, 부가 매우 편중되었다. 철도가 주요 산업이었지만, 공장 체계와 광업과 금융도 중요해졌다. 유럽과 중국과 아시아 각국에서 미국으로 이민한 사람들은 서부의 성장을 가속화시켰다. 이들은 농업과 목축업과 광업에 종사했다. 노동조합도 산업 분야에서 중요해졌다. 미국 전역을 강타한 1873년 공황과 1893년 공황이 성장을 중단시켜서 사회상·정치상 격변을 유발시키기도 했다. 남북전쟁 이후 남부는 경제상 황폐화 상태였고 그들의 경제는 면과 담배 생산에 점점 고정되었고 그것은 저가로 고통받았다. 미국 내에서 흑인 대부분이 살았던 남부의 흑인들은 정권과 투표권을 빼앗기고 경제상으로도 불이익을 받았다. 정치상 지형은 어느 정도 부패했는데도 출석률은 매우 높았고 공평하게 짝을 이룬 정당이 접전을 벌였다는 점에서 주목할 만했다. 쟁점은 금주법과 교육과 민족과 인종을 대상으로 문화와 관세와 화폐_공급을 위시한 경제였다. 빠르게 성장하는 도시에는 여러 정파가 도시 정치를 통제하는 역량을 점점 획득하고 있었다. 노동조합은 8시간 노동과 아동_노동 금지를 찬성하는 운동하고 있었고 중산층 개혁가들은 행정 개혁과 금주와 여성_참정권을 요구했다. 지방_행정부는 학교와 병원을 건립했고 현지의 자선가들은 사립학교와 병원도 설립했다. 많은 종파가 신도 수효와 부에서 성장을 이뤘고 선교_활동을 전 세계로 확장했다. 로마가톨릭교회와 루터교회는 종교 학교를 창립했고 더 큰 종파들도 많은 대학과 병원을 설치했다. 호황 남북_전쟁_후 미국은 북부를 중심으로 하는 하나의 큰 국민경제가 정리되었다. 1869년, 오마하와 새크라멘토를 잇는 최초의 대륙횡단철도가 개통되면서 유럽에서 다수한 이민자들이 유입되었다. 이러한 자본주의의 급속한 성장에 따라 철강왕 앤드루_카네기(스코틀랜드 출신), 석유왕 존_록펠러, 솔로몬 R. 구겐하임의 아버지 광산왕 마이어_구겐하임(스위스_출신의 유태계_독일인) 등 이름난 부호가 등장했다. 그러나 정치는 부패했고, 국가의 비호를받은 자본가는 더욱 부를 축적하였고 하층민들은 가난에 허덕였다. ‘도금_시대’(\"Gilded Age\")는 사상누각의_호황과 배금주의를 풍자하며, 이러한 경제의 급속한 성장과 함께 나타난 정치 경제의 부패와 비리를 비판하며 마크_트웨인이 명명한 시대 명칭이다. 정치_부패 존슨_시대 미국_대통령 에이브러햄_링컨이 암살되고서 부통령에서 승격한, 남부 출신인, 미국_대통령 앤드루_존슨의 당적은 공화당이었지만 원래는 남부 민주당 출신이라서 남부의 백인을 특사하는 등 남부에 호의를 보이고 관대한 정책을 펼친다. 반란한 남부의 옛 지도자들이 정치_활동을 재개하여 〈노예단속법〉 대신 〈흑인단속법〉을 제정하는 등 기존 지배 체제가 유지되자 “무엇을 위한 남북전쟁이었나”라고 하면며 북부의 여론은 격앙되었고 특히 공화당_급진파의 반발을 불러왔다. 미국 대통령 앤드루_존슨은 탄핵을 목적한 재판받고서 1표 차이로 탄핵에서는 결국 벗어났지만 대통령으로서의 영향력은 완전히 상실했다. 남부 백인은 뿌리 깊은 차별심에서 쿠_클럭스_클랜(KKK) 등에 의한 테러_활동을 활발하게 전개했다. ",
+	"docID": "970374"
+}

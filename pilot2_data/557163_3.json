@@ -1,0 +1,603 @@
+{
+	"docID": "557163",
+	"globalSID": "2300720,2300721,2300722,2300723,2300724,2300725,2300726",
+	"pronouns": [
+		{
+			"en": 240,
+			"ancestor": "-1",
+			"surface": "엄청난 양의",
+			"id": 0,
+			"st": 234
+		},
+		{
+			"en": 245,
+			"ancestor": "-1",
+			"surface": "엄청난 양의 광선으로",
+			"id": 1,
+			"st": 234
+		},
+		{
+			"en": 409,
+			"ancestor": "-1",
+			"surface": "그 곳에",
+			"id": 2,
+			"st": 405
+		},
+		{
+			"en": 422,
+			"ancestor": "-1",
+			"surface": "그 곳에 와 있던 자오와 결투를",
+			"id": 3,
+			"st": 405
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "런던",
+			"entityName": "런던"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "-1",
+			"surface": "펜싱",
+			"entityName": "펜싱"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "3-15",
+			"coref_index": 710,
+			"surface": "로자먼드_파이크",
+			"entityName": "로자먼드_파이크"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 76,
+			"ancestor": "-1",
+			"coref_index": 711,
+			"surface": "아이슬란드",
+			"entityName": "아이슬란드"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"st": 117,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 120,
+			"ancestor": "3-15",
+			"coref_index": 710,
+			"surface": "미란다",
+			"entityName": "디_그레이맨"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 141,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 146,
+			"ancestor": "3-3",
+			"coref_index": 711,
+			"surface": "아이슬란드",
+			"entityName": "아이슬란드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 194,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 198,
+			"ancestor": "-1",
+			"coref_index": 712,
+			"surface": "이카루스",
+			"entityName": "이카로스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 223,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 227,
+			"ancestor": "3-6",
+			"coref_index": 712,
+			"surface": "이카루스",
+			"entityName": "이카로스"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 246,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 250,
+			"ancestor": "-1",
+			"coref_index": 716,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 305,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 316,
+			"ancestor": "2-15",
+			"coref_index": 713,
+			"surface": "조선민주주의인민공화국",
+			"entityName": "조선민주주의인민공화국"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"st": 339,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 342,
+			"ancestor": "3-15",
+			"coref_index": 710,
+			"surface": "미란다",
+			"entityName": "디_그레이맨"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"st": 376,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 379,
+			"ancestor": "3-15",
+			"coref_index": 710,
+			"surface": "미란다",
+			"entityName": "디_그레이맨"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "클럽",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 16,
+			"ancestor": "2-19",
+			"coref_index": 708,
+			"surface": "구스타프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 23,
+			"ancestor": "2-0",
+			"coref_index": 705,
+			"surface": "본드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 33,
+			"ancestor": "-1",
+			"coref_index": 710,
+			"surface": "미란다_프로스트",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "LOCATION",
+			"en": 48,
+			"ancestor": "-1",
+			"coref_index": 718,
+			"surface": "영국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"en": 55,
+			"ancestor": "2-9",
+			"coref_index": 714,
+			"surface": "정보국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 69,
+			"ancestor": "2-19",
+			"coref_index": 708,
+			"surface": "구스타프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "인공위성",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "EVENT",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "시연회",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ORGANIZATION",
+			"en": 114,
+			"ancestor": "3-17",
+			"coref_index": 714,
+			"surface": "정보국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 139,
+			"ancestor": "2-0",
+			"coref_index": 705,
+			"surface": "본드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "PERSON",
+			"en": 154,
+			"ancestor": "2-19",
+			"coref_index": 708,
+			"surface": "구스타프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "LOCATION",
+			"en": 165,
+			"ancestor": "-1",
+			"surface": "얼음궁전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 216,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 25,
+			"ne_type": "ETC",
+			"en": 221,
+			"ancestor": "-1",
+			"surface": "다이아몬드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 241,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "ETC",
+			"en": 243,
+			"ancestor": "-1",
+			"surface": "광선",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 281,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "LOCATION",
+			"en": 283,
+			"ancestor": "2-16",
+			"coref_index": 709,
+			"surface": "쿠바",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 286,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 28,
+			"ne_type": "EVENT",
+			"en": 290,
+			"ancestor": "-1",
+			"surface": "성형수술",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 295,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 29,
+			"ne_type": "ETC",
+			"en": 298,
+			"ancestor": "-1",
+			"surface": "DNA",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 347,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 30,
+			"ne_type": "ETC",
+			"en": 350,
+			"ancestor": "-1",
+			"surface": "스파이",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 361,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 31,
+			"ne_type": "ETC",
+			"en": 363,
+			"ancestor": "-1",
+			"surface": "비서",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 415,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 32,
+			"ne_type": "PERSON",
+			"en": 417,
+			"ancestor": "2-18",
+			"coref_index": 707,
+			"surface": "자오",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 381,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 33,
+			"ne_type": "EVENT",
+			"en": 383,
+			"ancestor": "-1",
+			"surface": "유혹",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 419,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 34,
+			"ne_type": "EVENT",
+			"en": 421,
+			"ancestor": "-1",
+			"surface": "결투",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 467,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 35,
+			"ne_type": "PERSON",
+			"en": 470,
+			"ancestor": "2-12",
+			"coref_index": 715,
+			"surface": "징크스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 475,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 36,
+			"ne_type": "EVENT",
+			"en": 477,
+			"ancestor": "-1",
+			"surface": "구출",
+			"entityName": ""
+		}
+	],
+	"plainText": "런던의 펜싱 클럽에서 구스타프를 만난 본드는 미란다_프로스트(로자먼드_파이크)라는 영국 비밀 정보국 요원을 만난다. 구스타프는 아이슬란드에서 열리는 새로운 인공위성 이카루스 시연회에 초대한다. 비밀 정보국에서 미란다와 함께 임무 수행을 지시받은 본드는 아이슬란드로 가 구스타프의 본거지인 얼음궁전에서 구스타프 일당이 개발한 엄청난 위력의 인공위성 이카루스의 정체를 파악한다. 구스타프는 다이아몬드를 이카루스에 장착하여 엄청난 양의 광선으로 대한민국을 침공할 계획을 세운 것이다. 그리고 구스타프는 사실 쿠바에서 성형수술을 하고 DNA까지 교체한 조선민주주의인민공화국의 문 대령이고, 비밀 정보국 요원이라는 미란다는 이중 스파이로 실은 구스타프의 비서라는 것을 알게 된다. 미란다의 유혹으로 본드는 곤란에 빠지게 되고, 이미 그 곳에 와 있던 자오와 결투를 벌인다. 본드는 가까스로 자오를 물리치고, 역시 음모에 빠져 죽을 위기에 처한 징크스를 겨우 구출해 낸다."
+}

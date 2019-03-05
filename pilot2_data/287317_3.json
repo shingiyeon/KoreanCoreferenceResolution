@@ -1,0 +1,130 @@
+{
+	"docID": "287317",
+	"globalSID": "1591377",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "이스라엘",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이스라엘"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"entityName": "팔레스타인인",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "팔레스타인인",
+			"coref_index": 410
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 15,
+			"eType": "ELU",
+			"entityName": "아랍인",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "아랍인",
+			"coref_index": 413
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"entityName": "모어",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "모어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"entityName": "아랍어",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 40,
+			"ancestor": "1-1",
+			"is_target": true,
+			"surface": "아랍어",
+			"coref_index": 414
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"entityName": "아랍인",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "아랍인",
+			"coref_index": 413
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 61,
+			"eType": "ELU",
+			"entityName": "유대인",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 64,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유대인",
+			"coref_index": 415
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 54,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 58,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유대교도"
+		}
+	],
+	"plainText": "이스라엘은 팔레스타인인을 '아랍인'으로만 부르지만, 모어(母語)가 아랍어였던 아랍인이라 하더라도 유대교도라면 유대인으로 구분한다."
+}

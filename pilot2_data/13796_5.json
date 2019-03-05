@@ -1,0 +1,160 @@
+{
+	"docID": "13796",
+	"globalSID": "205715,205716,205717",
+	"pronouns": [
+		{
+			"st": 137,
+			"coref_index": 198,
+			"id": 0,
+			"en": 139,
+			"ancestor": "5-4",
+			"surface": "자신"
+		},
+		{
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "자신의 생각에서",
+			"id": 1,
+			"st": 137
+		},
+		{
+			"en": 156,
+			"ancestor": "-1",
+			"surface": "자신의 생각에서 나온 가상의 단어라",
+			"id": 2,
+			"st": 137
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "이영도_작품_속의_인공어",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "자이펀어",
+			"coref_index": 199
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "ELU",
+			"entityName": "이영도_작품_속의_인공어",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "5-0",
+			"is_target": true,
+			"surface": "자이펀어",
+			"coref_index": 199
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Book",
+				"Work"
+			],
+			"st": 23,
+			"eType": "ELU",
+			"entityName": "드래곤_라자",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "3-0",
+			"is_target": true,
+			"surface": "드래곤라자",
+			"coref_index": 200
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 35,
+			"eType": "ELU",
+			"entityName": "이영도",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 38,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "이영도",
+			"coref_index": 198
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 126,
+			"eType": "ELU",
+			"entityName": "이영도",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 129,
+			"ancestor": "5-3",
+			"is_target": true,
+			"surface": "이영도",
+			"coref_index": 198
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "ELU",
+			"entityName": "이영도_작품_속의_인공어",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 135,
+			"ancestor": "5-1",
+			"is_target": true,
+			"surface": "자이펀어",
+			"coref_index": 199
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "4-1",
+			"is_target": true,
+			"surface": "헤게모니아어",
+			"coref_index": 201
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 95,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 98,
+			"ancestor": "5-3",
+			"is_target": true,
+			"surface": "이영도",
+			"coref_index": 198
+		}
+	],
+	"plainText": "자이펀어 자이펀어(Djipenian)는 《드래곤라자》와 관련된 이영도의 대부분의 작품에 등장하는 언어로서 헤게모니아어와는 다르게 전개 비중이 크고, 사용의 빈번도가 잦아 이영도의 팬들에게 많은 관심을 받아왔다. 하지만 실제로 이영도는 자이펀어가 자신의 생각에서 나온 가상의 단어라 밝혔다."
+}

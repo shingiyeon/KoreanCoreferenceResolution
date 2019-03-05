@@ -1,0 +1,38 @@
+{
+	"docID": "860115",
+	"globalSID": "2918876",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "-1",
+			"surface": "운영체제",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"coref_index": 1064,
+			"surface": "업그레이드",
+			"entityName": ""
+		}
+	],
+	"plainText": "운영체제 업그레이드"
+}

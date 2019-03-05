@@ -1,0 +1,95 @@
+{
+	"docID": "87587",
+	"globalSID": "681200,681201",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "1937년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1937년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"entityName": "조선부인문제연구회",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 15,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "조선부인문제연구회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"entityName": "조선총독부",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 57,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "조선총독부",
+			"coref_index": 1082
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"entityName": "방송선전협의회",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "방송선전협의회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "조선귀족",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 85,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "조선귀족"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 110,
+			"eType": "WIKILINK",
+			"entityName": "애국금차회",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "애국금차회"
+		}
+	],
+	"plainText": "1937년 조선부인문제연구회에 가입하여 순회 강연을 다니면서부터 친일 활동을 시작했다. 그해 조선총독부의 방송선전협의회에서 친일 강좌를 맡았고, 조선귀족 부인들과 여성계 친일 인사들이 공동 조직한 애국금차회에도 가담했다."
+}

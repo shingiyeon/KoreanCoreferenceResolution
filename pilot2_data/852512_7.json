@@ -1,0 +1,89 @@
+{
+	"docID": "852512",
+	"globalSID": "2908706,2908707,2908708",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "홋카이도_닛폰햄_파이터스",
+			"entityName": "홋카이도_닛폰햄_파이터스"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 106,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 118,
+			"ancestor": "-1",
+			"surface": "도쿄_야쿠르트_스왈로스",
+			"entityName": "도쿄_야쿠르트_스왈로스"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 181,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 196,
+			"ancestor": "-1",
+			"surface": "요코하마_DeNA_베이스타스",
+			"entityName": "요코하마_DeNA_베이스타스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "2012년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 247,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 252,
+			"ancestor": "4-10",
+			"coref_index": 1058,
+			"surface": "평균자책점",
+			"entityName": ""
+		}
+	],
+	"plainText": "2012년 시즌 개막은 2군에서 맞이했는데 당초에는 구원 요원이었지만 4월 29일 홋카이도_닛폰햄_파이터스전에 선발로 첫 등판하면서 4이닝까지 피안타 1개와 무실점으로 호투했고 5월 5일의 도쿄_야쿠르트_스왈로스전에서는 두 번째로 선발 등판해 6이닝까지 무안타와 무실점으로 처리하는 등 서서히 두각을 나타냈다. 5월 12일 요코하마_DeNA_베이스타스전에서는 5이닝까지 8개의 피안타와 2실점을 기록했지만 7경기에 등판해 승패없이 0.86의 평균자책점으로 투구 내용에 높은 평가받아 1군에 승격되었다."
+}

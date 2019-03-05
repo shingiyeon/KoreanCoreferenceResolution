@@ -1,0 +1,238 @@
+{
+	"docID": "514085",
+	"globalSID": "2217004,2217005,2217006,2217007,2217008",
+	"pronouns": [
+		{
+			"st": 63,
+			"coref_index": 655,
+			"id": 0,
+			"en": 83,
+			"ancestor": "2-11",
+			"surface": "사이토_시게자네(?藤??)의 여동생."
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "분고",
+			"entityName": "분고_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"coref_index": 640,
+			"surface": "오토모_가문",
+			"entityName": "오토모_가문"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "요시히로_아키마사",
+			"entityName": "요시히로_아키마사"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 51,
+			"ancestor": "-1",
+			"surface": "다치바나_무네시게",
+			"entityName": "다치바나_무네시게"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 71,
+			"ancestor": "-1",
+			"surface": "사이토_시게자네",
+			"entityName": "사이토_시게자네"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 82,
+			"ancestor": "-1",
+			"surface": "여동생",
+			"entityName": "형제자매"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 102,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 110,
+			"ancestor": "-1",
+			"coref_index": 643,
+			"surface": "다치바나_도세쓰",
+			"entityName": "다치바나_도세쓰"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 136,
+			"ancestor": "-1",
+			"coref_index": 647,
+			"surface": "시마즈_가문",
+			"entityName": "시마즈_가문"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 164,
+			"ancestor": "-1",
+			"coref_index": 642,
+			"surface": "지쿠젠",
+			"entityName": "지쿠젠_국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 165,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 170,
+			"ancestor": "-1",
+			"coref_index": 646,
+			"surface": "이와야_성",
+			"entityName": "이와야_성"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "친부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 61,
+			"ancestor": "-1",
+			"coref_index": 655,
+			"surface": "부인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 87,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 93,
+			"ancestor": "2-1",
+			"coref_index": 640,
+			"surface": "오토모_가문",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 123,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 125,
+			"ancestor": "-1",
+			"surface": "용장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 186,
+			"ancestor": "-1",
+			"surface": "병사",
+			"entityName": ""
+		}
+	],
+	"plainText": "분고 오토모_가문(大友氏)의 가신. 요시히로_아키마사(吉弘鑑理)의 아들로, 다치바나_무네시게의 친부이다. 부인은 사이토_시게자네(?藤??)의 여동생. 같은 오토모_가문의 수하 무장인 다치바나_도세쓰(立花道雪)에 견줄만한 용장이었다. 시마즈_가문(島津氏)이 대군을 이끌고 공격해 왔을 때, 지쿠젠 이와야_성(岩屋城)에서 적은 수의 병사로 농성하여, 보름 가량 저항하다 옥쇄하였다."
+}

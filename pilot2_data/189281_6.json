@@ -1,0 +1,214 @@
+{
+	"docID": "189281",
+	"globalSID": "1202125,1202126,1202127,1202128",
+	"pronouns": [
+		{
+			"en": 3,
+			"st": 0,
+			"surface": "그 후",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 9,
+			"st": 0,
+			"surface": "그 후 몇 년간은",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 154,
+			"st": 152,
+			"surface": "전자",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 161,
+			"st": 152,
+			"surface": "전자 신시사이저를",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 31,
+			"ancestor": "",
+			"surface": "1969년",
+			"entityName": "1969년"
+		},
+		{
+			"kbox_types": [
+				"TopicalConcept",
+				"MusicGenre",
+				"Genre"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 36,
+			"ancestor": "-1",
+			"surface": "재즈",
+			"entityName": "재즈"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 103,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 112,
+			"ancestor": "1-5",
+			"coref_index": 316,
+			"surface": "인더스트리얼_음악",
+			"entityName": "인더스트리얼_음악"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 120,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 125,
+			"ancestor": "",
+			"surface": "1971년",
+			"entityName": "1971년"
+		},
+		{
+			"kbox_types": [
+				"Instrument",
+				"Device"
+			],
+			"st": 155,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "신시사이저",
+			"entityName": "신시사이저"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "그룹",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "그룹_Can",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 68,
+			"ancestor": "-1",
+			"surface": "Kluster",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 167,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 172,
+			"ancestor": "-1",
+			"surface": "음향_제작",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 199,
+			"ancestor": "-1",
+			"surface": "Kosmische_Musik",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 128,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "Tangerine_Dream",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "Faust",
+			"entityName": ""
+		}
+	],
+	"plainText": "그 후 몇 년간은 개척흐름의 그룹들이 보였다. 1969년에는 재즈를 가미한 그룹_Can이 결성되었다. 이듬해 Kluster(후의 Cluster)가 키보드 기반의 고정된 저음을 강조하는 인더스트리얼_음악을 선보였다. 1971년에는 Tangerine_Dream과 Faust가 전자 신시사이저를 사용하고 음향_제작의 테크닉을 향상시켜 Kosmische_Musik을 만드는 데 일조했다."
+}

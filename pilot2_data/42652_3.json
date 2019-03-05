@@ -1,0 +1,363 @@
+{
+	"docID": "42652",
+	"globalSID": "403401,403402,403403,403404,403405,403406",
+	"pronouns": [
+		{
+			"st": 26,
+			"coref_index": 575,
+			"id": 0,
+			"en": 27,
+			"ancestor": "3-0",
+			"surface": "이"
+		},
+		{
+			"st": 85,
+			"coref_index": 576,
+			"id": 1,
+			"en": 86,
+			"ancestor": "3-7",
+			"surface": "이"
+		},
+		{
+			"en": 120,
+			"st": 94,
+			"surface": "도마뱀 정도 크기의 동물에게만 해당되는 양이다.",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 161,
+			"st": 151,
+			"surface": "나는 노란색_액체를",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"coref_index": 575,
+			"surface": "경계색",
+			"entityName": "경계색"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 97,
+			"ancestor": "-1",
+			"surface": "도마뱀",
+			"entityName": "도마뱀"
+		},
+		{
+			"kbox_types": [
+				"Colour"
+			],
+			"st": 246,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 249,
+			"ancestor": "-1",
+			"coref_index": 566,
+			"surface": "노란색",
+			"entityName": "노랑"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"st": 297,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 300,
+			"ancestor": "-1",
+			"coref_index": 572,
+			"surface": "진딧물",
+			"entityName": "진딧물"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "1-3",
+			"coref_index": 564,
+			"surface": "무당벌레",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "몸",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "포식자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "-1",
+			"coref_index": 576,
+			"surface": "독",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "작은_새",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "동물",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 130,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 134,
+			"ancestor": "-1",
+			"surface": "다리마디",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "노란색_액체",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 173,
+			"ancestor": "-1",
+			"coref_index": 567,
+			"surface": "봄",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 197,
+			"ancestor": "-1",
+			"surface": "변온동물",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 205,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 211,
+			"ancestor": "-1",
+			"surface": "18도_이상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 213,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 215,
+			"ancestor": "-1",
+			"surface": "온도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 228,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 232,
+			"ancestor": "-1",
+			"surface": "어른벌레",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 242,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 244,
+			"ancestor": "-1",
+			"surface": "식물",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 251,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 252,
+			"ancestor": "-1",
+			"surface": "알",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 259,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 261,
+			"ancestor": "-1",
+			"surface": "부화",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 263,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 266,
+			"ancestor": "-1",
+			"surface": "애벌레",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 343,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 345,
+			"ancestor": "-1",
+			"surface": "개체",
+			"entityName": ""
+		}
+	],
+	"plainText": "무당벌레의 몸은 눈에 띄는 경계색을 지녔는데, 이는 포식자들이 눈에 띄는 색을 독이 있거나 불쾌한 것과 연관시키기 때문이다. 무당벌레에는 독이 있는데, 이는 작은_새나 도마뱀 정도 크기의 동물에게만 해당되는 양이다. 위험을 느낄 때 다리마디에서 독이 있고 불쾌한 냄새가 나는 노란색_액체를 내놓는다. 따뜻한 봄이 되면 바깥에 나와서 활동하는데, 변온동물이라는 특징상 18도_이상의 온도이면 움직일 수 있다. 어른벌레는 진딧물이 있는 식물에 노란색의 알을 낳는데, 부화한 애벌레는 아직 태어나지 않은 알들을 무리지어서 잡아먹은 뒤, 진딧물을 잡아먹으면서 자란다. 하지만, 진딧물이 부족하면 서로 잡아먹음으로써 강한 개체만이 살아남는다."
+}

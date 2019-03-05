@@ -1,0 +1,171 @@
+{
+	"docID": "189281",
+	"globalSID": "1202131,1202132,1202133,1202134,1202135,1202136",
+	"pronouns": [
+		{
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "저먼 웨이브",
+			"id": 0,
+			"st": 2
+		},
+		{
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "저먼 웨이브 (Neue Deutsche Welle)",
+			"id": 1,
+			"st": 2
+		},
+		{
+			"en": 101,
+			"ancestor": "-1",
+			"surface": "저먼 웨이브는",
+			"id": 2,
+			"st": 94
+		},
+		{
+			"en": 286,
+			"ancestor": "-1",
+			"surface": "그 예다.)",
+			"id": 3,
+			"st": 280
+		},
+		{
+			"en": 295,
+			"ancestor": "-1",
+			"surface": "그 예다.) 그러나 국제적인",
+			"id": 4,
+			"st": 280
+		},
+		{
+			"en": 302,
+			"ancestor": "-1",
+			"surface": "그 예다.) 그러나 국제적인 약진이라고는",
+			"id": 5,
+			"st": 280
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "영국_펑크_록",
+			"entityName": "영국_펑크_록"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 80,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 84,
+			"ancestor": "1-2",
+			"coref_index": 317,
+			"surface": "뉴웨이브",
+			"entityName": "뉴_웨이브_(음악)"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 135,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 140,
+			"ancestor": "",
+			"surface": "2003년",
+			"entityName": "2003년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 216,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 227,
+			"ancestor": "-1",
+			"surface": "Tokio_Hotel",
+			"entityName": "Tokio_Hotel"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 229,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 244,
+			"ancestor": "-1",
+			"surface": "Wir_sind_Helden",
+			"entityName": "Wir_sind_Helden"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 246,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 256,
+			"ancestor": "-1",
+			"surface": "Silbermond",
+			"entityName": "Silbermond"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 258,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 262,
+			"ancestor": "-1",
+			"surface": "Juli",
+			"entityName": "Juli"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 264,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 276,
+			"ancestor": "-1",
+			"surface": "Revolverheld",
+			"entityName": "Revolverheld"
+		}
+	],
+	"plainText": "뉴 저먼 웨이브 (Neue Deutsche Welle) 새로운 독일 음악(Neue Deutsche Welle)은 영국_펑크_록과 70년대 중반 뉴웨이브의 발로였다. 뉴 저먼 웨이브는 그리 오래 가진 않았으나 80년대 초부터 상업화 되어갔다. 2003년 쯤부터 새로운 “Neue Deutsche Welle” 가 시작된 듯싶다. 많은 독일의 젊은 팝&록 그룹들이 독일에서 성공하고 있다. (Tokio_Hotel, Wir_sind_Helden, Silbermond, Juli, Revolverheld 등이 그 예다.) 그러나 국제적인 약진이라고는 보기 힘들다."
+}

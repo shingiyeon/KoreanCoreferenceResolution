@@ -1,0 +1,865 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 61,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 62,
+			"en": 62,
+			"st_modified": 61
+		},
+		{
+			"st": 232,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 233,
+			"en": 233,
+			"st_modified": 232
+		},
+		{
+			"st": 232,
+			"text": "그의 아버지",
+			"is_pronoun": true,
+			"en_modified": 238,
+			"en": 238,
+			"st_modified": 232
+		},
+		{
+			"st": 274,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 275,
+			"en": 275,
+			"st_modified": 274
+		},
+		{
+			"st": 274,
+			"text": "그의 어머니",
+			"is_pronoun": true,
+			"en_modified": 280,
+			"en": 280,
+			"st_modified": 274
+		},
+		{
+			"st": 300,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 302,
+			"en": 302,
+			"st_modified": 300
+		},
+		{
+			"st": 342,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 343,
+			"en": 343,
+			"st_modified": 342
+		},
+		{
+			"st": 384,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 385,
+			"en": 385,
+			"st_modified": 384
+		},
+		{
+			"st": 453,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 454,
+			"en": 454,
+			"st_modified": 453
+		},
+		{
+			"st": 468,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 469,
+			"en": 469,
+			"st_modified": 468
+		},
+		{
+			"st": 468,
+			"text": "그의 어머니",
+			"is_pronoun": true,
+			"en_modified": 474,
+			"en": 474,
+			"st_modified": 468
+		},
+		{
+			"st": 567,
+			"text": "자신만",
+			"is_pronoun": true,
+			"en_modified": 570,
+			"en": 570,
+			"st_modified": 567
+		},
+		{
+			"st": 567,
+			"text": "자신만의 공업소",
+			"is_pronoun": true,
+			"en_modified": 575,
+			"en": 575,
+			"st_modified": 567
+		},
+		{
+			"st": 590,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 591,
+			"en": 591,
+			"st_modified": 590
+		},
+		{
+			"st": 722,
+			"text": "다른 이들",
+			"is_pronoun": true,
+			"en_modified": 727,
+			"en": 727,
+			"st_modified": 722
+		},
+		{
+			"st": 750,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 751,
+			"en": 751,
+			"st_modified": 750
+		},
+		{
+			"st": 750,
+			"text": "그의 가입",
+			"is_pronoun": true,
+			"en_modified": 755,
+			"en": 755,
+			"st_modified": 750
+		},
+		{
+			"st": 750,
+			"text": "그의 가입을 막았기 때문",
+			"is_pronoun": true,
+			"en_modified": 763,
+			"en": 763,
+			"st_modified": 750
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 61,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 62,
+			"en": 62,
+			"st_modified": 61,
+			"id": 0,
+			"coref_index": 337
+		},
+		{
+			"st": 232,
+			"ancestor": "1-11",
+			"surface": "그",
+			"en_modified": 233,
+			"en": 233,
+			"st_modified": 232,
+			"id": 1,
+			"coref_index": 337
+		},
+		{
+			"st": 232,
+			"ancestor": "-1",
+			"surface": "그의 아버지는",
+			"en_modified": 239,
+			"en": 239,
+			"st_modified": 232,
+			"id": 2
+		},
+		{
+			"st": 274,
+			"ancestor": "1-11",
+			"surface": "그",
+			"en_modified": 275,
+			"en": 275,
+			"st_modified": 274,
+			"id": 3,
+			"coref_index": 337
+		},
+		{
+			"st": 274,
+			"ancestor": "-1",
+			"surface": "그의 어머니는",
+			"en_modified": 281,
+			"en": 281,
+			"st_modified": 274,
+			"id": 4
+		},
+		{
+			"st": 300,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"en_modified": 303,
+			"en": 303,
+			"st_modified": 300,
+			"id": 5
+		},
+		{
+			"st": 342,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 343,
+			"en": 343,
+			"st_modified": 342,
+			"id": 6,
+			"coref_index": 337
+		},
+		{
+			"st": 384,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 385,
+			"en": 385,
+			"st_modified": 384,
+			"id": 7,
+			"coref_index": 337
+		},
+		{
+			"st": 453,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 454,
+			"en": 454,
+			"st_modified": 453,
+			"id": 8,
+			"coref_index": 337
+		},
+		{
+			"st": 468,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 469,
+			"en": 469,
+			"st_modified": 468,
+			"id": 9,
+			"coref_index": 337
+		},
+		{
+			"st": 468,
+			"ancestor": "-1",
+			"surface": "그의 어머니가",
+			"en_modified": 475,
+			"en": 475,
+			"st_modified": 468,
+			"id": 10
+		},
+		{
+			"st": 567,
+			"ancestor": "1-0",
+			"surface": "자신",
+			"en_modified": 569,
+			"en": 569,
+			"st_modified": 567,
+			"id": 11,
+			"coref_index": 337
+		},
+		{
+			"st": 567,
+			"ancestor": "-1",
+			"surface": "자신만의 공업소를",
+			"en_modified": 576,
+			"en": 576,
+			"st_modified": 567,
+			"id": 12
+		},
+		{
+			"st": 590,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 591,
+			"en": 591,
+			"st_modified": 590,
+			"id": 13,
+			"coref_index": 337
+		},
+		{
+			"st": 722,
+			"ancestor": "-1",
+			"surface": "다른 이들이",
+			"en_modified": 728,
+			"en": 728,
+			"st_modified": 722,
+			"id": 14
+		},
+		{
+			"st": 750,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 751,
+			"en": 751,
+			"st_modified": 750,
+			"id": 15,
+			"coref_index": 337
+		},
+		{
+			"st": 750,
+			"ancestor": "-1",
+			"surface": "그의 가입을",
+			"en_modified": 756,
+			"en": 756,
+			"st_modified": 750,
+			"id": 16
+		},
+		{
+			"st": 750,
+			"ancestor": "-1",
+			"surface": "그의 가입을 막았기 때문이다.",
+			"en_modified": 766,
+			"en": 766,
+			"st_modified": 750,
+			"id": 17
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 6,
+			"st_modified": 0,
+			"coref_index": 337,
+			"entityName": "제임스_와트",
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "제임스_와트",
+			"is_target": true,
+			"en": 6,
+			"id": 0
+		},
+		{
+			"en_modified": 44,
+			"st_modified": 39,
+			"coref_index": 338,
+			"entityName": "스코틀랜드",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 39,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스코틀랜드",
+			"is_target": true,
+			"en": 44,
+			"id": 1
+		},
+		{
+			"en_modified": 49,
+			"entityName": "발명가",
+			"st_modified": 46,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 46,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "발명가",
+			"is_target": true,
+			"en": 49,
+			"id": 2
+		},
+		{
+			"en_modified": 56,
+			"entityName": "기계공학",
+			"st_modified": 52,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 52,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기계공학",
+			"is_target": true,
+			"en": 56,
+			"id": 3
+		},
+		{
+			"en_modified": 66,
+			"entityName": "영국",
+			"st_modified": 64,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 64,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "영국",
+			"is_target": true,
+			"en": 66,
+			"id": 4
+		},
+		{
+			"en_modified": 77,
+			"entityName": "산업_혁명",
+			"st_modified": 72,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 72,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "산업_혁명",
+			"is_target": true,
+			"en": 77,
+			"id": 5
+		},
+		{
+			"en_modified": 95,
+			"entityName": "증기_기관",
+			"st_modified": 90,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 90,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "증기_기관",
+			"is_target": true,
+			"en": 95,
+			"id": 6
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1736년_1월_19일",
+			"is_target": false,
+			"en": 21,
+			"id": 7
+		},
+		{
+			"en_modified": 36,
+			"entityName": "",
+			"st_modified": 24,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 24,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1819년_8월_25일",
+			"is_target": false,
+			"en": 36,
+			"id": 8
+		},
+		{
+			"en_modified": 70,
+			"entityName": "",
+			"st_modified": 68,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 68,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "세계",
+			"is_target": true,
+			"en": 70,
+			"id": 9
+		},
+		{
+			"en_modified": 160,
+			"entityName": "",
+			"st_modified": 157,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 157,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "응축기",
+			"is_target": true,
+			"en": 160,
+			"id": 10
+		},
+		{
+			"en_modified": 192,
+			"st_modified": 186,
+			"coref_index": 337,
+			"entityName": "제임스_와트",
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 186,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "제임스_와트",
+			"is_target": true,
+			"en": 192,
+			"id": 11
+		},
+		{
+			"en_modified": 213,
+			"st_modified": 208,
+			"coref_index": 338,
+			"entityName": "스코틀랜드",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 208,
+			"ancestor": "1-1",
+			"ne_type": "LOCATION",
+			"surface": "스코틀랜드",
+			"is_target": true,
+			"en": 213,
+			"id": 12
+		},
+		{
+			"en_modified": 223,
+			"st_modified": 220,
+			"coref_index": 339,
+			"entityName": "그리녹",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Town",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 220,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "그리녹",
+			"is_target": true,
+			"en": 223,
+			"id": 13
+		},
+		{
+			"en_modified": 243,
+			"entityName": "양헌왕_(고려)",
+			"st_modified": 240,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 240,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "조선공",
+			"is_target": true,
+			"en": 243,
+			"id": 14
+		},
+		{
+			"en_modified": 269,
+			"entityName": "공무원",
+			"st_modified": 266,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "ELU",
+			"st": 266,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공무원",
+			"is_target": true,
+			"en": 269,
+			"id": 15
+		},
+		{
+			"en_modified": 310,
+			"entityName": "장로교",
+			"st_modified": 307,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 307,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "장로교",
+			"is_target": true,
+			"en": 310,
+			"id": 16
+		},
+		{
+			"en_modified": 206,
+			"entityName": "",
+			"st_modified": 194,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 194,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1736년_1월_19일",
+			"is_target": false,
+			"en": 206,
+			"id": 17
+		},
+		{
+			"en_modified": 370,
+			"st_modified": 367,
+			"coref_index": 339,
+			"entityName": "그리녹",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Town",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 367,
+			"ancestor": "1-13",
+			"ne_type": "LOCATION",
+			"surface": "그리녹",
+			"is_target": true,
+			"en": 370,
+			"id": 18
+		},
+		{
+			"en_modified": 428,
+			"entityName": "라틴어",
+			"st_modified": 425,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 425,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "라틴어",
+			"is_target": true,
+			"en": 428,
+			"id": 19
+		},
+		{
+			"en_modified": 434,
+			"entityName": "그리스어",
+			"st_modified": 430,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 430,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "그리스어",
+			"is_target": true,
+			"en": 434,
+			"id": 20
+		},
+		{
+			"en_modified": 531,
+			"entityName": "런던",
+			"st_modified": 529,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 529,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "런던",
+			"is_target": true,
+			"en": 531,
+			"id": 21
+		},
+		{
+			"en_modified": 544,
+			"st_modified": 539,
+			"coref_index": 338,
+			"entityName": "스코틀랜드",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 539,
+			"ancestor": "1-12",
+			"ne_type": "LOCATION",
+			"surface": "스코틀랜드",
+			"is_target": true,
+			"en": 544,
+			"id": 22
+		},
+		{
+			"en_modified": 565,
+			"st_modified": 561,
+			"coref_index": 340,
+			"entityName": "글래스고",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 561,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "글래스고",
+			"is_target": true,
+			"en": 565,
+			"id": 23
+		},
+		{
+			"en_modified": 606,
+			"entityName": "사분의",
+			"st_modified": 603,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 603,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사분의",
+			"is_target": true,
+			"en": 606,
+			"id": 24
+		},
+		{
+			"en_modified": 640,
+			"entityName": "망원경",
+			"st_modified": 637,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 637,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "망원경",
+			"is_target": true,
+			"en": 640,
+			"id": 25
+		},
+		{
+			"en_modified": 648,
+			"entityName": "기압계",
+			"st_modified": 645,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 645,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기압계",
+			"is_target": true,
+			"en": 648,
+			"id": 26
+		},
+		{
+			"en_modified": 709,
+			"st_modified": 704,
+			"coref_index": 338,
+			"entityName": "스코틀랜드",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 704,
+			"ancestor": "1-12",
+			"ne_type": "LOCATION",
+			"surface": "스코틀랜드",
+			"is_target": true,
+			"en": 709,
+			"id": 27
+		},
+		{
+			"en_modified": 739,
+			"st_modified": 735,
+			"coref_index": 340,
+			"entityName": "글래스고",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 735,
+			"ancestor": "1-23",
+			"ne_type": "LOCATION",
+			"surface": "글래스고",
+			"is_target": true,
+			"en": 739,
+			"id": 28
+		},
+		{
+			"en_modified": 748,
+			"entityName": "길드",
+			"st_modified": 746,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 746,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "길드",
+			"is_target": true,
+			"en": 748,
+			"id": 29
+		}
+	],
+	"globalSID": "1420738,1420739,1420740,1420741,1420742,1420743,1420744,1420745,1420746,1420747,1420748,1420749,1420750,1420751,1420752",
+	"plainText": "제임스_와트(, 1736년_1월_19일 ~ 1819년_8월_25일)는 스코틀랜드의 발명가이자 기계공학자였다. 그는 영국과 세계의 산업_혁명에 중대한 역할을 했던 증기_기관을 개량하는 데 공헌하였다. 흔히 증기 기관을 발명했다 알려졌지만, 실제로는 기존의 이미 존재하는 증기 기관에 응축기를 부착하여 효율을 높인 것이다. 생애 성장기 제임스_와트는 1736년_1월_19일, 스코틀랜드의 항구도시 그리녹에서 태어났다. 그의 아버지는 조선공이자, 선주, 하청업자였으며 도시의 고위 공무원이었으며 그의 어머니는 잘 교육받은 명문가의 자제였다. 그들은 모두 장로교인이자 맹신도였다. 와트는 정규교육을 받지 않았다. 처음 그는 집에서 어머니에게 교육을 받았으나 이후 그리녹 문법 학교에 입학했다. 그는 아주 뛰어난 손재주를 보였고, 공학과 수학에 재능이 있었다. 반면, 라틴어나 그리스어에 대해서는 관심을 갖지 않았다. 그가 열여덟이 되었을 때, 그의 어머니가 사망했으며 아버지의 건강 또한 악화되기 시작했다. 와트는 기계 만드는 법을 배우기 위해 1년간 런던에서 지낸 후 스코틀랜드로 돌아왔으며, 상공업 중심지 글래스고에 자신만의 공업소를 차리기 위해 정착했다. 그는 놋쇠로 된 반사식 사분의(항해할 때 쓰는 거울과 같은 기구), 평행자, 저울, 망원경 부품, 기압계 등을 주로 만들거나 고쳤는데, 와트가 최소 7년간을 도제공(견습생)으로 지내지 않았기 때문에 당시 스코틀랜드에 수학 도구를 만드는 다른 이들이 없었음에도 글래스고의 대장장이 길드가 그의 가입을 막았기 때문이다. ",
+	"docID": "247635",
+	"ModifiedText": "제임스 와트(, 1736년 1월 19일 ~ 1819년 8월 25일)는 스코틀랜드의 발명가이자 기계공학자였다. 그는 영국과 세계의 산업 혁명에 중대한 역할을 했던 증기 기관을 개량하는 데 공헌하였다. 흔히 증기 기관을 발명했다 알려졌지만, 실제로는 기존의 이미 존재하는 증기 기관에 응축기를 부착하여 효율을 높인 것이다. 생애 성장기 제임스 와트는 1736년 1월 19일, 스코틀랜드의 항구도시 그리녹에서 태어났다. 그의 아버지는 조선공이자, 선주, 하청업자였으며 도시의 고위 공무원이었으며 그의 어머니는 잘 교육받은 명문가의 자제였다. 그들은 모두 장로교인이자 맹신도였다. 와트는 정규교육을 받지 않았다. 처음 그는 집에서 어머니에게 교육을 받았으나 이후 그리녹 문법 학교에 입학했다. 그는 아주 뛰어난 손재주를 보였고, 공학과 수학에 재능이 있었다. 반면, 라틴어나 그리스어에 대해서는 관심을 갖지 않았다. 그가 열여덟이 되었을 때, 그의 어머니가 사망했으며 아버지의 건강 또한 악화되기 시작했다. 와트는 기계 만드는 법을 배우기 위해 1년간 런던에서 지낸 후 스코틀랜드로 돌아왔으며, 상공업 중심지 글래스고에 자신만의 공업소를 차리기 위해 정착했다. 그는 놋쇠로 된 반사식 사분의(항해할 때 쓰는 거울과 같은 기구), 평행자, 저울, 망원경 부품, 기압계 등을 주로 만들거나 고쳤는데, 와트가 최소 7년간을 도제공(견습생)으로 지내지 않았기 때문에 당시 스코틀랜드에 수학 도구를 만드는 다른 이들이 없었음에도 글래스고의 대장장이 길드가 그의 가입을 막았기 때문이다. "
+}

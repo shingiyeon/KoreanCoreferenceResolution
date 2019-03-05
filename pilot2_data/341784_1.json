@@ -1,0 +1,262 @@
+{
+	"docID": "341784",
+	"globalSID": "1779457",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist",
+				"MilitaryPerson"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 465,
+			"surface": "신영균",
+			"entityName": "신영균_(배우)"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 31,
+			"ancestor": "-1",
+			"coref_index": 468,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 33,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 37,
+			"ancestor": "-1",
+			"coref_index": 467,
+			"surface": "영화배우",
+			"entityName": "영화배우"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "연극",
+			"entityName": "연극"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "배우",
+			"entityName": "배우"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "치과의사",
+			"entityName": "치과의사"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist",
+				"Profession"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 53,
+			"ancestor": "-1",
+			"surface": "가수",
+			"entityName": "가수"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre",
+				"Profession",
+				"PersonFunction"
+			],
+			"st": 55,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 58,
+			"ancestor": "-1",
+			"coref_index": 466,
+			"surface": "기업가",
+			"entityName": "기업가"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "정치가",
+			"entityName": "정치가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "예비역",
+			"entityName": "예비역"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 93,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 100,
+			"ancestor": "-1",
+			"coref_index": 473,
+			"surface": "대한민국_해군",
+			"entityName": "대한민국_해군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 103,
+			"ancestor": "-1",
+			"coref_index": 472,
+			"surface": "대위",
+			"entityName": "대위"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 21,
+			"ancestor": "",
+			"surface": "1928년_11월_6일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "영화기획가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 72,
+			"ancestor": "-1",
+			"surface": "영화제작자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 74,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "예술기관단체인",
+			"entityName": ""
+		}
+	],
+	"plainText": "신영균(申榮均, 1928년_11월_6일 ~ )은 대한민국의 영화배우, 연극배우, 치과의사, 가수, 기업가, 영화기획가, 영화제작자, 예술기관단체인, 정치가이며 예비역 대한민국_해군 대위이다."
+}

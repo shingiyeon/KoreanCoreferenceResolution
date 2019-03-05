@@ -1,0 +1,55 @@
+{
+	"docID": "520457",
+	"globalSID": "2228349",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "1-0",
+			"coref_index": 666,
+			"surface": "사이카슈",
+			"entityName": "사이카슈"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 32,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "스즈키",
+			"entityName": "스즈키"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"coref_index": 677,
+			"surface": "쓰치바시",
+			"entityName": ""
+		}
+	],
+	"plainText": "사이카슈를 구성한 주요한 일족으로는 쓰치바시씨[土橋氏]와 스즈키씨[鈴木氏] 등이 알려져 있다."
+}

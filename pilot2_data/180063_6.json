@@ -1,0 +1,111 @@
+{
+	"docID": "180063",
+	"globalSID": "1170067,1170068,1170069,1170070,1170071,1170072",
+	"pronouns": [
+		{
+			"st": 175,
+			"coref_index": 307,
+			"id": 0,
+			"en": 177,
+			"ancestor": "6-1",
+			"surface": "자신"
+		},
+		{
+			"en": 184,
+			"st": 175,
+			"surface": "자신의 여자친구를",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 192,
+			"st": 171,
+			"surface": "숙소에 자신의 여자친구를 끌어들인 일과",
+			"id": 2,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 28,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 31,
+			"ancestor": "1-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 70,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 73,
+			"ancestor": "1-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 198,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 201,
+			"ancestor": "6-1",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 302,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 305,
+			"ancestor": "-1",
+			"surface": "이재훈",
+			"entityName": "이재훈_(프로게이머)"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 329,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 332,
+			"ancestor": "6-1",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		}
+	],
+	"plainText": "쌈바테란 사건 WCG 2005에 한국대표로 출전한 나도현은 예선에서 브라질 대표선수와 경기를 치르게 되었다. 상대를 얕잡아본 나도현은 SCV로 정찰에 성공하자 상대의 본진에서 소위 'SCV 댄스'를 추는 등 여유를 부리다가 상대방의 강한 공격에 허무하게 패하고 말았다. 관련 커뮤니티들은 일제히 들끓었고, 숙소에 자신의 여자친구를 끌어들인 일과 연관지어 나도현의 정신자세에 대한 엄청난 비난이 쏟아졌다. '쌈바테란'이라는 별명은 SCV로 쌈바춤을 추다 졌다거나, 쌈바춤의 나라(브라질) 대표선수에게 졌다는 등으로 해석할 수 있다. 대회에서 이재훈이 우승하며 비난은 일단 잠잠해졌지만 이후 나도현은 계속 하향세를 걸었고, 결국 은퇴하기에 이른다."
+}

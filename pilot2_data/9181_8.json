@@ -1,0 +1,195 @@
+{
+	"docID": "9181",
+	"globalSID": "139694,139695,139696,139697",
+	"pronouns": [],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 7,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 14,
+			"ancestor": "3-27",
+			"coref_index": 1130,
+			"surface": "페르난도포_섬",
+			"entityName": "비오코_섬"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 30,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 35,
+			"ancestor": "2-5",
+			"coref_index": 1126,
+			"surface": "비오코_섬",
+			"entityName": "비오코_섬"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 40,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "무인도",
+			"entityName": "무인도"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 96,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 101,
+			"ancestor": "-1",
+			"surface": "시에라리온",
+			"entityName": "시에라리온"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 104,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "라이베리아",
+			"entityName": "라이베리아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "부비족",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "이보족",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 61,
+			"ancestor": "-1",
+			"coref_index": 1131,
+			"surface": "부비인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 79,
+			"ancestor": "8-7",
+			"coref_index": 1131,
+			"surface": "부비인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 84,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "페르디난도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 133,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 136,
+			"ancestor": "-1",
+			"surface": "대륙부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 143,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "팡인",
+			"entityName": ""
+		}
+	],
+	"plainText": "사람과 언어 페르난도포_섬에 부비족과 이보족이 있고, 비오코_섬은 원래 무인도로 알려져 있으며, 현재는 부비인이 다수를 차지하고 있다. 부비인 외에는 페르디난도라고 불리는 시에라리온 및 라이베리아에서 온 해방 노예 출신이 거주한다. 반면 대륙부(음비니)는 팡인이 다수이다."
+}

@@ -1,0 +1,101 @@
+{
+	"docID": "122108",
+	"globalSID": "893461,893462,893463,893464",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "남아메리카",
+			"entityName": "남아메리카"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "마젤란_해협",
+			"entityName": "마젤란_해협"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"surface": "혼_곶",
+			"entityName": "혼_곶"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 99,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "티에라_델_푸에고",
+			"entityName": "티에라델푸에고_제도"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 111,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"surface": "스페인어",
+			"entityName": "스페인어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 10,
+			"ancestor": "-1",
+			"coref_index": 123,
+			"surface": "티에라델푸에고_제도",
+			"entityName": ""
+		}
+	],
+	"plainText": "티에라델푸에고_제도()는 남아메리카 대륙 남쪽 끝에 있는 군도이다. 면적은 73,753 km²로 대륙과는 마젤란_해협을 사이에 두고 떨어져 있다. 제도의 최남단은 혼_곶이다. '티에라_델_푸에고'는 스페인어로 불의 섬이란 뜻이다."
+}

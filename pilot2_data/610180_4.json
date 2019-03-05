@@ -1,0 +1,32 @@
+{
+	"docID": "610180",
+	"globalSID": "2412485,2412486,2412487",
+	"pronouns": [
+		{
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "이는",
+			"id": 0,
+			"st": 65
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"st": 157,
+			"eType": "ELU",
+			"entityName": "문헌정보학",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 162,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "문헌정보학"
+		}
+	],
+	"plainText": "2015년 2월에 있었던 정기총회를 기점으로 조직구조에 큰 변화를 주었다. 그간 임원진을 구성했던 이사단이 해소되고 이는 운영위원회로 대체되었으며 2대 소장을 역임했던 전진한이 3년 간의 소장 임기를 끝으로 퇴임했다. 3대 소장으로는 그간 단체의 이사로 활동해 왔던 김유승 중앙대 문헌정보학과 교수가 새로 취임했다."
+}

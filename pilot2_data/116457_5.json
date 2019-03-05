@@ -1,0 +1,289 @@
+{
+	"docID": "116457",
+	"globalSID": "852843,852844,852845",
+	"pronouns": [
+		{
+			"st": 65,
+			"coref_index": 88,
+			"id": 0,
+			"en": 67,
+			"ancestor": "5-7",
+			"surface": "이것"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "2005년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2005년"
+		},
+		{
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"st": 75,
+			"eType": "WIKILINK",
+			"entityName": "교황_요한_바오로_2세",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 87,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "교황_요한_바오로_2세"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"WorldHeritageSite",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 113,
+			"eType": "ELU",
+			"entityName": "바티칸_시국",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 116,
+			"ancestor": "4-4",
+			"is_target": true,
+			"surface": "바티칸",
+			"coref_index": 77
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 20,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "콘클라베도_시스티나_성당"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "EVENT",
+			"en": 25,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "투표"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 33,
+			"ancestor": "3-12",
+			"is_target": true,
+			"surface": "선거자",
+			"coref_index": 78
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 36,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 43,
+			"ancestor": "4-6",
+			"is_target": true,
+			"surface": "시스티나_성당",
+			"coref_index": 79
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 54,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 56,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "관례",
+			"coref_index": 88
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 60,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "폐지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 69,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 74,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1996년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 124,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 132,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "성_마르타_숙소"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 123,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "숙소"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 151,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "뜰"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 153,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "EVENT",
+			"en": 155,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "산책"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 173,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 176,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "매스컴"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "EVENT",
+			"en": 186,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "연락"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 107,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 110,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "추기경",
+			"coref_index": 85
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 199,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 201,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "금지"
+		}
+	],
+	"plainText": "2005년의 콘클라베도_시스티나_성당에서 투표했지만, 선거자들이 시스티나_성당 안에 갇혀 지내는 관례는 폐지되었다. 이것은 1996년 교황_요한_바오로_2세가 변경한 규정에 근거하는 것으로, 추기경들은 바티칸에 있는 숙소(성_마르타_숙소)에 머물게 되었으며, 원한다면 뜰을 산책할 수도 있게 되었다. 하지만, 매스컴 등 외부와의 연락을 취하는 것은 여전히 금지된 상태이다."
+}

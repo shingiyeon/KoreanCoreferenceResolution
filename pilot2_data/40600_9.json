@@ -1,0 +1,263 @@
+{
+	"docID": "40600",
+	"globalSID": "382884,382885,382886",
+	"pronouns": [
+		{
+			"en": 39,
+			"ancestor": "-1",
+			"surface": "단 하나의 별자리에",
+			"id": 0,
+			"st": 29
+		},
+		{
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "그 별자리",
+			"id": 1,
+			"st": 44
+		},
+		{
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "그 별자리 내에서의",
+			"id": 2,
+			"st": 44
+		},
+		{
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "그 별자리 내에서의 보다 작은 특정 도수가",
+			"id": 3,
+			"st": 44
+		},
+		{
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"id": 4,
+			"st": 75
+		},
+		{
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "황도대 별자리의",
+			"id": 5,
+			"st": 121
+		},
+		{
+			"en": 134,
+			"ancestor": "-1",
+			"surface": "관해서가 아닌 황도대 별자리의 30º에",
+			"id": 6,
+			"st": 113
+		},
+		{
+			"en": 148,
+			"ancestor": "-1",
+			"surface": "그들의",
+			"id": 7,
+			"st": 145
+		},
+		{
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "그들의 수학적인",
+			"id": 8,
+			"st": 145
+		},
+		{
+			"en": 158,
+			"ancestor": "-1",
+			"surface": "그들의 수학적인 천문력의",
+			"id": 9,
+			"st": 145
+		},
+		{
+			"en": 162,
+			"ancestor": "-1",
+			"surface": "그들의 수학적인 천문력의 구성에",
+			"id": 10,
+			"st": 145
+		},
+		{
+			"en": 192,
+			"ancestor": "-1",
+			"surface": "하나의 별자리에서",
+			"id": 11,
+			"st": 183
+		},
+		{
+			"en": 200,
+			"ancestor": "-1",
+			"surface": "다음 별자리로",
+			"id": 12,
+			"st": 193
+		},
+		{
+			"en": 207,
+			"ancestor": "-1",
+			"surface": "하나의 별자리에서 다음 별자리로 넘어갈 때의",
+			"id": 13,
+			"st": 183
+		},
+		{
+			"en": 214,
+			"ancestor": "-1",
+			"surface": "하나의 별자리에서 다음 별자리로 넘어갈 때의 날짜 만큼은",
+			"id": 14,
+			"st": 183
+		}
+	],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 11,
+			"ancestor": "-1",
+			"surface": "바빌로니아_천문_일지",
+			"entityName": "바빌로니아_천문_일지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 38,
+			"ancestor": "3-3",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 46,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "9-1",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 125,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 128,
+			"ancestor": "9-1",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 187,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 190,
+			"ancestor": "9-3",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 196,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 199,
+			"ancestor": "9-3",
+			"coref_index": 532,
+			"surface": "별자리",
+			"entityName": "별자리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "1-7",
+			"coref_index": 541,
+			"surface": "행성",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 85,
+			"ancestor": "-1",
+			"surface": "경도의_도수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 124,
+			"ancestor": "1-14",
+			"coref_index": 530,
+			"surface": "황도대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 109,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 111,
+			"ancestor": "1-4",
+			"coref_index": 529,
+			"surface": "황도",
+			"entityName": ""
+		}
+	],
+	"plainText": "바빌로니아_천문_일지에서, 일반적으로 행성의 위치는 단 하나의 별자리에 대하여 그 별자리 내에서의 보다 작은 특정 도수가 부여되었다. 그들은 경도의_도수를 부여하는데 있어서, 연속되는 360º의 황도에 관해서가 아닌 황도대 별자리의 30º에 관해서 표현했다. 그들의 수학적인 천문력의 구성에 있어서, 행성의 일일 위치는 행성이 하나의 별자리에서 다음 별자리로 넘어갈 때의 날짜 만큼은 중요하지 않다."
+}

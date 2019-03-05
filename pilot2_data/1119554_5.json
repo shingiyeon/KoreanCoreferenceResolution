@@ -1,0 +1,311 @@
+{
+	"docID": "1119554",
+	"globalSID": "3361789,3361790,3361791,3361792,3361793,3361794",
+	"pronouns": [
+		{
+			"en": 67,
+			"st": 63,
+			"surface": "한 번의",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 73,
+			"st": 63,
+			"surface": "한 번의 토네이도를",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 291,
+			"st": 286,
+			"surface": "그와중에도",
+			"id": 2,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "4-15",
+			"coref_index": 44,
+			"surface": "토네이도",
+			"entityName": "토네이도"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Software",
+				"Manga",
+				"VideoGame",
+				"Work",
+				"Comic"
+			],
+			"st": 79,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 82,
+			"ancestor": "3-1",
+			"coref_index": 51,
+			"surface": "앨리슨",
+			"entityName": "앨리슨_(소설)"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 145,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 148,
+			"ancestor": "-1",
+			"surface": "이동하",
+			"entityName": "이동하"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 256,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 260,
+			"ancestor": "-1",
+			"surface": "토네이도",
+			"entityName": "토네이도"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Software",
+				"Manga",
+				"VideoGame",
+				"Work",
+				"Comic"
+			],
+			"st": 306,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 309,
+			"ancestor": "5-1",
+			"coref_index": 51,
+			"surface": "앨리슨",
+			"entityName": "앨리슨_(소설)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "3-7",
+			"coref_index": 49,
+			"surface": "게리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "4-10",
+			"coref_index": 52,
+			"surface": "트레이",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 13,
+			"ancestor": "4-13",
+			"coref_index": 48,
+			"surface": "도니",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 33,
+			"ancestor": "4-9",
+			"coref_index": 53,
+			"surface": "폐지_공장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 43,
+			"ancestor": "5-5",
+			"coref_index": 49,
+			"surface": "게리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 105,
+			"ancestor": "5-9",
+			"coref_index": 49,
+			"surface": "게리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 123,
+			"ancestor": "5-10",
+			"coref_index": 49,
+			"surface": "게리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 125,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 128,
+			"ancestor": "5-6",
+			"coref_index": 52,
+			"surface": "트레이",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 170,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 173,
+			"ancestor": "-1",
+			"coref_index": 55,
+			"surface": "제이콥",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 196,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 198,
+			"ancestor": "3-10",
+			"coref_index": 54,
+			"surface": "피트",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 200,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 202,
+			"ancestor": "-1",
+			"surface": "대릴",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 222,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 225,
+			"ancestor": "5-13",
+			"coref_index": 55,
+			"surface": "제이콥",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 302,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 304,
+			"ancestor": "5-14",
+			"coref_index": 54,
+			"surface": "피트",
+			"entityName": ""
+		}
+	],
+	"plainText": "게리는 트레이에게서 도니가 있는 곳을 알게 되고, 폐지_공장으로 향한다. 게리는 가던 도중 촬영팀을 만나고, 또 한 번의 토네이도를 겪는다. 앨리슨이 토네이도에 빨려들어갈 뻔 하지만, 게리의 도움으로 목숨을 건진다. 게리와 트레이는 차가 망가져 촬영팀과 함께 이동하기로 한다. 촬영팀 중 촬영 담당이었던 제이콥은 무섭다며 촬영을 끝내고 싶어 하지만, 피트와 대릴의 강요로 어쩔 수 없이 따라간다. 제이콥은 동료의 만류에도 불구하고 불과 토네이도가 만난 화염 토네이도를 가까이서 촬영하다 토네이도에 빨려들어가고, 그와중에도 촬영만을 고집하는 피트를 앨리슨이 구박한다."
+}

@@ -1,0 +1,176 @@
+{
+	"docID": "180063",
+	"globalSID": "1170056,1170057,1170058,1170059,1170060,1170061",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "1-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 12,
+			"ancestor": "-1",
+			"surface": "임요환",
+			"entityName": "임요환"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"Website"
+			],
+			"st": 52,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "한게임",
+			"entityName": "한게임"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"coref_index": 308,
+			"surface": "온게임넷_스타리그",
+			"entityName": "스타리그"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 72,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 75,
+			"ancestor": "4-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 242,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 245,
+			"ancestor": "-1",
+			"surface": "전태규",
+			"entityName": "전태규"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 312,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 316,
+			"ancestor": "4-3",
+			"coref_index": 308,
+			"surface": "스타리그",
+			"entityName": "스타리그"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 357,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 360,
+			"ancestor": "-1",
+			"surface": "박정석",
+			"entityName": "박정석"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 8,
+			"ancestor": "-1",
+			"surface": "벙커링",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "저그",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 187,
+			"ancestor": "1-2",
+			"coref_index": 305,
+			"surface": "스타",
+			"entityName": ""
+		}
+	],
+	"plainText": "나도현과 벙커링 임요환과 함께 벙커링 전략으로 많은 화제와 논란을 불러일으킨 주인공. NHN 한게임배 온게임넷_스타리그에 출전한 나도현은, 소위 '알고도 못막는 벙커링' 전략을 줄기차게 선보이며 4강까지 진출했다. 특히 공개석상에서 '저그가 앞마당을 가져가면 벙커링을 한다'라고 공언하는 등 대회 내내 수많은 화제를 몰고 다녔고, 스타 관련 커뮤니티마다 벙커링의 사기성에 대한 논란으로 불을 지폈다. 벙커링으로 4강에 진출한 후에는 전태규에게 0:3으로 무기력하게 셧아웃당하며, 실력에 대한 의문까지 더하여 논란을 더욱 키웠다. 하지만 다음 대회인 질레트배 스타리그에서는 (우여곡절이 있었지만)벙커링에 의존하지 않고 4강에 다시 진출하여 박정석과 희대의 명경기를 연출하는 등 게임 실력에 대한 논란을 잠재우는 데 성공했다."
+}

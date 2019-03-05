@@ -1,0 +1,271 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "중궤도",
+			"en": 41,
+			"is_target": true,
+			"surface": "중궤도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 9,
+			"is_target": true,
+			"surface": "O3b_네트워크사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 43,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 54,
+			"is_target": true,
+			"surface": "18,918?km/h",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 74,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 86,
+			"is_target": false,
+			"surface": "2013년_6월_25일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 105,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 110,
+			"is_target": false,
+			"surface": "2013년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 207,
+			"eType": "WIKILINK",
+			"entityName": "Ka_밴드",
+			"en": 212,
+			"is_target": true,
+			"surface": "Ka_밴드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 227,
+			"eType": "WIKILINK",
+			"entityName": "게이트웨이",
+			"en": 232,
+			"is_target": true,
+			"surface": "게이트웨이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 270,
+			"eType": "WIKILINK",
+			"entityName": "대역폭",
+			"en": 273,
+			"is_target": true,
+			"surface": "대역폭",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 383,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 389,
+			"is_target": true,
+			"surface": "데이터_통신",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "TIME",
+			"st": 360,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 366,
+			"is_target": true,
+			"surface": "179_ms",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "TIME",
+			"st": 375,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 381,
+			"is_target": true,
+			"surface": "238_ms",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 430,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 434,
+			"is_target": true,
+			"surface": "해상통신",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 512,
+			"eType": "WIKILINK",
+			"entityName": "리튬_이온_배터리",
+			"en": 521,
+			"is_target": true,
+			"surface": "리튬_이온_배터리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 523,
+			"eType": "WIKILINK",
+			"entityName": "갈륨_비소_태양_전지판",
+			"en": 535,
+			"is_target": true,
+			"surface": "갈륨_비소_태양_전지판",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"st": 587,
+			"eType": "WIKILINK",
+			"entityName": "탈레스_알레니아_스페이스",
+			"en": 600,
+			"is_target": true,
+			"surface": "탈레스_알레니아_스페이스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"st": 575,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 585,
+			"is_target": true,
+			"surface": "프랑스_탈레스_그룹",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "3192856,3192857,3192858,3192859,3192860,3192861,3192862,3192863,3192864,3192865,3192866,3192867,3192868,3192869,3192870,3192871",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 201,
+			"surface": "각 위성은",
+			"st": 196,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 294,
+			"surface": "각 600 Mbps",
+			"st": 284,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"en": 300,
+			"surface": "각 600 Mbps 속도이므로",
+			"st": 284,
+			"ancestor": "-1"
+		},
+		{
+			"id": 3,
+			"en": 485,
+			"ancestor": "-1",
+			"st": 480,
+			"surface": "각 채널의"
+		},
+		{
+			"id": 4,
+			"en": 491,
+			"ancestor": "-1",
+			"st": 480,
+			"surface": "각 채널의 교신범위는"
+		}
+	],
+	"plainText": "O3b_네트워크사가 소유하고 운영한다. 적도 상공 8,063 km인 중궤도를 18,918?km/h(마하 15.45)의 속도로 돈다. 2013년_6월_25일 4개 위성이 동시에 발사되었다. 2013년에 4개의 위성이 추가로 발사된다. 처음에는 8개의 위성이 45분 간격으로 돌며, 나중에는 8개가 더 발사되어 16개의 위성이 22.5분 간격으로 돈다. 각 위성은 12개의 Ka_밴드 안테나를 갖는다. 2개는 게이트웨이, 10개는 원격통신용이다. 1개 채널은 상하향 2×216 MHz의 대역폭을 갖는다. 상하향 각 600 Mbps 속도이므로 1.2 Gbps 속도를 낸다. 10개 채널이므로 모두 4.3 GHz 대역폭에 12 Gbps 속도를 낸다. 179_ms의 음성 통신, 238_ms의 데이터_통신의 지연시간을 갖는다. TCP 접속시 최대 속도는 2.1 Mbps 이다. 해상통신의 경우, 130 ms의 지연시간을 가지며, 500 Mbps 이상의 속도를 낸다. 각 채널의 교신범위는 직경 700?km 정도이다. 위성은 리튬_이온_배터리와 갈륨_비소_태양_전지판으로 구성된 700 kg 무게의 전원공급장치에 의해 전원을 공급받는다. 프랑스_탈레스_그룹의 탈레스_알레니아_스페이스에서 제작한다. ",
+	"docID": "1010382"
+}

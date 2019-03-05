@@ -1,0 +1,52 @@
+{
+	"docID": "1323144",
+	"globalSID": "3586123",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 13,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1976년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 19,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "아르헨티나",
+			"coref_index": 181
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "쿠데타"
+		}
+	],
+	"plainText": "비델라 장군이 1976년 아르헨티나 쿠데타를 일으키자 소레기에타는 농무성 차관으로 임명되었고, 1979년부터 1981년까지 농무성 장관을 역임했다."
+}

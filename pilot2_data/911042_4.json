@@ -1,0 +1,76 @@
+{
+	"docID": "911042",
+	"globalSID": "3010313",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 19,
+			"ancestor": "",
+			"surface": "2005년",
+			"entityName": "2005년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "세군다_디비시온",
+			"entityName": "세군다_디비시온"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "리저브팀",
+			"entityName": "레알_마드리드_카스티야"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 12,
+			"ancestor": "1-9",
+			"coref_index": 1109,
+			"surface": "필리피_루이스",
+			"entityName": ""
+		}
+	],
+	"plainText": "그러나, 필리피_루이스는 2005년에 세군다_디비시온에 소속되어 있는 리저브팀에서 보냈다."
+}

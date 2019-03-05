@@ -1,0 +1,319 @@
+{
+	"docID": "167219",
+	"globalSID": "1111662,1111663",
+	"pronouns": [
+		{
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "다른 멤버들은",
+			"id": 0,
+			"st": 36
+		},
+		{
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "한 장만",
+			"id": 1,
+			"st": 105
+		},
+		{
+			"en": 115,
+			"ancestor": "-1",
+			"surface": "한 장만 발표한 채",
+			"id": 2,
+			"st": 105
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"st": 3,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 6,
+			"ancestor": "2-4",
+			"coref_index": 264,
+			"surface": "신해철",
+			"entityName": "신해철"
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"st": 71,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 74,
+			"ancestor": "2-4",
+			"coref_index": 264,
+			"surface": "신해철",
+			"entityName": "신해철"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 100,
+			"ancestor": "2-6",
+			"coref_index": 265,
+			"surface": "무한궤도",
+			"entityName": "무한궤도"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 123,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 126,
+			"ancestor": "1-0",
+			"coref_index": 263,
+			"surface": "정석원",
+			"entityName": "정석원_(음악가)"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 144,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 149,
+			"ancestor": "-1",
+			"surface": "베이시스트",
+			"entityName": "베이시스트"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 150,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "조형곤",
+			"entityName": "조형곤"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 168,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 171,
+			"ancestor": "1-0",
+			"coref_index": 263,
+			"surface": "정석원",
+			"entityName": "정석원_(음악가)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 178,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 182,
+			"ancestor": "2-6",
+			"coref_index": 265,
+			"surface": "무한궤도",
+			"entityName": "무한궤도"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 199,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 202,
+			"ancestor": "-1",
+			"surface": "장호일",
+			"entityName": "장호일"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 210,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"en": 214,
+			"ancestor": "-1",
+			"coref_index": 269,
+			"surface": "015B",
+			"entityName": "015B"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "프로_뮤지션",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "멤버",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "학업",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 85,
+			"ancestor": "-1",
+			"surface": "대마초_흡연_사건",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "-1",
+			"surface": "구속",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 102,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 104,
+			"ancestor": "-1",
+			"coref_index": 270,
+			"surface": "앨범",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 155,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 162,
+			"ancestor": "-1",
+			"surface": "드러머_조현찬",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 192,
+			"ancestor": "-1",
+			"surface": "객원_기타리스트",
+			"entityName": ""
+		}
+	],
+	"plainText": "이후 신해철은 프로_뮤지션이 되고 싶어 멤버들을 규합하려 했지만 다른 멤버들은 학업에 열중하길 원하는 등 견해 차이가 생기고, 신해철이 대마초_흡연_사건으로 구속되며 결국 무한궤도는 앨범 한 장만 발표한 채 해체되었다. 정석원은 무한궤도의 멤버들 중 친했던 베이시스트 조형곤, 드러머_조현찬, 그리고 정석원의 친형이자 무한궤도의 객원_기타리스트로 활약했던 장호일과 함께 밴드 015B을 만들었다."
+}

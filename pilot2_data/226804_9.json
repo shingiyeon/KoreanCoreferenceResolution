@@ -1,0 +1,88 @@
+{
+	"docID": "226804",
+	"globalSID": "1335532,1335533,1335534,1335535,1335536",
+	"pronouns": [],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "가타오카_야스유키",
+			"entityName": "가타오카_야스유키"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 164,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 171,
+			"ancestor": "-1",
+			"surface": "오시타_히로시",
+			"entityName": "오시타_히로시"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 210,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 218,
+			"ancestor": "-1",
+			"surface": "이나바_아쓰노리",
+			"entityName": "이나바_아쓰노리"
+		},
+		{
+			"kbox_types": [
+				"Award"
+			],
+			"st": 265,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 271,
+			"ancestor": "-1",
+			"surface": "베스트_나인",
+			"entityName": "일본_프로_야구_베스트_나인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "2007년",
+			"entityName": ""
+		}
+	],
+	"plainText": "2007년 중견수로 뛰면서 시즌 종반까지 가타오카_야스유키와의 도루왕의 타이틀을 놓고 경쟁하는 등(결과는 가타오카가 도루왕을 차지) 팀내 부동의 1번 타자로서 전 이닝 출전을 완수했다. 처음으로 3할대의 타율을 기록했고, 24경기 연속 안타는 퍼시픽 리그 역대 6위 타이 기록이며 구단으로서는 오시타_히로시와 대등한 최다 타이 기록을 수립했다. 우타자이지만 내야 안타 갯수도 이나바_아쓰노리에 뒤를 이은 리그 2위를 기록했다. 최다 득표를 얻어 골든 글러브상(2년 연속)과 베스트_나인을 동시에 수상했고 보살 갯수는 양대 리그 1위인 15개를 기록했다."
+}

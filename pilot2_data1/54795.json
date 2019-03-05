@@ -1,0 +1,2051 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"en": 3,
+			"entityName": "윤영렬",
+			"is_target": true,
+			"surface": "윤영렬",
+			"coref_index": 683,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 39,
+			"eType": "WIKILINK",
+			"en": 43,
+			"entityName": "대한제국",
+			"is_target": true,
+			"surface": "대한제국",
+			"coref_index": 681,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 45,
+			"eType": "WIKILINK",
+			"en": 50,
+			"entityName": "일제강점기",
+			"is_target": true,
+			"surface": "일제강점기",
+			"coref_index": 682,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 57,
+			"eType": "WIKILINK",
+			"en": 60,
+			"entityName": "정치가",
+			"is_target": true,
+			"surface": "정치가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 52,
+			"eType": "NEW",
+			"en": 54,
+			"entityName": "",
+			"is_target": true,
+			"surface": "군인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 9,
+			"eType": "NEW",
+			"en": 21,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1854년_4월_15일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 24,
+			"eType": "NEW",
+			"en": 36,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1939년_11월_4일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 7,
+			"ne_type": "PERSON",
+			"st": 67,
+			"eType": "WIKILINK",
+			"entityName": "윤근수",
+			"en": 70,
+			"is_target": true,
+			"surface": "윤근수",
+			"coref_index": 692,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 72,
+			"eType": "WIKILINK",
+			"entityName": "윤두수",
+			"en": 75,
+			"is_target": true,
+			"surface": "윤두수",
+			"coref_index": 691,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 9,
+			"ne_type": "LOCATION",
+			"st": 85,
+			"eType": "WIKILINK",
+			"entityName": "조선",
+			"en": 87,
+			"is_target": true,
+			"surface": "조선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 92,
+			"eType": "WIKILINK",
+			"entityName": "중추부",
+			"en": 95,
+			"is_target": true,
+			"surface": "중추부",
+			"coref_index": 684,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 101,
+			"eType": "WIKILINK",
+			"entityName": "윤취동",
+			"en": 104,
+			"is_target": true,
+			"surface": "윤취동",
+			"coref_index": 685,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 120,
+			"eType": "WIKILINK",
+			"entityName": "윤웅렬",
+			"en": 123,
+			"is_target": true,
+			"surface": "윤웅렬",
+			"coref_index": 687,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 149,
+			"eType": "WIKILINK",
+			"entityName": "윤치호",
+			"en": 152,
+			"is_target": true,
+			"surface": "윤치호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 158,
+			"eType": "WIKILINK",
+			"entityName": "윤치왕",
+			"en": 161,
+			"is_target": true,
+			"surface": "윤치왕",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 15,
+			"ne_type": "PERSON",
+			"st": 167,
+			"eType": "WIKILINK",
+			"entityName": "윤치창",
+			"en": 170,
+			"is_target": true,
+			"surface": "윤치창",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 16,
+			"ne_type": "LOCATION",
+			"st": 178,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 182,
+			"is_target": true,
+			"surface": "대한민국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"GovernmentAgency",
+				"Organisation"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 187,
+			"eType": "WIKILINK",
+			"entityName": "대한민국_내무부",
+			"en": 190,
+			"is_target": true,
+			"surface": "내무부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 197,
+			"eType": "WIKILINK",
+			"entityName": "윤치영",
+			"en": 200,
+			"is_target": true,
+			"surface": "윤치영",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 212,
+			"eType": "WIKILINK",
+			"entityName": "대통령",
+			"en": 215,
+			"is_target": true,
+			"surface": "대통령",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 20,
+			"ne_type": "PERSON",
+			"st": 216,
+			"eType": "WIKILINK",
+			"entityName": "윤보선",
+			"en": 219,
+			"is_target": true,
+			"surface": "윤보선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 221,
+			"eType": "WIKILINK",
+			"entityName": "경기도지사",
+			"en": 226,
+			"is_target": true,
+			"surface": "경기도지사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 231,
+			"eType": "WIKILINK",
+			"entityName": "윤원선",
+			"en": 234,
+			"is_target": true,
+			"surface": "윤원선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 244,
+			"eType": "WIKILINK",
+			"entityName": "흥선대원군",
+			"en": 249,
+			"is_target": true,
+			"surface": "흥선대원군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 24,
+			"ne_type": "TIME",
+			"st": 276,
+			"eType": "WIKILINK",
+			"entityName": "1878년",
+			"en": 281,
+			"is_target": false,
+			"surface": "1878년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 295,
+			"eType": "WIKILINK",
+			"entityName": "과거_제도",
+			"en": 297,
+			"is_target": true,
+			"surface": "무과",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 26,
+			"ne_type": "TIME",
+			"st": 321,
+			"eType": "WIKILINK",
+			"entityName": "1890년",
+			"en": 326,
+			"is_target": false,
+			"surface": "1890년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"EducationalInstitution",
+				"University",
+				"Place",
+				"Organisation",
+				"University"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 327,
+			"eType": "WIKILINK",
+			"entityName": "평안북도",
+			"en": 331,
+			"is_target": true,
+			"surface": "평안북도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 28,
+			"ne_type": "TIME",
+			"st": 381,
+			"eType": "WIKILINK",
+			"entityName": "1894년",
+			"en": 386,
+			"is_target": false,
+			"surface": "1894년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "TIME",
+			"st": 387,
+			"eType": "WIKILINK",
+			"entityName": "10월",
+			"en": 390,
+			"is_target": false,
+			"surface": "10월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 425,
+			"eType": "WIKILINK",
+			"entityName": "천안군",
+			"en": 428,
+			"is_target": true,
+			"surface": "천안군",
+			"coref_index": 693,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 429,
+			"eType": "ELU",
+			"entityName": "목천읍",
+			"en": 432,
+			"is_target": true,
+			"surface": "목천면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 467,
+			"eType": "ELU",
+			"entityName": "세종특별자치시장",
+			"en": 471,
+			"is_target": true,
+			"surface": "연기군수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "TIME",
+			"st": 344,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 349,
+			"is_target": false,
+			"surface": "1893년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 400,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 403,
+			"is_target": true,
+			"surface": "조중석",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 481,
+			"eType": "WIKILINK",
+			"en": 489,
+			"entityName": "동학_농민_운동",
+			"is_target": true,
+			"surface": "동학_농민_운동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"id": 36,
+			"ne_type": "ORGANIZATION",
+			"st": 551,
+			"eType": "WIKILINK",
+			"en": 553,
+			"entityName": "만주",
+			"is_target": true,
+			"surface": "만주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 37,
+			"ne_type": "LOCATION",
+			"st": 575,
+			"eType": "WIKILINK",
+			"en": 579,
+			"entityName": "대한제국",
+			"is_target": true,
+			"surface": "대한제국",
+			"coref_index": 681,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 590,
+			"eType": "WIKILINK",
+			"en": 594,
+			"entityName": "자헌대부",
+			"is_target": true,
+			"surface": "자헌대부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 601,
+			"eType": "WIKILINK",
+			"en": 607,
+			"entityName": "일제_강점기",
+			"is_target": true,
+			"surface": "일제_강점기",
+			"coref_index": 682,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 674,
+			"eType": "WIKILINK",
+			"en": 676,
+			"entityName": "해평_윤씨",
+			"is_target": true,
+			"surface": "해평",
+			"coref_index": 683,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "LOCATION",
+			"st": 493,
+			"eType": "NEW",
+			"en": 500,
+			"entityName": "",
+			"is_target": true,
+			"surface": "충청남도_지역",
+			"coref_index": 686,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "EVENT",
+			"st": 502,
+			"eType": "NEW",
+			"en": 511,
+			"entityName": "",
+			"is_target": true,
+			"surface": "동학_농민군_토벌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 513,
+			"eType": "NEW",
+			"en": 515,
+			"entityName": "",
+			"is_target": true,
+			"surface": "출정",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "LOCATION",
+			"st": 521,
+			"eType": "NEW",
+			"en": 528,
+			"entityName": "",
+			"is_target": true,
+			"surface": "경기도_안성군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "PERSON",
+			"st": 530,
+			"eType": "NEW",
+			"en": 532,
+			"entityName": "",
+			"is_target": true,
+			"surface": "군수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "LOCATION",
+			"st": 543,
+			"eType": "NEW",
+			"en": 549,
+			"entityName": "",
+			"is_target": true,
+			"surface": "강도_마장군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ORGANIZATION",
+			"st": 561,
+			"eType": "NEW",
+			"en": 563,
+			"entityName": "",
+			"is_target": true,
+			"surface": "마적",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 565,
+			"eType": "NEW",
+			"en": 567,
+			"entityName": "",
+			"is_target": true,
+			"surface": "토벌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 583,
+			"eType": "NEW",
+			"en": 588,
+			"entityName": "",
+			"is_target": true,
+			"surface": "육군_참장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 610,
+			"eType": "NEW",
+			"en": 612,
+			"entityName": "",
+			"is_target": true,
+			"surface": "공직",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "ETC",
+			"st": 615,
+			"eType": "NEW",
+			"en": 617,
+			"entityName": "",
+			"is_target": true,
+			"surface": "은퇴",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "TIME",
+			"st": 620,
+			"eType": "NEW",
+			"en": 622,
+			"entityName": "",
+			"is_target": true,
+			"surface": "여생",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 632,
+			"eType": "NEW",
+			"en": 638,
+			"entityName": "",
+			"is_target": true,
+			"surface": "백웅(白熊)",
+			"coref_index": 683,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "PERSON",
+			"st": 640,
+			"eType": "NEW",
+			"en": 646,
+			"entityName": "",
+			"is_target": true,
+			"surface": "백웅(白雄)",
+			"coref_index": 683,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "PERSON",
+			"st": 651,
+			"eType": "NEW",
+			"en": 657,
+			"entityName": "",
+			"is_target": true,
+			"surface": "연구(蓮龜)",
+			"coref_index": 683,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 662,
+			"eType": "NEW",
+			"en": 668,
+			"entityName": "",
+			"is_target": true,
+			"surface": "경재(敬齎)",
+			"coref_index": 683,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 629,
+			"eType": "NEW",
+			"en": 630,
+			"entityName": "",
+			"is_target": true,
+			"surface": "자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "ETC",
+			"st": 648,
+			"eType": "NEW",
+			"en": 649,
+			"entityName": "",
+			"is_target": true,
+			"surface": "호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "ETC",
+			"st": 670,
+			"eType": "NEW",
+			"en": 672,
+			"entityName": "",
+			"is_target": true,
+			"surface": "본관",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 60,
+			"ne_type": "PERSON",
+			"st": 693,
+			"eType": "ELU",
+			"en": 696,
+			"entityName": "윤영렬",
+			"is_target": true,
+			"surface": "윤영렬",
+			"coref_index": 683,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 61,
+			"ne_type": "TIME",
+			"st": 698,
+			"eType": "WIKILINK",
+			"en": 703,
+			"entityName": "1854년",
+			"is_target": false,
+			"surface": "1854년",
+			"coref_index": 694,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 704,
+			"eType": "WIKILINK",
+			"en": 706,
+			"entityName": "음력",
+			"is_target": true,
+			"surface": "음력",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "TIME",
+			"st": 707,
+			"eType": "WIKILINK",
+			"en": 713,
+			"entityName": "4월_15일",
+			"is_target": false,
+			"surface": "4월_15일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 714,
+			"eType": "WIKILINK",
+			"en": 717,
+			"entityName": "중추부",
+			"is_target": true,
+			"surface": "중추부",
+			"coref_index": 684,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ETC",
+			"st": 724,
+			"eType": "ELU",
+			"en": 729,
+			"entityName": "해평_윤씨",
+			"is_target": true,
+			"surface": "해평_윤씨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 66,
+			"ne_type": "PERSON",
+			"st": 730,
+			"eType": "WIKILINK",
+			"en": 733,
+			"entityName": "윤취동",
+			"is_target": true,
+			"surface": "윤취동",
+			"coref_index": 685,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ETC",
+			"st": 753,
+			"eType": "ELU",
+			"en": 757,
+			"entityName": "안동_김씨",
+			"is_target": true,
+			"surface": "안동김씨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 68,
+			"ne_type": "LOCATION",
+			"st": 766,
+			"eType": "WIKILINK",
+			"en": 770,
+			"entityName": "충청남도",
+			"is_target": true,
+			"surface": "충청남도",
+			"coref_index": 686,
+			"ancestor": "1-41"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 69,
+			"ne_type": "LOCATION",
+			"st": 771,
+			"eType": "WIKILINK",
+			"en": 774,
+			"entityName": "아산시",
+			"is_target": true,
+			"surface": "아산군",
+			"coref_index": 690,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "ETC",
+			"st": 775,
+			"eType": "ELU",
+			"en": 778,
+			"entityName": "둔포면",
+			"is_target": true,
+			"surface": "둔포면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 71,
+			"ne_type": "TIME",
+			"st": 799,
+			"eType": "WIKILINK",
+			"en": 804,
+			"entityName": "1854년",
+			"is_target": false,
+			"surface": "1854년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 72,
+			"ne_type": "TIME",
+			"st": 819,
+			"eType": "WIKILINK",
+			"en": 824,
+			"entityName": "1843년",
+			"is_target": false,
+			"surface": "1843년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 73,
+			"ne_type": "PERSON",
+			"st": 853,
+			"eType": "WIKILINK",
+			"en": 856,
+			"entityName": "윤웅렬",
+			"is_target": true,
+			"surface": "윤웅렬",
+			"coref_index": 687,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 909,
+			"eType": "WIKILINK",
+			"en": 911,
+			"entityName": "온양",
+			"is_target": true,
+			"surface": "온양",
+			"coref_index": 688,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 75,
+			"ne_type": "PERSON",
+			"st": 941,
+			"eType": "WIKILINK",
+			"en": 944,
+			"entityName": "이어령",
+			"is_target": true,
+			"surface": "이어령",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 76,
+			"ne_type": "PERSON",
+			"st": 1004,
+			"eType": "ELU",
+			"en": 1007,
+			"entityName": "윤영렬",
+			"is_target": true,
+			"surface": "윤영렬",
+			"coref_index": 683,
+			"ancestor": "1-60"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "ETC",
+			"st": 1063,
+			"eType": "ELU",
+			"en": 1067,
+			"entityName": "전주_이씨",
+			"is_target": true,
+			"surface": "전주이씨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "PERSON",
+			"st": 748,
+			"eType": "NEW",
+			"en": 750,
+			"entityName": "",
+			"is_target": true,
+			"surface": "부인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "PERSON",
+			"st": 762,
+			"eType": "NEW",
+			"en": 764,
+			"entityName": "",
+			"is_target": true,
+			"surface": "아들",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "PERSON",
+			"st": 863,
+			"eType": "NEW",
+			"en": 865,
+			"entityName": "",
+			"is_target": true,
+			"surface": "형제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "PERSON",
+			"st": 867,
+			"eType": "NEW",
+			"en": 871,
+			"entityName": "",
+			"is_target": true,
+			"surface": "천하장사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "PERSON",
+			"st": 931,
+			"eType": "NEW",
+			"en": 934,
+			"entityName": "",
+			"is_target": true,
+			"surface": "소설가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "PERSON",
+			"st": 937,
+			"eType": "NEW",
+			"en": 939,
+			"entityName": "",
+			"is_target": true,
+			"surface": "작가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "PERSON",
+			"st": 946,
+			"eType": "NEW",
+			"en": 951,
+			"entityName": "",
+			"is_target": true,
+			"surface": "진외증조모",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "PERSON",
+			"st": 957,
+			"eType": "NEW",
+			"en": 959,
+			"entityName": "",
+			"is_target": true,
+			"surface": "누나",
+			"coref_index": 689,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "LOCATION",
+			"st": 962,
+			"eType": "NEW",
+			"en": 964,
+			"entityName": "",
+			"is_target": true,
+			"surface": "온양",
+			"coref_index": 688,
+			"ancestor": "1-74"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "PERSON",
+			"st": 971,
+			"eType": "NEW",
+			"en": 975,
+			"entityName": "",
+			"is_target": true,
+			"surface": "윤씨부인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "PERSON",
+			"st": 999,
+			"eType": "NEW",
+			"en": 1002,
+			"entityName": "",
+			"is_target": true,
+			"surface": "남동생",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "PERSON",
+			"st": 1046,
+			"eType": "NEW",
+			"en": 1048,
+			"entityName": "",
+			"is_target": true,
+			"surface": "누나",
+			"coref_index": 689,
+			"ancestor": "1-85"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "LOCATION",
+			"st": 1056,
+			"eType": "NEW",
+			"en": 1058,
+			"entityName": "",
+			"is_target": true,
+			"surface": "아산",
+			"coref_index": 690,
+			"ancestor": "1-69"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "PERSON",
+			"st": 1068,
+			"eType": "NEW",
+			"en": 1071,
+			"entityName": "",
+			"is_target": true,
+			"surface": "이인서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "EVENT",
+			"st": 1074,
+			"eType": "NEW",
+			"en": 1076,
+			"entityName": "",
+			"is_target": true,
+			"surface": "시집",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 93,
+			"ne_type": "PERSON",
+			"st": 1084,
+			"eType": "WIKILINK",
+			"entityName": "윤취동",
+			"en": 1087,
+			"is_target": true,
+			"surface": "윤취동",
+			"coref_index": 685,
+			"ancestor": "1-66"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 94,
+			"ne_type": "PERSON",
+			"st": 1215,
+			"eType": "WIKILINK",
+			"entityName": "윤웅렬",
+			"en": 1218,
+			"is_target": true,
+			"surface": "윤웅렬",
+			"coref_index": 687,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 95,
+			"ne_type": "PERSON",
+			"st": 1246,
+			"eType": "WIKILINK",
+			"entityName": "윤웅렬",
+			"en": 1249,
+			"is_target": true,
+			"surface": "윤웅렬",
+			"coref_index": 687,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "LOCATION",
+			"st": 1157,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1160,
+			"is_target": true,
+			"surface": "웅달산",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 97,
+			"ne_type": "PERSON",
+			"st": 1278,
+			"eType": "WIKILINK",
+			"entityName": "조선_선조",
+			"en": 1280,
+			"is_target": true,
+			"surface": "선조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 98,
+			"ne_type": "PERSON",
+			"st": 1290,
+			"eType": "WIKILINK",
+			"entityName": "윤두수",
+			"en": 1293,
+			"is_target": true,
+			"surface": "윤두수",
+			"coref_index": 691,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 99,
+			"ne_type": "PERSON",
+			"st": 1295,
+			"eType": "WIKILINK",
+			"entityName": "윤근수",
+			"en": 1298,
+			"is_target": true,
+			"surface": "윤근수",
+			"coref_index": 692,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 100,
+			"ne_type": "PERSON",
+			"st": 1334,
+			"eType": "ELU",
+			"entityName": "윤취지",
+			"en": 1337,
+			"is_target": true,
+			"surface": "윤취지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 101,
+			"ne_type": "ETC",
+			"st": 1381,
+			"eType": "WIKILINK",
+			"entityName": "세자익위사",
+			"en": 1386,
+			"is_target": true,
+			"surface": "세자익위사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 102,
+			"ne_type": "ETC",
+			"st": 1386,
+			"eType": "WIKILINK",
+			"entityName": "사어",
+			"en": 1388,
+			"is_target": true,
+			"surface": "사어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 103,
+			"ne_type": "ETC",
+			"st": 1399,
+			"eType": "WIKILINK",
+			"entityName": "이조",
+			"en": 1401,
+			"is_target": true,
+			"surface": "이조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 104,
+			"ne_type": "ETC",
+			"st": 1401,
+			"eType": "WIKILINK",
+			"entityName": "참판",
+			"en": 1403,
+			"is_target": true,
+			"surface": "참판",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 105,
+			"ne_type": "PERSON",
+			"st": 1417,
+			"eType": "WIKILINK",
+			"entityName": "윤세겸",
+			"en": 1420,
+			"is_target": true,
+			"surface": "윤세겸",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 106,
+			"ne_type": "ETC",
+			"st": 1422,
+			"eType": "WIKILINK",
+			"entityName": "돈령부",
+			"en": 1425,
+			"is_target": true,
+			"surface": "돈령부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 107,
+			"ne_type": "ETC",
+			"st": 1425,
+			"eType": "WIKILINK",
+			"entityName": "동지사",
+			"en": 1428,
+			"is_target": true,
+			"surface": "동지사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 108,
+			"ne_type": "PERSON",
+			"st": 1441,
+			"eType": "WIKILINK",
+			"entityName": "윤득우",
+			"en": 1444,
+			"is_target": true,
+			"surface": "윤득우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 109,
+			"ne_type": "ETC",
+			"st": 1446,
+			"eType": "WIKILINK",
+			"entityName": "병조",
+			"en": 1448,
+			"is_target": true,
+			"surface": "병조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 110,
+			"ne_type": "ETC",
+			"st": 1448,
+			"eType": "WIKILINK",
+			"entityName": "참판",
+			"en": 1450,
+			"is_target": true,
+			"surface": "참판",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 111,
+			"ne_type": "ETC",
+			"st": 1452,
+			"eType": "WIKILINK",
+			"entityName": "광주",
+			"en": 1454,
+			"is_target": true,
+			"surface": "광주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 112,
+			"ne_type": "ETC",
+			"st": 1454,
+			"eType": "WIKILINK",
+			"entityName": "부윤",
+			"en": 1456,
+			"is_target": true,
+			"surface": "부윤",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 113,
+			"ne_type": "ORGANIZATION",
+			"st": 1463,
+			"eType": "WIKILINK",
+			"entityName": "소론",
+			"en": 1465,
+			"is_target": true,
+			"surface": "소론",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 114,
+			"ne_type": "ETC",
+			"st": 1466,
+			"eType": "WIKILINK",
+			"entityName": "신치운",
+			"en": 1469,
+			"is_target": true,
+			"surface": "신치운",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 115,
+			"ne_type": "PERSON",
+			"st": 1501,
+			"eType": "WIKILINK",
+			"entityName": "윤발",
+			"en": 1503,
+			"is_target": true,
+			"surface": "윤발",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 116,
+			"ne_type": "PERSON",
+			"st": 1558,
+			"eType": "WIKILINK",
+			"entityName": "윤취동",
+			"en": 1561,
+			"is_target": true,
+			"surface": "윤취동",
+			"coref_index": 685,
+			"ancestor": "1-93"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 117,
+			"ne_type": "ETC",
+			"st": 1573,
+			"eType": "WIKILINK",
+			"entityName": "호조",
+			"en": 1575,
+			"is_target": true,
+			"surface": "호조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 118,
+			"ne_type": "ETC",
+			"st": 1575,
+			"eType": "WIKILINK",
+			"entityName": "참의",
+			"en": 1577,
+			"is_target": true,
+			"surface": "참의",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 119,
+			"ne_type": "PERSON",
+			"st": 1591,
+			"eType": "WIKILINK",
+			"entityName": "윤득실",
+			"en": 1594,
+			"is_target": true,
+			"surface": "윤득실",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 120,
+			"ne_type": "ETC",
+			"st": 1596,
+			"eType": "WIKILINK",
+			"entityName": "통덕랑",
+			"en": 1599,
+			"is_target": true,
+			"surface": "통덕랑",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 121,
+			"ne_type": "ETC",
+			"st": 1612,
+			"eType": "WIKILINK",
+			"entityName": "천안군",
+			"en": 1615,
+			"is_target": true,
+			"surface": "천안군",
+			"coref_index": 693,
+			"ancestor": "1-30"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 122,
+			"ne_type": "PERSON",
+			"st": 1626,
+			"eType": "ELU",
+			"entityName": "윤취동",
+			"en": 1629,
+			"is_target": true,
+			"surface": "윤취동",
+			"coref_index": 685,
+			"ancestor": "1-116"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 123,
+			"ne_type": "LOCATION",
+			"st": 1522,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1526,
+			"is_target": true,
+			"surface": "수원행궁",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 124,
+			"ne_type": "PERSON",
+			"st": 1312,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1314,
+			"is_target": true,
+			"surface": "윤흔",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "492140,492141,492142,492143,492144,492145,492146,492147,492148,492149,492150,492151,492152,492153,492154,492155,492156,492157,492158,492159,492160,492161,492162,492163,492164,492165,492166,492167",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 673,
+			"ancestor": "-1",
+			"st": 670,
+			"surface": "본관은"
+		},
+		{
+			"id": 1,
+			"ancestor": "1-66",
+			"st": 740,
+			"en": 741,
+			"surface": "그",
+			"coref_index": 685
+		},
+		{
+			"id": 2,
+			"en": 750,
+			"ancestor": "-1",
+			"st": 740,
+			"surface": "그의 두 번째 부인"
+		},
+		{
+			"id": 3,
+			"en": 752,
+			"ancestor": "-1",
+			"st": 740,
+			"surface": "그의 두 번째 부인 인"
+		},
+		{
+			"id": 4,
+			"en": 758,
+			"ancestor": "-1",
+			"st": 740,
+			"surface": "그의 두 번째 부인 인 안동김씨의"
+		},
+		{
+			"id": 5,
+			"ancestor": "1-60",
+			"st": 740,
+			"en": 764,
+			"surface": "그의 두 번째 부인 인 안동김씨의 둘째 아들",
+			"coref_index": 683
+		},
+		{
+			"id": 6,
+			"ancestor": "1-60",
+			"st": 787,
+			"en": 788,
+			"surface": "그",
+			"coref_index": 683
+		},
+		{
+			"id": 7,
+			"ancestor": "1-61",
+			"st": 787,
+			"en": 794,
+			"surface": "그의 출생년대",
+			"coref_index": 694
+		},
+		{
+			"id": 8,
+			"en": 904,
+			"ancestor": "-1",
+			"st": 901,
+			"surface": "그 중"
+		},
+		{
+			"id": 9,
+			"en": 908,
+			"ancestor": "-1",
+			"st": 901,
+			"surface": "그 중 한명은"
+		},
+		{
+			"id": 10,
+			"en": 1049,
+			"ancestor": "-1",
+			"st": 1043,
+			"surface": "다른 누나들"
+		},
+		{
+			"id": 11,
+			"en": 1051,
+			"ancestor": "-1",
+			"st": 1043,
+			"surface": "다른 누나들 중"
+		},
+		{
+			"id": 12,
+			"en": 1055,
+			"ancestor": "-1",
+			"st": 1043,
+			"surface": "다른 누나들 중 한명은"
+		},
+		{
+			"id": 13,
+			"ancestor": "1-0",
+			"st": 1206,
+			"en": 1207,
+			"surface": "그",
+			"coref_index": 683
+		},
+		{
+			"id": 14,
+			"ancestor": "1-0",
+			"st": 1206,
+			"en": 1211,
+			"surface": "그의 이름",
+			"coref_index": 683
+		},
+		{
+			"id": 15,
+			"ancestor": "1-0",
+			"st": 1271,
+			"en": 1272,
+			"surface": "그",
+			"coref_index": 683
+		},
+		{
+			"id": 16,
+			"en": 1276,
+			"ancestor": "-1",
+			"st": 1271,
+			"surface": "그의 가계"
+		},
+		{
+			"id": 17,
+			"ancestor": "1-0",
+			"st": 1551,
+			"en": 1552,
+			"surface": "그",
+			"coref_index": 683
+		},
+		{
+			"id": 18,
+			"ancestor": "1-93",
+			"st": 1551,
+			"en": 1557,
+			"surface": "그의 아버지",
+			"coref_index": 685
+		},
+		{
+			"id": 19,
+			"ancestor": "1-93",
+			"st": 1551,
+			"en": 1561,
+			"surface": "그의 아버지 윤취동",
+			"coref_index": 685
+		}
+	],
+	"plainText": "윤영렬(尹英烈, 1854년_4월_15일 ~ 1939년_11월_4일)은 대한제국과 일제강점기의 군인 겸 정치가이다. 이력 윤근수, 윤두수 형제의 후손으로 조선 후기 지중추부사를 지낸 윤취동의 아들이며 군부대신을 지낸 윤웅렬의 동생이다. 독립운동가였다가 친일파로 변절한 윤치호, 군의관 윤치왕, 외교관 윤치창의 숙부이며, 대한민국 제1대 내무부장관을 지낸 윤치영의 아버지이자 제4대 대통령 윤보선, 경기도지사를 지낸 윤원선의 할아버지이다. 흥선대원군에게 발탁, 무관으로 출사하였다. 무관 재직 중 1878년(고종 15년) 정식으로 무과(武科)에 급제하여 지방관을 전전하였으며, 1890년 평안북도 강계방어사로 나갔다가 1893년 내무참의(內務參議)를 거쳐 다시 사헌부 감찰이 되었다. 1894년 10월에는 아산의 선비 조중석(趙重錫)과 함께 장정 300명을 모아 천안군 목천면에 출몰한 도적을 토벌하였다. 이후 강계부사를 거쳐 안성군수, 연기군수 등을 역임했다. 동학_농민_운동 당시 충청남도_지역의 동학_농민군_토벌에 출정하였으며, 경기도_안성군의 군수가 해결하지 못하는 강도_마장군과 만주에서 쳐들어온 마적을 토벌, 소탕했다. 대한제국에서는 육군_참장과 자헌대부를 지냈고, 일제_강점기에는 공직에서 은퇴하고 여생을 보냈다. 자는 백웅(白熊), 백웅(白雄), 호는 연구(蓮龜), 또는 경재(敬齎). 본관은 해평(海平)이다. 생애 생애 초기 윤영렬은 1854년 음력 4월_15일 중추부지사를 지낸 해평_윤씨 윤취동(尹聚東)과 그의 두 번째 부인 인 안동김씨의 둘째 아들로 충청남도 아산군 둔포면에서 태어났다. 그의 출생년대는 보통 1854년으로 보나, 일설에 의하면 1843년생이라는 설도 있다. 어려서부터 기력이 강건하여 형 윤웅렬과 함께 두 형제가 천하장사라는 소리를 들었다. 위로는 누이가 몇 명 있었는데, 그 중 한명은 온양에 사는 이원시에게 시집갔고, 후일 소설가 겸 작가인 이어령의 진외증조모가 된다. 누나 중 온양으로 시집간 윤씨부인은 한글과 한학 실력에도 뛰어났는데, 훗날 남동생인 윤영렬의 치적을 담은 회고록인 《윤상공 선정록》을 출간하기도 했다. 또다른 누나들 중 한명은 아산에 사는 전주이씨 이인서에게 시집갔다. 아버지 윤취동은 첫 부인에게서 아들이 없었고, 재취 부인을 얻었지만 딸만 몇명 두었고, 나이 40이 넘도록 아들이 없었다. 아버지 취동은 웅달산에 기도를 하고 난 뒤 아들을 수태했다 하여 장남의 이름을 웅렬이라 지었고, 뒤에 그의 이름은 형 윤웅렬과 짝을 맞추기 위해(영웅)으로 영렬로 지어졌다. 윤웅렬의 동생으로 9세 때 부친을 여의었다. 그의 가계는 선조 때의 형제 정승 윤두수, 윤근수 형제의 후손으로 7대조 윤흔(尹昕)이 예조판서를 지내고 6대조 윤취지(尹就之)는 부사직을 지냈으나 증조부 대에 향반으로 몰락하였다. 5대조 윤채는 세자익위사사어를 지내고 사후 증 이조참판에 추증되었으며, 고조부 윤세겸은 돈령부동지사를 지냈으며, 재종조부 윤득우는 병조참판과 광주부윤을 지냈으나 소론 신치운의 문인이라 하여 순탄치 않은 관료생활을 보냈다. 증조부 윤발은 관직이 없이 생활하다가 집터가 수원행궁으로 편입되면서 잠깐 낭청직을 지냈다. 후에 그의 아버지 윤취동이 억울함을 상소하여 호조참의에 추증되었다. 할아버지 윤득실은 통덕랑을 지냈지만 요절했고, 천안군으로 분가한 아버지 윤취동은 할아버지의 넷째 아들이었다. ",
+	"docID": "54795"
+}

@@ -1,0 +1,121 @@
+{
+	"docID": "1504115",
+	"globalSID": "3788197,3788198,3788199,3788200,3788201",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"entityName": "스페이스X",
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 15,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스페이스X",
+			"coref_index": 223
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"entityName": "우주로켓",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 26,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "우주로켓"
+		},
+		{
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"entityName": "팰컨_9",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "팰컨_9",
+			"coref_index": 226
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Planet",
+				"CelestialBody"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"entityName": "화성",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 102,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "화성",
+			"coref_index": 224
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 125,
+			"eType": "WIKILINK",
+			"entityName": "스페이스X",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 130,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "스페이스X",
+			"coref_index": 223
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 138,
+			"eType": "WIKILINK",
+			"entityName": "레드_드래건_(우주선)",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 150,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "레드_드래건_(우주선)"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Planet",
+				"CelestialBody"
+			],
+			"st": 183,
+			"eType": "WIKILINK",
+			"entityName": "화성",
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 185,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "화성",
+			"coref_index": 224
+		}
+	],
+	"plainText": "팰컨 헤비는 미국 스페이스X가 개발중인 우주로켓이다. 2016년 12월 최초 시험발사를 할 계획이다. 기존의 팰컨_9 로켓을 3개 묶어서 54.4톤의 인공위성을 발사할 수 있다. 화성에 13.6톤의 우주선을 보낼 수 있다. 스페이스X는 2024년 레드_드래건_(우주선) 유인 화성 탐사선을 팰컨 헤비 로켓으로 발사해 2025년 화성에 인간을 착륙시킨다는 계획이다."
+}

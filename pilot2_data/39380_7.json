@@ -1,0 +1,127 @@
+{
+	"docID": "39380",
+	"globalSID": "370766,370767",
+	"pronouns": [
+		{
+			"en": 72,
+			"st": 69,
+			"surface": "그 후",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 15,
+			"ancestor": "",
+			"surface": "6월_8일",
+			"entityName": "6월_8일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "잠실",
+			"entityName": "잠실야구장"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "LG",
+			"entityName": "LG_트윈스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 79,
+			"ancestor": "",
+			"surface": "6월_16일",
+			"entityName": "6월_16일"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 85,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 93,
+			"ancestor": "6-3",
+			"coref_index": 519,
+			"surface": "KIA_타이거즈",
+			"entityName": "KIA_타이거즈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 114,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 116,
+			"ancestor": "6-12",
+			"coref_index": 524,
+			"surface": "투수",
+			"entityName": "투수"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 117,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 120,
+			"ancestor": "6-13",
+			"coref_index": 526,
+			"surface": "안영명",
+			"entityName": "안영명"
+		}
+	],
+	"plainText": "트레이드된 첫날인 6월_8일 바로 1군에 등록했고, 잠실 LG전에서 7회에 대타로 이적 후 첫 타석에서 삼진으로 물러났다. 그 후 6월_16일 친정 팀 KIA_타이거즈와의 경기에서 8회말 서로 트레이드된 투수 안영명을 상대로 헛스윙 삼진(시즌 첫 대결)으로 물러났다."
+}

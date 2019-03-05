@@ -1,0 +1,56 @@
+{
+	"docID": "1780938",
+	"globalSID": "4009791",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "가면라이더",
+			"entityName": "가면라이더"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 14,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "만화가",
+			"entityName": "만화가"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "이시노모리_쇼타로",
+			"entityName": "이시노모리_쇼타로"
+		}
+	],
+	"plainText": "자켓은 가면라이더의 인기 만화가 이시노모리_쇼타로의 작품."
+}

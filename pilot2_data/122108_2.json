@@ -1,0 +1,43 @@
+{
+	"docID": "122108",
+	"globalSID": "893465,893466",
+	"pronouns": [
+		{
+			"st": 3,
+			"coref_index": 123,
+			"id": 0,
+			"en": 7,
+			"ancestor": "1-5",
+			"surface": "이 제도"
+		},
+		{
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "여러 작은 섬들로",
+			"id": 1,
+			"st": 86
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 24,
+			"ancestor": "-1",
+			"coref_index": 119,
+			"surface": "티에라델푸에고_섬",
+			"entityName": "티에라델푸에고_섬"
+		}
+	],
+	"plainText": "지리 이 제도는 주요 섬인 티에라델푸에고_섬(면적은 48,100 km²로 \"큰 섬\"이라는 뜻의 '이슬라 그란데\"Isla Grande\"로 부르기도 한다)과 여러 작은 섬들로 이루어져 있다."
+}

@@ -1,0 +1,278 @@
+{
+	"docID": "1119554",
+	"globalSID": "3361795,3361796,3361797,3361798,3361799,3361800",
+	"pronouns": [
+		{
+			"en": 122,
+			"ancestor": "-1",
+			"surface": "이 때도",
+			"id": 0,
+			"st": 118
+		},
+		{
+			"en": 158,
+			"ancestor": "-1",
+			"surface": "그때",
+			"id": 1,
+			"st": 156
+		},
+		{
+			"en": 243,
+			"ancestor": "-1",
+			"surface": "이 사실을",
+			"id": 2,
+			"st": 238
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 165,
+			"ancestor": "5-0",
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "ELU",
+			"entityName": "토네이도",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 188,
+			"ancestor": "6-0",
+			"is_target": true,
+			"surface": "토네이도",
+			"coref_index": 44
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "4-17",
+			"is_target": true,
+			"surface": "구덩이",
+			"coref_index": 56
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 13,
+			"ancestor": "4-13",
+			"is_target": true,
+			"surface": "도니",
+			"coref_index": 48
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 19,
+			"ancestor": "4-8",
+			"is_target": true,
+			"surface": "케이틀린",
+			"coref_index": 50
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 23,
+			"ancestor": "4-12",
+			"is_target": true,
+			"surface": "게리",
+			"coref_index": 49
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "음성_사서함"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 67,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "카메라"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 101,
+			"ancestor": "4-9",
+			"is_target": true,
+			"surface": "폐지_공장",
+			"coref_index": 53
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 123,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 125,
+			"ancestor": "5-14",
+			"is_target": true,
+			"surface": "피트",
+			"coref_index": 54
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 133,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "영상"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 146,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 148,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "촬영"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 210,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 214,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "고등학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 257,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 260,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대피소"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 278,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 286,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "토네이도_전문가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 311,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 315,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스쿨버스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 302,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 304,
+			"ancestor": "2-10",
+			"is_target": true,
+			"surface": "학생",
+			"coref_index": 57
+		}
+	],
+	"plainText": "한편 구덩이에 갇힌 도니와 케이틀린은 게리의 음성_사서함으로 구조 요청을 보낸다. 물이 높게 차오르자 둘은 도니의 카메라로 작별 인사를 남긴다. 게리는 가까스로 둘이 있는 폐지_공장에 도착하고, 둘을 구해낸다. 이 때도 피트는 둘에게 영상을 찍었냐며 물어보며, 촬영을 고집한다. 그때 두 토네이도가 합쳐져 풍속 450km의 거대 토네이도가 만들어지고, 일행은 학생들이 대피한 고등학교가 안전하지 않을 거라 생각해 학교에 가서 이 사실을 알린다. 교장은 학교가 대피소라며 요구를 거절하지만, 일행에 토네이도_전문가가 속해 있다는 것을 알고, 학생들과 일행을 스쿨버스에 태워 대피시킨다."
+}

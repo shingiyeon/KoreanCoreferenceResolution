@@ -1,0 +1,516 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 119,
+			"text": "그 아우",
+			"is_pronoun": true,
+			"en_modified": 123,
+			"en": 123,
+			"st_modified": 119
+		},
+		{
+			"st": 119,
+			"text": "그 아우 김의갑,",
+			"is_pronoun": true,
+			"en_modified": 128,
+			"en": 128,
+			"st_modified": 119
+		},
+		{
+			"st": 403,
+			"text": "공",
+			"is_pronoun": true,
+			"en_modified": 404,
+			"en": 404,
+			"st_modified": 403
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 119,
+			"ancestor": "-1",
+			"surface": "그 아우",
+			"en_modified": 123,
+			"en": 123,
+			"st_modified": 119,
+			"id": 0
+		},
+		{
+			"st": 119,
+			"ancestor": "-1",
+			"surface": "그 아우 김의갑,",
+			"en_modified": 128,
+			"en": 128,
+			"st_modified": 119,
+			"id": 1
+		},
+		{
+			"st": 403,
+			"ancestor": "-1",
+			"surface": "공을",
+			"en_modified": 405,
+			"en": 405,
+			"st_modified": 403,
+			"id": 2
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 72,
+			"entityName": "전라남도의_문화재자료",
+			"st_modified": 61,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 61,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "전라남도의_문화재자료",
+			"is_target": true,
+			"en": 72,
+			"id": 0
+		},
+		{
+			"en_modified": 60,
+			"entityName": "",
+			"st_modified": 48,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 48,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1984년_2월_29일",
+			"is_target": false,
+			"en": 60,
+			"id": 1
+		},
+		{
+			"en_modified": 36,
+			"entityName": "",
+			"st_modified": 24,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 24,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "전라남도_화순군_이양면",
+			"is_target": true,
+			"en": 36,
+			"id": 2
+		},
+		{
+			"en_modified": 10,
+			"st_modified": 0,
+			"coref_index": 139,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "화순_쌍봉리_충신각",
+			"is_target": true,
+			"en": 10,
+			"id": 3
+		},
+		{
+			"en_modified": 98,
+			"entityName": "임진왜란",
+			"st_modified": 94,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 94,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "임진왜란",
+			"is_target": true,
+			"en": 98,
+			"id": 4
+		},
+		{
+			"en_modified": 133,
+			"st_modified": 129,
+			"coref_index": 143,
+			"entityName": "병자호란",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 129,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "병자호란",
+			"is_target": true,
+			"en": 133,
+			"id": 5
+		},
+		{
+			"en_modified": 169,
+			"entityName": "조선_고종",
+			"st_modified": 164,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 164,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "조선_고종",
+			"is_target": true,
+			"en": 169,
+			"id": 6
+		},
+		{
+			"en_modified": 117,
+			"st_modified": 114,
+			"coref_index": 140,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 114,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김인갑",
+			"is_target": true,
+			"en": 117,
+			"id": 7
+		},
+		{
+			"en_modified": 127,
+			"st_modified": 124,
+			"coref_index": 141,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 124,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김의갑",
+			"is_target": true,
+			"en": 127,
+			"id": 8
+		},
+		{
+			"en_modified": 151,
+			"st_modified": 148,
+			"coref_index": 142,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 148,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김시엽",
+			"is_target": true,
+			"en": 151,
+			"id": 9
+		},
+		{
+			"en_modified": 179,
+			"entityName": "",
+			"st_modified": 170,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 170,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "10년(1872)",
+			"is_target": false,
+			"en": 179,
+			"id": 10
+		},
+		{
+			"en_modified": 92,
+			"st_modified": 89,
+			"coref_index": 139,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 89,
+			"ancestor": "1-3",
+			"ne_type": "ORGANIZATION",
+			"surface": "충신각",
+			"is_target": true,
+			"en": 92,
+			"id": 11
+		},
+		{
+			"en_modified": 197,
+			"entityName": "조선_선조",
+			"st_modified": 195,
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 195,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "선조",
+			"is_target": true,
+			"en": 197,
+			"id": 12
+		},
+		{
+			"en_modified": 279,
+			"entityName": "병조판서",
+			"st_modified": 275,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 275,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "병조판서",
+			"is_target": true,
+			"en": 279,
+			"id": 13
+		},
+		{
+			"en_modified": 193,
+			"st_modified": 190,
+			"coref_index": 140,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 190,
+			"ancestor": "1-7",
+			"ne_type": "PERSON",
+			"surface": "김인갑",
+			"is_target": true,
+			"en": 193,
+			"id": 14
+		},
+		{
+			"en_modified": 207,
+			"entityName": "",
+			"st_modified": 198,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 198,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "12년(1579)",
+			"is_target": false,
+			"en": 207,
+			"id": 15
+		},
+		{
+			"en_modified": 229,
+			"entityName": "",
+			"st_modified": 220,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 220,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "24년(1591)",
+			"is_target": false,
+			"en": 229,
+			"id": 16
+		},
+		{
+			"en_modified": 292,
+			"st_modified": 289,
+			"coref_index": 141,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 289,
+			"ancestor": "1-8",
+			"ne_type": "PERSON",
+			"surface": "김의갑",
+			"is_target": true,
+			"en": 292,
+			"id": 17
+		},
+		{
+			"en_modified": 300,
+			"entityName": "",
+			"st_modified": 294,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 294,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "선조_23년",
+			"is_target": false,
+			"en": 300,
+			"id": 18
+		},
+		{
+			"en_modified": 381,
+			"entityName": "이괄의_난",
+			"st_modified": 376,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 376,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이괄의_난",
+			"is_target": true,
+			"en": 381,
+			"id": 19
+		},
+		{
+			"en_modified": 399,
+			"entityName": "정묘호란",
+			"st_modified": 395,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 395,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정묘호란",
+			"is_target": true,
+			"en": 399,
+			"id": 20
+		},
+		{
+			"en_modified": 426,
+			"entityName": "승정원",
+			"st_modified": 423,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 423,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "승정원",
+			"is_target": true,
+			"en": 426,
+			"id": 21
+		},
+		{
+			"en_modified": 338,
+			"st_modified": 335,
+			"coref_index": 142,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 335,
+			"ancestor": "1-9",
+			"ne_type": "PERSON",
+			"surface": "김시엽",
+			"is_target": true,
+			"en": 338,
+			"id": 22
+		},
+		{
+			"en_modified": 353,
+			"entityName": "",
+			"st_modified": 340,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 340,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "광해군_13년(1621)",
+			"is_target": false,
+			"en": 353,
+			"id": 23
+		},
+		{
+			"en_modified": 375,
+			"entityName": "",
+			"st_modified": 364,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 364,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "인조_2년(1624)",
+			"is_target": false,
+			"en": 375,
+			"id": 24
+		},
+		{
+			"en_modified": 394,
+			"entityName": "",
+			"st_modified": 383,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 383,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "인조_5년(1627)",
+			"is_target": false,
+			"en": 394,
+			"id": 25
+		},
+		{
+			"en_modified": 415,
+			"st_modified": 411,
+			"coref_index": 143,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 411,
+			"ancestor": "1-5",
+			"ne_type": "EVENT",
+			"surface": "병자호란",
+			"is_target": true,
+			"en": 415,
+			"id": 26
+		}
+	],
+	"globalSID": "3525860,3525861,3525862,3525863,3525864,3525865,3525866,3525867",
+	"plainText": "화순_쌍봉리_충신각(和順 雙峰里 忠臣閣)은 전라남도_화순군_이양면에 있는 충신각이다. 1984년_2월_29일 전라남도의_문화재자료 제59호로 지정되었다. 개요 충신각은 임진왜란 때 진주성 싸움에서 전사한 김인갑과 그 아우 김의갑, 병자호란 때 전사한 김인갑의 아들 김시엽의 충의를 기리기 위해 조선_고종 10년(1872)에 세운 건물이다. 김인갑은 선조 12년(1579) 무과에 급제하고 선조_24년(1591)에는 훈련원 판관이 되었는데, 진주성 싸움에서 전사하자 선무원종공신으로 기록되었고 병조판서 벼슬에 올랐다. 김의갑은 선조_23년(1590)에 무과에 급제하여 전사하자 주부의 벼슬에 올랐다. 김시엽은 광해군_13년(1621)에 무과에 급제하고 인조_2년(1624) 이괄의_난과 인조_5년(1627) 정묘호란 때에 공을 세웠다. 병자호란 때 전사하자 승정원 우승지 벼슬에 올랐다. ",
+	"docID": "1279204",
+	"ModifiedText": "화순 쌍봉리 충신각(和順 雙峰里 忠臣閣)은 전라남도 화순군 이양면에 있는 충신각이다. 1984년 2월 29일 전라남도의 문화재자료 제59호로 지정되었다. 개요 충신각은 임진왜란 때 진주성 싸움에서 전사한 김인갑과 그 아우 김의갑, 병자호란 때 전사한 김인갑의 아들 김시엽의 충의를 기리기 위해 조선 고종 10년(1872)에 세운 건물이다. 김인갑은 선조 12년(1579) 무과에 급제하고 선조 24년(1591)에는 훈련원 판관이 되었는데, 진주성 싸움에서 전사하자 선무원종공신으로 기록되었고 병조판서 벼슬에 올랐다. 김의갑은 선조 23년(1590)에 무과에 급제하여 전사하자 주부의 벼슬에 올랐다. 김시엽은 광해군 13년(1621)에 무과에 급제하고 인조 2년(1624) 이괄의 난과 인조 5년(1627) 정묘호란 때에 공을 세웠다. 병자호란 때 전사하자 승정원 우승지 벼슬에 올랐다. "
+}

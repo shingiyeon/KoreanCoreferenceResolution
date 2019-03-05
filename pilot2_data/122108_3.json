@@ -1,0 +1,64 @@
+{
+	"docID": "122108",
+	"globalSID": "893467",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 11,
+			"ancestor": "2-0",
+			"coref_index": 119,
+			"surface": "티에라_델_푸에고_섬",
+			"entityName": "티에라델푸에고_섬"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 67,
+			"ancestor": "-1",
+			"coref_index": 122,
+			"surface": "아르헨티나",
+			"entityName": "아르헨티나"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 105,
+			"ancestor": "-1",
+			"coref_index": 121,
+			"surface": "칠레",
+			"entityName": "칠레"
+		}
+	],
+	"plainText": "티에라_델_푸에고_섬은 두 국가가 나눠 갖고 있는데, 동쪽 18,507.3 평방 킬로미터(섬의 38.57%)는 아르헨티나령이고, 서쪽 29,484.7 평방킬로미터(섬의 61.43%)은 칠레령이다.."
+}

@@ -1,0 +1,1117 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 62,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 63,
+			"en": 63,
+			"st_modified": 62
+		},
+		{
+			"st": 146,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 147,
+			"en": 147,
+			"st_modified": 146
+		},
+		{
+			"st": 210,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 211,
+			"en": 211,
+			"st_modified": 210
+		},
+		{
+			"st": 227,
+			"text": "이 클럽",
+			"is_pronoun": true,
+			"en_modified": 231,
+			"en": 231,
+			"st_modified": 227
+		},
+		{
+			"st": 233,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 234,
+			"en": 234,
+			"st_modified": 233
+		},
+		{
+			"st": 233,
+			"text": "그의 죽마고우",
+			"is_pronoun": true,
+			"en_modified": 240,
+			"en": 240,
+			"st_modified": 233
+		},
+		{
+			"st": 233,
+			"text": "그의 죽마고우인 지시스_브리자스",
+			"is_pronoun": true,
+			"en_modified": 250,
+			"en": 250,
+			"st_modified": 233
+		},
+		{
+			"st": 233,
+			"text": "그의 죽마고우인 지시스_브리자스의 출신 구단이기",
+			"is_pronoun": true,
+			"en_modified": 259,
+			"en": 259,
+			"st_modified": 233
+		},
+		{
+			"st": 295,
+			"text": "지대한 공",
+			"is_pronoun": true,
+			"en_modified": 300,
+			"en": 300,
+			"st_modified": 295
+		},
+		{
+			"st": 386,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 387,
+			"en": 387,
+			"st_modified": 386
+		},
+		{
+			"st": 416,
+			"text": "이 중",
+			"is_pronoun": true,
+			"en_modified": 419,
+			"en": 419,
+			"st_modified": 416
+		},
+		{
+			"st": 442,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 443,
+			"en": 443,
+			"st_modified": 442
+		},
+		{
+			"st": 525,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 526,
+			"en": 526,
+			"st_modified": 525
+		},
+		{
+			"st": 684,
+			"text": "이에",
+			"is_pronoun": true,
+			"en_modified": 686,
+			"en": 686,
+			"st_modified": 684
+		},
+		{
+			"st": 704,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 705,
+			"en": 705,
+			"st_modified": 704
+		},
+		{
+			"st": 724,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 725,
+			"en": 725,
+			"st_modified": 724
+		},
+		{
+			"st": 748,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 749,
+			"en": 749,
+			"st_modified": 748
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 62,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 63,
+			"en": 63,
+			"st_modified": 62,
+			"id": 0,
+			"coref_index": 630
+		},
+		{
+			"st": 146,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 147,
+			"en": 147,
+			"st_modified": 146,
+			"id": 1,
+			"coref_index": 630
+		},
+		{
+			"st": 210,
+			"ancestor": "1-14",
+			"surface": "그",
+			"en_modified": 211,
+			"en": 211,
+			"st_modified": 210,
+			"id": 2,
+			"coref_index": 630
+		},
+		{
+			"st": 227,
+			"ancestor": "1-12",
+			"surface": "이 클럽",
+			"en_modified": 231,
+			"en": 231,
+			"st_modified": 227,
+			"id": 3,
+			"coref_index": 629
+		},
+		{
+			"st": 233,
+			"ancestor": "1-14",
+			"surface": "그",
+			"en_modified": 234,
+			"en": 234,
+			"st_modified": 233,
+			"id": 4,
+			"coref_index": 630
+		},
+		{
+			"st": 233,
+			"ancestor": "-1",
+			"surface": "그의 죽마고우",
+			"en_modified": 240,
+			"en": 240,
+			"st_modified": 233,
+			"id": 5
+		},
+		{
+			"st": 233,
+			"ancestor": "-1",
+			"surface": "그의 죽마고우인 지시스_브리자스",
+			"en_modified": 250,
+			"en": 250,
+			"st_modified": 233,
+			"id": 6
+		},
+		{
+			"st": 233,
+			"ancestor": "1-12",
+			"surface": "그의 죽마고우인 지시스_브리자스의 출신 구단",
+			"en_modified": 257,
+			"en": 257,
+			"st_modified": 233,
+			"id": 7,
+			"coref_index": 629
+		},
+		{
+			"st": 295,
+			"ancestor": "-1",
+			"surface": "지대한 공",
+			"en_modified": 300,
+			"en": 300,
+			"st_modified": 295,
+			"id": 8
+		},
+		{
+			"st": 386,
+			"ancestor": "1-14",
+			"surface": "그",
+			"en_modified": 387,
+			"en": 387,
+			"st_modified": 386,
+			"id": 9,
+			"coref_index": 630
+		},
+		{
+			"st": 416,
+			"ancestor": "-1",
+			"surface": "이 중",
+			"en_modified": 419,
+			"en": 419,
+			"st_modified": 416,
+			"id": 10
+		},
+		{
+			"st": 442,
+			"ancestor": "1-14",
+			"surface": "그",
+			"en_modified": 443,
+			"en": 443,
+			"st_modified": 442,
+			"id": 11,
+			"coref_index": 630
+		},
+		{
+			"st": 525,
+			"ancestor": "1-14",
+			"surface": "그",
+			"en_modified": 526,
+			"en": 526,
+			"st_modified": 525,
+			"id": 12,
+			"coref_index": 630
+		},
+		{
+			"st": 684,
+			"ancestor": "-1",
+			"surface": "이에도",
+			"en_modified": 687,
+			"en": 687,
+			"st_modified": 684,
+			"id": 13
+		},
+		{
+			"st": 704,
+			"ancestor": "1-14",
+			"surface": "그",
+			"en_modified": 705,
+			"en": 705,
+			"st_modified": 704,
+			"id": 14,
+			"coref_index": 630
+		},
+		{
+			"st": 724,
+			"ancestor": "-1",
+			"surface": "이는",
+			"en_modified": 726,
+			"en": 726,
+			"st_modified": 724,
+			"id": 15
+		},
+		{
+			"st": 748,
+			"ancestor": "1-14",
+			"surface": "그",
+			"en_modified": 749,
+			"en": 749,
+			"st_modified": 748,
+			"id": 16,
+			"coref_index": 630
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 5,
+			"st_modified": 0,
+			"coref_index": 630,
+			"entityName": "테오도로스_자고라키스",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "테오도로스",
+			"is_target": true,
+			"en": 5,
+			"id": 0
+		},
+		{
+			"en_modified": 25,
+			"entityName": "1971년",
+			"st_modified": 20,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 20,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1971년",
+			"is_target": false,
+			"en": 25,
+			"id": 1
+		},
+		{
+			"en_modified": 33,
+			"entityName": "10월_27일",
+			"st_modified": 26,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 26,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "10월_27일",
+			"is_target": false,
+			"en": 33,
+			"id": 2
+		},
+		{
+			"en_modified": 38,
+			"entityName": "리디아_(도시)",
+			"st_modified": 35,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 35,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "리디아",
+			"is_target": true,
+			"en": 38,
+			"id": 3
+		},
+		{
+			"en_modified": 51,
+			"st_modified": 48,
+			"coref_index": 633,
+			"entityName": "그리스",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 48,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "그리스",
+			"is_target": true,
+			"en": 51,
+			"id": 4
+		},
+		{
+			"en_modified": 77,
+			"entityName": "UEFA_유로_2004",
+			"st_modified": 65,
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 65,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_유로_2004",
+			"is_target": true,
+			"en": 77,
+			"id": 5
+		},
+		{
+			"en_modified": 99,
+			"entityName": "그리스_축구_국가대표팀",
+			"st_modified": 90,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 90,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "그리스_국가대표팀",
+			"is_target": true,
+			"en": 99,
+			"id": 6
+		},
+		{
+			"en_modified": 114,
+			"st_modified": 110,
+			"coref_index": 631,
+			"entityName": "PAOK_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 110,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "PAOK",
+			"is_target": true,
+			"en": 114,
+			"id": 7
+		},
+		{
+			"en_modified": 139,
+			"entityName": "2014년_그리스의_유럽_의회_선거",
+			"st_modified": 122,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 122,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2014년_5월_유럽_의회_선거",
+			"is_target": true,
+			"en": 139,
+			"id": 8
+		},
+		{
+			"en_modified": 170,
+			"entityName": "",
+			"st_modified": 168,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 168,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "클럽",
+			"is_target": true,
+			"en": 170,
+			"id": 9
+		},
+		{
+			"en_modified": 177,
+			"st_modified": 174,
+			"coref_index": 629,
+			"entityName": "카발라",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 174,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "카발라",
+			"is_target": true,
+			"en": 177,
+			"id": 10
+		},
+		{
+			"en_modified": 193,
+			"entityName": "미드필더",
+			"st_modified": 185,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 185,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "수비형_미드필더",
+			"is_target": true,
+			"en": 193,
+			"id": 11
+		},
+		{
+			"en_modified": 216,
+			"st_modified": 213,
+			"coref_index": 629,
+			"entityName": "카발라_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 213,
+			"ancestor": "1-10",
+			"ne_type": "ORGANIZATION",
+			"surface": "카발라",
+			"is_target": true,
+			"en": 216,
+			"id": 12
+		},
+		{
+			"en_modified": 250,
+			"entityName": "지시스_브리자스",
+			"st_modified": 242,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 242,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "지시스_브리자스",
+			"is_target": true,
+			"en": 250,
+			"id": 13
+		},
+		{
+			"en_modified": 183,
+			"st_modified": 178,
+			"coref_index": 630,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 178,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "자고라키스",
+			"is_target": true,
+			"en": 183,
+			"id": 14
+		},
+		{
+			"en_modified": 322,
+			"entityName": "알파_에트니키_1992-93",
+			"st_modified": 312,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 312,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1992-93_시즌",
+			"is_target": true,
+			"en": 322,
+			"id": 15
+		},
+		{
+			"en_modified": 338,
+			"st_modified": 335,
+			"coref_index": 629,
+			"entityName": "카발라",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 335,
+			"ancestor": "1-12",
+			"ne_type": "ETC",
+			"surface": "카발라",
+			"is_target": true,
+			"en": 338,
+			"id": 16
+		},
+		{
+			"en_modified": 347,
+			"st_modified": 343,
+			"coref_index": 631,
+			"entityName": "PAOK_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 343,
+			"ancestor": "1-7",
+			"ne_type": "ORGANIZATION",
+			"surface": "PAOK",
+			"is_target": true,
+			"en": 347,
+			"id": 17
+		},
+		{
+			"en_modified": 398,
+			"entityName": "",
+			"st_modified": 389,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 389,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1997년_12월",
+			"is_target": false,
+			"en": 398,
+			"id": 18
+		},
+		{
+			"en_modified": 405,
+			"st_modified": 401,
+			"coref_index": 631,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 401,
+			"ancestor": "1-17",
+			"ne_type": "ORGANIZATION",
+			"surface": "PAOK",
+			"is_target": true,
+			"en": 405,
+			"id": 19
+		},
+		{
+			"en_modified": 475,
+			"st_modified": 469,
+			"coref_index": 632,
+			"entityName": "레스터_시티_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 469,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "레스터_시티",
+			"is_target": true,
+			"en": 475,
+			"id": 20
+		},
+		{
+			"en_modified": 508,
+			"st_modified": 502,
+			"coref_index": 632,
+			"entityName": "레스터_시티_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 502,
+			"ancestor": "1-20",
+			"ne_type": "ORGANIZATION",
+			"surface": "레스터_시티",
+			"is_target": true,
+			"en": 508,
+			"id": 21
+		},
+		{
+			"en_modified": 521,
+			"entityName": "잉글랜드",
+			"st_modified": 517,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 517,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "잉글랜드",
+			"is_target": true,
+			"en": 521,
+			"id": 22
+		},
+		{
+			"en_modified": 542,
+			"entityName": "웸블리_스타디움_(1923년)",
+			"st_modified": 534,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"eType": "WIKILINK",
+			"st": 534,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "웸블리_스타디움",
+			"is_target": true,
+			"en": 542,
+			"id": 23
+		},
+		{
+			"en_modified": 551,
+			"entityName": "풋볼_리그_컵",
+			"st_modified": 548,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 548,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "리그컵",
+			"is_target": true,
+			"en": 551,
+			"id": 24
+		},
+		{
+			"en_modified": 567,
+			"entityName": "1999_풋볼_리그_컵_결승전",
+			"st_modified": 562,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 562,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1999년",
+			"is_target": true,
+			"en": 567,
+			"id": 25
+		},
+		{
+			"en_modified": 577,
+			"entityName": "토트넘_홋스퍼_FC",
+			"st_modified": 570,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 570,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "토트넘_홋스퍼",
+			"is_target": true,
+			"en": 577,
+			"id": 26
+		},
+		{
+			"en_modified": 603,
+			"entityName": "트랜미어_로버스_FC",
+			"st_modified": 595,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 595,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "트랜미어_로버스",
+			"is_target": true,
+			"en": 603,
+			"id": 27
+		},
+		{
+			"en_modified": 621,
+			"st_modified": 610,
+			"coref_index": 630,
+			"entityName": "테오도로스_자고라키스",
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 610,
+			"ancestor": "1-14",
+			"ne_type": "PERSON",
+			"surface": "테오도로스_자고라키스",
+			"is_target": true,
+			"en": 621,
+			"id": 28
+		},
+		{
+			"en_modified": 629,
+			"st_modified": 623,
+			"coref_index": 632,
+			"entityName": "레스터_시티_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 623,
+			"ancestor": "1-21",
+			"ne_type": "ORGANIZATION",
+			"surface": "레스터_시티",
+			"is_target": true,
+			"en": 629,
+			"id": 29
+		},
+		{
+			"en_modified": 662,
+			"entityName": "맨체스터_유나이티드_FC",
+			"st_modified": 652,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 652,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "맨체스터_유나이티드",
+			"is_target": true,
+			"en": 662,
+			"id": 30
+		},
+		{
+			"en_modified": 699,
+			"entityName": "마틴_오닐",
+			"st_modified": 694,
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"eType": "WIKILINK",
+			"st": 694,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마틴_오닐",
+			"is_target": true,
+			"en": 699,
+			"id": 31
+		},
+		{
+			"en_modified": 592,
+			"entityName": "",
+			"st_modified": 589,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 589,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "결승전",
+			"is_target": true,
+			"en": 592,
+			"id": 32
+		},
+		{
+			"en_modified": 650,
+			"entityName": "",
+			"st_modified": 638,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 638,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1999년_1월_16일",
+			"is_target": false,
+			"en": 650,
+			"id": 33
+		},
+		{
+			"en_modified": 730,
+			"st_modified": 727,
+			"coref_index": 633,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 727,
+			"ancestor": "1-4",
+			"ne_type": "LOCATION",
+			"surface": "그리스",
+			"is_target": true,
+			"en": 730,
+			"id": 34
+		},
+		{
+			"en_modified": 754,
+			"entityName": "아테네",
+			"st_modified": 751,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"City",
+				"AdministrativeRegion"
+			],
+			"eType": "WIKILINK",
+			"st": 751,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "아테네",
+			"is_target": true,
+			"en": 754,
+			"id": 35
+		},
+		{
+			"en_modified": 768,
+			"entityName": "AEK_아테네_FC",
+			"st_modified": 765,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 765,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "AEK",
+			"is_target": true,
+			"en": 768,
+			"id": 36
+		},
+		{
+			"en_modified": 786,
+			"entityName": "미할리스_카프시스",
+			"st_modified": 777,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 777,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "미할리스_카프시스",
+			"is_target": true,
+			"en": 786,
+			"id": 37
+		},
+		{
+			"en_modified": 796,
+			"entityName": "바실리스_라키스",
+			"st_modified": 788,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 788,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "바실리스_라키스",
+			"is_target": true,
+			"en": 796,
+			"id": 38
+		},
+		{
+			"en_modified": 808,
+			"entityName": "데미스_니콜라이디스",
+			"st_modified": 798,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 798,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "데미스_니콜라이디스",
+			"is_target": true,
+			"en": 808,
+			"id": 39
+		},
+		{
+			"en_modified": 825,
+			"entityName": "바실리오스_치아르타스",
+			"st_modified": 814,
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 814,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "바실리오스_치아르타스",
+			"is_target": true,
+			"en": 825,
+			"id": 40
+		},
+		{
+			"en_modified": 869,
+			"entityName": "그리스_컵_2001-02",
+			"st_modified": 864,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 864,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2002년",
+			"is_target": true,
+			"en": 869,
+			"id": 41
+		},
+		{
+			"en_modified": 881,
+			"entityName": "올림피아코스_FC",
+			"st_modified": 875,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 875,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "올림피아코스",
+			"is_target": true,
+			"en": 881,
+			"id": 42
+		},
+		{
+			"en_modified": 892,
+			"entityName": "그리스_컵",
+			"st_modified": 887,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 887,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "그리스_컵",
+			"is_target": true,
+			"en": 892,
+			"id": 43
+		}
+	],
+	"globalSID": "2182669,2182670,2182671,2182672,2182673,2182674,2182675,2182676,2182677,2182678,2182679,2182680,2182681,2182682,2182683,2182684,2182685,2182686,2182687,2182688",
+	"plainText": "테오도로스 \"테오\" 자고라키스 (, 1971년 10월_27일, 리디아 ~) 는 은퇴한 그리스의 축구 선수이다. 그는 UEFA_유로_2004에서 우승을 거둘 당시 그리스_국가대표팀의 주장이었고, 전 PAOK 회장이었다. 2014년_5월_유럽_의회_선거에서 당선된 그는 그리스 대표 유럽 의원이 되었다. 클럽 경력 카발라 자고라키스는 수비형_미드필더로 주로 우측 중원을 맡았다. 그는 카발라에서 데뷔하였는데, 이 클럽은 그의 죽마고우인 지시스_브리자스의 출신 구단이기도 하다. 자고라키스는 그리스 2부리그 우승을 도와 팀의 승격에 지대한 공을 세웠다. PAOK 1992-93_시즌, 자고라키스는 겨울에 카발라를 떠나 PAOK에 합류해 당시 스타 수집을 하던 클럽의 영입 목록에 이름을 올렸다. 그는 1997년_12월까지 PAOK에서 활약하였는데, 이 중 뒤에 2년동안 팀의 주장으로 활약했다. 그는 팬들 사이에서 상징적인 존재로 자리잡았다. 레스터_시티 자고라키스는 겨울 이적시장에 또다시 팀을 떠나 레스터_시티에 정착하였다. 잉글랜드에서, 그는 2회 연속 웸블리_스타디움에서 열린 리그컵 결승전에 출전하여 1999년에는 토트넘_홋스퍼에 패하였고, 이듬해 결승전에는 트랜미어_로버스를 이겼다. 테오도로스_자고라키스는 레스터_시티에서 활약하면서 1999년_1월_16일에 맨체스터_유나이티드를 상대로 환상적인 득점을 성공시켰다. 이에도 불구하고, 마틴_오닐 감독은 그를 주전으로 기용하기 꺼려하였고, 이는 그리스 복귀의 계기가 되었다. AEK 그는 아테네 연고의 축구 클럽 AEK로 이적하였고, 미할리스_카프시스, 바실리스_라키스, 데미스_니콜라이디스, 그리고 바실리오스_치아르타스와 같은 국가대표팀 동료와 함께하였다. AEK 소속으로, 자고라키스는 2002년에 라이벌 올림피아코스를 이기고 그리스_컵을 우승했다. ",
+	"docID": "500869",
+	"ModifiedText": "테오도로스 \"테오\" 자고라키스 (, 1971년 10월 27일, 리디아 ~) 는 은퇴한 그리스의 축구 선수이다. 그는 UEFA 유로 2004에서 우승을 거둘 당시 그리스 국가대표팀의 주장이었고, 전 PAOK 회장이었다. 2014년 5월 유럽 의회 선거에서 당선된 그는 그리스 대표 유럽 의원이 되었다. 클럽 경력 카발라 자고라키스는 수비형 미드필더로 주로 우측 중원을 맡았다. 그는 카발라에서 데뷔하였는데, 이 클럽은 그의 죽마고우인 지시스 브리자스의 출신 구단이기도 하다. 자고라키스는 그리스 2부리그 우승을 도와 팀의 승격에 지대한 공을 세웠다. PAOK 1992-93 시즌, 자고라키스는 겨울에 카발라를 떠나 PAOK에 합류해 당시 스타 수집을 하던 클럽의 영입 목록에 이름을 올렸다. 그는 1997년 12월까지 PAOK에서 활약하였는데, 이 중 뒤에 2년동안 팀의 주장으로 활약했다. 그는 팬들 사이에서 상징적인 존재로 자리잡았다. 레스터 시티 자고라키스는 겨울 이적시장에 또다시 팀을 떠나 레스터 시티에 정착하였다. 잉글랜드에서, 그는 2회 연속 웸블리 스타디움에서 열린 리그컵 결승전에 출전하여 1999년에는 토트넘 홋스퍼에 패하였고, 이듬해 결승전에는 트랜미어 로버스를 이겼다. 테오도로스 자고라키스는 레스터 시티에서 활약하면서 1999년 1월 16일에 맨체스터 유나이티드를 상대로 환상적인 득점을 성공시켰다. 이에도 불구하고, 마틴 오닐 감독은 그를 주전으로 기용하기 꺼려하였고, 이는 그리스 복귀의 계기가 되었다. AEK 그는 아테네 연고의 축구 클럽 AEK로 이적하였고, 미할리스 카프시스, 바실리스 라키스, 데미스 니콜라이디스, 그리고 바실리오스 치아르타스와 같은 국가대표팀 동료와 함께하였다. AEK 소속으로, 자고라키스는 2002년에 라이벌 올림피아코스를 이기고 그리스 컵을 우승했다. "
+}

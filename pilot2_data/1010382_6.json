@@ -1,0 +1,39 @@
+{
+	"docID": "1010382",
+	"globalSID": "3192871",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 12,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "탈레스_알레니아_스페이스",
+			"entityName": "탈레스_알레니아_스페이스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "프랑스_탈레스_그룹",
+			"entityName": ""
+		}
+	],
+	"plainText": "프랑스_탈레스_그룹의 탈레스_알레니아_스페이스에서 제작한다."
+}

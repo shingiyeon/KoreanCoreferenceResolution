@@ -1,0 +1,833 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "오범석",
+			"en": 3,
+			"is_target": true,
+			"surface": "오범석",
+			"coref_index": 112,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 27,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 31,
+			"is_target": true,
+			"surface": "대한민국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Activity",
+				"Sport"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 33,
+			"eType": "WIKILINK",
+			"entityName": "축구",
+			"en": 35,
+			"is_target": true,
+			"surface": "축구",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 50,
+			"eType": "WIKILINK",
+			"entityName": "풀백",
+			"en": 52,
+			"is_target": true,
+			"surface": "풀백",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 58,
+			"eType": "WIKILINK",
+			"entityName": "수비형_미드필더",
+			"en": 66,
+			"is_target": true,
+			"surface": "수비형_미드필더",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 79,
+			"eType": "WIKILINK",
+			"entityName": "K리그_클래식",
+			"en": 86,
+			"is_target": true,
+			"surface": "K리그_클래식",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 87,
+			"eType": "WIKILINK",
+			"entityName": "강원_FC",
+			"en": 92,
+			"is_target": true,
+			"surface": "강원_FC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 9,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 21,
+			"is_target": false,
+			"surface": "1984년_7월_29일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"st": 106,
+			"eType": "WIKILINK",
+			"entityName": "옥동초등학교_(울산)",
+			"en": 112,
+			"is_target": true,
+			"surface": "옥동초등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 114,
+			"eType": "WIKILINK",
+			"entityName": "학성중학교",
+			"en": 119,
+			"is_target": true,
+			"surface": "학성중학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"st": 121,
+			"eType": "WIKILINK",
+			"entityName": "포항제철고등학교_축구부",
+			"en": 131,
+			"is_target": true,
+			"surface": "포항제철공업고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 182,
+			"eType": "WIKILINK",
+			"entityName": "포르투갈어",
+			"en": 187,
+			"is_target": true,
+			"surface": "포르투갈어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 261,
+			"eType": "ELU",
+			"entityName": "반칙왕",
+			"en": 264,
+			"is_target": true,
+			"surface": "반칙왕",
+			"coref_index": 112,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "EVENT",
+			"st": 133,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 135,
+			"is_target": true,
+			"surface": "졸업",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 148,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 153,
+			"is_target": true,
+			"surface": "상대_선수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 164,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 168,
+			"is_target": true,
+			"surface": "오버래핑",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 173,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 176,
+			"is_target": true,
+			"surface": "꾀돌이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 190,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 194,
+			"is_target": true,
+			"surface": "사까나시",
+			"coref_index": 113,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 205,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 209,
+			"is_target": true,
+			"surface": "사카나지",
+			"coref_index": 113,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 195,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 204,
+			"is_target": true,
+			"surface": "Sacanage,",
+			"coref_index": 113,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 214,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 216,
+			"is_target": true,
+			"surface": "별명",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 227,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 230,
+			"is_target": true,
+			"surface": "플레이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 249,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 251,
+			"is_target": true,
+			"surface": "반칙",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 23,
+			"ne_type": "TIME",
+			"st": 295,
+			"eType": "WIKILINK",
+			"en": 300,
+			"entityName": "2003년",
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 24,
+			"ne_type": "ORGANIZATION",
+			"st": 301,
+			"eType": "WIKILINK",
+			"en": 308,
+			"entityName": "포항_스틸러스",
+			"is_target": true,
+			"surface": "포항_스틸러스",
+			"coref_index": 114,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 25,
+			"ne_type": "TIME",
+			"st": 366,
+			"eType": "WIKILINK",
+			"en": 371,
+			"entityName": "2004년",
+			"is_target": false,
+			"surface": "2004년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 26,
+			"ne_type": "ORGANIZATION",
+			"st": 372,
+			"eType": "WIKILINK",
+			"en": 375,
+			"entityName": "K리그_클래식",
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 117,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 27,
+			"ne_type": "TIME",
+			"st": 388,
+			"eType": "WIKILINK",
+			"en": 393,
+			"entityName": "2007년",
+			"is_target": false,
+			"surface": "2007년",
+			"coref_index": 118,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 28,
+			"ne_type": "ORGANIZATION",
+			"st": 402,
+			"eType": "WIKILINK",
+			"en": 409,
+			"entityName": "요코하마_FC",
+			"is_target": true,
+			"surface": "요코하마_FC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"st": 394,
+			"eType": "NEW",
+			"en": 400,
+			"entityName": "",
+			"is_target": true,
+			"surface": "일본_J리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 30,
+			"ne_type": "TIME",
+			"st": 451,
+			"eType": "WIKILINK",
+			"entityName": "2008년",
+			"en": 456,
+			"is_target": false,
+			"surface": "2008년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 457,
+			"eType": "WIKILINK",
+			"entityName": "러시아_프리미어리그",
+			"en": 467,
+			"is_target": true,
+			"surface": "러시아_프리미어리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 469,
+			"eType": "WIKILINK",
+			"entityName": "FC_크릴리야_소베토프_사마라",
+			"en": 485,
+			"is_target": true,
+			"surface": "FC_크릴리야_소베토프_사마라",
+			"coref_index": 115,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 507,
+			"eType": "WIKILINK",
+			"entityName": "성남_일화_천마",
+			"en": 515,
+			"is_target": true,
+			"surface": "성남_일화_천마",
+			"coref_index": 116,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 34,
+			"ne_type": "ORGANIZATION",
+			"st": 527,
+			"eType": "WIKILINK",
+			"entityName": "포항_스틸러스",
+			"en": 534,
+			"is_target": true,
+			"surface": "포항_스틸러스",
+			"coref_index": 114,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 35,
+			"ne_type": "ORGANIZATION",
+			"st": 545,
+			"eType": "WIKILINK",
+			"entityName": "포항_스틸러스",
+			"en": 552,
+			"is_target": true,
+			"surface": "포항_스틸러스",
+			"coref_index": 114,
+			"ancestor": "1-34"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 36,
+			"ne_type": "PERSON",
+			"st": 556,
+			"eType": "ELU",
+			"entityName": "오범석",
+			"en": 559,
+			"is_target": true,
+			"surface": "오범석",
+			"coref_index": 112,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 607,
+			"eType": "WIKILINK",
+			"entityName": "포항_스틸러스",
+			"en": 614,
+			"is_target": true,
+			"surface": "포항_스틸러스",
+			"coref_index": 114,
+			"ancestor": "1-34"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 38,
+			"ne_type": "ORGANIZATION",
+			"st": 630,
+			"eType": "WIKILINK",
+			"entityName": "FC_크릴리야_소베토프_사마라",
+			"en": 646,
+			"is_target": true,
+			"surface": "FC_크릴리야_소베토프_사마라",
+			"coref_index": 115,
+			"ancestor": "1-32"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 39,
+			"ne_type": "ORGANIZATION",
+			"st": 665,
+			"eType": "WIKILINK",
+			"entityName": "포항_스틸러스",
+			"en": 667,
+			"is_target": true,
+			"surface": "포항",
+			"coref_index": 114,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 40,
+			"ne_type": "ORGANIZATION",
+			"st": 669,
+			"eType": "WIKILINK",
+			"entityName": "성남_일화_천마",
+			"en": 671,
+			"is_target": true,
+			"surface": "성남",
+			"coref_index": 116,
+			"ancestor": "1-33"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "EVENT",
+			"st": 575,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 584,
+			"is_target": true,
+			"surface": "국제축구연맹_제소",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 42,
+			"ne_type": "ORGANIZATION",
+			"st": 694,
+			"eType": "WIKILINK",
+			"entityName": "FC_크릴리야_소베토프_사마라",
+			"en": 710,
+			"is_target": true,
+			"surface": "FC_크릴리야_소베토프_사마라",
+			"coref_index": 115,
+			"ancestor": "1-32"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 727,
+			"eType": "WIKILINK",
+			"entityName": "FC_테레크_그로즈니",
+			"en": 738,
+			"is_target": true,
+			"surface": "FC_테레크_그로즈니",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 792,
+			"eType": "WIKILINK",
+			"entityName": "로만_시스킨",
+			"en": 798,
+			"is_target": true,
+			"surface": "로만_시스킨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 45,
+			"ne_type": "ORGANIZATION",
+			"st": 841,
+			"eType": "WIKILINK",
+			"entityName": "K리그_클래식",
+			"en": 844,
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 117,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 46,
+			"ne_type": "ORGANIZATION",
+			"st": 847,
+			"eType": "WIKILINK",
+			"entityName": "울산_현대_축구단",
+			"en": 852,
+			"is_target": true,
+			"surface": "울산_현대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "TIME",
+			"st": 832,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 840,
+			"is_target": false,
+			"surface": "2009년_7월",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "886039,886040,886041,886042,886043,886044,886045,886046,886047,886048,886049,886050,886051,886052,886053",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-27",
+			"st": 419,
+			"en": 422,
+			"surface": "그 해",
+			"coref_index": 118
+		},
+		{
+			"id": 1,
+			"en": 425,
+			"ancestor": "-1",
+			"st": 419,
+			"surface": "그 해 시즌"
+		},
+		{
+			"id": 2,
+			"en": 428,
+			"ancestor": "-1",
+			"st": 419,
+			"surface": "그 해 시즌 결과"
+		},
+		{
+			"id": 3,
+			"en": 431,
+			"ancestor": "-1",
+			"st": 419,
+			"surface": "그 해 시즌 결과 팀은"
+		},
+		{
+			"id": 4,
+			"en": 504,
+			"surface": "그 과정",
+			"st": 500,
+			"ancestor": "-1"
+		},
+		{
+			"id": 5,
+			"en": 535,
+			"surface": "그 과정에서 성남_일화_천마로의 이적을 추진하던 포항_스틸러스와",
+			"st": 500,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 662,
+			"surface": "이 과정",
+			"st": 658,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "오범석(吳範錫, 1984년_7월_29일 ~ )은 대한민국의 축구 선수로서 포지션은 오른쪽 풀백이며 가끔 수비형_미드필더로 뛰기도 한다. 현재 K리그_클래식 강원_FC에 소속되어 있다. 개요 옥동초등학교, 학성중학교, 포항제철공업고등학교를 졸업하였다. 머리를 잘 써 상대_선수를 잘 피해 다니며 오버래핑을 하여 꾀돌이를 뜻하는 포르투갈어인 '사까나시(Sacanage, 사카나지)'라는 별명이 붙었다. 터프한 플레이로 지능적이고 꼭 필요한 상황에서 반칙을 많이 범하여 '반칙왕'이라는 별명을 얻기도 하였다. 축구인 생활 선수 생활 2003년 포항_스틸러스에 입단하여, 오른쪽 풀백과 중앙 미드필더 및 수비수를 오가며 팀 내에 없어서는 안 될 선수로 성장하여 2004년 K리그 준우승에 공헌하였다. 2007년 일본_J리그의 요코하마_FC에 임대되었으나, 그 해 시즌 결과 팀은 최하위로 2부 리그로 강등되었다. 2008년 러시아_프리미어리그의 FC_크릴리야_소베토프_사마라로의 이적을 추진하였으나, 그 과정에서 성남_일화_천마로의 이적을 추진하던 포항_스틸러스와 마찰을 빚었다. 포항_스틸러스 측과 오범석 측은 각각 '임의탈퇴'와 '국제축구연맹_제소'라는 강경책을 내세워 대립하였고, 결국 포항_스틸러스가 이적 동의서를 발급하면서 FC_크릴리야_소베토프_사마라로 완전 이적하였다. 이 과정에서 포항과 성남의 팬들에게 많은 비난을 받기도 하였다. FC_크릴리야_소베토프_사마라로 이적한 이후 데뷔전 상대로 FC_테레크_그로즈니를 맞아 '최우수 선수'에 선정되는 등 주전 선수로 뛰며 좋은 활약을 펼쳤지만, 2009 시즌엔 로만_시스킨에게 주전 경쟁에서 밀리며 많은 기회를 잡지 못하였다. 결국 2009년_7월 K리그 팀 울산_현대로 이적하였다. ",
+	"docID": "121169"
+}

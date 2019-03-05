@@ -1,0 +1,113 @@
+{
+	"docID": "253628",
+	"globalSID": "1439374,1439375",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Award"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"entityName": "울프상",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "울프_의학상"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "WIKILINK",
+			"entityName": "녹색형광단백질",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "녹색형광단백질"
+		},
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"entityName": "마틴_챌피",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 47,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "마틴_챌피"
+		},
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"entityName": "시모무라_오사무",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 57,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "시모무라_오사무"
+		},
+		{
+			"kbox_types": [
+				"Award",
+				"NobelPrize"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"entityName": "노벨_화학상",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 70,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "노벨_화학상",
+			"coref_index": 354
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 27,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2008년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2004년"
+		}
+	],
+	"plainText": "2004년에 울프_의학상을 수상하였다. 2008년 녹색형광단백질의 발견으로 마틴_챌피와 시모무라_오사무와 공동으로 노벨_화학상을 수상하였다."
+}

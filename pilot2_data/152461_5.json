@@ -1,0 +1,144 @@
+{
+	"docID": "152461",
+	"globalSID": "1041664,1041663,1041665,1041666,1041667,1041668",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"entityName": "당근",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "당근"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"entityName": "완두콩",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 53,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "완두콩"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"entityName": "시금치",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "시금치"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"CultivatedVariety",
+				"Plant"
+			],
+			"st": 65,
+			"eType": "WIKILINK",
+			"entityName": "양배추",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 68,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "양배추"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 70,
+			"eType": "WIKILINK",
+			"entityName": "순무",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "순무"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"entityName": "양파",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 92,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "양파"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 144,
+			"eType": "WIKILINK",
+			"entityName": "감자",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 146,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "감자"
+		},
+		{
+			"kbox_types": [
+				"TopicalConcept",
+				"Taxon"
+			],
+			"st": 197,
+			"eType": "WIKILINK",
+			"entityName": "아스파라거스",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 203,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아스파라거스"
+		}
+	],
+	"plainText": "스튜나 야채 수프에 야채를 넣어 먹지만, 야채를 곁들여 먹는 것도 흔하다. 야채 당근이나 완두콩류, 시금치를 비롯해 양배추, 순무(turnip)도 많이 먹는다. 양파를 구워서 육류 메인 요리에 곁들여 먹는 것은 독일 전역에서 찾아볼 수 있을 것이다. 하지만 감자는 독일인들이 생각하기에 많이 먹는 요리여서인지 야채로 따로 취급하지는 않는다. 특별히 흰 아스파라거스를 재료로 해서 먹기도 한다."
+}

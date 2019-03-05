@@ -1,0 +1,223 @@
+{
+	"docID": "142674",
+	"globalSID": "991346,991347,991348,991349",
+	"pronouns": [
+		{
+			"st": 61,
+			"coref_index": 202,
+			"id": 0,
+			"en": 62,
+			"ancestor": "4-0",
+			"surface": "그"
+		},
+		{
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "모든 경기에서",
+			"id": 1,
+			"st": 143
+		},
+		{
+			"en": 175,
+			"ancestor": "-1",
+			"surface": "이 놀라운 활약에",
+			"id": 2,
+			"st": 166
+		},
+		{
+			"st": 166,
+			"coref_index": 203,
+			"id": 3,
+			"en": 185,
+			"ancestor": "3-9",
+			"surface": "이 놀라운 활약에 반한 인테르_밀란"
+		},
+		{
+			"st": 187,
+			"coref_index": 202,
+			"id": 4,
+			"en": 188,
+			"ancestor": "4-0",
+			"surface": "그"
+		},
+		{
+			"st": 229,
+			"coref_index": 202,
+			"id": 5,
+			"en": 230,
+			"ancestor": "4-0",
+			"surface": "그"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 5,
+			"ancestor": "1-0",
+			"coref_index": 202,
+			"surface": "아드리아누",
+			"entityName": "아드리아노"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 13,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 17,
+			"ancestor": "3-9",
+			"coref_index": 203,
+			"surface": "산_시로",
+			"entityName": "산_시로"
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "2004-05시즌",
+			"entityName": "세리에_A_2004-05"
+		},
+		{
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"st": 117,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "4-0",
+			"coref_index": 202,
+			"surface": "아드리아누",
+			"entityName": "아드리아노"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 179,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 185,
+			"ancestor": "3-9",
+			"coref_index": 203,
+			"surface": "인테르_밀란",
+			"entityName": "FC_인테르나치오날레_밀라노"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"surface": "2004년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 86,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 98,
+			"ancestor": "",
+			"surface": "2004년_7월_11일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 113,
+			"ancestor": "",
+			"surface": "2005년_6월_25일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 124,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "EVENT",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "클럽_경기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "EVENT",
+			"en": 139,
+			"ancestor": "-1",
+			"surface": "클럽_국제_경기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 200,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 212,
+			"ancestor": "",
+			"surface": "2010년_6월_30일",
+			"entityName": ""
+		}
+	],
+	"plainText": "아드리아누는 2004년 산_시로로 돌아왔으며, 4년 반짜리 계약을 맺었다. 세리에 A의 2004-05시즌에서 그는 16경기 출장에 15 골을 기록하였다. 2004년_7월_11일부터 2005년_6월_25일까지, 아드리아누는 클럽_경기, 클럽_국제_경기 포함 모든 경기에서 무려 40골을 기록하였다. 이 놀라운 활약에 반한 인테르_밀란은 그를 붙들어 놓기 위해 2010년_6월_30일까지의 더 나은 조건의 계약을 그와 맺었다."
+}

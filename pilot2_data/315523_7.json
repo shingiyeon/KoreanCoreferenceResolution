@@ -1,0 +1,133 @@
+{
+	"docID": "315523",
+	"globalSID": "1692787,1692788",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 2,
+			"ancestor": "1-7",
+			"coref_index": 441,
+			"surface": "왕건",
+			"entityName": "왕건"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 26,
+			"ancestor": "1-11",
+			"coref_index": 443,
+			"surface": "신숭겸",
+			"entityName": "신숭겸"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "6-9",
+			"coref_index": 444,
+			"surface": "김낙",
+			"entityName": "김낙"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 112,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 114,
+			"ancestor": "1-9",
+			"coref_index": 431,
+			"surface": "견훤",
+			"entityName": "견훤"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 137,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "칠곡군",
+			"entityName": "칠곡군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 147,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "약목면",
+			"entityName": "약목면"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "대목군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 166,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 169,
+			"ancestor": "4-0",
+			"coref_index": 435,
+			"surface": "고려군",
+			"entityName": ""
+		}
+	],
+	"plainText": "왕건은 간신히 탈출하여 목숨을 건졌으나, 신숭겸과 김낙을 포함하여 8명의 장수를 잃었으며 5000명의 군사 중 4930여명이 전사하고 불과 70명 정도의 병사들만이 살아돌아오는 참패를 당하였다. 한편 견훤은 승세를 타고 곧이어 대목군(大木郡)과 칠곡군(漆谷郡), 약목면(若木面) 등을 빼앗았으며, 고려군이 양식으로 쓰던 곡식을 빼앗아 불살라 버렸다."
+}

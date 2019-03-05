@@ -1,0 +1,93 @@
+{
+	"docID": "485347",
+	"globalSID": "2145280",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 4,
+			"ancestor": "-1",
+			"surface": "극동그룹",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "창업주",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "극동그룹_회장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "극동건설_사장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "대연각호텔_설립_대표이사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 56,
+			"ancestor": "-1",
+			"surface": "극동건설_설립_대표이사",
+			"entityName": ""
+		}
+	],
+	"plainText": "극동그룹의 창업주로 극동그룹_회장, 극동건설_사장, 대연각호텔_설립_대표이사, 극동건설_설립_대표이사를 역임하였다."
+}

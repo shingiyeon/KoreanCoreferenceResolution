@@ -1,0 +1,206 @@
+{
+	"docID": "142674",
+	"globalSID": "991350,991351,991352,991353,991354",
+	"pronouns": [
+		{
+			"st": 105,
+			"coref_index": 202,
+			"id": 0,
+			"en": 106,
+			"ancestor": "5-0",
+			"surface": "그"
+		},
+		{
+			"en": 115,
+			"ancestor": "-1",
+			"surface": "그의 직업 윤리까지",
+			"id": 1,
+			"st": 105
+		},
+		{
+			"en": 124,
+			"ancestor": "-1",
+			"surface": "그의 직업 윤리까지 의심받는 지경에",
+			"id": 2,
+			"st": 105
+		},
+		{
+			"st": 204,
+			"coref_index": 202,
+			"id": 3,
+			"en": 205,
+			"ancestor": "5-0",
+			"surface": "그"
+		},
+		{
+			"en": 216,
+			"ancestor": "-1",
+			"surface": "그를 쫓아낸 것이었다.",
+			"id": 4,
+			"st": 204
+		},
+		{
+			"st": 217,
+			"coref_index": 202,
+			"id": 5,
+			"en": 218,
+			"ancestor": "5-0",
+			"surface": "그"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Name",
+				"GivenName"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "아드리아노",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 5,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "아드리아누",
+			"coref_index": 202
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"entityName": "2006년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2006년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"entityName": "2007년",
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 19,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2007년"
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "세리에_A_2006-07",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 50,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2006-07시즌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "WIKILINK",
+			"entityName": "2006년_10월",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 146,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2006년_10월"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"st": 164,
+			"eType": "WIKILINK",
+			"entityName": "둥가",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 166,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "둥가"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 239,
+			"eType": "WIKILINK",
+			"entityName": "레알_마드리드_CF",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 246,
+			"ancestor": "3-5",
+			"is_target": true,
+			"surface": "레알_마드리드",
+			"coref_index": 204
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 248,
+			"eType": "WIKILINK",
+			"entityName": "첼시_FC",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 250,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "첼시"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 252,
+			"eType": "WIKILINK",
+			"entityName": "AC_밀란",
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 257,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "AC_밀란",
+			"coref_index": 206
+		}
+	],
+	"plainText": "아드리아누는 2006년, 2007년에는 그다지 좋은 활약을 하지 못했다. 2006-07시즌이 열리고 있는 도중, 나이트클럽에서 춤추고 놀고 있는 것이 두 번씩이나 목격된 사건을 발단으로, 그의 직업 윤리까지 의심받는 지경에 이르렀다. 첫 사고는 2006년_10월 발생하였다. 브라질 출신 코치 둥가가 \"똑바로 살아라\", \"축구에 집중해라\"하면서 브라질국가대표팀에서 그를 쫓아낸 것이었다. 그는 2007-08 여름 이적 시장에서 레알_마드리드, 첼시, AC_밀란 등이 노리는 대어였다."
+}

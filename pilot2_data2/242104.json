@@ -1,0 +1,816 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 84,
+			"text": "이 특별시도",
+			"is_pronoun": true,
+			"en_modified": 90,
+			"en": 90,
+			"st_modified": 84
+		},
+		{
+			"st": 143,
+			"text": "거기",
+			"is_pronoun": true,
+			"en_modified": 145,
+			"en": 145,
+			"st_modified": 143
+		},
+		{
+			"st": 164,
+			"text": "이곳",
+			"is_pronoun": true,
+			"en_modified": 166,
+			"en": 166,
+			"st_modified": 164
+		},
+		{
+			"st": 275,
+			"text": "이 도로",
+			"is_pronoun": true,
+			"en_modified": 279,
+			"en": 279,
+			"st_modified": 275
+		},
+		{
+			"st": 324,
+			"text": "이 시도",
+			"is_pronoun": true,
+			"en_modified": 328,
+			"en": 328,
+			"st_modified": 324
+		},
+		{
+			"st": 324,
+			"text": "이 시도의 기점",
+			"is_pronoun": true,
+			"en_modified": 332,
+			"en": 332,
+			"st_modified": 324
+		},
+		{
+			"st": 324,
+			"text": "이 시도의 기점인 유한대학_시계",
+			"is_pronoun": true,
+			"en_modified": 341,
+			"en": 341,
+			"st_modified": 324
+		},
+		{
+			"st": 542,
+			"text": "이 고속도로",
+			"is_pronoun": true,
+			"en_modified": 548,
+			"en": 548,
+			"st_modified": 542
+		},
+		{
+			"st": 542,
+			"text": "이 고속도로 이외",
+			"is_pronoun": true,
+			"en_modified": 551,
+			"en": 551,
+			"st_modified": 542
+		},
+		{
+			"st": 542,
+			"text": "이 고속도로 이외에 중부고속도로도 이용할 수",
+			"is_pronoun": true,
+			"en_modified": 566,
+			"en": 566,
+			"st_modified": 542
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 84,
+			"ancestor": "-1",
+			"surface": "이 특별시도",
+			"en_modified": 90,
+			"en": 90,
+			"st_modified": 84,
+			"id": 0
+		},
+		{
+			"st": 143,
+			"ancestor": "1-6",
+			"surface": "거기",
+			"en_modified": 145,
+			"en": 145,
+			"st_modified": 143,
+			"id": 1,
+			"coref_index": 335
+		},
+		{
+			"st": 164,
+			"ancestor": "1-7",
+			"surface": "이곳",
+			"en_modified": 166,
+			"en": 166,
+			"st_modified": 164,
+			"id": 2,
+			"coref_index": 336
+		},
+		{
+			"st": 275,
+			"ancestor": "-1",
+			"surface": "이 도로",
+			"en_modified": 279,
+			"en": 279,
+			"st_modified": 275,
+			"id": 3
+		},
+		{
+			"st": 324,
+			"ancestor": "-1",
+			"surface": "이 시도의",
+			"en_modified": 329,
+			"en": 329,
+			"st_modified": 324,
+			"id": 4
+		},
+		{
+			"st": 324,
+			"ancestor": "-1",
+			"surface": "이 시도의 기점인",
+			"en_modified": 333,
+			"en": 333,
+			"st_modified": 324,
+			"id": 5
+		},
+		{
+			"st": 324,
+			"ancestor": "1-1",
+			"surface": "이 시도의 기점인 유한대학_시계",
+			"en_modified": 341,
+			"en": 341,
+			"st_modified": 324,
+			"id": 6,
+			"coref_index": 333
+		},
+		{
+			"st": 542,
+			"ancestor": "1-30",
+			"surface": "이 고속도로",
+			"en_modified": 548,
+			"en": 548,
+			"st_modified": 542,
+			"id": 7,
+			"coref_index": 334
+		},
+		{
+			"st": 542,
+			"ancestor": "-1",
+			"surface": "이 고속도로 이외에",
+			"en_modified": 552,
+			"en": 552,
+			"st_modified": 542,
+			"id": 8
+		},
+		{
+			"st": 542,
+			"ancestor": "-1",
+			"surface": "이 고속도로 이외에 중부고속도로도 이용할 수",
+			"en_modified": 566,
+			"en": 566,
+			"st_modified": 542,
+			"id": 9
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 5,
+			"entityName": "서울특별시",
+			"st_modified": 0,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울특별시",
+			"is_target": true,
+			"en": 5,
+			"id": 0
+		},
+		{
+			"en_modified": 35,
+			"st_modified": 28,
+			"coref_index": 333,
+			"entityName": "유한대학",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 28,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "유한대학_시계",
+			"is_target": true,
+			"en": 35,
+			"id": 1
+		},
+		{
+			"en_modified": 110,
+			"entityName": "구로역",
+			"st_modified": 107,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Place",
+				"Station",
+				"Place",
+				"Infrastructure",
+				"RailwayStation"
+			],
+			"eType": "WIKILINK",
+			"st": 107,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "구로역",
+			"is_target": true,
+			"en": 110,
+			"id": 2
+		},
+		{
+			"en_modified": 116,
+			"entityName": "영등포역",
+			"st_modified": 112,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Place",
+				"Station",
+				"Infrastructure",
+				"RailwayStation"
+			],
+			"eType": "WIKILINK",
+			"st": 112,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "영등포역",
+			"is_target": true,
+			"en": 116,
+			"id": 3
+		},
+		{
+			"en_modified": 121,
+			"entityName": "여의도",
+			"st_modified": 118,
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 118,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "여의도",
+			"is_target": true,
+			"en": 121,
+			"id": 4
+		},
+		{
+			"en_modified": 125,
+			"entityName": "마포구",
+			"st_modified": 123,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 123,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "마포",
+			"is_target": true,
+			"en": 125,
+			"id": 5
+		},
+		{
+			"en_modified": 136,
+			"st_modified": 130,
+			"coref_index": 335,
+			"entityName": "충정로역",
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Place",
+				"Station",
+				"Infrastructure",
+				"RailwayStation"
+			],
+			"eType": "WIKILINK",
+			"st": 130,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "충정로삼거리",
+			"is_target": true,
+			"en": 136,
+			"id": 6
+		},
+		{
+			"en_modified": 156,
+			"st_modified": 153,
+			"coref_index": 336,
+			"entityName": "시청역_(서울)",
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Place",
+				"Station",
+				"Infrastructure",
+				"RailwayStation"
+			],
+			"eType": "WIKILINK",
+			"st": 153,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "시청역",
+			"is_target": true,
+			"en": 156,
+			"id": 7
+		},
+		{
+			"en_modified": 174,
+			"entityName": "을지로",
+			"st_modified": 171,
+			"kbox_types": [
+				"Street",
+				"Place",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 171,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "을지로",
+			"is_target": true,
+			"en": 174,
+			"id": 8
+		},
+		{
+			"en_modified": 186,
+			"entityName": "왕십리역",
+			"st_modified": 182,
+			"kbox_types": [
+				"MetroStation",
+				"ArchitecturalStructure",
+				"Place",
+				"Station",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 182,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "왕십리역",
+			"is_target": true,
+			"en": 186,
+			"id": 9
+		},
+		{
+			"en_modified": 193,
+			"entityName": "한양대학교",
+			"st_modified": 188,
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 188,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "한양대학교",
+			"is_target": true,
+			"en": 193,
+			"id": 10
+		},
+		{
+			"en_modified": 239,
+			"entityName": "강동대로",
+			"st_modified": 235,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 235,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "강동대로",
+			"is_target": true,
+			"en": 239,
+			"id": 11
+		},
+		{
+			"en_modified": 256,
+			"st_modified": 246,
+			"coref_index": 334,
+			"entityName": "서울외곽순환고속도로",
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 246,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울외곽순환고속도로",
+			"is_target": true,
+			"en": 256,
+			"id": 12
+		},
+		{
+			"en_modified": 267,
+			"entityName": "서하남_나들목",
+			"st_modified": 257,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 257,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서하남_나들목_시계",
+			"is_target": true,
+			"en": 267,
+			"id": 13
+		},
+		{
+			"en_modified": 283,
+			"entityName": "한강",
+			"st_modified": 281,
+			"kbox_types": [
+				"River",
+				"Place",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"NaturalPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 281,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "한강",
+			"is_target": true,
+			"en": 283,
+			"id": 14
+		},
+		{
+			"en_modified": 27,
+			"entityName": "",
+			"st_modified": 14,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 14,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울특별시_구로구_수궁동",
+			"is_target": true,
+			"en": 27,
+			"id": 15
+		},
+		{
+			"en_modified": 48,
+			"entityName": "",
+			"st_modified": 38,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 38,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "송파구_둔촌동_시계",
+			"is_target": true,
+			"en": 48,
+			"id": 16
+		},
+		{
+			"en_modified": 99,
+			"st_modified": 92,
+			"coref_index": 333,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 92,
+			"ancestor": "1-1",
+			"ne_type": "LOCATION",
+			"surface": "유한대학_시계",
+			"is_target": true,
+			"en": 99,
+			"id": 17
+		},
+		{
+			"en_modified": 211,
+			"entityName": "",
+			"st_modified": 208,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 208,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "성동교",
+			"is_target": true,
+			"en": 211,
+			"id": 18
+		},
+		{
+			"en_modified": 224,
+			"entityName": "",
+			"st_modified": 220,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 220,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "광나루로",
+			"is_target": true,
+			"en": 224,
+			"id": 19
+		},
+		{
+			"en_modified": 341,
+			"st_modified": 334,
+			"coref_index": 333,
+			"entityName": "유한대학",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 334,
+			"ancestor": "1-17",
+			"ne_type": "ETC",
+			"surface": "유한대학_시계",
+			"is_target": true,
+			"en": 341,
+			"id": 20
+		},
+		{
+			"en_modified": 362,
+			"entityName": "부천시",
+			"st_modified": 360,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 360,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "부천",
+			"is_target": true,
+			"en": 362,
+			"id": 21
+		},
+		{
+			"en_modified": 367,
+			"entityName": "인천광역시",
+			"st_modified": 365,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 365,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "인천",
+			"is_target": true,
+			"en": 367,
+			"id": 22
+		},
+		{
+			"en_modified": 378,
+			"entityName": "경인로",
+			"st_modified": 375,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 375,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "경인로",
+			"is_target": true,
+			"en": 378,
+			"id": 23
+		},
+		{
+			"en_modified": 406,
+			"st_modified": 396,
+			"coref_index": 334,
+			"entityName": "서울외곽순환고속도로",
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 396,
+			"ancestor": "1-12",
+			"ne_type": "LOCATION",
+			"surface": "서울외곽순환고속도로",
+			"is_target": true,
+			"en": 406,
+			"id": 24
+		},
+		{
+			"en_modified": 413,
+			"entityName": "송내_나들목",
+			"st_modified": 407,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 407,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "송내_나들목",
+			"is_target": true,
+			"en": 413,
+			"id": 25
+		},
+		{
+			"en_modified": 437,
+			"entityName": "서창_분기점",
+			"st_modified": 431,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 431,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서창_분기점",
+			"is_target": true,
+			"en": 437,
+			"id": 26
+		},
+		{
+			"en_modified": 452,
+			"entityName": "영동고속도로",
+			"st_modified": 446,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 446,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "영동고속도로",
+			"is_target": true,
+			"en": 452,
+			"id": 27
+		},
+		{
+			"en_modified": 494,
+			"entityName": "둔촌동",
+			"st_modified": 491,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"AdministrativeRegion"
+			],
+			"eType": "ELU",
+			"st": 491,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "둔촌동",
+			"is_target": true,
+			"en": 494,
+			"id": 28
+		},
+		{
+			"en_modified": 498,
+			"entityName": "하남시",
+			"st_modified": 496,
+			"kbox_types": [
+				"River",
+				"PopulatedPlace",
+				"Settlement",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"City",
+				"Place",
+				"NaturalPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 496,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "하남",
+			"is_target": true,
+			"en": 498,
+			"id": 29
+		},
+		{
+			"en_modified": 523,
+			"st_modified": 513,
+			"coref_index": 334,
+			"entityName": "서울외곽순환고속도로",
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 513,
+			"ancestor": "1-24",
+			"ne_type": "LOCATION",
+			"surface": "서울외곽순환고속도로",
+			"is_target": true,
+			"en": 523,
+			"id": 30
+		},
+		{
+			"en_modified": 531,
+			"entityName": "서하남_나들목",
+			"st_modified": 524,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 524,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서하남_나들목",
+			"is_target": true,
+			"en": 531,
+			"id": 31
+		},
+		{
+			"en_modified": 559,
+			"entityName": "중부고속도로",
+			"st_modified": 553,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"eType": "WIKILINK",
+			"st": 553,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "중부고속도로",
+			"is_target": true,
+			"en": 559,
+			"id": 32
+		}
+	],
+	"globalSID": "1397707,1397708,1397709,1397710,1397711,1397712,1397713,1397714,1397715,1397716,1397717,1397718",
+	"plainText": "서울특별시도 제60호선은 서울특별시_구로구_수궁동 유한대학_시계에서 송파구_둔촌동_시계 (서하남IC 입구 교차로)까지 이르는 도로안내용 특별시도이다. 이 특별시도는 유한대학_시계에서 시작하여 구로역, 영등포역, 여의도, 마포를 지나 충정로삼거리에 이른다. 거기서 우회전하여 시청역으로 향한다. 이곳을 지나 을지로를 통과하고, 왕십리역과 한양대학교를 지난다. 다음에 만나는 성동교에서 좌회전하여 광나루로와 연결된다. 이후 강동대로와 연결되어 서울외곽순환고속도로 서하남_나들목_시계까지 이른다. 이 도로는 한강을 두 번 건넌다는 특징이 있으며, 총 길이는 33.6Km이다. 연결도로 이 시도의 기점인 유한대학_시계에서 계속해서 서쪽으로 향해 가면 부천이나 인천으로 연결되는 경인로가 나온다. 계속해서 가다 보면 서울외곽순환고속도로 송내_나들목이 연결되어 있고 구산사거리에서 서창_분기점 방향으로 가면 영동고속도로도 이용할 수 있다. 동쪽 종점인 서하남 입구 교차로에서는 거여동이나 둔촌동, 하남 방면으로 향한다. 그리고 서울외곽순환고속도로 서하남_나들목이 연결되어 있어서 이 고속도로 이외에 중부고속도로도 이용할 수 있다. ",
+	"docID": "242104",
+	"ModifiedText": "서울특별시도 제60호선은 서울특별시 구로구 수궁동 유한대학 시계에서 송파구 둔촌동 시계 (서하남IC 입구 교차로)까지 이르는 도로안내용 특별시도이다. 이 특별시도는 유한대학 시계에서 시작하여 구로역, 영등포역, 여의도, 마포를 지나 충정로삼거리에 이른다. 거기서 우회전하여 시청역으로 향한다. 이곳을 지나 을지로를 통과하고, 왕십리역과 한양대학교를 지난다. 다음에 만나는 성동교에서 좌회전하여 광나루로와 연결된다. 이후 강동대로와 연결되어 서울외곽순환고속도로 서하남 나들목 시계까지 이른다. 이 도로는 한강을 두 번 건넌다는 특징이 있으며, 총 길이는 33.6Km이다. 연결도로 이 시도의 기점인 유한대학 시계에서 계속해서 서쪽으로 향해 가면 부천이나 인천으로 연결되는 경인로가 나온다. 계속해서 가다 보면 서울외곽순환고속도로 송내 나들목이 연결되어 있고 구산사거리에서 서창 분기점 방향으로 가면 영동고속도로도 이용할 수 있다. 동쪽 종점인 서하남 입구 교차로에서는 거여동이나 둔촌동, 하남 방면으로 향한다. 그리고 서울외곽순환고속도로 서하남 나들목이 연결되어 있어서 이 고속도로 이외에 중부고속도로도 이용할 수 있다. "
+}

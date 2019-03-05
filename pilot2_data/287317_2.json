@@ -1,0 +1,194 @@
+{
+	"docID": "287317",
+	"globalSID": "1591375,1591376",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "팔레스타인",
+			"entityName": "팔레스타인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"coref_index": 411,
+			"surface": "필리시테인",
+			"entityName": "필리시테인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "블레셋",
+			"entityName": "블레셋"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "로마_제국",
+			"entityName": "로마_제국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 80,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 84,
+			"ancestor": "2-1",
+			"coref_index": 411,
+			"surface": "필리시테",
+			"entityName": "필리시테"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "미케네_문명",
+			"entityName": "미케네_문명"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 107,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 110,
+			"ancestor": "-1",
+			"surface": "그리스",
+			"entityName": "그리스"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 117,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 121,
+			"ancestor": "-1",
+			"surface": "그리스계",
+			"entityName": "그리스인"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"st": 137,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "사람과",
+			"entityName": "사람과"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 55,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 63,
+			"ancestor": "1-2",
+			"coref_index": 412,
+			"surface": "팔레스타인_지방",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "어원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "현대",
+			"entityName": ""
+		}
+	],
+	"plainText": "팔레스타인의 어원은 '필리시테인(Philistine, 블레셋 사람)'인데, 로마_제국 지배 이후에 팔레스타인_지방의 지역명이 되었다. 그러나, 필리시테(블레셋) 사람은 미케네_문명 당시 남부 그리스에서 이주한 그리스계 종족으로 현대의 팔레스타인 사람과는 혈통적으로 직접적인 관련은 없다."
+}

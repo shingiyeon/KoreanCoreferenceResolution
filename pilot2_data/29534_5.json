@@ -1,0 +1,95 @@
+{
+	"docID": "29534",
+	"globalSID": "278055,278056",
+	"pronouns": [
+		{
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "그놈_데스크톱",
+			"id": 0,
+			"st": 0
+		},
+		{
+			"en": 27,
+			"ancestor": "-1",
+			"surface": "모든 것",
+			"id": 1,
+			"st": 23
+		},
+		{
+			"en": 56,
+			"ancestor": "-1",
+			"surface": "그 결과",
+			"id": 2,
+			"st": 52
+		},
+		{
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "그놈_개발_과정",
+			"id": 3,
+			"st": 58
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "ELU",
+			"entityName": "사용성",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "사용성"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 7,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그놈_데스크톱",
+			"coref_index": 419
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "EVENT",
+			"en": 66,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그놈_개발_과정"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 12,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "간결함"
+		}
+	],
+	"plainText": "그놈_데스크톱은 간결함과 사용성, 그리고 모든 것이 \"그저 동작\"하게 만드는 것을 강조한다. 그 결과로 그놈_개발_과정에는 두 가지 특징이 있다."
+}

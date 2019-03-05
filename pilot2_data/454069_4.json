@@ -1,0 +1,42 @@
+{
+	"docID": "454069",
+	"globalSID": "2069985,2069986",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "-1",
+			"coref_index": 594,
+			"surface": "상무_야구단",
+			"entityName": "상무_야구단"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 15,
+			"ancestor": "",
+			"surface": "2009년",
+			"entityName": "2009년"
+		}
+	],
+	"plainText": "상무_야구단 시절 2009년 입단하였다."
+}

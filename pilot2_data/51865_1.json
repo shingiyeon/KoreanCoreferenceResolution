@@ -1,0 +1,198 @@
+{
+	"docID": "51865",
+	"globalSID": "481700,481701,481702",
+	"pronouns": [
+		{
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "그 범위는",
+			"id": 0,
+			"st": 90
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "포메라니아",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포메라니아",
+			"coref_index": 656
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"entityName": "발트_해",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 27,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "발트_해",
+			"coref_index": 658
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"entityName": "폴란드",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 62,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "폴란드",
+			"coref_index": 662
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "독일",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 83,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 663
+		},
+		{
+			"kbox_types": [
+				"Town",
+				"PopulatedPlace",
+				"Settlement",
+				"Town",
+				"Place"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"entityName": "슈트랄준트",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 110,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "슈트랄준트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "WIKILINK",
+			"entityName": "레크니츠_강",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "레크니츠_강",
+			"coref_index": 659
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 125,
+			"eType": "WIKILINK",
+			"entityName": "슈체친",
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 128,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "슈체친",
+			"coref_index": 657
+		},
+		{
+			"kbox_types": [
+				"River",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 133,
+			"eType": "WIKILINK",
+			"entityName": "오데르_강",
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 138,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "오데르_강"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 152,
+			"eType": "WIKILINK",
+			"entityName": "그단스크",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 156,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "그단스크"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 160,
+			"eType": "WIKILINK",
+			"entityName": "비스와_강",
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 165,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "비스와_강",
+			"coref_index": 660
+		}
+	],
+	"plainText": "포메라니아(, , , )는 유럽 중북부, 발트_해 남쪽 연안에 자리잡은 역사상의 지방이다. 현재는 대부분 폴란드에 속하며, 서쪽 끝 일부 지역은 독일에 속한다. 그 범위는 서쪽으로는 대략 슈트랄준트와 가까운 레크니츠_강에서 슈체친 근처의 오데르_강 삼각주를 지나 동쪽으로 그단스크 인근 비스와_강 어귀에 이른다."
+}

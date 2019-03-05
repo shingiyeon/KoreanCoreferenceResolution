@@ -1,0 +1,145 @@
+{
+	"docID": "116457",
+	"globalSID": "852836,852837,852838",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 29,
+			"ancestor": "-1",
+			"coref_index": 82,
+			"surface": "로마",
+			"entityName": "로마"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 38,
+			"ancestor": "-1",
+			"coref_index": 83,
+			"surface": "성직자",
+			"entityName": "성직자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 43,
+			"ancestor": "-1",
+			"coref_index": 80,
+			"surface": "평신도",
+			"entityName": "평신도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 87,
+			"ancestor": "-1",
+			"coref_index": 75,
+			"surface": "추기경단",
+			"entityName": "추기경단"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "1-2",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "EVENT",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "선거",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "2-4",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 63,
+			"ancestor": "2-4",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 109,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 112,
+			"ancestor": "-1",
+			"surface": "후계자",
+			"entityName": ""
+		}
+	],
+	"plainText": "교황 선거의 기원 초대 교회 시절의 교황 선출은 로마에 거주한 성직자와 평신도들을 중심으로 행해졌었다. 역대 교황들은 선거법을 변경하거나, 원한다면 추기경단의 일원을 교체하는 일이 인정되었지만, 후계자를 지명하는 것만은 용납되지 못했다."
+}

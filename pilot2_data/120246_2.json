@@ -1,0 +1,90 @@
+{
+	"docID": "120246",
+	"globalSID": "878281",
+	"pronouns": [
+		{
+			"st": 31,
+			"coref_index": 101,
+			"id": 0,
+			"en": 32,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "그의 배다른 삼촌이자",
+			"id": 1,
+			"st": 31
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "이탈리아인_루트비히",
+			"entityName": "루트비히_2세_(이탈리아)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 54,
+			"ancestor": "-1",
+			"coref_index": 105,
+			"surface": "서프랑크",
+			"entityName": "서프랑크"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 58,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 67,
+			"ancestor": "-1",
+			"coref_index": 106,
+			"surface": "대머리_카를_2세",
+			"entityName": "카를_2세_(서프랑크)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 70,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 78,
+			"ancestor": "-1",
+			"coref_index": 110,
+			"surface": "신성_로마_제국",
+			"entityName": ""
+		}
+	],
+	"plainText": "사촌 형 이탈리아인_루트비히로부터 후계자로 내정되었지만 그의 배다른 삼촌이자 이종사촌형인 서프랑크의 왕 대머리_카를_2세에게 신성_로마_제국 황제관을 강탈당했다."
+}

@@ -1,0 +1,200 @@
+{
+	"docID": "1584952",
+	"globalSID": "3807011,3807012,3807013",
+	"pronouns": [
+		{
+			"st": 76,
+			"coref_index": 242,
+			"id": 0,
+			"en": 78,
+			"ancestor": "1-0",
+			"surface": "자신"
+		},
+		{
+			"st": 76,
+			"coref_index": 243,
+			"id": 1,
+			"en": 85,
+			"ancestor": "1-9",
+			"surface": "자신의 선수 경력"
+		},
+		{
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "자신의 선수 경력 동안에",
+			"id": 2,
+			"st": 76
+		},
+		{
+			"en": 106,
+			"ancestor": "-1",
+			"surface": "자신의 선수 경력 동안에 경기력_향상_약물을 복용한 것",
+			"id": 3,
+			"st": 76
+		},
+		{
+			"st": 258,
+			"coref_index": 242,
+			"id": 4,
+			"en": 259,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "ELU",
+			"entityName": "주니어_(영화)",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 14,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "주니어",
+			"coref_index": 242
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"entityName": "쿠바",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 36,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "쿠바"
+		},
+		{
+			"kbox_types": [
+				"Film",
+				"Work",
+				"EthnicGroup"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "미국인",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "미국인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"entityName": "지명_타자",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 67,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "지명_타자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"entityName": "경기력_향상_약물",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 99,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "경기력_향상_약물"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 116,
+			"eType": "WIKILINK",
+			"entityName": "2005년",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 121,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2005년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 264,
+			"eType": "WIKILINK",
+			"entityName": "권투",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 266,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "권투"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 268,
+			"eType": "WIKILINK",
+			"entityName": "종합격투기",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 273,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "종합격투기"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 28,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1964년_7월_2일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 59,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "메이저_리그_베이스볼_외야수",
+			"coref_index": 243
+		}
+	],
+	"plainText": "호세 칸세코 카파스 주니어(, 1964년_7월_2일 ~ )는 쿠바계 미국인 전 메이저_리그_베이스볼_외야수이자 지명_타자이다. 칸세코는 자신의 선수 경력 동안에 경기력_향상_약물을 복용한 것 을 인정하였고, 2005년 메이저 리그 베이스볼 선수들이 약물을 복용한 막대한 다수를 주장한 책 《Juiced:Wild Times, Rampant 'Roids, Smash Hits & How Baseball Got Big》을 썼다. 메이저 리그 베이스볼에서 은퇴한 후, 그는 또한 권투와 종합격투기에 나갔다."
+}

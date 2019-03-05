@@ -1,0 +1,52 @@
+{
+	"docID": "11114",
+	"globalSID": "172988,172989",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "EVENT",
+			"en": 28,
+			"ancestor": "-1",
+			"surface": "장외투쟁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 50,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 54,
+			"ancestor": "-1",
+			"coref_index": 23,
+			"surface": "기층민중",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 69,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "혁신정당",
+			"entityName": ""
+		}
+	],
+	"plainText": "연혁 80년대 후반 재야운동권에서는 기존의 장외투쟁과 병행함과 동시에 제도정치권 내부에서 기층민중의 이익을 대변할 수 있는 혁신정당(革新政黨)을 건설하자는 논의가 일기 시작하였다."
+}

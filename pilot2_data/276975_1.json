@@ -1,0 +1,149 @@
+{
+	"docID": "276975",
+	"globalSID": "1554398,1554399",
+	"pronouns": [
+		{
+			"en": 196,
+			"ancestor": "-1",
+			"surface": "다른 국가의",
+			"id": 0,
+			"st": 190
+		},
+		{
+			"en": 201,
+			"ancestor": "-1",
+			"surface": "다른 국가의 사례에서",
+			"id": 1,
+			"st": 190
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"entityName": "프랑스",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 19,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "프랑스",
+			"coref_index": 403
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"entityName": "대통령제",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대통령제",
+			"coref_index": 401
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"entityName": "대통령",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 404
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 183,
+			"eType": "WIKILINK",
+			"entityName": "스리랑카",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 187,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스리랑카",
+			"coref_index": 402
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 53,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "여당"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 55,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 61,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "의회_다수당"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 107,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 112,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "연립_정부",
+			"coref_index": 408
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 123,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 132,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "프랑스_제5공화국"
+		}
+	],
+	"plainText": "동거 정부(同居政府, ) 는 프랑스와 같은 대통령제(이원집정부제)에 등장하는 정부 형태로, 여당과 의회_다수당이 다를 경우에, 대통령이 의회 다수당 출신의 인사를 총리로 기용함으로써 구성하는 연립_정부를 일컫는다. 주로 프랑스_제5공화국에서 등장한 좌-우 연립 내각의 사례가 인용되기 때문에 좌우 동거 정부라 부르기도 하지만, 스리랑카 등 다른 국가의 사례에서 보듯 꼭 좌-우의 이념 차이만으로만 규정지을 수는 없다."
+}

@@ -1,0 +1,1101 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 235,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 236,
+			"en": 236,
+			"st_modified": 235
+		},
+		{
+			"st": 291,
+			"text": "공문서조차",
+			"is_pronoun": true,
+			"en_modified": 296,
+			"en": 296,
+			"st_modified": 291
+		},
+		{
+			"st": 287,
+			"text": "없으면 공문서조차도 이면지로 사용할 정도",
+			"is_pronoun": true,
+			"en_modified": 309,
+			"en": 309,
+			"st_modified": 287
+		},
+		{
+			"st": 528,
+			"text": "이 새로운 국가 절대주의",
+			"is_pronoun": true,
+			"en_modified": 541,
+			"en": 541,
+			"st_modified": 528
+		},
+		{
+			"st": 551,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 552,
+			"en": 552,
+			"st_modified": 551
+		},
+		{
+			"st": 551,
+			"text": "이를 주도한 내무대신 바흐(bach, A, 1813~1893)",
+			"is_pronoun": true,
+			"en_modified": 585,
+			"en": 585,
+			"st_modified": 551
+		},
+		{
+			"st": 551,
+			"text": "이를 주도한 내무대신 바흐(bach, A, 1813~1893)의 이름",
+			"is_pronoun": true,
+			"en_modified": 589,
+			"en": 589,
+			"st_modified": 551
+		},
+		{
+			"st": 731,
+			"text": "이 절대 권력",
+			"is_pronoun": true,
+			"en_modified": 738,
+			"en": 738,
+			"st_modified": 731
+		},
+		{
+			"st": 859,
+			"text": "모든 일",
+			"is_pronoun": true,
+			"en_modified": 863,
+			"en": 863,
+			"st_modified": 859
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 235,
+			"ancestor": "-1",
+			"surface": "그",
+			"en_modified": 236,
+			"en": 236,
+			"st_modified": 235,
+			"id": 0
+		},
+		{
+			"st": 291,
+			"ancestor": "-1",
+			"surface": "공문서",
+			"en_modified": 294,
+			"en": 294,
+			"st_modified": 291,
+			"id": 1
+		},
+		{
+			"st": 287,
+			"ancestor": "-1",
+			"surface": "없으면 공문서조차도 이면지로 사용할 정도로",
+			"en_modified": 310,
+			"en": 310,
+			"st_modified": 287,
+			"id": 2
+		},
+		{
+			"st": 528,
+			"ancestor": "-1",
+			"surface": "이 새로운 국가 절대주의를",
+			"en_modified": 542,
+			"en": 542,
+			"st_modified": 528,
+			"id": 3
+		},
+		{
+			"st": 551,
+			"ancestor": "1-24",
+			"surface": "이",
+			"en_modified": 552,
+			"en": 552,
+			"st_modified": 551,
+			"id": 4,
+			"coref_index": 635
+		},
+		{
+			"st": 551,
+			"ancestor": "-1",
+			"surface": "이를 주도한 내무대신 바흐(bach, A, 1813~1893)의",
+			"en_modified": 586,
+			"en": 586,
+			"st_modified": 551,
+			"id": 5
+		},
+		{
+			"st": 551,
+			"ancestor": "-1",
+			"surface": "이를 주도한 내무대신 바흐(bach, A, 1813~1893)의 이름을",
+			"en_modified": 590,
+			"en": 590,
+			"st_modified": 551,
+			"id": 6
+		},
+		{
+			"st": 731,
+			"ancestor": "1-35",
+			"surface": "이 절대 권력",
+			"en_modified": 738,
+			"en": 738,
+			"st_modified": 731,
+			"id": 7,
+			"coref_index": 635
+		},
+		{
+			"st": 859,
+			"ancestor": "-1",
+			"surface": "모든 일",
+			"en_modified": 863,
+			"en": 863,
+			"st_modified": 859,
+			"id": 8
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 20,
+			"entityName": "1830년",
+			"st_modified": 15,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 15,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1830년",
+			"is_target": false,
+			"en": 20,
+			"id": 0
+		},
+		{
+			"en_modified": 27,
+			"entityName": "8월_18일",
+			"st_modified": 21,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 21,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "8월_18일",
+			"is_target": false,
+			"en": 27,
+			"id": 1
+		},
+		{
+			"en_modified": 35,
+			"entityName": "1916년",
+			"st_modified": 30,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 30,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1916년",
+			"is_target": false,
+			"en": 35,
+			"id": 2
+		},
+		{
+			"en_modified": 43,
+			"entityName": "11월_21일",
+			"st_modified": 36,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 36,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "11월_21일",
+			"is_target": false,
+			"en": 43,
+			"id": 3
+		},
+		{
+			"en_modified": 54,
+			"entityName": "오스트리아_제국",
+			"st_modified": 46,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 46,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "오스트리아_제국",
+			"is_target": true,
+			"en": 54,
+			"id": 4
+		},
+		{
+			"en_modified": 80,
+			"entityName": "오스트리아-헝가리",
+			"st_modified": 71,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 71,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오스트리아-헝가리",
+			"is_target": true,
+			"en": 80,
+			"id": 5
+		},
+		{
+			"en_modified": 101,
+			"entityName": "황제",
+			"st_modified": 99,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 99,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "황제",
+			"is_target": true,
+			"en": 101,
+			"id": 6
+		},
+		{
+			"en_modified": 110,
+			"entityName": "1866년",
+			"st_modified": 105,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 105,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1866년",
+			"is_target": false,
+			"en": 110,
+			"id": 7
+		},
+		{
+			"en_modified": 120,
+			"entityName": "독일의_군주",
+			"st_modified": 114,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 114,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독일의_군주",
+			"is_target": true,
+			"en": 120,
+			"id": 8
+		},
+		{
+			"en_modified": 128,
+			"st_modified": 124,
+			"coref_index": 637,
+			"entityName": "프로이센",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 124,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "프로이센",
+			"is_target": true,
+			"en": 128,
+			"id": 9
+		},
+		{
+			"en_modified": 136,
+			"entityName": "빌헬름_1세",
+			"st_modified": 130,
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 130,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "빌헬름_1세",
+			"is_target": true,
+			"en": 136,
+			"id": 10
+		},
+		{
+			"en_modified": 165,
+			"st_modified": 161,
+			"coref_index": 634,
+			"entityName": "세르비아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 161,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "세르비아",
+			"is_target": true,
+			"en": 165,
+			"id": 11
+		},
+		{
+			"en_modified": 182,
+			"entityName": "1914년",
+			"st_modified": 177,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 177,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1914년",
+			"is_target": false,
+			"en": 182,
+			"id": 12
+		},
+		{
+			"en_modified": 189,
+			"st_modified": 185,
+			"coref_index": 634,
+			"entityName": "세르비아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 185,
+			"ancestor": "1-11",
+			"ne_type": "LOCATION",
+			"surface": "세르비아",
+			"is_target": true,
+			"en": 189,
+			"id": 13
+		},
+		{
+			"en_modified": 204,
+			"entityName": "제1차_세계_대전",
+			"st_modified": 195,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 195,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "제1차_세계_대전",
+			"is_target": true,
+			"en": 204,
+			"id": 14
+		},
+		{
+			"en_modified": 218,
+			"entityName": "",
+			"st_modified": 216,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 216,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "노장",
+			"is_target": true,
+			"en": 218,
+			"id": 15
+		},
+		{
+			"en_modified": 241,
+			"entityName": "",
+			"st_modified": 238,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 238,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "68년",
+			"is_target": false,
+			"en": 241,
+			"id": 16
+		},
+		{
+			"en_modified": 257,
+			"entityName": "",
+			"st_modified": 255,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 255,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "군주",
+			"is_target": true,
+			"en": 257,
+			"id": 17
+		},
+		{
+			"en_modified": 332,
+			"st_modified": 324,
+			"coref_index": 636,
+			"entityName": "1848년_혁명",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 324,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1848년_혁명",
+			"is_target": true,
+			"en": 332,
+			"id": 18
+		},
+		{
+			"en_modified": 349,
+			"entityName": "페르디난트_1세_(오스트리아)",
+			"st_modified": 341,
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 341,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "페르디난트_1세",
+			"is_target": true,
+			"en": 349,
+			"id": 19
+		},
+		{
+			"en_modified": 427,
+			"st_modified": 423,
+			"coref_index": 638,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 423,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 427,
+			"id": 20
+		},
+		{
+			"en_modified": 386,
+			"entityName": "",
+			"st_modified": 377,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 377,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1849년_10월",
+			"is_target": false,
+			"en": 386,
+			"id": 21
+		},
+		{
+			"en_modified": 393,
+			"entityName": "",
+			"st_modified": 387,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 387,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "러시아_군대",
+			"is_target": true,
+			"en": 393,
+			"id": 22
+		},
+		{
+			"en_modified": 476,
+			"entityName": "",
+			"st_modified": 471,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 471,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1851년",
+			"is_target": false,
+			"en": 476,
+			"id": 23
+		},
+		{
+			"en_modified": 541,
+			"st_modified": 537,
+			"coref_index": 635,
+			"entityName": "절대주의",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 537,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "절대주의",
+			"is_target": true,
+			"en": 541,
+			"id": 24
+		},
+		{
+			"en_modified": 601,
+			"st_modified": 597,
+			"coref_index": 635,
+			"entityName": "절대주의",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 597,
+			"ancestor": "1-24",
+			"ne_type": "ETC",
+			"surface": "절대주의",
+			"is_target": true,
+			"en": 601,
+			"id": 25
+		},
+		{
+			"en_modified": 816,
+			"entityName": "교황_비오_9세",
+			"st_modified": 808,
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"eType": "WIKILINK",
+			"st": 808,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "교황_비오_9세",
+			"is_target": true,
+			"en": 816,
+			"id": 26
+		},
+		{
+			"en_modified": 824,
+			"entityName": "정교협약",
+			"st_modified": 820,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 820,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정교협약",
+			"is_target": true,
+			"en": 824,
+			"id": 27
+		},
+		{
+			"en_modified": 961,
+			"st_modified": 956,
+			"coref_index": 639,
+			"entityName": "오스트리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 956,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "오스트리아",
+			"is_target": true,
+			"en": 961,
+			"id": 28
+		},
+		{
+			"en_modified": 624,
+			"st_modified": 622,
+			"coref_index": 636,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 622,
+			"ancestor": "1-18",
+			"ne_type": "EVENT",
+			"surface": "혁명",
+			"is_target": true,
+			"en": 624,
+			"id": 29
+		},
+		{
+			"en_modified": 679,
+			"entityName": "",
+			"st_modified": 677,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 677,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "군대",
+			"is_target": true,
+			"en": 679,
+			"id": 30
+		},
+		{
+			"en_modified": 699,
+			"entityName": "",
+			"st_modified": 694,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 694,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "정규_경찰",
+			"is_target": true,
+			"en": 699,
+			"id": 31
+		},
+		{
+			"en_modified": 706,
+			"entityName": "",
+			"st_modified": 701,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 701,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "비밀_경찰",
+			"is_target": true,
+			"en": 706,
+			"id": 32
+		},
+		{
+			"en_modified": 729,
+			"entityName": "",
+			"st_modified": 725,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 725,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "기동경찰",
+			"is_target": true,
+			"en": 729,
+			"id": 33
+		},
+		{
+			"en_modified": 764,
+			"entityName": "",
+			"st_modified": 755,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 755,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "로마_가톨릭_교회",
+			"is_target": true,
+			"en": 764,
+			"id": 34
+		},
+		{
+			"en_modified": 620,
+			"st_modified": 613,
+			"coref_index": 635,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 613,
+			"ancestor": "1-25",
+			"ne_type": "ETC",
+			"surface": "바흐_절대주의",
+			"is_target": true,
+			"en": 620,
+			"id": 35
+		},
+		{
+			"en_modified": 639,
+			"entityName": "",
+			"st_modified": 629,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 629,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "메테르니히_절대주의",
+			"is_target": true,
+			"en": 639,
+			"id": 36
+		},
+		{
+			"en_modified": 784,
+			"st_modified": 777,
+			"coref_index": 635,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 777,
+			"ancestor": "1-35",
+			"ne_type": "ETC",
+			"surface": "국가_절대주의",
+			"is_target": true,
+			"en": 784,
+			"id": 37
+		},
+		{
+			"en_modified": 803,
+			"entityName": "",
+			"st_modified": 798,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 798,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1855년",
+			"is_target": false,
+			"en": 803,
+			"id": 38
+		},
+		{
+			"en_modified": 806,
+			"entityName": "",
+			"st_modified": 804,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 804,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "황제",
+			"is_target": true,
+			"en": 806,
+			"id": 39
+		},
+		{
+			"en_modified": 867,
+			"entityName": "",
+			"st_modified": 865,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 865,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "주교",
+			"is_target": true,
+			"en": 867,
+			"id": 40
+		},
+		{
+			"en_modified": 891,
+			"entityName": "",
+			"st_modified": 889,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 889,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "교육",
+			"is_target": true,
+			"en": 891,
+			"id": 41
+		},
+		{
+			"en_modified": 965,
+			"entityName": "",
+			"st_modified": 963,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 963,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "체코",
+			"is_target": true,
+			"en": 965,
+			"id": 42
+		},
+		{
+			"en_modified": 998,
+			"entityName": "1853년",
+			"st_modified": 993,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 993,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1853년",
+			"is_target": false,
+			"en": 998,
+			"id": 43
+		},
+		{
+			"en_modified": 1005,
+			"entityName": "2월_18일",
+			"st_modified": 999,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 999,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2월_18일",
+			"is_target": false,
+			"en": 1005,
+			"id": 44
+		},
+		{
+			"en_modified": 1064,
+			"entityName": "바이에른의_엘리자베트",
+			"st_modified": 1051,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1051,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바이에른_공녀_엘리자베트",
+			"is_target": true,
+			"en": 1064,
+			"id": 45
+		},
+		{
+			"en_modified": 1081,
+			"entityName": "1866년",
+			"st_modified": 1076,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1076,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1866년",
+			"is_target": false,
+			"en": 1081,
+			"id": 46
+		},
+		{
+			"en_modified": 1089,
+			"st_modified": 1085,
+			"coref_index": 637,
+			"entityName": "프로이센",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1085,
+			"ancestor": "1-9",
+			"ne_type": "LOCATION",
+			"surface": "프로이센",
+			"is_target": true,
+			"en": 1089,
+			"id": 47
+		},
+		{
+			"en_modified": 1095,
+			"st_modified": 1091,
+			"coref_index": 638,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1091,
+			"ancestor": "1-20",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 1095,
+			"id": 48
+		},
+		{
+			"en_modified": 1114,
+			"entityName": "프로이센-오스트리아_전쟁",
+			"st_modified": 1101,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1101,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프로이센-오스트리아_전쟁",
+			"is_target": true,
+			"en": 1114,
+			"id": 49
+		},
+		{
+			"en_modified": 1126,
+			"entityName": "7월_3일",
+			"st_modified": 1121,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1121,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "7월_3일",
+			"is_target": false,
+			"en": 1126,
+			"id": 50
+		},
+		{
+			"en_modified": 1144,
+			"entityName": "쾨니히그레츠_전투",
+			"st_modified": 1135,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1135,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "쾨니히그레츠_전투",
+			"is_target": true,
+			"en": 1144,
+			"id": 51
+		},
+		{
+			"en_modified": 1184,
+			"st_modified": 1179,
+			"coref_index": 639,
+			"entityName": "오스트리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1179,
+			"ancestor": "1-28",
+			"ne_type": "LOCATION",
+			"surface": "오스트리아",
+			"is_target": true,
+			"en": 1184,
+			"id": 52
+		},
+		{
+			"en_modified": 1156,
+			"entityName": "",
+			"st_modified": 1154,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1154,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "독일",
+			"is_target": true,
+			"en": 1156,
+			"id": 53
+		}
+	],
+	"globalSID": "470719,470720,470721,470722,470723,470724,470725,470726,470727,470728,470729,470730,470731,470732,470733,470734,470735,470736",
+	"plainText": "프란츠 요제프 1세(, , 1830년 8월_18일 - 1916년 11월_21일)는 오스트리아_제국(재위 1848-1867) 및 오스트리아-헝가리(재위 1867-1916) 제국의 황제이다. 1866년까지는 독일의_군주였으나 프로이센의 빌헬름_1세에게 빼앗겼다. 준식민지로 영향력을 행사하던 세르비아인들과 갈등을 빚다가 1914년에는 세르비아를 침공, 제1차_세계_대전을 일으켰다. 백발의 노장의 모습을 항상 하고 있었다는 그는 68년의 재위 기간 동안 전제 군주로서의 책임을 훌륭하게 완수하였으며, 종이에 여유분이 없으면 공문서조차도 이면지로 사용할 정도로 근면 검소하였다. 생애 1848년_혁명으로 큰아버지인 페르디난트_1세가 퇴위함에 따라 18세의 젊은 나이에 즉위했다. 1849년_10월 러시아_군대의 도움을 받아 헝가리 혁명 세력을 진압하고 곧 북부 이탈리아의 영토를 회복할 때까지 전략적으로, 이전의 칙령 헌법을 보장하였다. 그러다가 1851년 안정을 되찾은 오제프 1세는 헌법을 파기하고 새로운 절대주의를 도입하였다. 교황과 정교협약 이 새로운 국가 절대주의를 후세 사람들은 이를 주도한 내무대신 바흐(bach, A, 1813~1893)의 이름을 따서 바흐 절대주의라고 부르게 되었다. 바흐_절대주의는 혁명 이전의 메테르니히_절대주의보다도 더 일관성이 있었고, 더 체계적이었다. 수적으로 더 막강해진 군대에 의존했으며 도시 지역의 정규_경찰과 비밀_경찰 외에도 시골 지역에서 새로 생긴 기동경찰이 이 절대 권력을 떠받쳐 주고 있었다. 또한 로마_가톨릭_교회와 국가간에도 밀착하여 국가_절대주의에 커다란 힘이 되었다. 1855년 황제와 교황_비오_9세 간의 정교협약으로 국가의 가톨릭교회에 대한 간섭은 완전히 사라지고, 교회의 모든 일은 주교가 전담하게 되었다. 로마 가톨릭교회는 교육과 개인의 가정사에 대해서도 영향력을 행사할 수 있게 되었다. 그러나 이같은 국가와 로마 가톨리교회와의 유착은 향후 오스트리아와 체코의 가톨릭 교회에 적지 않은 문제들을 야기하였다. 1853년 2월_18일 산책을 하다가 헝가리인 혁명가의 칼에 찔릴 뻔 했으나 다행히 목숨은 구했고 이후 바이에른_공녀_엘리자베트와 결혼했다. 하지만 1866년 4월 프로이센과 이탈리아가 연합해 프로이센-오스트리아_전쟁이 발발하고 7월_3일 오스트리아군이 쾨니히그레츠_전투에서 괴멸함으로써 독일 내의 합스부르크 가의 영향력은 종결되고 오스트리아는 위기를 맞는다. ",
+	"docID": "50688",
+	"ModifiedText": "프란츠 요제프 1세(, , 1830년 8월 18일 - 1916년 11월 21일)는 오스트리아 제국(재위 1848-1867) 및 오스트리아-헝가리(재위 1867-1916) 제국의 황제이다. 1866년까지는 독일의 군주였으나 프로이센의 빌헬름 1세에게 빼앗겼다. 준식민지로 영향력을 행사하던 세르비아인들과 갈등을 빚다가 1914년에는 세르비아를 침공, 제1차 세계 대전을 일으켰다. 백발의 노장의 모습을 항상 하고 있었다는 그는 68년의 재위 기간 동안 전제 군주로서의 책임을 훌륭하게 완수하였으며, 종이에 여유분이 없으면 공문서조차도 이면지로 사용할 정도로 근면 검소하였다. 생애 1848년 혁명으로 큰아버지인 페르디난트 1세가 퇴위함에 따라 18세의 젊은 나이에 즉위했다. 1849년 10월 러시아 군대의 도움을 받아 헝가리 혁명 세력을 진압하고 곧 북부 이탈리아의 영토를 회복할 때까지 전략적으로, 이전의 칙령 헌법을 보장하였다. 그러다가 1851년 안정을 되찾은 오제프 1세는 헌법을 파기하고 새로운 절대주의를 도입하였다. 교황과 정교협약 이 새로운 국가 절대주의를 후세 사람들은 이를 주도한 내무대신 바흐(bach, A, 1813~1893)의 이름을 따서 바흐 절대주의라고 부르게 되었다. 바흐 절대주의는 혁명 이전의 메테르니히 절대주의보다도 더 일관성이 있었고, 더 체계적이었다. 수적으로 더 막강해진 군대에 의존했으며 도시 지역의 정규 경찰과 비밀 경찰 외에도 시골 지역에서 새로 생긴 기동경찰이 이 절대 권력을 떠받쳐 주고 있었다. 또한 로마 가톨릭 교회와 국가간에도 밀착하여 국가 절대주의에 커다란 힘이 되었다. 1855년 황제와 교황 비오 9세 간의 정교협약으로 국가의 가톨릭교회에 대한 간섭은 완전히 사라지고, 교회의 모든 일은 주교가 전담하게 되었다. 로마 가톨릭교회는 교육과 개인의 가정사에 대해서도 영향력을 행사할 수 있게 되었다. 그러나 이같은 국가와 로마 가톨리교회와의 유착은 향후 오스트리아와 체코의 가톨릭 교회에 적지 않은 문제들을 야기하였다. 1853년 2월 18일 산책을 하다가 헝가리인 혁명가의 칼에 찔릴 뻔 했으나 다행히 목숨은 구했고 이후 바이에른 공녀 엘리자베트와 결혼했다. 하지만 1866년 4월 프로이센과 이탈리아가 연합해 프로이센-오스트리아 전쟁이 발발하고 7월 3일 오스트리아군이 쾨니히그레츠 전투에서 괴멸함으로써 독일 내의 합스부르크 가의 영향력은 종결되고 오스트리아는 위기를 맞는다. "
+}

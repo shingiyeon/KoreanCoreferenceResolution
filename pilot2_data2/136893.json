@@ -1,0 +1,1017 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 193,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 194,
+			"en": 194,
+			"st_modified": 193
+		},
+		{
+			"st": 193,
+			"text": "그의 무용",
+			"is_pronoun": true,
+			"en_modified": 198,
+			"en": 198,
+			"st_modified": 193
+		},
+		{
+			"st": 424,
+			"text": "그 시기",
+			"is_pronoun": true,
+			"en_modified": 428,
+			"en": 428,
+			"st_modified": 424
+		},
+		{
+			"st": 557,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 559,
+			"en": 559,
+			"st_modified": 557
+		},
+		{
+			"st": 557,
+			"text": "자신의 의누",
+			"is_pronoun": true,
+			"en_modified": 563,
+			"en": 563,
+			"st_modified": 557
+		},
+		{
+			"st": 590,
+			"text": "그때쯤",
+			"is_pronoun": true,
+			"en_modified": 593,
+			"en": 593,
+			"st_modified": 590
+		},
+		{
+			"st": 627,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 628,
+			"en": 628,
+			"st_modified": 627
+		},
+		{
+			"st": 668,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 669,
+			"en": 669,
+			"st_modified": 668
+		},
+		{
+			"st": 680,
+			"text": "그 존재",
+			"is_pronoun": true,
+			"en_modified": 684,
+			"en": 684,
+			"st_modified": 680
+		},
+		{
+			"st": 686,
+			"text": "한 단계",
+			"is_pronoun": true,
+			"en_modified": 690,
+			"en": 690,
+			"st_modified": 686
+		},
+		{
+			"st": 927,
+			"text": "여러 도시",
+			"is_pronoun": true,
+			"en_modified": 932,
+			"en": 932,
+			"st_modified": 927
+		},
+		{
+			"st": 1101,
+			"text": "소수의 군",
+			"is_pronoun": true,
+			"en_modified": 1106,
+			"en": 1106,
+			"st_modified": 1101
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 193,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 194,
+			"en": 194,
+			"st_modified": 193,
+			"id": 0,
+			"coref_index": 188
+		},
+		{
+			"st": 193,
+			"ancestor": "-1",
+			"surface": "그의 무용은",
+			"en_modified": 199,
+			"en": 199,
+			"st_modified": 193,
+			"id": 1
+		},
+		{
+			"st": 424,
+			"ancestor": "1-20",
+			"surface": "그 시기",
+			"en_modified": 428,
+			"en": 428,
+			"st_modified": 424,
+			"id": 2,
+			"coref_index": 196
+		},
+		{
+			"st": 557,
+			"ancestor": "1-31",
+			"surface": "자신",
+			"en_modified": 559,
+			"en": 559,
+			"st_modified": 557,
+			"id": 3,
+			"coref_index": 191
+		},
+		{
+			"st": 557,
+			"ancestor": "-1",
+			"surface": "자신의 의누이",
+			"en_modified": 564,
+			"en": 564,
+			"st_modified": 557,
+			"id": 4
+		},
+		{
+			"st": 590,
+			"ancestor": "1-30",
+			"surface": "그때",
+			"en_modified": 592,
+			"en": 592,
+			"st_modified": 590,
+			"id": 5,
+			"coref_index": 197
+		},
+		{
+			"st": 627,
+			"ancestor": "-1",
+			"surface": "이를",
+			"en_modified": 629,
+			"en": 629,
+			"st_modified": 627,
+			"id": 6
+		},
+		{
+			"st": 668,
+			"ancestor": "-1",
+			"surface": "이로써",
+			"en_modified": 671,
+			"en": 671,
+			"st_modified": 668,
+			"id": 7
+		},
+		{
+			"st": 680,
+			"ancestor": "-1",
+			"surface": "그 존재도",
+			"en_modified": 685,
+			"en": 685,
+			"st_modified": 680,
+			"id": 8
+		},
+		{
+			"st": 686,
+			"ancestor": "-1",
+			"surface": "한 단계",
+			"en_modified": 690,
+			"en": 690,
+			"st_modified": 686,
+			"id": 9
+		},
+		{
+			"st": 927,
+			"ancestor": "-1",
+			"surface": "여러 도시를",
+			"en_modified": 933,
+			"en": 933,
+			"st_modified": 927,
+			"id": 10
+		},
+		{
+			"st": 1101,
+			"ancestor": "-1",
+			"surface": "소수의 군으로",
+			"en_modified": 1108,
+			"en": 1108,
+			"st_modified": 1101,
+			"id": 11
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 36,
+			"st_modified": 27,
+			"coref_index": 188,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 27,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "몬페라토의_코라도",
+			"is_target": true,
+			"en": 36,
+			"id": 0
+		},
+		{
+			"en_modified": 44,
+			"entityName": "피에몬테어",
+			"st_modified": 39,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 39,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "피에몬테어",
+			"is_target": true,
+			"en": 44,
+			"id": 1
+		},
+		{
+			"en_modified": 71,
+			"st_modified": 67,
+			"coref_index": 193,
+			"entityName": "예루살렘",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 67,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "예루살렘",
+			"is_target": true,
+			"en": 71,
+			"id": 2
+		},
+		{
+			"en_modified": 128,
+			"entityName": "예루살렘_왕국#예루살렘_왕국의_군주",
+			"st_modified": 121,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 121,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "예루살렘_왕위",
+			"is_target": true,
+			"en": 128,
+			"id": 3
+		},
+		{
+			"en_modified": 144,
+			"entityName": "아사신",
+			"st_modified": 141,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 141,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아사신",
+			"is_target": true,
+			"en": 144,
+			"id": 4
+		},
+		{
+			"en_modified": 162,
+			"entityName": "제3차_십자군",
+			"st_modified": 155,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 155,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "제3차_십자군",
+			"is_target": true,
+			"en": 162,
+			"id": 5
+		},
+		{
+			"en_modified": 182,
+			"st_modified": 179,
+			"coref_index": 188,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 179,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 182,
+			"id": 6
+		},
+		{
+			"en_modified": 203,
+			"entityName": "이슬람교",
+			"st_modified": 200,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이슬람",
+			"is_target": true,
+			"en": 203,
+			"id": 7
+		},
+		{
+			"en_modified": 24,
+			"entityName": "",
+			"st_modified": 12,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 12,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1192년_4월_28일",
+			"is_target": false,
+			"en": 24,
+			"id": 8
+		},
+		{
+			"en_modified": 233,
+			"entityName": "",
+			"st_modified": 231,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 231,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "생애",
+			"is_target": true,
+			"en": 233,
+			"id": 9
+		},
+		{
+			"en_modified": 241,
+			"st_modified": 234,
+			"coref_index": 190,
+			"entityName": "비잔티움_제국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 234,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "비잔티움_제국",
+			"is_target": true,
+			"en": 241,
+			"id": 10
+		},
+		{
+			"en_modified": 248,
+			"st_modified": 245,
+			"coref_index": 189,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 245,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 248,
+			"id": 11
+		},
+		{
+			"en_modified": 252,
+			"st_modified": 249,
+			"coref_index": 189,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 249,
+			"ancestor": "1-11",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 252,
+			"id": 12
+		},
+		{
+			"en_modified": 258,
+			"st_modified": 254,
+			"coref_index": 194,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 254,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 258,
+			"id": 13
+		},
+		{
+			"en_modified": 273,
+			"entityName": "몬페라토_후작",
+			"st_modified": 266,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 266,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "몬페라토_후작",
+			"is_target": true,
+			"en": 273,
+			"id": 14
+		},
+		{
+			"en_modified": 292,
+			"entityName": "피에몬테_주",
+			"st_modified": 285,
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Settlement",
+				"Place",
+				"AdministrativeRegion"
+			],
+			"eType": "WIKILINK",
+			"st": 285,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "피에몬테_지방",
+			"is_target": true,
+			"en": 292,
+			"id": 15
+		},
+		{
+			"en_modified": 327,
+			"st_modified": 320,
+			"coref_index": 190,
+			"entityName": "비잔티움_제국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 320,
+			"ancestor": "1-10",
+			"ne_type": "LOCATION",
+			"surface": "비잔티움_제국",
+			"is_target": true,
+			"en": 327,
+			"id": 16
+		},
+		{
+			"en_modified": 341,
+			"entityName": "마누엘_1세_콤네누스",
+			"st_modified": 330,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 330,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마누엘_1세_콤네누스",
+			"is_target": true,
+			"en": 341,
+			"id": 17
+		},
+		{
+			"en_modified": 356,
+			"st_modified": 353,
+			"coref_index": 189,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 353,
+			"ancestor": "1-12",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 356,
+			"id": 18
+		},
+		{
+			"en_modified": 388,
+			"st_modified": 385,
+			"coref_index": 189,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 385,
+			"ancestor": "1-18",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 388,
+			"id": 19
+		},
+		{
+			"en_modified": 306,
+			"st_modified": 301,
+			"coref_index": 196,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 301,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1179년",
+			"is_target": false,
+			"en": 306,
+			"id": 20
+		},
+		{
+			"en_modified": 436,
+			"st_modified": 429,
+			"coref_index": 190,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 429,
+			"ancestor": "1-16",
+			"ne_type": "LOCATION",
+			"surface": "비잔티움_제국",
+			"is_target": true,
+			"en": 436,
+			"id": 21
+		},
+		{
+			"en_modified": 488,
+			"st_modified": 478,
+			"coref_index": 191,
+			"entityName": "이사키우스_2세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 478,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이사키우스_앙겔루스",
+			"is_target": true,
+			"en": 488,
+			"id": 22
+		},
+		{
+			"en_modified": 554,
+			"st_modified": 551,
+			"coref_index": 188,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 551,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 554,
+			"id": 23
+		},
+		{
+			"en_modified": 569,
+			"entityName": "테오도라_(9세기)",
+			"st_modified": 565,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 565,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "테오도라",
+			"is_target": true,
+			"en": 569,
+			"id": 24
+		},
+		{
+			"en_modified": 601,
+			"st_modified": 594,
+			"coref_index": 190,
+			"entityName": "비잔티움_제국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 594,
+			"ancestor": "1-21",
+			"ne_type": "LOCATION",
+			"surface": "비잔티움_제국",
+			"is_target": true,
+			"en": 601,
+			"id": 25
+		},
+		{
+			"en_modified": 625,
+			"st_modified": 622,
+			"coref_index": 188,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 622,
+			"ancestor": "1-23",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 625,
+			"id": 26
+		},
+		{
+			"en_modified": 642,
+			"entityName": "1187년",
+			"st_modified": 637,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 637,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1187년",
+			"is_target": false,
+			"en": 642,
+			"id": 27
+		},
+		{
+			"en_modified": 653,
+			"st_modified": 645,
+			"coref_index": 192,
+			"entityName": "콘스탄티노폴리스",
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"City",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 645,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "콘스탄티노폴리스",
+			"is_target": true,
+			"en": 653,
+			"id": 28
+		},
+		{
+			"en_modified": 469,
+			"entityName": "",
+			"st_modified": 464,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 464,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1185년",
+			"is_target": false,
+			"en": 469,
+			"id": 29
+		},
+		{
+			"en_modified": 532,
+			"st_modified": 527,
+			"coref_index": 197,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 527,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1186년",
+			"is_target": false,
+			"en": 532,
+			"id": 30
+		},
+		{
+			"en_modified": 549,
+			"st_modified": 536,
+			"coref_index": 191,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 536,
+			"ancestor": "1-22",
+			"ne_type": "PERSON",
+			"surface": "이사키우스_2세_앙겔루스",
+			"is_target": true,
+			"en": 549,
+			"id": 31
+		},
+		{
+			"en_modified": 724,
+			"entityName": "",
+			"st_modified": 711,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 711,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "알렉시우스_브라나스_장군",
+			"is_target": true,
+			"en": 724,
+			"id": 32
+		},
+		{
+			"en_modified": 767,
+			"st_modified": 764,
+			"coref_index": 189,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 764,
+			"ancestor": "1-12",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 767,
+			"id": 33
+		},
+		{
+			"en_modified": 839,
+			"st_modified": 836,
+			"coref_index": 189,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 836,
+			"ancestor": "1-33",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 839,
+			"id": 34
+		},
+		{
+			"en_modified": 849,
+			"st_modified": 841,
+			"coref_index": 192,
+			"entityName": "콘스탄티노폴리스",
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"City",
+				"Settlement"
+			],
+			"eType": "ELU",
+			"st": 841,
+			"ancestor": "1-28",
+			"ne_type": "LOCATION",
+			"surface": "콘스탄티노폴리스",
+			"is_target": true,
+			"en": 849,
+			"id": 35
+		},
+		{
+			"en_modified": 870,
+			"st_modified": 863,
+			"coref_index": 193,
+			"entityName": "예루살렘_왕국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 863,
+			"ancestor": "1-2",
+			"ne_type": "LOCATION",
+			"surface": "예루살렘_왕국",
+			"is_target": true,
+			"en": 870,
+			"id": 36
+		},
+		{
+			"en_modified": 884,
+			"entityName": "티레",
+			"st_modified": 882,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 882,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "티레",
+			"is_target": true,
+			"en": 884,
+			"id": 37
+		},
+		{
+			"en_modified": 913,
+			"entityName": "아이유브_왕조",
+			"st_modified": 906,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 906,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아이유브_왕조",
+			"is_target": true,
+			"en": 913,
+			"id": 38
+		},
+		{
+			"en_modified": 918,
+			"st_modified": 915,
+			"coref_index": 195,
+			"entityName": "살라딘",
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 915,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "살라딘",
+			"is_target": true,
+			"en": 918,
+			"id": 39
+		},
+		{
+			"en_modified": 944,
+			"entityName": "하틴_전투",
+			"st_modified": 939,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 939,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "하틴_전투",
+			"is_target": true,
+			"en": 944,
+			"id": 40
+		},
+		{
+			"en_modified": 1011,
+			"st_modified": 1008,
+			"coref_index": 189,
+			"entityName": "코라도_1세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1008,
+			"ancestor": "1-33",
+			"ne_type": "ETC",
+			"surface": "코라도",
+			"is_target": true,
+			"en": 1011,
+			"id": 41
+		},
+		{
+			"en_modified": 1057,
+			"st_modified": 1053,
+			"coref_index": 194,
+			"entityName": "이탈리아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1053,
+			"ancestor": "1-13",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 1057,
+			"id": 42
+		},
+		{
+			"en_modified": 1095,
+			"st_modified": 1092,
+			"coref_index": 195,
+			"entityName": "살라딘",
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1092,
+			"ancestor": "1-39",
+			"ne_type": "PERSON",
+			"surface": "살라딘",
+			"is_target": true,
+			"en": 1095,
+			"id": 43
+		},
+		{
+			"en_modified": 862,
+			"entityName": "",
+			"st_modified": 854,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 854,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1187년_7월",
+			"is_target": false,
+			"en": 862,
+			"id": 44
+		}
+	],
+	"globalSID": "970943,970944,970945,970946,970947,970948,970949,970950,970951,970952,970953,970954,970955,970956,970957,970958,970959,970960",
+	"plainText": "코라도 1세(?? – 1192년_4월_28일)는 몬페라토의_코라도(, 피에몬테어: Conr? ?d Monfr?), 혹은 예루살렘의 코라도 1세(Conrad I of Jerusalem)이라 불렸던 몬페라토의 후작이다. 예루살렘_왕위 즉위 직전에 암살교단(아사신)에 의해 암살당한 제3차_십자군측 인물 중 한 명이다. 일명 코라도라고 불리고 있다. 그의 무용은 이슬람측에서 알 말키슈의 이름으로 두려움의 대상이었다. 생애 비잔티움_제국에서의 코라도 코라도는 이탈리아의 명문가였던 몬페라토_후작(侯爵)가문 출신으로 피에몬테_지방에서 태어났다. 1179년 몬페라토 후작가와 당시 비잔티움_제국황제 마누엘_1세_콤네누스와 동맹을 맺은시기, 코라도는 군대를 이끌고 출정하여 제국의 내란을 진압했다. 코라도는 지혜와 용맹을 겸비한 명장으로 알려져 두려움의 대상이었으나, 그 시기 비잔티움_제국의 내정은 매우 어지러워서 황제가 자주 바뀌었다. 1185년에 즉위한 황제 이사키우스_앙겔루스가 특히 암우(暗愚)했기 때문에 제국의 내란은 계속 증가하고 있었다. 1186년 겨울 이사키우스_2세_앙겔루스는 코라도에게 자신의 의누이 테오도라를 아내로 맞아들여달라고 요청하였고, 그때쯤 비잔티움_제국을 떠나 십자군에 참가하려고 생각하던 코라도도 이를 받아들였다. 1187년 봄 콘스탄티노폴리스에서 결혼식을 거행하였고, 이로써 가문의 품격도 그 존재도 한 단계 더 올라서게 되었다. 결혼 후 당장 알렉시우스_브라나스_장군의 내란 진압에 나서서 장군을 죽이고 반란을 수습하였다. 티루스 방어전 코라도는 이전부터 비잔티움 제국내의 반(反)라틴 감정을 답답하게 느끼고 있었고, 또 브라나스 일족에 의한 복수도 걱정이 되었다. 코라도는 콘스탄티노폴리스를 떠나 1187년_7월 예루살렘_왕국으로 이동해 항구도시 티레(티루스)의 수비를 맡게 되었다. 마침 아이유브_왕조의 살라딘이 지중해 연안 여러 도시를 함락하고 하틴_전투에서 예루살렘 왕국군이 대패한 까닭으로, 수도 예루살렘 함락은 시간문제였기에, 왕국은 멸망 직전까지 가게 되었다. 코라도는 티레에 몰려온 살라딘군에 대항해 시민의 사기를 높이고, 진형을 정비하고 이탈리아의 상선단의 도움도 빌려 만전의 준비를 갖춘 뒤 지형을 이용해 살라딘의 대군을 소수의 군으로 격퇴했다. ",
+	"docID": "136893",
+	"ModifiedText": "코라도 1세(?? – 1192년 4월 28일)는 몬페라토의 코라도(, 피에몬테어: Conr? ?d Monfr?), 혹은 예루살렘의 코라도 1세(Conrad I of Jerusalem)이라 불렸던 몬페라토의 후작이다. 예루살렘 왕위 즉위 직전에 암살교단(아사신)에 의해 암살당한 제3차 십자군측 인물 중 한 명이다. 일명 코라도라고 불리고 있다. 그의 무용은 이슬람측에서 알 말키슈의 이름으로 두려움의 대상이었다. 생애 비잔티움 제국에서의 코라도 코라도는 이탈리아의 명문가였던 몬페라토 후작(侯爵)가문 출신으로 피에몬테 지방에서 태어났다. 1179년 몬페라토 후작가와 당시 비잔티움 제국황제 마누엘 1세 콤네누스와 동맹을 맺은시기, 코라도는 군대를 이끌고 출정하여 제국의 내란을 진압했다. 코라도는 지혜와 용맹을 겸비한 명장으로 알려져 두려움의 대상이었으나, 그 시기 비잔티움 제국의 내정은 매우 어지러워서 황제가 자주 바뀌었다. 1185년에 즉위한 황제 이사키우스 앙겔루스가 특히 암우(暗愚)했기 때문에 제국의 내란은 계속 증가하고 있었다. 1186년 겨울 이사키우스 2세 앙겔루스는 코라도에게 자신의 의누이 테오도라를 아내로 맞아들여달라고 요청하였고, 그때쯤 비잔티움 제국을 떠나 십자군에 참가하려고 생각하던 코라도도 이를 받아들였다. 1187년 봄 콘스탄티노폴리스에서 결혼식을 거행하였고, 이로써 가문의 품격도 그 존재도 한 단계 더 올라서게 되었다. 결혼 후 당장 알렉시우스 브라나스 장군의 내란 진압에 나서서 장군을 죽이고 반란을 수습하였다. 티루스 방어전 코라도는 이전부터 비잔티움 제국내의 반(反)라틴 감정을 답답하게 느끼고 있었고, 또 브라나스 일족에 의한 복수도 걱정이 되었다. 코라도는 콘스탄티노폴리스를 떠나 1187년 7월 예루살렘 왕국으로 이동해 항구도시 티레(티루스)의 수비를 맡게 되었다. 마침 아이유브 왕조의 살라딘이 지중해 연안 여러 도시를 함락하고 하틴 전투에서 예루살렘 왕국군이 대패한 까닭으로, 수도 예루살렘 함락은 시간문제였기에, 왕국은 멸망 직전까지 가게 되었다. 코라도는 티레에 몰려온 살라딘군에 대항해 시민의 사기를 높이고, 진형을 정비하고 이탈리아의 상선단의 도움도 빌려 만전의 준비를 갖춘 뒤 지형을 이용해 살라딘의 대군을 소수의 군으로 격퇴했다. "
+}

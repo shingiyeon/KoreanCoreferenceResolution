@@ -1,0 +1,71 @@
+{
+	"docID": "152461",
+	"globalSID": "1041669,1041670,1041671,1041672,1041673,1041674,1041675",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 33,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "이탈리아",
+			"entityName": "이탈리아"
+		},
+		{
+			"kbox_types": [
+				"Food"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "파스타",
+			"entityName": "파스타"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 101,
+			"ancestor": "-1",
+			"surface": "슈페츨레",
+			"entityName": "슈페츨레"
+		},
+		{
+			"kbox_types": [
+				"Species",
+				"Eukaryote",
+				"Plant"
+			],
+			"st": 164,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 165,
+			"ancestor": "-1",
+			"surface": "쌀",
+			"entityName": "쌀"
+		}
+	],
+	"plainText": "부요리 주 요리와 곁들여 먹는 요리로는 국수 종류가 있는데 이탈리아의 파스타보다는 많이 두꺼운 편이며, 계란 노른자를 곁들인다. 독일 남서부 지방에서는 노른자를 많이 함유한 슈페츨레(Sp?tzle)를 먹기도 한다. 이외에도 감자나 독일식 과일 푸딩도 많이 곁들여 먹었다. 최근에는 감자 대신에 쌀 요리를 즐기기도 한다. 하지만 어찌 되었든 감자가 가장 전통적인 요리 재료이며 대개는 으깨서 감자를 볶아 먹는다. 최근에는 프랑스식 감자 튀김(폼메스 프리테스, Pommes Frites)이 아주 흔해졌다."
+}

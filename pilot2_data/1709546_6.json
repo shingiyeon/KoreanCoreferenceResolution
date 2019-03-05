@@ -1,0 +1,238 @@
+{
+	"docID": "1709546",
+	"globalSID": "3918162,3918163,3918164,3918165",
+	"pronouns": [
+		{
+			"en": 102,
+			"st": 101,
+			"surface": "이",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "1-12",
+			"coref_index": 276,
+			"surface": "연합군",
+			"entityName": "연합국"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "트링코말리",
+			"entityName": "트링코말리"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 53,
+			"ancestor": "-1",
+			"surface": "양곤",
+			"entityName": "양곤"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 116,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 120,
+			"ancestor": "1-1",
+			"coref_index": 275,
+			"surface": "싱가포르",
+			"entityName": "싱가포르"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 125,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 128,
+			"ancestor": "-1",
+			"coref_index": 282,
+			"surface": "일본군",
+			"entityName": "일본군"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 174,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 183,
+			"ancestor": "-1",
+			"coref_index": 286,
+			"surface": "이타가키_세이시로",
+			"entityName": "이타가키_세이시로"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 212,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 215,
+			"ancestor": "6-4",
+			"coref_index": 282,
+			"surface": "일본군",
+			"entityName": "일본군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 16,
+			"ancestor": "1-7",
+			"coref_index": 277,
+			"surface": "티더레이스_작전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 30,
+			"ancestor": "",
+			"surface": "1945년_8월_31일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 36,
+			"ancestor": "1-3",
+			"coref_index": 283,
+			"surface": "마운트배튼",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 109,
+			"ancestor": "6-9",
+			"coref_index": 283,
+			"surface": "마운트배튼",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 114,
+			"ancestor": "5-6",
+			"coref_index": 280,
+			"surface": "말라야",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 190,
+			"ancestor": "6-10",
+			"coref_index": 283,
+			"surface": "마운트배튼",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 195,
+			"ancestor": "-1",
+			"surface": "일왕",
+			"entityName": ""
+		}
+	],
+	"plainText": "싱가포르 탈환 티더레이스_작전은 1945년_8월_31일 마운트배튼이 연합군에게 트링코말리와 양곤을 출발하라고 지시했을 때 실행되었다. 연합군 함대는 공격 무기로 무장하지 않았는데, 이는 마운트배튼이 말라야와 싱가포르에 있는 일본군이 전투 없이 항복할 것이라고 보았기 때문이었다. 8월 20일, 싱가포르 사령관인 이타가키_세이시로는 마운트배튼에게 일왕의 결정에 따라 싱가포르 주둔 일본군의 항복을 준비하겠다고 밝혔다."
+}

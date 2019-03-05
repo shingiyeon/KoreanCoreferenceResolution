@@ -1,0 +1,102 @@
+{
+	"docID": "261469",
+	"globalSID": "1473139,1473140",
+	"pronouns": [
+		{
+			"st": 47,
+			"coref_index": 357,
+			"id": 0,
+			"en": 48,
+			"ancestor": "1-2",
+			"surface": "그"
+		},
+		{
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "그의 통치시기",
+			"id": 1,
+			"st": 47
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 20,
+			"ancestor": "",
+			"surface": "1068년",
+			"entityName": "1068년"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 40,
+			"ancestor": "-1",
+			"coref_index": 355,
+			"surface": "영국",
+			"entityName": "영국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 5,
+			"ancestor": "-1",
+			"coref_index": 357,
+			"surface": "헨리_1세",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 58,
+			"ancestor": "1-1",
+			"coref_index": 355,
+			"surface": "영국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 35,
+			"ancestor": "",
+			"surface": "1135년_12월_1일",
+			"entityName": ""
+		}
+	],
+	"plainText": "헨리_1세(Henry I, 1068년 ~ 1135년_12월_1일)는 영국의 왕이다. 그의 통치시기는 영국이 관료 국가로 나아가는데 초석을 다진것으로 평가받는다."
+}

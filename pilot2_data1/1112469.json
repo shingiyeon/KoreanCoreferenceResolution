@@ -1,0 +1,479 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 1,
+			"eType": "ELU",
+			"entityName": "징비록",
+			"en": 4,
+			"is_target": true,
+			"surface": "징비록",
+			"coref_index": 29,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Broadcaster",
+				"TelevisionStation",
+				"Agent",
+				"Organisation"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 7,
+			"eType": "WIKILINK",
+			"entityName": "KBS_1TV",
+			"en": 14,
+			"is_target": true,
+			"surface": "KBS_1TV",
+			"coref_index": 31,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "TIME",
+			"st": 32,
+			"eType": "WIKILINK",
+			"entityName": "8월_2일",
+			"en": 37,
+			"is_target": false,
+			"surface": "8월_2일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 44,
+			"eType": "WIKILINK",
+			"entityName": "한국방송공사_대하드라마",
+			"en": 49,
+			"is_target": true,
+			"surface": "대하드라마",
+			"coref_index": 30,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 17,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 29,
+			"is_target": false,
+			"surface": "2015년_2월_14일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 56,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 68,
+			"is_target": false,
+			"surface": "2014년_6월_19일",
+			"coref_index": 34,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 69,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 76,
+			"is_target": true,
+			"surface": "드라마_징비록",
+			"coref_index": 29,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 87,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 98,
+			"is_target": false,
+			"surface": "2015년_2월_5일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 99,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 118,
+			"is_target": true,
+			"surface": "서울_여의도_63컨벤션센터_주니퍼룸",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "EVENT",
+			"st": 121,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 126,
+			"is_target": true,
+			"surface": "제작발표회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 143,
+			"eType": "WIKILINK",
+			"entityName": "조대현_(언론인)",
+			"en": 146,
+			"is_target": true,
+			"surface": "조대현",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 176,
+			"eType": "ELU",
+			"entityName": "정도전",
+			"en": 179,
+			"is_target": true,
+			"surface": "정도전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 225,
+			"eType": "ELU",
+			"entityName": "사극",
+			"en": 230,
+			"is_target": true,
+			"surface": "대하드라마",
+			"coref_index": 30,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"st": 139,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 142,
+			"is_target": true,
+			"surface": "KBS",
+			"coref_index": 31,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 166,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 169,
+			"is_target": true,
+			"surface": "징비록",
+			"coref_index": 29,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 249,
+			"eType": "WIKILINK",
+			"entityName": "1604년",
+			"en": 254,
+			"is_target": false,
+			"surface": "1604년",
+			"coref_index": 32,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 263,
+			"eType": "WIKILINK",
+			"entityName": "류성룡",
+			"en": 266,
+			"is_target": true,
+			"surface": "류성룡",
+			"coref_index": 33,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 274,
+			"eType": "WIKILINK",
+			"entityName": "징비록",
+			"en": 277,
+			"is_target": true,
+			"surface": "징비록",
+			"coref_index": 29,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 288,
+			"eType": "WIKILINK",
+			"entityName": "임진왜란",
+			"en": 292,
+			"is_target": true,
+			"surface": "임진왜란",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 19,
+			"ne_type": "TIME",
+			"st": 303,
+			"eType": "WIKILINK",
+			"entityName": "1598년",
+			"en": 308,
+			"is_target": false,
+			"surface": "1598년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 20,
+			"ne_type": "PERSON",
+			"st": 309,
+			"eType": "WIKILINK",
+			"entityName": "이순신",
+			"en": 312,
+			"is_target": true,
+			"surface": "이순신",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 318,
+			"eType": "WIKILINK",
+			"entityName": "노량해전",
+			"en": 322,
+			"is_target": true,
+			"surface": "노량해전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 255,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 260,
+			"is_target": true,
+			"surface": "선조_37",
+			"coref_index": 32,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 357,
+			"eType": "ELU",
+			"entityName": "류성룡",
+			"en": 360,
+			"is_target": true,
+			"surface": "류성룡",
+			"coref_index": 33,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 362,
+			"eType": "WIKILINK",
+			"entityName": "조선_선조",
+			"en": 364,
+			"is_target": true,
+			"surface": "선조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 373,
+			"eType": "WIKILINK",
+			"entityName": "김상중",
+			"en": 376,
+			"is_target": true,
+			"surface": "김상중",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 378,
+			"eType": "WIKILINK",
+			"entityName": "김태우_(배우)",
+			"en": 381,
+			"is_target": true,
+			"surface": "김태우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 390,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 404,
+			"is_target": true,
+			"surface": "MBC_드라마_상도,_다모",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 416,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 423,
+			"is_target": true,
+			"surface": "각본가_정형수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 425,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 448,
+			"is_target": true,
+			"surface": "KBS_대하드라마_정도전의_보조작가_정지연",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "3349324,3349325,3349326,3349327,3349328,3349329,3349330,3349331,3349332",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-5",
+			"st": 136,
+			"en": 138,
+			"surface": "이날",
+			"coref_index": 34
+		}
+	],
+	"plainText": "《징비록》은 KBS_1TV에서 2015년_2월_14일부터 8월_2일까지 방송된 대하드라마이다. 제작 2014년_6월_19일 드라마_징비록 제작을 예고하였고 2015년_2월_5일 서울_여의도_63컨벤션센터_주니퍼룸에서 제작발표회가가 이루어졌다. 이날 KBS 조대현 사장은 재정 적자를 언급한 뒤 \"'징비록'도 사실 '정도전'에 바로 이어서 해야 하는데, 재정 때문에 반년을 건너뛰고 시작한다. 금년부터는 대하드라마를 쉬지 않고 하겠다\"고 말했다. 1604년(선조_37)에 류성룡이 집필완료한 징비록의 내용을 바탕으로 임진왜란이 발생하기 전부터 1598년 이순신이 전사한 노량해전까지의 시기에 조정에서 펼쳐지는 이야기. 이야기의 주요 인물은 류성룡과 선조. 주연 배우는 김상중과 김태우. 각본담당자는 MBC_드라마_상도,_다모 등의 각본을 담당한 각본가_정형수와 KBS_대하드라마_정도전의_보조작가_정지연. ",
+	"docID": "1112469"
+}

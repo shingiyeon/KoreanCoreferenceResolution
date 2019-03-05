@@ -1,0 +1,325 @@
+{
+	"docID": "852512",
+	"globalSID": "2908695,2908696,2908697,2908698",
+	"pronouns": [
+		{
+			"en": 223,
+			"ancestor": "-1",
+			"surface": "그 후",
+			"id": 0,
+			"st": 220
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "포수",
+			"entityName": "포수"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 80,
+			"ancestor": "-1",
+			"coref_index": 1054,
+			"surface": "사이토_유키",
+			"entityName": "사이토_유키_(1988년)"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 90,
+			"ancestor": "-1",
+			"coref_index": 1055,
+			"surface": "다나카_마사히로",
+			"entityName": "다나카_마사히로"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 153,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 157,
+			"ancestor": "-1",
+			"surface": "텔레비전",
+			"entityName": "텔레비전"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 235,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 237,
+			"ancestor": "1-5",
+			"coref_index": 1053,
+			"surface": "투수",
+			"entityName": "투수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "프로_입단_전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "이시카와_현_고마쓰_시",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "중학교_시절",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 36,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "연식_야구부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 54,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 62,
+			"ancestor": "",
+			"surface": "중학교_1학년_",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "-1",
+			"coref_index": 1060,
+			"surface": "투수전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 99,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "EVENT",
+			"en": 125,
+			"ancestor": "-1",
+			"surface": "제88회_전국_고등학교_야구_선수권_대회_결승전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 128,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 134,
+			"ancestor": "-1",
+			"surface": "연장_15회",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 141,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 144,
+			"ancestor": "-1",
+			"surface": "무승부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 167,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 170,
+			"ancestor": "3-1",
+			"coref_index": 1054,
+			"surface": "사이토",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 175,
+			"ancestor": "3-2",
+			"coref_index": 1055,
+			"surface": "다나카",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 177,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 180,
+			"ancestor": "-1",
+			"surface": "활약상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 197,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 200,
+			"ancestor": "-1",
+			"surface": "재경기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 204,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "LOCATION",
+			"en": 206,
+			"ancestor": "-1",
+			"surface": "구장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 215,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 217,
+			"ancestor": "-1",
+			"surface": "관전",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 224,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "PERSON",
+			"en": 226,
+			"ancestor": "-1",
+			"surface": "감독",
+			"entityName": ""
+		}
+	],
+	"plainText": "프로_입단_전 이시카와_현_고마쓰_시에서 태어나 중학교_시절에는 연식_야구부에 소속되어 있었다. 중학교_1학년_때까지는 포수였지만, 사이토_유키와 다나카_마사히로의 투수전이 된 제88회_전국_고등학교_야구_선수권_대회_결승전에서 연장_15회 접전 끝에 무승부로 끝난 모습을 텔레비전을 통해 지켜보며 사이토와 다나카의 활약상에 매료되었다. 다음날에 열린 재경기에서는 구장에 직접 찾아가 관전했고 그 후 감독에게 호소하면서 투수로 전향했다."
+}

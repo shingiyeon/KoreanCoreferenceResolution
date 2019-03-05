@@ -1,0 +1,182 @@
+{
+	"docID": "1323144",
+	"globalSID": "3586125,3586126,3586127,3586128,3586129",
+	"pronouns": [
+		{
+			"en": 28,
+			"ancestor": "-1",
+			"surface": "그 뒤",
+			"id": 0,
+			"st": 25
+		},
+		{
+			"en": 147,
+			"ancestor": "-1",
+			"surface": "그 결과",
+			"id": 1,
+			"st": 143
+		},
+		{
+			"en": 151,
+			"ancestor": "-1",
+			"surface": "이때는",
+			"id": 2,
+			"st": 148
+		},
+		{
+			"en": 261,
+			"ancestor": "-1",
+			"surface": "아무런 영향도",
+			"id": 3,
+			"st": 254
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 101,
+			"eType": "ELU",
+			"entityName": "아르헨티나",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 106,
+			"ancestor": "3-1",
+			"is_target": true,
+			"surface": "아르헨티나",
+			"coref_index": 181
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Archipelago",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 108,
+			"eType": "WIKILINK",
+			"entityName": "포클랜드_제도",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 115,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포클랜드_제도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "ELU",
+			"entityName": "영토_분쟁",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "영유권_문제"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 124,
+			"eType": "WIKILINK",
+			"entityName": "영국",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 126,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "영국"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 128,
+			"eType": "WIKILINK",
+			"entityName": "포클랜드_전쟁",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 130,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "전쟁"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"st": 152,
+			"eType": "WIKILINK",
+			"entityName": "레오폴도_갈티에리",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 161,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "레오폴도_갈티에리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1981년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 11,
+			"ancestor": "1-4",
+			"is_target": true,
+			"surface": "소레기에타",
+			"coref_index": 182
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 100,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1982년_4월"
+		}
+	],
+	"plainText": "1981년 소레기에타는 장관직에서 물러났다. 그 뒤 아르헨티나 설탕 산업의 고문기구인 \"Centro Argentino Azucarero\"(CAA)의 총재가 되었다. 1982년_4월 아르헨티나가 포클랜드_제도 영유권_문제로 영국과 전쟁을 벌였고, 패배했다. 그 결과 이때는 레오폴도_갈티에리가 수괴를 맡고 있던 군사정부가 붕괴했다. 군사정부에서 각료를 해먹은 사람들은 인권유린 혐의로 고발되었으나, 소레기에타는 정권이 무너지기 전에 공직에서 떠났기 때문에 아무런 영향도 받지 않았다."
+}

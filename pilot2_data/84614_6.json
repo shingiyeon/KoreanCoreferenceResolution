@@ -1,0 +1,241 @@
+{
+	"docID": "84614",
+	"globalSID": "661860,661861,661862",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "후백제",
+			"entityName": "후백제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 27,
+			"ancestor": "1-2",
+			"coref_index": 1038,
+			"surface": "왕건",
+			"entityName": "왕건"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "1-2",
+			"coref_index": 1038,
+			"surface": "왕건",
+			"entityName": "왕건"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 90,
+			"ancestor": "1-2",
+			"coref_index": 1038,
+			"surface": "왕건",
+			"entityName": "왕건"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "1-2",
+			"coref_index": 1038,
+			"surface": "왕건",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "EVENT",
+			"en": 6,
+			"ancestor": "-1",
+			"surface": "만남",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "이반",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "민심",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "서남해안",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "EVENT",
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "공략",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 45,
+			"ancestor": "3-4",
+			"coref_index": 1036,
+			"surface": "오다련군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "귀족",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 62,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "EVENT",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "투항",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 69,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "LOCATION",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "갑판_선상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 79,
+			"ancestor": "-1",
+			"surface": "시내",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 113,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"surface": "빨래",
+			"entityName": ""
+		}
+	],
+	"plainText": "왕건과 만남 후백제의 민심이 이반된 틈을 타 왕건은 서남해안을 공략하였고 오다련군 등 서남의 귀족들은 왕건에게 투항하였다. 갑판_선상에서 시내 위를 바라보던 왕건이 오색(五色)의 운기를 보고 달려갔다가 빨래하고 있는 오씨를 보았다."
+}

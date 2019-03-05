@@ -1,0 +1,983 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "지석훈",
+			"en": 3,
+			"is_target": true,
+			"surface": "지석훈",
+			"coref_index": 597,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 28,
+			"eType": "WIKILINK",
+			"entityName": "KBO_리그",
+			"en": 34,
+			"is_target": true,
+			"surface": "KBO_리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"st": 35,
+			"eType": "WIKILINK",
+			"entityName": "NC_다이노스",
+			"en": 42,
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 44,
+			"eType": "WIKILINK",
+			"entityName": "내야수",
+			"en": 47,
+			"is_target": true,
+			"surface": "내야수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 10,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 22,
+			"is_target": false,
+			"surface": "1984년_3월_17일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 175,
+			"eType": "WIKILINK",
+			"entityName": "현대_유니콘스",
+			"en": 182,
+			"is_target": true,
+			"surface": "현대_유니콘스",
+			"coref_index": 591,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 185,
+			"eType": "WIKILINK",
+			"entityName": "넥센_히어로즈",
+			"en": 192,
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 196,
+			"eType": "WIKILINK",
+			"entityName": "2003년",
+			"en": 201,
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"st": 202,
+			"eType": "WIKILINK",
+			"entityName": "현대_유니콘스",
+			"en": 209,
+			"is_target": true,
+			"surface": "현대_유니콘스",
+			"coref_index": 591,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 9,
+			"ne_type": "TIME",
+			"st": 231,
+			"eType": "WIKILINK",
+			"entityName": "2007년",
+			"en": 236,
+			"is_target": false,
+			"surface": "2007년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 247,
+			"eType": "WIKILINK",
+			"entityName": "유격수",
+			"en": 250,
+			"is_target": true,
+			"surface": "유격수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"id": 11,
+			"ne_type": "TIME",
+			"st": 319,
+			"eType": "WIKILINK",
+			"entityName": "7월_29일",
+			"en": 325,
+			"is_target": false,
+			"surface": "7월_29일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 358,
+			"eType": "WIKILINK",
+			"entityName": "황재균",
+			"en": 361,
+			"is_target": true,
+			"surface": "황재균",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 373,
+			"eType": "WIKILINK",
+			"entityName": "상무_야구단",
+			"en": 379,
+			"is_target": true,
+			"surface": "상무_야구단",
+			"coref_index": 594,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 14,
+			"ne_type": "TIME",
+			"st": 383,
+			"eType": "WIKILINK",
+			"entityName": "2009년",
+			"en": 388,
+			"is_target": false,
+			"surface": "2009년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"st": 396,
+			"eType": "WIKILINK",
+			"en": 403,
+			"entityName": "넥센_히어로즈",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 422,
+			"eType": "WIKILINK",
+			"en": 429,
+			"entityName": "현대_유니콘스",
+			"is_target": true,
+			"surface": "현대_유니콘스",
+			"coref_index": 591,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 453,
+			"eType": "WIKILINK",
+			"en": 460,
+			"entityName": "넥센_히어로즈",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 18,
+			"ne_type": "ORGANIZATION",
+			"st": 477,
+			"eType": "WIKILINK",
+			"en": 484,
+			"entityName": "넥센_히어로즈",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 19,
+			"ne_type": "TIME",
+			"st": 500,
+			"eType": "WIKILINK",
+			"en": 505,
+			"entityName": "2013년",
+			"is_target": false,
+			"surface": "2013년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 506,
+			"eType": "WIKILINK",
+			"en": 512,
+			"entityName": "4월_18일",
+			"is_target": false,
+			"surface": "4월_18일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 21,
+			"ne_type": "ORGANIZATION",
+			"st": 516,
+			"eType": "WIKILINK",
+			"en": 523,
+			"entityName": "NC_다이노스",
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 530,
+			"eType": "WIKILINK",
+			"en": 533,
+			"entityName": "송신영",
+			"is_target": true,
+			"surface": "송신영",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 535,
+			"eType": "WIKILINK",
+			"en": 538,
+			"entityName": "신재영_(야구_선수)",
+			"is_target": true,
+			"surface": "신재영",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 24,
+			"ne_type": "ORGANIZATION",
+			"st": 540,
+			"eType": "WIKILINK",
+			"en": 547,
+			"entityName": "넥센_히어로즈",
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 557,
+			"eType": "WIKILINK",
+			"en": 560,
+			"entityName": "박정준_(1984년)",
+			"is_target": true,
+			"surface": "박정준",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 562,
+			"eType": "WIKILINK",
+			"en": 565,
+			"entityName": "이창섭_(야구_선수)",
+			"is_target": true,
+			"surface": "이창섭",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 577,
+			"eType": "WIKILINK",
+			"en": 584,
+			"entityName": "NC_다이노스",
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ORGANIZATION",
+			"st": 407,
+			"eType": "NEW",
+			"en": 409,
+			"entityName": "",
+			"is_target": true,
+			"surface": "상무",
+			"coref_index": 594,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"st": 593,
+			"eType": "WIKILINK",
+			"entityName": "NC_다이노스",
+			"en": 600,
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 604,
+			"eType": "WIKILINK",
+			"entityName": "2013년_NC_다이노스_시즌",
+			"en": 612,
+			"is_target": true,
+			"surface": "2013년_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 624,
+			"eType": "WIKILINK",
+			"entityName": "한화_이글스",
+			"en": 626,
+			"is_target": true,
+			"surface": "한화",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 683,
+			"eType": "WIKILINK",
+			"entityName": "NC_다이노스",
+			"en": 690,
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 719,
+			"eType": "WIKILINK",
+			"entityName": "NC_다이노스",
+			"en": 726,
+			"is_target": true,
+			"surface": "NC_다이노스",
+			"coref_index": 593,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 843,
+			"eType": "WIKILINK",
+			"entityName": "이상호_(1989년)",
+			"en": 846,
+			"is_target": true,
+			"surface": "이상호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "PERSON",
+			"st": 728,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 734,
+			"is_target": true,
+			"surface": "주전_2루수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 871,
+			"eType": "WIKILINK",
+			"entityName": "2014년_NC_다이노스_시즌",
+			"en": 879,
+			"is_target": true,
+			"surface": "2014년_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 37,
+			"ne_type": "PERSON",
+			"st": 880,
+			"eType": "WIKILINK",
+			"entityName": "손시헌",
+			"en": 883,
+			"is_target": true,
+			"surface": "손시헌",
+			"coref_index": 595,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 889,
+			"eType": "WIKILINK",
+			"entityName": "박민우",
+			"en": 892,
+			"is_target": true,
+			"surface": "박민우",
+			"coref_index": 596,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "TIME",
+			"st": 930,
+			"eType": "WIKILINK",
+			"entityName": "8월_5일",
+			"en": 935,
+			"is_target": false,
+			"surface": "8월_5일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 40,
+			"ne_type": "ORGANIZATION",
+			"st": 936,
+			"eType": "WIKILINK",
+			"entityName": "롯데_자이언츠",
+			"en": 943,
+			"is_target": true,
+			"surface": "롯데_자이언츠",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 41,
+			"ne_type": "PERSON",
+			"st": 951,
+			"eType": "WIKILINK",
+			"entityName": "손시헌",
+			"en": 954,
+			"is_target": true,
+			"surface": "손시헌",
+			"coref_index": 595,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 42,
+			"ne_type": "PERSON",
+			"st": 956,
+			"eType": "WIKILINK",
+			"entityName": "강민호",
+			"en": 959,
+			"is_target": true,
+			"surface": "강민호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 989,
+			"eType": "WIKILINK",
+			"entityName": "2014년_아시안_게임",
+			"en": 997,
+			"is_target": true,
+			"surface": "인천_아시안게임",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "PERSON",
+			"st": 912,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 917,
+			"is_target": true,
+			"surface": "백업_선수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 946,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 948,
+			"is_target": true,
+			"surface": "경기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 965,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 970,
+			"is_target": true,
+			"surface": "무릎_인대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 974,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 976,
+			"is_target": true,
+			"surface": "부상",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 1006,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1012,
+			"is_target": true,
+			"surface": "주전_유격수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 49,
+			"ne_type": "ORGANIZATION",
+			"st": 1084,
+			"eType": "WIKILINK",
+			"entityName": "넥센_히어로즈",
+			"en": 1091,
+			"is_target": true,
+			"surface": "넥센_히어로즈",
+			"coref_index": 592,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 1146,
+			"eType": "WIKILINK",
+			"entityName": "2014년_한국프로야구_포스트시즌",
+			"en": 1152,
+			"is_target": true,
+			"surface": "준플레이오프",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "TIME",
+			"st": 1198,
+			"eType": "WIKILINK",
+			"entityName": "10월_25일",
+			"en": 1205,
+			"is_target": false,
+			"surface": "10월_25일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 52,
+			"ne_type": "ORGANIZATION",
+			"st": 1206,
+			"eType": "WIKILINK",
+			"entityName": "LG_트윈스",
+			"en": 1212,
+			"is_target": true,
+			"surface": "LG_트윈스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 1234,
+			"eType": "WIKILINK",
+			"entityName": "박민우_(야구_선수)",
+			"en": 1237,
+			"is_target": true,
+			"surface": "박민우",
+			"coref_index": 596,
+			"ancestor": "1-38"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 1244,
+			"eType": "WIKILINK",
+			"entityName": "2루수",
+			"en": 1247,
+			"is_target": true,
+			"surface": "2루수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "EVENT",
+			"st": 1215,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1225,
+			"is_target": true,
+			"surface": "준플레이오프_4차전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 1248,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1252,
+			"is_target": true,
+			"surface": "8번타자",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2069977,2069978,2069979,2069980,2069981,2069982,2069983,2069984,2069985,2069986,2069987,2069988,2069989,2069990,2069991,2069992,2069993,2069994,2069995,2069996,2069997,2069998,2069999,2070000,2070001,2070002",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 343,
+			"ancestor": "-1",
+			"st": 341,
+			"surface": "이로"
+		},
+		{
+			"id": 1,
+			"en": 413,
+			"ancestor": "-1",
+			"st": 412,
+			"surface": "군"
+		},
+		{
+			"id": 2,
+			"en": 416,
+			"ancestor": "-1",
+			"st": 412,
+			"surface": "군 복무"
+		},
+		{
+			"id": 3,
+			"en": 441,
+			"ancestor": "-1",
+			"st": 435,
+			"surface": "이 팀 선수"
+		},
+		{
+			"id": 4,
+			"ancestor": "1-0",
+			"st": 554,
+			"en": 555,
+			"surface": "그",
+			"coref_index": 597
+		},
+		{
+			"id": 5,
+			"en": 565,
+			"ancestor": "-1",
+			"st": 554,
+			"surface": "그와 박정준, 이창섭"
+		}
+	],
+	"plainText": "지석훈 (池碩訓, 1984년_3월_17일 - )은 KBO_리그 NC_다이노스의 내야수이다. 아마추어 시절 서울가동초등학교, 휘문중학교를 거쳐 휘문고등학교에 입학한다. 2학년이던 2001년 제55회 황금사자기 전국고교야구대회 결승전에서 동산고등학교 송은범을 상대로 연타석 홈런을 치면서 대회 최우수선수에 선정된다. 현대_유니콘스 & 넥센_히어로즈 시절 2003년 현대_유니콘스의 2차 1순위 지명을 받아 입단했다. 2007년에는 전반기에 주전 유격수로 발탁되었지만 여름이 되자 타율이 1할 후반에 머무르는등 타격 슬럼프에 빠지게 되었고 타격이 부진하자 수비마저 흔들리면서 7월_29일 2군으로 내려가게 되었다. 이로 인해 주전 유격수 자리를 황재균에게 내주고 말았다. 상무_야구단 시절 2009년 입단하였다. 넥센_히어로즈 복귀 상무에서 군 복무를 마치고 현대_유니콘스 해체 후 이 팀 선수들을 주축으로 창단한 넥센_히어로즈 때도 계속 백업에 머물렀다. 넥센_히어로즈에서 백업으로 활약하던 중, 2013년 4월_18일 당시 NC_다이노스 소속이었던 송신영, 신재영과 넥센_히어로즈 소속이었던 그와 박정준, 이창섭의 2:3 트레이드로 NC_다이노스에 이적하였다. NC_다이노스 시절 2013년_시즌 이적 후 첫 경기인 한화전에서 3타수 2안타 4타점에 호수비로 맹활약하였으나 팀의 패배로 빛이 바랬다. 하지만 트레이드 이후 NC_다이노스의 내야진의 안정과 공격에서도 장타력을 보여 주면서 NC_다이노스의 주전_2루수로 출장하게 되었다. 그러나 전반기에 타율 0.242, 3홈런, 29타점을 기록하였지만 7월부터 극심한 타격부진을 겪으면서 후반기에는 타율 0.176, 6타점으로 크게 부진하였고, 시즌 후반에는 이상호에게 주전 2루수 자리를 위협받기도 하였다. 2014년_시즌 손시헌의 영입과 박민우의 성장에 따라 시즌에서 주로 내야 백업_선수로 활약하였다. 그러다 8월_5일 롯데_자이언츠와의 경기에서 손시헌이 강민호와 부딪혀 무릎_인대 파열 부상으로 1군에서 말소되자 인천_아시안게임 휴식기 전까지 주전_유격수로 출장하였다. 2014 시즌 114경기 2할대 타율, 26득점, 58안타, 6홈런, 34타점을 기록하였다. 특히, 전 소속팀인 넥센_히어로즈를 상대로 15경기 타율 0.419 10득점 18안타 2홈런 12타점으로 강한 모습을 보여주었다. 준플레이오프 준플레이오프 4경기에서 출장하였다. 1~3차전에서는 주로 대수비로 출전하였지만, 10월_25일 LG_트윈스와의 준플레이오프_4차전에서는 처음으로 박민우를 대신하여 2루수 8번타자로 출장하였다. ",
+	"docID": "454069"
+}

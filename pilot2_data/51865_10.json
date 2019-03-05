@@ -1,0 +1,192 @@
+{
+	"docID": "51865",
+	"globalSID": "481727,481728",
+	"pronouns": [],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"entityName": "유럽지역",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 34,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유럽지역"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "포메라니아_유럽지역",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 51,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포메라니아_유럽지역"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Region",
+				"HistoricalRegion"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"entityName": "포어포메른",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 62,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포어포메른"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"entityName": "우커마르크",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 69,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "우커마르크"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 71,
+			"eType": "ELU",
+			"entityName": "폴란드",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 74,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "폴란드",
+			"coref_index": 662
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 92,
+			"eType": "WIKILINK",
+			"entityName": "스웨덴",
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 95,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스웨덴"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 97,
+			"eType": "WIKILINK",
+			"entityName": "스코네",
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 100,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스코네"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 11,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "포메라니아_일부_지역"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 18,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "주변_지방"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 25,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1995년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 55,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 663
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 86,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "자호드뇨포모르스키에"
+		}
+	],
+	"plainText": "포메라니아_일부_지역과 주변_지방은 1995년 이래로 유럽지역이 되었다. 포메라니아_유럽지역은 독일의 포어포메른과 우커마르크, 폴란드의 자호드뇨포모르스키에, 그리고 스웨덴의 스코네로 이루어져 있다."
+}

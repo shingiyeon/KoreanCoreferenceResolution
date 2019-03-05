@@ -1,0 +1,305 @@
+{
+	"docID": "816885",
+	"globalSID": "2846261,2846262,2846263,2846264",
+	"pronouns": [
+		{
+			"st": 68,
+			"coref_index": 989,
+			"id": 0,
+			"en": 69,
+			"ancestor": "6-0",
+			"surface": "그"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 6,
+			"ancestor": "1-5",
+			"coref_index": 989,
+			"surface": "코시치우슈코",
+			"entityName": "타데우시_코시치우슈코"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 13,
+			"ancestor": "",
+			"surface": "1776년",
+			"entityName": "1776년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "5-0",
+			"coref_index": 991,
+			"surface": "대륙군",
+			"entityName": "대륙군"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 55,
+			"ancestor": "-1",
+			"surface": "웨스트포인트",
+			"entityName": "웨스트포인트_(뉴욕_주)"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 82,
+			"ancestor": "",
+			"surface": "1795년",
+			"entityName": "1795년"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 83,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 86,
+			"ancestor": "4-3",
+			"coref_index": 987,
+			"surface": "폴란드",
+			"entityName": "폴란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 96,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 99,
+			"ancestor": "1-10",
+			"coref_index": 992,
+			"surface": "러시아",
+			"entityName": "러시아"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 124,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 130,
+			"ancestor": "6-0",
+			"coref_index": 989,
+			"surface": "코시치우슈코",
+			"entityName": "타데우시_코시치우슈코"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 21,
+			"ancestor": "-1",
+			"surface": "복무",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "사관",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 39,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "새러토거",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "EVENT",
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "승리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "EVENT",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "전투",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 71,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "EVENT",
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "귀국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "EVENT",
+			"en": 90,
+			"ancestor": "-1",
+			"surface": "독립",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "EVENT",
+			"en": 103,
+			"ancestor": "-1",
+			"surface": "대항",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 118,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 122,
+			"ancestor": "1-4",
+			"coref_index": 988,
+			"surface": "푸와스키",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 132,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 134,
+			"ancestor": "-1",
+			"surface": "동상",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 140,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "LOCATION",
+			"en": 143,
+			"ancestor": "-1",
+			"surface": "워싱턴",
+			"entityName": ""
+		}
+	],
+	"plainText": "코시치우슈코는 1776년 대륙군에 복무한 프로적 군사적 사관이었으며, 새러토거의 전투와 웨스트포인트에서 승리를 거두었다. 그는 귀국 후에 1795년 폴란드의 독립을 위하여 러시아에 대항하였으나 실패하고 말았다. 푸와스키와 코시치우슈코의 동상들이 둘다 워싱턴 D. C.에 세워졌다."
+}

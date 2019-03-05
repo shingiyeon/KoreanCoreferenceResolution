@@ -1,0 +1,137 @@
+{
+	"docID": "514085",
+	"globalSID": "2217020,2217021,2217022",
+	"pronouns": [
+		{
+			"st": 121,
+			"coref_index": 650,
+			"id": 0,
+			"en": 122,
+			"ancestor": "9-4",
+			"surface": "그"
+		},
+		{
+			"en": 131,
+			"ancestor": "-1",
+			"surface": "그의 뛰어난 기량을",
+			"id": 1,
+			"st": 121
+		},
+		{
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "그의 뛰어난 기량을 익히 알고 있었기 때문에",
+			"id": 2,
+			"st": 121
+		},
+		{
+			"st": 163,
+			"coref_index": 644,
+			"id": 3,
+			"en": 168,
+			"ancestor": "8-15",
+			"surface": "쇼운 자신"
+		},
+		{
+			"en": 191,
+			"ancestor": "-1",
+			"surface": "그러나, 쇼운 자신에게 아버지 같은 존재인 도세쓰가 몇번이고",
+			"id": 4,
+			"st": 158
+		}
+	],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"entityName": "1581년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1581년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"entityName": "다치바나_무네시게",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 58,
+			"ancestor": "9-4",
+			"is_target": true,
+			"surface": "다치바나_무네시게",
+			"coref_index": 650
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 171,
+			"eType": "ELU",
+			"entityName": "아버지",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 174,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "아버지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 30,
+			"ancestor": "8-16",
+			"is_target": true,
+			"surface": "도세쓰",
+			"coref_index": 643
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 41,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "무네토라",
+			"coref_index": 650
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 163,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 165,
+			"ancestor": "8-15",
+			"is_target": true,
+			"surface": "쇼운",
+			"coref_index": 644
+		}
+	],
+	"plainText": "덴쇼 9년(1581년, 아들을 얻지 못하고 있던 도세쓰로부터 적남 무네토라(統虎, 후의 다치바나_무네시게)를 양자로 보내어 다치바나 가문을 잇게 해달라는 청을 받는다. 무네토라는 다카하시 가문의 중요한 후계자인데다, 그의 뛰어난 기량을 익히 알고 있었기 때문에 처음에는 거절하였다. 그러나, 쇼운 자신에게 아버지 같은 존재인 도세쓰가 몇번이고 거듭하여 간청했기 때문에 결국에는 받아들이게 되었다."
+}

@@ -1,0 +1,74 @@
+{
+	"docID": "626991",
+	"globalSID": "2450136",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "-1",
+			"surface": "고촉통",
+			"entityName": "고촉통"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 34,
+			"ancestor": "-1",
+			"coref_index": 745,
+			"surface": "싱가포르",
+			"entityName": "싱가포르"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 39,
+			"ancestor": "-1",
+			"surface": "정치가",
+			"entityName": "정치가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 24,
+			"ancestor": "",
+			"surface": "1941년_5월_21일",
+			"entityName": ""
+		}
+	],
+	"plainText": "고촉통(, , , , 1941년_5월_21일 ~ )은 싱가포르의 정치가이다."
+}

@@ -1,0 +1,23 @@
+{
+	"docID": "136893",
+	"globalSID": "970947",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "생애",
+			"entityName": ""
+		}
+	],
+	"plainText": "생애"
+}

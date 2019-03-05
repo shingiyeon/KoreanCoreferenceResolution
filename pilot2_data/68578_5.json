@@ -1,0 +1,198 @@
+{
+	"docID": "68578",
+	"globalSID": "564965,564966,564967,564968",
+	"pronouns": [
+		{
+			"st": 65,
+			"coref_index": 812,
+			"id": 0,
+			"en": 67,
+			"ancestor": "1-6",
+			"surface": "자신"
+		},
+		{
+			"en": 75,
+			"st": 65,
+			"surface": "자신의 처남과 사돈",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 2,
+			"ancestor": "4-5",
+			"coref_index": 811,
+			"surface": "조선",
+			"entityName": "조선"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 3,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "4-2",
+			"coref_index": 815,
+			"surface": "태조_이성계",
+			"entityName": "조선_태조"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 18,
+			"ancestor": "-1",
+			"coref_index": 818,
+			"surface": "신의왕후_한씨",
+			"entityName": "신의왕후"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "민제",
+			"entityName": "민제_(조선)"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "원경왕후",
+			"entityName": "원경왕후"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 164,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 166,
+			"ancestor": "-1",
+			"surface": "탐라",
+			"entityName": "탐라국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 99,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 101,
+			"ancestor": "5-1",
+			"coref_index": 815,
+			"surface": "태조",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 126,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 128,
+			"ancestor": "5-0",
+			"coref_index": 811,
+			"surface": "조선",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 142,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 144,
+			"ancestor": "5-0",
+			"coref_index": 811,
+			"surface": "조선",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 163,
+			"ancestor": "",
+			"surface": "1402년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 192,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 194,
+			"ancestor": "5-0",
+			"coref_index": 811,
+			"surface": "조선",
+			"entityName": ""
+		}
+	],
+	"plainText": "조선 태조_이성계와 신의왕후_한씨의 다섯 번째 아들이며, 비는 민제의 딸 원경왕후(元敬王后)이다. 공신들을 추방하고 자신의 처남과 사돈 등의 외척을 숙청하여 왕권을 강화시켰다. 태조 이후 아직 왕권이 제대로 갖춰져 있지 않던 조선의 기틀을 다져서 사실상 조선의 창업 군주로 불린다. 1402년 탐라 성주가 인부(印符: 朱記)를 왕에게 반납하여 조선에 완전 병합되었다."
+}

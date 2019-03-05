@@ -1,0 +1,1586 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 4,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 8,
+			"eType": "WIKILINK",
+			"entityName": "센고쿠_시대",
+			"en": 14,
+			"is_target": true,
+			"surface": "센고쿠_시대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 16,
+			"eType": "WIKILINK",
+			"entityName": "기이_국",
+			"en": 20,
+			"is_target": true,
+			"surface": "기이_국",
+			"coref_index": 667,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "와카야마_시",
+			"en": 47,
+			"is_target": true,
+			"surface": "와카야마_시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 69,
+			"eType": "WIKILINK",
+			"entityName": "고쿠진",
+			"en": 72,
+			"is_target": true,
+			"surface": "고쿠진",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 76,
+			"eType": "WIKILINK",
+			"entityName": "지토",
+			"en": 78,
+			"is_target": true,
+			"surface": "지토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ETC",
+			"st": 86,
+			"eType": "WIKILINK",
+			"entityName": "잇키",
+			"en": 88,
+			"is_target": true,
+			"surface": "잇키",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 112,
+			"eType": "WIKILINK",
+			"entityName": "16세기",
+			"en": 116,
+			"is_target": true,
+			"surface": "16세기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 138,
+			"eType": "WIKILINK",
+			"entityName": "철포",
+			"en": 140,
+			"is_target": true,
+			"surface": "철포",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 227,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 231,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"st": 259,
+			"eType": "ELU",
+			"entityName": "스즈키",
+			"en": 262,
+			"is_target": true,
+			"surface": "스즈키",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 247,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 251,
+			"is_target": true,
+			"surface": "쓰치바시",
+			"coref_index": 677,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 280,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 284,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 286,
+			"eType": "WIKILINK",
+			"entityName": "15세기",
+			"en": 290,
+			"is_target": true,
+			"surface": "15세기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 302,
+			"eType": "WIKILINK",
+			"entityName": "오닌의_난",
+			"en": 307,
+			"is_target": true,
+			"surface": "오닌의_난",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 311,
+			"eType": "WIKILINK",
+			"entityName": "기이_국",
+			"en": 315,
+			"is_target": true,
+			"surface": "기이_국",
+			"coref_index": 667,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 317,
+			"eType": "WIKILINK",
+			"entityName": "가와치_국",
+			"en": 322,
+			"is_target": true,
+			"surface": "가와치_국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 324,
+			"eType": "WIKILINK",
+			"entityName": "슈고_다이묘",
+			"en": 330,
+			"is_target": true,
+			"surface": "슈고_다이묘",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 332,
+			"eType": "WIKILINK",
+			"entityName": "하타케야마_씨",
+			"en": 338,
+			"is_target": true,
+			"surface": "하타케야마씨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 348,
+			"eType": "WIKILINK",
+			"entityName": "긴키_지방",
+			"en": 353,
+			"is_target": true,
+			"surface": "긴키_지방",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"Place",
+				"BodyOfWater",
+				"Stream",
+				"NaturalPlace"
+			],
+			"id": 20,
+			"ne_type": "LOCATION",
+			"st": 383,
+			"eType": "WIKILINK",
+			"entityName": "기노_강",
+			"en": 387,
+			"is_target": true,
+			"surface": "기노_강",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 21,
+			"ne_type": "LOCATION",
+			"st": 437,
+			"eType": "WIKILINK",
+			"entityName": "다네가_섬",
+			"en": 442,
+			"is_target": true,
+			"surface": "다네가시마",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 458,
+			"eType": "WIKILINK",
+			"entityName": "네고로슈",
+			"en": 462,
+			"is_target": true,
+			"surface": "네고로슈",
+			"coref_index": 670,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 467,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 471,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 541,
+			"eType": "WIKILINK",
+			"entityName": "겐키",
+			"en": 543,
+			"is_target": true,
+			"surface": "겐키",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"id": 25,
+			"ne_type": "TIME",
+			"st": 547,
+			"eType": "WIKILINK",
+			"entityName": "1570년",
+			"en": 552,
+			"is_target": false,
+			"surface": "1570년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Noble"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 555,
+			"eType": "WIKILINK",
+			"entityName": "오다_노부나가",
+			"en": 562,
+			"is_target": true,
+			"surface": "오다_노부나가",
+			"coref_index": 671,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 564,
+			"eType": "WIKILINK",
+			"entityName": "미요시_산닌슈",
+			"en": 571,
+			"is_target": true,
+			"surface": "미요시_산닌슈",
+			"coref_index": 668,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 576,
+			"eType": "WIKILINK",
+			"entityName": "노다_성·후쿠시마_성_전투",
+			"en": 590,
+			"is_target": true,
+			"surface": "노다_성·후쿠시마_성_전투",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 597,
+			"eType": "WIKILINK",
+			"entityName": "스즈키_마고이치",
+			"en": 605,
+			"is_target": true,
+			"surface": "스즈키_마고이치",
+			"coref_index": 672,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 609,
+			"eType": "ELU",
+			"entityName": "지도력",
+			"en": 612,
+			"is_target": true,
+			"surface": "지도자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 631,
+			"eType": "ELU",
+			"entityName": "미요시_산닌슈",
+			"en": 638,
+			"is_target": true,
+			"surface": "미요시_산닌슈",
+			"coref_index": 668,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 649,
+			"eType": "WIKILINK",
+			"entityName": "아시카가_막부",
+			"en": 656,
+			"is_target": true,
+			"surface": "아시카가_막부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 658,
+			"eType": "WIKILINK",
+			"entityName": "쇼군",
+			"en": 660,
+			"is_target": true,
+			"surface": "쇼군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 661,
+			"eType": "WIKILINK",
+			"entityName": "아시카가_요시아키",
+			"en": 670,
+			"is_target": true,
+			"surface": "아시카가_요시아키",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 679,
+			"eType": "WIKILINK",
+			"entityName": "하타케야마_아키타카",
+			"en": 689,
+			"is_target": true,
+			"surface": "하타케야마_아키타카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 691,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 695,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 762,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 766,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Place",
+				"MilitaryStructure",
+				"Place"
+			],
+			"id": 38,
+			"ne_type": "LOCATION",
+			"st": 786,
+			"eType": "WIKILINK",
+			"entityName": "이시야마_혼간지",
+			"en": 794,
+			"is_target": true,
+			"surface": "이시야마_혼간지",
+			"coref_index": 669,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 801,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 805,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Place",
+				"MilitaryStructure",
+				"Place"
+			],
+			"id": 40,
+			"ne_type": "LOCATION",
+			"st": 814,
+			"eType": "ELU",
+			"entityName": "이시야마_혼간지",
+			"en": 822,
+			"is_target": true,
+			"surface": "이시야마_혼간지",
+			"coref_index": 669,
+			"ancestor": "1-38"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 870,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 874,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 920,
+			"eType": "WIKILINK",
+			"entityName": "이시야마_전투",
+			"en": 927,
+			"is_target": true,
+			"surface": "이시야마_전투",
+			"coref_index": 673,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "PERSON",
+			"st": 696,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 700,
+			"is_target": true,
+			"surface": "네고로슈",
+			"coref_index": 670,
+			"ancestor": "1-22"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 947,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 951,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 967,
+			"eType": "WIKILINK",
+			"entityName": "덴쇼",
+			"en": 969,
+			"is_target": true,
+			"surface": "덴쇼",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 46,
+			"ne_type": "TIME",
+			"st": 973,
+			"eType": "WIKILINK",
+			"entityName": "1577년",
+			"en": 978,
+			"is_target": false,
+			"surface": "1577년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 998,
+			"eType": "WIKILINK",
+			"entityName": "이즈미_국",
+			"en": 1003,
+			"is_target": true,
+			"surface": "이즈미_국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 1004,
+			"eType": "WIKILINK",
+			"entityName": "가와치_국",
+			"en": 1009,
+			"is_target": true,
+			"surface": "가와치_국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "ETC",
+			"st": 1025,
+			"eType": "WIKILINK",
+			"entityName": "기슈_정벌",
+			"en": 1030,
+			"is_target": true,
+			"surface": "기슈_정벌",
+			"coref_index": 678,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 1100,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 1104,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-44"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 929,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 933,
+			"is_target": true,
+			"surface": "노부나가",
+			"coref_index": 671,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 981,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 985,
+			"is_target": true,
+			"surface": "노부나가",
+			"coref_index": 671,
+			"ancestor": "1-51"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 1158,
+			"eType": "WIKILINK",
+			"en": 1160,
+			"entityName": "겐뇨",
+			"is_target": true,
+			"surface": "겐뇨",
+			"coref_index": 674,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Place",
+				"MilitaryStructure",
+				"Place"
+			],
+			"id": 54,
+			"ne_type": "LOCATION",
+			"st": 1162,
+			"eType": "ELU",
+			"en": 1170,
+			"entityName": "이시야마_혼간지",
+			"is_target": true,
+			"surface": "이시야마_혼간지",
+			"coref_index": 669,
+			"ancestor": "1-38"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 1192,
+			"eType": "ELU",
+			"en": 1196,
+			"entityName": "사이카슈",
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 1202,
+			"eType": "ELU",
+			"en": 1205,
+			"entityName": "싸이카",
+			"is_target": true,
+			"surface": "사이카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 1228,
+			"eType": "WIKILINK",
+			"en": 1238,
+			"entityName": "하타케야마_마사나오",
+			"is_target": true,
+			"surface": "하타케야마_마사나오",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 1324,
+			"eType": "ELU",
+			"en": 1332,
+			"entityName": "스즈키_마고이치",
+			"is_target": true,
+			"surface": "스즈키_마고이치",
+			"coref_index": 672,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 59,
+			"ne_type": "ETC",
+			"st": 1358,
+			"eType": "WIKILINK",
+			"en": 1364,
+			"entityName": "혼노지의_변",
+			"is_target": true,
+			"surface": "혼노지의_변",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "ETC",
+			"st": 1386,
+			"eType": "WIKILINK",
+			"en": 1394,
+			"entityName": "하시바_히데요시",
+			"is_target": true,
+			"surface": "하시바_히데요시",
+			"coref_index": 679,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "TIME",
+			"st": 1136,
+			"eType": "NEW",
+			"en": 1148,
+			"entityName": "",
+			"is_target": false,
+			"surface": "덴쇼_8년(1580년)",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "EVENT",
+			"st": 1178,
+			"eType": "NEW",
+			"en": 1185,
+			"entityName": "",
+			"is_target": true,
+			"surface": "이시야마_전투",
+			"coref_index": 673,
+			"ancestor": "1-42"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "LOCATION",
+			"st": 1207,
+			"eType": "NEW",
+			"en": 1216,
+			"entityName": "",
+			"is_target": true,
+			"surface": "사기노모리[鷺森]",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "PERSON",
+			"st": 1218,
+			"eType": "NEW",
+			"en": 1220,
+			"entityName": "",
+			"is_target": true,
+			"surface": "겐뇨",
+			"coref_index": 674,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "PERSON",
+			"st": 1244,
+			"eType": "NEW",
+			"en": 1248,
+			"entityName": "",
+			"is_target": true,
+			"surface": "노부나가",
+			"coref_index": 671,
+			"ancestor": "1-51"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ORGANIZATION",
+			"st": 1272,
+			"eType": "NEW",
+			"en": 1276,
+			"entityName": "",
+			"is_target": true,
+			"surface": "親오다파",
+			"coref_index": 675,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ORGANIZATION",
+			"st": 1278,
+			"eType": "NEW",
+			"en": 1282,
+			"entityName": "",
+			"is_target": true,
+			"surface": "反오다파",
+			"coref_index": 676,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "TIME",
+			"st": 1302,
+			"eType": "NEW",
+			"en": 1315,
+			"entityName": "",
+			"is_target": false,
+			"surface": "덴쇼_10년(1582년)",
+			"coref_index": 680,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ORGANIZATION",
+			"st": 1318,
+			"eType": "NEW",
+			"en": 1322,
+			"entityName": "",
+			"is_target": true,
+			"surface": "親오다파",
+			"coref_index": 675,
+			"ancestor": "1-66"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "ORGANIZATION",
+			"st": 1334,
+			"eType": "NEW",
+			"en": 1337,
+			"entityName": "",
+			"is_target": true,
+			"surface": "반대파",
+			"coref_index": 676,
+			"ancestor": "1-67"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "PERSON",
+			"st": 1339,
+			"eType": "NEW",
+			"en": 1344,
+			"entityName": "",
+			"is_target": true,
+			"surface": "쓰치바시씨",
+			"coref_index": 677,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "PERSON",
+			"st": 1367,
+			"eType": "NEW",
+			"en": 1371,
+			"entityName": "",
+			"is_target": true,
+			"surface": "노부나가",
+			"coref_index": 671,
+			"ancestor": "1-65"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "EVENT",
+			"st": 1373,
+			"eType": "NEW",
+			"en": 1377,
+			"entityName": "",
+			"is_target": true,
+			"surface": "비명횡사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "PERSON",
+			"st": 1380,
+			"eType": "NEW",
+			"en": 1384,
+			"entityName": "",
+			"is_target": true,
+			"surface": "마고이치",
+			"coref_index": 672,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "ORGANIZATION",
+			"st": 1403,
+			"eType": "NEW",
+			"en": 1408,
+			"entityName": "",
+			"is_target": true,
+			"surface": "쓰치바시파",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "ORGANIZATION",
+			"st": 1150,
+			"eType": "NEW",
+			"en": 1153,
+			"entityName": "",
+			"is_target": true,
+			"surface": "혼간지",
+			"coref_index": 669,
+			"ancestor": "1-38"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "PERSON",
+			"st": 1155,
+			"eType": "NEW",
+			"en": 1157,
+			"entityName": "",
+			"is_target": true,
+			"surface": "문주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "EVENT",
+			"st": 1173,
+			"eType": "NEW",
+			"en": 1175,
+			"entityName": "",
+			"is_target": true,
+			"surface": "철수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "EVENT",
+			"st": 1250,
+			"eType": "NEW",
+			"en": 1252,
+			"entityName": "",
+			"is_target": true,
+			"surface": "대항",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1255,
+			"eType": "NEW",
+			"en": 1257,
+			"entityName": "",
+			"is_target": true,
+			"surface": "자세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "ETC",
+			"st": 1284,
+			"eType": "NEW",
+			"en": 1286,
+			"entityName": "",
+			"is_target": true,
+			"surface": "양분",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "EVENT",
+			"st": 1289,
+			"eType": "NEW",
+			"en": 1291,
+			"entityName": "",
+			"is_target": true,
+			"surface": "내분",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "EVENT",
+			"st": 1398,
+			"eType": "NEW",
+			"en": 1400,
+			"entityName": "",
+			"is_target": true,
+			"surface": "도망",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "ETC",
+			"st": 1410,
+			"eType": "NEW",
+			"en": 1413,
+			"entityName": "",
+			"is_target": true,
+			"surface": "주도권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "EVENT",
+			"st": 1415,
+			"eType": "NEW",
+			"en": 1417,
+			"entityName": "",
+			"is_target": true,
+			"surface": "장악",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "EVENT",
+			"st": 1187,
+			"eType": "NEW",
+			"en": 1189,
+			"entityName": "",
+			"is_target": true,
+			"surface": "종결",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "PERSON",
+			"st": 1198,
+			"eType": "NEW",
+			"en": 1200,
+			"entityName": "",
+			"is_target": true,
+			"surface": "문도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 88,
+			"ne_type": "LOCATION",
+			"st": 1459,
+			"eType": "WIKILINK",
+			"entityName": "도요토미_정권",
+			"en": 1466,
+			"is_target": true,
+			"surface": "도요토미_정권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "ETC",
+			"st": 1472,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 1476,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 90,
+			"ne_type": "PERSON",
+			"st": 1500,
+			"eType": "WIKILINK",
+			"entityName": "오다_노부카쓰",
+			"en": 1507,
+			"is_target": true,
+			"surface": "오다_노부카쓰",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 91,
+			"ne_type": "PERSON",
+			"st": 1508,
+			"eType": "WIKILINK",
+			"entityName": "도쿠가와_이에야스",
+			"en": 1517,
+			"is_target": true,
+			"surface": "도쿠가와_이에야스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 92,
+			"ne_type": "ETC",
+			"st": 1526,
+			"eType": "WIKILINK",
+			"entityName": "고마키·나가쿠테_전투",
+			"en": 1537,
+			"is_target": true,
+			"surface": "고마키·나가쿠테_전투",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Castle",
+				"ArchitecturalStructure",
+				"Building",
+				"Place",
+				"Place"
+			],
+			"id": 93,
+			"ne_type": "LOCATION",
+			"st": 1552,
+			"eType": "WIKILINK",
+			"entityName": "오사카_성",
+			"en": 1557,
+			"is_target": true,
+			"surface": "오사카_성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "ETC",
+			"st": 1568,
+			"eType": "WIKILINK",
+			"entityName": "오와리_국",
+			"en": 1571,
+			"is_target": true,
+			"surface": "오와리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 95,
+			"ne_type": "TIME",
+			"st": 1601,
+			"eType": "WIKILINK",
+			"entityName": "1585년",
+			"en": 1606,
+			"is_target": false,
+			"surface": "1585년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "ETC",
+			"st": 1637,
+			"eType": "WIKILINK",
+			"entityName": "기슈_정벌",
+			"en": 1642,
+			"is_target": true,
+			"surface": "기슈_정벌",
+			"coref_index": 678,
+			"ancestor": "1-49"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 97,
+			"ne_type": "ETC",
+			"st": 1671,
+			"eType": "ELU",
+			"entityName": "사이카슈",
+			"en": 1675,
+			"is_target": true,
+			"surface": "사이카슈",
+			"coref_index": 666,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 98,
+			"ne_type": "PERSON",
+			"st": 1494,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1498,
+			"is_target": true,
+			"surface": "히데요시",
+			"coref_index": 679,
+			"ancestor": "1-60"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 99,
+			"ne_type": "LOCATION",
+			"st": 1655,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1664,
+			"is_target": true,
+			"surface": "네고로지[根?寺]",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2228345,2228346,2228347,2228348,2228349,2228350,2228351,2228352,2228353,2228354,2228355,2228356,2228357,2228358,2228359,2228360,2228361,2228362,2228363,2228364",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 60,
+			"surface": "현 와카야마_시 사이카자키[雑賀崎])를",
+			"st": 39,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 733,
+			"ancestor": "-1",
+			"st": 729,
+			"surface": "그 뒤,"
+		},
+		{
+			"id": 2,
+			"en": 884,
+			"ancestor": "-1",
+			"st": 870,
+			"surface": "사이카슈의 철포 기술과 양"
+		},
+		{
+			"id": 3,
+			"en": 895,
+			"ancestor": "-1",
+			"st": 892,
+			"surface": "한 번"
+		},
+		{
+			"id": 4,
+			"en": 904,
+			"ancestor": "-1",
+			"st": 897,
+			"surface": "노부나가 자신"
+		},
+		{
+			"id": 5,
+			"ancestor": "1-51",
+			"st": 981,
+			"en": 988,
+			"surface": "노부나가 자신",
+			"coref_index": 671
+		},
+		{
+			"id": 6,
+			"ancestor": "1-49",
+			"st": 1057,
+			"en": 1061,
+			"surface": "이 전투",
+			"coref_index": 678
+		},
+		{
+			"id": 7,
+			"en": 1271,
+			"ancestor": "-1",
+			"st": 1268,
+			"surface": "그 후"
+		},
+		{
+			"id": 8,
+			"ancestor": "1-68",
+			"st": 1353,
+			"en": 1357,
+			"surface": "같은 해",
+			"coref_index": 680
+		},
+		{
+			"id": 9,
+			"en": 1426,
+			"surface": "그 후에",
+			"st": 1422,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "사이카슈()는 센고쿠_시대에 기이_국 북서부 사이카장원[雑賀荘] 일대(현 와카야마_시 사이카자키[雑賀崎])를 근거지로 하는 고쿠진·토호·지토 들이 결합한 잇키 집단이다. 사이카토[雑賀党]라고도 한다. 16세기 당시로서는 아주 많은 수인 수천 정의 철포로 무장하여 매우 강력한 군사력을 가지고 용병집단으로서 활약하였다. 또한 해운업과 무역에도 손댔으므로 정확히는 상인집단이라고 보는 쪽이 적합할 수도 있다. 사이카슈를 구성한 주요한 일족으로는 쓰치바시씨[土橋氏]와 스즈키씨[鈴木氏] 등이 알려져 있다. 사이카슈는 15세기부터 역사에 나타나, 오닌의_난 이후 기이_국과 가와치_국의 슈고_다이묘인 하타케야마씨의 요청에 응하여 긴키_지방의 각지를 전전하면서 용병집단으로서 점차 성장하였다. 기노_강 하구를 장악하여 해운·무역에도 종사하면서 독자성을 띤 수군도 보유했던 것으로 여겨진다. 다네가시마에 철포의 제조법이 전래되자 네고로슈에 이어 사이카슈도 철포를 재빨리 입수하여 뛰어난 사수를 양성하면서 철포를 유효하게 사용하는 전술을 고안하여 뛰어난 군사집단으로 성장하였다. 겐키 원년(1570년)에 오다_노부나가와 미요시_산닌슈 사이에 노다_성·후쿠시마_성_전투가 일어나자 스즈키_마고이치 등을 지도자로 하는 사이카슈는 용병 부대로서 미요시_산닌슈軍에 가담한 일변, 아시카가_막부의 쇼군 아시카가_요시아키의 요청에 응한 하타케야마_아키타카가 사이카슈·네고로슈 등을 원군으로 보내 오다 노부나가軍에 가세하였다. 그 뒤, 대규모 총격전·공성전이 반복되면서 전투가 확대되자 사이카슈끼리 싸웠을 가능성도 있다. 그러나 이시야마_혼간지가 참전하자 사이카슈는 일치단결하여 이시야마_혼간지에 가세하여 오다軍과 싸웠다. 철포를 꽤나 유효하게 활용하였다는 소리를 듣는 오다軍도 사이카슈의 철포 기술과 양에는 고전하여 한 번은 노부나가 자신도 부상한 대패하기도 하였다(이시야마_전투. 노부나가는 혼간지를 쓰러트리고자 사이카슈를 먼저 제압하려고 생각하여 덴쇼 5년(1577년)에 노부나가 자신이 대군을 이끌고 이즈미_국·가와치_국에서 기이로 침공하여(제1차 기슈_정벌, 사이카슈에게 종속의 맹세를 받아냈다. 그러나 이 전투에서 오다軍은 전력을 막대히 끽휴했을 뿐만 아니라 복속하게 했을 터인 사이카슈도 금방 자유로운 활동을 재개하여 혼간지 측에 가담했다. 덴쇼_8년(1580년)에 혼간지의 문주 겐뇨가 이시야마_혼간지에서 철수하여 이시야마_전투가 종결되자 사이카슈의 문도는 사이카의 사기노모리[鷺森]에 겐뇨를 맞아들이고 하타케야마_마사나오를 받들고 노부나가에 대항하는 자세를 보였다. 그러나 그 후 親오다파와 反오다파로 양분되어 내분이 일어나게 된다. 덴쇼_10년(1582년)에는 親오다파의 스즈키_마고이치가 반대파인 쓰치바시씨를 쓰러트렸으나 같은 해 혼노지의_변으로 노부나가가 비명횡사하자 마고이치는 하시바_히데요시에게로 도망하고 쓰치바시파가 주도권을 장악하였다. 그 후에 중앙집권화를 진전하게 하여 토호의 지역 지배를 해체하려는 도요토미_정권의 동향에 사이카슈는 일관되게 반발을 지속하였다. 히데요시와 오다_노부카쓰·도쿠가와_이에야스 사이에 벌어진 고마키·나가쿠테_전투에서는 네고로슈와 연합하여 오사카_성 주변까지 출병하여 오와리로 출진한 히데요시의 배후를 위협하였다. 덴쇼 13년(1585년), 이에야스와 화해한 히데요시가 기이로 침습해(제2차 기슈_정벌), 네고로슈의 본거지 네고로지[根?寺]를 불사르고 사이카슈도 괴멸하게 했다. ",
+	"docID": "520457"
+}

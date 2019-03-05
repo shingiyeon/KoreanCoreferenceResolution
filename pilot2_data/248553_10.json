@@ -1,0 +1,360 @@
+{
+	"docID": "248553",
+	"globalSID": "1423816,1423817,1423818,1423819,1423820,1423821,1423822,1423823",
+	"pronouns": [
+		{
+			"st": 49,
+			"coref_index": 348,
+			"id": 0,
+			"en": 50,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "이 홈런",
+			"id": 1,
+			"st": 88
+		},
+		{
+			"st": 133,
+			"coref_index": 349,
+			"id": 2,
+			"en": 135,
+			"ancestor": "10-15",
+			"surface": "이날"
+		},
+		{
+			"en": 138,
+			"ancestor": "-1",
+			"surface": "이날 경기",
+			"id": 3,
+			"st": 133
+		},
+		{
+			"st": 364,
+			"coref_index": 348,
+			"id": 4,
+			"en": 365,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 372,
+			"ancestor": "-1",
+			"surface": "그의 2점 홈런",
+			"id": 5,
+			"st": 364
+		},
+		{
+			"en": 417,
+			"ancestor": "-1",
+			"surface": "이 경기",
+			"id": 6,
+			"st": 413
+		},
+		{
+			"en": 423,
+			"ancestor": "-1",
+			"surface": "그 당시",
+			"id": 7,
+			"st": 419
+		},
+		{
+			"st": 464,
+			"coref_index": 349,
+			"id": 8,
+			"en": 466,
+			"ancestor": "10-15",
+			"surface": "이날"
+		}
+	],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"entityName": "롯데_자이언츠",
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 18,
+			"ancestor": "6-0",
+			"is_target": true,
+			"surface": "롯데_자이언츠",
+			"coref_index": 341
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"entityName": "LG_트윈스",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 45,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "LG_트윈스",
+			"coref_index": 347
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"entityName": "투수",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 59,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "투수"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 60,
+			"eType": "WIKILINK",
+			"entityName": "신윤호",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 63,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "신윤호"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"entityName": "롯데_자이언츠",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 101,
+			"ancestor": "10-0",
+			"is_target": true,
+			"surface": "롯데_자이언츠",
+			"coref_index": 341
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 124,
+			"eType": "WIKILINK",
+			"entityName": "롯데_자이언츠",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 131,
+			"ancestor": "10-4",
+			"is_target": true,
+			"surface": "롯데_자이언츠",
+			"coref_index": 341
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 144,
+			"eType": "WIKILINK",
+			"entityName": "투수",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 146,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "투수"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 148,
+			"eType": "WIKILINK",
+			"entityName": "장원준_(야구_선수)",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 151,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "장원준"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 209,
+			"eType": "WIKILINK",
+			"entityName": "투수",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 211,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "투수"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 212,
+			"eType": "WIKILINK",
+			"entityName": "장문석",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 215,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "장문석"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 257,
+			"eType": "WIKILINK",
+			"entityName": "롯데_자이언츠",
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 264,
+			"ancestor": "10-5",
+			"is_target": true,
+			"surface": "롯데_자이언츠",
+			"coref_index": 341
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 281,
+			"eType": "WIKILINK",
+			"entityName": "LG_트윈스",
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 287,
+			"ancestor": "10-1",
+			"is_target": true,
+			"surface": "LG_트윈스",
+			"coref_index": 347
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 332,
+			"eType": "WIKILINK",
+			"entityName": "손인호_(야구인)",
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 335,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "손인호"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 424,
+			"eType": "WIKILINK",
+			"entityName": "롯데_자이언츠",
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"en": 431,
+			"ancestor": "10-10",
+			"is_target": true,
+			"surface": "롯데_자이언츠",
+			"coref_index": 341
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 467,
+			"eType": "WIKILINK",
+			"entityName": "롯데_자이언츠",
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 474,
+			"ancestor": "10-13",
+			"is_target": true,
+			"surface": "롯데_자이언츠",
+			"coref_index": 341
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "TIME",
+			"en": 38,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2005년_5월_26일",
+			"coref_index": 349
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 486,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 16,
+			"ne_type": "EVENT",
+			"en": 493,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "5.26_대첩"
+		}
+	],
+	"plainText": "8점 차 역전 홈런 롯데_자이언츠에서 활약했던 2005년_5월_26일 LG_트윈스전에서 그는 9회 초 투수 신윤호를 상대로 역전 결승 2점 홈런을 때렸는데, 이 홈런은 롯데_자이언츠가 8점 차의 열세를 뒤집은 홈런이었다. 롯데_자이언츠는 이날 경기에서 선발 투수인 장원준이 3회를 넘기지 못하고 강판당하면서 4회까지 0:8로 끌려가고 있었다. 그런데 5회 초 공격에서 선발 투수 장문석을 상대로 무려 8득점을 하면서 0:8의 스코어를 8:8로 만들었다. 이후 롯데_자이언츠 불펜진이 추가 실점을 하면서 LG_트윈스의 8회말 공격이 끝났을 때 스코어가 9:11이 됐다. 하지만 9회 초 공격에서 손인호의 적시타로 11:11을 만들었고, 계속된 찬스에서 그의 2점 홈런으로 13:11로 역전승을 거두면서 8점 차의 대역전극을 연출한 것이다. 이 경기는 그 당시 롯데_자이언츠의 돌풍이 절정에 도달했음을 의미하는 경기였다. 야구팬들은 이날 롯데_자이언츠의 대역전승을 두고 '5.26_대첩'이라고 부르게 되었다."
+}

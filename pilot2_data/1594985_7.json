@@ -1,0 +1,41 @@
+{
+	"docID": "1594985",
+	"globalSID": "3814762",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "J2리그",
+			"entityName": "J2리그"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 24,
+			"ancestor": "1-1",
+			"coref_index": 250,
+			"surface": "도쿠시마_보르티스",
+			"entityName": "도쿠시마_보르티스"
+		}
+	],
+	"plainText": "2016년 7월 J2리그의 도쿠시마_보르티스로 이적하였다."
+}

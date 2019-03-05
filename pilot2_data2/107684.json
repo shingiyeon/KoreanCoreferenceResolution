@@ -1,0 +1,633 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 226,
+			"text": "자신만",
+			"is_pronoun": true,
+			"en_modified": 229,
+			"en": 229,
+			"st_modified": 226
+		},
+		{
+			"st": 226,
+			"text": "자신만의 작품 세계",
+			"is_pronoun": true,
+			"en_modified": 236,
+			"en": 236,
+			"st_modified": 226
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 226,
+			"ancestor": "1-0",
+			"surface": "자신",
+			"en_modified": 228,
+			"en": 228,
+			"st_modified": 226,
+			"id": 0,
+			"coref_index": 21
+		},
+		{
+			"st": 226,
+			"ancestor": "-1",
+			"surface": "자신만의 작품 세계",
+			"en_modified": 236,
+			"en": 236,
+			"st_modified": 226,
+			"id": 1
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 3,
+			"st_modified": 0,
+			"coref_index": 21,
+			"entityName": "유시진",
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "유시진",
+			"is_target": true,
+			"en": 3,
+			"id": 0
+		},
+		{
+			"en_modified": 26,
+			"entityName": "대한민국",
+			"st_modified": 22,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 22,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 26,
+			"id": 1
+		},
+		{
+			"en_modified": 43,
+			"entityName": "서울대학교",
+			"st_modified": 38,
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 38,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "서울대학교",
+			"is_target": true,
+			"en": 43,
+			"id": 2
+		},
+		{
+			"en_modified": 16,
+			"entityName": "",
+			"st_modified": 4,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 4,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1971년_2월_26일",
+			"is_target": false,
+			"en": 16,
+			"id": 3
+		},
+		{
+			"en_modified": 34,
+			"entityName": "",
+			"st_modified": 28,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 28,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "여성_만화가",
+			"is_target": true,
+			"en": 34,
+			"id": 4
+		},
+		{
+			"en_modified": 90,
+			"entityName": "르네상스_(잡지)",
+			"st_modified": 86,
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 86,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "르네상스",
+			"is_target": true,
+			"en": 90,
+			"id": 5
+		},
+		{
+			"en_modified": 146,
+			"entityName": "댕기_(잡지)",
+			"st_modified": 144,
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 144,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "댕기",
+			"is_target": true,
+			"en": 146,
+			"id": 6
+		},
+		{
+			"en_modified": 188,
+			"st_modified": 183,
+			"coref_index": 19,
+			"entityName": "서울문화사",
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "WIKILINK",
+			"st": 183,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "서울문화사",
+			"is_target": true,
+			"en": 188,
+			"id": 7
+		},
+		{
+			"en_modified": 202,
+			"entityName": "윙크_(잡지)",
+			"st_modified": 200,
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "윙크",
+			"is_target": true,
+			"en": 202,
+			"id": 8
+		},
+		{
+			"en_modified": 217,
+			"entityName": "마니",
+			"st_modified": 215,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 215,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마니",
+			"is_target": true,
+			"en": 217,
+			"id": 9
+		},
+		{
+			"en_modified": 84,
+			"entityName": "",
+			"st_modified": 76,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 76,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "순정_만화_잡지",
+			"is_target": true,
+			"en": 84,
+			"id": 10
+		},
+		{
+			"en_modified": 299,
+			"st_modified": 294,
+			"coref_index": 19,
+			"entityName": "서울문화사",
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "ELU",
+			"st": 294,
+			"ancestor": "1-7",
+			"ne_type": "ORGANIZATION",
+			"surface": "서울문화사",
+			"is_target": true,
+			"en": 299,
+			"id": 11
+		},
+		{
+			"en_modified": 313,
+			"entityName": "나인_(잡지)",
+			"st_modified": 311,
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 311,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "나인",
+			"is_target": true,
+			"en": 313,
+			"id": 12
+		},
+		{
+			"en_modified": 320,
+			"st_modified": 317,
+			"coref_index": 20,
+			"entityName": "신명기",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 317,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신명기",
+			"is_target": true,
+			"en": 320,
+			"id": 13
+		},
+		{
+			"en_modified": 358,
+			"st_modified": 355,
+			"coref_index": 20,
+			"entityName": "신명기",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 355,
+			"ancestor": "1-13",
+			"ne_type": "ETC",
+			"surface": "신명기",
+			"is_target": true,
+			"en": 358,
+			"id": 14
+		},
+		{
+			"en_modified": 394,
+			"entityName": "코믹스투데이",
+			"st_modified": 388,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 388,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "코믹스투데이",
+			"is_target": true,
+			"en": 394,
+			"id": 15
+		},
+		{
+			"en_modified": 486,
+			"entityName": "2003년",
+			"st_modified": 481,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 481,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2003년",
+			"is_target": false,
+			"en": 486,
+			"id": 16
+		},
+		{
+			"en_modified": 492,
+			"entityName": "시공사",
+			"st_modified": 489,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Publisher",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 489,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "시공사",
+			"is_target": true,
+			"en": 492,
+			"id": 17
+		},
+		{
+			"en_modified": 520,
+			"entityName": "2004년",
+			"st_modified": 515,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 515,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2004년",
+			"is_target": false,
+			"en": 520,
+			"id": 18
+		},
+		{
+			"en_modified": 533,
+			"entityName": "그린빌_(사우스캐롤라이나_주)",
+			"st_modified": 530,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 530,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "그린빌",
+			"is_target": true,
+			"en": 533,
+			"id": 19
+		},
+		{
+			"en_modified": 605,
+			"entityName": "코믹뱅",
+			"st_modified": 602,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 602,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "코믹뱅",
+			"is_target": true,
+			"en": 605,
+			"id": 20
+		},
+		{
+			"en_modified": 635,
+			"entityName": "2008년",
+			"st_modified": 630,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 630,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년",
+			"is_target": false,
+			"en": 635,
+			"id": 21
+		},
+		{
+			"en_modified": 641,
+			"entityName": "천재교육",
+			"st_modified": 637,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 637,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "천재교육",
+			"is_target": true,
+			"en": 641,
+			"id": 22
+		},
+		{
+			"en_modified": 656,
+			"entityName": "주니어_논술",
+			"st_modified": 650,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 650,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "주니어_논술",
+			"is_target": true,
+			"en": 656,
+			"id": 23
+		},
+		{
+			"en_modified": 678,
+			"entityName": "팝툰",
+			"st_modified": 676,
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 676,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "팝툰",
+			"is_target": true,
+			"en": 678,
+			"id": 24
+		},
+		{
+			"en_modified": 713,
+			"entityName": "판타스틱",
+			"st_modified": 709,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 709,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "판타스틱",
+			"is_target": true,
+			"en": 713,
+			"id": 25
+		},
+		{
+			"en_modified": 585,
+			"entityName": "",
+			"st_modified": 577,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 577,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2006년_7월",
+			"is_target": false,
+			"en": 585,
+			"id": 26
+		},
+		{
+			"en_modified": 621,
+			"entityName": "",
+			"st_modified": 613,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 613,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2007년_4월",
+			"is_target": false,
+			"en": 621,
+			"id": 27
+		},
+		{
+			"en_modified": 723,
+			"entityName": "",
+			"st_modified": 715,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 715,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년_6월",
+			"is_target": false,
+			"en": 723,
+			"id": 28
+		},
+		{
+			"en_modified": 762,
+			"entityName": "11월_1일",
+			"st_modified": 756,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 756,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "11월_1일",
+			"is_target": false,
+			"en": 762,
+			"id": 29
+		},
+		{
+			"en_modified": 769,
+			"entityName": "절대교감",
+			"st_modified": 765,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 765,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "절대교감",
+			"is_target": true,
+			"en": 769,
+			"id": 30
+		},
+		{
+			"en_modified": 783,
+			"entityName": "그루",
+			"st_modified": 781,
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 781,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "그루",
+			"is_target": true,
+			"en": 783,
+			"id": 31
+		},
+		{
+			"en_modified": 836,
+			"entityName": "SK텔레콤",
+			"st_modified": 831,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "ELU",
+			"st": 831,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "SK텔레콤",
+			"is_target": true,
+			"en": 836,
+			"id": 32
+		}
+	],
+	"globalSID": "801976,801977,801978,801979,801980,801981,801982,801983,801984,801985,801986,801987",
+	"plainText": "유시진(1971년_2월_26일 ~ )은 대한민국의 여성_만화가이다. 서울대학교 서양사학과를 다니다가 중퇴하였다. 작품 활동 1990년에 순정_만화_잡지 《르네상스》의 공모전에서 〈유토피아2030〉이 당선되었으나 데뷔하지 않았고, 1992년 순정 만화 잡지 《댕기》의 공모전에 〈지난 봄 이야기〉가 당선되면서 프로로 데뷔하였다. 서울문화사의 순정 만화 잡지 《윙크》에 《아웃사이드》와 《마니》를 연재하면서 자신만의 작품 세계를 정립하기 시작하였다. 1996년 《윙크》에 《쿨 핫》을 발표하였고, 매니아들로부터 지지를 얻었으며, 서울문화사의 여성 만화 잡지 《나인》에 《신명기》와 《폐쇄자》를 발표하면서 작품 세계를 확대하였다. 그러나 《신명기》가 《나인》의 폐간으로 2001년 연재가 중단되었고 코믹스투데이로 이전하여 연재되던 《쿨 핫》도 코믹스투데이가 원고료를 지급하지 않은 코믹스투데이 사태로 중단되었다. 이후 슬럼프를 겪어 특별한 작품 활동을 하지 않다가 2003년부터 시공사의 여성 만화 잡지 《오후》에 《온》을, 2004년부터 《윙크》에 《그린빌에서 만나요》를 연재하였다. 《온》은 《오후》의 폐간으로 연재가 중단되었으나, 2006년_7월부터 을 만화 전문 웹사이트인 코믹뱅에서 연재하여 2007년_4월에 완결지었다. 2008년에 천재교육의 월간 잡지 《주니어_논술》에 〈스위트 시즌〉을 연재하였고,《팝툰》 21호에 설 특집 중편인 〈특전〉을 개제하였으며, 《판타스틱》 2008년_6월호부터 9월호까지 3부작 <파문>을 연재하였다. 2008년 11월_1일부터 절대교감의 여성 만화 잡지 《그루》에 〈푸른 목걸이〉를 연재하다가 잡지의 폐간으로 4회에서 중단되었다. 2011년부터 SK텔레콤의 만화 포털 툰도시의 순정 만화 웹진 《민트》에서 《월흔》을 연재하였으나 2013년 2월 《민트》의 폐간으로 연재가 중단되었다. ",
+	"docID": "107684",
+	"ModifiedText": "유시진(1971년 2월 26일 ~ )은 대한민국의 여성 만화가이다. 서울대학교 서양사학과를 다니다가 중퇴하였다. 작품 활동 1990년에 순정 만화 잡지 《르네상스》의 공모전에서 〈유토피아2030〉이 당선되었으나 데뷔하지 않았고, 1992년 순정 만화 잡지 《댕기》의 공모전에 〈지난 봄 이야기〉가 당선되면서 프로로 데뷔하였다. 서울문화사의 순정 만화 잡지 《윙크》에 《아웃사이드》와 《마니》를 연재하면서 자신만의 작품 세계를 정립하기 시작하였다. 1996년 《윙크》에 《쿨 핫》을 발표하였고, 매니아들로부터 지지를 얻었으며, 서울문화사의 여성 만화 잡지 《나인》에 《신명기》와 《폐쇄자》를 발표하면서 작품 세계를 확대하였다. 그러나 《신명기》가 《나인》의 폐간으로 2001년 연재가 중단되었고 코믹스투데이로 이전하여 연재되던 《쿨 핫》도 코믹스투데이가 원고료를 지급하지 않은 코믹스투데이 사태로 중단되었다. 이후 슬럼프를 겪어 특별한 작품 활동을 하지 않다가 2003년부터 시공사의 여성 만화 잡지 《오후》에 《온》을, 2004년부터 《윙크》에 《그린빌에서 만나요》를 연재하였다. 《온》은 《오후》의 폐간으로 연재가 중단되었으나, 2006년 7월부터 을 만화 전문 웹사이트인 코믹뱅에서 연재하여 2007년 4월에 완결지었다. 2008년에 천재교육의 월간 잡지 《주니어 논술》에 〈스위트 시즌〉을 연재하였고,《팝툰》 21호에 설 특집 중편인 〈특전〉을 개제하였으며, 《판타스틱》 2008년 6월호부터 9월호까지 3부작 <파문>을 연재하였다. 2008년 11월 1일부터 절대교감의 여성 만화 잡지 《그루》에 〈푸른 목걸이〉를 연재하다가 잡지의 폐간으로 4회에서 중단되었다. 2011년부터 SK텔레콤의 만화 포털 툰도시의 순정 만화 웹진 《민트》에서 《월흔》을 연재하였으나 2013년 2월 《민트》의 폐간으로 연재가 중단되었다. "
+}

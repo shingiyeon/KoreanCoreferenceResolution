@@ -1,0 +1,244 @@
+{
+	"docID": "172265",
+	"globalSID": "1135834,1135835,1135836",
+	"pronouns": [
+		{
+			"en": 76,
+			"ancestor": "-1",
+			"surface": "13세가 되던 해",
+			"id": 0,
+			"st": 67
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"entityName": "백인_우월주의",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 31,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "백인_우월주의자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 54,
+			"eType": "WIKILINK",
+			"entityName": "린치",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 56,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "린치"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 153,
+			"eType": "WIKILINK",
+			"entityName": "1946년",
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 158,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1946년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 8,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "얼_리틀",
+			"coref_index": 295
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 46,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "맬컴",
+			"coref_index": 289
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 48,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 50,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "삼촌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 70,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "13세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 80,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "어머니"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 86,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "정신병원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 99,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 104,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "위탁_가정"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 118,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "흑인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 136,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "의무_부과"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 143,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 145,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "병역"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 161,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 166,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "불법_침입"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 168,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 176,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기물_파손_혐의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 178,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 181,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "징역형"
+		}
+	],
+	"plainText": "아버지 얼_리틀(Earl Little)은 백인_우월주의자에 의해 살해당하였고, 맬컴의 삼촌 역시 린치를 당했다. 맬컴이 13세가 되던 해 어머니는 정신병원에 입원하였고, 맬컴은 위탁_가정을 전전하게 되었다. 흑인에 대한 부당한 대우와 의무_부과에 저항하여 병역을 거부하였고 1946년에는 불법_침입과 기물_파손_혐의로 징역형을 받았다."
+}

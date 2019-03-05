@@ -1,0 +1,527 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "황미나",
+			"en": 3,
+			"is_target": true,
+			"surface": "황미나",
+			"coref_index": 2,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 25,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 29,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 4,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 31,
+			"eType": "WIKILINK",
+			"entityName": "여성",
+			"en": 33,
+			"is_target": true,
+			"surface": "여성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 34,
+			"eType": "WIKILINK",
+			"entityName": "만화가",
+			"en": 37,
+			"is_target": true,
+			"surface": "만화가",
+			"coref_index": 1,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 9,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 21,
+			"is_target": false,
+			"surface": "1961년_2월_19일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 72,
+			"eType": "WIKILINK",
+			"entityName": "황선나",
+			"en": 75,
+			"is_target": true,
+			"surface": "황선나",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 50,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 52,
+			"is_target": true,
+			"surface": "대모",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"st": 42,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 48,
+			"is_target": true,
+			"surface": "순정_만화계",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 56,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 58,
+			"is_target": true,
+			"surface": "별명",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 68,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 70,
+			"is_target": true,
+			"surface": "동생",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 77,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 80,
+			"is_target": true,
+			"surface": "만화가",
+			"coref_index": 1,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 84,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 89,
+			"is_target": true,
+			"surface": "작품_활동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 93,
+			"eType": "WIKILINK",
+			"entityName": "1980년",
+			"en": 98,
+			"is_target": false,
+			"surface": "1980년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 100,
+			"eType": "ELU",
+			"entityName": "이오니아",
+			"en": 104,
+			"is_target": true,
+			"surface": "이오니아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 136,
+			"eType": "ELU",
+			"entityName": "황미나",
+			"en": 139,
+			"is_target": true,
+			"surface": "황미나",
+			"coref_index": 2,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Philosopher"
+			],
+			"id": 15,
+			"ne_type": "PERSON",
+			"st": 180,
+			"eType": "ELU",
+			"entityName": "황미나",
+			"en": 183,
+			"is_target": true,
+			"surface": "황미나",
+			"coref_index": 2,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 188,
+			"eType": "ELU",
+			"entityName": "홈페이지",
+			"en": 192,
+			"is_target": true,
+			"surface": "홈페이지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 213,
+			"eType": "ELU",
+			"entityName": "낭만주의",
+			"en": 218,
+			"is_target": true,
+			"surface": "로맨티시즘",
+			"coref_index": 3,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 239,
+			"eType": "WIKILINK",
+			"entityName": "1980년대",
+			"en": 245,
+			"is_target": true,
+			"surface": "1980년대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 259,
+			"eType": "ELU",
+			"entityName": "이오니아",
+			"en": 263,
+			"is_target": true,
+			"surface": "이오니아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 320,
+			"eType": "WIKILINK",
+			"entityName": "1990년",
+			"en": 325,
+			"is_target": false,
+			"surface": "1990년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 113,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 122,
+			"is_target": true,
+			"surface": "잡지_《소녀시대》",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 442,
+			"eType": "ELU",
+			"entityName": "낭만주의",
+			"en": 447,
+			"is_target": true,
+			"surface": "로맨티시즘",
+			"coref_index": 3,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 459,
+			"eType": "WIKILINK",
+			"entityName": "서양",
+			"en": 461,
+			"is_target": true,
+			"surface": "서양",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"ComicsCreator",
+				"Artist"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 482,
+			"eType": "WIKILINK",
+			"entityName": "이케다_리요코",
+			"en": 489,
+			"is_target": true,
+			"surface": "이케다_리요코",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Manga",
+				"Work",
+				"Comic"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 492,
+			"eType": "WIKILINK",
+			"entityName": "베르사이유의_장미",
+			"en": 501,
+			"is_target": true,
+			"surface": "베르사이유의_장미",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 505,
+			"eType": "WIKILINK",
+			"entityName": "오르페우스의_창",
+			"en": 511,
+			"is_target": true,
+			"surface": "올훼스의_창",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 27,
+			"ne_type": "LOCATION",
+			"st": 514,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"en": 518,
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 4,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 584,
+			"eType": "ELU",
+			"entityName": "하느님의_어린_양",
+			"en": 589,
+			"is_target": true,
+			"surface": "아뉴스데이",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 593,
+			"eType": "WIKILINK",
+			"entityName": "굿바이_미스터_블랙",
+			"en": 603,
+			"is_target": true,
+			"surface": "굿바이_미스터_블랙",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 607,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 612,
+			"is_target": true,
+			"surface": "불새의_늪",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "798948,798949,798950,798951,798952,798953,798954,798955,798956,798957,798958,798959",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 111,
+			"ancestor": "-1",
+			"st": 99,
+			"surface": "《이오니아의 푸른 별》"
+		},
+		{
+			"id": 1,
+			"en": 270,
+			"ancestor": "-1",
+			"st": 258,
+			"surface": "《이오니아의 푸른 별》"
+		},
+		{
+			"id": 2,
+			"en": 339,
+			"ancestor": "-1",
+			"st": 336,
+			"surface": "우리는"
+		},
+		{
+			"id": 3,
+			"en": 341,
+			"ancestor": "-1",
+			"st": 336,
+			"surface": "우리는 길"
+		},
+		{
+			"id": 4,
+			"en": 350,
+			"ancestor": "-1",
+			"st": 336,
+			"surface": "우리는 길 잃은 작은 새를"
+		},
+		{
+			"id": 5,
+			"en": 575,
+			"ancestor": "-1",
+			"st": 570,
+			"surface": "이 시기의"
+		},
+		{
+			"id": 6,
+			"en": 582,
+			"ancestor": "-1",
+			"st": 570,
+			"surface": "이 시기의 대표작으로는"
+		}
+	],
+	"plainText": "황미나(黃美那, 1961년_2월_19일~)는 대한민국의 여성 만화가이다. \"순정_만화계의 대모\"라는 별명을 가지고 있다. 동생인 황선나도 만화가이다. 작품_활동 데뷔 1980년 《이오니아의 푸른 별》을 잡지_《소녀시대》에 발표하면서 데뷔했다. 황미나의 작품 활동은 일반적으로 3기로 구분하고 있는데, 지금은 접속되지 않는 황미나의 공식 홈페이지에서 처음 사용했다고 한다. 제1기 '로맨티시즘의 시절'은 연대상으로 1980년부터 1980년대 중반까지, 작품상으로 《이오니아의 푸른 별》부터 《불새의 늪》까지이며, 제2기 '리얼리즘의 시절'은 연대상으로 1980년대 중반부터 1990년까지, 작품상으로 《우리는 길 잃은 작은 새를 보았다》부터 《무영여객》까지이고, 마지막 제3기 '장르 파괴의 시절'로 연대상으로 1990년부터 현재까지, 작품상으로 《취접냉월》부터로 보고 있다. 1기 제1기 '로맨티시즘의 시절'의 작품들은 서양을 배경으로한 시대물이 대부분이었다. 이케다_리요코의 《베르사이유의_장미》와 《올훼스의_창》이 대한민국에서 큰 인기를 끌면서 독자와 출판사가 서양 배경의 시대물을 선호했기 때문인 것으로 보인다. 이 시기의 대표작으로는 《아뉴스데이》, 《굿바이_미스터_블랙》, 《불새의_늪》등이 있다. ",
+	"docID": "106944"
+}

@@ -1,0 +1,154 @@
+{
+	"docID": "454069",
+	"globalSID": "2069981,2069982,2069983,2069984",
+	"pronouns": [
+		{
+			"en": 168,
+			"ancestor": "-1",
+			"surface": "이로",
+			"id": 0,
+			"st": 166
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 7,
+			"ancestor": "-1",
+			"coref_index": 591,
+			"surface": "현대_유니콘스",
+			"entityName": "현대_유니콘스"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 17,
+			"ancestor": "-1",
+			"coref_index": 592,
+			"surface": "넥센_히어로즈",
+			"entityName": "넥센_히어로즈"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 26,
+			"ancestor": "",
+			"surface": "2003년",
+			"entityName": "2003년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 34,
+			"ancestor": "3-0",
+			"coref_index": 591,
+			"surface": "현대_유니콘스",
+			"entityName": "현대_유니콘스"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 61,
+			"ancestor": "",
+			"surface": "2007년",
+			"entityName": "2007년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "유격수",
+			"entityName": "유격수"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 144,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 150,
+			"ancestor": "",
+			"surface": "7월_29일",
+			"entityName": "7월_29일"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 183,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 186,
+			"ancestor": "-1",
+			"surface": "황재균",
+			"entityName": "황재균"
+		}
+	],
+	"plainText": "현대_유니콘스 & 넥센_히어로즈 시절 2003년 현대_유니콘스의 2차 1순위 지명을 받아 입단했다. 2007년에는 전반기에 주전 유격수로 발탁되었지만 여름이 되자 타율이 1할 후반에 머무르는등 타격 슬럼프에 빠지게 되었고 타격이 부진하자 수비마저 흔들리면서 7월_29일 2군으로 내려가게 되었다. 이로 인해 주전 유격수 자리를 황재균에게 내주고 말았다."
+}

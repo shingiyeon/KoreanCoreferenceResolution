@@ -1,0 +1,181 @@
+{
+	"docID": "162897",
+	"globalSID": "1094460,1094461,1094462,1094463,1094464",
+	"pronouns": [
+		{
+			"st": 44,
+			"coref_index": 253,
+			"id": 0,
+			"en": 45,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 73,
+			"coref_index": 254,
+			"id": 1,
+			"en": 76,
+			"ancestor": "5-2",
+			"surface": "이 팀"
+		},
+		{
+			"st": 78,
+			"coref_index": 253,
+			"id": 2,
+			"en": 79,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 243,
+			"ancestor": "-1",
+			"surface": "그 즈음",
+			"id": 3,
+			"st": 239
+		},
+		{
+			"en": 332,
+			"ancestor": "-1",
+			"surface": "이 즈음",
+			"id": 4,
+			"st": 328
+		},
+		{
+			"en": 350,
+			"ancestor": "-1",
+			"surface": "이 즈음 Vinnie Del Negro의",
+			"id": 5,
+			"st": 328
+		},
+		{
+			"en": 354,
+			"ancestor": "-1",
+			"surface": "이 즈음 Vinnie Del Negro의 탈퇴로",
+			"id": 6,
+			"st": 328
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"entityName": "한남잭슨",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 31,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "Vinnie_Del_Negro"
+		},
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"st": 33,
+			"eType": "WIKILINK",
+			"entityName": "Make-1",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 39,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "Make-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"st": 47,
+			"eType": "WIKILINK",
+			"entityName": "일_스킬즈",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 57,
+			"ancestor": "1-4",
+			"is_target": true,
+			"surface": "Ill_Skillz",
+			"coref_index": 254
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"st": 81,
+			"eType": "ELU",
+			"entityName": "하와이_주",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 84,
+			"ancestor": "3-1",
+			"is_target": true,
+			"surface": "하와이",
+			"coref_index": 255
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 104,
+			"eType": "WIKILINK",
+			"entityName": "주석_(가수)",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 106,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "주석"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 222,
+			"eType": "ELU",
+			"entityName": "찬조출연",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 225,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "피쳐링"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 244,
+			"eType": "WIKILINK",
+			"entityName": "822_(힙합)",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 247,
+			"ancestor": "1-6",
+			"is_target": true,
+			"surface": "822",
+			"coref_index": 256
+		}
+	],
+	"plainText": "한편 농구를 하면서 친해진 Vinnie_Del_Negro와 Make-1과 함께 그는 Ill_Skillz라는 팀을 조직하기로 한다. 이 팀은 그가 하와이에 잠시 가 있을 때 2인조 체제로 주석의 \"정상을 향한 독주\"를 통해 데뷔하고, Leo Kekoa는 귀국 후 합류하여 3인조 체제가 된다. 2001년 Leo Kekoa는 DJ Soulscape의 앨범 \"180g Beats\"의 수록곡 STORY에 피쳐링하면서 두각을 드러내고, 그 즈음 822라는 크루를 조직하여서 활동을 넓힌다. 822는 아쉽게도 오래가지 못하고 Leo Kekoa와 주석 사이를 중심으로 한 불화로 인해 해체된다. 또 이 즈음 Vinnie Del Negro의 탈퇴로 Ill Skillz는 2인조 그룹이 된다."
+}

@@ -1,0 +1,53 @@
+{
+	"docID": "485858",
+	"globalSID": "2146912,2146913,2146914,2146915",
+	"pronouns": [
+		{
+			"st": 190,
+			"coref_index": 620,
+			"id": 0,
+			"en": 191,
+			"ancestor": "4-0",
+			"surface": "그"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 620,
+			"surface": "조덕환",
+			"entityName": "조덕환"
+		},
+		{
+			"kbox_types": [
+				"Olympics",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "1988년_서울_올림픽",
+			"entityName": "1988년_하계_올림픽"
+		}
+	],
+	"plainText": "조덕환은 〈세계로 가는 기차〉, 〈아침이 밝아올 때까지〉, 〈축복합니다〉를 작곡했다. 〈세계로 가는 기차〉는 1집 나오기 두 달 전에 만들어졌으며, 1988년_서울_올림픽을 기다리는 청년의 마음을 표현한 것이다. 〈아침이 밝아올 때까지〉는 \"내용 개념이 남자의 노래이니까 이상적인 여인상을 바라는 마음\"을 담았다고 말했다. 〈축복합니다〉는 그가 20대일 때 외교관 영사로 출국하는 형을 멀리 떠나보내는 감성을 표현했다."
+}

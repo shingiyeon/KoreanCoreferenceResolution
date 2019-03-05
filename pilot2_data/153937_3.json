@@ -1,0 +1,39 @@
+{
+	"docID": "153937",
+	"globalSID": "1047258,1047259,1047260",
+	"pronouns": [
+		{
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "공",
+			"id": 0,
+			"st": 108
+		},
+		{
+			"en": 127,
+			"ancestor": "-1",
+			"surface": "공",
+			"id": 1,
+			"st": 126
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "1-6",
+			"coref_index": 229,
+			"surface": "퐁",
+			"entityName": ""
+		}
+	],
+	"plainText": "게임 방법 퐁은 탁구의 형식을 본땄으며 위에서 코트를 내려다 보는 형식으로 되어있다. 플레이어는 왼쪽과 오른쪽의 패들을 이용하여 화면에 있는 두개의 막대를 상하로 움직이면서 사방으로 튀어다니는 공을 받아 날리면서 상대 진영이 공을 놓치게 되면 1점을 득점하고 일정 점수를 도달하면 이기는 방식이다."
+}

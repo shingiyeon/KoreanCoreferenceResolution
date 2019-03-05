@@ -1,0 +1,3067 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 42,
+			"text": "역사적 천문학 모두",
+			"is_pronoun": true,
+			"en_modified": 52,
+			"en": 52,
+			"st_modified": 42
+		},
+		{
+			"st": 56,
+			"text": "한 해 동안",
+			"is_pronoun": true,
+			"en_modified": 62,
+			"en": 62,
+			"st_modified": 56
+		},
+		{
+			"st": 56,
+			"text": "한 해 동안에 천구를 가로지르는 태양의 외견상 경로",
+			"is_pronoun": true,
+			"en_modified": 84,
+			"en": 84,
+			"st_modified": 56
+		},
+		{
+			"st": 209,
+			"text": "이 열두 구간",
+			"is_pronoun": true,
+			"en_modified": 216,
+			"en": 216,
+			"st_modified": 209
+		},
+		{
+			"st": 209,
+			"text": "이 열두 구간은 별자리",
+			"is_pronoun": true,
+			"en_modified": 221,
+			"en": 221,
+			"st_modified": 209
+		},
+		{
+			"st": 628,
+			"text": "이 이름",
+			"is_pronoun": true,
+			"en_modified": 632,
+			"en": 632,
+			"st_modified": 628
+		},
+		{
+			"st": 634,
+			"text": "고대 그리스 황도대의 별자리",
+			"is_pronoun": true,
+			"en_modified": 649,
+			"en": 649,
+			"st_modified": 634
+		},
+		{
+			"st": 634,
+			"text": "고대 그리스 황도대의 별자리의 절반",
+			"is_pronoun": true,
+			"en_modified": 653,
+			"en": 653,
+			"st_modified": 634
+		},
+		{
+			"st": 776,
+			"text": "그 천체",
+			"is_pronoun": true,
+			"en_modified": 780,
+			"en": 780,
+			"st_modified": 776
+		},
+		{
+			"st": 776,
+			"text": "그 천체의 경로",
+			"is_pronoun": true,
+			"en_modified": 784,
+			"en": 784,
+			"st_modified": 776
+		},
+		{
+			"st": 776,
+			"text": "그 천체의 경로를 내포하는 띠",
+			"is_pronoun": true,
+			"en_modified": 792,
+			"en": 792,
+			"st_modified": 776
+		},
+		{
+			"st": 796,
+			"text": "예",
+			"is_pronoun": true,
+			"en_modified": 797,
+			"en": 797,
+			"st_modified": 796
+		},
+		{
+			"st": 875,
+			"text": "역사 초기 황도대의 별자리",
+			"is_pronoun": true,
+			"en_modified": 889,
+			"en": 889,
+			"st_modified": 875
+		},
+		{
+			"st": 875,
+			"text": "역사 초기 황도대의 별자리로 황도를 분할한 것",
+			"is_pronoun": true,
+			"en_modified": 900,
+			"en": 900,
+			"st_modified": 875
+		},
+		{
+			"st": 1024,
+			"text": "몇몇 별자리",
+			"is_pronoun": true,
+			"en_modified": 1030,
+			"en": 1030,
+			"st_modified": 1024
+		},
+		{
+			"st": 1071,
+			"text": "그것",
+			"is_pronoun": true,
+			"en_modified": 1073,
+			"en": 1073,
+			"st_modified": 1071
+		},
+		{
+			"st": 1075,
+			"text": "별자리",
+			"is_pronoun": true,
+			"en_modified": 1078,
+			"en": 1078,
+			"st_modified": 1075
+		},
+		{
+			"st": 1075,
+			"text": "별자리 중에서",
+			"is_pronoun": true,
+			"en_modified": 1082,
+			"en": 1082,
+			"st_modified": 1075
+		},
+		{
+			"st": 1181,
+			"text": "어느 국면",
+			"is_pronoun": true,
+			"en_modified": 1186,
+			"en": 1186,
+			"st_modified": 1181
+		},
+		{
+			"st": 1260,
+			"text": "그 좌표계",
+			"is_pronoun": true,
+			"en_modified": 1265,
+			"en": 1265,
+			"st_modified": 1260
+		},
+		{
+			"st": 1318,
+			"text": "그것",
+			"is_pronoun": true,
+			"en_modified": 1320,
+			"en": 1320,
+			"st_modified": 1318
+		},
+		{
+			"st": 1336,
+			"text": "각각",
+			"is_pronoun": true,
+			"en_modified": 1338,
+			"en": 1338,
+			"st_modified": 1336
+		},
+		{
+			"st": 1336,
+			"text": "각각의 달",
+			"is_pronoun": true,
+			"en_modified": 1341,
+			"en": 1341,
+			"st_modified": 1336
+		},
+		{
+			"st": 1343,
+			"text": "별자리",
+			"is_pronoun": true,
+			"en_modified": 1346,
+			"en": 1346,
+			"st_modified": 1343
+		},
+		{
+			"st": 1355,
+			"text": "그 당시",
+			"is_pronoun": true,
+			"en_modified": 1359,
+			"en": 1359,
+			"st_modified": 1355
+		},
+		{
+			"st": 1355,
+			"text": "그 당시의 별자리",
+			"is_pronoun": true,
+			"en_modified": 1364,
+			"en": 1364,
+			"st_modified": 1355
+		},
+		{
+			"st": 1366,
+			"text": "양자리(\"양자리의_시대\")",
+			"is_pronoun": true,
+			"en_modified": 1380,
+			"en": 1380,
+			"st_modified": 1366
+		},
+		{
+			"st": 1366,
+			"text": "양자리(\"양자리의_시대\")로 묘사된 춘분점",
+			"is_pronoun": true,
+			"en_modified": 1389,
+			"en": 1389,
+			"st_modified": 1366
+		},
+		{
+			"st": 1366,
+			"text": "양자리(\"양자리의_시대\")로 묘사된 춘분점에 있는 태양의 위치",
+			"is_pronoun": true,
+			"en_modified": 1400,
+			"en": 1400,
+			"st_modified": 1366
+		},
+		{
+			"st": 1409,
+			"text": "그런 까닭",
+			"is_pronoun": true,
+			"en_modified": 1414,
+			"en": 1414,
+			"st_modified": 1409
+		},
+		{
+			"st": 1416,
+			"text": "그 첫 번째 별자리",
+			"is_pronoun": true,
+			"en_modified": 1426,
+			"en": 1426,
+			"st_modified": 1416
+		},
+		{
+			"st": 1455,
+			"text": "양자리",
+			"is_pronoun": true,
+			"en_modified": 1458,
+			"en": 1458,
+			"st_modified": 1455
+		},
+		{
+			"st": 1455,
+			"text": "양자리 성좌",
+			"is_pronoun": true,
+			"en_modified": 1461,
+			"en": 1461,
+			"st_modified": 1455
+		},
+		{
+			"st": 1525,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 1527,
+			"en": 1527,
+			"st_modified": 1525
+		},
+		{
+			"st": 1611,
+			"text": "하늘에 있는 황도대의 별자리",
+			"is_pronoun": true,
+			"en_modified": 1626,
+			"en": 1626,
+			"st_modified": 1611
+		},
+		{
+			"st": 1611,
+			"text": "하늘에 있는 황도대의 별자리 사이",
+			"is_pronoun": true,
+			"en_modified": 1629,
+			"en": 1629,
+			"st_modified": 1611
+		},
+		{
+			"st": 1611,
+			"text": "하늘에 있는 황도대의 별자리 사이의 경계선",
+			"is_pronoun": true,
+			"en_modified": 1634,
+			"en": 1634,
+			"st_modified": 1611
+		},
+		{
+			"st": 1657,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 1659,
+			"en": 1659,
+			"st_modified": 1657
+		},
+		{
+			"st": 1657,
+			"text": "그들의 능력",
+			"is_pronoun": true,
+			"en_modified": 1663,
+			"en": 1663,
+			"st_modified": 1657
+		},
+		{
+			"st": 1657,
+			"text": "그들의 능력",
+			"is_pronoun": true,
+			"en_modified": 1663,
+			"en": 1663,
+			"st_modified": 1657
+		},
+		{
+			"st": 1677,
+			"text": "그런 까닭",
+			"is_pronoun": true,
+			"en_modified": 1682,
+			"en": 1682,
+			"st_modified": 1677
+		},
+		{
+			"st": 1782,
+			"text": "별자리",
+			"is_pronoun": true,
+			"en_modified": 1785,
+			"en": 1785,
+			"st_modified": 1782
+		},
+		{
+			"st": 1801,
+			"text": "그 이름",
+			"is_pronoun": true,
+			"en_modified": 1805,
+			"en": 1805,
+			"st_modified": 1801
+		},
+		{
+			"st": 1801,
+			"text": "그 이름과 유사한 의미",
+			"is_pronoun": true,
+			"en_modified": 1813,
+			"en": 1813,
+			"st_modified": 1801
+		},
+		{
+			"st": 1801,
+			"text": "그 이름과 유사한 의미로 연관될 수",
+			"is_pronoun": true,
+			"en_modified": 1820,
+			"en": 1820,
+			"st_modified": 1801
+		},
+		{
+			"st": 1832,
+			"text": "그것",
+			"is_pronoun": true,
+			"en_modified": 1834,
+			"en": 1834,
+			"st_modified": 1832
+		},
+		{
+			"st": 1832,
+			"text": "그것의 개념상",
+			"is_pronoun": true,
+			"en_modified": 1839,
+			"en": 1839,
+			"st_modified": 1832
+		},
+		{
+			"st": 1832,
+			"text": "그것의 개념상의 기원에",
+			"is_pronoun": true,
+			"en_modified": 1844,
+			"en": 1844,
+			"st_modified": 1832
+		},
+		{
+			"st": 1905,
+			"text": "단 하나의 별자리",
+			"is_pronoun": true,
+			"en_modified": 1914,
+			"en": 1914,
+			"st_modified": 1905
+		},
+		{
+			"st": 1920,
+			"text": "그 별자리",
+			"is_pronoun": true,
+			"en_modified": 1925,
+			"en": 1925,
+			"st_modified": 1920
+		},
+		{
+			"st": 1920,
+			"text": "그 별자리 내에서",
+			"is_pronoun": true,
+			"en_modified": 1929,
+			"en": 1929,
+			"st_modified": 1920
+		},
+		{
+			"st": 1920,
+			"text": "그 별자리 내에서의 보다 작은 특정 도수",
+			"is_pronoun": true,
+			"en_modified": 1942,
+			"en": 1942,
+			"st_modified": 1920
+		},
+		{
+			"st": 1951,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 1953,
+			"en": 1953,
+			"st_modified": 1951
+		},
+		{
+			"st": 1997,
+			"text": "황도대 별자리",
+			"is_pronoun": true,
+			"en_modified": 2004,
+			"en": 2004,
+			"st_modified": 1997
+		},
+		{
+			"st": 1989,
+			"text": "관해서가 아닌 황도대 별자리의 30º",
+			"is_pronoun": true,
+			"en_modified": 2009,
+			"en": 2009,
+			"st_modified": 1989
+		},
+		{
+			"st": 2021,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 2023,
+			"en": 2023,
+			"st_modified": 2021
+		},
+		{
+			"st": 2021,
+			"text": "그들의 수학적",
+			"is_pronoun": true,
+			"en_modified": 2028,
+			"en": 2028,
+			"st_modified": 2021
+		},
+		{
+			"st": 2021,
+			"text": "그들의 수학적인 천문력",
+			"is_pronoun": true,
+			"en_modified": 2033,
+			"en": 2033,
+			"st_modified": 2021
+		},
+		{
+			"st": 2021,
+			"text": "그들의 수학적인 천문력의 구성",
+			"is_pronoun": true,
+			"en_modified": 2037,
+			"en": 2037,
+			"st_modified": 2021
+		},
+		{
+			"st": 2059,
+			"text": "하나의 별자리",
+			"is_pronoun": true,
+			"en_modified": 2066,
+			"en": 2066,
+			"st_modified": 2059
+		},
+		{
+			"st": 2069,
+			"text": "다음 별자리",
+			"is_pronoun": true,
+			"en_modified": 2075,
+			"en": 2075,
+			"st_modified": 2069
+		},
+		{
+			"st": 2059,
+			"text": "하나의 별자리에서 다음 별자리로 넘어갈 때",
+			"is_pronoun": true,
+			"en_modified": 2082,
+			"en": 2082,
+			"st_modified": 2059
+		},
+		{
+			"st": 2059,
+			"text": "하나의 별자리에서 다음 별자리로 넘어갈 때의 날짜 만큼",
+			"is_pronoun": true,
+			"en_modified": 2089,
+			"en": 2089,
+			"st_modified": 2059
+		},
+		{
+			"st": 2174,
+			"text": "4분원의 중간에 있는 별자리",
+			"is_pronoun": true,
+			"en_modified": 2189,
+			"en": 2189,
+			"st_modified": 2174
+		},
+		{
+			"st": 2276,
+			"text": "열두 별자리",
+			"is_pronoun": true,
+			"en_modified": 2282,
+			"en": 2282,
+			"st_modified": 2276
+		},
+		{
+			"st": 2376,
+			"text": "예",
+			"is_pronoun": true,
+			"en_modified": 2377,
+			"en": 2377,
+			"st_modified": 2376
+		},
+		{
+			"st": 2444,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 2445,
+			"en": 2445,
+			"st_modified": 2444
+		},
+		{
+			"st": 2444,
+			"text": "이와 같은 연결",
+			"is_pronoun": true,
+			"en_modified": 2452,
+			"en": 2452,
+			"st_modified": 2444
+		},
+		{
+			"st": 2464,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 2465,
+			"en": 2465,
+			"st_modified": 2464
+		},
+		{
+			"st": 2464,
+			"text": "그의 소설",
+			"is_pronoun": true,
+			"en_modified": 2469,
+			"en": 2469,
+			"st_modified": 2464
+		},
+		{
+			"st": 2464,
+			"text": "그의 소설 요셉과_그의_형제들",
+			"is_pronoun": true,
+			"en_modified": 2480,
+			"en": 2480,
+			"st_modified": 2464
+		},
+		{
+			"st": 2502,
+			"text": "황도대 별자리",
+			"is_pronoun": true,
+			"en_modified": 2509,
+			"en": 2509,
+			"st_modified": 2502
+		},
+		{
+			"st": 2502,
+			"text": "황도대 별자리의 특징",
+			"is_pronoun": true,
+			"en_modified": 2513,
+			"en": 2513,
+			"st_modified": 2502
+		},
+		{
+			"st": 2515,
+			"text": "각각",
+			"is_pronoun": true,
+			"en_modified": 2517,
+			"en": 2517,
+			"st_modified": 2515
+		},
+		{
+			"st": 2515,
+			"text": "각각의 지파",
+			"is_pronoun": true,
+			"en_modified": 2521,
+			"en": 2521,
+			"st_modified": 2515
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 42,
+			"ancestor": "-1",
+			"surface": "역사적 천문학 모두",
+			"en_modified": 52,
+			"en": 52,
+			"st_modified": 42,
+			"id": 0
+		},
+		{
+			"st": 56,
+			"ancestor": "-1",
+			"surface": "한 해 ",
+			"en_modified": 60,
+			"en": 60,
+			"st_modified": 56,
+			"id": 1
+		},
+		{
+			"st": 56,
+			"ancestor": "-1",
+			"surface": "한 해 동안에 천구를 가로지르는 태양의 외견상 경로인",
+			"en_modified": 85,
+			"en": 85,
+			"st_modified": 56,
+			"id": 2
+		},
+		{
+			"st": 209,
+			"ancestor": "-1",
+			"surface": "이 열두 구간은",
+			"en_modified": 217,
+			"en": 217,
+			"st_modified": 209,
+			"id": 3
+		},
+		{
+			"st": 209,
+			"ancestor": "-1",
+			"surface": "이 열두 구간은 별자리",
+			"en_modified": 221,
+			"en": 221,
+			"st_modified": 209,
+			"id": 4
+		},
+		{
+			"st": 628,
+			"ancestor": "1-37",
+			"surface": "이 이름",
+			"en_modified": 632,
+			"en": 632,
+			"st_modified": 628,
+			"id": 5,
+			"coref_index": 544
+		},
+		{
+			"st": 634,
+			"ancestor": "-1",
+			"surface": "고대 그리스 황도대의 별자리의",
+			"en_modified": 650,
+			"en": 650,
+			"st_modified": 634,
+			"id": 6
+		},
+		{
+			"st": 634,
+			"ancestor": "-1",
+			"surface": "고대 그리스 황도대의 별자리의 절반이",
+			"en_modified": 654,
+			"en": 654,
+			"st_modified": 634,
+			"id": 7
+		},
+		{
+			"st": 776,
+			"ancestor": "-1",
+			"surface": "그 천체의",
+			"en_modified": 781,
+			"en": 781,
+			"st_modified": 776,
+			"id": 8
+		},
+		{
+			"st": 776,
+			"ancestor": "-1",
+			"surface": "그 천체의 경로를",
+			"en_modified": 785,
+			"en": 785,
+			"st_modified": 776,
+			"id": 9
+		},
+		{
+			"st": 776,
+			"ancestor": "-1",
+			"surface": "그 천체의 경로를 내포하는 띠이다.",
+			"en_modified": 795,
+			"en": 795,
+			"st_modified": 776,
+			"id": 10
+		},
+		{
+			"st": 796,
+			"ancestor": "-1",
+			"surface": "예를",
+			"en_modified": 798,
+			"en": 798,
+			"st_modified": 796,
+			"id": 11
+		},
+		{
+			"st": 1024,
+			"ancestor": "-1",
+			"surface": "몇몇 별자리",
+			"en_modified": 1030,
+			"en": 1030,
+			"st_modified": 1024,
+			"id": 12
+		},
+		{
+			"st": 1071,
+			"ancestor": "1-50",
+			"surface": "그것",
+			"en_modified": 1073,
+			"en": 1073,
+			"st_modified": 1071,
+			"id": 13,
+			"coref_index": 532
+		},
+		{
+			"st": 1075,
+			"ancestor": "1-50",
+			"surface": "별자리",
+			"en_modified": 1078,
+			"en": 1078,
+			"st_modified": 1075,
+			"id": 14,
+			"coref_index": 532
+		},
+		{
+			"st": 1075,
+			"ancestor": "-1",
+			"surface": "별자리 중에서도",
+			"en_modified": 1083,
+			"en": 1083,
+			"st_modified": 1075,
+			"id": 15
+		},
+		{
+			"st": 1181,
+			"ancestor": "-1",
+			"surface": "어느 국면에",
+			"en_modified": 1187,
+			"en": 1187,
+			"st_modified": 1181,
+			"id": 16
+		},
+		{
+			"st": 1260,
+			"ancestor": "-1",
+			"surface": "그 좌표계는",
+			"en_modified": 1266,
+			"en": 1266,
+			"st_modified": 1260,
+			"id": 17
+		},
+		{
+			"st": 1318,
+			"ancestor": "-1",
+			"surface": "그것이",
+			"en_modified": 1321,
+			"en": 1321,
+			"st_modified": 1318,
+			"id": 18
+		},
+		{
+			"st": 1336,
+			"ancestor": "-1",
+			"surface": "각각의",
+			"en_modified": 1339,
+			"en": 1339,
+			"st_modified": 1336,
+			"id": 19
+		},
+		{
+			"st": 1336,
+			"ancestor": "-1",
+			"surface": "각각의 달에",
+			"en_modified": 1342,
+			"en": 1342,
+			"st_modified": 1336,
+			"id": 20
+		},
+		{
+			"st": 1343,
+			"ancestor": "-1",
+			"surface": "별자리에",
+			"en_modified": 1347,
+			"en": 1347,
+			"st_modified": 1343,
+			"id": 21
+		},
+		{
+			"st": 1355,
+			"ancestor": "1-80",
+			"surface": "그 당시",
+			"en_modified": 1359,
+			"en": 1359,
+			"st_modified": 1355,
+			"id": 22,
+			"coref_index": 536
+		},
+		{
+			"st": 1355,
+			"ancestor": "-1",
+			"surface": "그 당시의 별자리는",
+			"en_modified": 1365,
+			"en": 1365,
+			"st_modified": 1355,
+			"id": 23
+		},
+		{
+			"st": 1366,
+			"ancestor": "-1",
+			"surface": "양자리(\"양자리의_시대\")로",
+			"en_modified": 1381,
+			"en": 1381,
+			"st_modified": 1366,
+			"id": 24
+		},
+		{
+			"st": 1366,
+			"ancestor": "-1",
+			"surface": "양자리(\"양자리의_시대\")로 묘사된 춘분점에",
+			"en_modified": 1390,
+			"en": 1390,
+			"st_modified": 1366,
+			"id": 25
+		},
+		{
+			"st": 1366,
+			"ancestor": "-1",
+			"surface": "양자리(\"양자리의_시대\")로 묘사된 춘분점에 있는 태양의 위치에서",
+			"en_modified": 1402,
+			"en": 1402,
+			"st_modified": 1366,
+			"id": 26
+		},
+		{
+			"st": 1409,
+			"ancestor": "-1",
+			"surface": "그런 까닭에",
+			"en_modified": 1415,
+			"en": 1415,
+			"st_modified": 1409,
+			"id": 27
+		},
+		{
+			"st": 1416,
+			"ancestor": "1-73",
+			"surface": "그 첫 번째 별자리",
+			"en_modified": 1426,
+			"en": 1426,
+			"st_modified": 1416,
+			"id": 28,
+			"coref_index": 545
+		},
+		{
+			"st": 1455,
+			"ancestor": "-1",
+			"surface": "양자리",
+			"en_modified": 1458,
+			"en": 1458,
+			"st_modified": 1455,
+			"id": 29
+		},
+		{
+			"st": 1455,
+			"ancestor": "-1",
+			"surface": "양자리 성좌로부터",
+			"en_modified": 1464,
+			"en": 1464,
+			"st_modified": 1455,
+			"id": 30
+		},
+		{
+			"st": 1525,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"en_modified": 1528,
+			"en": 1528,
+			"st_modified": 1525,
+			"id": 31
+		},
+		{
+			"st": 1611,
+			"ancestor": "-1",
+			"surface": "하늘에 있는 황도대의 별자리",
+			"en_modified": 1626,
+			"en": 1626,
+			"st_modified": 1611,
+			"id": 32
+		},
+		{
+			"st": 1611,
+			"ancestor": "-1",
+			"surface": "하늘에 있는 황도대의 별자리 사이의",
+			"en_modified": 1630,
+			"en": 1630,
+			"st_modified": 1611,
+			"id": 33
+		},
+		{
+			"st": 1611,
+			"ancestor": "1-14",
+			"surface": "하늘에 있는 황도대의 별자리 사이의 경계선",
+			"en_modified": 1634,
+			"en": 1634,
+			"st_modified": 1611,
+			"id": 34,
+			"coref_index": 530
+		},
+		{
+			"st": 1657,
+			"ancestor": "-1",
+			"surface": "그들의",
+			"en_modified": 1660,
+			"en": 1660,
+			"st_modified": 1657,
+			"id": 35
+		},
+		{
+			"st": 1657,
+			"ancestor": "-1",
+			"surface": "그들의 능력",
+			"en_modified": 1663,
+			"en": 1663,
+			"st_modified": 1657,
+			"id": 36
+		},
+		{
+			"st": 1657,
+			"ancestor": "-1",
+			"surface": "그들의 능력 밖에",
+			"en_modified": 1666,
+			"en": 1666,
+			"st_modified": 1657,
+			"id": 37
+		},
+		{
+			"st": 1677,
+			"ancestor": "-1",
+			"surface": "그런 까닭에,",
+			"en_modified": 1684,
+			"en": 1684,
+			"st_modified": 1677,
+			"id": 38
+		},
+		{
+			"st": 1782,
+			"ancestor": "1-44",
+			"surface": "별자리",
+			"en_modified": 1785,
+			"en": 1785,
+			"st_modified": 1782,
+			"id": 39,
+			"coref_index": 532
+		},
+		{
+			"st": 1801,
+			"ancestor": "-1",
+			"surface": "그 이름과",
+			"en_modified": 1806,
+			"en": 1806,
+			"st_modified": 1801,
+			"id": 40
+		},
+		{
+			"st": 1801,
+			"ancestor": "-1",
+			"surface": "그 이름과 유사한 의미로",
+			"en_modified": 1814,
+			"en": 1814,
+			"st_modified": 1801,
+			"id": 41
+		},
+		{
+			"st": 1801,
+			"ancestor": "-1",
+			"surface": "그 이름과 유사한 의미로 연관될 수",
+			"en_modified": 1820,
+			"en": 1820,
+			"st_modified": 1801,
+			"id": 42
+		},
+		{
+			"st": 1832,
+			"ancestor": "1-14",
+			"surface": "그것",
+			"en_modified": 1834,
+			"en": 1834,
+			"st_modified": 1832,
+			"id": 43,
+			"coref_index": 530
+		},
+		{
+			"st": 1832,
+			"ancestor": "-1",
+			"surface": "그것의 개념상의",
+			"en_modified": 1840,
+			"en": 1840,
+			"st_modified": 1832,
+			"id": 44
+		},
+		{
+			"st": 1832,
+			"ancestor": "-1",
+			"surface": "그것의 개념상의 기원에도",
+			"en_modified": 1845,
+			"en": 1845,
+			"st_modified": 1832,
+			"id": 45
+		},
+		{
+			"st": 1905,
+			"ancestor": "-1",
+			"surface": "단 하나의 별자리에",
+			"en_modified": 1915,
+			"en": 1915,
+			"st_modified": 1905,
+			"id": 46
+		},
+		{
+			"st": 1920,
+			"ancestor": "-1",
+			"surface": "그 별자리",
+			"en_modified": 1925,
+			"en": 1925,
+			"st_modified": 1920,
+			"id": 47
+		},
+		{
+			"st": 1920,
+			"ancestor": "-1",
+			"surface": "그 별자리 내에서의",
+			"en_modified": 1930,
+			"en": 1930,
+			"st_modified": 1920,
+			"id": 48
+		},
+		{
+			"st": 1920,
+			"ancestor": "-1",
+			"surface": "그 별자리 내에서의 보다 작은 특정 도수가",
+			"en_modified": 1943,
+			"en": 1943,
+			"st_modified": 1920,
+			"id": 49
+		},
+		{
+			"st": 1951,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"en_modified": 1954,
+			"en": 1954,
+			"st_modified": 1951,
+			"id": 50
+		},
+		{
+			"st": 1997,
+			"ancestor": "-1",
+			"surface": "황도대 별자리의",
+			"en_modified": 2005,
+			"en": 2005,
+			"st_modified": 1997,
+			"id": 51
+		},
+		{
+			"st": 1989,
+			"ancestor": "-1",
+			"surface": "관해서가 아닌 황도대 별자리의 30º에",
+			"en_modified": 2010,
+			"en": 2010,
+			"st_modified": 1989,
+			"id": 52
+		},
+		{
+			"st": 2021,
+			"ancestor": "-1",
+			"surface": "그들의",
+			"en_modified": 2024,
+			"en": 2024,
+			"st_modified": 2021,
+			"id": 53
+		},
+		{
+			"st": 2021,
+			"ancestor": "-1",
+			"surface": "그들의 수학적인",
+			"en_modified": 2029,
+			"en": 2029,
+			"st_modified": 2021,
+			"id": 54
+		},
+		{
+			"st": 2021,
+			"ancestor": "-1",
+			"surface": "그들의 수학적인 천문력의",
+			"en_modified": 2034,
+			"en": 2034,
+			"st_modified": 2021,
+			"id": 55
+		},
+		{
+			"st": 2021,
+			"ancestor": "-1",
+			"surface": "그들의 수학적인 천문력의 구성에",
+			"en_modified": 2038,
+			"en": 2038,
+			"st_modified": 2021,
+			"id": 56
+		},
+		{
+			"st": 2059,
+			"ancestor": "-1",
+			"surface": "하나의 별자리에서",
+			"en_modified": 2068,
+			"en": 2068,
+			"st_modified": 2059,
+			"id": 57
+		},
+		{
+			"st": 2069,
+			"ancestor": "-1",
+			"surface": "다음 별자리로",
+			"en_modified": 2076,
+			"en": 2076,
+			"st_modified": 2069,
+			"id": 58
+		},
+		{
+			"st": 2059,
+			"ancestor": "-1",
+			"surface": "하나의 별자리에서 다음 별자리로 넘어갈 때의",
+			"en_modified": 2083,
+			"en": 2083,
+			"st_modified": 2059,
+			"id": 59
+		},
+		{
+			"st": 2059,
+			"ancestor": "-1",
+			"surface": "하나의 별자리에서 다음 별자리로 넘어갈 때의 날짜 만큼은",
+			"en_modified": 2090,
+			"en": 2090,
+			"st_modified": 2059,
+			"id": 60
+		},
+		{
+			"st": 2174,
+			"ancestor": "-1",
+			"surface": "4분원의 중간에 있는 별자리로",
+			"en_modified": 2190,
+			"en": 2190,
+			"st_modified": 2174,
+			"id": 61
+		},
+		{
+			"st": 2276,
+			"ancestor": "-1",
+			"surface": "열두 별자리를",
+			"en_modified": 2283,
+			"en": 2283,
+			"st_modified": 2276,
+			"id": 62
+		},
+		{
+			"st": 2376,
+			"ancestor": "-1",
+			"surface": "예를",
+			"en_modified": 2378,
+			"en": 2378,
+			"st_modified": 2376,
+			"id": 63
+		},
+		{
+			"st": 2444,
+			"ancestor": "-1",
+			"surface": "이와",
+			"en_modified": 2446,
+			"en": 2446,
+			"st_modified": 2444,
+			"id": 64
+		},
+		{
+			"st": 2444,
+			"ancestor": "-1",
+			"surface": "이와 같은 연결은",
+			"en_modified": 2453,
+			"en": 2453,
+			"st_modified": 2444,
+			"id": 65
+		},
+		{
+			"st": 2464,
+			"ancestor": "1-103",
+			"surface": "그",
+			"en_modified": 2465,
+			"en": 2465,
+			"st_modified": 2464,
+			"id": 66,
+			"coref_index": 546
+		},
+		{
+			"st": 2464,
+			"ancestor": "-1",
+			"surface": "그의 소설",
+			"en_modified": 2469,
+			"en": 2469,
+			"st_modified": 2464,
+			"id": 67
+		},
+		{
+			"st": 2464,
+			"ancestor": "-1",
+			"surface": "그의 소설 요셉과_그의_형제들에서",
+			"en_modified": 2482,
+			"en": 2482,
+			"st_modified": 2464,
+			"id": 68
+		},
+		{
+			"st": 2502,
+			"ancestor": "-1",
+			"surface": "황도대 별자리의",
+			"en_modified": 2510,
+			"en": 2510,
+			"st_modified": 2502,
+			"id": 69
+		},
+		{
+			"st": 2502,
+			"ancestor": "-1",
+			"surface": "황도대 별자리의 특징을",
+			"en_modified": 2514,
+			"en": 2514,
+			"st_modified": 2502,
+			"id": 70
+		},
+		{
+			"st": 2515,
+			"ancestor": "-1",
+			"surface": "각각의",
+			"en_modified": 2518,
+			"en": 2518,
+			"st_modified": 2515,
+			"id": 71
+		},
+		{
+			"st": 2515,
+			"ancestor": "-1",
+			"surface": "각각의 지파에",
+			"en_modified": 2522,
+			"en": 2522,
+			"st_modified": 2515,
+			"id": 72
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 40,
+			"entityName": "점성술",
+			"st_modified": 37,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 37,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "점성술",
+			"is_target": true,
+			"en": 40,
+			"id": 0
+		},
+		{
+			"en_modified": 49,
+			"entityName": "천문학",
+			"st_modified": 46,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 46,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천문학",
+			"is_target": true,
+			"en": 49,
+			"id": 1
+		},
+		{
+			"en_modified": 66,
+			"st_modified": 64,
+			"coref_index": 533,
+			"entityName": "천구",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 64,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천구",
+			"is_target": true,
+			"en": 66,
+			"id": 2
+		},
+		{
+			"en_modified": 76,
+			"entityName": "태양",
+			"st_modified": 74,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 74,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "태양",
+			"is_target": true,
+			"en": 76,
+			"id": 3
+		},
+		{
+			"en_modified": 88,
+			"st_modified": 86,
+			"coref_index": 529,
+			"entityName": "황도",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 86,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "황도",
+			"is_target": true,
+			"en": 88,
+			"id": 4
+		},
+		{
+			"en_modified": 127,
+			"entityName": "황도_좌표계",
+			"st_modified": 121,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 121,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천구의_위도",
+			"is_target": true,
+			"en": 127,
+			"id": 5
+		},
+		{
+			"en_modified": 138,
+			"st_modified": 137,
+			"coref_index": 534,
+			"entityName": "달",
+			"kbox_types": [
+				"Place",
+				"Planet",
+				"CelestialBody"
+			],
+			"eType": "WIKILINK",
+			"st": 137,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "달",
+			"is_target": true,
+			"en": 138,
+			"id": 6
+		},
+		{
+			"en_modified": 146,
+			"st_modified": 144,
+			"coref_index": 541,
+			"entityName": "행성",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 144,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "행성",
+			"is_target": true,
+			"en": 146,
+			"id": 7
+		},
+		{
+			"en_modified": 221,
+			"st_modified": 218,
+			"coref_index": 532,
+			"entityName": "점성학적_별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 218,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 221,
+			"id": 8
+		},
+		{
+			"en_modified": 247,
+			"entityName": "황위",
+			"st_modified": 245,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 245,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "황위",
+			"is_target": true,
+			"en": 247,
+			"id": 9
+		},
+		{
+			"en_modified": 260,
+			"st_modified": 257,
+			"coref_index": 540,
+			"entityName": "춘분점",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 257,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "춘분점",
+			"is_target": true,
+			"en": 260,
+			"id": 10
+		},
+		{
+			"en_modified": 279,
+			"entityName": "황경의_원점",
+			"st_modified": 273,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 273,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "황경의_원점",
+			"is_target": true,
+			"en": 279,
+			"id": 11
+		},
+		{
+			"en_modified": 291,
+			"entityName": "천구_좌표계",
+			"st_modified": 285,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 285,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천구_좌표계",
+			"is_target": true,
+			"en": 291,
+			"id": 12
+		},
+		{
+			"en_modified": 308,
+			"entityName": "황도_좌표계",
+			"st_modified": 302,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 302,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "황도_좌표계",
+			"is_target": true,
+			"en": 308,
+			"id": 13
+		},
+		{
+			"en_modified": 3,
+			"st_modified": 0,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 3,
+			"id": 14
+		},
+		{
+			"en_modified": 15,
+			"st_modified": 11,
+			"coref_index": 531,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 11,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "그리스어",
+			"is_target": true,
+			"en": 15,
+			"id": 15
+		},
+		{
+			"en_modified": 103,
+			"entityName": "",
+			"st_modified": 98,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 98,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천체_경도",
+			"is_target": true,
+			"en": 103,
+			"id": 16
+		},
+		{
+			"en_modified": 156,
+			"st_modified": 154,
+			"coref_index": 529,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 154,
+			"ancestor": "1-4",
+			"ne_type": "ETC",
+			"surface": "황도",
+			"is_target": true,
+			"en": 156,
+			"id": 17
+		},
+		{
+			"en_modified": 183,
+			"entityName": "",
+			"st_modified": 177,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 177,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "황도대의_띠",
+			"is_target": true,
+			"en": 183,
+			"id": 18
+		},
+		{
+			"en_modified": 190,
+			"st_modified": 188,
+			"coref_index": 529,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 188,
+			"ancestor": "1-4",
+			"ne_type": "ETC",
+			"surface": "황도",
+			"is_target": true,
+			"en": 190,
+			"id": 19
+		},
+		{
+			"en_modified": 239,
+			"st_modified": 236,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 236,
+			"ancestor": "1-14",
+			"ne_type": "ETC",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 239,
+			"id": 20
+		},
+		{
+			"en_modified": 243,
+			"st_modified": 241,
+			"coref_index": 529,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 241,
+			"ancestor": "1-19",
+			"ne_type": "ETC",
+			"surface": "황도",
+			"is_target": true,
+			"en": 243,
+			"id": 21
+		},
+		{
+			"en_modified": 326,
+			"entityName": "신바빌로니아",
+			"st_modified": 320,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 320,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "칼데아_시대",
+			"is_target": true,
+			"en": 326,
+			"id": 22
+		},
+		{
+			"en_modified": 348,
+			"st_modified": 339,
+			"coref_index": 537,
+			"entityName": "바빌로니아_점성술",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 339,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바빌로니아_점성술",
+			"is_target": true,
+			"en": 348,
+			"id": 23
+		},
+		{
+			"en_modified": 364,
+			"entityName": "헬레니즘_점성술",
+			"st_modified": 356,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 356,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "헬레니즘_점성술",
+			"is_target": true,
+			"en": 364,
+			"id": 24
+		},
+		{
+			"en_modified": 419,
+			"entityName": "로마_시대",
+			"st_modified": 414,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 414,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "로마_시대",
+			"is_target": true,
+			"en": 419,
+			"id": 25
+		},
+		{
+			"en_modified": 449,
+			"entityName": "클라우디오스_프톨레마이오스",
+			"st_modified": 442,
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 442,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "프톨레마이오스",
+			"is_target": true,
+			"en": 449,
+			"id": 26
+		},
+		{
+			"en_modified": 318,
+			"st_modified": 315,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 315,
+			"ancestor": "1-14",
+			"ne_type": "ETC",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 318,
+			"id": 27
+		},
+		{
+			"en_modified": 436,
+			"st_modified": 433,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 433,
+			"ancestor": "1-14",
+			"ne_type": "ETC",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 436,
+			"id": 28
+		},
+		{
+			"en_modified": 457,
+			"entityName": "",
+			"st_modified": 452,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 452,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "알마게스트",
+			"is_target": true,
+			"en": 457,
+			"id": 29
+		},
+		{
+			"en_modified": 462,
+			"entityName": "",
+			"st_modified": 459,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 459,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "2세기",
+			"is_target": true,
+			"en": 462,
+			"id": 30
+		},
+		{
+			"en_modified": 337,
+			"entityName": "",
+			"st_modified": 327,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 327,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "기원전_1세기_중반",
+			"is_target": true,
+			"en": 337,
+			"id": 31
+		},
+		{
+			"en_modified": 497,
+			"st_modified": 493,
+			"coref_index": 531,
+			"entityName": "그리스어",
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 493,
+			"ancestor": "1-15",
+			"ne_type": "ETC",
+			"surface": "그리스어",
+			"is_target": true,
+			"en": 497,
+			"id": 32
+		},
+		{
+			"en_modified": 560,
+			"st_modified": 556,
+			"coref_index": 531,
+			"entityName": "그리스어",
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 556,
+			"ancestor": "1-32",
+			"ne_type": "ETC",
+			"surface": "그리스어",
+			"is_target": true,
+			"en": 560,
+			"id": 33
+		},
+		{
+			"en_modified": 600,
+			"entityName": "라틴어",
+			"st_modified": 597,
+			"kbox_types": [
+				"Language"
+			],
+			"eType": "WIKILINK",
+			"st": 597,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "라틴어",
+			"is_target": true,
+			"en": 600,
+			"id": 34
+		},
+		{
+			"en_modified": 649,
+			"st_modified": 646,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 646,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 649,
+			"id": 35
+		},
+		{
+			"en_modified": 675,
+			"entityName": "신화의_잡종",
+			"st_modified": 669,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 669,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신화의_잡종",
+			"is_target": true,
+			"en": 675,
+			"id": 36
+		},
+		{
+			"en_modified": 484,
+			"st_modified": 481,
+			"coref_index": 544,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 481,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "조디악",
+			"is_target": true,
+			"en": 484,
+			"id": 37
+		},
+		{
+			"en_modified": 515,
+			"entityName": "",
+			"st_modified": 513,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 513,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "동물",
+			"is_target": true,
+			"en": 515,
+			"id": 38
+		},
+		{
+			"en_modified": 749,
+			"st_modified": 747,
+			"coref_index": 533,
+			"entityName": "천구",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 747,
+			"ancestor": "1-2",
+			"ne_type": "ETC",
+			"surface": "천구",
+			"is_target": true,
+			"en": 749,
+			"id": 39
+		},
+		{
+			"en_modified": 859,
+			"entityName": "주기_혜성",
+			"st_modified": 854,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 854,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "주기_혜성",
+			"is_target": true,
+			"en": 859,
+			"id": 40
+		},
+		{
+			"en_modified": 701,
+			"st_modified": 698,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 698,
+			"ancestor": "1-14",
+			"ne_type": "ETC",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 701,
+			"id": 41
+		},
+		{
+			"en_modified": 714,
+			"st_modified": 712,
+			"coref_index": 529,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 712,
+			"ancestor": "1-4",
+			"ne_type": "ETC",
+			"surface": "황도",
+			"is_target": true,
+			"en": 714,
+			"id": 42
+		},
+		{
+			"en_modified": 805,
+			"st_modified": 804,
+			"coref_index": 534,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 804,
+			"ancestor": "1-6",
+			"ne_type": "ETC",
+			"surface": "달",
+			"is_target": true,
+			"en": 805,
+			"id": 43
+		},
+		{
+			"en_modified": 889,
+			"st_modified": 886,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 886,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 889,
+			"id": 44
+		},
+		{
+			"en_modified": 929,
+			"entityName": "메디아",
+			"st_modified": 926,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 926,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "메디아",
+			"is_target": true,
+			"en": 929,
+			"id": 45
+		},
+		{
+			"en_modified": 937,
+			"st_modified": 931,
+			"coref_index": 536,
+			"entityName": "신바빌로니아_제국",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 931,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신바빌로니아",
+			"is_target": true,
+			"en": 937,
+			"id": 46
+		},
+		{
+			"en_modified": 956,
+			"st_modified": 951,
+			"coref_index": 535,
+			"entityName": "바빌로니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 951,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바빌로니아",
+			"is_target": true,
+			"en": 956,
+			"id": 47
+		},
+		{
+			"en_modified": 960,
+			"st_modified": 957,
+			"coref_index": 535,
+			"entityName": "칼데아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 957,
+			"ancestor": "1-47",
+			"ne_type": "ETC",
+			"surface": "칼데아",
+			"is_target": true,
+			"en": 960,
+			"id": 48
+		},
+		{
+			"en_modified": 1009,
+			"entityName": "물.아핀",
+			"st_modified": 1005,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1005,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "물.아핀",
+			"is_target": true,
+			"en": 1009,
+			"id": 49
+		},
+		{
+			"en_modified": 1030,
+			"st_modified": 1027,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1027,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 1030,
+			"id": 50
+		},
+		{
+			"en_modified": 1078,
+			"st_modified": 1075,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1075,
+			"ancestor": "1-50",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 1078,
+			"id": 51
+		},
+		{
+			"en_modified": 1121,
+			"entityName": "쌍둥이",
+			"st_modified": 1118,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1118,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "쌍둥이",
+			"is_target": true,
+			"en": 1121,
+			"id": 52
+		},
+		{
+			"en_modified": 1127,
+			"entityName": "쌍아궁",
+			"st_modified": 1124,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1124,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "쌍아궁",
+			"is_target": true,
+			"en": 1127,
+			"id": 53
+		},
+		{
+			"en_modified": 1159,
+			"entityName": "거해궁",
+			"st_modified": 1156,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1156,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "거해궁",
+			"is_target": true,
+			"en": 1159,
+			"id": 54
+		},
+		{
+			"en_modified": 884,
+			"st_modified": 881,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 881,
+			"ancestor": "1-14",
+			"ne_type": "ETC",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 884,
+			"id": 55
+		},
+		{
+			"en_modified": 948,
+			"st_modified": 941,
+			"coref_index": 536,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 941,
+			"ancestor": "1-46",
+			"ne_type": "TIME",
+			"surface": "기원전_7세기",
+			"is_target": true,
+			"en": 948,
+			"id": 56
+		},
+		{
+			"en_modified": 966,
+			"st_modified": 963,
+			"coref_index": 537,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 963,
+			"ancestor": "1-23",
+			"ne_type": "ETC",
+			"surface": "천문학",
+			"is_target": true,
+			"en": 966,
+			"id": 57
+		},
+		{
+			"en_modified": 987,
+			"st_modified": 984,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 984,
+			"ancestor": "1-55",
+			"ne_type": "ETC",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 987,
+			"id": 58
+		},
+		{
+			"en_modified": 999,
+			"entityName": "",
+			"st_modified": 989,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 989,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "기원전_1000년경",
+			"is_target": false,
+			"en": 999,
+			"id": 59
+		},
+		{
+			"en_modified": 1045,
+			"entityName": "",
+			"st_modified": 1039,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1039,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "청동기_시대",
+			"is_target": true,
+			"en": 1045,
+			"id": 60
+		},
+		{
+			"en_modified": 1132,
+			"st_modified": 1130,
+			"coref_index": 538,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1130,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "가재",
+			"is_target": true,
+			"en": 1132,
+			"id": 61
+		},
+		{
+			"en_modified": 1143,
+			"st_modified": 1140,
+			"coref_index": 538,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1140,
+			"ancestor": "1-61",
+			"ne_type": "TIME",
+			"surface": "알.룰",
+			"is_target": true,
+			"en": 1143,
+			"id": 62
+		},
+		{
+			"en_modified": 1153,
+			"entityName": "",
+			"st_modified": 1152,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1152,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "게",
+			"is_target": true,
+			"en": 1153,
+			"id": 63
+		},
+		{
+			"en_modified": 1092,
+			"st_modified": 1085,
+			"coref_index": 539,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1085,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "위대한_쌍둥이",
+			"is_target": true,
+			"en": 1092,
+			"id": 64
+		},
+		{
+			"en_modified": 1109,
+			"st_modified": 1100,
+			"coref_index": 539,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1100,
+			"ancestor": "1-64",
+			"ne_type": "TIME",
+			"surface": "마스.탑바.갈.갈",
+			"is_target": true,
+			"en": 1109,
+			"id": 65
+		},
+		{
+			"en_modified": 916,
+			"entityName": "",
+			"st_modified": 902,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 902,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "기원전_제1천년기의_전반기",
+			"is_target": false,
+			"en": 916,
+			"id": 66
+		},
+		{
+			"en_modified": 1193,
+			"st_modified": 1188,
+			"coref_index": 535,
+			"entityName": "바빌로니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1188,
+			"ancestor": "1-47",
+			"ne_type": "ETC",
+			"surface": "바빌로니아",
+			"is_target": true,
+			"en": 1193,
+			"id": 67
+		},
+		{
+			"en_modified": 1239,
+			"entityName": "황도_좌표계#황경",
+			"st_modified": 1234,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1234,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천구_경도",
+			"is_target": true,
+			"en": 1239,
+			"id": 68
+		},
+		{
+			"en_modified": 1274,
+			"entityName": "적도_좌표계",
+			"st_modified": 1268,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1268,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "적도_좌표계",
+			"is_target": true,
+			"en": 1274,
+			"id": 69
+		},
+		{
+			"en_modified": 1334,
+			"entityName": "바빌로니아_달력",
+			"st_modified": 1326,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1326,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바빌로니아_달력",
+			"is_target": true,
+			"en": 1334,
+			"id": 70
+		},
+		{
+			"en_modified": 1346,
+			"st_modified": 1343,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1343,
+			"ancestor": "1-35",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 1346,
+			"id": 71
+		},
+		{
+			"en_modified": 1364,
+			"st_modified": 1361,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1361,
+			"ancestor": "1-71",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 1364,
+			"id": 72
+		},
+		{
+			"en_modified": 1369,
+			"st_modified": 1366,
+			"coref_index": 545,
+			"entityName": "양자리",
+			"kbox_types": [
+				"Place",
+				"CelestialBody",
+				"Constellation"
+			],
+			"eType": "WIKILINK",
+			"st": 1366,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "양자리",
+			"is_target": true,
+			"en": 1369,
+			"id": 73
+		},
+		{
+			"en_modified": 1378,
+			"entityName": "양자리의_시대",
+			"st_modified": 1371,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1371,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "양자리의_시대",
+			"is_target": true,
+			"en": 1378,
+			"id": 74
+		},
+		{
+			"en_modified": 1389,
+			"st_modified": 1386,
+			"coref_index": 540,
+			"entityName": "춘분점",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1386,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "춘분점",
+			"is_target": true,
+			"en": 1389,
+			"id": 75
+		},
+		{
+			"en_modified": 1426,
+			"st_modified": 1423,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1423,
+			"ancestor": "1-72",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 1426,
+			"id": 76
+		},
+		{
+			"en_modified": 1449,
+			"entityName": "세차_운동",
+			"st_modified": 1445,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1445,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "세차운동",
+			"is_target": true,
+			"en": 1449,
+			"id": 77
+		},
+		{
+			"en_modified": 1480,
+			"entityName": "백양궁",
+			"st_modified": 1477,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1477,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "백양궁",
+			"is_target": true,
+			"en": 1480,
+			"id": 78
+		},
+		{
+			"en_modified": 1175,
+			"entityName": "",
+			"st_modified": 1167,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1167,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "기원전_제1천년",
+			"is_target": false,
+			"en": 1175,
+			"id": 79
+		},
+		{
+			"en_modified": 1316,
+			"st_modified": 1309,
+			"coref_index": 536,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1309,
+			"ancestor": "1-56",
+			"ne_type": "TIME",
+			"surface": "기원전_7세기",
+			"is_target": true,
+			"en": 1316,
+			"id": 80
+		},
+		{
+			"en_modified": 1581,
+			"st_modified": 1576,
+			"coref_index": 535,
+			"entityName": "바빌로니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1576,
+			"ancestor": "1-47",
+			"ne_type": "ETC",
+			"surface": "바빌로니아",
+			"is_target": true,
+			"en": 1581,
+			"id": 81
+		},
+		{
+			"en_modified": 1857,
+			"st_modified": 1852,
+			"coref_index": 535,
+			"entityName": "바빌로니아",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1852,
+			"ancestor": "1-81",
+			"ne_type": "ETC",
+			"surface": "바빌로니아",
+			"is_target": true,
+			"en": 1857,
+			"id": 82
+		},
+		{
+			"en_modified": 1887,
+			"entityName": "바빌로니아_천문_일지",
+			"st_modified": 1876,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1876,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "바빌로니아_천문_일지",
+			"is_target": true,
+			"en": 1887,
+			"id": 83
+		},
+		{
+			"en_modified": 1914,
+			"st_modified": 1911,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1911,
+			"ancestor": "1-35",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 1914,
+			"id": 84
+		},
+		{
+			"en_modified": 1925,
+			"st_modified": 1922,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1922,
+			"ancestor": "1-84",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 1925,
+			"id": 85
+		},
+		{
+			"en_modified": 2004,
+			"st_modified": 2001,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2001,
+			"ancestor": "1-84",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 2004,
+			"id": 86
+		},
+		{
+			"en_modified": 2066,
+			"st_modified": 2063,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2063,
+			"ancestor": "1-86",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 2066,
+			"id": 87
+		},
+		{
+			"en_modified": 2075,
+			"st_modified": 2072,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2072,
+			"ancestor": "1-86",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 2075,
+			"id": 88
+		},
+		{
+			"en_modified": 1899,
+			"st_modified": 1897,
+			"coref_index": 541,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1897,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "행성",
+			"is_target": true,
+			"en": 1899,
+			"id": 89
+		},
+		{
+			"en_modified": 1961,
+			"entityName": "",
+			"st_modified": 1955,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1955,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "경도의_도수",
+			"is_target": true,
+			"en": 1961,
+			"id": 90
+		},
+		{
+			"en_modified": 2000,
+			"st_modified": 1997,
+			"coref_index": 530,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1997,
+			"ancestor": "1-14",
+			"ne_type": "ETC",
+			"surface": "황도대",
+			"is_target": true,
+			"en": 2000,
+			"id": 91
+		},
+		{
+			"en_modified": 1987,
+			"st_modified": 1985,
+			"coref_index": 529,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1985,
+			"ancestor": "1-4",
+			"ne_type": "ETC",
+			"surface": "황도",
+			"is_target": true,
+			"en": 1987,
+			"id": 92
+		},
+		{
+			"en_modified": 2122,
+			"entityName": "히브리어_성경",
+			"st_modified": 2115,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 2115,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "히브리어_성경",
+			"is_target": true,
+			"en": 2122,
+			"id": 93
+		},
+		{
+			"en_modified": 2150,
+			"entityName": "에제키엘_(구약성경)",
+			"st_modified": 2145,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2145,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "에제키엘서",
+			"is_target": true,
+			"en": 2150,
+			"id": 94
+		},
+		{
+			"en_modified": 2189,
+			"st_modified": 2186,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2186,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 2189,
+			"id": 95
+		},
+		{
+			"en_modified": 2219,
+			"st_modified": 2216,
+			"coref_index": 542,
+			"entityName": "금우궁",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2216,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "금우궁",
+			"is_target": true,
+			"en": 2219,
+			"id": 96
+		},
+		{
+			"en_modified": 2252,
+			"st_modified": 2249,
+			"coref_index": 543,
+			"entityName": "천갈궁",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2249,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천갈궁",
+			"is_target": true,
+			"en": 2252,
+			"id": 97
+		},
+		{
+			"en_modified": 2282,
+			"st_modified": 2279,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2279,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 2282,
+			"id": 98
+		},
+		{
+			"en_modified": 2294,
+			"entityName": "이스라엘_민족",
+			"st_modified": 2284,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 2284,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이스라엘의_12지파",
+			"is_target": true,
+			"en": 2294,
+			"id": 99
+		},
+		{
+			"en_modified": 2321,
+			"entityName": "민수기",
+			"st_modified": 2318,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2318,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "민수기",
+			"is_target": true,
+			"en": 2321,
+			"id": 100
+		},
+		{
+			"en_modified": 2424,
+			"st_modified": 2421,
+			"coref_index": 542,
+			"entityName": "금우궁",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2421,
+			"ancestor": "1-96",
+			"ne_type": "ETC",
+			"surface": "금우궁",
+			"is_target": true,
+			"en": 2424,
+			"id": 101
+		},
+		{
+			"en_modified": 2432,
+			"st_modified": 2429,
+			"coref_index": 543,
+			"entityName": "천갈궁",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2429,
+			"ancestor": "1-97",
+			"ne_type": "ETC",
+			"surface": "천갈궁",
+			"is_target": true,
+			"en": 2432,
+			"id": 102
+		},
+		{
+			"en_modified": 2459,
+			"st_modified": 2454,
+			"coref_index": 546,
+			"entityName": "토마스_만",
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 2454,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "토마스_만",
+			"is_target": true,
+			"en": 2459,
+			"id": 103
+		},
+		{
+			"en_modified": 2480,
+			"entityName": "요셉과_그의_형제들",
+			"st_modified": 2470,
+			"kbox_types": [
+				"WrittenWork",
+				"Book",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 2470,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "요셉과_그의_형제들",
+			"is_target": true,
+			"en": 2480,
+			"id": 104
+		},
+		{
+			"en_modified": 2489,
+			"entityName": "야곱의_축복",
+			"st_modified": 2483,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 2483,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "야곱의_축복",
+			"is_target": true,
+			"en": 2489,
+			"id": 105
+		},
+		{
+			"en_modified": 2509,
+			"st_modified": 2506,
+			"coref_index": 532,
+			"entityName": "별자리",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 2506,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "별자리",
+			"is_target": true,
+			"en": 2509,
+			"id": 106
+		}
+	],
+	"globalSID": "382859,382860,382861,382862,382863,382864,382865,382866,382867,382868,382869,382870,382871,382872,382873,382874,382875,382876,382877,382878,382879,382880,382881,382882,382883,382884,382885,382886,382887,382888,382889,382890,382891,382892,382893,382894",
+	"plainText": "황도대(黃道帶, , 그리스어: ζ?διακ??, \"조디아코스\")는 점성술과 역사적 천문학 모두에서, 한 해 동안에 천구를 가로지르는 태양의 외견상 경로인 황도를 중심으로 하는 천체_경도의 30°씩의 구간들의 원이다. 천구의_위도에서 측정될 때, 달과 가시적 행성의 경로 또한 황도의 남쪽이나 북쪽으로 8~9° 범위인 황도대의_띠 내에서 황도와 가깝게 유지된다. 역사적으로, 이 열두 구간은 별자리라고 불린다. 기본적으로, 황도대는 황도를 황위의 원점으로 하고 춘분점에 있는 태양의 위치를 황경의_원점으로 하는 천구_좌표계 또는 더 분명히는 황도_좌표계이다. 사용 황도대는 칼데아_시대(기원전_1세기_중반) 바빌로니아_점성술로부터 파생된 헬레니즘_점성술에 근거하여 즉, 황도를 따라 지나는 항성의 목록에 대한 보다 이른 체계에서부터 유래되어 로마_시대부터 사용되어오고 있다. 황도대의 구조는 프톨레마이오스의 \"알마게스트\"(2세기)에 묘사되어 있다. zodiac(조디악)이라는 용어는 그리스어로 ζ?ον (\"조이온\") \"동물\"의 지소사 ζ?διον(\"조디온\")에서 파생된 \"동물들의 원\"을 뜻하는 그리스어 ζ?διακ?? κ?κλο?(\"조디아코스 쿠클로스\")에서 유래한 라틴어 \"z?diacus\"(조디아쿠스)에서 파생되었다. 이 이름은 고대 그리스 황도대의 별자리의 절반이 동물들로 (그외 두 개는 신화의_잡종으로) 표현되었다는 사실에 이유가 있다. 황도대(조디악)의 용어는 황도로부터 위아래로 약 8도에 해당하는 행성의 경로를 포함하는 천구의 부분을 말하기도 한다. 특정 행성의 황도대는 그 천체의 경로를 내포하는 띠이다. 예를 들어, \"달의 황도대\"는 황도의 위아래로 5도인 띠이다. 더 나아가, \"혜성의 황도대\"는 대부분의 주기_혜성의 경로를 포함하는 띠이다. 역사 초기 황도대의 별자리로 황도를 분할한 것은 기원전_제1천년기의_전반기 동안에, 아마도 메디아와 신바빌로니아 시대(기원전_7세기)의 바빌로니아(칼데아)의 천문학에 기원이 있는 듯하다. 고대의 황도대는 기원전_1000년경에 제작된 물.아핀이라는 목록의 개량형이다. 몇몇 별자리는 더 이르게는 청동기_시대(구바빌로니아)의 자료까지 거슬러 올라가는데, 그것은 별자리 중에서도 \"위대한_쌍둥이\"를 뜻하는 \"마스.탑바.갈.갈\"에서 유래한 \"쌍둥이\"의 쌍아궁과 \"가재\"를 뜻하는 \"알.룰\"에서 파생된 \"게\"의 거해궁을 포함한다. 기원전_제1천년기 동안의 어느 국면에 바빌로니아의 천문학자들은 알려진 최초의 천체의 좌표 체계를 만들기 위해서 황도대를 천구_경도의 균일한 열두 구간으로 분할했다.: 그 좌표계는 (적도_좌표계와 같은) 현대의 좌표계에 비해 몇 가지 잇점을 가지고 있다. 기원전_7세기에 그것이 사용된 바빌로니아_달력은 각각의 달에 별자리에 할당했는데, 그 당시의 별자리는 양자리(\"양자리의_시대\")로 묘사된 춘분점에 있는 태양의 위치에서 시작했고, 그런 까닭에 그 첫 번째 별자리는 춘분점이 지구의 자전축의 느린 세차운동으로 인해 양자리 성좌로부터 멀어진 후에도 여전히 백양궁이라고 불린다. 황도대의 분할은 각각 30º씩의 균등한 호로 이루어졌기 때문에, 그들은 행성의 경도를 예측하는데 기준이 되는 이상적인 체계를 성립시킬 수 있었다. 그러나, 바빌로니아의 관찰적인 측정 기법은 발전의 기초 단계에 있었고, 하늘에 있는 황도대의 별자리 사이의 경계선을 적확한 방법으로 규정짓는 것은 아마도 그들의 능력 밖에 있었던 것 같다. 그런 까닭에, 황도 좌표계 내에 있는 행성의 위치를 파악하는데 도움이 될 수 있도록 황도와 (±9º로) 가까이 있는 항성을 일련의 관찰적 기준점으로 사용할 필요가 있었다. 황도대의 성좌는 별자리와 성군의 이름이 부되었고, 그 이름과 유사한 의미로 연관될 수 있었다. 그러므로, 그것의 개념상의 기원에도 불구하고, 바빌로니아의 황도대는 항성황도대가 되었다. 바빌로니아_천문_일지에서, 일반적으로 행성의 위치는 단 하나의 별자리에 대하여 그 별자리 내에서의 보다 작은 특정 도수가 부여되었다. 그들은 경도의_도수를 부여하는데 있어서, 연속되는 360º의 황도에 관해서가 아닌 황도대 별자리의 30º에 관해서 표현했다. 그들의 수학적인 천문력의 구성에 있어서, 행성의 일일 위치는 행성이 하나의 별자리에서 다음 별자리로 넘어갈 때의 날짜 만큼은 중요하지 않다. 바빌로니아 황도대의 지식은 히브리어_성경에 반영되기도 했다. E. W. 벌링거는 에제키엘서와 묵시록에서 등장하는 창조물을 황도대에서 4분원의 중간에 있는 별자리로 해석했는데, 즉, 사자를 사자궁으로, 황소를 금우궁으로, 사람은 보병궁을 표현한 것으로 그리고 독수리는 천갈궁을 표현한 것으로 해석했다. 몇몇 작가들은 열두 별자리를 이스라엘의_12지파와 연관짓는다. 어니스트 L. 마틴 등은 (민수기에서 전하는) 성막을 중심으로 하는 지파들의 배치가 황도대의 순서와 일치한다고 주장해오고 있는데, 예를 들면, 유다족과 르우벤족, 에브라임족 그리고 단족이 각각 사자궁과 보병궁, 금우궁 그리고 천갈궁을 대표한다고 한다. 이와 같은 연결은 토마스_만에 의해 그의 소설 요셉과_그의_형제들에서 야곱의_축복에 대한 해석에 있어서 황도대 별자리의 특징을 각각의 지파에 귀속시킴으로 계속되었다. ",
+	"docID": "40600",
+	"ModifiedText": "황도대(黃道帶, , 그리스어: ζ?διακ??, \"조디아코스\")는 점성술과 역사적 천문학 모두에서, 한 해 동안에 천구를 가로지르는 태양의 외견상 경로인 황도를 중심으로 하는 천체 경도의 30°씩의 구간들의 원이다. 천구의 위도에서 측정될 때, 달과 가시적 행성의 경로 또한 황도의 남쪽이나 북쪽으로 8~9° 범위인 황도대의 띠 내에서 황도와 가깝게 유지된다. 역사적으로, 이 열두 구간은 별자리라고 불린다. 기본적으로, 황도대는 황도를 황위의 원점으로 하고 춘분점에 있는 태양의 위치를 황경의 원점으로 하는 천구 좌표계 또는 더 분명히는 황도 좌표계이다. 사용 황도대는 칼데아 시대(기원전 1세기 중반) 바빌로니아 점성술로부터 파생된 헬레니즘 점성술에 근거하여 즉, 황도를 따라 지나는 항성의 목록에 대한 보다 이른 체계에서부터 유래되어 로마 시대부터 사용되어오고 있다. 황도대의 구조는 프톨레마이오스의 \"알마게스트\"(2세기)에 묘사되어 있다. zodiac(조디악)이라는 용어는 그리스어로 ζ?ον (\"조이온\") \"동물\"의 지소사 ζ?διον(\"조디온\")에서 파생된 \"동물들의 원\"을 뜻하는 그리스어 ζ?διακ?? κ?κλο?(\"조디아코스 쿠클로스\")에서 유래한 라틴어 \"z?diacus\"(조디아쿠스)에서 파생되었다. 이 이름은 고대 그리스 황도대의 별자리의 절반이 동물들로 (그외 두 개는 신화의 잡종으로) 표현되었다는 사실에 이유가 있다. 황도대(조디악)의 용어는 황도로부터 위아래로 약 8도에 해당하는 행성의 경로를 포함하는 천구의 부분을 말하기도 한다. 특정 행성의 황도대는 그 천체의 경로를 내포하는 띠이다. 예를 들어, \"달의 황도대\"는 황도의 위아래로 5도인 띠이다. 더 나아가, \"혜성의 황도대\"는 대부분의 주기 혜성의 경로를 포함하는 띠이다. 역사 초기 황도대의 별자리로 황도를 분할한 것은 기원전 제1천년기의 전반기 동안에, 아마도 메디아와 신바빌로니아 시대(기원전 7세기)의 바빌로니아(칼데아)의 천문학에 기원이 있는 듯하다. 고대의 황도대는 기원전 1000년경에 제작된 물.아핀이라는 목록의 개량형이다. 몇몇 별자리는 더 이르게는 청동기 시대(구바빌로니아)의 자료까지 거슬러 올라가는데, 그것은 별자리 중에서도 \"위대한 쌍둥이\"를 뜻하는 \"마스.탑바.갈.갈\"에서 유래한 \"쌍둥이\"의 쌍아궁과 \"가재\"를 뜻하는 \"알.룰\"에서 파생된 \"게\"의 거해궁을 포함한다. 기원전 제1천년기 동안의 어느 국면에 바빌로니아의 천문학자들은 알려진 최초의 천체의 좌표 체계를 만들기 위해서 황도대를 천구 경도의 균일한 열두 구간으로 분할했다.: 그 좌표계는 (적도 좌표계와 같은) 현대의 좌표계에 비해 몇 가지 잇점을 가지고 있다. 기원전 7세기에 그것이 사용된 바빌로니아 달력은 각각의 달에 별자리에 할당했는데, 그 당시의 별자리는 양자리(\"양자리의 시대\")로 묘사된 춘분점에 있는 태양의 위치에서 시작했고, 그런 까닭에 그 첫 번째 별자리는 춘분점이 지구의 자전축의 느린 세차운동으로 인해 양자리 성좌로부터 멀어진 후에도 여전히 백양궁이라고 불린다. 황도대의 분할은 각각 30º씩의 균등한 호로 이루어졌기 때문에, 그들은 행성의 경도를 예측하는데 기준이 되는 이상적인 체계를 성립시킬 수 있었다. 그러나, 바빌로니아의 관찰적인 측정 기법은 발전의 기초 단계에 있었고, 하늘에 있는 황도대의 별자리 사이의 경계선을 적확한 방법으로 규정짓는 것은 아마도 그들의 능력 밖에 있었던 것 같다. 그런 까닭에, 황도 좌표계 내에 있는 행성의 위치를 파악하는데 도움이 될 수 있도록 황도와 (±9º로) 가까이 있는 항성을 일련의 관찰적 기준점으로 사용할 필요가 있었다. 황도대의 성좌는 별자리와 성군의 이름이 부되었고, 그 이름과 유사한 의미로 연관될 수 있었다. 그러므로, 그것의 개념상의 기원에도 불구하고, 바빌로니아의 황도대는 항성황도대가 되었다. 바빌로니아 천문 일지에서, 일반적으로 행성의 위치는 단 하나의 별자리에 대하여 그 별자리 내에서의 보다 작은 특정 도수가 부여되었다. 그들은 경도의 도수를 부여하는데 있어서, 연속되는 360º의 황도에 관해서가 아닌 황도대 별자리의 30º에 관해서 표현했다. 그들의 수학적인 천문력의 구성에 있어서, 행성의 일일 위치는 행성이 하나의 별자리에서 다음 별자리로 넘어갈 때의 날짜 만큼은 중요하지 않다. 바빌로니아 황도대의 지식은 히브리어 성경에 반영되기도 했다. E. W. 벌링거는 에제키엘서와 묵시록에서 등장하는 창조물을 황도대에서 4분원의 중간에 있는 별자리로 해석했는데, 즉, 사자를 사자궁으로, 황소를 금우궁으로, 사람은 보병궁을 표현한 것으로 그리고 독수리는 천갈궁을 표현한 것으로 해석했다. 몇몇 작가들은 열두 별자리를 이스라엘의 12지파와 연관짓는다. 어니스트 L. 마틴 등은 (민수기에서 전하는) 성막을 중심으로 하는 지파들의 배치가 황도대의 순서와 일치한다고 주장해오고 있는데, 예를 들면, 유다족과 르우벤족, 에브라임족 그리고 단족이 각각 사자궁과 보병궁, 금우궁 그리고 천갈궁을 대표한다고 한다. 이와 같은 연결은 토마스 만에 의해 그의 소설 요셉과 그의 형제들에서 야곱의 축복에 대한 해석에 있어서 황도대 별자리의 특징을 각각의 지파에 귀속시킴으로 계속되었다. "
+}

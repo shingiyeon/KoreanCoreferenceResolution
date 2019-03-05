@@ -1,0 +1,2052 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 11,
+			"eType": "WIKILINK",
+			"entityName": "제2차_세계_대전",
+			"en": 20,
+			"is_target": true,
+			"surface": "제2차_세계_대전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 24,
+			"eType": "WIKILINK",
+			"entityName": "비시_프랑스",
+			"en": 30,
+			"is_target": true,
+			"surface": "비시_프랑스",
+			"coref_index": 547,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"st": 40,
+			"eType": "WIKILINK",
+			"entityName": "마다가스카르",
+			"en": 46,
+			"is_target": true,
+			"surface": "마다가스카르",
+			"coref_index": 548,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 53,
+			"eType": "WIKILINK",
+			"entityName": "대영제국",
+			"en": 57,
+			"is_target": true,
+			"surface": "대영제국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 4,
+			"ne_type": "LOCATION",
+			"st": 59,
+			"eType": "ELU",
+			"entityName": "비시_프랑스",
+			"en": 65,
+			"is_target": true,
+			"surface": "비시_프랑스",
+			"coref_index": 547,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "EVENT",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 9,
+			"is_target": true,
+			"surface": "마다가스카르_전투",
+			"coref_index": 562,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 81,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 89,
+			"is_target": false,
+			"surface": "1942년_5월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 97,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 105,
+			"is_target": true,
+			"surface": "안치라나나_항구",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "EVENT",
+			"st": 112,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 137,
+			"is_target": true,
+			"surface": "철갑_작전(Operation_Ironclad)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "TIME",
+			"st": 149,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 155,
+			"is_target": false,
+			"surface": "9월_10일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "EVENT",
+			"st": 172,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 210,
+			"is_target": true,
+			"surface": "스트림라인_제인_작전(Operation_Streamline_Jane)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "TIME",
+			"st": 224,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 230,
+			"is_target": false,
+			"surface": "11월_6일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "EVENT",
+			"st": 231,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 236,
+			"is_target": true,
+			"surface": "정전_협정",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 13,
+			"ne_type": "LOCATION",
+			"st": 263,
+			"eType": "WIKILINK",
+			"en": 268,
+			"entityName": "안치라나나",
+			"is_target": true,
+			"surface": "안치라나나",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 337,
+			"eType": "WIKILINK",
+			"en": 344,
+			"entityName": "안치라나나_만",
+			"is_target": true,
+			"surface": "안치라나나_만",
+			"coref_index": 549,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 474,
+			"eType": "ELU",
+			"en": 477,
+			"entityName": "프랑스",
+			"is_target": true,
+			"surface": "프랑스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 503,
+			"eType": "ELU",
+			"en": 506,
+			"entityName": "이동하",
+			"is_target": true,
+			"surface": "이동하",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 516,
+			"eType": "WIKILINK",
+			"en": 524,
+			"entityName": "석탄_공급_기지",
+			"is_target": true,
+			"surface": "석탄_공급_기지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 540,
+			"eType": "WIKILINK",
+			"en": 549,
+			"entityName": "프랑스-호바_전쟁",
+			"is_target": true,
+			"surface": "프랑스-호바_전쟁",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 567,
+			"eType": "WIKILINK",
+			"en": 575,
+			"entityName": "라나발로나_3세",
+			"is_target": true,
+			"surface": "라나발로나_3세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 651,
+			"eType": "WIKILINK",
+			"en": 662,
+			"entityName": "프랑스령_마다가스카르",
+			"is_target": true,
+			"surface": "프랑스령_마다가스카르",
+			"coref_index": 548,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "TIME",
+			"st": 674,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 679,
+			"is_target": false,
+			"surface": "1941년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "LOCATION",
+			"st": 680,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 687,
+			"is_target": true,
+			"surface": "안치라나나_만",
+			"coref_index": 549,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "LOCATION",
+			"st": 689,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 694,
+			"is_target": true,
+			"surface": "해협_지역",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 696,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 698,
+			"is_target": true,
+			"surface": "해군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 700,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 703,
+			"is_target": true,
+			"surface": "해안포",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 26,
+			"ne_type": "LOCATION",
+			"st": 716,
+			"eType": "ELU",
+			"entityName": "추축국",
+			"en": 719,
+			"is_target": true,
+			"surface": "추축국",
+			"coref_index": 552,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 27,
+			"ne_type": "LOCATION",
+			"st": 724,
+			"eType": "ELU",
+			"entityName": "일본_제국",
+			"en": 729,
+			"is_target": true,
+			"surface": "일본_제국",
+			"coref_index": 558,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 28,
+			"ne_type": "LOCATION",
+			"st": 745,
+			"eType": "WIKILINK",
+			"entityName": "동남아시아",
+			"en": 750,
+			"is_target": true,
+			"surface": "동남아시아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 759,
+			"eType": "WIKILINK",
+			"entityName": "버마",
+			"en": 761,
+			"is_target": true,
+			"surface": "버마",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"st": 769,
+			"eType": "WIKILINK",
+			"entityName": "일본_제국_해군",
+			"en": 777,
+			"is_target": true,
+			"surface": "일본_제국_해군",
+			"coref_index": 550,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NaturalPlace",
+				"Place",
+				"Ocean",
+				"BodyOfWater"
+			],
+			"id": 31,
+			"ne_type": "LOCATION",
+			"st": 786,
+			"eType": "WIKILINK",
+			"entityName": "인도양",
+			"en": 789,
+			"is_target": true,
+			"surface": "인도양",
+			"coref_index": 553,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 832,
+			"eType": "WIKILINK",
+			"entityName": "인도양_기습",
+			"en": 838,
+			"is_target": true,
+			"surface": "인도양_기습",
+			"coref_index": 563,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 843,
+			"eType": "WIKILINK",
+			"entityName": "실론",
+			"en": 845,
+			"is_target": true,
+			"surface": "실론",
+			"coref_index": 561,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 34,
+			"ne_type": "LOCATION",
+			"st": 849,
+			"eType": "WIKILINK",
+			"entityName": "콜롬보",
+			"en": 852,
+			"is_target": true,
+			"surface": "콜롬보",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 35,
+			"ne_type": "LOCATION",
+			"st": 854,
+			"eType": "WIKILINK",
+			"entityName": "트링코말리",
+			"en": 859,
+			"is_target": true,
+			"surface": "트링코말리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 866,
+			"eType": "ELU",
+			"entityName": "벵골_만",
+			"en": 870,
+			"is_target": true,
+			"surface": "벵골_만",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 888,
+			"eType": "WIKILINK",
+			"entityName": "영국_동부함대",
+			"en": 895,
+			"is_target": true,
+			"surface": "영국_동부함대",
+			"coref_index": 551,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 901,
+			"eType": "ELU",
+			"entityName": "동아프리카",
+			"en": 906,
+			"is_target": true,
+			"surface": "동아프리카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 908,
+			"eType": "WIKILINK",
+			"entityName": "케냐",
+			"en": 910,
+			"is_target": true,
+			"surface": "케냐",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 40,
+			"ne_type": "LOCATION",
+			"st": 911,
+			"eType": "WIKILINK",
+			"entityName": "몸바사",
+			"en": 914,
+			"is_target": true,
+			"surface": "몸바사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 918,
+			"eType": "WIKILINK",
+			"entityName": "킬린디니_항구",
+			"en": 925,
+			"is_target": true,
+			"surface": "킬린디니_항구",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "TIME",
+			"st": 731,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 739,
+			"is_target": false,
+			"surface": "1942년_2월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "TIME",
+			"st": 809,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 817,
+			"is_target": false,
+			"surface": "1942년_3월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 44,
+			"ne_type": "LOCATION",
+			"st": 987,
+			"eType": "ELU",
+			"entityName": "마다가스카르_섬",
+			"en": 995,
+			"is_target": true,
+			"surface": "마다가스카르_섬",
+			"coref_index": 548,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 1025,
+			"eType": "ELU",
+			"entityName": "일본군",
+			"en": 1028,
+			"is_target": true,
+			"surface": "일본군",
+			"coref_index": 554,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 46,
+			"ne_type": "ORGANIZATION",
+			"st": 1030,
+			"eType": "ELU",
+			"entityName": "마다가스카르",
+			"en": 1036,
+			"is_target": true,
+			"surface": "마다가스카르",
+			"coref_index": 548,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 1052,
+			"eType": "WIKILINK",
+			"entityName": "제2차_세계_대전의_연합국",
+			"en": 1055,
+			"is_target": true,
+			"surface": "연합국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 1065,
+			"eType": "WIKILINK",
+			"entityName": "8_군_(영국)",
+			"en": 1068,
+			"is_target": true,
+			"surface": "8_군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "ORGANIZATION",
+			"st": 951,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 956,
+			"is_target": true,
+			"surface": "영국_함대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "PERSON",
+			"st": 976,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 981,
+			"is_target": true,
+			"surface": "일본_해군",
+			"coref_index": 550,
+			"ancestor": "1-30"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "LOCATION",
+			"st": 997,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1001,
+			"is_target": true,
+			"surface": "해군기지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "ORGANIZATION",
+			"st": 1070,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1074,
+			"is_target": true,
+			"surface": "동부함대",
+			"coref_index": 551,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 53,
+			"ne_type": "LOCATION",
+			"st": 1113,
+			"eType": "ELU",
+			"entityName": "추축국",
+			"en": 1116,
+			"is_target": true,
+			"surface": "추축국",
+			"coref_index": 552,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 54,
+			"ne_type": "ORGANIZATION",
+			"st": 1159,
+			"eType": "ELU",
+			"entityName": "일본_제국_해군",
+			"en": 1167,
+			"is_target": true,
+			"surface": "일본_제국_해군",
+			"coref_index": 550,
+			"ancestor": "1-30"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 55,
+			"ne_type": "ORGANIZATION",
+			"st": 1174,
+			"eType": "ELU",
+			"entityName": "마다가스카르",
+			"en": 1180,
+			"is_target": true,
+			"surface": "마다가스카르",
+			"coref_index": 548,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"BodyOfWater",
+				"Infrastructure",
+				"Airport",
+				"Ocean",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 56,
+			"ne_type": "LOCATION",
+			"st": 1192,
+			"eType": "WIKILINK",
+			"entityName": "태평양",
+			"en": 1195,
+			"is_target": true,
+			"surface": "태평양",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 57,
+			"ne_type": "LOCATION",
+			"st": 1196,
+			"eType": "WIKILINK",
+			"entityName": "오스트레일리아",
+			"en": 1203,
+			"is_target": true,
+			"surface": "오스트레일리아",
+			"coref_index": 555,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Airport",
+				"Infrastructure",
+				"ArchitecturalStructure"
+			],
+			"id": 58,
+			"ne_type": "LOCATION",
+			"st": 1204,
+			"eType": "WIKILINK",
+			"entityName": "중동",
+			"en": 1206,
+			"is_target": true,
+			"surface": "중동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "ETC",
+			"st": 1214,
+			"eType": "WIKILINK",
+			"entityName": "남대서양",
+			"en": 1218,
+			"is_target": true,
+			"surface": "남대서양",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "ORGANIZATION",
+			"st": 1101,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1108,
+			"is_target": true,
+			"surface": "일본군_잠수함",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "LOCATION",
+			"st": 1124,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1128,
+			"is_target": true,
+			"surface": "작전반경",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "LOCATION",
+			"st": 1133,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1142,
+			"is_target": true,
+			"surface": "16,000_km",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "ETC",
+			"st": 1223,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1231,
+			"is_target": true,
+			"surface": "연합군의_통신선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "EVENT",
+			"st": 1233,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1235,
+			"is_target": true,
+			"surface": "위협",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"City",
+				"AdministrativeRegion"
+			],
+			"id": 65,
+			"ne_type": "LOCATION",
+			"st": 1286,
+			"eType": "ELU",
+			"entityName": "베를린",
+			"en": 1289,
+			"is_target": true,
+			"surface": "베를린",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 66,
+			"ne_type": "ORGANIZATION",
+			"st": 1315,
+			"eType": "WIKILINK",
+			"entityName": "독일_전쟁해군",
+			"en": 1322,
+			"is_target": true,
+			"surface": "독일_전쟁해군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 67,
+			"ne_type": "LOCATION",
+			"st": 1391,
+			"eType": "ELU",
+			"entityName": "추축국",
+			"en": 1394,
+			"is_target": true,
+			"surface": "추축국",
+			"coref_index": 552,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"NaturalPlace",
+				"Place",
+				"Ocean",
+				"BodyOfWater"
+			],
+			"id": 68,
+			"ne_type": "LOCATION",
+			"st": 1397,
+			"eType": "ELU",
+			"entityName": "인도양",
+			"en": 1400,
+			"is_target": true,
+			"surface": "인도양",
+			"coref_index": 553,
+			"ancestor": "1-31"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ETC",
+			"st": 1413,
+			"eType": "ELU",
+			"entityName": "일본군",
+			"en": 1416,
+			"is_target": true,
+			"surface": "일본군",
+			"coref_index": 554,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 70,
+			"ne_type": "LOCATION",
+			"st": 1458,
+			"eType": "ELU",
+			"entityName": "스리랑카",
+			"en": 1462,
+			"is_target": true,
+			"surface": "실론_섬",
+			"coref_index": 556,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 71,
+			"ne_type": "LOCATION",
+			"st": 1479,
+			"eType": "ELU",
+			"entityName": "오스트레일리아",
+			"en": 1486,
+			"is_target": true,
+			"surface": "오스트레일리아",
+			"coref_index": 555,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 72,
+			"ne_type": "LOCATION",
+			"st": 1490,
+			"eType": "ELU",
+			"entityName": "세이셸",
+			"en": 1493,
+			"is_target": true,
+			"surface": "세이셸",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 73,
+			"ne_type": "ORGANIZATION",
+			"st": 1495,
+			"eType": "ELU",
+			"entityName": "마다가스카르",
+			"en": 1501,
+			"is_target": true,
+			"surface": "마다가스카르",
+			"coref_index": 548,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"BodyOfWater",
+				"Place",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 74,
+			"ne_type": "LOCATION",
+			"st": 1532,
+			"eType": "ELU",
+			"entityName": "아덴_만",
+			"en": 1535,
+			"is_target": true,
+			"surface": "아덴만",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 75,
+			"ne_type": "ORGANIZATION",
+			"st": 1589,
+			"eType": "ELU",
+			"entityName": "마다가스카르",
+			"en": 1595,
+			"is_target": true,
+			"surface": "마다가스카르",
+			"coref_index": 548,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 76,
+			"ne_type": "LOCATION",
+			"st": 1598,
+			"eType": "ELU",
+			"entityName": "스리랑카",
+			"en": 1602,
+			"is_target": true,
+			"surface": "실론_섬",
+			"coref_index": 556,
+			"ancestor": "1-70"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "TIME",
+			"st": 1245,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1258,
+			"is_target": false,
+			"surface": "1941년_12월_21일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "PERSON",
+			"st": 1298,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1310,
+			"is_target": true,
+			"surface": "아타셰_노무라_나오쿠니",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "ORGANIZATION",
+			"st": 1260,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1268,
+			"is_target": true,
+			"surface": "독일_해전지휘부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "PERSON",
+			"st": 1270,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1273,
+			"is_target": true,
+			"surface": "참모장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "PERSON",
+			"st": 1274,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1284,
+			"is_target": true,
+			"surface": "쿠르트_프리케_제독",
+			"coref_index": 557,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ORGANIZATION",
+			"st": 1292,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1297,
+			"is_target": true,
+			"surface": "일본_해군",
+			"coref_index": 550,
+			"ancestor": "1-50"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "ORGANIZATION",
+			"st": 1324,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1332,
+			"is_target": true,
+			"surface": "일본_제국_해군",
+			"coref_index": 550,
+			"ancestor": "1-30"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "TIME",
+			"st": 1359,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1371,
+			"is_target": false,
+			"surface": "1942년_3월_27일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "PERSON",
+			"st": 1386,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1389,
+			"is_target": true,
+			"surface": "프리케",
+			"coref_index": 557,
+			"ancestor": "1-81"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "ETC",
+			"st": 1380,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1382,
+			"is_target": true,
+			"surface": "회담",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 1350,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1352,
+			"is_target": true,
+			"surface": "회의",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "LOCATION",
+			"st": 1418,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1424,
+			"is_target": true,
+			"surface": "인도양_북부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "ETC",
+			"st": 1425,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1427,
+			"is_target": true,
+			"surface": "항로",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "ETC",
+			"st": 1432,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1434,
+			"is_target": true,
+			"surface": "작전",
+			"coref_index": 559,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "PERSON",
+			"st": 1453,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1456,
+			"is_target": true,
+			"surface": "프리케",
+			"coref_index": 557,
+			"ancestor": "1-81"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "ORGANIZATION",
+			"st": 1470,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1476,
+			"is_target": true,
+			"surface": "추축국_해군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "TIME",
+			"st": 1516,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1521,
+			"is_target": false,
+			"surface": "4월_8일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "ORGANIZATION",
+			"st": 1522,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1524,
+			"is_target": true,
+			"surface": "일본",
+			"coref_index": 558,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 95,
+			"ne_type": "PERSON",
+			"st": 1526,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1529,
+			"is_target": true,
+			"surface": "프리케",
+			"coref_index": 557,
+			"ancestor": "1-81"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "LOCATION",
+			"st": 1538,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1541,
+			"is_target": true,
+			"surface": "케이프",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 97,
+			"ne_type": "LOCATION",
+			"st": 1545,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1549,
+			"is_target": true,
+			"surface": "서인도양",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 98,
+			"ne_type": "ETC",
+			"st": 1553,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1555,
+			"is_target": true,
+			"surface": "작전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 99,
+			"ne_type": "ETC",
+			"st": 1558,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1561,
+			"is_target": true,
+			"surface": "잠수함",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 100,
+			"ne_type": "ETC",
+			"st": 1568,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1573,
+			"is_target": true,
+			"surface": "보조순양함",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 101,
+			"ne_type": "ETC",
+			"st": 1607,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1609,
+			"is_target": true,
+			"surface": "작전",
+			"coref_index": 559,
+			"ancestor": "1-90"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 102,
+			"ne_type": "LOCATION",
+			"st": 1622,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1624,
+			"is_target": true,
+			"surface": "지역",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 103,
+			"ne_type": "ETC",
+			"st": 1626,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1628,
+			"is_target": true,
+			"surface": "작전",
+			"coref_index": 559,
+			"ancestor": "1-90"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 104,
+			"ne_type": "ETC",
+			"st": 1630,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1632,
+			"is_target": true,
+			"surface": "실행",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 105,
+			"ne_type": "LOCATION",
+			"st": 1705,
+			"eType": "ELU",
+			"entityName": "비시_프랑스",
+			"en": 1711,
+			"is_target": true,
+			"surface": "비시_프랑스",
+			"coref_index": 547,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 106,
+			"ne_type": "ETC",
+			"st": 1724,
+			"eType": "ELU",
+			"entityName": "일본군",
+			"en": 1727,
+			"is_target": true,
+			"surface": "일본군",
+			"coref_index": 554,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 107,
+			"ne_type": "ORGANIZATION",
+			"st": 1743,
+			"eType": "ELU",
+			"entityName": "마다가스카르",
+			"en": 1749,
+			"is_target": true,
+			"surface": "마다가스카르",
+			"coref_index": 548,
+			"ancestor": "1-46"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 108,
+			"ne_type": "LOCATION",
+			"st": 1844,
+			"eType": "WIKILINK",
+			"entityName": "자유_프랑스",
+			"en": 1850,
+			"is_target": true,
+			"surface": "자유_프랑스",
+			"coref_index": 560,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 109,
+			"ne_type": "PERSON",
+			"st": 1856,
+			"eType": "WIKILINK",
+			"entityName": "샤를_드_골",
+			"en": 1862,
+			"is_target": true,
+			"surface": "샤를_드_골",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 110,
+			"ne_type": "PERSON",
+			"st": 1871,
+			"eType": "WIKILINK",
+			"entityName": "윈스턴_처칠",
+			"en": 1877,
+			"is_target": true,
+			"surface": "윈스턴_처칠",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 111,
+			"ne_type": "ETC",
+			"st": 1887,
+			"eType": "ELU",
+			"entityName": "자유_프랑스군",
+			"en": 1893,
+			"is_target": true,
+			"surface": "자유_프랑스",
+			"coref_index": 560,
+			"ancestor": "1-108"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 112,
+			"ne_type": "ETC",
+			"st": 1934,
+			"eType": "ELU",
+			"entityName": "일본군",
+			"en": 1937,
+			"is_target": true,
+			"surface": "일본군",
+			"coref_index": 554,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 113,
+			"ne_type": "ORGANIZATION",
+			"st": 1939,
+			"eType": "ELU",
+			"entityName": "마다가스카르",
+			"en": 1945,
+			"is_target": true,
+			"surface": "마다가스카르",
+			"coref_index": 548,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 114,
+			"ne_type": "ETC",
+			"st": 1965,
+			"eType": "WIKILINK",
+			"entityName": "영국령_인도_제국",
+			"en": 1967,
+			"is_target": true,
+			"surface": "인도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 115,
+			"ne_type": "ETC",
+			"st": 1969,
+			"eType": "WIKILINK",
+			"entityName": "영국령_실론",
+			"en": 1971,
+			"is_target": true,
+			"surface": "실론",
+			"coref_index": 561,
+			"ancestor": "1-33"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 116,
+			"ne_type": "ETC",
+			"st": 2013,
+			"eType": "ELU",
+			"entityName": "일본군",
+			"en": 2016,
+			"is_target": true,
+			"surface": "일본군",
+			"coref_index": 554,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"NaturalPlace",
+				"Place",
+				"Ocean",
+				"BodyOfWater"
+			],
+			"id": 117,
+			"ne_type": "LOCATION",
+			"st": 2018,
+			"eType": "ELU",
+			"entityName": "인도양",
+			"en": 2021,
+			"is_target": true,
+			"surface": "인도양",
+			"coref_index": 553,
+			"ancestor": "1-68"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 118,
+			"ne_type": "ETC",
+			"st": 2105,
+			"eType": "WIKILINK",
+			"entityName": "다카르_전투",
+			"en": 2111,
+			"is_target": true,
+			"surface": "다카르_전투",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 119,
+			"ne_type": "ORGANIZATION",
+			"st": 2133,
+			"eType": "ELU",
+			"entityName": "영국군",
+			"en": 2136,
+			"is_target": true,
+			"surface": "영국군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 120,
+			"ne_type": "ORGANIZATION",
+			"st": 2141,
+			"eType": "ELU",
+			"entityName": "프랑스군",
+			"en": 2145,
+			"is_target": true,
+			"surface": "프랑스군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 121,
+			"ne_type": "TIME",
+			"st": 1681,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1694,
+			"is_target": false,
+			"surface": "1941년_11월_27일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 122,
+			"ne_type": "PERSON",
+			"st": 1791,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1799,
+			"is_target": true,
+			"surface": "영국_해군_고문",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 123,
+			"ne_type": "LOCATION",
+			"st": 1837,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1839,
+			"is_target": true,
+			"surface": "런던",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 124,
+			"ne_type": "TIME",
+			"st": 2095,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2103,
+			"is_target": false,
+			"surface": "1940년_9월",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "1971692,1971693,1971694,1971695,1971696,1971697,1971698,1971699,1971700,1971701,1971702,1971703,1971704,1971705,1971706,1971707,1971708,1971709,1971710,1971711,1971712,1971713,1971714,1971715,1971716,1971717,1971718,1971719,1971720,1971721,1971722,1971723",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-5",
+			"st": 75,
+			"en": 80,
+			"surface": "이 전투는",
+			"coref_index": 562
+		},
+		{
+			"id": 1,
+			"ancestor": "1-5",
+			"st": 218,
+			"en": 222,
+			"surface": "이 전투",
+			"coref_index": 562
+		},
+		{
+			"id": 2,
+			"ancestor": "1-14",
+			"st": 463,
+			"en": 469,
+			"surface": "이 만 지역",
+			"coref_index": 549
+		},
+		{
+			"id": 3,
+			"ancestor": "1-1",
+			"st": 463,
+			"en": 477,
+			"surface": "이 만 지역을 탐낸 프랑스",
+			"coref_index": 547
+		},
+		{
+			"id": 4,
+			"ancestor": "1-32",
+			"st": 882,
+			"en": 886,
+			"surface": "이 기습",
+			"coref_index": 563
+		},
+		{
+			"id": 5,
+			"en": 950,
+			"surface": "이 근거지 이동으로",
+			"st": 940,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 1385,
+			"ancestor": "-1",
+			"st": 1377,
+			"surface": "다른 회담에서는"
+		},
+		{
+			"id": 7,
+			"en": 1625,
+			"ancestor": "-1",
+			"st": 1620,
+			"surface": "이 지역에"
+		},
+		{
+			"id": 8,
+			"en": 2070,
+			"surface": "이 작전",
+			"st": 2066,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"en": 2074,
+			"surface": "이 작전 수행에",
+			"st": 2066,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "마다가스카르_전투는 제2차_세계_대전 기간 비시_프랑스가 통치하고 있던 마다가스카르에서 일어난 대영제국과 비시_프랑스 간의 전투이다. 이 전투는 1942년_5월 섬 북쪽 끝 안치라나나_항구를 장악하는 철갑_작전(Operation_Ironclad)으로 시작했다. 이후 9월_10일에는 섬 전체를 장악하기 위한 스트림라인_제인_작전(Operation_Streamline_Jane)을 시작했다. 이 전투는 11월_6일 정전_협정을 맺으면서 끝나게 되었다. 배경 지리학적 배경 안치라나나(구 디아고수아레즈)는 마다가스카르 섬 북단 근처 끝에 위치한 최첨단 항구가 있는 넓은 만 지역이다. 안치라나나 해군기지는 안치라나나_만 안에 있는 4개 만 중 2개 만 사이에 있는 반도 지역에 위치해 있다. 안치라나나 만은 마다가스카르 북쪽 끝에서 섬 안쪽으로 크게 파고 들어가 있는 모양으로 섬 북쪽 끝을 거의 가르는 모양새다. 1880년대 말 이 만 지역을 탐낸 프랑스는 만에서 더 동쪽에 위치한 프랑스령 지역으로 이동하기 위한 증기선의 석탄_공급_기지 지역이라고 주장했다. 1차 프랑스-호바_전쟁 이후 1885년 12월 17일 라나발로나_3세가 만과 주변 지역을 프랑스 보호령으로 넘기는 협정을 체결하면서 안치라나나 지역은 프랑스 식민지가 되었다. 1897년에는 식민지 행정을 프랑스령_마다가스카르가 담당하게 되었다. 1941년 안치라나나_만과 해협_지역은 해군의 해안포로 방비가 되어있었다. 추축국의 상황 일본_제국이 1942년_2월 말 들어 동남아시아의 동쪽에 있는 버마를 점령하면서 일본_제국_해군 소속 잠수함은 인도양 동부와 북부로 작전지역을 넓혔다. 1942년_3월에는 일본 해군 항공모함이 인도양_기습을 벌여 실론 섬의 콜롬보, 트링코말리 해군기지와 벵골_만의 선박을 공격했다. 이 기습은 영국_동부함대가 쫓겨나 동아프리카의 케냐 몸바사 근처 킬린디니_항구로 근거지를 옮겨야 했다. 이 근거지 이동으로 영국_함대는 더욱 취약해졌다. 이렇게 되면서 일본_해군이 앞으로 마다가스카르_섬을 해군기지로 사용할 경우의 문제가 대두되었다. 만약 일본군이 마다가스카르를 근거지로 사용하게 된다면 연합국의 보급로, 특히 8_군과 동부함대가 사용하는 주요 보급로가 위협받을 수 있었다. 일본군_잠수함은 당시 추축국 중 가장 긴 작전반경인 대략 16,000_km 정도를 가지고 있었다. 만약 일본_제국_해군의 잠수함이 마다가스카르를 기지로 삼을 경우 태평양-오스트레일리아-중동, 이후 멀리 남대서양을 잇는 연합군의_통신선도 위협받을 수 있었다. 1941년_12월_21일, 독일_해전지휘부의 참모장 쿠르트_프리케_제독은 베를린에서 일본_해군 아타셰_노무라_나오쿠니를 만나 독일_전쟁해군과 일본_제국_해군 사이 작전영역경계 설정에 대한 회의를 가졌다. 1942년_3월_27일 가진 또 다른 회담에서는 프리케가 추축국에게 인도양의 중요성의 강조하면서 일본군이 인도양_북부 항로에 대한 작전을 시작해주기를 요청했다. 또한, 프리케는 실론_섬을 강조하면서 추축국_해군에게 오스트레일리아보다는 세이셸과 마다가스카르가 더 중요하다고 말했다. 4월_8일 일본은 프리케에게 아덴만에서 케이프 사이 서인도양에서의 작전으로 잠수함 4~5척, 보조순양함 2척을 투입했다고 말했으나 마다가스카르 및 실론_섬에 대한 작전 공개는 거부했으며 이 지역에 작전을 실행하겠다고만 말했다. 연합국의 상황 연합국은 일본의 인도양 진출 작전에 대하여 접한 이후 1941년_11월_27일 영국군 참모본부는 비시_프랑스가 마다가스카르 전체를 일본군에게 양도하거나 일본 해군이 마다가스카르의 해군 기지를 사용할 수 있게 해줄 수 있는 가능성에 대해서 논의하였다. 영국_해군_고문은 예방조치로 섬 점령 작전을 실시하자고 제안했다. 12월 16일, 런던에 있던 자유_프랑스의 대통령 샤를_드_골은 영국의 총리 윈스턴_처칠에게 편지를 보내 자유_프랑스의 마다가스카르 해방 작전에 대해 지원을 촉구하는 편지를 보냈다. 처칠은 일본군이 마다가스카르를 장악할 경우 인도양 항로, 특히 인도와 실론 섬으로 향하는 중요한 항로가 위협받을 수 있었고 디아고수아레즈 항을 통해 일본군이 인도양에서 전략적으로 우위를 차지할 수 있다는 우려를 나타냈다. 하지만 처칠은 영국은 이 작전 수행에 충분한 자원을 가지고 있지 않았고, 1940년_9월의 다카르_전투라는 선례에 따라 섬을 확보하기 위하여 영국군과 자유 프랑스군이 합동으로 작전을 시작하기는 어렵다는 점을 분명히 했다. ",
+	"docID": "410319"
+}

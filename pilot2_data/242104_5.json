@@ -1,0 +1,283 @@
+{
+	"docID": "242104",
+	"globalSID": "1397714,1397715,1397716,1397717,1397718",
+	"pronouns": [
+		{
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "이 시도의",
+			"id": 0,
+			"st": 5
+		},
+		{
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "이 시도의 기점인",
+			"id": 1,
+			"st": 5
+		},
+		{
+			"st": 5,
+			"coref_index": 333,
+			"id": 2,
+			"en": 22,
+			"ancestor": "1-1",
+			"surface": "이 시도의 기점인 유한대학_시계"
+		},
+		{
+			"st": 223,
+			"coref_index": 334,
+			"id": 3,
+			"en": 229,
+			"ancestor": "5-10",
+			"surface": "이 고속도로"
+		},
+		{
+			"en": 233,
+			"ancestor": "-1",
+			"surface": "이 고속도로 이외에",
+			"id": 4,
+			"st": 223
+		},
+		{
+			"en": 247,
+			"ancestor": "-1",
+			"surface": "이 고속도로 이외에 중부고속도로도 이용할 수",
+			"id": 5,
+			"st": 223
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "1-17",
+			"coref_index": 333,
+			"surface": "유한대학_시계",
+			"entityName": "유한대학"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "부천",
+			"entityName": "부천시"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "인천",
+			"entityName": "인천광역시"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "경인로",
+			"entityName": "경인로"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 87,
+			"ancestor": "1-12",
+			"coref_index": 334,
+			"surface": "서울외곽순환고속도로",
+			"entityName": "서울외곽순환고속도로"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"surface": "송내_나들목",
+			"entityName": "송내_나들목"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 112,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 118,
+			"ancestor": "-1",
+			"surface": "서창_분기점",
+			"entityName": "서창_분기점"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"st": 127,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "영동고속도로",
+			"entityName": "영동고속도로"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"AdministrativeRegion"
+			],
+			"st": 172,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 175,
+			"ancestor": "-1",
+			"surface": "둔촌동",
+			"entityName": "둔촌동"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"PopulatedPlace",
+				"Settlement",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"City",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 177,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 179,
+			"ancestor": "-1",
+			"surface": "하남",
+			"entityName": "하남시"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"st": 194,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 204,
+			"ancestor": "5-4",
+			"coref_index": 334,
+			"surface": "서울외곽순환고속도로",
+			"entityName": "서울외곽순환고속도로"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 205,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 212,
+			"ancestor": "-1",
+			"surface": "서하남_나들목",
+			"entityName": "서하남_나들목"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Road",
+				"Place",
+				"Place",
+				"RouteOfTransportation",
+				"Infrastructure"
+			],
+			"st": 234,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 240,
+			"ancestor": "-1",
+			"surface": "중부고속도로",
+			"entityName": "중부고속도로"
+		}
+	],
+	"plainText": "연결도로 이 시도의 기점인 유한대학_시계에서 계속해서 서쪽으로 향해 가면 부천이나 인천으로 연결되는 경인로가 나온다. 계속해서 가다 보면 서울외곽순환고속도로 송내_나들목이 연결되어 있고 구산사거리에서 서창_분기점 방향으로 가면 영동고속도로도 이용할 수 있다. 동쪽 종점인 서하남 입구 교차로에서는 거여동이나 둔촌동, 하남 방면으로 향한다. 그리고 서울외곽순환고속도로 서하남_나들목이 연결되어 있어서 이 고속도로 이외에 중부고속도로도 이용할 수 있다."
+}

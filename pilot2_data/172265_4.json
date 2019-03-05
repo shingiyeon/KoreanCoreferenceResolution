@@ -1,0 +1,232 @@
+{
+	"docID": "172265",
+	"globalSID": "1135841,1135842,1135843,1135844",
+	"pronouns": [
+		{
+			"en": 240,
+			"st": 233,
+			"surface": "자기_방어권이",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 41,
+			"ancestor": "1-7",
+			"coref_index": 290,
+			"surface": "네이션_오브_이슬람",
+			"entityName": "네이션_오브_이슬람"
+		},
+		{
+			"kbox_types": [
+				"Ideology",
+				"TopicalConcept"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 64,
+			"ancestor": "-1",
+			"surface": "흑인_우월주의",
+			"entityName": "흑인_우월주의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 98,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "인종_간_화합",
+			"entityName": "인종_간_화합"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 138,
+			"ancestor": "-1",
+			"surface": "흑인_분리주의",
+			"entityName": "흑인_분리주의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 161,
+			"ancestor": "3-3",
+			"coref_index": 291,
+			"surface": "이슬람",
+			"entityName": "이슬람교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 5,
+			"ancestor": "1-3",
+			"coref_index": 289,
+			"surface": "맬컴_엑스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 46,
+			"ancestor": "-1",
+			"coref_index": 292,
+			"surface": "대변인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "미국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 96,
+			"ancestor": "-1",
+			"surface": "흑인_인권_운동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 123,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 125,
+			"ancestor": "-1",
+			"surface": "국가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 187,
+			"ancestor": "-1",
+			"surface": "인종_차별_반대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 193,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 196,
+			"ancestor": "-1",
+			"surface": "시민권",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 225,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 231,
+			"ancestor": "-1",
+			"surface": "민족_자결권",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 233,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 239,
+			"ancestor": "-1",
+			"surface": "자기_방어권",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "사상",
+			"entityName": ""
+		}
+	],
+	"plainText": "맬컴_엑스의 사상은 시간이 지남에 따라 크게 바뀌었다. 네이션_오브_이슬람의 대변인이었던 시절 엑스는 흑인_우월주의를 주장하였고, 미국 내에서 크게 일어났던 흑인_인권_운동이 인종_간_화합을 주장했던 것과 달리 흑인만의 국가를 세우는 흑인_분리주의를 지지하였다. 그러나 네이션 오브 이슬람과 결별한 뒤에는 생각을 바꾸어 인종_차별_반대와 흑인의 시민권 신장을 위해 활동하였다. 하지만 여전히 흑인들에게 민족_자결권과 자기_방어권이 있다고 주장하였다."
+}

@@ -1,0 +1,175 @@
+{
+	"docID": "132777",
+	"globalSID": "953534,953535,953536",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 184,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 81,
+			"coref_index": 184,
+			"id": 1,
+			"en": 82,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 3,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 8,
+			"ancestor": "1-4",
+			"coref_index": 183,
+			"surface": "도르트문트",
+			"entityName": "도르트문트"
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "2010-11_시즌",
+			"entityName": "푸스발-분데스리가_2010-11"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 57,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 62,
+			"ancestor": "-1",
+			"coref_index": 187,
+			"surface": "페예노르트",
+			"entityName": "페예노르트"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 98,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "레알_마드리드",
+			"entityName": "레알_마드리드_CF"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 127,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "리버풀",
+			"entityName": "리버풀_FC"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 162,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 167,
+			"ancestor": "2-0",
+			"coref_index": 183,
+			"surface": "도르트문트",
+			"entityName": "도르트문트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 66,
+			"ancestor": "",
+			"surface": "1년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 123,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 125,
+			"ancestor": "1-0",
+			"coref_index": 184,
+			"surface": "샤힌",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 145,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 153,
+			"ancestor": "",
+			"surface": "2013년_1월",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 도르트문트에서 데뷔해 6년을 보냈고, 2010-11_시즌에 분데스리가 우승도 거두었는데, 막간에 페예노르트로 1년 임대되기도 했다. 이후, 그는 2011년에 €10M으로 레알_마드리드에 입단했다. 2012년 8월, 샤힌은 리버풀 1년 임대에 합의했지만, 2013년_1월에 파기되었고, 도르트문트에 18개월 임대로 복귀하게 되었다."
+}

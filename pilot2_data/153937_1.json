@@ -1,0 +1,168 @@
+{
+	"docID": "153937",
+	"globalSID": "1047254,1047255,1047256",
+	"pronouns": [
+		{
+			"en": 111,
+			"ancestor": "-1",
+			"surface": "공을",
+			"id": 0,
+			"st": 109
+		},
+		{
+			"en": 116,
+			"ancestor": "-1",
+			"surface": "게임에서 공을 쳐낼 때",
+			"id": 1,
+			"st": 104
+		},
+		{
+			"en": 151,
+			"ancestor": "-1",
+			"surface": "그 시기",
+			"id": 2,
+			"st": 147
+		},
+		{
+			"en": 162,
+			"ancestor": "-1",
+			"surface": "그 시기 볼을 쳐내는 게임의",
+			"id": 3,
+			"st": 147
+		},
+		{
+			"en": 167,
+			"ancestor": "-1",
+			"surface": "그 시기 볼을 쳐내는 게임의 대명사가",
+			"id": 4,
+			"st": 147
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 42,
+			"ancestor": "-1",
+			"coref_index": 228,
+			"surface": "아타리",
+			"entityName": "아타리"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 60,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 63,
+			"ancestor": "1-0",
+			"coref_index": 228,
+			"surface": "아타리",
+			"entityName": "아타리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 79,
+			"ancestor": "-1",
+			"surface": "놀런_부쉬넬",
+			"entityName": "놀런_부쉬넬"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 81,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "앨런_알콘",
+			"entityName": "앨런_알콘"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 137,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 140,
+			"ancestor": "1-0",
+			"coref_index": 228,
+			"surface": "아타리",
+			"entityName": "아타리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 38,
+			"ancestor": "",
+			"surface": "1972년_11월_29일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 1,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 2,
+			"ancestor": "-1",
+			"coref_index": 229,
+			"surface": "퐁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 99,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 100,
+			"ancestor": "1-6",
+			"coref_index": 229,
+			"surface": "퐁",
+			"entityName": ""
+		}
+	],
+	"plainText": "《퐁》(Pong)은 1세대 비디오 게임기이자 1972년_11월_29일 아타리에서 발매한 아케이드 게임이다. 아타리의 공동 창업자인 놀런_부쉬넬과 앨런_알콘이 함께 개발하였다. '퐁'이란 게임에서 공을 쳐낼 때 나는 소리를 그대로 이름붙인 것으로 아타리의 상표지만 그 시기 볼을 쳐내는 게임의 대명사가 되었다."
+}

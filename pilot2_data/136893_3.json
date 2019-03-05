@@ -1,0 +1,210 @@
+{
+	"docID": "136893",
+	"globalSID": "970948,970949,970950,970951",
+	"pronouns": [
+		{
+			"st": 190,
+			"coref_index": 196,
+			"id": 0,
+			"en": 194,
+			"ancestor": "3-10",
+			"surface": "그 시기"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 7,
+			"ancestor": "-1",
+			"coref_index": 190,
+			"surface": "비잔티움_제국",
+			"entityName": "비잔티움_제국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 14,
+			"ancestor": "-1",
+			"coref_index": 189,
+			"surface": "코라도",
+			"entityName": "코라도_1세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 15,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 18,
+			"ancestor": "3-1",
+			"coref_index": 189,
+			"surface": "코라도",
+			"entityName": "코라도_1세"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 20,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 24,
+			"ancestor": "-1",
+			"coref_index": 194,
+			"surface": "이탈리아",
+			"entityName": "이탈리아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 39,
+			"ancestor": "-1",
+			"surface": "몬페라토_후작",
+			"entityName": "몬페라토_후작"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Settlement",
+				"Place",
+				"AdministrativeRegion"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "피에몬테_지방",
+			"entityName": "피에몬테_주"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 93,
+			"ancestor": "3-0",
+			"coref_index": 190,
+			"surface": "비잔티움_제국",
+			"entityName": "비잔티움_제국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "마누엘_1세_콤네누스",
+			"entityName": "마누엘_1세_콤네누스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 119,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 122,
+			"ancestor": "3-2",
+			"coref_index": 189,
+			"surface": "코라도",
+			"entityName": "코라도_1세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 151,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 154,
+			"ancestor": "3-8",
+			"coref_index": 189,
+			"surface": "코라도",
+			"entityName": "코라도_1세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 72,
+			"ancestor": "",
+			"coref_index": 196,
+			"surface": "1179년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 195,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 202,
+			"ancestor": "3-6",
+			"coref_index": 190,
+			"surface": "비잔티움_제국",
+			"entityName": ""
+		}
+	],
+	"plainText": "비잔티움_제국에서의 코라도 코라도는 이탈리아의 명문가였던 몬페라토_후작(侯爵)가문 출신으로 피에몬테_지방에서 태어났다. 1179년 몬페라토 후작가와 당시 비잔티움_제국황제 마누엘_1세_콤네누스와 동맹을 맺은시기, 코라도는 군대를 이끌고 출정하여 제국의 내란을 진압했다. 코라도는 지혜와 용맹을 겸비한 명장으로 알려져 두려움의 대상이었으나, 그 시기 비잔티움_제국의 내정은 매우 어지러워서 황제가 자주 바뀌었다."
+}

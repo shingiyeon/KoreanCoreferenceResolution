@@ -1,0 +1,461 @@
+{
+	"docID": "54795",
+	"globalSID": "492163,492164,492165,492166,492167",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 683,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "그의 가계",
+			"id": 1,
+			"st": 0
+		},
+		{
+			"st": 280,
+			"coref_index": 683,
+			"id": 2,
+			"en": 281,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 280,
+			"coref_index": 685,
+			"id": 3,
+			"en": 286,
+			"ancestor": "7-0",
+			"surface": "그의 아버지"
+		},
+		{
+			"st": 280,
+			"coref_index": 685,
+			"id": 4,
+			"en": 290,
+			"ancestor": "7-0",
+			"surface": "그의 아버지 윤취동"
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "-1",
+			"surface": "선조",
+			"entityName": "조선_선조"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "2-1",
+			"coref_index": 691,
+			"surface": "윤두수",
+			"entityName": "윤두수"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "2-0",
+			"coref_index": 692,
+			"surface": "윤근수",
+			"entityName": "윤근수"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 63,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "윤취지",
+			"entityName": "윤취지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 110,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"surface": "세자익위사",
+			"entityName": "세자익위사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 115,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 117,
+			"ancestor": "-1",
+			"surface": "사어",
+			"entityName": "사어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 128,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "이조",
+			"entityName": "이조"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "참판",
+			"entityName": "참판"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 146,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 149,
+			"ancestor": "-1",
+			"surface": "윤세겸",
+			"entityName": "윤세겸"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 151,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 154,
+			"ancestor": "-1",
+			"surface": "돈령부",
+			"entityName": "돈령부"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 157,
+			"ancestor": "-1",
+			"surface": "동지사",
+			"entityName": "동지사"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 170,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 173,
+			"ancestor": "-1",
+			"surface": "윤득우",
+			"entityName": "윤득우"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 175,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 177,
+			"ancestor": "-1",
+			"surface": "병조",
+			"entityName": "병조"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 177,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 179,
+			"ancestor": "-1",
+			"surface": "참판",
+			"entityName": "참판"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 181,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 183,
+			"ancestor": "-1",
+			"surface": "광주",
+			"entityName": "광주"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 183,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 185,
+			"ancestor": "-1",
+			"surface": "부윤",
+			"entityName": "부윤"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"st": 192,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 194,
+			"ancestor": "-1",
+			"surface": "소론",
+			"entityName": "소론"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 195,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 198,
+			"ancestor": "-1",
+			"surface": "신치운",
+			"entityName": "신치운"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 230,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 232,
+			"ancestor": "-1",
+			"surface": "윤발",
+			"entityName": "윤발"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 287,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "PERSON",
+			"en": 290,
+			"ancestor": "7-0",
+			"coref_index": 685,
+			"surface": "윤취동",
+			"entityName": "윤취동"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 302,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 304,
+			"ancestor": "-1",
+			"surface": "호조",
+			"entityName": "호조"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 304,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ETC",
+			"en": 306,
+			"ancestor": "-1",
+			"surface": "참의",
+			"entityName": "참의"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 320,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 323,
+			"ancestor": "-1",
+			"surface": "윤득실",
+			"entityName": "윤득실"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 325,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "ETC",
+			"en": 328,
+			"ancestor": "-1",
+			"surface": "통덕랑",
+			"entityName": "통덕랑"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 341,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "ETC",
+			"en": 344,
+			"ancestor": "3-7",
+			"coref_index": 693,
+			"surface": "천안군",
+			"entityName": "천안군"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 355,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 25,
+			"ne_type": "PERSON",
+			"en": 358,
+			"ancestor": "8-19",
+			"coref_index": 685,
+			"surface": "윤취동",
+			"entityName": "윤취동"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 251,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "LOCATION",
+			"en": 255,
+			"ancestor": "-1",
+			"surface": "수원행궁",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "PERSON",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "윤흔",
+			"entityName": ""
+		}
+	],
+	"plainText": "그의 가계는 선조 때의 형제 정승 윤두수, 윤근수 형제의 후손으로 7대조 윤흔(尹昕)이 예조판서를 지내고 6대조 윤취지(尹就之)는 부사직을 지냈으나 증조부 대에 향반으로 몰락하였다. 5대조 윤채는 세자익위사사어를 지내고 사후 증 이조참판에 추증되었으며, 고조부 윤세겸은 돈령부동지사를 지냈으며, 재종조부 윤득우는 병조참판과 광주부윤을 지냈으나 소론 신치운의 문인이라 하여 순탄치 않은 관료생활을 보냈다. 증조부 윤발은 관직이 없이 생활하다가 집터가 수원행궁으로 편입되면서 잠깐 낭청직을 지냈다. 후에 그의 아버지 윤취동이 억울함을 상소하여 호조참의에 추증되었다. 할아버지 윤득실은 통덕랑을 지냈지만 요절했고, 천안군으로 분가한 아버지 윤취동은 할아버지의 넷째 아들이었다."
+}

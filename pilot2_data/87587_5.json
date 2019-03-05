@@ -1,0 +1,211 @@
+{
+	"docID": "87587",
+	"globalSID": "681205",
+	"pronouns": [
+		{
+			"st": 38,
+			"coref_index": 1083,
+			"id": 0,
+			"en": 52,
+			"ancestor": "5-6",
+			"surface": "현 덕성여자고등학교의 전신"
+		},
+		{
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "현 덕성여자고등학교의 전신) 교장이",
+			"id": 1,
+			"st": 38
+		},
+		{
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "현 덕성여대",
+			"id": 2,
+			"st": 71
+		},
+		{
+			"en": 82,
+			"ancestor": "-1",
+			"surface": "현 덕성여대의 전신인",
+			"id": 3,
+			"st": 71
+		},
+		{
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "현 덕성여대의 전신인 덕성여자초급대학을",
+			"id": 4,
+			"st": 71
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "1940년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1940년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 17,
+			"eType": "WIKILINK",
+			"entityName": "차미리사",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 21,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "차미리사"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"entityName": "덕성여자고등학교",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 48,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "덕성여자고등학교"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"entityName": "1950년",
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 68,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1950년"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"st": 73,
+			"eType": "ELU",
+			"entityName": "덕성여자대학교",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 77,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "덕성여대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 9,
+			"ancestor": "3-2",
+			"is_target": true,
+			"surface": "총독부",
+			"coref_index": 1082
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 37,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "덕성여자실업학교",
+			"coref_index": 1083
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 54,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 56,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "교장"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 91,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "덕성여자초급대학"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 97,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 102,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "초대_학장"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 104,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 106,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "취임"
+		}
+	],
+	"plainText": "1940년 총독부의 지지 하에 차미리사의 뒤를 이어 덕성여자실업학교(현 덕성여자고등학교의 전신) 교장이 되었고, 1950년에는 현 덕성여대의 전신인 덕성여자초급대학을 세우고 초대_학장에 취임했다."
+}

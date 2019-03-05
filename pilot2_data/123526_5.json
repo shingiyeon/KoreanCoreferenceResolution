@@ -1,0 +1,116 @@
+{
+	"docID": "123526",
+	"globalSID": "900635,900636,900637",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"entityName": "710년",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 27,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "710년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "729년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 42,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "729년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"entityName": "나가야_왕의_정변",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 53,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "나가야_왕의_정변",
+			"coref_index": 134
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "WIKILINK",
+			"entityName": "후지와라_4형제",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 73,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "후지와라_4형제",
+			"coref_index": 137
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"entityName": "764년",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 100,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "764년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 102,
+			"eType": "WIKILINK",
+			"entityName": "후지와라노_나카마로의_난",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 115,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "후지와라노_나카마로의_난"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 136,
+			"eType": "WIKILINK",
+			"entityName": "고켄_천황",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 141,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "고켄_천황"
+		}
+	],
+	"plainText": "정치: 전쟁과 황권의 동요 정치사적으로는 710년 헤이죠쿄 천도부터 729년의 나가야_왕의_정변까지를 전기(前期). 후지와라_4형제(후지와라 후히토의 네 아들)의 집권부터 764년의 후지와라노_나카마로의_난(藤原仲麻呂の乱)까지를 중기(中期), 고켄_천황과 도쿄(道鏡)의 집권 이후를 후기(後期)로 구분할 수 있다."
+}

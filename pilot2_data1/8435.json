@@ -1,0 +1,1780 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "과천시",
+			"en": 3,
+			"is_target": true,
+			"surface": "과천시",
+			"coref_index": 1018,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 10,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 14,
+			"is_target": true,
+			"surface": "대한민국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 15,
+			"eType": "WIKILINK",
+			"entityName": "경기도",
+			"en": 18,
+			"is_target": true,
+			"surface": "경기도",
+			"coref_index": 1021,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 36,
+			"eType": "WIKILINK",
+			"entityName": "관악산",
+			"en": 39,
+			"is_target": true,
+			"surface": "관악산",
+			"coref_index": 1029,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ETC",
+			"st": 47,
+			"eType": "WIKILINK",
+			"entityName": "구룡산",
+			"en": 50,
+			"is_target": true,
+			"surface": "구룡산",
+			"coref_index": 1031,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"NaturalPlace"
+			],
+			"id": 5,
+			"ne_type": "LOCATION",
+			"st": 58,
+			"eType": "WIKILINK",
+			"entityName": "우면산",
+			"en": 61,
+			"is_target": true,
+			"surface": "우면산",
+			"coref_index": 1032,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 6,
+			"ne_type": "LOCATION",
+			"st": 73,
+			"eType": "WIKILINK",
+			"entityName": "서울특별시",
+			"en": 78,
+			"is_target": true,
+			"surface": "서울특별시",
+			"coref_index": 1019,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 79,
+			"eType": "WIKILINK",
+			"entityName": "관악구",
+			"en": 82,
+			"is_target": true,
+			"surface": "관악구",
+			"coref_index": 1027,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 84,
+			"eType": "WIKILINK",
+			"entityName": "서초구",
+			"en": 87,
+			"is_target": true,
+			"surface": "서초구",
+			"coref_index": 1024,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 94,
+			"eType": "WIKILINK",
+			"entityName": "청계산_(경기/서울)",
+			"en": 97,
+			"is_target": true,
+			"surface": "청계산",
+			"coref_index": 1030,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 10,
+			"ne_type": "LOCATION",
+			"st": 115,
+			"eType": "WIKILINK",
+			"entityName": "성남시",
+			"en": 118,
+			"is_target": true,
+			"surface": "성남시",
+			"coref_index": 1025,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 11,
+			"ne_type": "LOCATION",
+			"st": 127,
+			"eType": "WIKILINK",
+			"entityName": "안양시",
+			"en": 130,
+			"is_target": true,
+			"surface": "안양시",
+			"coref_index": 1028,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 138,
+			"eType": "WIKILINK",
+			"entityName": "의왕시",
+			"en": 141,
+			"is_target": true,
+			"surface": "의왕시",
+			"coref_index": 1026,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Park",
+				"Place"
+			],
+			"id": 13,
+			"ne_type": "LOCATION",
+			"st": 148,
+			"eType": "WIKILINK",
+			"entityName": "서울대공원",
+			"en": 153,
+			"is_target": true,
+			"surface": "서울대공원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 167,
+			"eType": "WIKILINK",
+			"entityName": "정부과천청사",
+			"en": 173,
+			"is_target": true,
+			"surface": "정부과천청사",
+			"coref_index": 1023,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 181,
+			"eType": "ELU",
+			"entityName": "과천시",
+			"en": 184,
+			"is_target": true,
+			"surface": "과천시",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 192,
+			"eType": "ELU",
+			"entityName": "전화번호",
+			"en": 196,
+			"is_target": true,
+			"surface": "전화번호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 17,
+			"ne_type": "LOCATION",
+			"st": 198,
+			"eType": "WIKILINK",
+			"entityName": "서울특별시",
+			"en": 203,
+			"is_target": true,
+			"surface": "서울특별시",
+			"coref_index": 1019,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 18,
+			"ne_type": "TIME",
+			"st": 218,
+			"eType": "WIKILINK",
+			"entityName": "475년",
+			"en": 222,
+			"is_target": false,
+			"surface": "475년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 223,
+			"eType": "WIKILINK",
+			"entityName": "고구려_장수왕",
+			"en": 230,
+			"is_target": true,
+			"surface": "고구려_장수왕",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 248,
+			"eType": "WIKILINK",
+			"entityName": "757년",
+			"en": 252,
+			"is_target": false,
+			"surface": "757년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 253,
+			"eType": "WIKILINK",
+			"entityName": "신라_경덕왕",
+			"en": 259,
+			"is_target": true,
+			"surface": "신라_경덕왕",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 267,
+			"eType": "ELU",
+			"entityName": "과천군",
+			"en": 270,
+			"is_target": true,
+			"surface": "율진군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 282,
+			"eType": "WIKILINK",
+			"entityName": "고려_태조",
+			"en": 287,
+			"is_target": true,
+			"surface": "고려_태조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 24,
+			"ne_type": "TIME",
+			"st": 301,
+			"eType": "WIKILINK",
+			"entityName": "1018년",
+			"en": 306,
+			"is_target": false,
+			"surface": "1018년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 307,
+			"eType": "WIKILINK",
+			"entityName": "고려_현종",
+			"en": 312,
+			"is_target": true,
+			"surface": "고려_현종",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 26,
+			"ne_type": "TIME",
+			"st": 323,
+			"eType": "WIKILINK",
+			"entityName": "1413년",
+			"en": 328,
+			"is_target": false,
+			"surface": "1413년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 27,
+			"ne_type": "PERSON",
+			"st": 329,
+			"eType": "WIKILINK",
+			"entityName": "조선_태종",
+			"en": 334,
+			"is_target": true,
+			"surface": "조선_태종",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 350,
+			"eType": "ELU",
+			"entityName": "과천군",
+			"en": 353,
+			"is_target": true,
+			"surface": "과천현",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 29,
+			"ne_type": "TIME",
+			"st": 363,
+			"eType": "WIKILINK",
+			"entityName": "1895년",
+			"en": 368,
+			"is_target": false,
+			"surface": "1895년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "TIME",
+			"st": 369,
+			"eType": "WIKILINK",
+			"entityName": "5월_26일",
+			"en": 375,
+			"is_target": false,
+			"surface": "5월_26일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 376,
+			"eType": "ELU",
+			"entityName": "과천군",
+			"en": 383,
+			"is_target": true,
+			"surface": "경기도_과천군",
+			"coref_index": 1020,
+			"ancestor": "1-37"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 32,
+			"ne_type": "TIME",
+			"st": 393,
+			"eType": "WIKILINK",
+			"entityName": "1914년",
+			"en": 398,
+			"is_target": false,
+			"surface": "1914년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 407,
+			"eType": "ELU",
+			"entityName": "안산군",
+			"en": 410,
+			"is_target": true,
+			"surface": "안산군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 415,
+			"eType": "ELU",
+			"entityName": "시흥군",
+			"en": 418,
+			"is_target": true,
+			"surface": "시흥군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 444,
+			"eType": "ELU",
+			"entityName": "군내면_(포천시)",
+			"en": 447,
+			"is_target": true,
+			"surface": "군내면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 458,
+			"eType": "ELU",
+			"entityName": "과천시",
+			"en": 461,
+			"is_target": true,
+			"surface": "과천면",
+			"coref_index": 1022,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "PERSON",
+			"st": 235,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 238,
+			"is_target": true,
+			"surface": "율목군",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "LOCATION",
+			"st": 263,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 266,
+			"is_target": true,
+			"surface": "한산주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 291,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 294,
+			"is_target": true,
+			"surface": "과주로",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "LOCATION",
+			"st": 316,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 319,
+			"is_target": true,
+			"surface": "과주현",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "LOCATION",
+			"st": 338,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 341,
+			"is_target": true,
+			"surface": "경기도",
+			"coref_index": 1021,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "LOCATION",
+			"st": 342,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 345,
+			"is_target": true,
+			"surface": "광주목",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "EVENT",
+			"st": 386,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 388,
+			"is_target": true,
+			"surface": "변경",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "LOCATION",
+			"st": 399,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 402,
+			"is_target": true,
+			"surface": "과천군",
+			"coref_index": 1020,
+			"ancestor": "1-31"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "LOCATION",
+			"st": 429,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 432,
+			"is_target": true,
+			"surface": "과천시",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "LOCATION",
+			"st": 440,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 443,
+			"is_target": true,
+			"surface": "과천군",
+			"coref_index": 1020,
+			"ancestor": "1-31"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "LOCATION",
+			"st": 452,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 455,
+			"is_target": true,
+			"surface": "주암리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 48,
+			"ne_type": "TIME",
+			"st": 468,
+			"eType": "WIKILINK",
+			"entityName": "1963년",
+			"en": 473,
+			"is_target": false,
+			"surface": "1963년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 49,
+			"ne_type": "TIME",
+			"st": 485,
+			"eType": "WIKILINK",
+			"entityName": "1990년",
+			"en": 490,
+			"is_target": false,
+			"surface": "1990년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 50,
+			"ne_type": "LOCATION",
+			"st": 493,
+			"eType": "ELU",
+			"entityName": "서울특별시",
+			"en": 498,
+			"is_target": true,
+			"surface": "서울특별시",
+			"coref_index": 1019,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"id": 51,
+			"ne_type": "TIME",
+			"st": 515,
+			"eType": "WIKILINK",
+			"entityName": "1979년",
+			"en": 520,
+			"is_target": false,
+			"surface": "1979년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "ORGANIZATION",
+			"st": 474,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 477,
+			"is_target": true,
+			"surface": "건설부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "LOCATION",
+			"st": 499,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 505,
+			"is_target": true,
+			"surface": "도시계획구역",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 559,
+			"eType": "WIKILINK",
+			"en": 564,
+			"entityName": "기획재정부",
+			"is_target": true,
+			"surface": "기획재정부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 55,
+			"ne_type": "LOCATION",
+			"st": 642,
+			"eType": "ELU",
+			"en": 645,
+			"entityName": "광명시",
+			"is_target": true,
+			"surface": "광명시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 56,
+			"ne_type": "LOCATION",
+			"st": 696,
+			"eType": "ELU",
+			"en": 699,
+			"entityName": "경기도",
+			"is_target": true,
+			"surface": "경기도",
+			"coref_index": 1021,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 57,
+			"ne_type": "LOCATION",
+			"st": 731,
+			"eType": "ELU",
+			"en": 737,
+			"entityName": "정부서울청사",
+			"is_target": true,
+			"surface": "정부서울청사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Building",
+				"Place",
+				"Place"
+			],
+			"id": 58,
+			"ne_type": "LOCATION",
+			"st": 740,
+			"eType": "ELU",
+			"en": 743,
+			"entityName": "청와대",
+			"is_target": true,
+			"surface": "청와대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "TIME",
+			"st": 543,
+			"eType": "NEW",
+			"en": 556,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1982년부터_2012년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "ORGANIZATION",
+			"st": 567,
+			"eType": "NEW",
+			"en": 571,
+			"entityName": "",
+			"is_target": true,
+			"surface": "경제부처",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "ORGANIZATION",
+			"st": 578,
+			"eType": "NEW",
+			"en": 586,
+			"entityName": "",
+			"is_target": true,
+			"surface": "7개의_중앙부처",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "TIME",
+			"st": 595,
+			"eType": "NEW",
+			"en": 606,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1985년_8월_1일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "LOCATION",
+			"st": 670,
+			"eType": "NEW",
+			"en": 677,
+			"entityName": "",
+			"is_target": true,
+			"surface": "광주군_서부면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "LOCATION",
+			"st": 647,
+			"eType": "NEW",
+			"en": 654,
+			"entityName": "",
+			"is_target": true,
+			"surface": "고양군_신도읍",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "LOCATION",
+			"st": 785,
+			"eType": "NEW",
+			"en": 789,
+			"entityName": "",
+			"is_target": true,
+			"surface": "과천지역",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 791,
+			"eType": "NEW",
+			"en": 800,
+			"entityName": "",
+			"is_target": true,
+			"surface": "서울특별시_통화권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ETC",
+			"st": 760,
+			"eType": "NEW",
+			"en": 767,
+			"entityName": "",
+			"is_target": true,
+			"surface": "안양시_통화권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 68,
+			"ne_type": "LOCATION",
+			"st": 843,
+			"eType": "ELU",
+			"entityName": "과천시",
+			"en": 846,
+			"is_target": true,
+			"surface": "과천시",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "TIME",
+			"st": 819,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 830,
+			"is_target": false,
+			"surface": "1986년_1월_1일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "LOCATION",
+			"st": 831,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 838,
+			"is_target": true,
+			"surface": "시흥군_과천면",
+			"coref_index": 1022,
+			"ancestor": "1-36"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "ETC",
+			"st": 855,
+			"eType": "WIKILINK",
+			"entityName": "2012",
+			"en": 859,
+			"is_target": true,
+			"surface": "2012",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "ETC",
+			"st": 865,
+			"eType": "WIKILINK",
+			"entityName": "정부과천청사",
+			"en": 871,
+			"is_target": true,
+			"surface": "정부과천청사",
+			"coref_index": 1023,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 884,
+			"eType": "WIKILINK",
+			"entityName": "정부세종청사",
+			"en": 890,
+			"is_target": true,
+			"surface": "정부세종청사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "ORGANIZATION",
+			"st": 897,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 901,
+			"is_target": true,
+			"surface": "과천청사",
+			"coref_index": 1023,
+			"ancestor": "1-72"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "ORGANIZATION",
+			"st": 904,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 907,
+			"is_target": true,
+			"surface": "법무부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "ORGANIZATION",
+			"st": 909,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 916,
+			"is_target": true,
+			"surface": "공무원_교육원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "ORGANIZATION",
+			"st": 931,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 943,
+			"is_target": true,
+			"surface": "서울·경인_지역_지방청",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 78,
+			"ne_type": "LOCATION",
+			"st": 999,
+			"eType": "WIKILINK",
+			"entityName": "동작구",
+			"en": 1002,
+			"is_target": true,
+			"surface": "동작구",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 79,
+			"ne_type": "LOCATION",
+			"st": 1004,
+			"eType": "WIKILINK",
+			"entityName": "서초구",
+			"en": 1007,
+			"is_target": true,
+			"surface": "서초구",
+			"coref_index": 1024,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 80,
+			"ne_type": "LOCATION",
+			"st": 1037,
+			"eType": "WIKILINK",
+			"entityName": "성남시",
+			"en": 1040,
+			"is_target": true,
+			"surface": "성남시",
+			"coref_index": 1025,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 81,
+			"ne_type": "LOCATION",
+			"st": 1048,
+			"eType": "WIKILINK",
+			"entityName": "의왕시",
+			"en": 1051,
+			"is_target": true,
+			"surface": "의왕시",
+			"coref_index": 1026,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "LOCATION",
+			"st": 963,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 970,
+			"is_target": true,
+			"surface": "경기도_중서부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "LOCATION",
+			"st": 959,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 961,
+			"is_target": true,
+			"surface": "과천",
+			"coref_index": 1018,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "LOCATION",
+			"st": 976,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 980,
+			"is_target": true,
+			"surface": "중소도시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "ETC",
+			"st": 982,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 984,
+			"is_target": true,
+			"surface": "북쪽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "LOCATION",
+			"st": 988,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 997,
+			"is_target": true,
+			"surface": "서울특별시_관악구",
+			"coref_index": 1027,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 1016,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1018,
+			"is_target": true,
+			"surface": "서쪽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "LOCATION",
+			"st": 1022,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1029,
+			"is_target": true,
+			"surface": "경기도_안양시",
+			"coref_index": 1028,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "ETC",
+			"st": 1031,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1033,
+			"is_target": true,
+			"surface": "동쪽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "ETC",
+			"st": 1042,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1044,
+			"is_target": true,
+			"surface": "남쪽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "ETC",
+			"st": 1053,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1055,
+			"is_target": true,
+			"surface": "경계",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "ETC",
+			"st": 956,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 958,
+			"is_target": true,
+			"surface": "지리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "ETC",
+			"st": 1078,
+			"eType": "WIKILINK",
+			"entityName": "편마암",
+			"en": 1081,
+			"is_target": true,
+			"surface": "편마암",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "ETC",
+			"st": 1103,
+			"eType": "WIKILINK",
+			"entityName": "충적지",
+			"en": 1106,
+			"is_target": true,
+			"surface": "충적지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 95,
+			"ne_type": "LOCATION",
+			"st": 1136,
+			"eType": "WIKILINK",
+			"entityName": "관악산",
+			"en": 1139,
+			"is_target": true,
+			"surface": "관악산",
+			"coref_index": 1029,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "ETC",
+			"st": 1141,
+			"eType": "WIKILINK",
+			"entityName": "응봉",
+			"en": 1143,
+			"is_target": true,
+			"surface": "응봉",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 97,
+			"ne_type": "ETC",
+			"st": 1159,
+			"eType": "WIKILINK",
+			"entityName": "청계산_(서울)",
+			"en": 1162,
+			"is_target": true,
+			"surface": "청계산",
+			"coref_index": 1030,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"Place",
+				"NaturalPlace"
+			],
+			"id": 98,
+			"ne_type": "LOCATION",
+			"st": 1179,
+			"eType": "ELU",
+			"entityName": "관악산",
+			"en": 1182,
+			"is_target": true,
+			"surface": "관악산",
+			"coref_index": 1029,
+			"ancestor": "1-95"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"NaturalPlace"
+			],
+			"id": 99,
+			"ne_type": "LOCATION",
+			"st": 1184,
+			"eType": "ELU",
+			"entityName": "서울)",
+			"en": 1187,
+			"is_target": true,
+			"surface": "청계산",
+			"coref_index": 1030,
+			"ancestor": "1-97"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 100,
+			"ne_type": "ETC",
+			"st": 1196,
+			"eType": "WIKILINK",
+			"entityName": "구룡산",
+			"en": 1199,
+			"is_target": true,
+			"surface": "구룡산",
+			"coref_index": 1031,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"Mountain",
+				"NaturalPlace"
+			],
+			"id": 101,
+			"ne_type": "LOCATION",
+			"st": 1207,
+			"eType": "WIKILINK",
+			"entityName": "우면산",
+			"en": 1210,
+			"is_target": true,
+			"surface": "우면산",
+			"coref_index": 1032,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 102,
+			"ne_type": "LOCATION",
+			"st": 1226,
+			"eType": "WIKILINK",
+			"entityName": "서울특별시",
+			"en": 1231,
+			"is_target": true,
+			"surface": "서울특별시",
+			"coref_index": 1019,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 103,
+			"ne_type": "LOCATION",
+			"st": 1239,
+			"eType": "WIKILINK",
+			"entityName": "안양시",
+			"en": 1242,
+			"is_target": true,
+			"surface": "안양시",
+			"coref_index": 1028,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 104,
+			"ne_type": "LOCATION",
+			"st": 1250,
+			"eType": "WIKILINK",
+			"entityName": "성남시",
+			"en": 1253,
+			"is_target": true,
+			"surface": "성남시",
+			"coref_index": 1025,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 105,
+			"ne_type": "LOCATION",
+			"st": 1261,
+			"eType": "WIKILINK",
+			"entityName": "의왕시",
+			"en": 1264,
+			"is_target": true,
+			"surface": "의왕시",
+			"coref_index": 1026,
+			"ancestor": "1-12"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"Place",
+				"River",
+				"BodyOfWater",
+				"Stream",
+				"NaturalPlace"
+			],
+			"id": 106,
+			"ne_type": "LOCATION",
+			"st": 1281,
+			"eType": "WIKILINK",
+			"entityName": "한강",
+			"en": 1283,
+			"is_target": true,
+			"surface": "한강",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"River",
+				"Place",
+				"BodyOfWater",
+				"Stream",
+				"NaturalPlace"
+			],
+			"id": 107,
+			"ne_type": "LOCATION",
+			"st": 1289,
+			"eType": "WIKILINK",
+			"entityName": "양재천",
+			"en": 1292,
+			"is_target": true,
+			"surface": "양재천",
+			"coref_index": 1033,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 108,
+			"ne_type": "ETC",
+			"st": 1308,
+			"eType": "WIKILINK",
+			"entityName": "범람원",
+			"en": 1311,
+			"is_target": true,
+			"surface": "범람원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 109,
+			"ne_type": "LOCATION",
+			"st": 1299,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1302,
+			"is_target": true,
+			"surface": "양재천",
+			"coref_index": 1033,
+			"ancestor": "1-107"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 110,
+			"ne_type": "ETC",
+			"st": 1065,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1068,
+			"is_target": true,
+			"surface": "기반암",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "127433,127434,127435,127436,127437,127438,127439,127440,127441,127442,127443,127444,127445,127446,127447,127448,127449,127450,127451",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 669,
+			"ancestor": "-1",
+			"st": 655,
+			"surface": "현 고양시 덕양구 일부),"
+		},
+		{
+			"id": 1,
+			"en": 679,
+			"ancestor": "-1",
+			"st": 678,
+			"surface": "현"
+		},
+		{
+			"id": 2,
+			"en": 688,
+			"ancestor": "-1",
+			"st": 678,
+			"surface": "현 하남시 일부)을"
+		},
+		{
+			"id": 3,
+			"en": 704,
+			"ancestor": "-1",
+			"st": 678,
+			"surface": "현 하남시 일부)을 제외한 다른 경기도 지역과의"
+		}
+	],
+	"plainText": "과천시(果川市)는 대한민국 경기도 중부에 있는 시이다. 북쪽으로 관악산(632m)과 구룡산(306m), 우면산(293m)을 경계로 서울특별시 관악구, 서초구와 접하고, 청계산(618m)을 경계로 동쪽으로는 성남시, 남서쪽으로는 안양시, 남쪽으로는 의왕시와 접한다. 서울대공원 등의 문화시설이 있고, 정부과천청사가 위치한다. 과천시의 시외 지역 전화번호는 서울특별시와 동일한 02이다. 역사 475년 고구려_장수왕 63년 율목군이라고 칭하였고, 757년 신라_경덕왕 때는 한산주 율진군이 되었고, 940년 고려_태조 때는 과주로 바뀌었다. 1018년 고려_현종 때는 과주현으로, 1413년 조선_태종 때는 경기도 광주목에 속한 과천현으로 개칭되었다. 1895년 5월_26일 경기도_과천군으로 변경되었고, 1914년 과천군_자체가 안산군과 함께 시흥군에 흡수되어 지금의 과천시 일대(종전의 과천군 군내면과 동면 주암리)는 과천면이 되었다. 1963년 건설부 고시에 의해 1990년까지 서울특별시 도시계획구역에 편입되었으며, 1979년 경기 과천지구 지원사업소가 설치되었다. 1982년부터_2012년까지 기획재정부 등 경제부처를 중심으로 7개의_중앙부처가 위치하였다. 1985년_8월_1일_시외전화 요금수입 감소, 이미 서울통화권으로 자연스럽게 편입된 광명시, 고양군_신도읍(현 고양시 덕양구 일부), 광주군_서부면(현 하남시 일부)을 제외한 다른 경기도 지역과의 형평성 문제 등과 같은 숱한 논란에도 불구하고 정부서울청사 및 청와대와의 연락 용이 차원에서 종래 안양시_통화권(지역번호 0343) 지역이었던 과천지역이 서울특별시_통화권(지역번호 02)으로 편입되었다. 1986년_1월_1일 시흥군_과천면 일원에 과천시가 설치되었다. 2012년 말부터 정부과천청사의 정부 기관 대부분이 정부세종청사로 이전하여 과천청사에는 법무부, 공무원_교육원 등이 남으며, 중앙정부의 서울·경인_지역_지방청들이 입주할 계획이다. 지리 과천은 경기도_중서부에 위치한 중소도시로 북쪽으로는 서울특별시_관악구, 동작구, 서초구와 접해있으며, 서쪽으로는 경기도_안양시, 동쪽으로는 성남시, 남쪽으로는 의왕시와 경계를 접하고 있다. 기반암은 대부분이 호상 편마암으로 이루어져 있으나, 양재천 연안에는 충적지가 널리 발달하였다. 주요 산으로는 서쪽에 629m의 관악산, 응봉(鷹峰:348m), 동쪽으로 청계산(618m) 등이 솟아 있다. 관악산과 청계산은 북쪽에 있는 구룡산(306m), 우면산(293m)과 함께 북으로는 서울특별시, 서쪽으로는 안양시, 동쪽으로는 성남시, 남쪽으로는 의왕시와 경계를 이룬다. 북동쪽에는 한강의 지류인 양재천이 흐르고, 양재천 양안에는 범람원이 발달하였다. ",
+	"docID": "8435"
+}

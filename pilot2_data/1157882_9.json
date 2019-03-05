@@ -1,0 +1,129 @@
+{
+	"docID": "1157882",
+	"globalSID": "3397322,3397323,3397324",
+	"pronouns": [],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "리보르노",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "리보르노",
+			"coref_index": 71
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 19,
+			"eType": "ELU",
+			"entityName": "엘_그레코",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 22,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "그레코",
+			"coref_index": 62
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"entityName": "AS_리보르노_칼초",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 28,
+			"ancestor": "9-0",
+			"is_target": true,
+			"surface": "리보르노",
+			"coref_index": 71
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 35,
+			"eType": "ELU",
+			"entityName": "이탈리아",
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 39,
+			"ancestor": "1-4",
+			"is_target": true,
+			"surface": "이탈리아",
+			"coref_index": 72
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 61,
+			"eType": "ELU",
+			"entityName": "리보르노",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 65,
+			"ancestor": "9-0",
+			"is_target": true,
+			"surface": "리보르노",
+			"coref_index": 71
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 17,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2013년_7월_31일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 59,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2014년_6월_20일"
+		}
+	],
+	"plainText": "리보르노 2013년_7월_31일, 그레코는 리보르노로 이적하며 이탈리아로 돌아왔다. 2014년_6월_20일, 리보르노와의 계약이 합의하에 종료되었다."
+}

@@ -1,0 +1,788 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 42,
+			"eType": "WIKILINK",
+			"entityName": "브라질",
+			"en": 45,
+			"is_target": true,
+			"surface": "브라질",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 46,
+			"eType": "WIKILINK",
+			"entityName": "안드라디나",
+			"en": 51,
+			"is_target": true,
+			"surface": "안드라디나",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Activity",
+				"Sport"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 56,
+			"eType": "WIKILINK",
+			"entityName": "축구",
+			"en": 58,
+			"is_target": true,
+			"surface": "축구",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 65,
+			"eType": "WIKILINK",
+			"entityName": "2005년",
+			"en": 70,
+			"is_target": false,
+			"surface": "2005년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 73,
+			"eType": "WIKILINK",
+			"entityName": "2007년",
+			"en": 78,
+			"is_target": false,
+			"surface": "2007년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 81,
+			"eType": "WIKILINK",
+			"entityName": "K-리그",
+			"en": 85,
+			"is_target": true,
+			"surface": "K-리그",
+			"coref_index": 95,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 87,
+			"eType": "WIKILINK",
+			"entityName": "부산_아이파크",
+			"en": 94,
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"coref_index": 97,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"st": 96,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"en": 101,
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"st": 112,
+			"eType": "WIKILINK",
+			"entityName": "K리그",
+			"en": 115,
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 95,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "TIME",
+			"st": 17,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 28,
+			"is_target": false,
+			"surface": "1978년_9월_1일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 127,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 129,
+			"is_target": true,
+			"surface": "뽀뽀",
+			"coref_index": 96,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 14,
+			"is_target": true,
+			"surface": "아디우송_페헤이라_지_소자",
+			"coref_index": 96,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"st": 144,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 147,
+			"is_target": true,
+			"surface": "축구인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"st": 163,
+			"eType": "WIKILINK",
+			"entityName": "부산_아이파크",
+			"en": 170,
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"coref_index": 97,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"st": 242,
+			"eType": "WIKILINK",
+			"entityName": "부산_아이파크",
+			"en": 249,
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"coref_index": 97,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 157,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 162,
+			"is_target": false,
+			"surface": "2005년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "TIME",
+			"st": 196,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 201,
+			"is_target": false,
+			"surface": "2005년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 188,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 190,
+			"is_target": true,
+			"surface": "뽀뽀",
+			"coref_index": 96,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "TIME",
+			"st": 224,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 229,
+			"is_target": false,
+			"surface": "2006년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 254,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 257,
+			"is_target": true,
+			"surface": "공격수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"st": 272,
+			"eType": "WIKILINK",
+			"en": 279,
+			"entityName": "부산_아이파크",
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"coref_index": 97,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 289,
+			"eType": "WIKILINK",
+			"en": 296,
+			"entityName": "앙드레_에글리",
+			"is_target": true,
+			"surface": "앙드레_에글리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 22,
+			"ne_type": "ORGANIZATION",
+			"st": 319,
+			"eType": "WIKILINK",
+			"en": 324,
+			"entityName": "경남_FC",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 23,
+			"ne_type": "ORGANIZATION",
+			"st": 347,
+			"eType": "WIKILINK",
+			"en": 352,
+			"entityName": "경남_FC",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 24,
+			"ne_type": "ORGANIZATION",
+			"st": 372,
+			"eType": "WIKILINK",
+			"en": 377,
+			"entityName": "경남_FC",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 397,
+			"eType": "WIKILINK",
+			"en": 400,
+			"entityName": "이베라우두_지_제수스_페헤이라",
+			"is_target": true,
+			"surface": "까보레",
+			"coref_index": 99,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 26,
+			"ne_type": "ORGANIZATION",
+			"st": 417,
+			"eType": "WIKILINK",
+			"en": 422,
+			"entityName": "경남_FC",
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "PERSON",
+			"st": 281,
+			"eType": "NEW",
+			"en": 285,
+			"entityName": "",
+			"is_target": true,
+			"surface": "신임감독",
+			"coref_index": 100,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "TIME",
+			"st": 362,
+			"eType": "NEW",
+			"en": 369,
+			"entityName": "",
+			"is_target": true,
+			"surface": "2007_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"st": 466,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"en": 471,
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"st": 527,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"en": 532,
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "PERSON",
+			"st": 462,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 464,
+			"is_target": true,
+			"surface": "뽀뽀",
+			"coref_index": 96,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 499,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 513,
+			"is_target": true,
+			"surface": "일본_J리그_요코하마_FC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 607,
+			"eType": "WIKILINK",
+			"entityName": "경남_FC",
+			"en": 612,
+			"is_target": true,
+			"surface": "경남_FC",
+			"coref_index": 98,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 641,
+			"eType": "WIKILINK",
+			"entityName": "이베라우두_지_제수스_페헤이라",
+			"en": 644,
+			"is_target": true,
+			"surface": "까보레",
+			"coref_index": 99,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 586,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 593,
+			"is_target": true,
+			"surface": "2007_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ETC",
+			"st": 600,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 604,
+			"is_target": true,
+			"surface": "이적시장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "PERSON",
+			"st": 614,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 618,
+			"is_target": true,
+			"surface": "신임감독",
+			"coref_index": 100,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 620,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 626,
+			"is_target": true,
+			"surface": "조광래_감독",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ORGANIZATION",
+			"st": 628,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 630,
+			"is_target": true,
+			"surface": "구단",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 637,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 639,
+			"is_target": true,
+			"surface": "사유",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "PERSON",
+			"st": 655,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 657,
+			"is_target": true,
+			"surface": "뽀뽀",
+			"coref_index": 96,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 659,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 661,
+			"is_target": true,
+			"surface": "이적",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "TIME",
+			"st": 679,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 690,
+			"is_target": false,
+			"surface": "2008년_1월_3일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ORGANIZATION",
+			"st": 695,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 703,
+			"is_target": true,
+			"surface": "에이전트_KBF",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 711,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 717,
+			"is_target": true,
+			"surface": "J리그_가시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 719,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 723,
+			"is_target": true,
+			"surface": "레이솔로",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 725,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 730,
+			"is_target": true,
+			"surface": "2년_임대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 732,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 737,
+			"is_target": true,
+			"surface": "공식_발표",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "876702,876703,876704,876705,876706,876707,876708,876709,876710,876711",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 396,
+			"ancestor": "-1",
+			"st": 387,
+			"surface": "다른 브라질 용병"
+		}
+	],
+	"plainText": "아디우송_페헤이라_지_소자(, 1978년_9월_1일 ~ )는 포푸로 불리는 브라질 안드라디나 출신의 축구 선수이다. 2005년부터 2007년까지 K-리그의 부산_아이파크, 경남_FC에서 활약하였으며, K리그에서 활동할 당시에는 뽀뽀라는 이름으로 활약하였다. 축구인 경력 클럽 경력 2005년 부산_아이파크에 입단하면서, K리그에 데뷔한 뽀뽀는 데뷔한 2005년에는 이렇다 할 활약을 보이지 못했지만, 2006년에 이르러서 맹활약하며 부산_아이파크의 간판 공격수로 이름을 날렸다. 그러나 부산_아이파크의 신임감독이었던 앙드레_에글리 감독은 뽀뽀를 팀에서 내보내고, 뽀뽀는 경남_FC에 새 둥지를 틀게 된다. 뽀뽀의 활약은 경남_FC에서도 이어지며, 2007_시즌부터 경남_FC에서 뛰게 된 또 다른 브라질 용병 까보레와 함께 팀의 공격을 주도하며 경남_FC가 4위라는 호성적으로 전반기를 마감하는 데 큰 기여를 한다. 하지만, 뽀뽀는 경남_FC에서의 맹활약에도 불구하고, 팀의 재정난을 이유로 일본_J리그_요코하마_FC로의 임대설이 있었으나, 경남_FC팬들의 반발과 전력손실로 인한 6강 플레이오프 진출 좌절의 우려로 인해 계획을 전면 백지화했다. 2007_시즌을 마친 후 이적시장에서 경남_FC의 신임감독인 조광래_감독은 구단의 재정적인 사유로 까보레를 잔류시키는 대신 뽀뽀의 이적을 추진하겠다고 밝혔다. 그리고 2008년_1월_3일 뽀뽀의 에이전트_KBF측에서 뽀뽀의 J리그_가시와 레이솔로의 2년_임대를 공식_발표하였다. ",
+	"docID": "119879"
+}

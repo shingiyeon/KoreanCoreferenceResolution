@@ -1,0 +1,315 @@
+{
+	"docID": "95853",
+	"globalSID": "736137,736138,736139,736140,736141,736142",
+	"pronouns": [
+		{
+			"en": 21,
+			"ancestor": "-1",
+			"surface": "이 조건들을",
+			"id": 0,
+			"st": 15
+		},
+		{
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "그",
+			"id": 1,
+			"st": 154
+		},
+		{
+			"en": 158,
+			"ancestor": "-1",
+			"surface": "그 대신",
+			"id": 2,
+			"st": 154
+		},
+		{
+			"en": 215,
+			"ancestor": "-1",
+			"surface": "다른 프로젝트들과",
+			"id": 3,
+			"st": 206
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 26,
+			"ancestor": "-1",
+			"surface": "비밀리에",
+			"entityName": "비밀리에"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"surface": "라팔로_조약",
+			"entityName": "라팔로_조약_(1922년)"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 53,
+			"ancestor": "-1",
+			"coref_index": 1160,
+			"surface": "소련",
+			"entityName": "소련"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "오토_하세",
+			"entityName": "오토_하세"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"City",
+				"AdministrativeRegion"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 105,
+			"ancestor": "-1",
+			"surface": "모스크바",
+			"entityName": "모스크바"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 234,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 238,
+			"ancestor": "-1",
+			"surface": "리페츠크",
+			"entityName": "리페츠크"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 288,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 292,
+			"ancestor": "-1",
+			"surface": "사라토프",
+			"entityName": "사라토프"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 2,
+			"ancestor": "1-0",
+			"coref_index": 1159,
+			"surface": "독일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "EVENT",
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "비밀협력",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 99,
+			"ancestor": "",
+			"surface": "1923년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 113,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ORGANIZATION",
+			"en": 115,
+			"ancestor": "6-7",
+			"coref_index": 1159,
+			"surface": "독일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 119,
+			"ancestor": "6-2",
+			"coref_index": 1160,
+			"surface": "소련",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "EVENT",
+			"en": 124,
+			"ancestor": "-1",
+			"surface": "산업화",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 134,
+			"ancestor": "-1",
+			"surface": "소련_장교",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 137,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 139,
+			"ancestor": "6-7",
+			"coref_index": 1159,
+			"surface": "독일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 159,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 161,
+			"ancestor": "6-14",
+			"coref_index": 1159,
+			"surface": "독일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 177,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"en": 179,
+			"ancestor": "6-11",
+			"coref_index": 1160,
+			"surface": "소련",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 189,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"en": 191,
+			"ancestor": "6-10",
+			"coref_index": 1159,
+			"surface": "독일",
+			"entityName": ""
+		}
+	],
+	"plainText": "독일은 즉시 편법을 통하여 이 조건들을 비밀리에 우회해 나가기 시작했다. 라팔로_조약 후에 소련과의 비밀협력이 시작되었다. 조건들을 더 협상하기 위해 오토_하세 소장이 1923년에 모스크바를 방문했다. 독일은 소련의 산업화를 돕고 소련_장교들을 독일에서 훈련시키기로 했었다. 그 대신 독일의 탱크 및 공군 기술자들은 소련에서 교육을 받고 독일의 화학무기 연구와 제조도 다른 프로젝트들과 함께 소련 영토에서 실행되었다. 리페츠크에서 300여 명의 독일 공군조종사가 훈련을 받았고, 카잔 근처에서 탱크 훈련이 있었으며 사라토프에서 독일군의 독가스가 개발되었다."
+}

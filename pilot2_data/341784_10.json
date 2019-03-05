@@ -1,0 +1,523 @@
+{
+	"docID": "341784",
+	"globalSID": "1779477,1779478,1779479,1779480,1779481,1779482,1779483",
+	"pronouns": [
+		{
+			"en": 116,
+			"st": 114,
+			"surface": "이때",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 126,
+			"st": 114,
+			"surface": "이때 부인_김선희_여사",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "1-2",
+			"coref_index": 467,
+			"surface": "영화배우",
+			"entityName": "영화배우"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 36,
+			"ancestor": "",
+			"surface": "1963년",
+			"entityName": "1963년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 93,
+			"ancestor": "-1",
+			"coref_index": 483,
+			"surface": "명보극장",
+			"entityName": "명보극장"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 216,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 221,
+			"ancestor": "",
+			"surface": "1971년",
+			"entityName": "1971년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 236,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 241,
+			"ancestor": "",
+			"surface": "1973년",
+			"entityName": "1973년"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 286,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 290,
+			"ancestor": "10-0",
+			"coref_index": 467,
+			"surface": "영화배우",
+			"entityName": "영화배우"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 332,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 336,
+			"ancestor": "10-2",
+			"coref_index": 483,
+			"surface": "명보극장",
+			"entityName": "명보극장"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"st": 359,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 366,
+			"ancestor": "-1",
+			"surface": "지옥의_묵시록",
+			"entityName": "지옥의_묵시록"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 370,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 373,
+			"ancestor": "-1",
+			"surface": "빠삐용",
+			"entityName": "빠삐용"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"st": 386,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 394,
+			"ancestor": "-1",
+			"surface": "내가_버린_여자",
+			"entityName": "내가_버린_여자"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"st": 398,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 406,
+			"ancestor": "-1",
+			"surface": "별들의_고향_2",
+			"entityName": "별들의_고향_2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 410,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 419,
+			"ancestor": "-1",
+			"surface": "미워도_다시_한번",
+			"entityName": "미워도_다시_한번"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 424,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 428,
+			"ancestor": "-1",
+			"surface": "한국영화",
+			"entityName": "한국의_영화"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 448,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 453,
+			"ancestor": "",
+			"surface": "1985년",
+			"entityName": "1985년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 511,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 14,
+			"ne_type": "TIME",
+			"en": 516,
+			"ancestor": "",
+			"surface": "1992년",
+			"entityName": "1992년"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist",
+				"MilitaryPerson"
+			],
+			"st": 550,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 553,
+			"ancestor": "8-2",
+			"coref_index": 465,
+			"surface": "신영균",
+			"entityName": "신영균_(배우)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "LOCATION",
+			"en": 51,
+			"ancestor": "-1",
+			"surface": "서울_금호동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 307,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 17,
+			"ne_type": "TIME",
+			"en": 315,
+			"ancestor": "",
+			"surface": "1977년_8월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 455,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "LOCATION",
+			"en": 465,
+			"ancestor": "-1",
+			"surface": "서울_종로구_관훈동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 529,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ORGANIZATION",
+			"en": 541,
+			"ancestor": "-1",
+			"surface": "미국_외식패스트푸드업체",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"en": 189,
+			"ancestor": "-1",
+			"surface": "풍년제과",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 543,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "ORGANIZATION",
+			"en": 548,
+			"ancestor": "-1",
+			"surface": "맥도날드사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "ORGANIZATION",
+			"en": 68,
+			"ancestor": "-1",
+			"surface": "금호극장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 23,
+			"ne_type": "ORGANIZATION",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "명보제과",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 24,
+			"ne_type": "PERSON",
+			"en": 126,
+			"ancestor": "7-16",
+			"coref_index": 484,
+			"surface": "부인_김선희_여사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 174,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 25,
+			"ne_type": "ORGANIZATION",
+			"en": 178,
+			"ancestor": "-1",
+			"surface": "뉴욕제과",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 180,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 26,
+			"ne_type": "ORGANIZATION",
+			"en": 183,
+			"ancestor": "-1",
+			"surface": "태극당",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 224,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 27,
+			"ne_type": "LOCATION",
+			"en": 227,
+			"ancestor": "-1",
+			"surface": "볼링장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 244,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 28,
+			"ne_type": "LOCATION",
+			"en": 250,
+			"ancestor": "-1",
+			"surface": "빌딩관리업체",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 253,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"en": 262,
+			"ancestor": "-1",
+			"surface": "한주흥산_주식회사",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 499,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"en": 504,
+			"ancestor": "-1",
+			"surface": "명보소극장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 598,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"en": 602,
+			"ancestor": "-1",
+			"surface": "맥신산업",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 378,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 32,
+			"ne_type": "ETC",
+			"en": 383,
+			"ancestor": "-1",
+			"surface": "외국_영화",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 591,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"en": 595,
+			"ancestor": "-1",
+			"surface": "합작회사",
+			"entityName": ""
+		}
+	],
+	"plainText": "배우 시절 영화배우라는 직업을 늘 불안하게 여겼던 그는 1963년, 친구와 함께 서울_금호동에 동시 상영을 하는 ‘금호극장’을 인수하여 새로 개관하였다. 이후 명보극장 바로 옆에 있는 명보제과를 인수하여 이때 부인_김선희_여사가 팔을 걷어붙여 직접 빵을 굽고 장사도 하면서 사업을 키워 나갔다. 당시 명보제과는 뉴욕제과와 태극당, 풍년제과 등과 함께 4대 제과로 꼽힐 정도였다고 한다. 1971년에는 볼링장을 인수하였고, 1973년에는 빌딩관리업체인 '한주흥산_주식회사'를 설립하여 부동산임대사업에까지 뛰어들어 영화배우 못지않은 사업수완을 보였다. 1977년_8월에는 명보제과 바로 옆에 있는 명보극장을 7억 5천만원을 들여 사들인 이후, 《지옥의_묵시록》과 《빠삐용》 등의 외국_영화와 《내가_버린_여자》, 《별들의_고향_2》, 《미워도_다시_한번》 등의 한국영화를 배급·상영하여 대박을 터뜨렸다. 1985년, 서울_종로구_관훈동에 지상 14층 지하 4층의 빌딩을 건립하고 지하 2,3층에 명보소극장을 차렸다. 1992년에는 한국에 진출하려는 미국_외식패스트푸드업체인 맥도날드사와 신영균이 함께 49 대 51의 비율로 54억원의 자본금을 투자하여 서울에 합작회사인 '맥신산업'을 설립하였다."
+}

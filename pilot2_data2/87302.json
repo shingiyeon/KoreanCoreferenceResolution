@@ -1,0 +1,1872 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 54,
+			"text": "본관",
+			"is_pronoun": true,
+			"en_modified": 56,
+			"en": 56,
+			"st_modified": 54
+		},
+		{
+			"st": 261,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 262,
+			"en": 262,
+			"st_modified": 261
+		},
+		{
+			"st": 370,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 371,
+			"en": 371,
+			"st_modified": 370
+		},
+		{
+			"st": 370,
+			"text": "그의 아들",
+			"is_pronoun": true,
+			"en_modified": 375,
+			"en": 375,
+			"st_modified": 370
+		},
+		{
+			"st": 370,
+			"text": "그의 아들인 서재현",
+			"is_pronoun": true,
+			"en_modified": 380,
+			"en": 380,
+			"st_modified": 370
+		},
+		{
+			"st": 837,
+			"text": "이때",
+			"is_pronoun": true,
+			"en_modified": 839,
+			"en": 839,
+			"st_modified": 837
+		},
+		{
+			"st": 837,
+			"text": "이때 고문을 당해 몸을 상한 뒤",
+			"is_pronoun": true,
+			"en_modified": 854,
+			"en": 854,
+			"st_modified": 837
+		},
+		{
+			"st": 1082,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1083,
+			"en": 1083,
+			"st_modified": 1082
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 54,
+			"ancestor": "-1",
+			"surface": "본관은",
+			"en_modified": 57,
+			"en": 57,
+			"st_modified": 54,
+			"id": 0
+		},
+		{
+			"st": 261,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 262,
+			"en": 262,
+			"st_modified": 261,
+			"id": 1,
+			"coref_index": 1068
+		},
+		{
+			"st": 370,
+			"ancestor": "1-28",
+			"surface": "그",
+			"en_modified": 371,
+			"en": 371,
+			"st_modified": 370,
+			"id": 2,
+			"coref_index": 1080
+		},
+		{
+			"st": 370,
+			"ancestor": "-1",
+			"surface": "그의 아들",
+			"en_modified": 375,
+			"en": 375,
+			"st_modified": 370,
+			"id": 3
+		},
+		{
+			"st": 370,
+			"ancestor": "-1",
+			"surface": "그의 아들인 서재현",
+			"en_modified": 380,
+			"en": 380,
+			"st_modified": 370,
+			"id": 4
+		},
+		{
+			"st": 837,
+			"ancestor": "-1",
+			"surface": "이때",
+			"en_modified": 839,
+			"en": 839,
+			"st_modified": 837,
+			"id": 5
+		},
+		{
+			"st": 837,
+			"ancestor": "-1",
+			"surface": "이때 고문을 당해 몸을 상한 뒤",
+			"en_modified": 854,
+			"en": 854,
+			"st_modified": 837,
+			"id": 6
+		},
+		{
+			"st": 1082,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 1083,
+			"en": 1083,
+			"st_modified": 1082,
+			"id": 7,
+			"coref_index": 1068
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 4,
+			"st_modified": 0,
+			"coref_index": 1068,
+			"entityName": "김마리아",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김마리아",
+			"is_target": true,
+			"en": 4,
+			"id": 0
+		},
+		{
+			"en_modified": 43,
+			"entityName": "한국",
+			"st_modified": 41,
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"University"
+			],
+			"eType": "WIKILINK",
+			"st": 41,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "한국",
+			"is_target": true,
+			"en": 43,
+			"id": 1
+		},
+		{
+			"en_modified": 60,
+			"st_modified": 58,
+			"coref_index": 1068,
+			"entityName": "광산_김씨",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 58,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "광산",
+			"is_target": true,
+			"en": 60,
+			"id": 2
+		},
+		{
+			"en_modified": 130,
+			"entityName": "1892년",
+			"st_modified": 125,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 125,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1892년",
+			"is_target": false,
+			"en": 130,
+			"id": 3
+		},
+		{
+			"en_modified": 23,
+			"entityName": "",
+			"st_modified": 11,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 11,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1891년_6월_18일",
+			"is_target": false,
+			"en": 23,
+			"id": 4
+		},
+		{
+			"en_modified": 38,
+			"entityName": "",
+			"st_modified": 26,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 26,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1944년_3월_13일",
+			"is_target": false,
+			"en": 38,
+			"id": 5
+		},
+		{
+			"en_modified": 50,
+			"st_modified": 45,
+			"coref_index": 1072,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 45,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "독립운동가",
+			"is_target": true,
+			"en": 50,
+			"id": 6
+		},
+		{
+			"en_modified": 66,
+			"entityName": "",
+			"st_modified": 64,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 64,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "본명",
+			"is_target": true,
+			"en": 66,
+			"id": 7
+		},
+		{
+			"en_modified": 71,
+			"st_modified": 68,
+			"coref_index": 1068,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 68,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "김진상",
+			"is_target": true,
+			"en": 71,
+			"id": 8
+		},
+		{
+			"en_modified": 83,
+			"st_modified": 80,
+			"coref_index": 1068,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 80,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "김근포",
+			"is_target": true,
+			"en": 83,
+			"id": 9
+		},
+		{
+			"en_modified": 106,
+			"entityName": "",
+			"st_modified": 97,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 97,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "독립운동가_김순애",
+			"is_target": true,
+			"en": 106,
+			"id": 10
+		},
+		{
+			"en_modified": 116,
+			"entityName": "",
+			"st_modified": 108,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 108,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "친정_5촌_조카",
+			"is_target": true,
+			"en": 116,
+			"id": 11
+		},
+		{
+			"en_modified": 56,
+			"entityName": "",
+			"st_modified": 54,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 54,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "본관",
+			"is_target": true,
+			"en": 56,
+			"id": 12
+		},
+		{
+			"en_modified": 144,
+			"entityName": "",
+			"st_modified": 142,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 142,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "생애",
+			"is_target": true,
+			"en": 144,
+			"id": 13
+		},
+		{
+			"en_modified": 153,
+			"st_modified": 150,
+			"coref_index": 1077,
+			"entityName": "황해도",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 150,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "황해도",
+			"is_target": true,
+			"en": 153,
+			"id": 14
+		},
+		{
+			"en_modified": 156,
+			"entityName": "장연군",
+			"st_modified": 154,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 154,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "장연",
+			"is_target": true,
+			"en": 156,
+			"id": 15
+		},
+		{
+			"en_modified": 213,
+			"entityName": "기독교",
+			"st_modified": 210,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 210,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 213,
+			"id": 16
+		},
+		{
+			"en_modified": 231,
+			"entityName": "초등학교",
+			"st_modified": 227,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"eType": "WIKILINK",
+			"st": 227,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "초등학교",
+			"is_target": true,
+			"en": 231,
+			"id": 17
+		},
+		{
+			"en_modified": 248,
+			"st_modified": 244,
+			"coref_index": 1068,
+			"entityName": "김마리아",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 244,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "김마리아",
+			"is_target": true,
+			"en": 248,
+			"id": 18
+		},
+		{
+			"en_modified": 279,
+			"entityName": "소래보통학교",
+			"st_modified": 273,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 273,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "소래보통학교",
+			"is_target": true,
+			"en": 279,
+			"id": 19
+		},
+		{
+			"en_modified": 302,
+			"entityName": "김윤오",
+			"st_modified": 299,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 299,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "김윤오",
+			"is_target": true,
+			"en": 302,
+			"id": 20
+		},
+		{
+			"en_modified": 307,
+			"st_modified": 304,
+			"coref_index": 1073,
+			"entityName": "김필순",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 304,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김필순",
+			"is_target": true,
+			"en": 307,
+			"id": 21
+		},
+		{
+			"en_modified": 170,
+			"st_modified": 167,
+			"coref_index": 1069,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 167,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김윤방",
+			"is_target": true,
+			"en": 170,
+			"id": 22
+		},
+		{
+			"en_modified": 184,
+			"entityName": "",
+			"st_modified": 181,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 181,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김몽은",
+			"is_target": true,
+			"en": 184,
+			"id": 23
+		},
+		{
+			"en_modified": 204,
+			"st_modified": 201,
+			"coref_index": 1069,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 201,
+			"ancestor": "1-22",
+			"ne_type": "PERSON",
+			"surface": "김윤방",
+			"is_target": true,
+			"en": 204,
+			"id": 24
+		},
+		{
+			"en_modified": 239,
+			"entityName": "",
+			"st_modified": 236,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 236,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "선각자",
+			"is_target": true,
+			"en": 239,
+			"id": 25
+		},
+		{
+			"en_modified": 330,
+			"st_modified": 326,
+			"coref_index": 1068,
+			"entityName": "김마리아",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 326,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "김마리아",
+			"is_target": true,
+			"en": 330,
+			"id": 26
+		},
+		{
+			"en_modified": 358,
+			"st_modified": 354,
+			"coref_index": 1068,
+			"entityName": "김마리아",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 354,
+			"ancestor": "1-26",
+			"ne_type": "PERSON",
+			"surface": "김마리아",
+			"is_target": true,
+			"en": 358,
+			"id": 27
+		},
+		{
+			"en_modified": 368,
+			"st_modified": 365,
+			"coref_index": 1080,
+			"entityName": "서병호",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 365,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서병호",
+			"is_target": true,
+			"en": 368,
+			"id": 28
+		},
+		{
+			"en_modified": 380,
+			"entityName": "서재현",
+			"st_modified": 377,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 377,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서재현",
+			"is_target": true,
+			"en": 380,
+			"id": 29
+		},
+		{
+			"en_modified": 391,
+			"st_modified": 382,
+			"coref_index": 1078,
+			"entityName": "대한민국_임시정부",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 382,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "대한민국_임시정부",
+			"is_target": true,
+			"en": 391,
+			"id": 30
+		},
+		{
+			"en_modified": 410,
+			"st_modified": 407,
+			"coref_index": 1070,
+			"entityName": "김규식_(1881년)",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 407,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "김규식",
+			"is_target": true,
+			"en": 410,
+			"id": 31
+		},
+		{
+			"en_modified": 430,
+			"entityName": "김순애",
+			"st_modified": 427,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 427,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김순애",
+			"is_target": true,
+			"en": 430,
+			"id": 32
+		},
+		{
+			"en_modified": 438,
+			"st_modified": 434,
+			"coref_index": 1068,
+			"entityName": "김마리아",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 434,
+			"ancestor": "1-26",
+			"ne_type": "PERSON",
+			"surface": "김마리아",
+			"is_target": true,
+			"en": 438,
+			"id": 33
+		},
+		{
+			"en_modified": 465,
+			"entityName": "세브란스의학전문학교",
+			"st_modified": 455,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"eType": "WIKILINK",
+			"st": 455,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세브란스의학전문학교",
+			"is_target": true,
+			"en": 465,
+			"id": 34
+		},
+		{
+			"en_modified": 495,
+			"entityName": "노백린",
+			"st_modified": 492,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 492,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "노백린",
+			"is_target": true,
+			"en": 495,
+			"id": 35
+		},
+		{
+			"en_modified": 500,
+			"entityName": "류동렬",
+			"st_modified": 497,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 497,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "류동렬",
+			"is_target": true,
+			"en": 500,
+			"id": 36
+		},
+		{
+			"en_modified": 505,
+			"entityName": "이동휘",
+			"st_modified": 502,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "WIKILINK",
+			"st": 502,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이동휘",
+			"is_target": true,
+			"en": 505,
+			"id": 37
+		},
+		{
+			"en_modified": 510,
+			"st_modified": 507,
+			"coref_index": 1070,
+			"entityName": "김규식",
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"eType": "ELU",
+			"st": 507,
+			"ancestor": "1-31",
+			"ne_type": "PERSON",
+			"surface": "김규식",
+			"is_target": true,
+			"en": 510,
+			"id": 38
+		},
+		{
+			"en_modified": 527,
+			"st_modified": 523,
+			"coref_index": 1068,
+			"entityName": "김마리아",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 523,
+			"ancestor": "1-26",
+			"ne_type": "PERSON",
+			"surface": "김마리아",
+			"is_target": true,
+			"en": 527,
+			"id": 39
+		},
+		{
+			"en_modified": 542,
+			"st_modified": 537,
+			"coref_index": 1071,
+			"entityName": "정신여자고등학교",
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"eType": "ELU",
+			"st": 537,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "연동여학교",
+			"is_target": true,
+			"en": 542,
+			"id": 40
+		},
+		{
+			"en_modified": 551,
+			"st_modified": 543,
+			"coref_index": 1071,
+			"entityName": "정신여자고등학교",
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"eType": "WIKILINK",
+			"st": 543,
+			"ancestor": "1-40",
+			"ne_type": "ORGANIZATION",
+			"surface": "정신여자고등학교",
+			"is_target": true,
+			"en": 551,
+			"id": 41
+		},
+		{
+			"en_modified": 363,
+			"entityName": "",
+			"st_modified": 360,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 360,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "고모부",
+			"is_target": true,
+			"en": 363,
+			"id": 42
+		},
+		{
+			"en_modified": 375,
+			"entityName": "",
+			"st_modified": 373,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 373,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "아들",
+			"is_target": true,
+			"en": 375,
+			"id": 43
+		},
+		{
+			"en_modified": 414,
+			"entityName": "",
+			"st_modified": 412,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 412,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "부인",
+			"is_target": true,
+			"en": 414,
+			"id": 44
+		},
+		{
+			"en_modified": 425,
+			"st_modified": 420,
+			"coref_index": 1072,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 420,
+			"ancestor": "1-6",
+			"ne_type": "PERSON",
+			"surface": "독립운동가",
+			"is_target": true,
+			"en": 425,
+			"id": 45
+		},
+		{
+			"en_modified": 402,
+			"st_modified": 397,
+			"coref_index": 1072,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 397,
+			"ancestor": "1-6",
+			"ne_type": "PERSON",
+			"surface": "독립운동가",
+			"is_target": true,
+			"en": 402,
+			"id": 46
+		},
+		{
+			"en_modified": 477,
+			"st_modified": 474,
+			"coref_index": 1073,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 474,
+			"ancestor": "1-21",
+			"ne_type": "PERSON",
+			"surface": "김필순",
+			"is_target": true,
+			"en": 477,
+			"id": 47
+		},
+		{
+			"en_modified": 449,
+			"entityName": "",
+			"st_modified": 446,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 446,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "종고모",
+			"is_target": true,
+			"en": 449,
+			"id": 48
+		},
+		{
+			"en_modified": 487,
+			"entityName": "",
+			"st_modified": 483,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 483,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "임시정부",
+			"is_target": true,
+			"en": 487,
+			"id": 49
+		},
+		{
+			"en_modified": 531,
+			"st_modified": 529,
+			"coref_index": 1073,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 529,
+			"ancestor": "1-47",
+			"ne_type": "PERSON",
+			"surface": "숙부",
+			"is_target": true,
+			"en": 531,
+			"id": 50
+		},
+		{
+			"en_modified": 473,
+			"st_modified": 471,
+			"coref_index": 1073,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 471,
+			"ancestor": "1-21",
+			"ne_type": "PERSON",
+			"surface": "숙부",
+			"is_target": true,
+			"en": 473,
+			"id": 51
+		},
+		{
+			"en_modified": 600,
+			"entityName": "1910년",
+			"st_modified": 595,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 595,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1910년",
+			"is_target": false,
+			"en": 600,
+			"id": 52
+		},
+		{
+			"en_modified": 606,
+			"st_modified": 601,
+			"coref_index": 1071,
+			"entityName": "정신여자고등학교",
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"eType": "ELU",
+			"st": 601,
+			"ancestor": "1-40",
+			"ne_type": "ORGANIZATION",
+			"surface": "연동여학교",
+			"is_target": true,
+			"en": 606,
+			"id": 53
+		},
+		{
+			"en_modified": 615,
+			"entityName": "광주직할시",
+			"st_modified": 613,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 613,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "광주",
+			"is_target": true,
+			"en": 615,
+			"id": 54
+		},
+		{
+			"en_modified": 623,
+			"st_modified": 617,
+			"coref_index": 1074,
+			"entityName": "광주수피아여자고등학교",
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"eType": "ELU",
+			"st": 617,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "수피아여학교",
+			"is_target": true,
+			"en": 623,
+			"id": 55
+		},
+		{
+			"en_modified": 633,
+			"st_modified": 624,
+			"coref_index": 1074,
+			"entityName": "수피아여자고등학교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 624,
+			"ancestor": "1-55",
+			"ne_type": "ETC",
+			"surface": "수피아여자고등학교",
+			"is_target": true,
+			"en": 633,
+			"id": 56
+		},
+		{
+			"en_modified": 660,
+			"entityName": "1914년",
+			"st_modified": 655,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 655,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1914년",
+			"is_target": false,
+			"en": 660,
+			"id": 57
+		},
+		{
+			"en_modified": 665,
+			"entityName": "일본",
+			"st_modified": 663,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 663,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "일본",
+			"is_target": true,
+			"en": 665,
+			"id": 58
+		},
+		{
+			"en_modified": 681,
+			"entityName": "히로시마_시",
+			"st_modified": 675,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 675,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "히로시마_시",
+			"is_target": true,
+			"en": 681,
+			"id": 59
+		},
+		{
+			"en_modified": 693,
+			"st_modified": 686,
+			"coref_index": 1076,
+			"entityName": "도쿄_여자학원",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 686,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "도쿄_여자학원",
+			"is_target": true,
+			"en": 693,
+			"id": 60
+		},
+		{
+			"en_modified": 712,
+			"entityName": "1919년",
+			"st_modified": 707,
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"eType": "WIKILINK",
+			"st": 707,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1919년",
+			"is_target": false,
+			"en": 712,
+			"id": 61
+		},
+		{
+			"en_modified": 731,
+			"st_modified": 729,
+			"coref_index": 1075,
+			"entityName": "도쿄",
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 729,
+			"ancestor": "1-68",
+			"ne_type": "LOCATION",
+			"surface": "도쿄",
+			"is_target": true,
+			"en": 731,
+			"id": 62
+		},
+		{
+			"en_modified": 754,
+			"entityName": "2·8_독립_선언",
+			"st_modified": 745,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 745,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2·8_독립_선언",
+			"is_target": true,
+			"en": 754,
+			"id": 63
+		},
+		{
+			"en_modified": 764,
+			"st_modified": 761,
+			"coref_index": 1079,
+			"entityName": "황애덕",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 761,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "황애덕",
+			"is_target": true,
+			"en": 764,
+			"id": 64
+		},
+		{
+			"en_modified": 790,
+			"entityName": "3·1_운동",
+			"st_modified": 784,
+			"kbox_types": [
+				"Holiday"
+			],
+			"eType": "WIKILINK",
+			"st": 784,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "3·1_운동",
+			"is_target": true,
+			"en": 790,
+			"id": 65
+		},
+		{
+			"en_modified": 842,
+			"entityName": "고문",
+			"st_modified": 840,
+			"kbox_types": [
+				"Disease"
+			],
+			"eType": "WIKILINK",
+			"st": 840,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "고문",
+			"is_target": true,
+			"en": 842,
+			"id": 66
+		},
+		{
+			"en_modified": 706,
+			"entityName": "",
+			"st_modified": 702,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 702,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "독립운동",
+			"is_target": true,
+			"en": 706,
+			"id": 67
+		},
+		{
+			"en_modified": 715,
+			"st_modified": 713,
+			"coref_index": 1075,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 713,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "도쿄",
+			"is_target": true,
+			"en": 715,
+			"id": 68
+		},
+		{
+			"en_modified": 720,
+			"st_modified": 716,
+			"coref_index": 1076,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 716,
+			"ancestor": "1-60",
+			"ne_type": "ORGANIZATION",
+			"surface": "여자학원",
+			"is_target": true,
+			"en": 720,
+			"id": 69
+		},
+		{
+			"en_modified": 723,
+			"entityName": "",
+			"st_modified": 721,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 721,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "졸업",
+			"is_target": true,
+			"en": 723,
+			"id": 70
+		},
+		{
+			"en_modified": 736,
+			"entityName": "",
+			"st_modified": 732,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 732,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "유학생들",
+			"is_target": true,
+			"en": 736,
+			"id": 71
+		},
+		{
+			"en_modified": 740,
+			"entityName": "",
+			"st_modified": 738,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 738,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "중심",
+			"is_target": true,
+			"en": 740,
+			"id": 72
+		},
+		{
+			"en_modified": 776,
+			"entityName": "",
+			"st_modified": 774,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 774,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "참가",
+			"is_target": true,
+			"en": 776,
+			"id": 73
+		},
+		{
+			"en_modified": 805,
+			"entityName": "",
+			"st_modified": 803,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 803,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "귀국",
+			"is_target": true,
+			"en": 805,
+			"id": 74
+		},
+		{
+			"en_modified": 811,
+			"st_modified": 808,
+			"coref_index": 1077,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 808,
+			"ancestor": "1-14",
+			"ne_type": "LOCATION",
+			"surface": "황해도",
+			"is_target": true,
+			"en": 811,
+			"id": 75
+		},
+		{
+			"en_modified": 818,
+			"entityName": "",
+			"st_modified": 816,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 816,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "운동",
+			"is_target": true,
+			"en": 818,
+			"id": 76
+		},
+		{
+			"en_modified": 828,
+			"entityName": "",
+			"st_modified": 826,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 826,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "체포",
+			"is_target": true,
+			"en": 828,
+			"id": 77
+		},
+		{
+			"en_modified": 832,
+			"entityName": "",
+			"st_modified": 830,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 830,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "구금",
+			"is_target": true,
+			"en": 832,
+			"id": 78
+		},
+		{
+			"en_modified": 860,
+			"entityName": "",
+			"st_modified": 858,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 858,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "건강",
+			"is_target": true,
+			"en": 860,
+			"id": 79
+		},
+		{
+			"en_modified": 863,
+			"entityName": "",
+			"st_modified": 861,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 861,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "문제",
+			"is_target": true,
+			"en": 863,
+			"id": 80
+		},
+		{
+			"en_modified": 867,
+			"entityName": "",
+			"st_modified": 865,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 865,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "고생",
+			"is_target": true,
+			"en": 867,
+			"id": 81
+		},
+		{
+			"en_modified": 879,
+			"entityName": "1919년",
+			"st_modified": 874,
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"eType": "WIKILINK",
+			"st": 874,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1919년",
+			"is_target": false,
+			"en": 879,
+			"id": 82
+		},
+		{
+			"en_modified": 892,
+			"entityName": "대한민국애국부인회_사건",
+			"st_modified": 880,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 880,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "대한민국애국부인회_사건",
+			"is_target": true,
+			"en": 892,
+			"id": 83
+		},
+		{
+			"en_modified": 940,
+			"entityName": "1920년",
+			"st_modified": 935,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 935,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1920년",
+			"is_target": false,
+			"en": 940,
+			"id": 84
+		},
+		{
+			"en_modified": 948,
+			"entityName": "선교사",
+			"st_modified": 945,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 945,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "선교사",
+			"is_target": true,
+			"en": 948,
+			"id": 85
+		},
+		{
+			"en_modified": 958,
+			"entityName": "상하이",
+			"st_modified": 955,
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 955,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "상하이",
+			"is_target": true,
+			"en": 958,
+			"id": 86
+		},
+		{
+			"en_modified": 974,
+			"st_modified": 965,
+			"coref_index": 1078,
+			"entityName": "대한민국_임시정부",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 965,
+			"ancestor": "1-30",
+			"ne_type": "ETC",
+			"surface": "대한민국_임시정부",
+			"is_target": true,
+			"en": 974,
+			"id": 87
+		},
+		{
+			"en_modified": 979,
+			"st_modified": 976,
+			"coref_index": 1077,
+			"entityName": "황해도",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 976,
+			"ancestor": "1-75",
+			"ne_type": "ETC",
+			"surface": "황해도",
+			"is_target": true,
+			"en": 979,
+			"id": 88
+		},
+		{
+			"en_modified": 1019,
+			"entityName": "1923년",
+			"st_modified": 1014,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1014,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1923년",
+			"is_target": false,
+			"en": 1019,
+			"id": 89
+		},
+		{
+			"en_modified": 1024,
+			"entityName": "미국",
+			"st_modified": 1022,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1022,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "미국",
+			"is_target": true,
+			"en": 1024,
+			"id": 90
+		},
+		{
+			"en_modified": 1038,
+			"entityName": "파크_대학교",
+			"st_modified": 1032,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1032,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "파크_대학교",
+			"is_target": true,
+			"en": 1038,
+			"id": 91
+		},
+		{
+			"en_modified": 1047,
+			"entityName": "시카고_대학교",
+			"st_modified": 1040,
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 1040,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "시카고_대학교",
+			"is_target": true,
+			"en": 1047,
+			"id": 92
+		},
+		{
+			"en_modified": 1059,
+			"entityName": "석사",
+			"st_modified": 1055,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"eType": "ELU",
+			"st": 1055,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "석사학위",
+			"is_target": true,
+			"en": 1059,
+			"id": 93
+		},
+		{
+			"en_modified": 1068,
+			"entityName": "뉴욕_시",
+			"st_modified": 1066,
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 1066,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "뉴욕",
+			"is_target": true,
+			"en": 1068,
+			"id": 94
+		},
+		{
+			"en_modified": 1073,
+			"entityName": "신학",
+			"st_modified": 1071,
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"eType": "WIKILINK",
+			"st": 1071,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신학",
+			"is_target": true,
+			"en": 1073,
+			"id": 95
+		},
+		{
+			"en_modified": 1099,
+			"st_modified": 1096,
+			"coref_index": 1079,
+			"entityName": "황애덕",
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1096,
+			"ancestor": "1-64",
+			"ne_type": "PERSON",
+			"surface": "황애덕",
+			"is_target": true,
+			"en": 1099,
+			"id": 96
+		},
+		{
+			"en_modified": 1104,
+			"entityName": "박인덕",
+			"st_modified": 1101,
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 1101,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "박인덕",
+			"is_target": true,
+			"en": 1104,
+			"id": 97
+		},
+		{
+			"en_modified": 1004,
+			"entityName": "",
+			"st_modified": 991,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 991,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "난징의_진링(金陵)_대학",
+			"is_target": true,
+			"en": 1004,
+			"id": 98
+		},
+		{
+			"en_modified": 1128,
+			"entityName": "",
+			"st_modified": 1114,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1114,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "대한민국애국부인회(근화회)",
+			"is_target": true,
+			"en": 1128,
+			"id": 99
+		}
+	],
+	"globalSID": "679497,679498,679499,679500,679501,679502,679503,679504,679505,679506,679507,679508,679509,679510,679511,679512,679513,679514,679515,679516,679517",
+	"plainText": "김마리아(金瑪利亞, 1891년_6월_18일 ~ 1944년_3월_13일)는 한국의 독립운동가이다. 본관은 광산으로, 본명은 김진상(金眞常)이며, 김근포(金槿圃)라고도 하였다. 독립운동가_김순애의 친정_5촌_조카였다. 일설에는 1892년생이라는 설도 있다. 생애 학창시절 황해도 장연에서 지주인 아버지 김윤방(金允邦)과 어머니 김몽은(金蒙恩)의 3녀로 태어났다. 김윤방은 일찍이 기독교에 입교하여 고향 마을에 초등학교를 세운 선각자였는데, 김마리아가 어릴 때 사망했다. 그는 아버지가 설립한 소래보통학교를 졸업했고, 어머니도 곧 사망하여 김윤오, 김필순 등 숙부들의 슬하에서 자라났다. 김마리아의 집안은 민족 의식이 투철한 명문가였다. 김마리아의 고모부인 서병호와 그의 아들인 서재현은 대한민국_임시정부에서 일한 독립운동가였으며, 김규식의 부인이며 역시 독립운동가인 김순애에게는 김마리아가 나이 어린 종고모가 된다. 세브란스의학전문학교을 졸업한 숙부 김필순은 나중에 임시정부를 세운 노백린, 류동렬, 이동휘, 김규식 등과 가까운 사이로, 김마리아는 숙부의 집에서 연동여학교(정신여자고등학교의 전신)를 다니면서 민족정신을 갖고 있는 집안 어른들의 영향을 받게 되었다. 1910년 연동여학교를 졸업하고 광주의 수피아여학교(수피아여자고등학교의 전신)와 모교에서 교사로 근무했다. 1914년에는 일본으로 유학을 떠나 히로시마_시를 거쳐 도쿄_여자학원에서 수학했다. 독립운동 1919년 도쿄 여자학원 졸업을 앞두고 도쿄 유학생들이 중심이 되어 2·8_독립_선언이 일어나자 황애덕 등과 함께 적극 참가했다. 곧이어 3·1_운동이 일어났을 때도 미리 귀국하여 황해도 지역의 운동에 관여했다가 체포, 구금되었다. 이때 고문을 당해 몸을 상한 뒤 평생 건강 문제로 고생하게 된다. 1919년 대한민국애국부인회_사건으로 징역 3년형을 선고받았으나 고문후유증으로 인한 병보석으로 풀려난 사이, 1920년 미국인 선교사의 도움으로 상하이로 탈출하여 대한민국_임시정부의 황해도 대의원이 되었으며, 난징의_진링(金陵)_대학에서 수학하였다. 1923년에는 미국으로 유학하여 파크_대학교와 시카고_대학교에서 공부하여 석사학위를 받은 뒤 뉴욕에서 신학을 공부하였다. 그는 뉴욕에서 다시 만난 황애덕, 박인덕 등과 함께 재미 대한민국애국부인회(근화회)를 조직하고 회장을 맡았다. ",
+	"docID": "87302",
+	"ModifiedText": "김마리아(金瑪利亞, 1891년 6월 18일 ~ 1944년 3월 13일)는 한국의 독립운동가이다. 본관은 광산으로, 본명은 김진상(金眞常)이며, 김근포(金槿圃)라고도 하였다. 독립운동가 김순애의 친정 5촌 조카였다. 일설에는 1892년생이라는 설도 있다. 생애 학창시절 황해도 장연에서 지주인 아버지 김윤방(金允邦)과 어머니 김몽은(金蒙恩)의 3녀로 태어났다. 김윤방은 일찍이 기독교에 입교하여 고향 마을에 초등학교를 세운 선각자였는데, 김마리아가 어릴 때 사망했다. 그는 아버지가 설립한 소래보통학교를 졸업했고, 어머니도 곧 사망하여 김윤오, 김필순 등 숙부들의 슬하에서 자라났다. 김마리아의 집안은 민족 의식이 투철한 명문가였다. 김마리아의 고모부인 서병호와 그의 아들인 서재현은 대한민국 임시정부에서 일한 독립운동가였으며, 김규식의 부인이며 역시 독립운동가인 김순애에게는 김마리아가 나이 어린 종고모가 된다. 세브란스의학전문학교을 졸업한 숙부 김필순은 나중에 임시정부를 세운 노백린, 류동렬, 이동휘, 김규식 등과 가까운 사이로, 김마리아는 숙부의 집에서 연동여학교(정신여자고등학교의 전신)를 다니면서 민족정신을 갖고 있는 집안 어른들의 영향을 받게 되었다. 1910년 연동여학교를 졸업하고 광주의 수피아여학교(수피아여자고등학교의 전신)와 모교에서 교사로 근무했다. 1914년에는 일본으로 유학을 떠나 히로시마 시를 거쳐 도쿄 여자학원에서 수학했다. 독립운동 1919년 도쿄 여자학원 졸업을 앞두고 도쿄 유학생들이 중심이 되어 2·8 독립 선언이 일어나자 황애덕 등과 함께 적극 참가했다. 곧이어 3·1 운동이 일어났을 때도 미리 귀국하여 황해도 지역의 운동에 관여했다가 체포, 구금되었다. 이때 고문을 당해 몸을 상한 뒤 평생 건강 문제로 고생하게 된다. 1919년 대한민국애국부인회 사건으로 징역 3년형을 선고받았으나 고문후유증으로 인한 병보석으로 풀려난 사이, 1920년 미국인 선교사의 도움으로 상하이로 탈출하여 대한민국 임시정부의 황해도 대의원이 되었으며, 난징의 진링(金陵) 대학에서 수학하였다. 1923년에는 미국으로 유학하여 파크 대학교와 시카고 대학교에서 공부하여 석사학위를 받은 뒤 뉴욕에서 신학을 공부하였다. 그는 뉴욕에서 다시 만난 황애덕, 박인덕 등과 함께 재미 대한민국애국부인회(근화회)를 조직하고 회장을 맡았다. "
+}

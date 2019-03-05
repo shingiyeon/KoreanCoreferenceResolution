@@ -1,0 +1,235 @@
+{
+	"docID": "69991",
+	"globalSID": "573704,573705,573706",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"entityName": "음력_9월_10일",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 34,
+			"ancestor": "1-1",
+			"is_target": true,
+			"surface": "음력_9월_10일",
+			"coref_index": 835
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"entityName": "경상남도",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 40,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "경상남도",
+			"coref_index": 836
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 41,
+			"eType": "WIKILINK",
+			"entityName": "동래군",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "3-1",
+			"is_target": true,
+			"surface": "동래군",
+			"coref_index": 834
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "ELU",
+			"entityName": "박재형_(1948년)",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 55,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "박재형",
+			"coref_index": 838
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"entityName": "경상남도",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 73,
+			"ancestor": "6-1",
+			"is_target": true,
+			"surface": "경상남도",
+			"coref_index": 836
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"entityName": "기장군",
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 77,
+			"ancestor": "3-2",
+			"is_target": true,
+			"surface": "기장군",
+			"coref_index": 837
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "WIKILINK",
+			"entityName": "기장읍",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기장읍"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "ELU",
+			"entityName": "아버지",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "6-3",
+			"is_target": true,
+			"surface": "아버지",
+			"coref_index": 838
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 121,
+			"eType": "ELU",
+			"entityName": "일본인",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 124,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "일본인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 24,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1898년_10월_24일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 50,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한학자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 58,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "딸"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 156,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "기독교_교인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 159,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 162,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "어머니"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 82,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 85,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대변리"
+		}
+	],
+	"plainText": "학창시절과 교육활동 1898년_10월_24일(음력_9월_10일) 경상남도 동래군에서 한학자인 박재형의 딸로 태어났다. 한때 경상남도 기장군 기장읍 대변리에서 어린 시절을 보냈는데 12세에 아버지가 기장읍내에 나갔다가 일본인에게 상투가 잘린뒤 모욕당하고 돌아왔는가 하면 기독교_교인이던 어머니가 태극기를 꺼내어 담장아래에 묻으면서 통곡하는 것을 보고 나라 잃은 설움을 가슴깊이 간직하고, 교육에 투신하게 되었다고 한다."
+}

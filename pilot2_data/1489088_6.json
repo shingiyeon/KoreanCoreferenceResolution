@@ -1,0 +1,248 @@
+{
+	"docID": "1489088",
+	"globalSID": "3772287,3772288,3772289,3772290,3772291",
+	"pronouns": [
+		{
+			"st": 93,
+			"coref_index": 220,
+			"id": 0,
+			"en": 99,
+			"ancestor": "6-8",
+			"surface": "이 데스스타"
+		},
+		{
+			"en": 255,
+			"ancestor": "-1",
+			"surface": "이때",
+			"id": 1,
+			"st": 253
+		},
+		{
+			"st": 256,
+			"coref_index": 221,
+			"id": 2,
+			"en": 260,
+			"ancestor": "6-14",
+			"surface": "한 솔로"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "은하계",
+			"entityName": "은하"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 56,
+			"ancestor": "-1",
+			"surface": "_반군_스파이",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "반군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 173,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 180,
+			"ancestor": "-1",
+			"surface": "칼리시안_장군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 186,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 188,
+			"ancestor": "-1",
+			"coref_index": 217,
+			"surface": "부대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 276,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 281,
+			"ancestor": "6-4",
+			"coref_index": 217,
+			"surface": "파괴_부대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "팰퍼틴_집권",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 17,
+			"ancestor": "",
+			"surface": "24년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 27,
+			"ancestor": "-1",
+			"coref_index": 220,
+			"surface": "데스스타_2",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 76,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 82,
+			"ancestor": "-1",
+			"surface": "반군_본거지",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 155,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 162,
+			"ancestor": "2-7",
+			"coref_index": 218,
+			"surface": "레아_오르가나",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 199,
+			"ancestor": "-1",
+			"surface": "스타_디스트로이어",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 201,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 215,
+			"ancestor": "-1",
+			"surface": "임페리얼_스타_디스트로이어",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 140,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 147,
+			"ancestor": "-1",
+			"surface": "방어막_발전기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 153,
+			"ancestor": "-1",
+			"coref_index": 221,
+			"surface": "한_솔로",
+			"entityName": ""
+		}
+	],
+	"plainText": "행적 제국은 팰퍼틴_집권 24년 차에 데스스타_2를 지어 은하계의 평화를 위협한다. 이에_반군_스파이들은 데스스타의 상세정보를 알아내어 반군_본거지로 보내고, 반군은 이 데스스타를 파괴하기 위해서 최후의 공격을 감행한다. 하지만 공격 전에 데스스타의 방어막_발전기를 한_솔로와 레아_오르가나가 없애지 못하고, 칼리시안_장군이 이끄는 부대도 스타_디스트로이어와 임페리얼_스타_디스트로이어가 이끄는 죽음의 부대와 데스스타의 공격 시스템으로 궤멸에 처한다. 이때 한 솔로가 방어막 발전기를 없애고, 파괴_부대도 데스스타의 중앙부를 파괴하며 데스스타는 파괴된다."
+}

@@ -1,0 +1,331 @@
+{
+	"docID": "87302",
+	"globalSID": "679511,679512,679513,679514",
+	"pronouns": [
+		{
+			"en": 137,
+			"st": 135,
+			"surface": "이때",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 152,
+			"st": 135,
+			"surface": "이때 고문을 당해 몸을 상한 뒤",
+			"id": 1,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 10,
+			"ancestor": "",
+			"surface": "1919년",
+			"entityName": "1919년"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 29,
+			"ancestor": "6-7",
+			"coref_index": 1075,
+			"surface": "도쿄",
+			"entityName": "도쿄"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "-1",
+			"surface": "2·8_독립_선언",
+			"entityName": "2·8_독립_선언"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 62,
+			"ancestor": "-1",
+			"coref_index": 1079,
+			"surface": "황애덕",
+			"entityName": "황애덕"
+		},
+		{
+			"kbox_types": [
+				"Holiday"
+			],
+			"st": 82,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 88,
+			"ancestor": "-1",
+			"surface": "3·1_운동",
+			"entityName": "3·1_운동"
+		},
+		{
+			"kbox_types": [
+				"Disease"
+			],
+			"st": 138,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 140,
+			"ancestor": "-1",
+			"surface": "고문",
+			"entityName": "고문"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "EVENT",
+			"en": 4,
+			"ancestor": "-1",
+			"surface": "독립운동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 13,
+			"ancestor": "-1",
+			"coref_index": 1075,
+			"surface": "도쿄",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 18,
+			"ancestor": "5-8",
+			"coref_index": 1076,
+			"surface": "여자학원",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "EVENT",
+			"en": 21,
+			"ancestor": "-1",
+			"surface": "졸업",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "유학생들",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 36,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 38,
+			"ancestor": "-1",
+			"surface": "중심",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "참가",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 103,
+			"ancestor": "-1",
+			"surface": "귀국",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 106,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 109,
+			"ancestor": "3-0",
+			"coref_index": 1077,
+			"surface": "황해도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 114,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 116,
+			"ancestor": "-1",
+			"surface": "운동",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 124,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "체포",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 128,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "ETC",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "구금",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 156,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "ETC",
+			"en": 158,
+			"ancestor": "-1",
+			"surface": "건강",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 159,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "ETC",
+			"en": 161,
+			"ancestor": "-1",
+			"surface": "문제",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 163,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "ETC",
+			"en": 165,
+			"ancestor": "-1",
+			"surface": "고생",
+			"entityName": ""
+		}
+	],
+	"plainText": "독립운동 1919년 도쿄 여자학원 졸업을 앞두고 도쿄 유학생들이 중심이 되어 2·8_독립_선언이 일어나자 황애덕 등과 함께 적극 참가했다. 곧이어 3·1_운동이 일어났을 때도 미리 귀국하여 황해도 지역의 운동에 관여했다가 체포, 구금되었다. 이때 고문을 당해 몸을 상한 뒤 평생 건강 문제로 고생하게 된다."
+}

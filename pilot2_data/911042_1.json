@@ -1,0 +1,196 @@
+{
+	"docID": "911042",
+	"globalSID": "3010306,3010307",
+	"pronouns": [
+		{
+			"st": 105,
+			"coref_index": 1109,
+			"id": 0,
+			"en": 106,
+			"ancestor": "1-9",
+			"surface": "그"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 16,
+			"ancestor": "",
+			"surface": "1985년",
+			"entityName": "1985년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 22,
+			"ancestor": "",
+			"surface": "8월_9일",
+			"entityName": "8월_9일"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "브라질",
+			"entityName": "브라질"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 39,
+			"ancestor": "-1",
+			"surface": "축구_선수",
+			"entityName": "축구_선수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 51,
+			"ancestor": "-1",
+			"coref_index": 1112,
+			"surface": "프리메라리가",
+			"entityName": "프리메라리가"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 63,
+			"ancestor": "-1",
+			"coref_index": 1108,
+			"surface": "아틀레티코_마드리드",
+			"entityName": "아틀레티코_마드리드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 119,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 122,
+			"ancestor": "-1",
+			"coref_index": 1111,
+			"surface": "스페인",
+			"entityName": "스페인"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 143,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 153,
+			"ancestor": "-1",
+			"coref_index": 1110,
+			"surface": "데포르티보_라코루냐",
+			"entityName": "데포르티보_라코루냐"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 155,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 165,
+			"ancestor": "1-5",
+			"coref_index": 1108,
+			"surface": "아틀레티코_마드리드",
+			"entityName": "아틀레티코_마드리드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "-1",
+			"coref_index": 1109,
+			"surface": "필리피_루이스",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 71,
+			"ancestor": "-1",
+			"surface": "왼쪽_풀백",
+			"entityName": ""
+		}
+	],
+	"plainText": "필리피_루이스 (, 1985년 8월_9일 ~ ) 는 브라질의 축구_선수로, 현재 프리메라리가의 아틀레티코_마드리드에서 왼쪽_풀백으로 활약하고 있다. 지칠 줄 모르는 체력을 소유한 선수로, 그는 현역 기간 대부분을 스페인에서 보냈으며, 4시즌간 몸을 담았던 데포르티보_라코루냐와 아틀레티코_마드리드에서 활약한 것으로 알려져 있다."
+}

@@ -1,0 +1,1097 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 205,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 207,
+			"en": 207,
+			"st_modified": 205
+		},
+		{
+			"st": 233,
+			"text": "나는 제국",
+			"is_pronoun": true,
+			"en_modified": 238,
+			"en": 238,
+			"st_modified": 233
+		},
+		{
+			"st": 323,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 324,
+			"en": 324,
+			"st_modified": 323
+		},
+		{
+			"st": 323,
+			"text": "그의 수하",
+			"is_pronoun": true,
+			"en_modified": 328,
+			"en": 328,
+			"st_modified": 323
+		},
+		{
+			"st": 323,
+			"text": "그의 수하 다스_베이더",
+			"is_pronoun": true,
+			"en_modified": 335,
+			"en": 335,
+			"st_modified": 323
+		},
+		{
+			"st": 612,
+			"text": "이 데스스타",
+			"is_pronoun": true,
+			"en_modified": 618,
+			"en": 618,
+			"st_modified": 612
+		},
+		{
+			"st": 772,
+			"text": "이때",
+			"is_pronoun": true,
+			"en_modified": 774,
+			"en": 774,
+			"st_modified": 772
+		},
+		{
+			"st": 775,
+			"text": "한 솔로",
+			"is_pronoun": true,
+			"en_modified": 779,
+			"en": 779,
+			"st_modified": 775
+		},
+		{
+			"st": 857,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 859,
+			"en": 859,
+			"st_modified": 857
+		},
+		{
+			"st": 857,
+			"text": "자신의 아버지임",
+			"is_pronoun": true,
+			"en_modified": 865,
+			"en": 865,
+			"st_modified": 857
+		},
+		{
+			"st": 871,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 872,
+			"en": 872,
+			"st_modified": 871
+		},
+		{
+			"st": 907,
+			"text": "이 검투",
+			"is_pronoun": true,
+			"en_modified": 911,
+			"en": 911,
+			"st_modified": 907
+		},
+		{
+			"st": 942,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 943,
+			"en": 943,
+			"st_modified": 942
+		},
+		{
+			"st": 995,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 997,
+			"en": 997,
+			"st_modified": 995
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 205,
+			"ancestor": "1-4",
+			"surface": "자신",
+			"en_modified": 207,
+			"en": 207,
+			"st_modified": 205,
+			"id": 0,
+			"coref_index": 215
+		},
+		{
+			"st": 233,
+			"ancestor": "-1",
+			"surface": "나는 제국으로",
+			"en_modified": 240,
+			"en": 240,
+			"st_modified": 233,
+			"id": 1
+		},
+		{
+			"st": 323,
+			"ancestor": "1-7",
+			"surface": "그",
+			"en_modified": 324,
+			"en": 324,
+			"st_modified": 323,
+			"id": 2,
+			"coref_index": 215
+		},
+		{
+			"st": 323,
+			"ancestor": "-1",
+			"surface": "그의 수하",
+			"en_modified": 328,
+			"en": 328,
+			"st_modified": 323,
+			"id": 3
+		},
+		{
+			"st": 323,
+			"ancestor": "-1",
+			"surface": "그의 수하 다스_베이더",
+			"en_modified": 335,
+			"en": 335,
+			"st_modified": 323,
+			"id": 4
+		},
+		{
+			"st": 612,
+			"ancestor": "1-38",
+			"surface": "이 데스스타",
+			"en_modified": 618,
+			"en": 618,
+			"st_modified": 612,
+			"id": 5,
+			"coref_index": 220
+		},
+		{
+			"st": 772,
+			"ancestor": "-1",
+			"surface": "이때",
+			"en_modified": 774,
+			"en": 774,
+			"st_modified": 772,
+			"id": 6
+		},
+		{
+			"st": 775,
+			"ancestor": "1-44",
+			"surface": "한 솔로",
+			"en_modified": 779,
+			"en": 779,
+			"st_modified": 775,
+			"id": 7,
+			"coref_index": 221
+		},
+		{
+			"st": 857,
+			"ancestor": "1-45",
+			"surface": "자신",
+			"en_modified": 859,
+			"en": 859,
+			"st_modified": 857,
+			"id": 8,
+			"coref_index": 222
+		},
+		{
+			"st": 857,
+			"ancestor": "-1",
+			"surface": "자신의 아버지임을",
+			"en_modified": 866,
+			"en": 866,
+			"st_modified": 857,
+			"id": 9
+		},
+		{
+			"st": 871,
+			"ancestor": "1-46",
+			"surface": "그",
+			"en_modified": 872,
+			"en": 872,
+			"st_modified": 871,
+			"id": 10,
+			"coref_index": 219
+		},
+		{
+			"st": 907,
+			"ancestor": "-1",
+			"surface": "이 검투에서",
+			"en_modified": 913,
+			"en": 913,
+			"st_modified": 907,
+			"id": 11
+		},
+		{
+			"st": 942,
+			"ancestor": "-1",
+			"surface": "이에",
+			"en_modified": 944,
+			"en": 944,
+			"st_modified": 942,
+			"id": 12
+		},
+		{
+			"st": 995,
+			"ancestor": "1-48",
+			"surface": "자신",
+			"en_modified": 997,
+			"en": 997,
+			"st_modified": 995,
+			"id": 13,
+			"coref_index": 219
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 41,
+			"st_modified": 35,
+			"coref_index": 213,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 35,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "《스타워즈》",
+			"is_target": true,
+			"en": 41,
+			"id": 0
+		},
+		{
+			"en_modified": 79,
+			"st_modified": 73,
+			"coref_index": 213,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 73,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "《스타워즈》",
+			"is_target": true,
+			"en": 79,
+			"id": 1
+		},
+		{
+			"en_modified": 103,
+			"entityName": "",
+			"st_modified": 95,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 95,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "《제국의_역습》",
+			"is_target": true,
+			"en": 103,
+			"id": 2
+		},
+		{
+			"en_modified": 122,
+			"entityName": "",
+			"st_modified": 113,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 113,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "《제다이의_귀환》",
+			"is_target": true,
+			"en": 122,
+			"id": 3
+		},
+		{
+			"en_modified": 176,
+			"st_modified": 173,
+			"coref_index": 215,
+			"entityName": "팰퍼틴",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 173,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "팰퍼틴",
+			"is_target": true,
+			"en": 176,
+			"id": 4
+		},
+		{
+			"en_modified": 191,
+			"st_modified": 188,
+			"coref_index": 214,
+			"entityName": "제다이",
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "ELU",
+			"st": 188,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "제다이",
+			"is_target": true,
+			"en": 191,
+			"id": 5
+		},
+		{
+			"en_modified": 203,
+			"st_modified": 200,
+			"coref_index": 214,
+			"entityName": "제다이",
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "ELU",
+			"st": 200,
+			"ancestor": "1-5",
+			"ne_type": "ORGANIZATION",
+			"surface": "제다이",
+			"is_target": true,
+			"en": 203,
+			"id": 6
+		},
+		{
+			"en_modified": 321,
+			"st_modified": 318,
+			"coref_index": 215,
+			"entityName": "팰퍼틴",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 318,
+			"ancestor": "1-4",
+			"ne_type": "PERSON",
+			"surface": "팰퍼틴",
+			"is_target": true,
+			"en": 321,
+			"id": 7
+		},
+		{
+			"en_modified": 335,
+			"st_modified": 329,
+			"coref_index": 219,
+			"entityName": "다스_베이더",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"eType": "WIKILINK",
+			"st": 329,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "다스_베이더",
+			"is_target": true,
+			"en": 335,
+			"id": 8
+		},
+		{
+			"en_modified": 167,
+			"entityName": "",
+			"st_modified": 162,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 162,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "구_공화국",
+			"is_target": true,
+			"en": 167,
+			"id": 9
+		},
+		{
+			"en_modified": 256,
+			"st_modified": 251,
+			"coref_index": 216,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 251,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "은하_제국",
+			"is_target": true,
+			"en": 256,
+			"id": 10
+		},
+		{
+			"en_modified": 290,
+			"st_modified": 283,
+			"coref_index": 218,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 283,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "레아_오르가나",
+			"is_target": true,
+			"en": 290,
+			"id": 11
+		},
+		{
+			"en_modified": 307,
+			"entityName": "",
+			"st_modified": 302,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 302,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "엔도_전투",
+			"is_target": true,
+			"en": 307,
+			"id": 12
+		},
+		{
+			"en_modified": 375,
+			"entityName": "메스_아메다",
+			"st_modified": 369,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 369,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "메스_아메다",
+			"is_target": true,
+			"en": 375,
+			"id": 13
+		},
+		{
+			"en_modified": 368,
+			"entityName": "",
+			"st_modified": 366,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 366,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서열",
+			"is_target": true,
+			"en": 368,
+			"id": 14
+		},
+		{
+			"en_modified": 409,
+			"entityName": "성_차별",
+			"st_modified": 406,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 406,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "성차별",
+			"is_target": true,
+			"en": 409,
+			"id": 15
+		},
+		{
+			"en_modified": 384,
+			"entityName": "",
+			"st_modified": 379,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 379,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독재_정치",
+			"is_target": true,
+			"en": 384,
+			"id": 16
+		},
+		{
+			"en_modified": 391,
+			"entityName": "",
+			"st_modified": 386,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 386,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "노예_제도",
+			"is_target": true,
+			"en": 391,
+			"id": 17
+		},
+		{
+			"en_modified": 398,
+			"entityName": "",
+			"st_modified": 393,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 393,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "대량_학살",
+			"is_target": true,
+			"en": 398,
+			"id": 18
+		},
+		{
+			"en_modified": 404,
+			"entityName": "",
+			"st_modified": 400,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 400,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인종차별",
+			"is_target": true,
+			"en": 404,
+			"id": 19
+		},
+		{
+			"en_modified": 417,
+			"st_modified": 415,
+			"coref_index": 216,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 415,
+			"ancestor": "1-10",
+			"ne_type": "ORGANIZATION",
+			"surface": "제국",
+			"is_target": true,
+			"en": 417,
+			"id": 20
+		},
+		{
+			"en_modified": 431,
+			"entityName": "",
+			"st_modified": 419,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 419,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "팰퍼틴_집권_19년_차",
+			"is_target": true,
+			"en": 431,
+			"id": 21
+		},
+		{
+			"en_modified": 441,
+			"entityName": "",
+			"st_modified": 433,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 433,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "구_공화국_의회",
+			"is_target": true,
+			"en": 441,
+			"id": 22
+		},
+		{
+			"en_modified": 448,
+			"entityName": "",
+			"st_modified": 443,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 443,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "영구_해산",
+			"is_target": true,
+			"en": 448,
+			"id": 23
+		},
+		{
+			"en_modified": 468,
+			"entityName": "",
+			"st_modified": 464,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 464,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "데스스타",
+			"is_target": true,
+			"en": 468,
+			"id": 24
+		},
+		{
+			"en_modified": 491,
+			"entityName": "",
+			"st_modified": 486,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 486,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "레이저_포",
+			"is_target": true,
+			"en": 491,
+			"id": 25
+		},
+		{
+			"en_modified": 505,
+			"entityName": "",
+			"st_modified": 499,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 499,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "텐티브_4호",
+			"is_target": true,
+			"en": 505,
+			"id": 26
+		},
+		{
+			"en_modified": 462,
+			"entityName": "",
+			"st_modified": 453,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 453,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "거대_우주_정거장",
+			"is_target": true,
+			"en": 462,
+			"id": 27
+		},
+		{
+			"en_modified": 476,
+			"entityName": "",
+			"st_modified": 470,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 470,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "비무장_행성",
+			"is_target": true,
+			"en": 476,
+			"id": 28
+		},
+		{
+			"en_modified": 484,
+			"entityName": "",
+			"st_modified": 478,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 478,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "얼데란_행성",
+			"is_target": true,
+			"en": 484,
+			"id": 29
+		},
+		{
+			"en_modified": 554,
+			"entityName": "은하",
+			"st_modified": 551,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 551,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "은하계",
+			"is_target": true,
+			"en": 554,
+			"id": 30
+		},
+		{
+			"en_modified": 575,
+			"entityName": "",
+			"st_modified": 569,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 569,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "반군_스파이",
+			"is_target": true,
+			"en": 575,
+			"id": 31
+		},
+		{
+			"en_modified": 610,
+			"entityName": "",
+			"st_modified": 608,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 608,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "반군",
+			"is_target": true,
+			"en": 610,
+			"id": 32
+		},
+		{
+			"en_modified": 699,
+			"entityName": "",
+			"st_modified": 692,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 692,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "칼리시안_장군",
+			"is_target": true,
+			"en": 699,
+			"id": 33
+		},
+		{
+			"en_modified": 707,
+			"st_modified": 705,
+			"coref_index": 217,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 705,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "부대",
+			"is_target": true,
+			"en": 707,
+			"id": 34
+		},
+		{
+			"en_modified": 800,
+			"st_modified": 795,
+			"coref_index": 217,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 795,
+			"ancestor": "1-34",
+			"ne_type": "ORGANIZATION",
+			"surface": "파괴_부대",
+			"is_target": true,
+			"en": 800,
+			"id": 35
+		},
+		{
+			"en_modified": 532,
+			"entityName": "",
+			"st_modified": 526,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 526,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "팰퍼틴_집권",
+			"is_target": true,
+			"en": 532,
+			"id": 36
+		},
+		{
+			"en_modified": 536,
+			"entityName": "",
+			"st_modified": 533,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 533,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "24년",
+			"is_target": false,
+			"en": 536,
+			"id": 37
+		},
+		{
+			"en_modified": 546,
+			"st_modified": 540,
+			"coref_index": 220,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 540,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "데스스타_2",
+			"is_target": true,
+			"en": 546,
+			"id": 38
+		},
+		{
+			"en_modified": 601,
+			"entityName": "",
+			"st_modified": 595,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 595,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "반군_본거지",
+			"is_target": true,
+			"en": 601,
+			"id": 39
+		},
+		{
+			"en_modified": 681,
+			"st_modified": 674,
+			"coref_index": 218,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 674,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "레아_오르가나",
+			"is_target": true,
+			"en": 681,
+			"id": 40
+		},
+		{
+			"en_modified": 718,
+			"entityName": "",
+			"st_modified": 709,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 709,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "스타_디스트로이어",
+			"is_target": true,
+			"en": 718,
+			"id": 41
+		},
+		{
+			"en_modified": 734,
+			"entityName": "",
+			"st_modified": 720,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 720,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "임페리얼_스타_디스트로이어",
+			"is_target": true,
+			"en": 734,
+			"id": 42
+		},
+		{
+			"en_modified": 666,
+			"entityName": "",
+			"st_modified": 659,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 659,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "방어막_발전기",
+			"is_target": true,
+			"en": 666,
+			"id": 43
+		},
+		{
+			"en_modified": 672,
+			"st_modified": 668,
+			"coref_index": 221,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 668,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "한_솔로",
+			"is_target": true,
+			"en": 672,
+			"id": 44
+		},
+		{
+			"en_modified": 842,
+			"st_modified": 834,
+			"coref_index": 222,
+			"entityName": "루크_스카이워커",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"eType": "WIKILINK",
+			"st": 834,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "루크_스카이워커",
+			"is_target": true,
+			"en": 842,
+			"id": 45
+		},
+		{
+			"en_modified": 855,
+			"st_modified": 849,
+			"coref_index": 219,
+			"entityName": "다스_베이더",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"eType": "WIKILINK",
+			"st": 849,
+			"ancestor": "1-8",
+			"ne_type": "PERSON",
+			"surface": "다스_베이더",
+			"is_target": true,
+			"en": 855,
+			"id": 46
+		},
+		{
+			"en_modified": 897,
+			"entityName": "광검",
+			"st_modified": 895,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 895,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "광검",
+			"is_target": true,
+			"en": 897,
+			"id": 47
+		},
+		{
+			"en_modified": 968,
+			"st_modified": 962,
+			"coref_index": 219,
+			"entityName": "다스_베이더",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"eType": "ELU",
+			"st": 962,
+			"ancestor": "1-46",
+			"ne_type": "PERSON",
+			"surface": "다스_베이더",
+			"is_target": true,
+			"en": 968,
+			"id": 48
+		},
+		{
+			"en_modified": 979,
+			"st_modified": 970,
+			"coref_index": 219,
+			"entityName": "아나킨_스카이워커",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"eType": "WIKILINK",
+			"st": 970,
+			"ancestor": "1-48",
+			"ne_type": "PERSON",
+			"surface": "아나킨_스카이워커",
+			"is_target": true,
+			"en": 979,
+			"id": 49
+		}
+	],
+	"globalSID": "3772279,3772280,3772281,3772282,3772283,3772284,3772285,3772286,3772287,3772288,3772289,3772290,3772291,3772292,3772293,3772294",
+	"plainText": "은하 제국 (Galactic Empire) 또는 간단히 제국은 《스타워즈》 세계에 등장하는 가공의 독재 정부이다. 1977년 영화 《스타워즈》에 처음 등장하였으며 후속편 《제국의_역습》 (1980년)과 《제다이의_귀환》 (1983년)에도 등장하며 오리지널 삼부작의 주요 악역을 담당하였다. 구_공화국의 의장인 팰퍼틴 의장이 오더66으로 제다이를 사살한 뒤, 제다이가 자신을 죽이려고 했다며 공화국 대신 신속한 결정이 나는 제국으로 바꾸며 탄생했다. 은하_제국은 은하계 약 24년간 주도를 잡다가 24년 후 레아_오르가나가 이끄는 반란군과의 엔도_전투에서 처참히 패하며 팰퍼틴, 그의 수하 다스_베이더가 죽고 제국군 장군/장교가 모두 사망하자 궤멸되었다. 서열 메스_아메다 상세 독재_정치, 노예_제도, 대량_학살, 인종차별, 성차별을 하였고 제국은 팰퍼틴_집권_19년_차, 구_공화국_의회를 영구_해산시키고, 거대_우주_정거장인 데스스타로 비무장_행성인 얼데란_행성을 레이저_포로 파괴하고, 텐티브_4호를 점령하여 파괴시켰다. 행적 제국은 팰퍼틴_집권 24년 차에 데스스타_2를 지어 은하계의 평화를 위협한다. 이에_반군_스파이들은 데스스타의 상세정보를 알아내어 반군_본거지로 보내고, 반군은 이 데스스타를 파괴하기 위해서 최후의 공격을 감행한다. 하지만 공격 전에 데스스타의 방어막_발전기를 한_솔로와 레아_오르가나가 없애지 못하고, 칼리시안_장군이 이끄는 부대도 스타_디스트로이어와 임페리얼_스타_디스트로이어가 이끄는 죽음의 부대와 데스스타의 공격 시스템으로 궤멸에 처한다. 이때 한 솔로가 방어막 발전기를 없애고, 파괴_부대도 데스스타의 중앙부를 파괴하며 데스스타는 파괴된다. 한편, 루크_스카이워커는 1년 전 다스_베이더가 자신의 아버지임을 깨닫고 그를 만나러 가고, 황제 앞에서 베이더와의 광검 전투를 벌인다. 이 검투에서 루크가 승리하지만, 황제의 제자가 되지는 않았다. 이에 황제는 루크를 죽이려 하지만, 다스_베이더가 아나킨_스카이워커로 돌아오면서 황제를 없애고 자신도 죽는다. ",
+	"docID": "1489088",
+	"ModifiedText": "은하 제국 (Galactic Empire) 또는 간단히 제국은 《스타워즈》 세계에 등장하는 가공의 독재 정부이다. 1977년 영화 《스타워즈》에 처음 등장하였으며 후속편 《제국의 역습》 (1980년)과 《제다이의 귀환》 (1983년)에도 등장하며 오리지널 삼부작의 주요 악역을 담당하였다. 구 공화국의 의장인 팰퍼틴 의장이 오더66으로 제다이를 사살한 뒤, 제다이가 자신을 죽이려고 했다며 공화국 대신 신속한 결정이 나는 제국으로 바꾸며 탄생했다. 은하 제국은 은하계 약 24년간 주도를 잡다가 24년 후 레아 오르가나가 이끄는 반란군과의 엔도 전투에서 처참히 패하며 팰퍼틴, 그의 수하 다스 베이더가 죽고 제국군 장군/장교가 모두 사망하자 궤멸되었다. 서열 메스 아메다 상세 독재 정치, 노예 제도, 대량 학살, 인종차별, 성차별을 하였고 제국은 팰퍼틴 집권 19년 차, 구 공화국 의회를 영구 해산시키고, 거대 우주 정거장인 데스스타로 비무장 행성인 얼데란 행성을 레이저 포로 파괴하고, 텐티브 4호를 점령하여 파괴시켰다. 행적 제국은 팰퍼틴 집권 24년 차에 데스스타 2를 지어 은하계의 평화를 위협한다. 이에 반군 스파이들은 데스스타의 상세정보를 알아내어 반군 본거지로 보내고, 반군은 이 데스스타를 파괴하기 위해서 최후의 공격을 감행한다. 하지만 공격 전에 데스스타의 방어막 발전기를 한 솔로와 레아 오르가나가 없애지 못하고, 칼리시안 장군이 이끄는 부대도 스타 디스트로이어와 임페리얼 스타 디스트로이어가 이끄는 죽음의 부대와 데스스타의 공격 시스템으로 궤멸에 처한다. 이때 한 솔로가 방어막 발전기를 없애고, 파괴 부대도 데스스타의 중앙부를 파괴하며 데스스타는 파괴된다. 한편, 루크 스카이워커는 1년 전 다스 베이더가 자신의 아버지임을 깨닫고 그를 만나러 가고, 황제 앞에서 베이더와의 광검 전투를 벌인다. 이 검투에서 루크가 승리하지만, 황제의 제자가 되지는 않았다. 이에 황제는 루크를 죽이려 하지만, 다스 베이더가 아나킨 스카이워커로 돌아오면서 황제를 없애고 자신도 죽는다. "
+}

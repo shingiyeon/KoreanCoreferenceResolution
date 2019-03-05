@@ -1,0 +1,156 @@
+{
+	"docID": "167219",
+	"globalSID": "1111664,1111665,1111666",
+	"pronouns": [
+		{
+			"en": 195,
+			"ancestor": "-1",
+			"surface": "소녀",
+			"id": 0,
+			"st": 193
+		},
+		{
+			"en": 199,
+			"ancestor": "-1",
+			"surface": "특유의 소녀 취향의",
+			"id": 1,
+			"st": 189
+		},
+		{
+			"en": 203,
+			"ancestor": "-1",
+			"surface": "특유의 소녀 취향의 가사와",
+			"id": 2,
+			"st": 189
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"surface": "1990년",
+			"entityName": "1990년"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 170,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 175,
+			"ancestor": "-1",
+			"surface": "밀리언셀러",
+			"entityName": "밀리언셀러"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 184,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 187,
+			"ancestor": "2-0",
+			"coref_index": 263,
+			"surface": "정석원",
+			"entityName": "정석원_(음악가)"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 269,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 273,
+			"ancestor": "1-1",
+			"coref_index": 268,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 4,
+			"ancestor": "3-9",
+			"coref_index": 269,
+			"surface": "015B",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 33,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 38,
+			"ancestor": "",
+			"surface": "1996년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 256,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 260,
+			"ancestor": "-1",
+			"coref_index": 271,
+			"surface": "프로듀서",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "3-15",
+			"coref_index": 270,
+			"surface": "앨범",
+			"entityName": ""
+		}
+	],
+	"plainText": "015B는 1990년 '텅 빈 거리에서'가 수록된 1집부터 1996년 마지막 앨범 6집 'The Sixth Sense'까지 정규 앨범 6장, 라이브 앨범, 가스펠 앨범 등 몇장의 비정규 앨범들을 발매하였다. 특히 3집 '아주 오래된 연인들'이 수록된 'The Third Wave' 앨범은 015B 최초의 밀리언셀러로 기록되었다. 정석원은 특유의 소녀 취향의 가사와 당시로서는 파격적인 새로운 장르들을 도입, 접목하며 90년대 대중음악 중흥기를 이끌었고 이후 프로듀서로서도 맹활약, 대한민국 대중음악발전에 기여하였다."
+}

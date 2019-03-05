@@ -1,0 +1,184 @@
+{
+	"docID": "247635",
+	"globalSID": "1420738,1420739,1420740",
+	"pronouns": [
+		{
+			"st": 61,
+			"coref_index": 337,
+			"id": 0,
+			"en": 62,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 6,
+			"ancestor": "-1",
+			"coref_index": 337,
+			"surface": "제임스_와트",
+			"entityName": "제임스_와트"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 39,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 44,
+			"ancestor": "-1",
+			"coref_index": 338,
+			"surface": "스코틀랜드",
+			"entityName": "스코틀랜드"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "발명가",
+			"entityName": "발명가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 56,
+			"ancestor": "-1",
+			"surface": "기계공학",
+			"entityName": "기계공학"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "영국",
+			"entityName": "영국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "산업_혁명",
+			"entityName": "산업_혁명"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 95,
+			"ancestor": "-1",
+			"surface": "증기_기관",
+			"entityName": "증기_기관"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 21,
+			"ancestor": "",
+			"surface": "1736년_1월_19일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 36,
+			"ancestor": "",
+			"surface": "1819년_8월_25일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "세계",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 157,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 160,
+			"ancestor": "-1",
+			"surface": "응축기",
+			"entityName": ""
+		}
+	],
+	"plainText": "제임스_와트(, 1736년_1월_19일 ~ 1819년_8월_25일)는 스코틀랜드의 발명가이자 기계공학자였다. 그는 영국과 세계의 산업_혁명에 중대한 역할을 했던 증기_기관을 개량하는 데 공헌하였다. 흔히 증기 기관을 발명했다 알려졌지만, 실제로는 기존의 이미 존재하는 증기 기관에 응축기를 부착하여 효율을 높인 것이다."
+}

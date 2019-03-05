@@ -1,0 +1,165 @@
+{
+	"docID": "341784",
+	"globalSID": "1779460,1779461",
+	"pronouns": [
+		{
+			"st": 57,
+			"coref_index": 465,
+			"id": 0,
+			"en": 58,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 62,
+			"st": 57,
+			"surface": "그의 아들",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 67,
+			"st": 57,
+			"surface": "그의 아들 신언식은",
+			"id": 2,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "1947년",
+			"entityName": "1947년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "연극배우",
+			"entityName": "연극배우"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 24,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 29,
+			"ancestor": "",
+			"surface": "1948년",
+			"entityName": "1948년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "신언식",
+			"entityName": "신언식"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 71,
+			"ancestor": "1-7",
+			"coref_index": 466,
+			"surface": "기업인",
+			"entityName": "기업인"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "맥도날드",
+			"entityName": "맥도날드"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "검사와_여선생",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 49,
+			"ancestor": "1-2",
+			"coref_index": 467,
+			"surface": "영화배우",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 74,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 76,
+			"ancestor": "1-1",
+			"coref_index": 468,
+			"surface": "한국",
+			"entityName": ""
+		}
+	],
+	"plainText": "1947년 연극배우로 첫 데뷔하였고 이듬해 1948년 영화 《검사와_여선생》으로 영화배우 데뷔하였다. 그의 아들 신언식은 기업인이며 한국 맥도날드 사장이다."
+}

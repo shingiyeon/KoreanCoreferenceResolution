@@ -1,0 +1,488 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 145,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 146,
+			"en": 146,
+			"st_modified": 145
+		},
+		{
+			"st": 322,
+			"text": "이 대회에서",
+			"is_pronoun": true,
+			"en_modified": 328,
+			"en": 328,
+			"st_modified": 322
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 145,
+			"ancestor": "-1",
+			"surface": "이를",
+			"en_modified": 147,
+			"en": 147,
+			"st_modified": 145,
+			"id": 0
+		},
+		{
+			"st": 322,
+			"ancestor": "-1",
+			"surface": "이 대회에서는",
+			"en_modified": 329,
+			"en": 329,
+			"st_modified": 322,
+			"id": 1
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 30,
+			"st_modified": 20,
+			"coref_index": 212,
+			"entityName": "UEFA_컵위너스컵",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 20,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "UEFA_컵위너스컵",
+			"is_target": true,
+			"en": 30,
+			"id": 0
+		},
+		{
+			"en_modified": 38,
+			"entityName": "",
+			"st_modified": 32,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 32,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1번째_대회",
+			"is_target": true,
+			"en": 38,
+			"id": 1
+		},
+		{
+			"en_modified": 73,
+			"entityName": "UEFA_챔피언스리그",
+			"st_modified": 68,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 68,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "유러피언컵",
+			"is_target": true,
+			"en": 73,
+			"id": 2
+		},
+		{
+			"en_modified": 85,
+			"entityName": "인터시티스_페어스컵",
+			"st_modified": 75,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 75,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인터시티스_페어스컵",
+			"is_target": true,
+			"en": 85,
+			"id": 3
+		},
+		{
+			"en_modified": 128,
+			"entityName": "스포츠",
+			"st_modified": 125,
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "WIKILINK",
+			"st": 125,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스포츠",
+			"is_target": true,
+			"en": 128,
+			"id": 4
+		},
+		{
+			"en_modified": 166,
+			"st_modified": 156,
+			"coref_index": 212,
+			"entityName": "UEFA_컵위너스컵",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 156,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "UEFA_컵위너스컵",
+			"is_target": true,
+			"en": 166,
+			"id": 5
+		},
+		{
+			"en_modified": 274,
+			"entityName": "아틀레티코_마드리드",
+			"st_modified": 264,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 264,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "아틀레티코_마드리드",
+			"is_target": true,
+			"en": 274,
+			"id": 6
+		},
+		{
+			"en_modified": 282,
+			"entityName": "AS_모나코",
+			"st_modified": 276,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 276,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "AS_모나코",
+			"is_target": true,
+			"en": 282,
+			"id": 7
+		},
+		{
+			"en_modified": 202,
+			"entityName": "",
+			"st_modified": 196,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 196,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "10개_클럽",
+			"is_target": true,
+			"en": 202,
+			"id": 8
+		},
+		{
+			"en_modified": 221,
+			"entityName": "",
+			"st_modified": 214,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 214,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "반공식적_대회",
+			"is_target": true,
+			"en": 221,
+			"id": 9
+		},
+		{
+			"en_modified": 256,
+			"entityName": "",
+			"st_modified": 251,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 251,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "참가_자격",
+			"is_target": true,
+			"en": 256,
+			"id": 10
+		},
+		{
+			"en_modified": 290,
+			"entityName": "",
+			"st_modified": 286,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 286,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "빅_클럽",
+			"is_target": true,
+			"en": 290,
+			"id": 11
+		},
+		{
+			"en_modified": 313,
+			"entityName": "",
+			"st_modified": 311,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 311,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "운영",
+			"is_target": true,
+			"en": 313,
+			"id": 12
+		},
+		{
+			"en_modified": 344,
+			"entityName": "역함수",
+			"st_modified": 341,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 341,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "역사상",
+			"is_target": true,
+			"en": 344,
+			"id": 13
+		},
+		{
+			"en_modified": 397,
+			"entityName": "레인저스_FC",
+			"st_modified": 393,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 393,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "레인저스",
+			"is_target": true,
+			"en": 397,
+			"id": 14
+		},
+		{
+			"en_modified": 407,
+			"entityName": "ACF_피오렌티나",
+			"st_modified": 402,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 402,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "피오렌티나",
+			"is_target": true,
+			"en": 407,
+			"id": 15
+		},
+		{
+			"en_modified": 424,
+			"st_modified": 414,
+			"coref_index": 212,
+			"entityName": "UEFA_컵위너스컵",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 414,
+			"ancestor": "1-5",
+			"ne_type": "ETC",
+			"surface": "UEFA_컵위너스컵",
+			"is_target": true,
+			"en": 424,
+			"id": 16
+		},
+		{
+			"en_modified": 470,
+			"entityName": "스코틀랜드",
+			"st_modified": 465,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 465,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스코틀랜드",
+			"is_target": true,
+			"en": 470,
+			"id": 17
+		},
+		{
+			"en_modified": 475,
+			"entityName": "글래스고",
+			"st_modified": 471,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 471,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "글래스고",
+			"is_target": true,
+			"en": 475,
+			"id": 18
+		},
+		{
+			"en_modified": 487,
+			"entityName": "아이브록스_스타디움",
+			"st_modified": 477,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"eType": "WIKILINK",
+			"st": 477,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "아이브록스_스타디움",
+			"is_target": true,
+			"en": 487,
+			"id": 19
+		},
+		{
+			"en_modified": 517,
+			"entityName": "이탈리아",
+			"st_modified": 513,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 513,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아",
+			"is_target": true,
+			"en": 517,
+			"id": 20
+		},
+		{
+			"en_modified": 521,
+			"entityName": "피렌체",
+			"st_modified": 518,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 518,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "피렌체",
+			"is_target": true,
+			"en": 521,
+			"id": 21
+		},
+		{
+			"en_modified": 537,
+			"entityName": "스타디오_아르테미오_프란키",
+			"st_modified": 523,
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"eType": "WIKILINK",
+			"st": 523,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스타디오_아르테미오_프란키",
+			"is_target": true,
+			"en": 537,
+			"id": 22
+		},
+		{
+			"en_modified": 464,
+			"entityName": "",
+			"st_modified": 452,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 452,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1961년_5월_17일",
+			"is_target": false,
+			"en": 464,
+			"id": 23
+		},
+		{
+			"en_modified": 512,
+			"entityName": "",
+			"st_modified": 500,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 500,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1961년_5월_27일",
+			"is_target": false,
+			"en": 512,
+			"id": 24
+		}
+	],
+	"globalSID": "3722263,3722264,3722265,3722266,3722267,3722268,3722269,3722270",
+	"plainText": "UEFA 컵위너스컵 1960-61은 UEFA_컵위너스컵의 1번째_대회이다. 이미 존재하였던 유럽 축구 클럽 대항전 대회인 유러피언컵과 인터시티스_페어스컵의 상황을 반영하여 각국 컵 대회 우승팀들의 대회를 만들어 보자는 몇몇 스포츠 기자들의 아이디어가 있었고, 이를 통해 첫 번째 UEFA_컵위너스컵의 대회가 1960-61 시즌에 개최되었다. 당시에는 10개_클럽만이 참가하는 일종의 반공식적_대회로 그렇게까지 큰 주목을 끌지는 못하였다. 또한 당시 참가_자격을 보유하였던 아틀레티코_마드리드, AS_모나코 등의 빅_클럽들이 참가를 거부함에 따라 제대로 된 운영도 어려워졌다. 이 대회에서는 UEFA 컵위너스컵 역사상 유일하게 결승전이 홈 앤 어웨이 방식으로 진행되었다. 1, 2차전 합계 점수 4-1로 레인저스를 꺾은 피오렌티나가 사상 첫 UEFA_컵위너스컵 우승을 차지하게 되었다. 결승전 결승전 1차전은 1961년_5월_17일 스코틀랜드 글래스고의 아이브록스_스타디움에서, 결승전 2차전은 1961년_5월_27일 이탈리아 피렌체의 스타디오_아르테미오_프란키에서 열렸다. ",
+	"docID": "1439022",
+	"ModifiedText": "UEFA 컵위너스컵 1960-61은 UEFA 컵위너스컵의 1번째 대회이다. 이미 존재하였던 유럽 축구 클럽 대항전 대회인 유러피언컵과 인터시티스 페어스컵의 상황을 반영하여 각국 컵 대회 우승팀들의 대회를 만들어 보자는 몇몇 스포츠 기자들의 아이디어가 있었고, 이를 통해 첫 번째 UEFA 컵위너스컵의 대회가 1960-61 시즌에 개최되었다. 당시에는 10개 클럽만이 참가하는 일종의 반공식적 대회로 그렇게까지 큰 주목을 끌지는 못하였다. 또한 당시 참가 자격을 보유하였던 아틀레티코 마드리드, AS 모나코 등의 빅 클럽들이 참가를 거부함에 따라 제대로 된 운영도 어려워졌다. 이 대회에서는 UEFA 컵위너스컵 역사상 유일하게 결승전이 홈 앤 어웨이 방식으로 진행되었다. 1, 2차전 합계 점수 4-1로 레인저스를 꺾은 피오렌티나가 사상 첫 UEFA 컵위너스컵 우승을 차지하게 되었다. 결승전 결승전 1차전은 1961년 5월 17일 스코틀랜드 글래스고의 아이브록스 스타디움에서, 결승전 2차전은 1961년 5월 27일 이탈리아 피렌체의 스타디오 아르테미오 프란키에서 열렸다. "
+}

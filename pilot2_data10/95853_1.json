@@ -1,0 +1,212 @@
+{
+	"docID": "95853",
+	"globalSID": "736116,736117,736118",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 45,
+			"ancestor": "-1",
+			"coref_index": 1159,
+			"surface": "나치_독일",
+			"entityName": "나치_독일"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "-1",
+			"coref_index": 1154,
+			"surface": "제2차_세계_대전",
+			"entityName": "제2차_세계_대전"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 68,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 73,
+			"ancestor": "-1",
+			"coref_index": 1153,
+			"surface": "베어마흐트",
+			"entityName": "독일_국방군"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 75,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "육군",
+			"entityName": "독일_육군_(1935년~1945년)"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 90,
+			"ancestor": "-1",
+			"surface": "전쟁해군",
+			"entityName": "독일_전쟁해군"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 107,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "공군",
+			"entityName": "루프트바페"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 134,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 139,
+			"ancestor": "-1",
+			"surface": "무장친위대",
+			"entityName": "무장친위대"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"MilitaryUnit"
+			],
+			"st": 157,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 170,
+			"ancestor": "-1",
+			"surface": "독일_국방군_최고_사령부",
+			"entityName": "독일_국방군_최고_사령부"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 6,
+			"ancestor": "-1",
+			"surface": "독일_국방군",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 25,
+			"ancestor": "",
+			"surface": "1935년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 33,
+			"ancestor": "",
+			"surface": "1945년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 47,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 49,
+			"ancestor": "-1",
+			"coref_index": 1167,
+			"surface": "군대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 141,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "국방군_산하_조직",
+			"entityName": ""
+		}
+	],
+	"plainText": "독일_국방군(獨逸 國防軍, , )는 1935년부터 1945년까지 있었던 나치_독일의 군대를 칭한다. 제2차_세계_대전동안 베어마흐트는 육군 (Heer), 전쟁해군 (Kriegsmarine)과 공군 (Luftwaffe)으로 구성되어 있었다. 무장친위대는 국방군_산하_조직이 아니었고 독일_국방군_최고_사령부의 지휘를 받았다."
+}

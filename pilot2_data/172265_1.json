@@ -1,0 +1,141 @@
+{
+	"docID": "172265",
+	"globalSID": "1135831,1135832,1135833",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 81,
+			"eType": "ELU",
+			"entityName": "맬컴_엑스",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 86,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "맬컴_리틀",
+			"coref_index": 294
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 109,
+			"eType": "WIKILINK",
+			"entityName": "수니파",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 112,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "수니파"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 127,
+			"eType": "ELU",
+			"entityName": "맬컴_엑스",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 140,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "엘_하지_말릭_엘_샤바즈",
+			"coref_index": 289
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 5,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "맬컴_엑스",
+			"coref_index": 289
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 20,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1925년_5월_19일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 35,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1965년_2월_21일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 64,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이슬람_운동가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 211,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "네이션_오브_이슬람(Nation_of_Islam)",
+			"coref_index": 290
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 54,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "흑인_인권_운동_활동가"
+		}
+	],
+	"plainText": "맬컴_엑스(, 1925년_5월_19일 ~ 1965년_2월_21일)는 미국의 흑인_인권_운동_활동가이자 이슬람_운동가이다. 이슬람 개종 전 이름인 맬컴_리틀(Malcolm Little)이나 말년에 수니파로 귀의한 후 얻은 이름인 엘_하지_말릭_엘_샤바즈()로도 알려져 있다. 미국의 흑인 무슬림 지도자이자 흑인 이슬람 종교 단체인 네이션_오브_이슬람(Nation_of_Islam)의 대변인이었다."
+}

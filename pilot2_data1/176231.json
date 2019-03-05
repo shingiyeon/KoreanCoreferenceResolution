@@ -1,0 +1,588 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 25,
+			"eType": "WIKILINK",
+			"en": 29,
+			"entityName": "대한민국",
+			"is_target": true,
+			"surface": "대한민국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 46,
+			"eType": "WIKILINK",
+			"en": 50,
+			"entityName": "미드필더",
+			"is_target": true,
+			"surface": "미드필더",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "NEW",
+			"en": 2,
+			"entityName": "",
+			"is_target": true,
+			"surface": "권집",
+			"coref_index": 298,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 7,
+			"eType": "NEW",
+			"en": 19,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1984년_2월_13일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 33,
+			"eType": "NEW",
+			"en": 38,
+			"entityName": "",
+			"is_target": true,
+			"surface": "축구_선수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 57,
+			"eType": "WIKILINK",
+			"en": 62,
+			"entityName": "동북중학교",
+			"is_target": true,
+			"surface": "동북중학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 64,
+			"eType": "WIKILINK",
+			"en": 70,
+			"entityName": "동북고등학교",
+			"is_target": true,
+			"surface": "동북고등학교",
+			"coref_index": 296,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 165,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 171,
+			"is_target": true,
+			"surface": "동북고등학교",
+			"coref_index": 296,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"st": 197,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 209,
+			"is_target": true,
+			"surface": "FC_쾰른_U-19_팀",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"st": 229,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 241,
+			"is_target": true,
+			"surface": "FC_쾰른_U-23_팀",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 10,
+			"ne_type": "TIME",
+			"st": 292,
+			"eType": "WIKILINK",
+			"entityName": "2003년",
+			"en": 297,
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 298,
+			"eType": "WIKILINK",
+			"entityName": "수원_삼성_블루윙즈",
+			"en": 308,
+			"is_target": true,
+			"surface": "수원_삼성_블루윙즈",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 319,
+			"eType": "WIKILINK",
+			"entityName": "2004년",
+			"en": 324,
+			"is_target": false,
+			"surface": "2004년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 336,
+			"eType": "WIKILINK",
+			"entityName": "김호",
+			"en": 338,
+			"is_target": true,
+			"surface": "김호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"SportsManager",
+				"Agent",
+				"Person",
+				"SoccerManager",
+				"Athlete"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 344,
+			"eType": "WIKILINK",
+			"entityName": "차범근",
+			"en": 347,
+			"is_target": true,
+			"surface": "차범근",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 378,
+			"eType": "WIKILINK",
+			"entityName": "2005년",
+			"en": 383,
+			"is_target": false,
+			"surface": "2005년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 400,
+			"eType": "WIKILINK",
+			"entityName": "전북_현대_모터스",
+			"en": 409,
+			"is_target": true,
+			"surface": "전북_현대_모터스",
+			"coref_index": 297,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 424,
+			"eType": "WIKILINK",
+			"entityName": "고창현",
+			"en": 427,
+			"is_target": true,
+			"surface": "고창현",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 432,
+			"eType": "WIKILINK",
+			"entityName": "안효연",
+			"en": 435,
+			"is_target": true,
+			"surface": "안효연",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 19,
+			"ne_type": "ORGANIZATION",
+			"st": 445,
+			"eType": "WIKILINK",
+			"entityName": "부산_아이파크",
+			"en": 452,
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"st": 550,
+			"eType": "WIKILINK",
+			"entityName": "전남_드래곤즈",
+			"en": 557,
+			"is_target": true,
+			"surface": "전남_드래곤즈",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 21,
+			"ne_type": "ORGANIZATION",
+			"st": 606,
+			"eType": "WIKILINK",
+			"entityName": "전북_현대_모터스",
+			"en": 615,
+			"is_target": true,
+			"surface": "전북_현대_모터스",
+			"coref_index": 297,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 22,
+			"ne_type": "ORGANIZATION",
+			"st": 627,
+			"eType": "WIKILINK",
+			"entityName": "전북_현대_모터스",
+			"en": 636,
+			"is_target": true,
+			"surface": "전북_현대_모터스",
+			"coref_index": 297,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 23,
+			"ne_type": "TIME",
+			"st": 671,
+			"eType": "WIKILINK",
+			"entityName": "2006년",
+			"en": 676,
+			"is_target": false,
+			"surface": "2006년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 24,
+			"ne_type": "ORGANIZATION",
+			"st": 677,
+			"eType": "WIKILINK",
+			"entityName": "K리그",
+			"en": 680,
+			"is_target": true,
+			"surface": "K리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"id": 25,
+			"ne_type": "ORGANIZATION",
+			"st": 688,
+			"eType": "WIKILINK",
+			"entityName": "FIFA_클럽_월드컵",
+			"en": 699,
+			"is_target": true,
+			"surface": "FIFA_클럽_월드컵",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 26,
+			"ne_type": "TIME",
+			"st": 715,
+			"eType": "WIKILINK",
+			"entityName": "2008년",
+			"en": 720,
+			"is_target": false,
+			"surface": "2008년",
+			"coref_index": 299,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 721,
+			"eType": "WIKILINK",
+			"entityName": "포항_스틸러스",
+			"en": 728,
+			"is_target": true,
+			"surface": "포항_스틸러스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 742,
+			"eType": "WIKILINK",
+			"entityName": "김형일_(축구_선수)",
+			"en": 745,
+			"is_target": true,
+			"surface": "김형일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"st": 755,
+			"eType": "WIKILINK",
+			"entityName": "대전_시티즌",
+			"en": 761,
+			"is_target": true,
+			"surface": "대전_시티즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "EVENT",
+			"st": 644,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 660,
+			"is_target": true,
+			"surface": "2006년_AFC_챔피언스리그",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1153915,1153916,1153917,1153918,1153919,1153920,1153921,1153922,1153923,1153924,1153925,1153926,1153927,1153928",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 262,
+			"surface": "여러 가지",
+			"st": 257,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 265,
+			"surface": "여러 가지 이견",
+			"st": 257,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"en": 268,
+			"surface": "여러 가지 이견 차이",
+			"st": 257,
+			"ancestor": "-1"
+		},
+		{
+			"id": 3,
+			"ancestor": "1-2",
+			"st": 464,
+			"en": 466,
+			"surface": "자신",
+			"coref_index": 298
+		},
+		{
+			"id": 4,
+			"ancestor": "1-2",
+			"st": 518,
+			"en": 520,
+			"surface": "자신",
+			"coref_index": 298
+		},
+		{
+			"id": 5,
+			"en": 525,
+			"surface": "자신의 이적을",
+			"st": 518,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 543,
+			"surface": "한 달도",
+			"st": 539,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"ancestor": "1-26",
+			"st": 738,
+			"en": 741,
+			"surface": "그 해",
+			"coref_index": 299
+		},
+		{
+			"id": 8,
+			"en": 754,
+			"surface": "그 해 김형일과의 맞트레이드로",
+			"st": 738,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "권집(權輯, 1984년_2월_13일 ~ )은 대한민국의 전 축구_선수로서 포지션은 미드필더이다. 개요 동북중학교, 동북고등학교를 졸업하였다. 깔끔한 공수 조율과 창의적인 공격 전개, 예술적인 패스로 인하여 지휘자를 뜻하는 '마에스트로(Maestro)'라는 별명을 얻었다. 축구인 생활 선수 생활 동북고등학교 졸업 후 대학교에 가지 않고 2002년 1. FC_쾰른_U-19_팀에 입단하였고, 팀의 2군격인 1. FC_쾰른_U-23_팀을 거쳤으나, 계약 조건에서 여러 가지 이견 차이를 좁히지 못하여 국내로 돌아오게 되었다. 2003년 수원_삼성_블루윙즈에서 데뷔하였으나, 2004년 팀의 성적 부진으로 김호 감독에서 차범근 감독 체제로 전환되면서 거의 출전하지 못하였다. 결국 2005년 타 팀으로의 이적을 추진하여 전북_현대_모터스로의 이적이 확실시되었으나 고창현과 함께 안효연과의 맞트레이드로 부산_아이파크로 이적하게 되었고, 자신이 원하지 않는 구단으로 이적하게 되자 훈련을 잘 이행하지 않는 등의 불성실한 태도를 보이며 자신의 이적을 요구하였다. 결국 불과 한 달도 되지 않아 전남_드래곤즈로 옮겼지만, 이렇다 할 활약을 보이지 못하였고, 단 두 경기를 출전한 뒤인 3월 말, 전북_현대_모터스로 다시 이적하였다. 전북_현대_모터스로 이적한 후 2006년_AFC_챔피언스리그 우승에 공헌하여, 2006년 K리그 최초로 팀을 FIFA_클럽_월드컵에 진출시키는데 공헌하였다. 2008년 포항_스틸러스로 이적하였으나, 그 해 김형일과의 맞트레이드로 대전_시티즌으로 다시 이적하였다. ",
+	"docID": "176231"
+}

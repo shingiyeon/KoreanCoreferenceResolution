@@ -1,0 +1,166 @@
+{
+	"docID": "344384",
+	"globalSID": "1788382,1788383",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "제리케이",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "제리케이",
+			"coref_index": 487
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"RecordLabel",
+				"Organisation"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"entityName": "데이즈_얼라이브_뮤직",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 44,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "daze_alive"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 53,
+			"eType": "WIKILINK",
+			"entityName": "리코_(가수)",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 61,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "리코(Rico)"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"entityName": "슬릭",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 78,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "슬릭(Sleeq)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 113,
+			"eType": "WIKILINK",
+			"entityName": "대한민국_국가정보원_여론_조작_사건",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대한민국_국가정보원_여론_조작_사건"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation",
+				"Work",
+				"Website"
+			],
+			"st": 158,
+			"eType": "ELU",
+			"entityName": "유튜브",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 161,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "유튜브"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 14,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2013년_7월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 25,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "레이블_체제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 108,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 110,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "8월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 151,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 155,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "시국선언"
+		}
+	],
+	"plainText": "제리케이는 2013년_7월, 1인 레이블_체제를 고수해 오던 daze_alive에 알앤비 싱어 리코(Rico)와 여성MC인 슬릭(Sleeq)을 영입하며 본격적인 레이블로서의 활동을 시작하였다. 8월에는 대한민국_국가정보원_여론_조작_사건에 대한 비판의 내용을 담은 곡 '시국선언'을 유튜브에 공개하며 큰 화제를 불러모았다."
+}

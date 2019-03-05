@@ -1,0 +1,127 @@
+{
+	"docID": "167219",
+	"globalSID": "1111667,1111668",
+	"pronouns": [
+		{
+			"st": 58,
+			"coref_index": 274,
+			"id": 0,
+			"en": 62,
+			"ancestor": "5-2",
+			"surface": "그 당시"
+		},
+		{
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "그 이후엔",
+			"id": 1,
+			"st": 148
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 96,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 101,
+			"ancestor": "",
+			"surface": "1996년",
+			"entityName": "1996년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "대중",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 25,
+			"ancestor": "",
+			"coref_index": 274,
+			"surface": "90년대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 68,
+			"ancestor": "-1",
+			"surface": "가수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 126,
+			"ancestor": "-1",
+			"surface": "015B_6집_The_Sixth_Sense",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 154,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 158,
+			"ancestor": "4-6",
+			"coref_index": 271,
+			"surface": "프로듀서",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 160,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 163,
+			"ancestor": "1-2",
+			"coref_index": 272,
+			"surface": "작곡가",
+			"entityName": ""
+		}
+	],
+	"plainText": "대중 앞에 나서는 걸 극도로 꺼려하여 90년대 활동중에도 거의 TV출연을 하지 않는 것으로 유명했으며, 그 당시 많은 가수들이 TV출연을 거부하는 유행을 만들기도 하였다. 1996년, 015B_6집_The_Sixth_Sense을 발표 후 밴드활동을 전면 은퇴했고, 그 이후엔 프로듀서와 작곡가로서만 활동하고 있다."
+}

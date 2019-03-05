@@ -1,0 +1,72 @@
+{
+	"docID": "107684",
+	"globalSID": "801986,801987",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"surface": "11월_1일",
+			"entityName": "11월_1일"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 19,
+			"ancestor": "-1",
+			"surface": "절대교감",
+			"entityName": "절대교감"
+		},
+		{
+			"kbox_types": [
+				"WrittenWork",
+				"Magazine",
+				"PeriodicalLiterature",
+				"Work"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "그루",
+			"entityName": "그루"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 81,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "SK텔레콤",
+			"entityName": "SK텔레콤"
+		}
+	],
+	"plainText": "2008년 11월_1일부터 절대교감의 여성 만화 잡지 《그루》에 〈푸른 목걸이〉를 연재하다가 잡지의 폐간으로 4회에서 중단되었다. 2011년부터 SK텔레콤의 만화 포털 툰도시의 순정 만화 웹진 《민트》에서 《월흔》을 연재하였으나 2013년 2월 《민트》의 폐간으로 연재가 중단되었다."
+}

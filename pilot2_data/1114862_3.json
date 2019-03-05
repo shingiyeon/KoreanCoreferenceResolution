@@ -1,0 +1,353 @@
+{
+	"docID": "1114862",
+	"globalSID": "3353318,3353319,3353320,3353321",
+	"pronouns": [
+		{
+			"en": 12,
+			"st": 5,
+			"surface": "여러 연령대의",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 26,
+			"st": 5,
+			"surface": "여러 연령대의 멕시코 청소년 국가대표로",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"st": 41,
+			"coref_index": 35,
+			"id": 2,
+			"en": 42,
+			"ancestor": "3-9",
+			"surface": "그"
+		},
+		{
+			"en": 118,
+			"st": 111,
+			"surface": "다른 선수들과",
+			"id": 3,
+			"ancestor": "-1"
+		},
+		{
+			"st": 150,
+			"coref_index": 35,
+			"id": 4,
+			"en": 151,
+			"ancestor": "3-9",
+			"surface": "그"
+		},
+		{
+			"en": 220,
+			"st": 218,
+			"surface": "공을",
+			"id": 5,
+			"ancestor": "-1"
+		},
+		{
+			"st": 226,
+			"coref_index": 35,
+			"id": 6,
+			"en": 227,
+			"ancestor": "3-9",
+			"surface": "그"
+		},
+		{
+			"st": 229,
+			"coref_index": 40,
+			"id": 7,
+			"en": 233,
+			"ancestor": "3-5",
+			"surface": "이 대회"
+		},
+		{
+			"st": 229,
+			"coref_index": 35,
+			"id": 8,
+			"en": 237,
+			"ancestor": "3-9",
+			"surface": "이 대회 득점왕"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "국가대표",
+			"entityName": "국가대표팀"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 47,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "2011년_코파_아메리카",
+			"entityName": "2011년_코파_아메리카"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 79,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 83,
+			"ancestor": "-1",
+			"surface": "에콰도르",
+			"entityName": "에콰도르"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 84,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "키토",
+			"entityName": "키토"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 173,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 185,
+			"ancestor": "-1",
+			"surface": "2012년_하계_올림픽",
+			"entityName": "2012년_하계_올림픽_축구_남자"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 209,
+			"ancestor": "-1",
+			"coref_index": 40,
+			"surface": "투르누아_에스푸아_드_툴롱_2012",
+			"entityName": "투르누아_에스푸아_드_툴롱_2012"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 249,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 252,
+			"ancestor": "-1",
+			"surface": "금메달",
+			"entityName": "금메달"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 258,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 263,
+			"ancestor": "",
+			"surface": "2012년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 264,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 266,
+			"ancestor": "-1",
+			"surface": "런던",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "1-0",
+			"coref_index": 35,
+			"surface": "파비안",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 16,
+			"ancestor": "-1",
+			"coref_index": 36,
+			"surface": "멕시코",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "청소년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "EVENT",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "국제_경기",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "스쿼드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 168,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 171,
+			"ancestor": "3-9",
+			"coref_index": 35,
+			"surface": "파비안",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 91,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "LOCATION",
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "호텔",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 275,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "LOCATION",
+			"en": 278,
+			"ancestor": "3-10",
+			"coref_index": 36,
+			"surface": "멕시코",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 267,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "EVENT",
+			"en": 273,
+			"ancestor": "-1",
+			"surface": "하계_올림픽",
+			"entityName": ""
+		}
+	],
+	"plainText": "파비안은 여러 연령대의 멕시코 청소년 국가대표로 국제_경기에 출전하였다. 그는 본래 2011년_코파_아메리카에 참가할 스쿼드에 포함되었으나, 에콰도르 키토의 훈련 호텔에서 규율을 깬 죄목으로 6명의 다른 선수들과 퇴출당해 함께 6달동안 출장하지 못하였다. 2012년, 그는 U-23 국가대표 소속으로 파비안은 2012년_하계_올림픽 진출과 투르누아_에스푸아_드_툴롱_2012 우승을 하는데 공을 세웠고, 그는 이 대회 득점왕에 올랐다. 파비안은 금메달을 획득한 2012년 런던 하계_올림픽의 멕시코 국가대표팀 주역이었다."
+}

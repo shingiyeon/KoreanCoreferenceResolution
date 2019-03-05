@@ -1,0 +1,111 @@
+{
+	"docID": "180063",
+	"globalSID": "1170073,1170074,1170075,1170076,1170077",
+	"pronouns": [
+		{
+			"en": 275,
+			"st": 273,
+			"surface": "이에",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 13,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 16,
+			"ancestor": "1-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 123,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 126,
+			"ancestor": "1-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 203,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 206,
+			"ancestor": "1-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 279,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 282,
+			"ancestor": "1-0",
+			"coref_index": 307,
+			"surface": "나도현",
+			"entityName": "나도현"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"st": 293,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 298,
+			"ancestor": "-1",
+			"surface": "논산훈련소",
+			"entityName": "육군훈련소"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 29,
+			"ancestor": "",
+			"surface": "2008년_7월_1일",
+			"entityName": ""
+		}
+	],
+	"plainText": "공군 지원 실패와 은퇴 나도현은 2008년_7월_1일부터 시작된 공군 e스포츠병 모집에 지원할 계획이었으나 3개월 전에 7월 7일자로 입영 통지서가 발부됐기 때문에 입영 규정상 입대가 불가피하게 됐다. 7월 7일 입대인 나도현의 경우 병무청 입영 규정에 따르면 2일까지 입영 연기를 신청하면 현역 입영을 연기하고 공군 e스포츠병 모집에 지원할 수 있었다. 하지만 나도현은 이미 학업 등의 사유로 입영 연기를 신청한 기록이 있고 더 이상 연기할 사유가 없어 입영 연기 신청을 하지 못했다. 이에 따라 나도현은 오는 7일 충남 논산훈련소로 현역 입대하게 되며 공군 e스포츠병 모집 지원이 불가능하게 됐고, 현역 입대와 함께 사실상 은퇴하게 되었다."
+}

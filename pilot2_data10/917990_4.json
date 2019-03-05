@@ -1,0 +1,169 @@
+{
+	"docID": "917990",
+	"globalSID": "3024451,3024452,3024453",
+	"pronouns": [
+		{
+			"st": 18,
+			"coref_index": 1114,
+			"id": 0,
+			"en": 19,
+			"ancestor": "1-5",
+			"surface": "그"
+		},
+		{
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "자신들",
+			"id": 1,
+			"st": 71
+		},
+		{
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "자신들의 음악",
+			"id": 2,
+			"st": 71
+		},
+		{
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"id": 3,
+			"st": 90
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"entityName": "더블린",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 37,
+			"ancestor": "2-0",
+			"is_target": true,
+			"surface": "더블린",
+			"coref_index": 1116
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre",
+				"Profession",
+				"PersonFunction"
+			],
+			"st": 53,
+			"eType": "ELU",
+			"entityName": "음악가",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 56,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "연주자"
+		},
+		{
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"entityName": "글렌_파워",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 64,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "글렌_파워"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"entityName": "2001년",
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 99,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2001년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"entityName": "더_스크립트",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "1-3",
+			"is_target": true,
+			"surface": "더_스크립트",
+			"coref_index": 1117
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 3,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "10년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 50,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "드럼"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 26,
+			"ancestor": "3-1",
+			"is_target": true,
+			"surface": "마크_시언",
+			"coref_index": 1115
+		}
+	],
+	"plainText": "10년 동안의 작사 경험 이후, 그는 마크_시언과 함께 다시 더블린으로 돌아갔다. 그리고 드럼 연주자였던 글렌_파워를 영입하고 자신들의 음악을 만들기 시작한다. 그들은 2001년에 더_스크립트를 결성했다."
+}

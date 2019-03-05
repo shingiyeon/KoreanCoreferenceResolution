@@ -1,0 +1,1557 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 29,
+			"text": "한 과",
+			"is_pronoun": true,
+			"en_modified": 32,
+			"en": 32,
+			"st_modified": 29
+		},
+		{
+			"st": 210,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 211,
+			"en": 211,
+			"st_modified": 210
+		},
+		{
+			"st": 269,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 270,
+			"en": 270,
+			"st_modified": 269
+		},
+		{
+			"st": 278,
+			"text": "도마뱀 정도 크기의 동물에게만 해당되는 양",
+			"is_pronoun": true,
+			"en_modified": 301,
+			"en": 301,
+			"st_modified": 278
+		},
+		{
+			"st": 335,
+			"text": "나는 노란색_액체",
+			"is_pronoun": true,
+			"en_modified": 344,
+			"en": 344,
+			"st_modified": 335
+		},
+		{
+			"st": 622,
+			"text": "산란을 하는 한살이",
+			"is_pronoun": true,
+			"en_modified": 632,
+			"en": 632,
+			"st_modified": 622
+		},
+		{
+			"st": 755,
+			"text": "어느 정도",
+			"is_pronoun": true,
+			"en_modified": 760,
+			"en": 760,
+			"st_modified": 755
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 29,
+			"ancestor": "-1",
+			"surface": "한 과",
+			"en_modified": 32,
+			"en": 32,
+			"st_modified": 29,
+			"id": 0
+		},
+		{
+			"st": 210,
+			"ancestor": "1-6",
+			"surface": "이",
+			"en_modified": 211,
+			"en": 211,
+			"st_modified": 210,
+			"id": 1,
+			"coref_index": 575
+		},
+		{
+			"st": 269,
+			"ancestor": "1-13",
+			"surface": "이",
+			"en_modified": 270,
+			"en": 270,
+			"st_modified": 269,
+			"id": 2,
+			"coref_index": 576
+		},
+		{
+			"st": 278,
+			"ancestor": "-1",
+			"surface": "도마뱀 정도 크기의 동물에게만 해당되는 양이다.",
+			"en_modified": 304,
+			"en": 304,
+			"st_modified": 278,
+			"id": 3
+		},
+		{
+			"st": 335,
+			"ancestor": "-1",
+			"surface": "나는 노란색_액체를",
+			"en_modified": 345,
+			"en": 345,
+			"st_modified": 335,
+			"id": 4
+		},
+		{
+			"st": 622,
+			"ancestor": "-1",
+			"surface": "산란을 하는 한살이",
+			"en_modified": 632,
+			"en": 632,
+			"st_modified": 622,
+			"id": 5
+		},
+		{
+			"st": 755,
+			"ancestor": "-1",
+			"surface": "어느 정도",
+			"en_modified": 760,
+			"en": 760,
+			"st_modified": 755,
+			"id": 6
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 27,
+			"entityName": "딱정벌레목",
+			"st_modified": 22,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 22,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "딱정벌레목",
+			"is_target": true,
+			"en": 27,
+			"id": 0
+		},
+		{
+			"en_modified": 85,
+			"entityName": "곤충",
+			"st_modified": 83,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 83,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "곤충",
+			"is_target": true,
+			"en": 85,
+			"id": 1
+		},
+		{
+			"en_modified": 101,
+			"st_modified": 95,
+			"coref_index": 574,
+			"entityName": "칠성무당벌레",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "ELU",
+			"st": 95,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "칠성무당벌레",
+			"is_target": true,
+			"en": 101,
+			"id": 2
+		},
+		{
+			"en_modified": 121,
+			"st_modified": 117,
+			"coref_index": 564,
+			"entityName": "무당벌레",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "ELU",
+			"st": 117,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "무당벌레",
+			"is_target": true,
+			"en": 121,
+			"id": 3
+		},
+		{
+			"en_modified": 165,
+			"entityName": "번데기",
+			"st_modified": 162,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 162,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "번데기",
+			"is_target": true,
+			"en": 165,
+			"id": 4
+		},
+		{
+			"en_modified": 177,
+			"entityName": "완전변태",
+			"st_modified": 173,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 173,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "완전변태",
+			"is_target": true,
+			"en": 177,
+			"id": 5
+		},
+		{
+			"en_modified": 202,
+			"st_modified": 199,
+			"coref_index": 575,
+			"entityName": "경계색",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 199,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "경계색",
+			"is_target": true,
+			"en": 202,
+			"id": 6
+		},
+		{
+			"en_modified": 281,
+			"entityName": "도마뱀",
+			"st_modified": 278,
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 278,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "도마뱀",
+			"is_target": true,
+			"en": 281,
+			"id": 7
+		},
+		{
+			"en_modified": 433,
+			"st_modified": 430,
+			"coref_index": 566,
+			"entityName": "노랑",
+			"kbox_types": [
+				"Colour"
+			],
+			"eType": "ELU",
+			"st": 430,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "노란색",
+			"is_target": true,
+			"en": 433,
+			"id": 8
+		},
+		{
+			"en_modified": 484,
+			"st_modified": 481,
+			"coref_index": 572,
+			"entityName": "진딧물",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 481,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "진딧물",
+			"is_target": true,
+			"en": 484,
+			"id": 9
+		},
+		{
+			"en_modified": 188,
+			"st_modified": 184,
+			"coref_index": 564,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 184,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "무당벌레",
+			"is_target": true,
+			"en": 188,
+			"id": 10
+		},
+		{
+			"en_modified": 191,
+			"entityName": "",
+			"st_modified": 190,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 190,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "몸",
+			"is_target": true,
+			"en": 191,
+			"id": 11
+		},
+		{
+			"en_modified": 216,
+			"entityName": "",
+			"st_modified": 213,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 213,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "포식자",
+			"is_target": true,
+			"en": 216,
+			"id": 12
+		},
+		{
+			"en_modified": 229,
+			"st_modified": 228,
+			"coref_index": 576,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 228,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "독",
+			"is_target": true,
+			"en": 229,
+			"id": 13
+		},
+		{
+			"en_modified": 276,
+			"entityName": "",
+			"st_modified": 272,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 272,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "작은_새",
+			"is_target": true,
+			"en": 276,
+			"id": 14
+		},
+		{
+			"en_modified": 291,
+			"entityName": "",
+			"st_modified": 289,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 289,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "동물",
+			"is_target": true,
+			"en": 291,
+			"id": 15
+		},
+		{
+			"en_modified": 318,
+			"entityName": "",
+			"st_modified": 314,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 314,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "다리마디",
+			"is_target": true,
+			"en": 318,
+			"id": 16
+		},
+		{
+			"en_modified": 344,
+			"entityName": "",
+			"st_modified": 338,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 338,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "노란색_액체",
+			"is_target": true,
+			"en": 344,
+			"id": 17
+		},
+		{
+			"en_modified": 357,
+			"st_modified": 356,
+			"coref_index": 567,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 356,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "봄",
+			"is_target": true,
+			"en": 357,
+			"id": 18
+		},
+		{
+			"en_modified": 381,
+			"entityName": "",
+			"st_modified": 377,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 377,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "변온동물",
+			"is_target": true,
+			"en": 381,
+			"id": 19
+		},
+		{
+			"en_modified": 395,
+			"entityName": "",
+			"st_modified": 389,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 389,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "18도_이상",
+			"is_target": true,
+			"en": 395,
+			"id": 20
+		},
+		{
+			"en_modified": 399,
+			"entityName": "",
+			"st_modified": 397,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 397,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "온도",
+			"is_target": true,
+			"en": 399,
+			"id": 21
+		},
+		{
+			"en_modified": 416,
+			"entityName": "",
+			"st_modified": 412,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 412,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "어른벌레",
+			"is_target": true,
+			"en": 416,
+			"id": 22
+		},
+		{
+			"en_modified": 428,
+			"entityName": "",
+			"st_modified": 426,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 426,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "식물",
+			"is_target": true,
+			"en": 428,
+			"id": 23
+		},
+		{
+			"en_modified": 436,
+			"entityName": "",
+			"st_modified": 435,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 435,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "알",
+			"is_target": true,
+			"en": 436,
+			"id": 24
+		},
+		{
+			"en_modified": 445,
+			"entityName": "",
+			"st_modified": 443,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 443,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "부화",
+			"is_target": true,
+			"en": 445,
+			"id": 25
+		},
+		{
+			"en_modified": 450,
+			"entityName": "",
+			"st_modified": 447,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 447,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "애벌레",
+			"is_target": true,
+			"en": 450,
+			"id": 26
+		},
+		{
+			"en_modified": 529,
+			"entityName": "",
+			"st_modified": 527,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 527,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "개체",
+			"is_target": true,
+			"en": 529,
+			"id": 27
+		},
+		{
+			"en_modified": 562,
+			"st_modified": 558,
+			"coref_index": 564,
+			"entityName": "무당벌레",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "ELU",
+			"st": 558,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "무당벌레",
+			"is_target": true,
+			"en": 562,
+			"id": 28
+		},
+		{
+			"en_modified": 663,
+			"entityName": "여름",
+			"st_modified": 661,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 661,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "여름",
+			"is_target": true,
+			"en": 663,
+			"id": 29
+		},
+		{
+			"en_modified": 668,
+			"st_modified": 666,
+			"coref_index": 565,
+			"entityName": "가을",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 666,
+			"ancestor": "1-35",
+			"ne_type": "ETC",
+			"surface": "가을",
+			"is_target": true,
+			"en": 668,
+			"id": 30
+		},
+		{
+			"en_modified": 736,
+			"st_modified": 733,
+			"coref_index": 566,
+			"entityName": "노랑",
+			"kbox_types": [
+				"Colour"
+			],
+			"eType": "ELU",
+			"st": 733,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "노란색",
+			"is_target": true,
+			"en": 736,
+			"id": 31
+		},
+		{
+			"en_modified": 541,
+			"st_modified": 539,
+			"coref_index": 568,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 539,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "겨울",
+			"is_target": true,
+			"en": 541,
+			"id": 32
+		},
+		{
+			"en_modified": 565,
+			"st_modified": 564,
+			"coref_index": 567,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 564,
+			"ancestor": "1-18",
+			"ne_type": "TIME",
+			"surface": "봄",
+			"is_target": true,
+			"en": 565,
+			"id": 33
+		},
+		{
+			"en_modified": 809,
+			"st_modified": 807,
+			"coref_index": 568,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 807,
+			"ancestor": "1-32",
+			"ne_type": "TIME",
+			"surface": "겨울",
+			"is_target": true,
+			"en": 809,
+			"id": 34
+		},
+		{
+			"en_modified": 602,
+			"st_modified": 600,
+			"coref_index": 565,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 600,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "가을",
+			"is_target": true,
+			"en": 602,
+			"id": 35
+		},
+		{
+			"en_modified": 887,
+			"st_modified": 878,
+			"coref_index": 569,
+			"entityName": "꼬마남생이무당벌레",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 878,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "꼬마남생이무당벌레",
+			"is_target": true,
+			"en": 887,
+			"id": 36
+		},
+		{
+			"en_modified": 957,
+			"st_modified": 948,
+			"coref_index": 569,
+			"entityName": "꼬마남생이무당벌레",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 948,
+			"ancestor": "1-36",
+			"ne_type": "ETC",
+			"surface": "꼬마남생이무당벌레",
+			"is_target": true,
+			"en": 957,
+			"id": 37
+		},
+		{
+			"en_modified": 978,
+			"entityName": "남생이무당벌레",
+			"st_modified": 971,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 971,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "남생이무당벌레",
+			"is_target": true,
+			"en": 978,
+			"id": 38
+		},
+		{
+			"en_modified": 819,
+			"st_modified": 815,
+			"coref_index": 564,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 815,
+			"ancestor": "1-10",
+			"ne_type": "PERSON",
+			"surface": "무당벌레",
+			"is_target": true,
+			"en": 819,
+			"id": 39
+		},
+		{
+			"en_modified": 823,
+			"st_modified": 821,
+			"coref_index": 570,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 821,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "종류",
+			"is_target": true,
+			"en": 823,
+			"id": 40
+		},
+		{
+			"en_modified": 827,
+			"entityName": "",
+			"st_modified": 825,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 825,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "환경",
+			"is_target": true,
+			"en": 827,
+			"id": 41
+		},
+		{
+			"en_modified": 838,
+			"st_modified": 832,
+			"coref_index": 571,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 832,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "등껍질_색상",
+			"is_target": true,
+			"en": 838,
+			"id": 42
+		},
+		{
+			"en_modified": 842,
+			"entityName": "",
+			"st_modified": 840,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 840,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "무늬",
+			"is_target": true,
+			"en": 842,
+			"id": 43
+		},
+		{
+			"en_modified": 858,
+			"st_modified": 856,
+			"coref_index": 570,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 856,
+			"ancestor": "1-40",
+			"ne_type": "ETC",
+			"surface": "종류",
+			"is_target": true,
+			"en": 858,
+			"id": 44
+		},
+		{
+			"en_modified": 867,
+			"st_modified": 861,
+			"coref_index": 571,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 861,
+			"ancestor": "1-42",
+			"ne_type": "ETC",
+			"surface": "등껍질_색상",
+			"is_target": true,
+			"en": 867,
+			"id": 45
+		},
+		{
+			"en_modified": 896,
+			"entityName": "",
+			"st_modified": 892,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 892,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "베이지색",
+			"is_target": true,
+			"en": 896,
+			"id": 46
+		},
+		{
+			"en_modified": 904,
+			"entityName": "",
+			"st_modified": 898,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 898,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "진한_주황색",
+			"is_target": true,
+			"en": 904,
+			"id": 47
+		},
+		{
+			"en_modified": 908,
+			"entityName": "",
+			"st_modified": 905,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 905,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "검은색",
+			"is_target": true,
+			"en": 908,
+			"id": 48
+		},
+		{
+			"en_modified": 925,
+			"entityName": "",
+			"st_modified": 922,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 922,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "몸크기",
+			"is_target": true,
+			"en": 925,
+			"id": 49
+		},
+		{
+			"en_modified": 934,
+			"entityName": "",
+			"st_modified": 931,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 931,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "몸길이",
+			"is_target": true,
+			"en": 934,
+			"id": 50
+		},
+		{
+			"en_modified": 941,
+			"entityName": "",
+			"st_modified": 936,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 936,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "3.5mm",
+			"is_target": true,
+			"en": 941,
+			"id": 51
+		},
+		{
+			"en_modified": 964,
+			"entityName": "",
+			"st_modified": 960,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 960,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "12mm",
+			"is_target": true,
+			"en": 964,
+			"id": 52
+		},
+		{
+			"en_modified": 990,
+			"st_modified": 987,
+			"coref_index": 572,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 987,
+			"ancestor": "1-9",
+			"ne_type": "ETC",
+			"surface": "진딧물",
+			"is_target": true,
+			"en": 990,
+			"id": 53
+		},
+		{
+			"en_modified": 994,
+			"entityName": "",
+			"st_modified": 992,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 992,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "먹이",
+			"is_target": true,
+			"en": 994,
+			"id": 54
+		},
+		{
+			"en_modified": 998,
+			"entityName": "",
+			"st_modified": 996,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 996,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공급",
+			"is_target": true,
+			"en": 998,
+			"id": 55
+		},
+		{
+			"en_modified": 1005,
+			"entityName": "",
+			"st_modified": 1001,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1001,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인공사육",
+			"is_target": true,
+			"en": 1005,
+			"id": 56
+		},
+		{
+			"en_modified": 1035,
+			"st_modified": 1032,
+			"coref_index": 572,
+			"entityName": "진딧물",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 1032,
+			"ancestor": "1-9",
+			"ne_type": "ETC",
+			"surface": "진딧물",
+			"is_target": true,
+			"en": 1035,
+			"id": 57
+		},
+		{
+			"en_modified": 1041,
+			"entityName": "깍지벌레",
+			"st_modified": 1037,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1037,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "깍지벌레",
+			"is_target": true,
+			"en": 1041,
+			"id": 58
+		},
+		{
+			"en_modified": 1062,
+			"entityName": "잎벌레",
+			"st_modified": 1059,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1059,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "잎벌레",
+			"is_target": true,
+			"en": 1062,
+			"id": 59
+		},
+		{
+			"en_modified": 1092,
+			"entityName": "나무",
+			"st_modified": 1090,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1090,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "나무",
+			"is_target": true,
+			"en": 1092,
+			"id": 60
+		},
+		{
+			"en_modified": 1100,
+			"st_modified": 1098,
+			"coref_index": 573,
+			"entityName": "해충",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1098,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "해충",
+			"is_target": true,
+			"en": 1100,
+			"id": 61
+		},
+		{
+			"en_modified": 1113,
+			"st_modified": 1111,
+			"coref_index": 573,
+			"entityName": "해충",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1111,
+			"ancestor": "1-61",
+			"ne_type": "ETC",
+			"surface": "해충",
+			"is_target": true,
+			"en": 1113,
+			"id": 62
+		},
+		{
+			"en_modified": 1164,
+			"entityName": "이세리아깍지벌레",
+			"st_modified": 1156,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1156,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이세리아깍지벌레",
+			"is_target": true,
+			"en": 1164,
+			"id": 63
+		},
+		{
+			"en_modified": 1178,
+			"entityName": "베달리아무당벌레",
+			"st_modified": 1170,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1170,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "베달리아무당벌레",
+			"is_target": true,
+			"en": 1178,
+			"id": 64
+		},
+		{
+			"en_modified": 1187,
+			"entityName": "오스트레일리아",
+			"st_modified": 1180,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1180,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "오스트레일리아",
+			"is_target": true,
+			"en": 1187,
+			"id": 65
+		},
+		{
+			"en_modified": 1226,
+			"st_modified": 1222,
+			"coref_index": 564,
+			"entityName": "무당벌레",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "ELU",
+			"st": 1222,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "무당벌레",
+			"is_target": true,
+			"en": 1226,
+			"id": 66
+		},
+		{
+			"en_modified": 1241,
+			"st_modified": 1235,
+			"coref_index": 574,
+			"entityName": "칠성무당벌레",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "WIKILINK",
+			"st": 1235,
+			"ancestor": "1-2",
+			"ne_type": "ETC",
+			"surface": "칠성무당벌레",
+			"is_target": true,
+			"en": 1241,
+			"id": 67
+		},
+		{
+			"en_modified": 1264,
+			"entityName": "익충",
+			"st_modified": 1262,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1262,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "익충",
+			"is_target": true,
+			"en": 1264,
+			"id": 68
+		},
+		{
+			"en_modified": 1315,
+			"entityName": "이십팔점박이무당벌레",
+			"st_modified": 1305,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1305,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이십팔점박이무당벌레",
+			"is_target": true,
+			"en": 1315,
+			"id": 69
+		},
+		{
+			"en_modified": 1320,
+			"entityName": "감자",
+			"st_modified": 1318,
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 1318,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "감자",
+			"is_target": true,
+			"en": 1320,
+			"id": 70
+		},
+		{
+			"en_modified": 1336,
+			"entityName": "까마중",
+			"st_modified": 1333,
+			"kbox_types": [
+				"Species",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote",
+				"Plant"
+			],
+			"eType": "WIKILINK",
+			"st": 1333,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "까마중",
+			"is_target": true,
+			"en": 1336,
+			"id": 71
+		},
+		{
+			"en_modified": 1352,
+			"st_modified": 1348,
+			"coref_index": 564,
+			"entityName": "무당벌레",
+			"kbox_types": [
+				"Animal",
+				"Species",
+				"Insect",
+				"TopicalConcept",
+				"Taxon",
+				"Eukaryote"
+			],
+			"eType": "ELU",
+			"st": 1348,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "무당벌레",
+			"is_target": true,
+			"en": 1352,
+			"id": 72
+		},
+		{
+			"en_modified": 1394,
+			"entityName": "노랑무당벌레",
+			"st_modified": 1388,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1388,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "노랑무당벌레",
+			"is_target": true,
+			"en": 1394,
+			"id": 73
+		},
+		{
+			"en_modified": 1411,
+			"entityName": "곰팡이",
+			"st_modified": 1408,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1408,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "곰팡이",
+			"is_target": true,
+			"en": 1411,
+			"id": 74
+		},
+		{
+			"en_modified": 1418,
+			"entityName": "균류",
+			"st_modified": 1416,
+			"kbox_types": [
+				"Species"
+			],
+			"eType": "WIKILINK",
+			"st": 1416,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "균류",
+			"is_target": true,
+			"en": 1418,
+			"id": 75
+		},
+		{
+			"en_modified": 1138,
+			"entityName": "",
+			"st_modified": 1134,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1134,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "19세기",
+			"is_target": true,
+			"en": 1138,
+			"id": 76
+		},
+		{
+			"en_modified": 1143,
+			"entityName": "",
+			"st_modified": 1139,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1139,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "미국정부",
+			"is_target": true,
+			"en": 1143,
+			"id": 77
+		},
+		{
+			"en_modified": 1150,
+			"entityName": "",
+			"st_modified": 1147,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1147,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "귤나무",
+			"is_target": true,
+			"en": 1150,
+			"id": 78
+		},
+		{
+			"en_modified": 1168,
+			"entityName": "",
+			"st_modified": 1166,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1166,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "천적",
+			"is_target": true,
+			"en": 1168,
+			"id": 79
+		},
+		{
+			"en_modified": 1287,
+			"st_modified": 1275,
+			"coref_index": 574,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1275,
+			"ancestor": "1-67",
+			"ne_type": "ETC",
+			"surface": "성모_마리아의_딱정벌레",
+			"is_target": true,
+			"en": 1287,
+			"id": 80
+		},
+		{
+			"en_modified": 1329,
+			"entityName": "",
+			"st_modified": 1322,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1322,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "가지과의_식물",
+			"is_target": true,
+			"en": 1329,
+			"id": 81
+		},
+		{
+			"en_modified": 1384,
+			"entityName": "",
+			"st_modified": 1378,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1378,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "육식성_곤충",
+			"is_target": true,
+			"en": 1384,
+			"id": 82
+		}
+	],
+	"globalSID": "403397,403398,403399,403400,403401,403402,403403,403404,403405,403406,403407,403408,403409,403410,403411,403412,403413,403414,403415,403416,403417,403418,403419,403420",
+	"plainText": "무당벌레과(Coccinellidae)는 딱정벌레목의 한 과로, 1~10 mm의 검은 점이 있는 빨간색이나 주황색 등껍질에 검정색 머리와 다리를 가진 곤충이다. 전 세계에 칠성무당벌레, 남생이무당벌레, 베달리아 무당벌레, 꼬마남생이무당벌레등의 약 4,500종이 알려져 있다. 생태 무당벌레는 번데기 과정이 있는 완전변태 곤충이다. 무당벌레의 몸은 눈에 띄는 경계색을 지녔는데, 이는 포식자들이 눈에 띄는 색을 독이 있거나 불쾌한 것과 연관시키기 때문이다. 무당벌레에는 독이 있는데, 이는 작은_새나 도마뱀 정도 크기의 동물에게만 해당되는 양이다. 위험을 느낄 때 다리마디에서 독이 있고 불쾌한 냄새가 나는 노란색_액체를 내놓는다. 따뜻한 봄이 되면 바깥에 나와서 활동하는데, 변온동물이라는 특징상 18도_이상의 온도이면 움직일 수 있다. 어른벌레는 진딧물이 있는 식물에 노란색의 알을 낳는데, 부화한 애벌레는 아직 태어나지 않은 알들을 무리지어서 잡아먹은 뒤, 진딧물을 잡아먹으면서 자란다. 하지만, 진딧물이 부족하면 서로 잡아먹음으로써 강한 개체만이 살아남는다. 겨울에 무리지어 동면을 취한 어른 무당벌레는 봄에 출현하여 포식활동과 산란을 하다가, 여름잠을 잔뒤 9월경에 가을에 다시 등장하여 포식활동, 번식, 산란을 하는 한살이를 갖고 있다. 무당벌레애벌레는 허물을 벗는 탈피와 여름이나 가을에 몸을 움크리는 전용상태 그리고 번데기 과정을 거쳐 어른벌레가 된다. 부화한 무당벌레 성충은 처음에는 색상이 없이 노란색의 등껍질을 갖고 있는데, 시간이 어느 정도 흘러 몸이 굳어지면 개성강한 경계색을 갖춘다. 일부 무당벌레 개체는 번데기상태에서 겨울을 난다. 무당벌레는 종류와 환경에 따라 등껍질_색상과 무늬가 다르다. 하지만 같은 종류라도 등껍질_색상이 다를 수 있어서 꼬마남생이무당벌레의 경우 베이지색, 진한_주황색,검은색등의 차이가 있다. 또한 몸크기도 달라서 몸길이가 3.5mm 가량 되는 꼬마남생이무당벌레부터 12mm 가량 되는 남생이무당벌레까지 다양하다. 진딧물을 먹이로 공급하면 인공사육할 수 있다. 먹이 무당벌레는 성충과 유충 모두 진딧물, 깍지벌레(나무의 즙을 빨아먹는 해충), 잎벌레(나무의 잎을 갉아먹는 해충)의 유충 등 농작물과 나무를 해치는 해충을 잡아먹기 때문에 해충 퇴치용으로 쓰이기도 한다. 그래서, 19세기 미국정부에서는 귤나무를 해치는 이세리아깍지벌레의 천적인 베달리아무당벌레를 오스트레일리아에서 수입하여 이세리아깍지벌레의 수를 줄인 적이 있다. 흔히 '무당벌레'하면 연상되는 칠성무당벌레도 왕성한 식욕으로 진딧물을 잡아먹는 익충으로 중세 농민들은 성모_마리아의_딱정벌레라고 부르면서 칭송했다고 한다. 이십팔점박이무당벌레처럼 감자나 가지과의_식물 또는 까마중의 잎을 먹는 초식성 무당벌레도 있으나 대다수의 무당벌레는 농업해충을 먹는 육식성_곤충이다. 노랑무당벌레는 식물의 잎에 기생하는 곰팡이와 같은 균류를 먹는 종류이다. ",
+	"docID": "42652",
+	"ModifiedText": "무당벌레과(Coccinellidae)는 딱정벌레목의 한 과로, 1~10 mm의 검은 점이 있는 빨간색이나 주황색 등껍질에 검정색 머리와 다리를 가진 곤충이다. 전 세계에 칠성무당벌레, 남생이무당벌레, 베달리아 무당벌레, 꼬마남생이무당벌레등의 약 4,500종이 알려져 있다. 생태 무당벌레는 번데기 과정이 있는 완전변태 곤충이다. 무당벌레의 몸은 눈에 띄는 경계색을 지녔는데, 이는 포식자들이 눈에 띄는 색을 독이 있거나 불쾌한 것과 연관시키기 때문이다. 무당벌레에는 독이 있는데, 이는 작은 새나 도마뱀 정도 크기의 동물에게만 해당되는 양이다. 위험을 느낄 때 다리마디에서 독이 있고 불쾌한 냄새가 나는 노란색 액체를 내놓는다. 따뜻한 봄이 되면 바깥에 나와서 활동하는데, 변온동물이라는 특징상 18도 이상의 온도이면 움직일 수 있다. 어른벌레는 진딧물이 있는 식물에 노란색의 알을 낳는데, 부화한 애벌레는 아직 태어나지 않은 알들을 무리지어서 잡아먹은 뒤, 진딧물을 잡아먹으면서 자란다. 하지만, 진딧물이 부족하면 서로 잡아먹음으로써 강한 개체만이 살아남는다. 겨울에 무리지어 동면을 취한 어른 무당벌레는 봄에 출현하여 포식활동과 산란을 하다가, 여름잠을 잔뒤 9월경에 가을에 다시 등장하여 포식활동, 번식, 산란을 하는 한살이를 갖고 있다. 무당벌레애벌레는 허물을 벗는 탈피와 여름이나 가을에 몸을 움크리는 전용상태 그리고 번데기 과정을 거쳐 어른벌레가 된다. 부화한 무당벌레 성충은 처음에는 색상이 없이 노란색의 등껍질을 갖고 있는데, 시간이 어느 정도 흘러 몸이 굳어지면 개성강한 경계색을 갖춘다. 일부 무당벌레 개체는 번데기상태에서 겨울을 난다. 무당벌레는 종류와 환경에 따라 등껍질 색상과 무늬가 다르다. 하지만 같은 종류라도 등껍질 색상이 다를 수 있어서 꼬마남생이무당벌레의 경우 베이지색, 진한 주황색,검은색등의 차이가 있다. 또한 몸크기도 달라서 몸길이가 3.5mm 가량 되는 꼬마남생이무당벌레부터 12mm 가량 되는 남생이무당벌레까지 다양하다. 진딧물을 먹이로 공급하면 인공사육할 수 있다. 먹이 무당벌레는 성충과 유충 모두 진딧물, 깍지벌레(나무의 즙을 빨아먹는 해충), 잎벌레(나무의 잎을 갉아먹는 해충)의 유충 등 농작물과 나무를 해치는 해충을 잡아먹기 때문에 해충 퇴치용으로 쓰이기도 한다. 그래서, 19세기 미국정부에서는 귤나무를 해치는 이세리아깍지벌레의 천적인 베달리아무당벌레를 오스트레일리아에서 수입하여 이세리아깍지벌레의 수를 줄인 적이 있다. 흔히 '무당벌레'하면 연상되는 칠성무당벌레도 왕성한 식욕으로 진딧물을 잡아먹는 익충으로 중세 농민들은 성모 마리아의 딱정벌레라고 부르면서 칭송했다고 한다. 이십팔점박이무당벌레처럼 감자나 가지과의 식물 또는 까마중의 잎을 먹는 초식성 무당벌레도 있으나 대다수의 무당벌레는 농업해충을 먹는 육식성 곤충이다. 노랑무당벌레는 식물의 잎에 기생하는 곰팡이와 같은 균류를 먹는 종류이다. "
+}

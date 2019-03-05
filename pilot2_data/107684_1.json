@@ -1,0 +1,88 @@
+{
+	"docID": "107684",
+	"globalSID": "801976,801977",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 21,
+			"surface": "유시진",
+			"entityName": "유시진"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 26,
+			"ancestor": "-1",
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "서울대학교",
+			"entityName": "서울대학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 16,
+			"ancestor": "",
+			"surface": "1971년_2월_26일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 28,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "여성_만화가",
+			"entityName": ""
+		}
+	],
+	"plainText": "유시진(1971년_2월_26일 ~ )은 대한민국의 여성_만화가이다. 서울대학교 서양사학과를 다니다가 중퇴하였다."
+}

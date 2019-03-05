@@ -1,0 +1,773 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 16,
+			"eType": "WIKILINK",
+			"en": 19,
+			"entityName": "프랑스",
+			"is_target": true,
+			"surface": "프랑스",
+			"coref_index": 403,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 24,
+			"eType": "WIKILINK",
+			"en": 28,
+			"entityName": "대통령제",
+			"is_target": true,
+			"surface": "대통령제",
+			"coref_index": 401,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 71,
+			"eType": "WIKILINK",
+			"en": 74,
+			"entityName": "대통령",
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 404,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 183,
+			"eType": "WIKILINK",
+			"en": 187,
+			"entityName": "스리랑카",
+			"is_target": true,
+			"surface": "스리랑카",
+			"coref_index": 402,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 51,
+			"eType": "NEW",
+			"en": 53,
+			"entityName": "",
+			"is_target": true,
+			"surface": "여당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 55,
+			"eType": "NEW",
+			"en": 61,
+			"entityName": "",
+			"is_target": true,
+			"surface": "의회_다수당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 107,
+			"eType": "NEW",
+			"en": 112,
+			"entityName": "",
+			"is_target": true,
+			"surface": "연립_정부",
+			"coref_index": 408,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"st": 123,
+			"eType": "NEW",
+			"en": 132,
+			"entityName": "",
+			"is_target": true,
+			"surface": "프랑스_제5공화국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 248,
+			"eType": "WIKILINK",
+			"entityName": "대통령제",
+			"en": 252,
+			"is_target": true,
+			"surface": "대통령제",
+			"coref_index": 401,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "ETC",
+			"st": 265,
+			"eType": "WIKILINK",
+			"entityName": "분점정부",
+			"en": 269,
+			"is_target": true,
+			"surface": "분점정부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 10,
+			"ne_type": "LOCATION",
+			"st": 308,
+			"eType": "WIKILINK",
+			"entityName": "스리랑카",
+			"en": 312,
+			"is_target": true,
+			"surface": "스리랑카",
+			"coref_index": 402,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 234,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 238,
+			"is_target": true,
+			"surface": "정치학자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 301,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 306,
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 13,
+			"ne_type": "LOCATION",
+			"st": 342,
+			"eType": "ELU",
+			"entityName": "프랑스",
+			"en": 345,
+			"is_target": true,
+			"surface": "프랑스",
+			"coref_index": 403,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 14,
+			"ne_type": "LOCATION",
+			"st": 349,
+			"eType": "WIKILINK",
+			"entityName": "프랑스",
+			"en": 352,
+			"is_target": true,
+			"surface": "프랑스",
+			"coref_index": 403,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 354,
+			"eType": "WIKILINK",
+			"entityName": "내각제",
+			"en": 357,
+			"is_target": true,
+			"surface": "내각제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 16,
+			"ne_type": "TIME",
+			"st": 393,
+			"eType": "WIKILINK",
+			"entityName": "1958년",
+			"en": 398,
+			"is_target": false,
+			"surface": "1958년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 399,
+			"eType": "ELU",
+			"entityName": "이원집정부제",
+			"en": 405,
+			"is_target": true,
+			"surface": "이원집정부제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 18,
+			"ne_type": "TIME",
+			"st": 439,
+			"eType": "WIKILINK",
+			"entityName": "1962년",
+			"en": 444,
+			"is_target": false,
+			"surface": "1962년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 448,
+			"eType": "ELU",
+			"entityName": "프랑스",
+			"en": 451,
+			"is_target": true,
+			"surface": "프랑스",
+			"coref_index": 403,
+			"ancestor": "1-14"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 459,
+			"eType": "WIKILINK",
+			"entityName": "선거인단",
+			"en": 463,
+			"is_target": true,
+			"surface": "선거인단",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 477,
+			"eType": "ELU",
+			"entityName": "직접_선거",
+			"en": 481,
+			"is_target": true,
+			"surface": "직접선거",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 735,
+			"eType": "WIKILINK",
+			"entityName": "의회해산권",
+			"en": 740,
+			"is_target": true,
+			"surface": "의회해산권",
+			"coref_index": 407,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ORGANIZATION",
+			"st": 650,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 653,
+			"is_target": true,
+			"surface": "입법부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ORGANIZATION",
+			"st": 655,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 658,
+			"is_target": true,
+			"surface": "행정부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 830,
+			"eType": "NEW",
+			"en": 833,
+			"entityName": "",
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 404,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 943,
+			"eType": "NEW",
+			"en": 950,
+			"entityName": "",
+			"is_target": true,
+			"surface": "드_골_대통령",
+			"coref_index": 409,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 983,
+			"eType": "NEW",
+			"en": 990,
+			"entityName": "",
+			"is_target": true,
+			"surface": "신_공화국연합",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"id": 28,
+			"ne_type": "TIME",
+			"st": 1143,
+			"eType": "WIKILINK",
+			"en": 1148,
+			"entityName": "1981년",
+			"is_target": false,
+			"surface": "1981년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"st": 1150,
+			"eType": "WIKILINK",
+			"en": 1153,
+			"entityName": "사회당_(프랑스)",
+			"is_target": true,
+			"surface": "사회당",
+			"coref_index": 406,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 30,
+			"ne_type": "PERSON",
+			"st": 1221,
+			"eType": "ELU",
+			"en": 1224,
+			"entityName": "프랑수아_미테랑",
+			"is_target": true,
+			"surface": "미테랑",
+			"coref_index": 405,
+			"ancestor": "1-33"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"PoliticalParty"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 1266,
+			"eType": "ELU",
+			"en": 1269,
+			"entityName": "사회당",
+			"is_target": true,
+			"surface": "사회당",
+			"coref_index": 406,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"PoliticalParty"
+			],
+			"id": 32,
+			"ne_type": "ORGANIZATION",
+			"st": 1326,
+			"eType": "ELU",
+			"en": 1329,
+			"entityName": "사회당",
+			"is_target": true,
+			"surface": "사회당",
+			"coref_index": 406,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "PERSON",
+			"st": 1157,
+			"eType": "NEW",
+			"en": 1169,
+			"entityName": "",
+			"is_target": true,
+			"surface": "대통령_프랑수아_미테랑",
+			"coref_index": 405,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ORGANIZATION",
+			"st": 1187,
+			"eType": "NEW",
+			"en": 1189,
+			"entityName": "",
+			"is_target": true,
+			"surface": "의회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ORGANIZATION",
+			"st": 1191,
+			"eType": "NEW",
+			"en": 1196,
+			"entityName": "",
+			"is_target": true,
+			"surface": "우파_연합",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "EVENT",
+			"st": 1240,
+			"eType": "NEW",
+			"en": 1242,
+			"entityName": "",
+			"is_target": true,
+			"surface": "총선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 1274,
+			"eType": "NEW",
+			"en": 1278,
+			"entityName": "",
+			"is_target": true,
+			"surface": "안정의석",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "TIME",
+			"st": 1311,
+			"eType": "NEW",
+			"en": 1313,
+			"entityName": "",
+			"is_target": false,
+			"surface": "5년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 1339,
+			"eType": "NEW",
+			"en": 1343,
+			"entityName": "",
+			"is_target": true,
+			"surface": "과반의석",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 1288,
+			"eType": "NEW",
+			"en": 1290,
+			"entityName": "",
+			"is_target": true,
+			"surface": "정국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 1364,
+			"eType": "NEW",
+			"en": 1366,
+			"entityName": "",
+			"is_target": true,
+			"surface": "정부",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1554398,1554399,1554400,1554401,1554402,1554403,1554404,1554405,1554406,1554407,1554408,1554409,1554410,1554411,1554412,1554413,1554414,1554415,1554416,1554417",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 196,
+			"ancestor": "-1",
+			"st": 190,
+			"surface": "다른 국가의"
+		},
+		{
+			"id": 1,
+			"en": 201,
+			"ancestor": "-1",
+			"st": 190,
+			"surface": "다른 국가의 사례에서"
+		},
+		{
+			"id": 2,
+			"en": 299,
+			"ancestor": "-1",
+			"st": 293,
+			"surface": "이 정부형태"
+		},
+		{
+			"id": 3,
+			"ancestor": "1-2",
+			"st": 524,
+			"en": 526,
+			"surface": "그들",
+			"coref_index": 404
+		},
+		{
+			"id": 4,
+			"en": 530,
+			"ancestor": "-1",
+			"st": 524,
+			"surface": "그들의 권한"
+		},
+		{
+			"id": 5,
+			"en": 533,
+			"ancestor": "-1",
+			"st": 524,
+			"surface": "그들의 권한 이상"
+		},
+		{
+			"id": 6,
+			"en": 754,
+			"ancestor": "-1",
+			"st": 751,
+			"surface": "언제건"
+		},
+		{
+			"id": 7,
+			"en": 760,
+			"ancestor": "-1",
+			"st": 751,
+			"surface": "언제건 사용할 수"
+		},
+		{
+			"id": 8,
+			"ancestor": "1-22",
+			"st": 779,
+			"en": 783,
+			"surface": "그 시행",
+			"coref_index": 407
+		},
+		{
+			"id": 9,
+			"en": 792,
+			"ancestor": "-1",
+			"st": 789,
+			"surface": "한 번"
+		},
+		{
+			"id": 10,
+			"en": 798,
+			"ancestor": "-1",
+			"st": 789,
+			"surface": "한 번을 넘을 수"
+		},
+		{
+			"id": 11,
+			"ancestor": "1-6",
+			"st": 820,
+			"en": 824,
+			"surface": "이 체제",
+			"coref_index": 408
+		},
+		{
+			"id": 12,
+			"en": 829,
+			"ancestor": "-1",
+			"st": 820,
+			"surface": "이 체제 하에서,"
+		},
+		{
+			"id": 13,
+			"en": 875,
+			"ancestor": "-1",
+			"st": 873,
+			"surface": "이는"
+		},
+		{
+			"id": 14,
+			"ancestor": "1-26",
+			"st": 976,
+			"en": 977,
+			"surface": "그",
+			"coref_index": 409
+		},
+		{
+			"id": 15,
+			"en": 1357,
+			"ancestor": "-1",
+			"st": 1354,
+			"surface": "이것이"
+		}
+	],
+	"plainText": "동거 정부(同居政府, ) 는 프랑스와 같은 대통령제(이원집정부제)에 등장하는 정부 형태로, 여당과 의회_다수당이 다를 경우에, 대통령이 의회 다수당 출신의 인사를 총리로 기용함으로써 구성하는 연립_정부를 일컫는다. 주로 프랑스_제5공화국에서 등장한 좌-우 연립 내각의 사례가 인용되기 때문에 좌우 동거 정부라 부르기도 하지만, 스리랑카 등 다른 국가의 사례에서 보듯 꼭 좌-우의 이념 차이만으로만 규정지을 수는 없다. 정치학자들은 동거 정부가 대통령제 하에서 자주 등장하는 분점정부의 대안이 될 수 있다고 지적한다. 그러나 이 정부형태는 2003년에 스리랑카가 보인 극단적인 정치적 긴장 을 유발할 수도 있다. 프랑스 기원 프랑스는 내각제적 요소를 가진 제4공화국에서의 만연한 정치불안을 해소하기 위해 1958년 이원집정부제를 골자로 한 새 헌법을 마련하고, 제5공화국을 출범시켰다. 1962년부터, 프랑스의 대통령들은 선거인단에 의한 간접선거가 아닌 직접선거로 선출되어 왔다. 이러한 변화는 제5공화국의 대통령들이 원래 헌법에 규정된 그들의 권한 이상으로 국민에게 권한을 위임받은 대표로서의 역할까지 행하는 것을 허용하였다.물론 여전히 국민회의의 다수당이 갖는 정치적 영향력은 존재하였으나, 국민에 의해 직선된 대통령이 총리를 임명하게 되면서 대통령의 권한은 입법부와 행정부 간의 갈등 국면에서 이전에 비해 우세하게 되었다. 시간이 지나면서, 이러한 행정부와 입법부 간의 힘의 불균형은 제5공화국 들어 대통령이 의회해산권이란 막강한 권한을 언제건 사용할 수 있게 되면서 심화되었다. (단, 그 시행은 1년에 한 번을 넘을 수 없는 등 엄격한 요건이 뒤따른다.). 이 체제 하에서, 대통령이 우선적으로 고려해야 할 사안은 의회의 지지를 받는 총리의 지명이다. 이는 대통령의 정당 또는 정파와 의회 다수당 또는 정파가 동일할 경우에는 문제가 되지 않는다. 58년 새 헌법 개정의 주역인 드_골_대통령의 경우, 대통령 선거 직전에 실시된 총선에서 그가 이끄는 신_공화국연합(UNR)이 원내 1당이었기 때문에 그러한 문제를 겪을 필요가 없었다. 그러나 대통령의 임기가 7년인 데 반해, 의회 의원들의 임기는 5년이었기 때문에 언젠가는 대통령의 소속 정당 또는 정파와 의회 다수당 또는 정파가 다를 가능성은 늘 존재했다. 첫 번째 좌우 동거 정부는 1981년, 사회당 출신 대통령_프랑수아_미테랑의 당선과 함께 등장했다. 당시 의회는 우파_연합이 다수를 차지하고 있었다. 취임하자 마자, 미테랑은 의회해산권을 발동하고 새 총선 실시를 발표했다. 새롭게 실시된 총선에서 사회당이 원내 안정의석을 확보함으로써, 정국은 안정을 되찾는 듯 보였다. 그러나 5년 후에 실시된 총선에서 사회당은 우파 연합에게 과반의석을 내주고 말았고, 이것이 좌우 동거 정부의 첫 시험대가 되었다. ",
+	"docID": "276975"
+}

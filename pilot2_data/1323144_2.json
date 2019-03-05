@@ -1,0 +1,160 @@
+{
+	"docID": "1323144",
+	"globalSID": "3586119,3586120,3586121,3586122",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 17,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "부에노스아이레스",
+			"entityName": "부에노스아이레스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "1-4",
+			"coref_index": 182,
+			"surface": "호르헤",
+			"entityName": "조르즈"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 91,
+			"ancestor": "-1",
+			"surface": "멘도사_시",
+			"entityName": "멘도사_(아르헨티나)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "1-4",
+			"coref_index": 182,
+			"surface": "호르헤",
+			"entityName": "조르즈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 134,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 161,
+			"ancestor": "-1",
+			"surface": "La_Sociedad_Rural_Argentina",
+			"entityName": "La_Sociedad_Rural_Argentina"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 16,
+			"ancestor": "",
+			"surface": "1928년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-4",
+			"coref_index": 182,
+			"surface": "호르헤_소레기에타",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 197,
+			"ancestor": "-1",
+			"surface": "Juan_de_Garay",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "에스파냐-바스크_혼혈",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "이탈리아계_이민자",
+			"entityName": ""
+		}
+	],
+	"plainText": "호르헤_소레기에타는 1928년 부에노스아이레스에서 태어났다. 부모는 에스파냐-바스크_혼혈과 이탈리아계_이민자로, 호르헤는 집안의 장남이었다. 친할아버지는 멘도사_시 시장을 지냈다. 성장한 호르헤는 지주와 목장주들의 이익을 대변하던 보수단체 La_Sociedad_Rural_Argentina의 간사를 지냈고, 바스크계 문화기구인 \"Juan_de_Garay\" 협회의 협회장을 지냈다."
+}

@@ -1,0 +1,361 @@
+{
+	"docID": "1584952",
+	"globalSID": "3807027,3807028,3807029,3807030,3807031,3807032",
+	"pronouns": [
+		{
+			"st": 100,
+			"coref_index": 237,
+			"id": 0,
+			"en": 101,
+			"ancestor": "5-5",
+			"surface": "그"
+		},
+		{
+			"st": 110,
+			"coref_index": 237,
+			"id": 1,
+			"en": 112,
+			"ancestor": "5-5",
+			"surface": "자신"
+		},
+		{
+			"en": 123,
+			"ancestor": "-1",
+			"surface": "자신의 메이저 리그 데뷔",
+			"id": 2,
+			"st": 110
+		},
+		{
+			"st": 143,
+			"coref_index": 237,
+			"id": 3,
+			"en": 145,
+			"ancestor": "5-5",
+			"surface": "자신"
+		},
+		{
+			"en": 150,
+			"ancestor": "-1",
+			"surface": "자신의 하나의",
+			"id": 4,
+			"st": 143
+		},
+		{
+			"en": 155,
+			"ancestor": "-1",
+			"surface": "자신의 하나의 타수에서",
+			"id": 5,
+			"st": 143
+		},
+		{
+			"st": 169,
+			"coref_index": 237,
+			"id": 6,
+			"en": 170,
+			"ancestor": "5-5",
+			"surface": "그"
+		},
+		{
+			"en": 177,
+			"ancestor": "-1",
+			"surface": "그의 첫 안타는",
+			"id": 7,
+			"st": 169
+		},
+		{
+			"st": 210,
+			"coref_index": 237,
+			"id": 8,
+			"en": 212,
+			"ancestor": "5-5",
+			"surface": "자신"
+		},
+		{
+			"en": 219,
+			"ancestor": "-1",
+			"surface": "자신의 첫 홈런은",
+			"id": 9,
+			"st": 210
+		},
+		{
+			"st": 241,
+			"coref_index": 237,
+			"id": 10,
+			"en": 242,
+			"ancestor": "5-5",
+			"surface": "그"
+		},
+		{
+			"st": 274,
+			"coref_index": 237,
+			"id": 11,
+			"en": 275,
+			"ancestor": "5-5",
+			"surface": "그"
+		},
+		{
+			"st": 341,
+			"coref_index": 237,
+			"id": 12,
+			"en": 343,
+			"ancestor": "5-5",
+			"surface": "자신"
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 23,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 28,
+			"ancestor": "",
+			"surface": "1985년",
+			"entityName": "1985년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation",
+				"BaseballTeam"
+			],
+			"st": 67,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 77,
+			"ancestor": "3-10",
+			"coref_index": 236,
+			"surface": "오클랜드_애슬레틱스",
+			"entityName": "오클랜드_애슬레틱스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 108,
+			"ancestor": "",
+			"surface": "9월_2일",
+			"entityName": "9월_2일"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation",
+				"BaseballTeam"
+			],
+			"st": 128,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 137,
+			"ancestor": "-1",
+			"surface": "볼티모어_오리올스",
+			"entityName": "볼티모어_오리올스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 151,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "타수",
+			"entityName": "타수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 156,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 163,
+			"ancestor": "-1",
+			"surface": "스트라이크아웃",
+			"entityName": "스트라이크아웃"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 178,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 183,
+			"ancestor": "",
+			"surface": "9월_7일",
+			"entityName": "9월_7일"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation",
+				"BaseballTeam"
+			],
+			"st": 184,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 190,
+			"ancestor": "-1",
+			"surface": "뉴욕_양키스",
+			"entityName": "뉴욕_양키스"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 192,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 197,
+			"ancestor": "-1",
+			"surface": "론_기드리",
+			"entityName": "론_기드리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 204,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 209,
+			"ancestor": "",
+			"surface": "9월_9일",
+			"entityName": "9월_9일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 216,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 218,
+			"ancestor": "-1",
+			"surface": "홈런",
+			"entityName": "홈런"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation",
+				"BaseballTeam"
+			],
+			"st": 220,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"en": 228,
+			"ancestor": "-1",
+			"surface": "텍사스_레인저스",
+			"entityName": "텍사스_레인저스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 230,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 235,
+			"ancestor": "-1",
+			"surface": "제프_러셀",
+			"entityName": "제프_러셀"
+		},
+		{
+			"kbox_types": [
+				"Animal",
+				"Year",
+				"Species",
+				"TimePeriod",
+				"Eukaryote"
+			],
+			"st": 277,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 282,
+			"ancestor": "",
+			"surface": "1986년",
+			"entityName": "1986년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 310,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ETC",
+			"en": 312,
+			"ancestor": "-1",
+			"surface": "타점",
+			"entityName": "타점"
+		},
+		{
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"st": 321,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 328,
+			"ancestor": "-1",
+			"surface": "아메리칸_리그",
+			"entityName": "아메리칸_리그"
+		}
+	],
+	"plainText": "오클랜드 애슬레틱스 (1985 ~ 92) 1985년 칸세코는 올해의 베이스볼 아메리카 마이너 리그 선수 상을 수상하였고 오클랜드_애슬레틱스를 위하여 늦은 시즌의 소집 인원이었다. 그는 9월_2일에 자신의 메이저 리그 데뷔를 하여 볼티모어_오리올스를 상대로 자신의 하나의 타수에서 스트라이크아웃 시켰다. 그의 첫 안타는 9월_7일 뉴욕_양키스의 론_기드리로 였으며, 9월_9일 자신의 첫 홈런은 텍사스_레인저스의 제프_러셀로 였다. 그는 그해에 메이저 리그에서 29개의 경기들을 활약하였다. 그는 1986년자신의 첫 전임 시즌에 33개의 홈런과 117개의 타점과 함께 올해의 아메리칸_리그 신인 선수로 임명되어 자신을 설립하였다."
+}

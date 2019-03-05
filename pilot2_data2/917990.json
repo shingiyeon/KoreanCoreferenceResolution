@@ -1,0 +1,1571 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 233,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 234,
+			"en": 234,
+			"st_modified": 233
+		},
+		{
+			"st": 262,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 263,
+			"en": 263,
+			"st_modified": 262
+		},
+		{
+			"st": 262,
+			"text": "그의 집안",
+			"is_pronoun": true,
+			"en_modified": 267,
+			"en": 267,
+			"st_modified": 262
+		},
+		{
+			"st": 262,
+			"text": "그의 집안의 여섯 아이들",
+			"is_pronoun": true,
+			"en_modified": 275,
+			"en": 275,
+			"st_modified": 262
+		},
+		{
+			"st": 262,
+			"text": "그의 집안의 여섯 아이들 중",
+			"is_pronoun": true,
+			"en_modified": 277,
+			"en": 277,
+			"st_modified": 262
+		},
+		{
+			"st": 287,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 288,
+			"en": 288,
+			"st_modified": 287
+		},
+		{
+			"st": 297,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 298,
+			"en": 298,
+			"st_modified": 297
+		},
+		{
+			"st": 394,
+			"text": "저",
+			"is_pronoun": true,
+			"en_modified": 395,
+			"en": 395,
+			"st_modified": 394
+		},
+		{
+			"st": 397,
+			"text": "저",
+			"is_pronoun": true,
+			"en_modified": 398,
+			"en": 398,
+			"st_modified": 397
+		},
+		{
+			"st": 397,
+			"text": "저의 아버지",
+			"is_pronoun": true,
+			"en_modified": 403,
+			"en": 403,
+			"st_modified": 397
+		},
+		{
+			"st": 416,
+			"text": "저",
+			"is_pronoun": true,
+			"en_modified": 417,
+			"en": 417,
+			"st_modified": 416
+		},
+		{
+			"st": 563,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 564,
+			"en": 564,
+			"st_modified": 563
+		},
+		{
+			"st": 653,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 654,
+			"en": 654,
+			"st_modified": 653
+		},
+		{
+			"st": 706,
+			"text": "자신들",
+			"is_pronoun": true,
+			"en_modified": 709,
+			"en": 709,
+			"st_modified": 706
+		},
+		{
+			"st": 706,
+			"text": "자신들의 음악",
+			"is_pronoun": true,
+			"en_modified": 713,
+			"en": 713,
+			"st_modified": 706
+		},
+		{
+			"st": 725,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 727,
+			"en": 727,
+			"st_modified": 725
+		},
+		{
+			"st": 771,
+			"text": "그들",
+			"is_pronoun": true,
+			"en_modified": 773,
+			"en": 773,
+			"st_modified": 771
+		},
+		{
+			"st": 771,
+			"text": "그들의 앨범 '스크립트'(The Script)",
+			"is_pronoun": true,
+			"en_modified": 796,
+			"en": 796,
+			"st_modified": 771
+		},
+		{
+			"st": 804,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 805,
+			"en": 805,
+			"st_modified": 804
+		},
+		{
+			"st": 807,
+			"text": "이 앨범",
+			"is_pronoun": true,
+			"en_modified": 811,
+			"en": 811,
+			"st_modified": 807
+		},
+		{
+			"st": 807,
+			"text": "이 앨범의 모든 곡들",
+			"is_pronoun": true,
+			"en_modified": 818,
+			"en": 818,
+			"st_modified": 807
+		},
+		{
+			"st": 949,
+			"text": "이",
+			"is_pronoun": true,
+			"en_modified": 950,
+			"en": 950,
+			"st_modified": 949
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 233,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 234,
+			"en": 234,
+			"st_modified": 233,
+			"id": 0,
+			"coref_index": 1114
+		},
+		{
+			"st": 262,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 263,
+			"en": 263,
+			"st_modified": 262,
+			"id": 1,
+			"coref_index": 1114
+		},
+		{
+			"st": 262,
+			"ancestor": "-1",
+			"surface": "그의 집안의",
+			"en_modified": 268,
+			"en": 268,
+			"st_modified": 262,
+			"id": 2
+		},
+		{
+			"st": 262,
+			"ancestor": "-1",
+			"surface": "그의 집안의 여섯 아이들",
+			"en_modified": 275,
+			"en": 275,
+			"st_modified": 262,
+			"id": 3
+		},
+		{
+			"st": 262,
+			"ancestor": "-1",
+			"surface": "그의 집안의 여섯 아이들 중",
+			"en_modified": 277,
+			"en": 277,
+			"st_modified": 262,
+			"id": 4
+		},
+		{
+			"st": 287,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 288,
+			"en": 288,
+			"st_modified": 287,
+			"id": 5,
+			"coref_index": 1114
+		},
+		{
+			"st": 297,
+			"ancestor": "1-15",
+			"surface": "그",
+			"en_modified": 298,
+			"en": 298,
+			"st_modified": 297,
+			"id": 6,
+			"coref_index": 1114
+		},
+		{
+			"st": 394,
+			"ancestor": "1-15",
+			"surface": "저",
+			"en_modified": 395,
+			"en": 395,
+			"st_modified": 394,
+			"id": 7,
+			"coref_index": 1114
+		},
+		{
+			"st": 397,
+			"ancestor": "1-15",
+			"surface": "저",
+			"en_modified": 398,
+			"en": 398,
+			"st_modified": 397,
+			"id": 8,
+			"coref_index": 1114
+		},
+		{
+			"st": 397,
+			"ancestor": "-1",
+			"surface": "저의 아버지를",
+			"en_modified": 404,
+			"en": 404,
+			"st_modified": 397,
+			"id": 9
+		},
+		{
+			"st": 416,
+			"ancestor": "1-15",
+			"surface": "저",
+			"en_modified": 417,
+			"en": 417,
+			"st_modified": 416,
+			"id": 10,
+			"coref_index": 1114
+		},
+		{
+			"st": 563,
+			"ancestor": "1-5",
+			"surface": "그",
+			"en_modified": 564,
+			"en": 564,
+			"st_modified": 563,
+			"id": 11,
+			"coref_index": 1114
+		},
+		{
+			"st": 653,
+			"ancestor": "1-5",
+			"surface": "그",
+			"en_modified": 654,
+			"en": 654,
+			"st_modified": 653,
+			"id": 12,
+			"coref_index": 1114
+		},
+		{
+			"st": 706,
+			"ancestor": "-1",
+			"surface": "자신들",
+			"en_modified": 709,
+			"en": 709,
+			"st_modified": 706,
+			"id": 13
+		},
+		{
+			"st": 706,
+			"ancestor": "-1",
+			"surface": "자신들의 음악",
+			"en_modified": 713,
+			"en": 713,
+			"st_modified": 706,
+			"id": 14
+		},
+		{
+			"st": 725,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"en_modified": 728,
+			"en": 728,
+			"st_modified": 725,
+			"id": 15
+		},
+		{
+			"st": 771,
+			"ancestor": "1-55",
+			"surface": "그들",
+			"en_modified": 773,
+			"en": 773,
+			"st_modified": 771,
+			"id": 16,
+			"coref_index": 1117
+		},
+		{
+			"st": 771,
+			"ancestor": "-1",
+			"surface": "그들의 앨범 '스크립트'(The Script)",
+			"en_modified": 796,
+			"en": 796,
+			"st_modified": 771,
+			"id": 17
+		},
+		{
+			"st": 804,
+			"ancestor": "1-5",
+			"surface": "그",
+			"en_modified": 805,
+			"en": 805,
+			"st_modified": 804,
+			"id": 18,
+			"coref_index": 1114
+		},
+		{
+			"st": 807,
+			"ancestor": "1-45",
+			"surface": "이 앨범",
+			"en_modified": 811,
+			"en": 811,
+			"st_modified": 807,
+			"id": 19,
+			"coref_index": 1120
+		},
+		{
+			"st": 807,
+			"ancestor": "-1",
+			"surface": "이 앨범의 모든 곡들을",
+			"en_modified": 819,
+			"en": 819,
+			"st_modified": 807,
+			"id": 20
+		},
+		{
+			"st": 949,
+			"ancestor": "-1",
+			"surface": "이는",
+			"en_modified": 951,
+			"en": 951,
+			"st_modified": 949,
+			"id": 21
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 40,
+			"st_modified": 36,
+			"coref_index": 1118,
+			"entityName": "아일랜드",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 36,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "아일랜드",
+			"is_target": true,
+			"en": 40,
+			"id": 0
+		},
+		{
+			"en_modified": 49,
+			"entityName": "싱어송_라이터",
+			"st_modified": 42,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 42,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "싱어송_라이터",
+			"is_target": true,
+			"en": 49,
+			"id": 1
+		},
+		{
+			"en_modified": 54,
+			"entityName": "랩퍼",
+			"st_modified": 52,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 52,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "랩퍼",
+			"is_target": true,
+			"en": 54,
+			"id": 2
+		},
+		{
+			"en_modified": 75,
+			"st_modified": 69,
+			"coref_index": 1117,
+			"entityName": "더_스크립트",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 69,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "더_스크립트",
+			"is_target": true,
+			"en": 75,
+			"id": 3
+		},
+		{
+			"en_modified": 113,
+			"entityName": "더_보이스_UK",
+			"st_modified": 105,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 105,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "더_보이스_UK",
+			"is_target": true,
+			"en": 113,
+			"id": 4
+		},
+		{
+			"en_modified": 15,
+			"st_modified": 0,
+			"coref_index": 1114,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "대니_존_마크_루크_오도너휴",
+			"is_target": true,
+			"en": 15,
+			"id": 5
+		},
+		{
+			"en_modified": 30,
+			"entityName": "",
+			"st_modified": 18,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 18,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1980년_10월_3일",
+			"is_target": false,
+			"en": 30,
+			"id": 6
+		},
+		{
+			"en_modified": 67,
+			"entityName": "",
+			"st_modified": 57,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 57,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "얼터너티브_록_밴드",
+			"is_target": true,
+			"en": 67,
+			"id": 7
+		},
+		{
+			"en_modified": 79,
+			"entityName": "",
+			"st_modified": 77,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 77,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "리더",
+			"is_target": true,
+			"en": 79,
+			"id": 8
+		},
+		{
+			"en_modified": 103,
+			"entityName": "",
+			"st_modified": 92,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 92,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "텔레비전_리얼리티_쇼",
+			"is_target": true,
+			"en": 103,
+			"id": 9
+		},
+		{
+			"en_modified": 132,
+			"entityName": "",
+			"st_modified": 130,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 130,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "코치",
+			"is_target": true,
+			"en": 132,
+			"id": 10
+		},
+		{
+			"en_modified": 239,
+			"st_modified": 236,
+			"coref_index": 1116,
+			"entityName": "더블린",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 236,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "더블린",
+			"is_target": true,
+			"en": 239,
+			"id": 11
+		},
+		{
+			"en_modified": 307,
+			"entityName": "음악가",
+			"st_modified": 304,
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre",
+				"Profession",
+				"PersonFunction"
+			],
+			"eType": "ELU",
+			"st": 304,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "음악가",
+			"is_target": true,
+			"en": 307,
+			"id": 12
+		},
+		{
+			"en_modified": 437,
+			"entityName": "아버지",
+			"st_modified": 434,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 434,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아버지",
+			"is_target": true,
+			"en": 437,
+			"id": 13
+		},
+		{
+			"en_modified": 148,
+			"entityName": "",
+			"st_modified": 143,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 143,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "젊은_시절",
+			"is_target": true,
+			"en": 148,
+			"id": 14
+		},
+		{
+			"en_modified": 156,
+			"st_modified": 149,
+			"coref_index": 1114,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 149,
+			"ancestor": "1-5",
+			"ne_type": "PERSON",
+			"surface": "대니_오도너휴",
+			"is_target": true,
+			"en": 156,
+			"id": 15
+		},
+		{
+			"en_modified": 165,
+			"entityName": "",
+			"st_modified": 158,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 158,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "섀이_오도너휴",
+			"is_target": true,
+			"en": 165,
+			"id": 16
+		},
+		{
+			"en_modified": 191,
+			"entityName": "",
+			"st_modified": 184,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 184,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "키보드_연주자",
+			"is_target": true,
+			"en": 191,
+			"id": 17
+		},
+		{
+			"en_modified": 202,
+			"entityName": "",
+			"st_modified": 193,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 193,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "애일리시_오도너휴",
+			"is_target": true,
+			"en": 202,
+			"id": 18
+		},
+		{
+			"en_modified": 245,
+			"entityName": "",
+			"st_modified": 241,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 241,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "발린티어",
+			"is_target": true,
+			"en": 245,
+			"id": 19
+		},
+		{
+			"en_modified": 283,
+			"entityName": "",
+			"st_modified": 281,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 281,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "막내",
+			"is_target": true,
+			"en": 283,
+			"id": 20
+		},
+		{
+			"en_modified": 338,
+			"entityName": "",
+			"st_modified": 332,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 332,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "음악적_경력",
+			"is_target": true,
+			"en": 338,
+			"id": 21
+		},
+		{
+			"en_modified": 355,
+			"entityName": "",
+			"st_modified": 350,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 350,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "퇴직증명서",
+			"is_target": true,
+			"en": 355,
+			"id": 22
+		},
+		{
+			"en_modified": 427,
+			"entityName": "",
+			"st_modified": 425,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 425,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "음악",
+			"is_target": true,
+			"en": 427,
+			"id": 23
+		},
+		{
+			"en_modified": 445,
+			"entityName": "",
+			"st_modified": 443,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 443,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "급료",
+			"is_target": true,
+			"en": 445,
+			"id": 24
+		},
+		{
+			"en_modified": 407,
+			"entityName": "",
+			"st_modified": 405,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 405,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "숭배",
+			"is_target": true,
+			"en": 407,
+			"id": 25
+		},
+		{
+			"en_modified": 479,
+			"entityName": "유니버설_레코드",
+			"st_modified": 471,
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"eType": "WIKILINK",
+			"st": 471,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "유니버설_레코드",
+			"is_target": true,
+			"en": 479,
+			"id": 26
+		},
+		{
+			"en_modified": 532,
+			"st_modified": 527,
+			"coref_index": 1115,
+			"entityName": "마크_시언",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 527,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마크_시언",
+			"is_target": true,
+			"en": 532,
+			"id": 27
+		},
+		{
+			"en_modified": 575,
+			"entityName": "브리트니_스피어스",
+			"st_modified": 566,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Group",
+				"Artist",
+				"Organisation",
+				"Band"
+			],
+			"eType": "WIKILINK",
+			"st": 566,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "브리트니_스피어스",
+			"is_target": true,
+			"en": 575,
+			"id": 28
+		},
+		{
+			"en_modified": 584,
+			"entityName": "보이즈_투_멘",
+			"st_modified": 577,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Group",
+				"Artist",
+				"Organisation",
+				"Band"
+			],
+			"eType": "WIKILINK",
+			"st": 577,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "보이즈_투_멘",
+			"is_target": true,
+			"en": 584,
+			"id": 29
+		},
+		{
+			"en_modified": 589,
+			"entityName": "TLC_(밴드)",
+			"st_modified": 586,
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"eType": "WIKILINK",
+			"st": 586,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "TLC",
+			"is_target": true,
+			"en": 589,
+			"id": 30
+		},
+		{
+			"en_modified": 627,
+			"entityName": "로스_앤젤레스",
+			"st_modified": 620,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 620,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "로스_앤젤레스",
+			"is_target": true,
+			"en": 627,
+			"id": 31
+		},
+		{
+			"en_modified": 461,
+			"entityName": "",
+			"st_modified": 455,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 455,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "초기의_경력",
+			"is_target": true,
+			"en": 461,
+			"id": 32
+		},
+		{
+			"en_modified": 501,
+			"entityName": "",
+			"st_modified": 492,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 492,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1990년대_후반",
+			"is_target": false,
+			"en": 501,
+			"id": 33
+		},
+		{
+			"en_modified": 515,
+			"entityName": "",
+			"st_modified": 503,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 503,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "마이타운(Mytown)",
+			"is_target": true,
+			"en": 515,
+			"id": 34
+		},
+		{
+			"en_modified": 615,
+			"st_modified": 613,
+			"coref_index": 1115,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 613,
+			"ancestor": "1-27",
+			"ne_type": "PERSON",
+			"surface": "시언",
+			"is_target": true,
+			"en": 615,
+			"id": 35
+		},
+		{
+			"en_modified": 672,
+			"st_modified": 669,
+			"coref_index": 1116,
+			"entityName": "더블린",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 669,
+			"ancestor": "1-11",
+			"ne_type": "LOCATION",
+			"surface": "더블린",
+			"is_target": true,
+			"en": 672,
+			"id": 36
+		},
+		{
+			"en_modified": 691,
+			"entityName": "음악가",
+			"st_modified": 688,
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre",
+				"Profession",
+				"PersonFunction"
+			],
+			"eType": "ELU",
+			"st": 688,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "연주자",
+			"is_target": true,
+			"en": 691,
+			"id": 37
+		},
+		{
+			"en_modified": 699,
+			"entityName": "글렌_파워",
+			"st_modified": 694,
+			"kbox_types": [
+				"MusicalArtist",
+				"Agent",
+				"Artist",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 694,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "글렌_파워",
+			"is_target": true,
+			"en": 699,
+			"id": 38
+		},
+		{
+			"en_modified": 734,
+			"entityName": "2001년",
+			"st_modified": 729,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 729,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2001년",
+			"is_target": false,
+			"en": 734,
+			"id": 39
+		},
+		{
+			"en_modified": 742,
+			"st_modified": 736,
+			"coref_index": 1117,
+			"entityName": "더_스크립트",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 736,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "더_스크립트",
+			"is_target": true,
+			"en": 742,
+			"id": 40
+		},
+		{
+			"en_modified": 638,
+			"entityName": "",
+			"st_modified": 635,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 635,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "10년",
+			"is_target": false,
+			"en": 638,
+			"id": 41
+		},
+		{
+			"en_modified": 687,
+			"entityName": "",
+			"st_modified": 685,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 685,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "드럼",
+			"is_target": true,
+			"en": 687,
+			"id": 42
+		},
+		{
+			"en_modified": 661,
+			"st_modified": 656,
+			"coref_index": 1115,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 656,
+			"ancestor": "1-27",
+			"ne_type": "PERSON",
+			"surface": "마크_시언",
+			"is_target": true,
+			"en": 661,
+			"id": 43
+		},
+		{
+			"en_modified": 769,
+			"entityName": "2008년_8월",
+			"st_modified": 761,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 761,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2008년_8월",
+			"is_target": true,
+			"en": 769,
+			"id": 44
+		},
+		{
+			"en_modified": 783,
+			"st_modified": 779,
+			"coref_index": 1120,
+			"entityName": "스크립트_언어",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 779,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "스크립트",
+			"is_target": true,
+			"en": 783,
+			"id": 45
+		},
+		{
+			"en_modified": 839,
+			"st_modified": 835,
+			"coref_index": 1118,
+			"entityName": "아일랜드",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 835,
+			"ancestor": "1-0",
+			"ne_type": "LOCATION",
+			"surface": "아일랜드",
+			"is_target": true,
+			"en": 839,
+			"id": 46
+		},
+		{
+			"en_modified": 870,
+			"entityName": "아이리쉬_앨범_차트",
+			"st_modified": 860,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 860,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아이리쉬_앨범_차트",
+			"is_target": true,
+			"en": 870,
+			"id": 47
+		},
+		{
+			"en_modified": 905,
+			"entityName": "2010년_9월",
+			"st_modified": 897,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 897,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2010년_9월",
+			"is_target": true,
+			"en": 905,
+			"id": 48
+		},
+		{
+			"en_modified": 934,
+			"entityName": "2012년_9월",
+			"st_modified": 926,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 926,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2012년_9월",
+			"is_target": true,
+			"en": 934,
+			"id": 49
+		},
+		{
+			"en_modified": 965,
+			"entityName": "런던",
+			"st_modified": 963,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 963,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "런던",
+			"is_target": true,
+			"en": 965,
+			"id": 50
+		},
+		{
+			"en_modified": 970,
+			"entityName": "버밍엄",
+			"st_modified": 967,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 967,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "버밍엄",
+			"is_target": true,
+			"en": 970,
+			"id": 51
+		},
+		{
+			"en_modified": 975,
+			"entityName": "리버풀",
+			"st_modified": 972,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 972,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "리버풀",
+			"is_target": true,
+			"en": 975,
+			"id": 52
+		},
+		{
+			"en_modified": 982,
+			"entityName": "영국",
+			"st_modified": 980,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 980,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "영국",
+			"is_target": true,
+			"en": 982,
+			"id": 53
+		},
+		{
+			"en_modified": 993,
+			"st_modified": 989,
+			"coref_index": 1118,
+			"entityName": "아일랜드",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 989,
+			"ancestor": "1-46",
+			"ne_type": "LOCATION",
+			"surface": "아일랜드",
+			"is_target": true,
+			"en": 993,
+			"id": 54
+		},
+		{
+			"en_modified": 756,
+			"st_modified": 750,
+			"coref_index": 1117,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 750,
+			"ancestor": "1-3",
+			"ne_type": "PERSON",
+			"surface": "더_스크립트",
+			"is_target": true,
+			"en": 756,
+			"id": 55
+		},
+		{
+			"en_modified": 759,
+			"entityName": "",
+			"st_modified": 757,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 757,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "밴드",
+			"is_target": true,
+			"en": 759,
+			"id": 56
+		},
+		{
+			"en_modified": 777,
+			"entityName": "",
+			"st_modified": 775,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 775,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "앨범",
+			"is_target": true,
+			"en": 777,
+			"id": 57
+		},
+		{
+			"en_modified": 811,
+			"st_modified": 809,
+			"coref_index": 1119,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 809,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "앨범",
+			"is_target": true,
+			"en": 811,
+			"id": 58
+		},
+		{
+			"en_modified": 822,
+			"entityName": "",
+			"st_modified": 820,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 820,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공동",
+			"is_target": true,
+			"en": 822,
+			"id": 59
+		},
+		{
+			"en_modified": 827,
+			"entityName": "",
+			"st_modified": 825,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 825,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "작업",
+			"is_target": true,
+			"en": 827,
+			"id": 60
+		},
+		{
+			"en_modified": 833,
+			"st_modified": 831,
+			"coref_index": 1119,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 831,
+			"ancestor": "1-58",
+			"ne_type": "ETC",
+			"surface": "앨범",
+			"is_target": true,
+			"en": 833,
+			"id": 61
+		},
+		{
+			"en_modified": 848,
+			"entityName": "",
+			"st_modified": 846,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 846,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "성공",
+			"is_target": true,
+			"en": 848,
+			"id": 62
+		},
+		{
+			"en_modified": 882,
+			"entityName": "",
+			"st_modified": 880,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 880,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "성적",
+			"is_target": true,
+			"en": 882,
+			"id": 63
+		},
+		{
+			"en_modified": 941,
+			"st_modified": 939,
+			"coref_index": 1119,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 939,
+			"ancestor": "1-58",
+			"ne_type": "ETC",
+			"surface": "앨범",
+			"is_target": true,
+			"en": 941,
+			"id": 64
+		},
+		{
+			"en_modified": 945,
+			"entityName": "",
+			"st_modified": 943,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 943,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "발매",
+			"is_target": true,
+			"en": 945,
+			"id": 65
+		},
+		{
+			"en_modified": 998,
+			"entityName": "",
+			"st_modified": 996,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 996,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투어",
+			"is_target": true,
+			"en": 998,
+			"id": 66
+		},
+		{
+			"en_modified": 1001,
+			"entityName": "",
+			"st_modified": 999,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 999,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "공연",
+			"is_target": true,
+			"en": 1001,
+			"id": 67
+		}
+	],
+	"globalSID": "3024439,3024440,3024441,3024442,3024443,3024444,3024445,3024446,3024447,3024448,3024449,3024450,3024451,3024452,3024453,3024454,3024455,3024456,3024457,3024458,3024459",
+	"plainText": "대니_존_마크_루크_오도너휴(, 1980년_10월_3일 ~ )는 아일랜드의 싱어송_라이터이자 랩퍼로서 얼터너티브_록_밴드인 더_스크립트의 리더로서 알려져있다. 또한 텔레비전_리얼리티_쇼 \"더_보이스_UK\"(The Voice UK)의 코치로도 알려져 있다. 젊은_시절 대니_오도너휴는 섀이_오도너휴(Shay O'Donoghue)와 키보드_연주자인 애일리시_오도너휴(Ailish O'Donoghue) 사이에서 태어났다. 그는 더블린의 발린티어(Ballinteer)에 있던 그의 집안의 여섯 아이들 중 가장 막내였다. 그가 어렸을 때, 그는 처음에 음악가가 된다는 생각에 반대했었다. 하지만 결국, 음악적_경력을 계속 쌓기 위하여 퇴직증명서를 완성하기 전에 그만두었다. 대니 오도너휴는 다음과 같이 말했다: '저는 저의 아버지를 숭배하다시피했어요. 저는 아버지에게 음악을 만들어서 아버지에게 매번 급료마냥 드렸죠.'. 초기의_경력 대니 오도너휴는 유니버설_레코드 회사에 들어간 이후, 1990년대_후반에 마이타운(Mytown)이라고 불리는 밴드에 마크_시언과 함께 소속되어있었다. 밴드가 적당한 성공을 거두자, 그는 브리트니_스피어스와 보이즈_투_멘, TLC와 같은 그룹을 위해 노래를 만들기 위하여 시언과 함께 로스_앤젤레스로 이동했다. 10년 동안의 작사 경험 이후, 그는 마크_시언과 함께 다시 더블린으로 돌아갔다. 그리고 드럼 연주자였던 글렌_파워를 영입하고 자신들의 음악을 만들기 시작한다. 그들은 2001년에 더_스크립트를 결성했다. 더_스크립트 밴드는 2008년_8월에 그들의 앨범 '스크립트'(The Script)를 발매한다. 그는 이 앨범의 모든 곡들을 공동으로 작업했다. 앨범은 아일랜드에서 상업적 성공을 거두었고, 동시에 아이리쉬_앨범_차트에서 1위를 하는 성적을 거두었다. 밴드는 이후 2010년_9월에 Science and Faith과 2012년_9월에 #3 앨범을 발매했다. 이는 밴드가 앞으로 계속 런던과 버밍엄, 리버풀과 같은 영국의 도시들과 아일랜드에서 투어 공연을 할 것임을 확인하게 했다. ",
+	"docID": "917990",
+	"ModifiedText": "대니 존 마크 루크 오도너휴(, 1980년 10월 3일 ~ )는 아일랜드의 싱어송 라이터이자 랩퍼로서 얼터너티브 록 밴드인 더 스크립트의 리더로서 알려져있다. 또한 텔레비전 리얼리티 쇼 \"더 보이스 UK\"(The Voice UK)의 코치로도 알려져 있다. 젊은 시절 대니 오도너휴는 섀이 오도너휴(Shay O'Donoghue)와 키보드 연주자인 애일리시 오도너휴(Ailish O'Donoghue) 사이에서 태어났다. 그는 더블린의 발린티어(Ballinteer)에 있던 그의 집안의 여섯 아이들 중 가장 막내였다. 그가 어렸을 때, 그는 처음에 음악가가 된다는 생각에 반대했었다. 하지만 결국, 음악적 경력을 계속 쌓기 위하여 퇴직증명서를 완성하기 전에 그만두었다. 대니 오도너휴는 다음과 같이 말했다: '저는 저의 아버지를 숭배하다시피했어요. 저는 아버지에게 음악을 만들어서 아버지에게 매번 급료마냥 드렸죠.'. 초기의 경력 대니 오도너휴는 유니버설 레코드 회사에 들어간 이후, 1990년대 후반에 마이타운(Mytown)이라고 불리는 밴드에 마크 시언과 함께 소속되어있었다. 밴드가 적당한 성공을 거두자, 그는 브리트니 스피어스와 보이즈 투 멘, TLC와 같은 그룹을 위해 노래를 만들기 위하여 시언과 함께 로스 앤젤레스로 이동했다. 10년 동안의 작사 경험 이후, 그는 마크 시언과 함께 다시 더블린으로 돌아갔다. 그리고 드럼 연주자였던 글렌 파워를 영입하고 자신들의 음악을 만들기 시작한다. 그들은 2001년에 더 스크립트를 결성했다. 더 스크립트 밴드는 2008년 8월에 그들의 앨범 '스크립트'(The Script)를 발매한다. 그는 이 앨범의 모든 곡들을 공동으로 작업했다. 앨범은 아일랜드에서 상업적 성공을 거두었고, 동시에 아이리쉬 앨범 차트에서 1위를 하는 성적을 거두었다. 밴드는 이후 2010년 9월에 Science and Faith과 2012년 9월에 #3 앨범을 발매했다. 이는 밴드가 앞으로 계속 런던과 버밍엄, 리버풀과 같은 영국의 도시들과 아일랜드에서 투어 공연을 할 것임을 확인하게 했다. "
+}

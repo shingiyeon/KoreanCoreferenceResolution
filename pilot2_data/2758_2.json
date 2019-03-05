@@ -1,0 +1,115 @@
+{
+	"docID": "2758",
+	"globalSID": "44181,44182",
+	"pronouns": [
+		{
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "이 정의",
+			"id": 0,
+			"st": 54
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "고대_노르드어",
+			"entityName": "고대_노르드어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 40,
+			"ancestor": "-1",
+			"surface": "북게르만어군",
+			"entityName": "북게르만어군"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 67,
+			"ancestor": "1-5",
+			"coref_index": 388,
+			"surface": "아이슬란드",
+			"entityName": "아이슬란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 74,
+			"ancestor": "1-8",
+			"coref_index": 389,
+			"surface": "페로_제도",
+			"entityName": "페로_제도"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"coref_index": 397,
+			"surface": "스웨덴어",
+			"entityName": "스웨덴어"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 91,
+			"ancestor": "1-4",
+			"coref_index": 390,
+			"surface": "핀란드",
+			"entityName": "핀란드"
+		}
+	],
+	"plainText": "언어학이나 문화 연구에서는 고대_노르드어가 사용되었던 현재의 북게르만어군 언어 사용권을 말한다. 이 정의에서는 아이슬란드와 페로_제도 및 스웨덴어를 사용하는 핀란드 일부 지역에 해당한다."
+}

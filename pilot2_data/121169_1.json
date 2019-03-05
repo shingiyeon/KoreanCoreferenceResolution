@@ -1,0 +1,135 @@
+{
+	"docID": "121169",
+	"globalSID": "886039,886040",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 112,
+			"surface": "오범석",
+			"entityName": "오범석"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"Activity",
+				"Sport"
+			],
+			"st": 33,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "축구",
+			"entityName": "축구"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "-1",
+			"surface": "풀백",
+			"entityName": "풀백"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 58,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 66,
+			"ancestor": "-1",
+			"surface": "수비형_미드필더",
+			"entityName": "수비형_미드필더"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "K리그_클래식",
+			"entityName": "K리그_클래식"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 87,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "강원_FC",
+			"entityName": "강원_FC"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 21,
+			"ancestor": "",
+			"surface": "1984년_7월_29일",
+			"entityName": ""
+		}
+	],
+	"plainText": "오범석(吳範錫, 1984년_7월_29일 ~ )은 대한민국의 축구 선수로서 포지션은 오른쪽 풀백이며 가끔 수비형_미드필더로 뛰기도 한다. 현재 K리그_클래식 강원_FC에 소속되어 있다."
+}

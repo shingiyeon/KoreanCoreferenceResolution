@@ -1,0 +1,38 @@
+{
+	"docID": "1439022",
+	"globalSID": "3722263",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 20,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 30,
+			"ancestor": "-1",
+			"coref_index": 212,
+			"surface": "UEFA_컵위너스컵",
+			"entityName": "UEFA_컵위너스컵"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 38,
+			"ancestor": "-1",
+			"surface": "1번째_대회",
+			"entityName": ""
+		}
+	],
+	"plainText": "UEFA 컵위너스컵 1960-61은 UEFA_컵위너스컵의 1번째_대회이다."
+}

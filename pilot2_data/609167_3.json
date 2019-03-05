@@ -1,0 +1,92 @@
+{
+	"docID": "609167",
+	"globalSID": "2410386",
+	"pronouns": [
+		{
+			"en": 71,
+			"st": 64,
+			"surface": "여러 전투에서",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Noble"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "오다_노부나가",
+			"entityName": "오다_노부나가"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 18,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 25,
+			"ancestor": "1-0",
+			"coref_index": 727,
+			"surface": "삿사_나리마사",
+			"entityName": "삿사_나리마사"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 32,
+			"ancestor": "-1",
+			"surface": "우마마와리",
+			"entityName": "우마마와리"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "오다_가문",
+			"entityName": "오다_가문"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 80,
+			"ancestor": "-1",
+			"coref_index": 729,
+			"surface": "오다군",
+			"entityName": "오다_군"
+		}
+	],
+	"plainText": "오다_노부나가의 시종으로 들어간 삿사_나리마사는 우마마와리(馬廻)로 활약하여 전공을 세우고, 오다_가문의 무장으로 여러 전투에서 활약하여 오다군의 흑모의 무리의 장수가 되었다."
+}

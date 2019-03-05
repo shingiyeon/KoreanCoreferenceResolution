@@ -1,0 +1,148 @@
+{
+	"docID": "365280",
+	"globalSID": "1856375",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 511,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 4,
+			"st": 0,
+			"surface": "그의 딸",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 13,
+			"st": 0,
+			"surface": "그의 딸 마리아_슈라이버",
+			"id": 2,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"st": 5,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "마리아_슈라이버",
+			"entityName": "마리아_슈라이버"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "오스트리아",
+			"entityName": "오스트리아"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 44,
+			"ancestor": "1-8",
+			"coref_index": 518,
+			"surface": "캘리포니아_주지사",
+			"entityName": "캘리포니아_주"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Actor",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"Artist",
+				"President"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 55,
+			"ancestor": "1-8",
+			"coref_index": 518,
+			"surface": "아널드_슈워제네거",
+			"entityName": "아널드_슈워제네거"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 25,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 30,
+			"ancestor": "-1",
+			"surface": "영화_배우",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 57,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "부인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "-1",
+			"surface": "딸",
+			"entityName": ""
+		}
+	],
+	"plainText": "그의 딸 마리아_슈라이버는 오스트리아 출신의 영화_배우로 현재 캘리포니아_주지사인 아널드_슈워제네거의 부인이다."
+}

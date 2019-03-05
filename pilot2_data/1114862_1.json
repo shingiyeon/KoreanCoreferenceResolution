@@ -1,0 +1,80 @@
+{
+	"docID": "1114862",
+	"globalSID": "3353314",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 18,
+			"ancestor": "-1",
+			"coref_index": 35,
+			"surface": "마르코_혼파이_파비안_데_라_모라",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 53,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 65,
+			"ancestor": "",
+			"surface": "1989년_7월_21일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 67,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 77,
+			"ancestor": "-1",
+			"surface": "할리스코_주_사포판",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 83,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 93,
+			"ancestor": "-1",
+			"surface": "멕시코의_축구_선수",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 99,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 123,
+			"ancestor": "-1",
+			"surface": "푸스발-분데스리가의_아인트라흐트_프랑크푸르트",
+			"entityName": ""
+		}
+	],
+	"plainText": "마르코_혼파이_파비안_데_라_모라 (Marco Jhonfai Fabi?n de la Mora, 1989년_7월_21일, 할리스코_주_사포판 ~) 는 멕시코의_축구_선수로, 현재 푸스발-분데스리가의_아인트라흐트_프랑크푸르트 소속이다."
+}

@@ -1,0 +1,993 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"st": 57,
+			"eType": "WIKILINK",
+			"entityName": "A리그",
+			"en": 60,
+			"is_target": true,
+			"surface": "A리그",
+			"coref_index": 426,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 62,
+			"eType": "WIKILINK",
+			"entityName": "브리즈번_로어",
+			"en": 69,
+			"is_target": true,
+			"surface": "브리즈번_로어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 72,
+			"eType": "WIKILINK",
+			"entityName": "수비수",
+			"en": 75,
+			"is_target": true,
+			"surface": "수비수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 84,
+			"eType": "WIKILINK",
+			"entityName": "2009년",
+			"en": 89,
+			"is_target": false,
+			"surface": "2009년",
+			"coref_index": 428,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 90,
+			"eType": "WIKILINK",
+			"entityName": "K리그",
+			"en": 93,
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 423,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 95,
+			"eType": "WIKILINK",
+			"entityName": "인천_유나이티드_FC",
+			"en": 103,
+			"is_target": true,
+			"surface": "인천_유나이티드",
+			"coref_index": 427,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 114,
+			"eType": "WIKILINK",
+			"entityName": "K리그",
+			"en": 117,
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 423,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 7,
+			"ne_type": "PERSON",
+			"st": 129,
+			"eType": "ELU",
+			"entityName": "제이드",
+			"en": 132,
+			"is_target": true,
+			"surface": "제이드",
+			"coref_index": 424,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "TIME",
+			"st": 13,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 24,
+			"is_target": false,
+			"surface": "1982년_1월_7일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "LOCATION",
+			"st": 30,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 40,
+			"is_target": true,
+			"surface": "오스트레일리아_타리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 45,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 50,
+			"is_target": true,
+			"surface": "축구_선수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 10,
+			"is_target": true,
+			"surface": "제이드_브런슨_노스",
+			"coref_index": 424,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"st": 147,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 150,
+			"is_target": true,
+			"surface": "축구인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 160,
+			"eType": "ELU",
+			"entityName": "제이드_노스",
+			"en": 166,
+			"is_target": true,
+			"surface": "제이드_노스",
+			"coref_index": 424,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 14,
+			"ne_type": "LOCATION",
+			"st": 168,
+			"eType": "WIKILINK",
+			"entityName": "뉴질랜드",
+			"en": 172,
+			"is_target": true,
+			"surface": "뉴질랜드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 193,
+			"eType": "WIKILINK",
+			"entityName": "오스트레일리아",
+			"en": 200,
+			"is_target": true,
+			"surface": "오스트레일리아",
+			"coref_index": 425,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 16,
+			"ne_type": "LOCATION",
+			"st": 202,
+			"eType": "WIKILINK",
+			"entityName": "브리즈번",
+			"en": 206,
+			"is_target": true,
+			"surface": "브리즈번",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 17,
+			"ne_type": "LOCATION",
+			"st": 218,
+			"eType": "WIKILINK",
+			"entityName": "캔버라",
+			"en": 221,
+			"is_target": true,
+			"surface": "캔버라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 18,
+			"ne_type": "ORGANIZATION",
+			"st": 226,
+			"eType": "WIKILINK",
+			"entityName": "AIS",
+			"en": 229,
+			"is_target": true,
+			"surface": "AIS",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 19,
+			"ne_type": "TIME",
+			"st": 244,
+			"eType": "WIKILINK",
+			"entityName": "1998년",
+			"en": 249,
+			"is_target": false,
+			"surface": "1998년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"st": 250,
+			"eType": "WIKILINK",
+			"entityName": "브리즈번_스트라이커스",
+			"en": 261,
+			"is_target": true,
+			"surface": "브리즈번_스트라이커스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 264,
+			"eType": "WIKILINK",
+			"entityName": "내셔널_사커_리그",
+			"en": 273,
+			"is_target": true,
+			"surface": "내셔널_사커_리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 22,
+			"ne_type": "TIME",
+			"st": 307,
+			"eType": "WIKILINK",
+			"entityName": "2001년",
+			"en": 312,
+			"is_target": false,
+			"surface": "2001년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 23,
+			"ne_type": "ORGANIZATION",
+			"st": 313,
+			"eType": "WIKILINK",
+			"entityName": "시드니_올림픽_FC",
+			"en": 323,
+			"is_target": true,
+			"surface": "시드니_올림픽_FC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 24,
+			"ne_type": "TIME",
+			"st": 343,
+			"eType": "WIKILINK",
+			"entityName": "2003년",
+			"en": 348,
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 25,
+			"ne_type": "ORGANIZATION",
+			"st": 349,
+			"eType": "WIKILINK",
+			"entityName": "퍼스_글로리_FC",
+			"en": 358,
+			"is_target": true,
+			"surface": "퍼스_글로리_FC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 26,
+			"ne_type": "TIME",
+			"st": 373,
+			"eType": "WIKILINK",
+			"entityName": "2005년",
+			"en": 378,
+			"is_target": false,
+			"surface": "2005년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 379,
+			"eType": "WIKILINK",
+			"entityName": "뉴캐슬_유나이티드_제츠_FC",
+			"en": 394,
+			"is_target": true,
+			"surface": "뉴캐슬_유나이티드_제츠_FC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 432,
+			"eType": "WIKILINK",
+			"entityName": "폴_오콘",
+			"en": 436,
+			"is_target": true,
+			"surface": "폴_오콘",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "TIME",
+			"st": 412,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 422,
+			"is_target": true,
+			"surface": "2007-08_시즌",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "TIME",
+			"st": 330,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 335,
+			"is_target": false,
+			"surface": "2003년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 462,
+			"eType": "WIKILINK",
+			"en": 470,
+			"entityName": "2008년_6월",
+			"is_target": true,
+			"surface": "2008년_6월",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 32,
+			"ne_type": "LOCATION",
+			"st": 471,
+			"eType": "WIKILINK",
+			"en": 478,
+			"entityName": "오스트레일리아",
+			"is_target": true,
+			"surface": "오스트레일리아",
+			"coref_index": 425,
+			"ancestor": "1-15"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 33,
+			"ne_type": "PERSON",
+			"st": 485,
+			"eType": "ELU",
+			"en": 488,
+			"entityName": "제이드",
+			"is_target": true,
+			"surface": "제이드",
+			"coref_index": 424,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 490,
+			"eType": "WIKILINK",
+			"en": 500,
+			"entityName": "벨기에_주필러_리그",
+			"is_target": true,
+			"surface": "벨기에_주필러_리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 35,
+			"ne_type": "ORGANIZATION",
+			"st": 502,
+			"eType": "WIKILINK",
+			"en": 511,
+			"entityName": "클럽_브루게_KV",
+			"is_target": true,
+			"surface": "클럽_브루게_KV",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 36,
+			"ne_type": "ORGANIZATION",
+			"st": 515,
+			"eType": "WIKILINK",
+			"en": 527,
+			"entityName": "아르메니아_프리미어리그",
+			"is_target": true,
+			"surface": "아르메니아_프리미어리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 529,
+			"eType": "WIKILINK",
+			"en": 534,
+			"entityName": "FC_미카",
+			"is_target": true,
+			"surface": "FC_미카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 38,
+			"ne_type": "ORGANIZATION",
+			"st": 601,
+			"eType": "WIKILINK",
+			"en": 604,
+			"entityName": "A리그",
+			"is_target": true,
+			"surface": "A리그",
+			"coref_index": 426,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 39,
+			"ne_type": "ORGANIZATION",
+			"st": 615,
+			"eType": "WIKILINK",
+			"en": 628,
+			"entityName": "노스퀸즐랜드_퓨어리_FC",
+			"is_target": true,
+			"surface": "노스퀸즐랜드_퓨어리_FC",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "TIME",
+			"st": 644,
+			"eType": "WIKILINK",
+			"en": 651,
+			"entityName": "12월_12일",
+			"is_target": false,
+			"surface": "12월_12일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Currency"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 657,
+			"eType": "WIKILINK",
+			"en": 659,
+			"entityName": "달러",
+			"is_target": true,
+			"surface": "달러",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 42,
+			"ne_type": "ORGANIZATION",
+			"st": 661,
+			"eType": "WIKILINK",
+			"en": 664,
+			"entityName": "K리그",
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 423,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 666,
+			"eType": "WIKILINK",
+			"en": 674,
+			"entityName": "인천_유나이티드_FC",
+			"is_target": true,
+			"surface": "인천_유나이티드",
+			"coref_index": 427,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 44,
+			"ne_type": "ORGANIZATION",
+			"st": 708,
+			"eType": "WIKILINK",
+			"en": 711,
+			"entityName": "K리그",
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 423,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "TIME",
+			"st": 573,
+			"eType": "NEW",
+			"en": 585,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2008년_11월_3일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 46,
+			"ne_type": "ORGANIZATION",
+			"st": 724,
+			"eType": "WIKILINK",
+			"entityName": "인천_유나이티드_FC",
+			"en": 732,
+			"is_target": true,
+			"surface": "인천_유나이티드",
+			"coref_index": 427,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 740,
+			"eType": "WIKILINK",
+			"entityName": "K리그_2009",
+			"en": 745,
+			"is_target": true,
+			"surface": "2009년",
+			"coref_index": 428,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"id": 48,
+			"ne_type": "ORGANIZATION",
+			"st": 746,
+			"eType": "WIKILINK",
+			"entityName": "K리그",
+			"en": 749,
+			"is_target": true,
+			"surface": "K리그",
+			"coref_index": 423,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 49,
+			"ne_type": "ORGANIZATION",
+			"st": 755,
+			"eType": "WIKILINK",
+			"entityName": "부산_아이파크",
+			"en": 762,
+			"is_target": true,
+			"surface": "부산_아이파크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 50,
+			"ne_type": "PERSON",
+			"st": 821,
+			"eType": "ELU",
+			"entityName": "제이드",
+			"en": 824,
+			"is_target": true,
+			"surface": "제이드",
+			"coref_index": 424,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 51,
+			"ne_type": "ORGANIZATION",
+			"st": 826,
+			"eType": "WIKILINK",
+			"entityName": "오스트레일리아_축구_국가대표팀",
+			"en": 831,
+			"is_target": true,
+			"surface": "국가대표팀",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 52,
+			"ne_type": "TIME",
+			"st": 897,
+			"eType": "WIKILINK",
+			"entityName": "2010년",
+			"en": 902,
+			"is_target": false,
+			"surface": "2010년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 53,
+			"ne_type": "ETC",
+			"st": 903,
+			"eType": "WIKILINK",
+			"entityName": "노르웨이_프리미어리그",
+			"en": 914,
+			"is_target": true,
+			"surface": "노르웨이_프리미어리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 54,
+			"ne_type": "ORGANIZATION",
+			"st": 916,
+			"eType": "WIKILINK",
+			"entityName": "트롬쇠_IL",
+			"en": 922,
+			"is_target": true,
+			"surface": "트롬쇠_IL",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "LOCATION",
+			"st": 870,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 875,
+			"is_target": true,
+			"surface": "유럽_무대",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1644884,1644885,1644886,1644887,1644888,1644889,1644890,1644891,1644892,1644893,1644894,1644895,1644896",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 243,
+			"ancestor": "-1",
+			"st": 240,
+			"surface": "그 뒤"
+		},
+		{
+			"id": 1,
+			"en": 292,
+			"ancestor": "-1",
+			"st": 286,
+			"surface": "한 명으로서"
+		},
+		{
+			"id": 2,
+			"ancestor": "1-11",
+			"st": 409,
+			"en": 410,
+			"surface": "그",
+			"coref_index": 424
+		},
+		{
+			"id": 3,
+			"ancestor": "1-11",
+			"st": 586,
+			"en": 587,
+			"surface": "그",
+			"coref_index": 424
+		},
+		{
+			"id": 4,
+			"ancestor": "1-11",
+			"st": 721,
+			"en": 722,
+			"surface": "그",
+			"coref_index": 424
+		},
+		{
+			"id": 5,
+			"ancestor": "1-47",
+			"st": 814,
+			"en": 817,
+			"surface": "그 해",
+			"coref_index": 428
+		},
+		{
+			"id": 6,
+			"en": 820,
+			"surface": "그 해 8월",
+			"st": 814,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "제이드_브런슨_노스(, 1982년_1월_7일 ~ )는 오스트레일리아_타리 출신의 축구_선수이다. 현재 A리그의 브리즈번_로어에서 수비수를 맡고 있다. 2009년 K리그의 인천_유나이티드에서 활약하였으며, K리그에서 활동할 당시에는 제이드라는 이름으로 활약하였다. 축구인 경력 클럽 경력 제이드_노스는 뉴질랜드에서 자랐으며, 11세에 가족과 함께 오스트레일리아의 브리즈번으로 건너와 15세에 캔버라에 있는 AIS에 다니게 되었다. 그 뒤 1998년 브리즈번_스트라이커스에서 내셔널_사커_리그에서 가장 어린 선수중 한 명으로서 프로 생활을 시작하였고, 2001년 시드니_올림픽_FC로 이적하여 2003년까지 뛰었다. 2003년 퍼스_글로리_FC로 이적하여 활약하였으며, 2005년 뉴캐슬_유나이티드_제츠_FC로 팀을 옮겨 활약하였다. 그는 2007-08_시즌을 앞두고 은퇴한 폴_오콘을 대신하여 팀의 새로운 주장으로 활약하였다. 2008년_6월 오스트레일리아의 언론들은 제이드가 벨기에_주필러_리그의 클럽_브루게_KV 또는 아르메니아_프리미어리그의 FC_미카와 계약할 것이라고 보도하였으나, 단순한 소문이었던 것으로 밝혀졌다. 2008년_11월_3일 그는 2009-10 시즌에 A리그에 새롭게 참가하는 노스퀸즐랜드_퓨어리_FC로 이적한다고 발표하였으나, 12월_12일 200만 달러에 K리그의 인천_유나이티드로 다시 이적하면서 '아시아쿼터제'를 활용하여 영입된 최초의 K리그 선수가 되었다. 그는 인천_유나이티드로 이적한 뒤 2009년 K리그 개막전인 부산_아이파크와의 경기에서 훌륭한 데뷔전을 치렀으나, 적응에 실패하며 정규리그에서 6경기 출장에 그쳤다. 그 해 8월 제이드는 국가대표팀으로의 재발탁에 대한 열망과 함께 팀을 떠나고 싶다는 의사를 나타내며 유럽_무대로의 이적설이 제기되기도 하였고, 결국 2010년 노르웨이_프리미어리그의 트롬쇠_IL로 이적하였다. ",
+	"docID": "300687"
+}

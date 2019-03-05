@@ -1,0 +1,160 @@
+{
+	"docID": "247635",
+	"globalSID": "1420742,1420743,1420744,1420745",
+	"pronouns": [
+		{
+			"st": 50,
+			"coref_index": 337,
+			"id": 0,
+			"en": 51,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"en": 57,
+			"ancestor": "-1",
+			"surface": "그의 아버지는",
+			"id": 1,
+			"st": 50
+		},
+		{
+			"st": 92,
+			"coref_index": 337,
+			"id": 2,
+			"en": 93,
+			"ancestor": "3-0",
+			"surface": "그"
+		},
+		{
+			"en": 99,
+			"ancestor": "-1",
+			"surface": "그의 어머니는",
+			"id": 3,
+			"st": 92
+		},
+		{
+			"en": 121,
+			"ancestor": "-1",
+			"surface": "그들은",
+			"id": 4,
+			"st": 118
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Scientist",
+				"Agent",
+				"Person"
+			],
+			"st": 4,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 10,
+			"ancestor": "1-0",
+			"coref_index": 337,
+			"surface": "제임스_와트",
+			"entityName": "제임스_와트"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 31,
+			"ancestor": "1-1",
+			"coref_index": 338,
+			"surface": "스코틀랜드",
+			"entityName": "스코틀랜드"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Town",
+				"Place"
+			],
+			"st": 38,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 41,
+			"ancestor": "-1",
+			"coref_index": 339,
+			"surface": "그리녹",
+			"entityName": "그리녹"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 58,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 61,
+			"ancestor": "-1",
+			"surface": "조선공",
+			"entityName": "양헌왕_(고려)"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 84,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "공무원",
+			"entityName": "공무원"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 125,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 128,
+			"ancestor": "-1",
+			"surface": "장로교",
+			"entityName": "장로교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 24,
+			"ancestor": "",
+			"surface": "1736년_1월_19일",
+			"entityName": ""
+		}
+	],
+	"plainText": "성장기 제임스_와트는 1736년_1월_19일, 스코틀랜드의 항구도시 그리녹에서 태어났다. 그의 아버지는 조선공이자, 선주, 하청업자였으며 도시의 고위 공무원이었으며 그의 어머니는 잘 교육받은 명문가의 자제였다. 그들은 모두 장로교인이자 맹신도였다."
+}

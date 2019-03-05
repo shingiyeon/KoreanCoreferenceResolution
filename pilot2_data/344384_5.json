@@ -1,0 +1,121 @@
+{
+	"docID": "344384",
+	"globalSID": "1788381",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "ELU",
+			"entityName": "속편",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 37,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "후속작"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 8,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2013년_5월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 16,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "사랑이야기"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 32,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "컨셉앨범_“연애담”"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 39,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "“연애담2”"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 55,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 77,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "소울밴드_‘에보니힐(Ebonyhill)’"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 79,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "EVENT",
+			"en": 81,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "협연"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 90,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 92,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "공연"
+		}
+	],
+	"plainText": "2013년_5월에는 사랑이야기만을 담은 컨셉앨범_“연애담”의 후속작인 “연애담2”를 발표하였으며, 소울밴드_‘에보니힐(Ebonyhill)’과 협연하여 세 차례의 공연을 개최하기도 하였다."
+}

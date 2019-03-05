@@ -1,0 +1,124 @@
+{
+	"docID": "573412",
+	"globalSID": "2339162",
+	"pronouns": [],
+	"parID": "9",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 19,
+			"ancestor": "-1",
+			"coref_index": 724,
+			"surface": "범인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "극장판_THE_MOVIE",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "어머니",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 28,
+			"ancestor": "9-0",
+			"coref_index": 724,
+			"surface": "아들",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 42,
+			"ancestor": "1-0",
+			"coref_index": 723,
+			"surface": "아오시마",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 45,
+			"ancestor": "-1",
+			"surface": "칼",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 70,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "회의실",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 108,
+			"ancestor": "-1",
+			"surface": "명대사",
+			"entityName": ""
+		}
+	],
+	"plainText": "극장판_THE_MOVIE에서는 범인의 어머니가 아들을 보호하기 위해 아오시마를 칼로 찌르지만 다행히 중상에 그쳤고, \"사건은 회의실에서 일어나는 게 아니야! 현장에서 일어나는 거야!\"라는 명대사를 남겼다."
+}

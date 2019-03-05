@@ -1,0 +1,1336 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "박순천",
+			"en": 3,
+			"is_target": true,
+			"surface": "박순천",
+			"coref_index": 832,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 23,
+			"eType": "WIKILINK",
+			"entityName": "음력_9월_10일",
+			"en": 32,
+			"is_target": true,
+			"surface": "음력_9월_10일",
+			"coref_index": 835,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 50,
+			"eType": "WIKILINK",
+			"entityName": "일제_강점기",
+			"en": 56,
+			"is_target": true,
+			"surface": "일제_강점기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 71,
+			"eType": "WIKILINK",
+			"entityName": "대한민국",
+			"en": 75,
+			"is_target": true,
+			"surface": "대한민국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 9,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 22,
+			"is_target": false,
+			"surface": "1898년_10월_24일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 36,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 47,
+			"is_target": false,
+			"surface": "1983년_1월_9일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 58,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 63,
+			"is_target": true,
+			"surface": "독립운동가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "PERSON",
+			"st": 65,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 68,
+			"is_target": true,
+			"surface": "교육자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 77,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 80,
+			"is_target": true,
+			"surface": "저술가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 82,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 87,
+			"is_target": true,
+			"surface": "여성운동가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 89,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 92,
+			"is_target": true,
+			"surface": "정치인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 103,
+			"eType": "WIKILINK",
+			"entityName": "민주당_(1955년)",
+			"en": 106,
+			"is_target": true,
+			"surface": "민주당",
+			"coref_index": 831,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"PrimeMinister",
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 125,
+			"eType": "WIKILINK",
+			"entityName": "장면",
+			"en": 127,
+			"is_target": true,
+			"surface": "장면",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 129,
+			"eType": "WIKILINK",
+			"entityName": "곽상훈",
+			"en": 132,
+			"is_target": true,
+			"surface": "곽상훈",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 134,
+			"eType": "WIKILINK",
+			"entityName": "정일형",
+			"en": 137,
+			"is_target": true,
+			"surface": "정일형",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Governor",
+				"Agent",
+				"Person"
+			],
+			"id": 15,
+			"ne_type": "PERSON",
+			"st": 139,
+			"eType": "WIKILINK",
+			"entityName": "이철승",
+			"en": 142,
+			"is_target": true,
+			"surface": "이철승",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 201,
+			"eType": "ELU",
+			"entityName": "민주당_(미국)",
+			"en": 204,
+			"is_target": true,
+			"surface": "민주당",
+			"coref_index": 831,
+			"ancestor": "1-11"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 17,
+			"ne_type": "LOCATION",
+			"st": 217,
+			"eType": "ELU",
+			"entityName": "대한민국_제4공화국",
+			"en": 221,
+			"is_target": true,
+			"surface": "유신정권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 248,
+			"eType": "ELU",
+			"entityName": "이사_(법인)",
+			"en": 251,
+			"is_target": true,
+			"surface": "이사장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 311,
+			"eType": "ELU",
+			"entityName": "박순천",
+			"en": 314,
+			"is_target": true,
+			"surface": "박순천",
+			"coref_index": 832,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "PERSON",
+			"st": 157,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 160,
+			"is_target": true,
+			"surface": "지도자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 253,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 262,
+			"is_target": true,
+			"surface": "대통령국정자문위원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 275,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 278,
+			"is_target": true,
+			"surface": "박명련",
+			"coref_index": 832,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 234,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 239,
+			"is_target": true,
+			"surface": "육영수여사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 24,
+			"ne_type": "LOCATION",
+			"st": 360,
+			"eType": "WIKILINK",
+			"entityName": "서울특별시",
+			"en": 365,
+			"is_target": true,
+			"surface": "서울특별시",
+			"coref_index": 833,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "LOCATION",
+			"st": 327,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 335,
+			"is_target": true,
+			"surface": "경상남도_동래군",
+			"coref_index": 834,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "LOCATION",
+			"st": 337,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 345,
+			"is_target": true,
+			"surface": "경상남도_기장군",
+			"coref_index": 837,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "LOCATION",
+			"st": 347,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 355,
+			"is_target": true,
+			"surface": "경상북도_고령군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 371,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 373,
+			"is_target": true,
+			"surface": "그녀",
+			"coref_index": 832,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"st": 375,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 389,
+			"is_target": true,
+			"surface": "1950년_대한부인회_소속",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "PERSON",
+			"st": 392,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 396,
+			"is_target": true,
+			"surface": "국회의원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "LOCATION",
+			"st": 410,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 412,
+			"is_target": true,
+			"surface": "부산",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "LOCATION",
+			"st": 414,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 416,
+			"is_target": true,
+			"surface": "서울",
+			"coref_index": 833,
+			"ancestor": "1-24"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 428,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 444,
+			"is_target": true,
+			"surface": "2,_4,_5,_6대_국회의원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 34,
+			"ne_type": "TIME",
+			"st": 451,
+			"eType": "WIKILINK",
+			"entityName": "1972년",
+			"en": 456,
+			"is_target": false,
+			"surface": "1972년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 35,
+			"ne_type": "PERSON",
+			"st": 486,
+			"eType": "WIKILINK",
+			"entityName": "송건호",
+			"en": 489,
+			"is_target": true,
+			"surface": "송건호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 515,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 523,
+			"is_target": true,
+			"surface": "경상남도_동래군",
+			"coref_index": 834,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "PERSON",
+			"st": 473,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 476,
+			"is_target": true,
+			"surface": "친5공",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 556,
+			"eType": "WIKILINK",
+			"en": 565,
+			"entityName": "음력_9월_10일",
+			"is_target": true,
+			"surface": "음력_9월_10일",
+			"coref_index": 835,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 567,
+			"eType": "WIKILINK",
+			"en": 571,
+			"entityName": "경상남도",
+			"is_target": true,
+			"surface": "경상남도",
+			"coref_index": 836,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 572,
+			"eType": "WIKILINK",
+			"en": 575,
+			"entityName": "동래군",
+			"is_target": true,
+			"surface": "동래군",
+			"coref_index": 834,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 583,
+			"eType": "ELU",
+			"en": 586,
+			"entityName": "박재형_(1948년)",
+			"is_target": true,
+			"surface": "박재형",
+			"coref_index": 838,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 42,
+			"ne_type": "LOCATION",
+			"st": 600,
+			"eType": "WIKILINK",
+			"en": 604,
+			"entityName": "경상남도",
+			"is_target": true,
+			"surface": "경상남도",
+			"coref_index": 836,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 43,
+			"ne_type": "LOCATION",
+			"st": 605,
+			"eType": "WIKILINK",
+			"en": 608,
+			"entityName": "기장군",
+			"is_target": true,
+			"surface": "기장군",
+			"coref_index": 837,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 609,
+			"eType": "WIKILINK",
+			"en": 612,
+			"entityName": "기장읍",
+			"is_target": true,
+			"surface": "기장읍",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 636,
+			"eType": "ELU",
+			"en": 639,
+			"entityName": "아버지",
+			"is_target": true,
+			"surface": "아버지",
+			"coref_index": 838,
+			"ancestor": "1-41"
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 652,
+			"eType": "ELU",
+			"en": 655,
+			"entityName": "일본인",
+			"is_target": true,
+			"surface": "일본인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "TIME",
+			"st": 542,
+			"eType": "NEW",
+			"en": 555,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1898년_10월_24일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 578,
+			"eType": "NEW",
+			"en": 581,
+			"entityName": "",
+			"is_target": true,
+			"surface": "한학자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 588,
+			"eType": "NEW",
+			"en": 589,
+			"entityName": "",
+			"is_target": true,
+			"surface": "딸",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "PERSON",
+			"st": 681,
+			"eType": "NEW",
+			"en": 687,
+			"entityName": "",
+			"is_target": true,
+			"surface": "기독교_교인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "PERSON",
+			"st": 690,
+			"eType": "NEW",
+			"en": 693,
+			"entityName": "",
+			"is_target": true,
+			"surface": "어머니",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "LOCATION",
+			"st": 613,
+			"eType": "NEW",
+			"en": 616,
+			"entityName": "",
+			"is_target": true,
+			"surface": "대변리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"id": 53,
+			"ne_type": "ORGANIZATION",
+			"st": 765,
+			"eType": "WIKILINK",
+			"en": 773,
+			"entityName": "동래여자고등학교",
+			"is_target": true,
+			"surface": "동래여자고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"id": 54,
+			"ne_type": "LOCATION",
+			"st": 795,
+			"eType": "WIKILINK",
+			"en": 797,
+			"entityName": "마산시",
+			"is_target": true,
+			"surface": "마산",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ORGANIZATION",
+			"st": 779,
+			"eType": "NEW",
+			"en": 787,
+			"entityName": "",
+			"is_target": true,
+			"surface": "부산진일신여학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "ORGANIZATION",
+			"st": 808,
+			"eType": "NEW",
+			"en": 813,
+			"entityName": "",
+			"is_target": true,
+			"surface": "의신여학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "PERSON",
+			"st": 814,
+			"eType": "NEW",
+			"en": 816,
+			"entityName": "",
+			"is_target": true,
+			"surface": "교사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "ETC",
+			"st": 899,
+			"eType": "NEW",
+			"en": 903,
+			"entityName": "",
+			"is_target": true,
+			"surface": "차별대우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "EVENT",
+			"st": 918,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 922,
+			"is_target": true,
+			"surface": "독립운동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 60,
+			"ne_type": "PERSON",
+			"st": 970,
+			"eType": "WIKILINK",
+			"entityName": "이갑성",
+			"en": 973,
+			"is_target": true,
+			"surface": "이갑성",
+			"coref_index": 839,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 61,
+			"ne_type": "PERSON",
+			"st": 983,
+			"eType": "WIKILINK",
+			"entityName": "이갑성",
+			"en": 986,
+			"is_target": true,
+			"surface": "이갑성",
+			"coref_index": 839,
+			"ancestor": "1-60"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 62,
+			"ne_type": "LOCATION",
+			"st": 988,
+			"eType": "WIKILINK",
+			"entityName": "일본",
+			"en": 990,
+			"is_target": true,
+			"surface": "일본",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "TIME",
+			"st": 997,
+			"eType": "WIKILINK",
+			"entityName": "2월_8일",
+			"en": 1002,
+			"is_target": false,
+			"surface": "2월_8일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 1011,
+			"eType": "WIKILINK",
+			"entityName": "2·8_독립선언",
+			"en": 1019,
+			"is_target": true,
+			"surface": "2·8_독립선언",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "TIME",
+			"st": 1087,
+			"eType": "WIKILINK",
+			"entityName": "3월_1일",
+			"en": 1092,
+			"is_target": false,
+			"surface": "3월_1일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Holiday"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 1093,
+			"eType": "WIKILINK",
+			"entityName": "3·1_운동",
+			"en": 1099,
+			"is_target": true,
+			"surface": "3·1_운동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 67,
+			"ne_type": "PERSON",
+			"st": 1112,
+			"eType": "ELU",
+			"entityName": "박순천",
+			"en": 1115,
+			"is_target": true,
+			"surface": "박순천",
+			"coref_index": 832,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 68,
+			"ne_type": "PERSON",
+			"st": 1136,
+			"eType": "ELU",
+			"entityName": "박순천",
+			"en": 1139,
+			"is_target": true,
+			"surface": "박순천",
+			"coref_index": 832,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ETC",
+			"st": 1221,
+			"eType": "WIKILINK",
+			"entityName": "신마산",
+			"en": 1224,
+			"is_target": true,
+			"surface": "신마산",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "ETC",
+			"st": 1229,
+			"eType": "WIKILINK",
+			"entityName": "일본헌병대",
+			"en": 1234,
+			"is_target": true,
+			"surface": "일본헌병대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 71,
+			"ne_type": "PERSON",
+			"st": 1269,
+			"eType": "WIKILINK",
+			"entityName": "이은상",
+			"en": 1272,
+			"is_target": true,
+			"surface": "이은상",
+			"coref_index": 840,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 72,
+			"ne_type": "PERSON",
+			"st": 1281,
+			"eType": "WIKILINK",
+			"entityName": "이은상",
+			"en": 1284,
+			"is_target": true,
+			"surface": "이은상",
+			"coref_index": 840,
+			"ancestor": "1-71"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1346,
+			"eType": "WIKILINK",
+			"entityName": "태극기",
+			"en": 1349,
+			"is_target": true,
+			"surface": "태극기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "PERSON",
+			"st": 944,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 947,
+			"is_target": true,
+			"surface": "박명련",
+			"coref_index": 832,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "LOCATION",
+			"st": 1003,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1008,
+			"is_target": true,
+			"surface": "일본_동경",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "EVENT",
+			"st": 1117,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1121,
+			"is_target": true,
+			"surface": "만세운동",
+			"coref_index": 841,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "EVENT",
+			"st": 1190,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1194,
+			"is_target": true,
+			"surface": "만세운동",
+			"coref_index": 841,
+			"ancestor": "1-76"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "PERSON",
+			"st": 1259,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1264,
+			"is_target": true,
+			"surface": "한석규목사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "PERSON",
+			"st": 1274,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1280,
+			"is_target": true,
+			"surface": "이승규_목사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1354,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1359,
+			"is_target": true,
+			"surface": "독립선언서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "ETC",
+			"st": 1361,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1365,
+			"is_target": true,
+			"surface": "항거계획",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ETC",
+			"st": 1367,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1370,
+			"is_target": true,
+			"surface": "일기장",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "573695,573696,573697,573698,573699,573700,573701,573702,573703,573704,573705,573706,573707,573708,573709,573710,573711,573712,573713,573714,573715,573716",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-0",
+			"st": 99,
+			"en": 101,
+			"surface": "그녀",
+			"coref_index": 832
+		},
+		{
+			"id": 1,
+			"en": 194,
+			"ancestor": "-1",
+			"st": 169,
+			"surface": "5·16 직후 정치금지를 당하였다가 해제 후,"
+		},
+		{
+			"id": 2,
+			"ancestor": "1-0",
+			"st": 371,
+			"en": 373,
+			"surface": "그녀",
+			"coref_index": 832
+		},
+		{
+			"id": 3,
+			"ancestor": "1-0",
+			"st": 875,
+			"en": 876,
+			"surface": "그",
+			"coref_index": 832
+		},
+		{
+			"id": 4,
+			"en": 1064,
+			"surface": "이에",
+			"st": 1062,
+			"ancestor": "-1"
+		},
+		{
+			"id": 5,
+			"en": 1079,
+			"surface": "이에 적극적으로 호응해 줄 것을",
+			"st": 1062,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"ancestor": "1-77",
+			"st": 1203,
+			"en": 1207,
+			"surface": "이 사건",
+			"coref_index": 841
+		},
+		{
+			"id": 7,
+			"en": 1220,
+			"surface": "이 사건으로 일본관헌에게 체포,",
+			"st": 1203,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 1345,
+			"surface": "이곳에서",
+			"st": 1341,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "박순천(朴順天, 1898년_10월_24일(음력_9월_10일) ~ 1983년_1월_9일)은 일제_강점기의 독립운동가, 교육자이며 대한민국의 저술가, 여성운동가, 정치인이다. 이력 그녀는 민주당 창당 후 대표최고위원을 지냈고, 장면, 곽상훈, 정일형, 이철승 등과 함께 민주당 신파의 지도자로 활동하였다. 5·16 직후 정치금지를 당하였다가 해제 후, 1963년 민주당을 재건하였으나, 뒤에 유신정권에서 국토통일원 고문, 육영수여사 추모기념사업회 이사장, 대통령국정자문위원 등을 지냈다. 본명은 박명련(朴命連)으로 뒤에 순천이라는 예명을 사용하다가 1960년 박순천으로 정식 개명하였다. 경상남도_동래군과 경상남도_기장군과 경상북도_고령군을 거쳐 서울특별시에 거주한 그녀는 1950년_대한부인회_소속으로 국회의원에 당선된 것을 시작으로 부산과 서울에서 거듭 당선되면서 2,_4,_5,_6대_국회의원을 지냈다. 1972년 유신체제 출범 이후 친유신, 친5공 인사로 변신하여 송건호 등 재야인사로부터 변절자라는 비판을 받았다. 경상남도_동래군 출신. 생애 학창시절과 교육활동 1898년_10월_24일(음력_9월_10일) 경상남도 동래군에서 한학자인 박재형의 딸로 태어났다. 한때 경상남도 기장군 기장읍 대변리에서 어린 시절을 보냈는데 12세에 아버지가 기장읍내에 나갔다가 일본인에게 상투가 잘린뒤 모욕당하고 돌아왔는가 하면 기독교_교인이던 어머니가 태극기를 꺼내어 담장아래에 묻으면서 통곡하는 것을 보고 나라 잃은 설움을 가슴깊이 간직하고, 교육에 투신하게 되었다고 한다. 동래여자고등학교의 전신인 부산진일신여학교를 졸업 하고 마산 최초의 여학교였던 의신여학교 교사로 부임, 성경 채플담당 교사와, 생리학 겸 동물학 교사가 되었다. 당시 일인교사는 24원의 월급을 받고 그는 12원의 월급을 받아 일본인 교사와의 차별대우에 항의, 싸우기도 했다. 독립운동 독립운동과 수배 생활 1919년 2월 박명련은 일본에서 귀국, 마산에 체류하고 있던 이갑성와 만나게 된다. 이갑성은 일본 유학생들이 2월_8일 일본_동경에서 2·8_독립선언을 했다는 소식을 전해주고 서울에서 3월에 거사 계획이 있을 것임을 알려주고 이에 적극적으로 호응해 줄 것을 부탁받았다. 3월_1일 3·1_운동이 각지에서 발생하자, 박순천도 만세운동에 참가하였다. 3월 5일 박순천은 많은 태극기와 독립선언서를 마산장에 나온 장꾼들에게 나눠 주면서 대한독립만세를 선창하며 만세운동을 주동하였다. 이 사건으로 일본관헌에게 체포, 신마산에 있는 일본헌병대로 끌려가 조사를 받게 되었는데 3월 12일 한석규목사와 시인 이은상, 이승규_목사(이은상의 아버지) 등의 신원보증을 받고 가석방되었다. 12일 헌병대서는 석방과 동시에 가택수색을 실시했는데 이곳에서 태극기를 비롯 독립선언서와 항거계획, 일기장 등이 발견되자 도주, 다시 쫓기는 몸이 되어 야산으로 산행중 밤중에 30리길을 걸어 칠원에 도착했다. ",
+	"docID": "69991"
+}

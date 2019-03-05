@@ -1,0 +1,193 @@
+{
+	"docID": "122108",
+	"globalSID": "893468,893469,893470",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "-1",
+			"surface": "마가야네스_이_안타르티카칠레나_주",
+			"entityName": "마가야네스_이_안타르티카칠레나_주"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "푼타아레나스",
+			"entityName": "푼타아레나스"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 121,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 130,
+			"ancestor": "-1",
+			"surface": "티에라델푸에고_현",
+			"entityName": "티에라델푸에고_현"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 140,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 145,
+			"ancestor": "-1",
+			"surface": "포르베니르",
+			"entityName": "포르베니르"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 157,
+			"ancestor": "-1",
+			"surface": "안타르티카칠레나_현",
+			"entityName": "안타르티카칠레나_현"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Island",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 163,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 169,
+			"ancestor": "-1",
+			"surface": "나바리노_섬",
+			"entityName": "나바리노_섬"
+		},
+		{
+			"kbox_types": [
+				"Town",
+				"ArchitecturalStructure",
+				"Port",
+				"PopulatedPlace",
+				"Settlement",
+				"Infrastructure",
+				"Town",
+				"Place"
+			],
+			"st": 171,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 179,
+			"ancestor": "-1",
+			"coref_index": 120,
+			"surface": "푸에르토윌리암스",
+			"entityName": "푸에르토윌리암스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 185,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 191,
+			"ancestor": "-1",
+			"surface": "푸에르토토로",
+			"entityName": "푸에르토토로"
+		},
+		{
+			"kbox_types": [
+				"Town",
+				"ArchitecturalStructure",
+				"Port",
+				"PopulatedPlace",
+				"Settlement",
+				"Infrastructure",
+				"Town",
+				"Place"
+			],
+			"st": 193,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 202,
+			"ancestor": "4-6",
+			"coref_index": 120,
+			"surface": "푸에르토_윌리암스",
+			"entityName": "푸에르토윌리암스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 2,
+			"ancestor": "3-2",
+			"coref_index": 121,
+			"surface": "칠레",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 113,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 115,
+			"ancestor": "4-9",
+			"coref_index": 121,
+			"surface": "칠레",
+			"entityName": ""
+		}
+	],
+	"plainText": "칠레령에 속하는 본섬과 그 서쪽과 남쪽 지역은 마가야네스_이_안타르티카칠레나_주(Magallanes y Ant?rtica Chilena Region)의 일부로, 주도이자 중심도시는 푼타아레나스이다. 큰 칠레 도시로는 티에라델푸에고_현의 현도인 본섬의 포르베니르, 안타르티카칠레나_현의 주도인 나바리노_섬의 푸에르토윌리암스가 있다. 푸에르토토로는 푸에르토_윌리암스에서 몇 킬로미터 남쪽으로 내려가면 나오며, 세계에서 최남단에 있는 취락이다."
+}

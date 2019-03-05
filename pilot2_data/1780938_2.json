@@ -1,0 +1,115 @@
+{
+	"docID": "1780938",
+	"globalSID": "4009782,4009783,4009784",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 29,
+			"ancestor": "-1",
+			"coref_index": 303,
+			"surface": "나루모_시게루",
+			"entityName": "나루모_시게루"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "푸드_브레인",
+			"entityName": "푸드_브레인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 51,
+			"ancestor": "-1",
+			"coref_index": 302,
+			"surface": "츠노다_히로",
+			"entityName": "츠노다_히로"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 66,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "요코하마",
+			"entityName": "요코하마_시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 80,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "파워_하우스",
+			"entityName": "파워_하우스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 94,
+			"ancestor": "-1",
+			"coref_index": 301,
+			"surface": "야나기_조지",
+			"entityName": "야나기_조지"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 126,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 132,
+			"ancestor": "2-5",
+			"coref_index": 301,
+			"surface": "야나기_조지",
+			"entityName": ""
+		}
+	],
+	"plainText": "개요 일본 최고의 기타리스트로 평가받던 나루모_시게루가 푸드_브레인을 갓 탈퇴한 츠노다_히로와 함께 결성한 밴드이다. 요코하마에서 인기를 얻던 파워_하우스의 야나기_조지가 가세해서 집시 아이즈라는 밴드명으로도 잠시 활동했지만 야나기_조지는 곧 활동을 그만두었다."
+}

@@ -1,0 +1,23 @@
+{
+	"docID": "852512",
+	"globalSID": "2908694",
+	"pronouns": [],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 2,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "인물"
+		}
+	],
+	"plainText": "인물"
+}

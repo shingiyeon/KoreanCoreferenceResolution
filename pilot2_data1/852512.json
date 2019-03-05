@@ -1,0 +1,1440 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "가마타_요시나오",
+			"en": 8,
+			"is_target": true,
+			"surface": "가마타_요시나오",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 30,
+			"eType": "WIKILINK",
+			"entityName": "일본",
+			"en": 32,
+			"is_target": true,
+			"surface": "일본",
+			"coref_index": 1057,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Activity",
+				"Sport"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 37,
+			"eType": "WIKILINK",
+			"entityName": "야구",
+			"en": 39,
+			"is_target": true,
+			"surface": "야구",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"st": 49,
+			"eType": "WIKILINK",
+			"entityName": "퍼시픽_리그",
+			"en": 55,
+			"is_target": true,
+			"surface": "퍼시픽_리그",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 57,
+			"eType": "WIKILINK",
+			"entityName": "도호쿠_라쿠텐_골든이글스",
+			"en": 70,
+			"is_target": true,
+			"surface": "도호쿠_라쿠텐_골든이글스",
+			"coref_index": 1056,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 78,
+			"eType": "WIKILINK",
+			"entityName": "투수",
+			"en": 80,
+			"is_target": true,
+			"surface": "투수",
+			"coref_index": 1053,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 24,
+			"is_target": false,
+			"surface": "1993년_10월_26일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "PERSON",
+			"st": 85,
+			"eType": "NEW",
+			"en": 87,
+			"entityName": "",
+			"is_target": true,
+			"surface": "인물",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 155,
+			"eType": "WIKILINK",
+			"entityName": "포수",
+			"en": 157,
+			"is_target": true,
+			"surface": "포수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 162,
+			"eType": "WIKILINK",
+			"entityName": "사이토_유키_(1988년)",
+			"en": 168,
+			"is_target": true,
+			"surface": "사이토_유키",
+			"coref_index": 1054,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 170,
+			"eType": "WIKILINK",
+			"entityName": "다나카_마사히로",
+			"en": 178,
+			"is_target": true,
+			"surface": "다나카_마사히로",
+			"coref_index": 1055,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 241,
+			"eType": "ELU",
+			"entityName": "텔레비전",
+			"en": 245,
+			"is_target": true,
+			"surface": "텔레비전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 323,
+			"eType": "WIKILINK",
+			"entityName": "투수",
+			"en": 325,
+			"is_target": true,
+			"surface": "투수",
+			"coref_index": 1053,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "TIME",
+			"st": 88,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 95,
+			"is_target": true,
+			"surface": "프로_입단_전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "LOCATION",
+			"st": 96,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 108,
+			"is_target": true,
+			"surface": "이시카와_현_고마쓰_시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 115,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 121,
+			"is_target": true,
+			"surface": "중학교_시절",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 124,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 130,
+			"is_target": true,
+			"surface": "연식_야구부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "TIME",
+			"st": 142,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 149,
+			"is_target": false,
+			"surface": "중학교_1학년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 180,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 183,
+			"is_target": true,
+			"surface": "투수전",
+			"coref_index": 1060,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "EVENT",
+			"st": 187,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 213,
+			"is_target": true,
+			"surface": "제88회_전국_고등학교_야구_선수권_대회_결승전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 216,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 222,
+			"is_target": true,
+			"surface": "연장_15회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 229,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 232,
+			"is_target": true,
+			"surface": "무승부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 255,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 258,
+			"is_target": true,
+			"surface": "사이토",
+			"coref_index": 1054,
+			"ancestor": "1-9"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 260,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 263,
+			"is_target": true,
+			"surface": "다나카",
+			"coref_index": 1055,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 265,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 268,
+			"is_target": true,
+			"surface": "활약상",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 285,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 288,
+			"is_target": true,
+			"surface": "재경기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "LOCATION",
+			"st": 292,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 294,
+			"is_target": true,
+			"surface": "구장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 303,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 305,
+			"is_target": true,
+			"surface": "관전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 312,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 314,
+			"is_target": true,
+			"surface": "감독",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 588,
+			"eType": "WIKILINK",
+			"entityName": "사이우치_히로아키",
+			"en": 597,
+			"is_target": true,
+			"surface": "사이우치_히로아키",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"st": 333,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 342,
+			"is_target": true,
+			"surface": "가나자와_고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "EVENT",
+			"st": 390,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 402,
+			"is_target": true,
+			"surface": "메이지_진구_야구_대회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "EVENT",
+			"st": 423,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 441,
+			"is_target": true,
+			"surface": "제83회_선발_고등학교_야구_대회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 445,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 450,
+			"is_target": true,
+			"surface": "우승_후보",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ORGANIZATION",
+			"st": 472,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 483,
+			"is_target": true,
+			"surface": "가코가와키타_고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "EVENT",
+			"st": 503,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 525,
+			"is_target": true,
+			"surface": "제93회_전국_고등학교_야구_선수권_대회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ORGANIZATION",
+			"st": 536,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 545,
+			"is_target": true,
+			"surface": "이세_공업고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 568,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 579,
+			"is_target": true,
+			"surface": "세이코가쿠인_고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ORGANIZATION",
+			"st": 628,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 637,
+			"is_target": true,
+			"surface": "나라시노_고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 671,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 676,
+			"is_target": true,
+			"surface": "평균자책점",
+			"coref_index": 1058,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 661,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 663,
+			"is_target": true,
+			"surface": "성적",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 704,
+			"eType": "WIKILINK",
+			"en": 725,
+			"entityName": "2011년_아시아_청소년_야구_선수권_대회",
+			"is_target": true,
+			"surface": "제9회_아시아_청소년_야구_선수권_대회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 42,
+			"ne_type": "ORGANIZATION",
+			"st": 799,
+			"eType": "WIKILINK",
+			"en": 812,
+			"entityName": "도호쿠_라쿠텐_골든이글스",
+			"is_target": true,
+			"surface": "도호쿠_라쿠텐_골든이글스",
+			"coref_index": 1056,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ORGANIZATION",
+			"st": 727,
+			"eType": "NEW",
+			"en": 729,
+			"entityName": "",
+			"is_target": true,
+			"surface": "일본",
+			"coref_index": 1057,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "EVENT",
+			"st": 777,
+			"eType": "NEW",
+			"en": 796,
+			"entityName": "",
+			"is_target": true,
+			"surface": "2011년_프로_야구_드래프트_회의",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "TIME",
+			"st": 827,
+			"eType": "NEW",
+			"en": 833,
+			"entityName": "",
+			"is_target": false,
+			"surface": "11월_9일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 46,
+			"ne_type": "ORGANIZATION",
+			"st": 937,
+			"eType": "WIKILINK",
+			"entityName": "홋카이도_닛폰햄_파이터스",
+			"en": 950,
+			"is_target": true,
+			"surface": "홋카이도_닛폰햄_파이터스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 47,
+			"ne_type": "ORGANIZATION",
+			"st": 997,
+			"eType": "WIKILINK",
+			"entityName": "도쿄_야쿠르트_스왈로스",
+			"en": 1009,
+			"is_target": true,
+			"surface": "도쿄_야쿠르트_스왈로스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 48,
+			"ne_type": "ORGANIZATION",
+			"st": 1072,
+			"eType": "WIKILINK",
+			"entityName": "요코하마_DeNA_베이스타스",
+			"en": 1087,
+			"is_target": true,
+			"surface": "요코하마_DeNA_베이스타스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "TIME",
+			"st": 891,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 896,
+			"is_target": false,
+			"surface": "2012년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 1138,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1143,
+			"is_target": true,
+			"surface": "평균자책점",
+			"coref_index": 1058,
+			"ancestor": "1-39"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 51,
+			"ne_type": "ORGANIZATION",
+			"st": 1180,
+			"eType": "WIKILINK",
+			"entityName": "한신_타이거스",
+			"en": 1187,
+			"is_target": true,
+			"surface": "한신_타이거스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"id": 52,
+			"ne_type": "LOCATION",
+			"st": 1189,
+			"eType": "WIKILINK",
+			"entityName": "한신_고시엔_구장",
+			"en": 1198,
+			"is_target": true,
+			"surface": "한신_고시엔_구장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 1202,
+			"eType": "WIKILINK",
+			"entityName": "다나카_마사히로",
+			"en": 1210,
+			"is_target": true,
+			"surface": "다나카_마사히로",
+			"coref_index": 1055,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 1212,
+			"eType": "WIKILINK",
+			"entityName": "가라시마_와타루",
+			"en": 1220,
+			"is_target": true,
+			"surface": "가라시마_와타루",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"Place",
+				"SportFacility"
+			],
+			"id": 55,
+			"ne_type": "LOCATION",
+			"st": 1367,
+			"eType": "WIKILINK",
+			"entityName": "메이지_진구_야구장",
+			"en": 1377,
+			"is_target": true,
+			"surface": "메이지_진구_야구장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 56,
+			"ne_type": "ORGANIZATION",
+			"st": 1479,
+			"eType": "WIKILINK",
+			"entityName": "요미우리_자이언츠",
+			"en": 1488,
+			"is_target": true,
+			"surface": "요미우리_자이언츠",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"ArchitecturalStructure",
+				"Stadium",
+				"Place",
+				"SportFacility"
+			],
+			"id": 57,
+			"ne_type": "LOCATION",
+			"st": 1490,
+			"eType": "WIKILINK",
+			"entityName": "미야기_구장",
+			"en": 1497,
+			"is_target": true,
+			"surface": "K스타_미야기",
+			"coref_index": 1061,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 1517,
+			"eType": "WIKILINK",
+			"entityName": "스기우치_도시야",
+			"en": 1525,
+			"is_target": true,
+			"surface": "스기우치_도시야",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "ETC",
+			"st": 1555,
+			"eType": "ELU",
+			"entityName": "완투",
+			"en": 1558,
+			"is_target": true,
+			"surface": "완투승",
+			"coref_index": 1059,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "ETC",
+			"st": 1592,
+			"eType": "ELU",
+			"entityName": "완투",
+			"en": 1595,
+			"is_target": true,
+			"surface": "완투승",
+			"coref_index": 1059,
+			"ancestor": "1-59"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 61,
+			"ne_type": "ORGANIZATION",
+			"st": 1617,
+			"eType": "WIKILINK",
+			"entityName": "주니치_드래건스",
+			"en": 1625,
+			"is_target": true,
+			"surface": "주니치_드래건스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"id": 62,
+			"ne_type": "PERSON",
+			"st": 1726,
+			"eType": "WIKILINK",
+			"entityName": "마쓰자카_다이스케",
+			"en": 1735,
+			"is_target": true,
+			"surface": "마쓰자카_다이스케",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"id": 63,
+			"ne_type": "ORGANIZATION",
+			"st": 1736,
+			"eType": "WIKILINK",
+			"entityName": "사이타마_세이부_라이온스",
+			"en": 1739,
+			"is_target": true,
+			"surface": "세이부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "TIME",
+			"st": 1172,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1178,
+			"is_target": false,
+			"surface": "5월_20일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ORGANIZATION",
+			"st": 1224,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1226,
+			"is_target": true,
+			"surface": "구단",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ETC",
+			"st": 1231,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1234,
+			"is_target": true,
+			"surface": "3번째",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "PERSON",
+			"st": 1237,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1242,
+			"is_target": true,
+			"surface": "고졸_신인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "EVENT",
+			"st": 1266,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1273,
+			"is_target": true,
+			"surface": "3이닝_3실점",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 69,
+			"ne_type": "ETC",
+			"st": 1280,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1282,
+			"is_target": true,
+			"surface": "강판",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 70,
+			"ne_type": "ETC",
+			"st": 1286,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1290,
+			"is_target": true,
+			"surface": "1자책점",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "ETC",
+			"st": 1306,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1314,
+			"is_target": true,
+			"surface": "개인_최고_속도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "ETC",
+			"st": 1316,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1324,
+			"is_target": true,
+			"surface": "153?km/h",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 73,
+			"ne_type": "ETC",
+			"st": 1340,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1343,
+			"is_target": true,
+			"surface": "2경기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 1346,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1348,
+			"is_target": true,
+			"surface": "등판",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "TIME",
+			"st": 1357,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1360,
+			"is_target": false,
+			"surface": "27일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "PERSON",
+			"st": 1436,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1439,
+			"is_target": true,
+			"surface": "다나카",
+			"coref_index": 1055,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "ETC",
+			"st": 1441,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1444,
+			"is_target": true,
+			"surface": "4경기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "ETC",
+			"st": 1527,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1530,
+			"is_target": true,
+			"surface": "투수전",
+			"coref_index": 1060,
+			"ancestor": "1-18"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "EVENT",
+			"st": 1535,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1542,
+			"is_target": true,
+			"surface": "9이닝_1실점",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1545,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1550,
+			"is_target": true,
+			"surface": "프로_데뷔",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "PERSON",
+			"st": 1565,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1573,
+			"is_target": true,
+			"surface": "고졸_신인_투수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ETC",
+			"st": 1576,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1581,
+			"is_target": true,
+			"surface": "요미우리전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "ETC",
+			"st": 1604,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1616,
+			"is_target": true,
+			"surface": "1987년_곤도_신이치",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "TIME",
+			"st": 1630,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1633,
+			"is_target": false,
+			"surface": "25년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "TIME",
+			"st": 1656,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1662,
+			"is_target": false,
+			"surface": "8월_16일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "ETC",
+			"st": 1664,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1668,
+			"is_target": true,
+			"surface": "닛폰햄전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ETC",
+			"st": 1669,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1676,
+			"is_target": true,
+			"surface": "K스타_미야기",
+			"coref_index": 1061,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "ETC",
+			"st": 1681,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1685,
+			"is_target": true,
+			"surface": "1대_0",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "TIME",
+			"st": 1719,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1724,
+			"is_target": false,
+			"surface": "1999년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 90,
+			"ne_type": "ETC",
+			"st": 1714,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1717,
+			"is_target": true,
+			"surface": "완봉승",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "TIME",
+			"st": 1744,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1747,
+			"is_target": false,
+			"surface": "13년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 92,
+			"ne_type": "ETC",
+			"st": 1394,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1397,
+			"is_target": true,
+			"surface": "1실점",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "ETC",
+			"st": 1399,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1401,
+			"is_target": true,
+			"surface": "호투",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 94,
+			"ne_type": "ETC",
+			"st": 1381,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1389,
+			"is_target": true,
+			"surface": "6과_0/3이닝",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2908693,2908694,2908695,2908696,2908697,2908698,2908699,2908700,2908701,2908702,2908703,2908704,2908705,2908706,2908707,2908708,2908709,2908710,2908711,2908712,2908713,2908714,2908715",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 311,
+			"ancestor": "-1",
+			"st": 308,
+			"surface": "그 후"
+		},
+		{
+			"id": 1,
+			"en": 703,
+			"ancestor": "-1",
+			"st": 699,
+			"surface": "그 후,"
+		}
+	],
+	"plainText": "가마타_요시나오(, 1993년_10월_26일 ~ )는 일본의 프로 야구 선수이며, 현재 퍼시픽_리그인 도호쿠_라쿠텐_골든이글스의 소속 선수(투수)이다. 인물 프로_입단_전 이시카와_현_고마쓰_시에서 태어나 중학교_시절에는 연식_야구부에 소속되어 있었다. 중학교_1학년_때까지는 포수였지만, 사이토_유키와 다나카_마사히로의 투수전이 된 제88회_전국_고등학교_야구_선수권_대회_결승전에서 연장_15회 접전 끝에 무승부로 끝난 모습을 텔레비전을 통해 지켜보며 사이토와 다나카의 활약상에 매료되었다. 다음날에 열린 재경기에서는 구장에 직접 찾아가 관전했고 그 후 감독에게 호소하면서 투수로 전향했다. 가나자와_고등학교에서는 1학년 봄부터 공식전에 등판해 가을에는 에이스가 되었고 2학년 때 가을에 열린 메이지_진구_야구_대회에 출전했다. 3학년 때 춘계 대회인 제83회_선발_고등학교_야구_대회에서는 우승_후보로 유력하게 거론되었지만 1차전 상대인 가코가와키타_고등학교한테 0대 4로 패했고 여름에 열린 제93회_전국_고등학교_야구_선수권_대회에서 1차전 상대인 이세_공업고등학교전에서는 4대 0으로 승리했다. 2차전인 세이코가쿠인_고등학교와의 경기에서는 사이우치_히로아키와의 투수전을 펼친 끝에 4대 2로 승리했지만 3차전인 나라시노_고등학교한테 1대 2로 패했다. 고시엔 대회 통산 성적은 34이닝, 평균자책점 1.32, 40개의 탈삼진을 기록했다. 그 후, 제9회_아시아_청소년_야구_선수권_대회의 일본 대표팀 선수로 발탁되어 2이닝을 무실점으로 호투하는 등 팀의 금메달 획득에 기여했고 2011년_프로_야구_드래프트_회의에서 도호쿠_라쿠텐_골든이글스로부터 2순위 지명을 받아 11월_9일에 계약금 5,000만 엔, 연봉 600만 엔으로 입단 계약을 맺었다. 등번호는 21번. 프로 입단 후 2012년 시즌 개막은 2군에서 맞이했는데 당초에는 구원 요원이었지만 4월 29일 홋카이도_닛폰햄_파이터스전에 선발로 첫 등판하면서 4이닝까지 피안타 1개와 무실점으로 호투했고 5월 5일의 도쿄_야쿠르트_스왈로스전에서는 두 번째로 선발 등판해 6이닝까지 무안타와 무실점으로 처리하는 등 서서히 두각을 나타냈다. 5월 12일 요코하마_DeNA_베이스타스전에서는 5이닝까지 8개의 피안타와 2실점을 기록했지만 7경기에 등판해 승패없이 0.86의 평균자책점으로 투구 내용에 높은 평가받아 1군에 승격되었다. 5월_20일의 한신_타이거스전(한신_고시엔_구장)에서 다나카_마사히로, 가라시마_와타루 이래 구단 역사상 3번째이자 고졸_신인으로서의 프로 데뷔 첫 선발 등판을 했다. 3이닝_3실점을 기록하여 강판했다가(1자책점, 승패는 연결되지 않았음) 개인_최고_속도인 153?km/h를 측정하여 화제가 되었다. 2경기째의 등판이 된 같은 달 27일 야쿠르트전(메이지_진구_야구장)에서 6과_0/3이닝을 던져 1실점에 호투하여 프로 데뷔 첫 승리를 거뒀다. 2경기째 등판에서의 승리는 다나카의 4경기째를 경신하여 구단에서 가장 빠른 기록을 세웠다. 6월 17일 요미우리_자이언츠전(K스타_미야기)에서는 교류전에서 무패를 기록했던 스기우치_도시야와 투수전을 펼쳐 9이닝_1실점에서 프로_데뷔_후 첫 완투승을 따냈다. 고졸_신인_투수로서 요미우리전에서의 첫 등판하여 완투승을 기록한 것은 1987년_곤도_신이치(주니치_드래건스) 이래 25년 만의 일이자 역대 두 번째의 기록이다. 8월_16일의 닛폰햄전(K스타_미야기)에서는 1대_0으로 첫 완봉승을 달성해 고졸 ?탔括? 1대 0에서의완봉승승은1999년년의마쓰자카_다이스케케세이부부) 이래13년년 만이다. ",
+	"docID": "852512"
+}

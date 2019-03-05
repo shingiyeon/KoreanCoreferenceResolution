@@ -1,0 +1,1205 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 457,
+			"text": "그 가운데",
+			"is_pronoun": true,
+			"en_modified": 462,
+			"en": 462,
+			"st_modified": 457
+		},
+		{
+			"st": 643,
+			"text": "이 지역",
+			"is_pronoun": true,
+			"en_modified": 647,
+			"en": 647,
+			"st_modified": 643
+		},
+		{
+			"st": 643,
+			"text": "이 지역 진출",
+			"is_pronoun": true,
+			"en_modified": 650,
+			"en": 650,
+			"st_modified": 643
+		},
+		{
+			"st": 643,
+			"text": "이 지역 진출에 따른 것",
+			"is_pronoun": true,
+			"en_modified": 656,
+			"en": 656,
+			"st_modified": 643
+		},
+		{
+			"st": 660,
+			"text": "그 뒤",
+			"is_pronoun": true,
+			"en_modified": 663,
+			"en": 663,
+			"st_modified": 660
+		},
+		{
+			"st": 944,
+			"text": "이 밖",
+			"is_pronoun": true,
+			"en_modified": 947,
+			"en": 947,
+			"st_modified": 944
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 457,
+			"ancestor": "-1",
+			"surface": "그 가운데",
+			"en_modified": 462,
+			"en": 462,
+			"st_modified": 457,
+			"id": 0
+		},
+		{
+			"st": 643,
+			"ancestor": "1-51",
+			"surface": "이 지역",
+			"en_modified": 647,
+			"en": 647,
+			"st_modified": 643,
+			"id": 1,
+			"coref_index": 1044
+		},
+		{
+			"st": 643,
+			"ancestor": "-1",
+			"surface": "이 지역 진출에",
+			"en_modified": 651,
+			"en": 651,
+			"st_modified": 643,
+			"id": 2
+		},
+		{
+			"st": 643,
+			"ancestor": "-1",
+			"surface": "이 지역 진출에 따른 것으로,",
+			"en_modified": 659,
+			"en": 659,
+			"st_modified": 643,
+			"id": 3
+		},
+		{
+			"st": 660,
+			"ancestor": "-1",
+			"surface": "그 뒤",
+			"en_modified": 663,
+			"en": 663,
+			"st_modified": 660,
+			"id": 4
+		},
+		{
+			"st": 944,
+			"ancestor": "-1",
+			"surface": "이 밖",
+			"en_modified": 947,
+			"en": 947,
+			"st_modified": 944,
+			"id": 5
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 4,
+			"st_modified": 0,
+			"coref_index": 1043,
+			"entityName": "아프리카",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "WIKILINK",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "아프리카",
+			"is_target": true,
+			"en": 4,
+			"id": 0
+		},
+		{
+			"en_modified": 17,
+			"st_modified": 13,
+			"coref_index": 1046,
+			"entityName": "이슬람교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 13,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이슬람교",
+			"is_target": true,
+			"en": 17,
+			"id": 1
+		},
+		{
+			"en_modified": 22,
+			"st_modified": 19,
+			"coref_index": 1051,
+			"entityName": "기독교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 19,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 22,
+			"id": 2
+		},
+		{
+			"en_modified": 8,
+			"entityName": "",
+			"st_modified": 6,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 6,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "종교",
+			"is_target": true,
+			"en": 8,
+			"id": 3
+		},
+		{
+			"en_modified": 28,
+			"entityName": "",
+			"st_modified": 24,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 24,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "전통종교",
+			"is_target": true,
+			"en": 28,
+			"id": 4
+		},
+		{
+			"en_modified": 53,
+			"entityName": "아라비아_반도",
+			"st_modified": 46,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 46,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아라비아_반도",
+			"is_target": true,
+			"en": 53,
+			"id": 5
+		},
+		{
+			"en_modified": 60,
+			"st_modified": 56,
+			"coref_index": 1043,
+			"entityName": "아프리카",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "ELU",
+			"st": 56,
+			"ancestor": "1-0",
+			"ne_type": "LOCATION",
+			"surface": "아프리카",
+			"is_target": true,
+			"en": 60,
+			"id": 6
+		},
+		{
+			"en_modified": 94,
+			"entityName": "사하라_사막",
+			"st_modified": 88,
+			"kbox_types": [
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 88,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "사하라_사막",
+			"is_target": true,
+			"en": 94,
+			"id": 7
+		},
+		{
+			"en_modified": 105,
+			"st_modified": 99,
+			"coref_index": 1044,
+			"entityName": "사하라_이남_아프리카",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 99,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "블랙아프리카",
+			"is_target": true,
+			"en": 105,
+			"id": 8
+		},
+		{
+			"en_modified": 155,
+			"st_modified": 150,
+			"coref_index": 1047,
+			"entityName": "북아프리카",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 150,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "북아프리카",
+			"is_target": true,
+			"en": 155,
+			"id": 9
+		},
+		{
+			"en_modified": 163,
+			"st_modified": 157,
+			"coref_index": 1044,
+			"entityName": "사하라_이남_아프리카",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 157,
+			"ancestor": "1-8",
+			"ne_type": "ETC",
+			"surface": "블랙아프리카",
+			"is_target": true,
+			"en": 163,
+			"id": 10
+		},
+		{
+			"en_modified": 253,
+			"st_modified": 249,
+			"coref_index": 1043,
+			"entityName": "아프리카",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "ELU",
+			"st": 249,
+			"ancestor": "1-6",
+			"ne_type": "LOCATION",
+			"surface": "아프리카",
+			"is_target": true,
+			"en": 253,
+			"id": 11
+		},
+		{
+			"en_modified": 259,
+			"st_modified": 255,
+			"coref_index": 1045,
+			"entityName": "이슬람_세계",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 255,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이슬람권",
+			"is_target": true,
+			"en": 259,
+			"id": 12
+		},
+		{
+			"en_modified": 289,
+			"entityName": "수단",
+			"st_modified": 287,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 287,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "수단",
+			"is_target": true,
+			"en": 289,
+			"id": 13
+		},
+		{
+			"en_modified": 295,
+			"entityName": "소말리아",
+			"st_modified": 291,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 291,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "소말리아",
+			"is_target": true,
+			"en": 295,
+			"id": 14
+		},
+		{
+			"en_modified": 302,
+			"st_modified": 297,
+			"coref_index": 1049,
+			"entityName": "에티오피아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 297,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "에티오피아",
+			"is_target": true,
+			"en": 302,
+			"id": 15
+		},
+		{
+			"en_modified": 309,
+			"st_modified": 307,
+			"coref_index": 1052,
+			"entityName": "케냐",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 307,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "케냐",
+			"is_target": true,
+			"en": 309,
+			"id": 16
+		},
+		{
+			"en_modified": 316,
+			"entityName": "탄자니아",
+			"st_modified": 312,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 312,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "탄자니아",
+			"is_target": true,
+			"en": 316,
+			"id": 17
+		},
+		{
+			"en_modified": 325,
+			"entityName": "모잠비크",
+			"st_modified": 321,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 321,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "모잠비크",
+			"is_target": true,
+			"en": 325,
+			"id": 18
+		},
+		{
+			"en_modified": 350,
+			"st_modified": 346,
+			"coref_index": 1045,
+			"entityName": "이슬람_세계",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 346,
+			"ancestor": "1-12",
+			"ne_type": "ETC",
+			"surface": "이슬람권",
+			"is_target": true,
+			"en": 350,
+			"id": 19
+		},
+		{
+			"en_modified": 39,
+			"st_modified": 35,
+			"coref_index": 1046,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 35,
+			"ancestor": "1-1",
+			"ne_type": "ETC",
+			"surface": "이슬람교",
+			"is_target": true,
+			"en": 39,
+			"id": 20
+		},
+		{
+			"en_modified": 44,
+			"entityName": "",
+			"st_modified": 41,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 41,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "7세기",
+			"is_target": true,
+			"en": 44,
+			"id": 21
+		},
+		{
+			"en_modified": 74,
+			"entityName": "",
+			"st_modified": 66,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 66,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "지중해_연안지역",
+			"is_target": true,
+			"en": 74,
+			"id": 22
+		},
+		{
+			"en_modified": 86,
+			"st_modified": 82,
+			"coref_index": 1046,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 82,
+			"ancestor": "1-20",
+			"ne_type": "ETC",
+			"surface": "이슬람교",
+			"is_target": true,
+			"en": 86,
+			"id": 23
+		},
+		{
+			"en_modified": 126,
+			"entityName": "",
+			"st_modified": 119,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 119,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "11세기_무렵",
+			"is_target": true,
+			"en": 126,
+			"id": 24
+		},
+		{
+			"en_modified": 190,
+			"st_modified": 186,
+			"coref_index": 1046,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 186,
+			"ancestor": "1-20",
+			"ne_type": "ETC",
+			"surface": "이슬람교",
+			"is_target": true,
+			"en": 190,
+			"id": 25
+		},
+		{
+			"en_modified": 213,
+			"entityName": "",
+			"st_modified": 207,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 207,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "19세기_말",
+			"is_target": true,
+			"en": 213,
+			"id": 26
+		},
+		{
+			"en_modified": 231,
+			"entityName": "",
+			"st_modified": 223,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 223,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아프리카_식민지",
+			"is_target": true,
+			"en": 231,
+			"id": 27
+		},
+		{
+			"en_modified": 270,
+			"entityName": "",
+			"st_modified": 261,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 261,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "북부와_서부_지역",
+			"is_target": true,
+			"en": 270,
+			"id": 28
+		},
+		{
+			"en_modified": 337,
+			"entityName": "",
+			"st_modified": 334,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 334,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "연안부",
+			"is_target": true,
+			"en": 337,
+			"id": 29
+		},
+		{
+			"en_modified": 372,
+			"entityName": "차드",
+			"st_modified": 370,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 370,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "차드",
+			"is_target": true,
+			"en": 372,
+			"id": 30
+		},
+		{
+			"en_modified": 386,
+			"entityName": "카메룬",
+			"st_modified": 383,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 383,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "카메룬",
+			"is_target": true,
+			"en": 386,
+			"id": 31
+		},
+		{
+			"en_modified": 417,
+			"st_modified": 413,
+			"coref_index": 1043,
+			"entityName": "아프리카",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "ELU",
+			"st": 413,
+			"ancestor": "1-0",
+			"ne_type": "LOCATION",
+			"surface": "아프리카",
+			"is_target": true,
+			"en": 417,
+			"id": 32
+		},
+		{
+			"en_modified": 472,
+			"st_modified": 467,
+			"coref_index": 1047,
+			"entityName": "북아프리카",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 467,
+			"ancestor": "1-9",
+			"ne_type": "ETC",
+			"surface": "북아프리카",
+			"is_target": true,
+			"en": 472,
+			"id": 33
+		},
+		{
+			"en_modified": 484,
+			"entityName": "서아프리카",
+			"st_modified": 479,
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "ELU",
+			"st": 479,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "서아프리카",
+			"is_target": true,
+			"en": 484,
+			"id": 34
+		},
+		{
+			"en_modified": 506,
+			"st_modified": 500,
+			"coref_index": 1048,
+			"entityName": "중앙아프리카",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 500,
+			"ancestor": "1-36",
+			"ne_type": "ETC",
+			"surface": "중앙아프리카",
+			"is_target": true,
+			"en": 506,
+			"id": 35
+		},
+		{
+			"en_modified": 367,
+			"st_modified": 361,
+			"coref_index": 1048,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 361,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "중앙아프리카",
+			"is_target": true,
+			"en": 367,
+			"id": 36
+		},
+		{
+			"en_modified": 407,
+			"entityName": "",
+			"st_modified": 402,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 402,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "이슬람교도",
+			"is_target": true,
+			"en": 407,
+			"id": 37
+		},
+		{
+			"en_modified": 546,
+			"st_modified": 541,
+			"coref_index": 1047,
+			"entityName": "북아프리카",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 541,
+			"ancestor": "1-9",
+			"ne_type": "ETC",
+			"surface": "북아프리카",
+			"is_target": true,
+			"en": 546,
+			"id": 38
+		},
+		{
+			"en_modified": 569,
+			"entityName": "사도행전",
+			"st_modified": 565,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 565,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사도행전",
+			"is_target": true,
+			"en": 569,
+			"id": 39
+		},
+		{
+			"en_modified": 588,
+			"st_modified": 583,
+			"coref_index": 1049,
+			"entityName": "에티오피아",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 583,
+			"ancestor": "1-15",
+			"ne_type": "LOCATION",
+			"surface": "에티오피아",
+			"is_target": true,
+			"en": 588,
+			"id": 40
+		},
+		{
+			"en_modified": 641,
+			"entityName": "포르투갈",
+			"st_modified": 637,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 637,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "포르투갈",
+			"is_target": true,
+			"en": 641,
+			"id": 41
+		},
+		{
+			"en_modified": 670,
+			"entityName": "콩고",
+			"st_modified": 668,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 668,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "콩고",
+			"is_target": true,
+			"en": 670,
+			"id": 42
+		},
+		{
+			"en_modified": 675,
+			"entityName": "앙골라",
+			"st_modified": 672,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 672,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "앙골라",
+			"is_target": true,
+			"en": 675,
+			"id": 43
+		},
+		{
+			"en_modified": 713,
+			"st_modified": 710,
+			"coref_index": 1051,
+			"entityName": "기독교",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 710,
+			"ancestor": "1-49",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 713,
+			"id": 44
+		},
+		{
+			"en_modified": 810,
+			"st_modified": 806,
+			"coref_index": 1043,
+			"entityName": "아프리카",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"Continent"
+			],
+			"eType": "ELU",
+			"st": 806,
+			"ancestor": "1-6",
+			"ne_type": "LOCATION",
+			"surface": "아프리카",
+			"is_target": true,
+			"en": 810,
+			"id": 45
+		},
+		{
+			"en_modified": 837,
+			"entityName": "개신교",
+			"st_modified": 834,
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "WIKILINK",
+			"st": 834,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "개신교",
+			"is_target": true,
+			"en": 837,
+			"id": 46
+		},
+		{
+			"en_modified": 854,
+			"entityName": "로마_가톨릭",
+			"st_modified": 851,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 851,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "가톨릭",
+			"is_target": true,
+			"en": 854,
+			"id": 47
+		},
+		{
+			"en_modified": 874,
+			"entityName": "동방_정교회",
+			"st_modified": 868,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 868,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "동방_정교회",
+			"is_target": true,
+			"en": 874,
+			"id": 48
+		},
+		{
+			"en_modified": 523,
+			"st_modified": 520,
+			"coref_index": 1051,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 520,
+			"ancestor": "1-2",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 523,
+			"id": 49
+		},
+		{
+			"en_modified": 535,
+			"entityName": "",
+			"st_modified": 532,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 532,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "지중해",
+			"is_target": true,
+			"en": 535,
+			"id": 50
+		},
+		{
+			"en_modified": 620,
+			"st_modified": 614,
+			"coref_index": 1044,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 614,
+			"ancestor": "1-10",
+			"ne_type": "LOCATION",
+			"surface": "블랙아프리카",
+			"is_target": true,
+			"en": 620,
+			"id": 51
+		},
+		{
+			"en_modified": 707,
+			"st_modified": 701,
+			"coref_index": 1044,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 701,
+			"ancestor": "1-10",
+			"ne_type": "LOCATION",
+			"surface": "블랙아프리카",
+			"is_target": true,
+			"en": 707,
+			"id": 52
+		},
+		{
+			"en_modified": 815,
+			"st_modified": 812,
+			"coref_index": 1051,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 812,
+			"ancestor": "1-49",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 815,
+			"id": 53
+		},
+		{
+			"en_modified": 899,
+			"st_modified": 896,
+			"coref_index": 1051,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 896,
+			"ancestor": "1-49",
+			"ne_type": "ETC",
+			"surface": "기독교",
+			"is_target": true,
+			"en": 899,
+			"id": 54
+		},
+		{
+			"en_modified": 916,
+			"st_modified": 912,
+			"coref_index": 1046,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 912,
+			"ancestor": "1-1",
+			"ne_type": "ETC",
+			"surface": "이슬람교",
+			"is_target": true,
+			"en": 916,
+			"id": 55
+		},
+		{
+			"en_modified": 936,
+			"st_modified": 930,
+			"coref_index": 1044,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 930,
+			"ancestor": "1-8",
+			"ne_type": "LOCATION",
+			"surface": "블랙아프리카",
+			"is_target": true,
+			"en": 936,
+			"id": 56
+		},
+		{
+			"en_modified": 953,
+			"entityName": "힌두교",
+			"st_modified": 949,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 949,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "힌두교도",
+			"is_target": true,
+			"en": 953,
+			"id": 57
+		},
+		{
+			"en_modified": 978,
+			"entityName": "인도인",
+			"st_modified": 976,
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"eType": "WIKILINK",
+			"st": 976,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "인도",
+			"is_target": true,
+			"en": 978,
+			"id": 58
+		},
+		{
+			"en_modified": 996,
+			"entityName": "남아프리카_공화국",
+			"st_modified": 987,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 987,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "남아프리카_공화국",
+			"is_target": true,
+			"en": 996,
+			"id": 59
+		},
+		{
+			"en_modified": 1001,
+			"st_modified": 999,
+			"coref_index": 1052,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 999,
+			"ancestor": "1-16",
+			"ne_type": "ORGANIZATION",
+			"surface": "케냐",
+			"is_target": true,
+			"en": 1001,
+			"id": 60
+		},
+		{
+			"en_modified": 1009,
+			"entityName": "",
+			"st_modified": 1004,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1004,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "동아프리카",
+			"is_target": true,
+			"en": 1009,
+			"id": 61
+		}
+	],
+	"globalSID": "2902041,2902042,2902043,2902044,2902045,2902046,2902047,2902048,2902049,2902050,2902051,2902052,2902053",
+	"plainText": "아프리카의 종교는 크게 이슬람교, 기독교, 전통종교로 나뉜다. 이슬람교는 7세기에 아라비아_반도에서 아프리카로 전해져 지중해_연안지역으로 퍼졌다. 이슬람교가 사하라_사막을 넘어 블랙아프리카까지 퍼지기 시작한 것은 11세기_무렵으로, 평화적인 포교활동과 지하드, 그리고 북아프리카와 블랙아프리카와의 교역활동에 힘입어 널리 전파되었다. 이슬람교의 블랙아프리카로의 확대과정은 19세기_말에 시작된 열강의 아프리카_식민지 분할기에도 계속되었다. 오늘날 아프리카의 이슬람권은 북부와_서부_지역을 중심으로 하며, 동부에서는 수단, 소말리아, 에티오피아 그리고 케냐에서 탄자니아를 거쳐 모잠비크 북부에 이르는 연안부에도 띠모양으로 이슬람권이 형성되어 있다. 중앙아프리카에도 차드(인구의 50%)와 카메룬(20%) 등의 국가에 많은 이슬람교도가 있다. 아프리카의 이슬람교도의 총수는 1981년 기준으로, 1억 4,574만 명으로, 그 가운데 반수가 북아프리카, 1/4이 서아프리카, 나머지 1/4이 동부 및 중앙아프리카에 각각 거주하고 있다. 기독교는 1세기 이후 지중해 연안에서 북아프리카로 전래되었으며, 이러한 근거로는 사도행전에도 빌립 집사(부제)가 에티오피아의 내시에게 세례를 준 기록을 찾을 수 있다. 블랙아프리카에 전파된 시기는 15세기 말 포르투갈의 이 지역 진출에 따른 것으로, 그 뒤 현재의 콩고나 앙골라에서 선교사들에 의해 교회가 세워졌다. 그러나 블랙아프리카에서 기독교의 대대적인 포교활동이 시작된 것은 18세기 이후이며, 19세기 말부터 시작된 식민지주의의 본격적 진출과 함께 포교활동도 절정에 달했다. 1981년의 통계에 따르면, 아프리카의 기독교인은 총 1억 3091만 명으로, 개신교가 약 6,978만 명, 가톨릭이 약 4,802만 명, 동방_정교회계 및 기타가 약 1,310만 명이다. 기독교인의 분포지역은 대체로 이슬람교도의 분포지역에서 벗어난 블랙아프리카가 중심이다. 이 밖에 힌두교도가 약 138만 명을 헤아리나 분포지역은 인도계 사람이 많은 남아프리카_공화국이나 케냐 등 동아프리카 일부에 한정되어 있다. ",
+	"docID": "848153",
+	"ModifiedText": "아프리카의 종교는 크게 이슬람교, 기독교, 전통종교로 나뉜다. 이슬람교는 7세기에 아라비아 반도에서 아프리카로 전해져 지중해 연안지역으로 퍼졌다. 이슬람교가 사하라 사막을 넘어 블랙아프리카까지 퍼지기 시작한 것은 11세기 무렵으로, 평화적인 포교활동과 지하드, 그리고 북아프리카와 블랙아프리카와의 교역활동에 힘입어 널리 전파되었다. 이슬람교의 블랙아프리카로의 확대과정은 19세기 말에 시작된 열강의 아프리카 식민지 분할기에도 계속되었다. 오늘날 아프리카의 이슬람권은 북부와 서부 지역을 중심으로 하며, 동부에서는 수단, 소말리아, 에티오피아 그리고 케냐에서 탄자니아를 거쳐 모잠비크 북부에 이르는 연안부에도 띠모양으로 이슬람권이 형성되어 있다. 중앙아프리카에도 차드(인구의 50%)와 카메룬(20%) 등의 국가에 많은 이슬람교도가 있다. 아프리카의 이슬람교도의 총수는 1981년 기준으로, 1억 4,574만 명으로, 그 가운데 반수가 북아프리카, 1/4이 서아프리카, 나머지 1/4이 동부 및 중앙아프리카에 각각 거주하고 있다. 기독교는 1세기 이후 지중해 연안에서 북아프리카로 전래되었으며, 이러한 근거로는 사도행전에도 빌립 집사(부제)가 에티오피아의 내시에게 세례를 준 기록을 찾을 수 있다. 블랙아프리카에 전파된 시기는 15세기 말 포르투갈의 이 지역 진출에 따른 것으로, 그 뒤 현재의 콩고나 앙골라에서 선교사들에 의해 교회가 세워졌다. 그러나 블랙아프리카에서 기독교의 대대적인 포교활동이 시작된 것은 18세기 이후이며, 19세기 말부터 시작된 식민지주의의 본격적 진출과 함께 포교활동도 절정에 달했다. 1981년의 통계에 따르면, 아프리카의 기독교인은 총 1억 3091만 명으로, 개신교가 약 6,978만 명, 가톨릭이 약 4,802만 명, 동방 정교회계 및 기타가 약 1,310만 명이다. 기독교인의 분포지역은 대체로 이슬람교도의 분포지역에서 벗어난 블랙아프리카가 중심이다. 이 밖에 힌두교도가 약 138만 명을 헤아리나 분포지역은 인도계 사람이 많은 남아프리카 공화국이나 케냐 등 동아프리카 일부에 한정되어 있다. "
+}

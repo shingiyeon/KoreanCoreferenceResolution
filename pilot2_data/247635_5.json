@@ -1,0 +1,235 @@
+{
+	"docID": "247635",
+	"globalSID": "1420750,1420751,1420752",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 337,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 15,
+			"coref_index": 337,
+			"id": 1,
+			"en": 16,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 22,
+			"ancestor": "-1",
+			"surface": "그의 어머니가",
+			"id": 2,
+			"st": 15
+		},
+		{
+			"st": 114,
+			"coref_index": 337,
+			"id": 3,
+			"en": 116,
+			"ancestor": "1-0",
+			"surface": "자신"
+		},
+		{
+			"en": 123,
+			"ancestor": "-1",
+			"surface": "자신만의 공업소를",
+			"id": 4,
+			"st": 114
+		},
+		{
+			"st": 137,
+			"coref_index": 337,
+			"id": 5,
+			"en": 138,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 275,
+			"ancestor": "-1",
+			"surface": "다른 이들이",
+			"id": 6,
+			"st": 269
+		},
+		{
+			"st": 297,
+			"coref_index": 337,
+			"id": 7,
+			"en": 298,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 303,
+			"ancestor": "-1",
+			"surface": "그의 가입을",
+			"id": 8,
+			"st": 297
+		},
+		{
+			"en": 313,
+			"ancestor": "-1",
+			"surface": "그의 가입을 막았기 때문이다.",
+			"id": 9,
+			"st": 297
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 76,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "런던",
+			"entityName": "런던"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 91,
+			"ancestor": "3-1",
+			"coref_index": 338,
+			"surface": "스코틀랜드",
+			"entityName": "스코틀랜드"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 108,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 112,
+			"ancestor": "-1",
+			"coref_index": 340,
+			"surface": "글래스고",
+			"entityName": "글래스고"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 153,
+			"ancestor": "-1",
+			"surface": "사분의",
+			"entityName": "사분의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 184,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 187,
+			"ancestor": "-1",
+			"surface": "망원경",
+			"entityName": "망원경"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 192,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 195,
+			"ancestor": "-1",
+			"surface": "기압계",
+			"entityName": "기압계"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 251,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 256,
+			"ancestor": "3-1",
+			"coref_index": 338,
+			"surface": "스코틀랜드",
+			"entityName": "스코틀랜드"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 282,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 286,
+			"ancestor": "5-2",
+			"coref_index": 340,
+			"surface": "글래스고",
+			"entityName": "글래스고"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 293,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 295,
+			"ancestor": "-1",
+			"surface": "길드",
+			"entityName": "길드"
+		}
+	],
+	"plainText": "그가 열여덟이 되었을 때, 그의 어머니가 사망했으며 아버지의 건강 또한 악화되기 시작했다. 와트는 기계 만드는 법을 배우기 위해 1년간 런던에서 지낸 후 스코틀랜드로 돌아왔으며, 상공업 중심지 글래스고에 자신만의 공업소를 차리기 위해 정착했다. 그는 놋쇠로 된 반사식 사분의(항해할 때 쓰는 거울과 같은 기구), 평행자, 저울, 망원경 부품, 기압계 등을 주로 만들거나 고쳤는데, 와트가 최소 7년간을 도제공(견습생)으로 지내지 않았기 때문에 당시 스코틀랜드에 수학 도구를 만드는 다른 이들이 없었음에도 글래스고의 대장장이 길드가 그의 가입을 막았기 때문이다."
+}

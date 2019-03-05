@@ -1,0 +1,151 @@
+{
+	"docID": "87587",
+	"globalSID": "681206,681207",
+	"pronouns": [],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "2002년",
+			"entityName": "2002년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 21,
+			"ancestor": "-1",
+			"surface": "친일파_708인_명단",
+			"entityName": "친일파_708인_명단"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 35,
+			"ancestor": "",
+			"surface": "2008년",
+			"entityName": "2008년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"st": 36,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "민족문제연구소",
+			"entityName": "민족문제연구소"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"st": 46,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "-1",
+			"surface": "친일인명사전",
+			"entityName": "친일인명사전"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 81,
+			"ancestor": "-1",
+			"surface": "친일인명사전_수록예정자_명단",
+			"entityName": "민족문제연구소의_친일인명사전_수록예정자_명단"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 96,
+			"ancestor": "",
+			"surface": "2009년",
+			"entityName": "2009년"
+		},
+		{
+			"kbox_types": [
+				"Organisation",
+				"Agent"
+			],
+			"st": 97,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 111,
+			"ancestor": "-1",
+			"surface": "친일반민족행위진상규명위원회",
+			"entityName": "대한민국_친일반민족행위진상규명위원회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 117,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 132,
+			"ancestor": "-1",
+			"surface": "친일반민족행위_705인_명단",
+			"entityName": "친일반민족행위_705인_명단"
+		}
+	],
+	"plainText": "2002년 발표된 친일파_708인_명단에 포함되었고, 2008년 민족문제연구소에서 친일인명사전에 수록하기 위해 정리한 친일인명사전_수록예정자_명단에도 선정되었다. 2009년 친일반민족행위진상규명위원회가 발표한 친일반민족행위_705인_명단에 포함되었다."
+}

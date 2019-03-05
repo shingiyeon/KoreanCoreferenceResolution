@@ -1,0 +1,254 @@
+{
+	"docID": "123526",
+	"globalSID": "900620",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"surface": "710년",
+			"entityName": "710년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 19,
+			"ancestor": "",
+			"surface": "794년",
+			"entityName": "794년"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 34,
+			"ancestor": "",
+			"surface": "710년",
+			"entityName": "710년"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "겐메이_천황",
+			"entityName": "겐메이_천황"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "-1",
+			"coref_index": 126,
+			"surface": "헤이조쿄",
+			"entityName": "헤이조쿄"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 62,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 66,
+			"ancestor": "",
+			"surface": "794년",
+			"entityName": "794년"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Actor",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 67,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 72,
+			"ancestor": "-1",
+			"coref_index": 125,
+			"surface": "간무_천황",
+			"entityName": "간무_천황"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 78,
+			"ancestor": "-1",
+			"surface": "헤이안쿄",
+			"entityName": "헤이안쿄"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 123,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 127,
+			"ancestor": "",
+			"surface": "784년",
+			"entityName": "784년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 136,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 141,
+			"ancestor": "-1",
+			"surface": "나가오카쿄",
+			"entityName": "나가오카쿄"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "-1",
+			"coref_index": 132,
+			"surface": "나라_시대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 97,
+			"ancestor": "",
+			"surface": "84년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 120,
+			"ancestor": "",
+			"surface": "710년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 129,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 134,
+			"ancestor": "1-6",
+			"coref_index": 125,
+			"surface": "간무_천황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 158,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 14,
+			"ne_type": "TIME",
+			"en": 161,
+			"ancestor": "",
+			"surface": "74년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 172,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"en": 174,
+			"ancestor": "-1",
+			"surface": "일본",
+			"entityName": ""
+		}
+	],
+	"plainText": "나라_시대(, 710년 ~ 794년)는 넓은 의미로는 710년 겐메이_천황이 헤이조쿄(平城京)로 천도한 때부터 794년 간무_천황이 헤이안쿄(平安京)로 천도할 때까지의 84년의 기간을 말하고, 좁은 의미로는 710년에서 784년에 간무_천황이 나가오카쿄(長岡京)로 천도할 때 까지이 74년의 기간을 가리키는 일본역사의 시대구분의 하나이다."
+}

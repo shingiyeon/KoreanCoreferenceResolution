@@ -1,0 +1,112 @@
+{
+	"docID": "40600",
+	"globalSID": "382868,382869,382870,382871",
+	"pronouns": [
+		{
+			"en": 83,
+			"ancestor": "-1",
+			"surface": "그 천체의",
+			"id": 0,
+			"st": 78
+		},
+		{
+			"en": 87,
+			"ancestor": "-1",
+			"surface": "그 천체의 경로를",
+			"id": 1,
+			"st": 78
+		},
+		{
+			"en": 97,
+			"ancestor": "-1",
+			"surface": "그 천체의 경로를 내포하는 띠이다.",
+			"id": 2,
+			"st": 78
+		},
+		{
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "예를",
+			"id": 3,
+			"st": 98
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 51,
+			"ancestor": "1-2",
+			"coref_index": 533,
+			"surface": "천구",
+			"entityName": "천구"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 156,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 161,
+			"ancestor": "-1",
+			"surface": "주기_혜성",
+			"entityName": "주기_혜성"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "1-14",
+			"coref_index": 530,
+			"surface": "황도대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 16,
+			"ancestor": "1-4",
+			"coref_index": 529,
+			"surface": "황도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 106,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "1-6",
+			"coref_index": 534,
+			"surface": "달",
+			"entityName": ""
+		}
+	],
+	"plainText": "황도대(조디악)의 용어는 황도로부터 위아래로 약 8도에 해당하는 행성의 경로를 포함하는 천구의 부분을 말하기도 한다. 특정 행성의 황도대는 그 천체의 경로를 내포하는 띠이다. 예를 들어, \"달의 황도대\"는 황도의 위아래로 5도인 띠이다. 더 나아가, \"혜성의 황도대\"는 대부분의 주기_혜성의 경로를 포함하는 띠이다."
+}

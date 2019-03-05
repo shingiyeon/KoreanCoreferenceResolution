@@ -1,0 +1,256 @@
+{
+	"docID": "2758",
+	"globalSID": "44177,44178,44179,44180",
+	"pronouns": [
+		{
+			"en": 124,
+			"st": 122,
+			"surface": "이들",
+			"id": 0,
+			"ancestor": "-1"
+		},
+		{
+			"en": 128,
+			"st": 122,
+			"surface": "이들 지역의",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 132,
+			"st": 122,
+			"surface": "이들 지역의 속령인",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 153,
+			"st": 122,
+			"surface": "이들 지역의 속령인 그린란드, 올란드_제도, 페로_제도를",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 6,
+			"ancestor": "-1",
+			"coref_index": 387,
+			"surface": "스칸디나비아",
+			"entityName": "스칸디나비아"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 72,
+			"ancestor": "-1",
+			"coref_index": 393,
+			"surface": "노르웨이",
+			"entityName": "노르웨이"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 76,
+			"ancestor": "-1",
+			"coref_index": 391,
+			"surface": "스웨덴",
+			"entityName": "스웨덴"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 80,
+			"ancestor": "-1",
+			"coref_index": 394,
+			"surface": "덴마크",
+			"entityName": "덴마크"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 103,
+			"ancestor": "-1",
+			"coref_index": 390,
+			"surface": "핀란드",
+			"entityName": "핀란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 110,
+			"ancestor": "-1",
+			"coref_index": 388,
+			"surface": "아이슬란드",
+			"entityName": "아이슬란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"st": 133,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 137,
+			"ancestor": "-1",
+			"coref_index": 395,
+			"surface": "그린란드",
+			"entityName": "그린란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 139,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 145,
+			"ancestor": "-1",
+			"coref_index": 396,
+			"surface": "올란드_제도",
+			"entityName": "올란드_제도"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 152,
+			"ancestor": "-1",
+			"coref_index": 389,
+			"surface": "페로_제도",
+			"entityName": "페로_제도"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"st": 154,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 160,
+			"ancestor": "1-0",
+			"coref_index": 387,
+			"surface": "스칸디나비아",
+			"entityName": "스칸디나비아"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 190,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 196,
+			"ancestor": "-1",
+			"coref_index": 392,
+			"surface": "노르딕_국가",
+			"entityName": "노르딕_국가"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "LOCATION",
+			"en": 36,
+			"ancestor": "-1",
+			"surface": "북유럽의_스칸디나비아_반도",
+			"entityName": ""
+		}
+	],
+	"plainText": "스칸디나비아 (Scandinavia)는 북유럽의_스칸디나비아_반도를 중심으로 한 문화·역사적 지역을 일컫는다. 많은 경우 노르웨이·스웨덴·덴마크의 세 왕국을 말하며, 경우에 따라 핀란드나 아이슬란드를 포함하기도 한다. 이들 지역의 속령인 그린란드, 올란드_제도, 페로_제도를 스칸디나비아에 포함시키기도 한다. 언급된 지역 전체를 말할 경우 노르딕_국가라고도 한다."
+}

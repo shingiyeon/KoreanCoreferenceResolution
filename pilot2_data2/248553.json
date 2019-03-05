@@ -1,0 +1,1320 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 182,
+			"text": "이 트레이드",
+			"is_pronoun": true,
+			"en_modified": 188,
+			"en": 188,
+			"st_modified": 182
+		},
+		{
+			"st": 313,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 314,
+			"en": 314,
+			"st_modified": 313
+		},
+		{
+			"st": 883,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 884,
+			"en": 884,
+			"st_modified": 883
+		},
+		{
+			"st": 922,
+			"text": "이 홈런",
+			"is_pronoun": true,
+			"en_modified": 926,
+			"en": 926,
+			"st_modified": 922
+		},
+		{
+			"st": 967,
+			"text": "이날",
+			"is_pronoun": true,
+			"en_modified": 969,
+			"en": 969,
+			"st_modified": 967
+		},
+		{
+			"st": 967,
+			"text": "이날 경기",
+			"is_pronoun": true,
+			"en_modified": 972,
+			"en": 972,
+			"st_modified": 967
+		},
+		{
+			"st": 1198,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1199,
+			"en": 1199,
+			"st_modified": 1198
+		},
+		{
+			"st": 1198,
+			"text": "그의 2점 홈런",
+			"is_pronoun": true,
+			"en_modified": 1206,
+			"en": 1206,
+			"st_modified": 1198
+		},
+		{
+			"st": 1247,
+			"text": "이 경기",
+			"is_pronoun": true,
+			"en_modified": 1251,
+			"en": 1251,
+			"st_modified": 1247
+		},
+		{
+			"st": 1253,
+			"text": "그 당시",
+			"is_pronoun": true,
+			"en_modified": 1257,
+			"en": 1257,
+			"st_modified": 1253
+		},
+		{
+			"st": 1298,
+			"text": "이날",
+			"is_pronoun": true,
+			"en_modified": 1300,
+			"en": 1300,
+			"st_modified": 1298
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 182,
+			"ancestor": "-1",
+			"surface": "이 트레이드는",
+			"en_modified": 189,
+			"en": 189,
+			"st_modified": 182,
+			"id": 0
+		},
+		{
+			"st": 313,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 314,
+			"en": 314,
+			"st_modified": 313,
+			"id": 1,
+			"coref_index": 348
+		},
+		{
+			"st": 883,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 884,
+			"en": 884,
+			"st_modified": 883,
+			"id": 2,
+			"coref_index": 348
+		},
+		{
+			"st": 922,
+			"ancestor": "-1",
+			"surface": "이 홈런",
+			"en_modified": 926,
+			"en": 926,
+			"st_modified": 922,
+			"id": 3
+		},
+		{
+			"st": 967,
+			"ancestor": "1-58",
+			"surface": "이날",
+			"en_modified": 969,
+			"en": 969,
+			"st_modified": 967,
+			"id": 4,
+			"coref_index": 349
+		},
+		{
+			"st": 967,
+			"ancestor": "-1",
+			"surface": "이날 경기",
+			"en_modified": 972,
+			"en": 972,
+			"st_modified": 967,
+			"id": 5
+		},
+		{
+			"st": 1198,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 1199,
+			"en": 1199,
+			"st_modified": 1198,
+			"id": 6,
+			"coref_index": 348
+		},
+		{
+			"st": 1198,
+			"ancestor": "-1",
+			"surface": "그의 2점 홈런",
+			"en_modified": 1206,
+			"en": 1206,
+			"st_modified": 1198,
+			"id": 7
+		},
+		{
+			"st": 1247,
+			"ancestor": "-1",
+			"surface": "이 경기",
+			"en_modified": 1251,
+			"en": 1251,
+			"st_modified": 1247,
+			"id": 8
+		},
+		{
+			"st": 1253,
+			"ancestor": "-1",
+			"surface": "그 당시",
+			"en_modified": 1257,
+			"en": 1257,
+			"st_modified": 1253,
+			"id": 9
+		},
+		{
+			"st": 1298,
+			"ancestor": "1-58",
+			"surface": "이날",
+			"en_modified": 1300,
+			"en": 1300,
+			"st_modified": 1298,
+			"id": 10,
+			"coref_index": 349
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 3,
+			"st_modified": 0,
+			"coref_index": 348,
+			"entityName": "최준석_(야구_선수)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "최준석",
+			"is_target": true,
+			"en": 3,
+			"id": 0
+		},
+		{
+			"en_modified": 33,
+			"entityName": "KBO_리그",
+			"st_modified": 27,
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 27,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "KBO_리그",
+			"is_target": true,
+			"en": 33,
+			"id": 1
+		},
+		{
+			"en_modified": 41,
+			"st_modified": 34,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 34,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 41,
+			"id": 2
+		},
+		{
+			"en_modified": 47,
+			"entityName": "지명타자",
+			"st_modified": 43,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 43,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "지명타자",
+			"is_target": true,
+			"en": 47,
+			"id": 3
+		},
+		{
+			"en_modified": 52,
+			"entityName": "1루수",
+			"st_modified": 49,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 49,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "1루수",
+			"is_target": true,
+			"en": 52,
+			"id": 4
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1983년_2월_15일",
+			"is_target": false,
+			"en": 21,
+			"id": 5
+		},
+		{
+			"en_modified": 63,
+			"st_modified": 56,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 56,
+			"ancestor": "1-2",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 63,
+			"id": 6
+		},
+		{
+			"en_modified": 72,
+			"entityName": "2001년_한국프로야구_신인선수_지명회의",
+			"st_modified": 67,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 67,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "2001년",
+			"is_target": true,
+			"en": 72,
+			"id": 7
+		},
+		{
+			"en_modified": 80,
+			"st_modified": 73,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 73,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 80,
+			"id": 8
+		},
+		{
+			"en_modified": 114,
+			"entityName": "이대호",
+			"st_modified": 111,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 111,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이대호",
+			"is_target": true,
+			"en": 114,
+			"id": 9
+		},
+		{
+			"en_modified": 133,
+			"st_modified": 130,
+			"coref_index": 343,
+			"entityName": "최경환_(야구인)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 130,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "최경환",
+			"is_target": true,
+			"en": 133,
+			"id": 10
+		},
+		{
+			"en_modified": 138,
+			"st_modified": 135,
+			"coref_index": 342,
+			"entityName": "이승준_(야구_선수)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 135,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "이승준",
+			"is_target": true,
+			"en": 138,
+			"id": 11
+		},
+		{
+			"en_modified": 147,
+			"st_modified": 144,
+			"coref_index": 345,
+			"entityName": "김진수_(야구인)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 144,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김진수",
+			"is_target": true,
+			"en": 147,
+			"id": 12
+		},
+		{
+			"en_modified": 167,
+			"st_modified": 161,
+			"coref_index": 344,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 161,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 167,
+			"id": 13
+		},
+		{
+			"en_modified": 193,
+			"st_modified": 190,
+			"coref_index": 342,
+			"entityName": "이승준_(야구_선수)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 190,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "이승준",
+			"is_target": true,
+			"en": 193,
+			"id": 14
+		},
+		{
+			"en_modified": 200,
+			"entityName": "2006년",
+			"st_modified": 195,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 195,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2006년",
+			"is_target": false,
+			"en": 200,
+			"id": 15
+		},
+		{
+			"en_modified": 206,
+			"st_modified": 203,
+			"coref_index": 343,
+			"entityName": "최경환_(야구인)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 203,
+			"ancestor": "1-10",
+			"ne_type": "PERSON",
+			"surface": "최경환",
+			"is_target": true,
+			"en": 206,
+			"id": 16
+		},
+		{
+			"en_modified": 213,
+			"entityName": "2007년",
+			"st_modified": 208,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 208,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2007년",
+			"is_target": false,
+			"en": 213,
+			"id": 17
+		},
+		{
+			"en_modified": 233,
+			"st_modified": 226,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 226,
+			"ancestor": "1-8",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 233,
+			"id": 18
+		},
+		{
+			"en_modified": 258,
+			"st_modified": 255,
+			"coref_index": 343,
+			"entityName": "최경환_(야구인)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 255,
+			"ancestor": "1-16",
+			"ne_type": "PERSON",
+			"surface": "최경환",
+			"is_target": true,
+			"en": 258,
+			"id": 19
+		},
+		{
+			"en_modified": 268,
+			"entityName": "KIA_타이거즈",
+			"st_modified": 260,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 260,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "KIA_타이거즈",
+			"is_target": true,
+			"en": 268,
+			"id": 20
+		},
+		{
+			"en_modified": 290,
+			"st_modified": 287,
+			"coref_index": 342,
+			"entityName": "이승준_(야구_선수)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 287,
+			"ancestor": "1-11",
+			"ne_type": "PERSON",
+			"surface": "이승준",
+			"is_target": true,
+			"en": 290,
+			"id": 21
+		},
+		{
+			"en_modified": 160,
+			"entityName": "",
+			"st_modified": 152,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 152,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2006년_5월",
+			"is_target": false,
+			"en": 160,
+			"id": 22
+		},
+		{
+			"en_modified": 309,
+			"st_modified": 303,
+			"coref_index": 344,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 303,
+			"ancestor": "1-13",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 309,
+			"id": 23
+		},
+		{
+			"en_modified": 333,
+			"st_modified": 330,
+			"coref_index": 345,
+			"entityName": "김진수_(야구인)",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 330,
+			"ancestor": "1-12",
+			"ne_type": "PERSON",
+			"surface": "김진수",
+			"is_target": true,
+			"en": 333,
+			"id": 24
+		},
+		{
+			"en_modified": 386,
+			"entityName": "2012년",
+			"st_modified": 381,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 381,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년",
+			"is_target": false,
+			"en": 386,
+			"id": 25
+		},
+		{
+			"en_modified": 424,
+			"entityName": "2013년",
+			"st_modified": 419,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 419,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년",
+			"is_target": false,
+			"en": 424,
+			"id": 26
+		},
+		{
+			"en_modified": 435,
+			"entityName": "오재일",
+			"st_modified": 432,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 432,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "오재일",
+			"is_target": true,
+			"en": 435,
+			"id": 27
+		},
+		{
+			"en_modified": 500,
+			"entityName": "강윤구_(야구_선수)",
+			"st_modified": 497,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 497,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "강윤구",
+			"is_target": true,
+			"en": 500,
+			"id": 28
+		},
+		{
+			"en_modified": 572,
+			"st_modified": 567,
+			"coref_index": 346,
+			"entityName": "한국시리즈",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 567,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "한국시리즈",
+			"is_target": true,
+			"en": 572,
+			"id": 29
+		},
+		{
+			"en_modified": 610,
+			"entityName": "2001년",
+			"st_modified": 605,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 605,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2001년",
+			"is_target": false,
+			"en": 610,
+			"id": 30
+		},
+		{
+			"en_modified": 617,
+			"entityName": "타이론_우즈",
+			"st_modified": 611,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 611,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "타이론_우즈",
+			"is_target": true,
+			"en": 617,
+			"id": 31
+		},
+		{
+			"en_modified": 472,
+			"entityName": "",
+			"st_modified": 467,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 467,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년",
+			"is_target": false,
+			"en": 472,
+			"id": 32
+		},
+		{
+			"en_modified": 483,
+			"entityName": "",
+			"st_modified": 473,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 473,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "준플레이오프_5차전",
+			"is_target": true,
+			"en": 483,
+			"id": 33
+		},
+		{
+			"en_modified": 548,
+			"entityName": "",
+			"st_modified": 539,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 539,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "플레이오프_MVP",
+			"is_target": true,
+			"en": 548,
+			"id": 34
+		},
+		{
+			"en_modified": 667,
+			"st_modified": 662,
+			"coref_index": 346,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 662,
+			"ancestor": "1-29",
+			"ne_type": "EVENT",
+			"surface": "한국시리즈",
+			"is_target": true,
+			"en": 667,
+			"id": 35
+		},
+		{
+			"en_modified": 692,
+			"entityName": "후선",
+			"st_modified": 688,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 688,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "후_FA",
+			"is_target": true,
+			"en": 692,
+			"id": 36
+		},
+		{
+			"en_modified": 709,
+			"st_modified": 703,
+			"coref_index": 344,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 703,
+			"ancestor": "1-13",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 709,
+			"id": 37
+		},
+		{
+			"en_modified": 777,
+			"st_modified": 770,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 770,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 777,
+			"id": 38
+		},
+		{
+			"en_modified": 694,
+			"entityName": "",
+			"st_modified": 690,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 690,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "FAFA",
+			"is_target": true,
+			"en": 694,
+			"id": 39
+		},
+		{
+			"en_modified": 807,
+			"st_modified": 800,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 800,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 807,
+			"id": 40
+		},
+		{
+			"en_modified": 816,
+			"entityName": "",
+			"st_modified": 811,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 811,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2015년",
+			"is_target": false,
+			"en": 816,
+			"id": 41
+		},
+		{
+			"en_modified": 820,
+			"entityName": "",
+			"st_modified": 818,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 818,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "주장",
+			"is_target": true,
+			"en": 820,
+			"id": 42
+		},
+		{
+			"en_modified": 852,
+			"st_modified": 845,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 845,
+			"ancestor": "1-40",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 852,
+			"id": 43
+		},
+		{
+			"en_modified": 879,
+			"st_modified": 873,
+			"coref_index": 347,
+			"entityName": "LG_트윈스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 873,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "LG_트윈스",
+			"is_target": true,
+			"en": 879,
+			"id": 44
+		},
+		{
+			"en_modified": 893,
+			"entityName": "투수",
+			"st_modified": 891,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 891,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투수",
+			"is_target": true,
+			"en": 893,
+			"id": 45
+		},
+		{
+			"en_modified": 897,
+			"entityName": "신윤호",
+			"st_modified": 894,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 894,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "신윤호",
+			"is_target": true,
+			"en": 897,
+			"id": 46
+		},
+		{
+			"en_modified": 935,
+			"st_modified": 928,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 928,
+			"ancestor": "1-43",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 935,
+			"id": 47
+		},
+		{
+			"en_modified": 965,
+			"st_modified": 958,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 958,
+			"ancestor": "1-47",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 965,
+			"id": 48
+		},
+		{
+			"en_modified": 980,
+			"entityName": "투수",
+			"st_modified": 978,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 978,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투수",
+			"is_target": true,
+			"en": 980,
+			"id": 49
+		},
+		{
+			"en_modified": 985,
+			"entityName": "장원준_(야구_선수)",
+			"st_modified": 982,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 982,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "장원준",
+			"is_target": true,
+			"en": 985,
+			"id": 50
+		},
+		{
+			"en_modified": 1045,
+			"entityName": "투수",
+			"st_modified": 1043,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1043,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투수",
+			"is_target": true,
+			"en": 1045,
+			"id": 51
+		},
+		{
+			"en_modified": 1049,
+			"entityName": "장문석",
+			"st_modified": 1046,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 1046,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "장문석",
+			"is_target": true,
+			"en": 1049,
+			"id": 52
+		},
+		{
+			"en_modified": 1098,
+			"st_modified": 1091,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1091,
+			"ancestor": "1-48",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 1098,
+			"id": 53
+		},
+		{
+			"en_modified": 1121,
+			"st_modified": 1115,
+			"coref_index": 347,
+			"entityName": "LG_트윈스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1115,
+			"ancestor": "1-44",
+			"ne_type": "ORGANIZATION",
+			"surface": "LG_트윈스",
+			"is_target": true,
+			"en": 1121,
+			"id": 54
+		},
+		{
+			"en_modified": 1169,
+			"entityName": "손인호_(야구인)",
+			"st_modified": 1166,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 1166,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "손인호",
+			"is_target": true,
+			"en": 1169,
+			"id": 55
+		},
+		{
+			"en_modified": 1265,
+			"st_modified": 1258,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1258,
+			"ancestor": "1-53",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 1265,
+			"id": 56
+		},
+		{
+			"en_modified": 1308,
+			"st_modified": 1301,
+			"coref_index": 341,
+			"entityName": "롯데_자이언츠",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 1301,
+			"ancestor": "1-56",
+			"ne_type": "ORGANIZATION",
+			"surface": "롯데_자이언츠",
+			"is_target": true,
+			"en": 1308,
+			"id": 57
+		},
+		{
+			"en_modified": 872,
+			"st_modified": 860,
+			"coref_index": 349,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 860,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2005년_5월_26일",
+			"is_target": false,
+			"en": 872,
+			"id": 58
+		},
+		{
+			"en_modified": 1327,
+			"entityName": "",
+			"st_modified": 1320,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1320,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "5.26_대첩",
+			"is_target": true,
+			"en": 1327,
+			"id": 59
+		}
+	],
+	"globalSID": "1423802,1423803,1423804,1423805,1423806,1423807,1423808,1423809,1423810,1423811,1423812,1423813,1423814,1423815,1423816,1423817,1423818,1423819,1423820,1423821,1423822,1423823",
+	"plainText": "최준석(崔俊蓆, 1983년_2월_15일 ~ )은 KBO_리그 롯데_자이언츠의 지명타자, 1루수이다. 롯데_자이언츠 시절 2001년 롯데_자이언츠의 2차 6순위 지명을 받고 포수로 입단하였다. 그러나 이대호에게 밀려 백업으로만 뛰었고 최경환, 이승준을 상대로 김진수와 함께 2006년_5월 두산_베어스에 트레이드되었다. 그러나 이 트레이드는 이승준이 2006년을, 최경환은 2007년을 끝으로 방출당하면서 롯데_자이언츠에게는 실패한 트레이드가 되고 말았고, 최경환은 KIA_타이거즈로 옮겨 현역 생활을 마무리했지만 이승준은 현역에서 은퇴했다. 두산_베어스 시절 그는 두산의 장타력에 기여했고 김진수는 1군으로 올라올 때마다 굵고 짧게 활약하여 인상을 남겼다. 고질적인 무릎 부상으로 2012년 말 병역 면제 판정을 받아 무릎재활 치료를 할 전망이다. 2013년 시즌 중에는 오재일과의 1루 주전 경쟁으로 많은 경기에 출전하지 못했지만, 2013년 준플레이오프_5차전에서 13회 대타로 나와 강윤구를 상대로 결승 솔로 홈런을 기록하여 68표 중 35표를 얻으면서 준 플레이오프_MVP로 선정되었다. 이후 플레이오프와 한국시리즈에서도 홈런포를 가동하며 포스트 시즌에서만 6개의 홈런으로 2001년 타이론_우즈와 타이기록을 이루며 포스트 시즌 최다 홈런을 기록하였지만 팀이 7차전에서 패해 한국시리즈 우승에는 실패하였다. 2013 시즌 후_FAFA를 선언하였으나 두산_베어스와의 협상이 결렬되었고, 4년 총액 35억 원(계약금 15억 원, 연봉 4억 원, 옵션 4억 원)의 조건으로 롯데_자이언츠와 계약하여 친정 팀에 돌아오게 되었다. 롯데_자이언츠 복귀 2015년에 주장으로 활동했다. 에피소드 8점 차 역전 홈런 롯데_자이언츠에서 활약했던 2005년_5월_26일 LG_트윈스전에서 그는 9회 초 투수 신윤호를 상대로 역전 결승 2점 홈런을 때렸는데, 이 홈런은 롯데_자이언츠가 8점 차의 열세를 뒤집은 홈런이었다. 롯데_자이언츠는 이날 경기에서 선발 투수인 장원준이 3회를 넘기지 못하고 강판당하면서 4회까지 0:8로 끌려가고 있었다. 그런데 5회 초 공격에서 선발 투수 장문석을 상대로 무려 8득점을 하면서 0:8의 스코어를 8:8로 만들었다. 이후 롯데_자이언츠 불펜진이 추가 실점을 하면서 LG_트윈스의 8회말 공격이 끝났을 때 스코어가 9:11이 됐다. 하지만 9회 초 공격에서 손인호의 적시타로 11:11을 만들었고, 계속된 찬스에서 그의 2점 홈런으로 13:11로 역전승을 거두면서 8점 차의 대역전극을 연출한 것이다. 이 경기는 그 당시 롯데_자이언츠의 돌풍이 절정에 도달했음을 의미하는 경기였다. 야구팬들은 이날 롯데_자이언츠의 대역전승을 두고 '5.26_대첩'이라고 부르게 되었다. ",
+	"docID": "248553",
+	"ModifiedText": "최준석(崔俊蓆, 1983년 2월 15일 ~ )은 KBO 리그 롯데 자이언츠의 지명타자, 1루수이다. 롯데 자이언츠 시절 2001년 롯데 자이언츠의 2차 6순위 지명을 받고 포수로 입단하였다. 그러나 이대호에게 밀려 백업으로만 뛰었고 최경환, 이승준을 상대로 김진수와 함께 2006년 5월 두산 베어스에 트레이드되었다. 그러나 이 트레이드는 이승준이 2006년을, 최경환은 2007년을 끝으로 방출당하면서 롯데 자이언츠에게는 실패한 트레이드가 되고 말았고, 최경환은 KIA 타이거즈로 옮겨 현역 생활을 마무리했지만 이승준은 현역에서 은퇴했다. 두산 베어스 시절 그는 두산의 장타력에 기여했고 김진수는 1군으로 올라올 때마다 굵고 짧게 활약하여 인상을 남겼다. 고질적인 무릎 부상으로 2012년 말 병역 면제 판정을 받아 무릎재활 치료를 할 전망이다. 2013년 시즌 중에는 오재일과의 1루 주전 경쟁으로 많은 경기에 출전하지 못했지만, 2013년 준플레이오프 5차전에서 13회 대타로 나와 강윤구를 상대로 결승 솔로 홈런을 기록하여 68표 중 35표를 얻으면서 준 플레이오프 MVP로 선정되었다. 이후 플레이오프와 한국시리즈에서도 홈런포를 가동하며 포스트 시즌에서만 6개의 홈런으로 2001년 타이론 우즈와 타이기록을 이루며 포스트 시즌 최다 홈런을 기록하였지만 팀이 7차전에서 패해 한국시리즈 우승에는 실패하였다. 2013 시즌 후 FAFA를 선언하였으나 두산 베어스와의 협상이 결렬되었고, 4년 총액 35억 원(계약금 15억 원, 연봉 4억 원, 옵션 4억 원)의 조건으로 롯데 자이언츠와 계약하여 친정 팀에 돌아오게 되었다. 롯데 자이언츠 복귀 2015년에 주장으로 활동했다. 에피소드 8점 차 역전 홈런 롯데 자이언츠에서 활약했던 2005년 5월 26일 LG 트윈스전에서 그는 9회 초 투수 신윤호를 상대로 역전 결승 2점 홈런을 때렸는데, 이 홈런은 롯데 자이언츠가 8점 차의 열세를 뒤집은 홈런이었다. 롯데 자이언츠는 이날 경기에서 선발 투수인 장원준이 3회를 넘기지 못하고 강판당하면서 4회까지 0:8로 끌려가고 있었다. 그런데 5회 초 공격에서 선발 투수 장문석을 상대로 무려 8득점을 하면서 0:8의 스코어를 8:8로 만들었다. 이후 롯데 자이언츠 불펜진이 추가 실점을 하면서 LG 트윈스의 8회말 공격이 끝났을 때 스코어가 9:11이 됐다. 하지만 9회 초 공격에서 손인호의 적시타로 11:11을 만들었고, 계속된 찬스에서 그의 2점 홈런으로 13:11로 역전승을 거두면서 8점 차의 대역전극을 연출한 것이다. 이 경기는 그 당시 롯데 자이언츠의 돌풍이 절정에 도달했음을 의미하는 경기였다. 야구팬들은 이날 롯데 자이언츠의 대역전승을 두고 '5.26 대첩'이라고 부르게 되었다. "
+}

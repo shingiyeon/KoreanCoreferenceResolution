@@ -1,0 +1,102 @@
+{
+	"docID": "1114862",
+	"globalSID": "3353323,3353324,3353325",
+	"pronouns": [
+		{
+			"st": 49,
+			"coref_index": 35,
+			"id": 0,
+			"en": 50,
+			"ancestor": "5-1",
+			"surface": "그"
+		},
+		{
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "그들",
+			"id": 1,
+			"st": 73
+		},
+		{
+			"en": 82,
+			"ancestor": "-1",
+			"surface": "그들의 소속 클럽",
+			"id": 2,
+			"st": 73
+		},
+		{
+			"en": 88,
+			"ancestor": "-1",
+			"surface": "그들의 소속 클럽인 타파티오",
+			"id": 3,
+			"st": 73
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 32,
+			"eType": "ELU",
+			"entityName": "과달라하라_(멕시코)",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 37,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "과달라하라",
+			"coref_index": 38
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 9,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 55,
+			"ancestor": "2-0",
+			"is_target": true,
+			"surface": "치바스",
+			"coref_index": 37
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 84,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 88,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "타파티오"
+		}
+	],
+	"plainText": "과달라하라 파비안은 어린 나이에 미래의 재능으로 인정받아 과달라하라에 입단하게 되었다. 그는 치바스의 유소년팀에 10년을 지냈고, 그들의 소속 클럽인 타파티오에서 수 차례 출전하였다."
+}

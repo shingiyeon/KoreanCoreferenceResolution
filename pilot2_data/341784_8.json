@@ -1,0 +1,255 @@
+{
+	"docID": "341784",
+	"globalSID": "1779470,1779471",
+	"pronouns": [
+		{
+			"st": 154,
+			"coref_index": 485,
+			"id": 0,
+			"en": 158,
+			"ancestor": "8-3",
+			"surface": "그 무대"
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 5,
+			"ancestor": "7-7",
+			"coref_index": 470,
+			"surface": "서울대학교",
+			"entityName": "서울대학교"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 16,
+			"ancestor": "-1",
+			"coref_index": 474,
+			"surface": "연극",
+			"entityName": "연극"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist",
+				"MilitaryPerson"
+			],
+			"st": 84,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 87,
+			"ancestor": "1-0",
+			"coref_index": 465,
+			"surface": "신영균",
+			"entityName": "신영균_(배우)"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"st": 93,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 97,
+			"ancestor": "-1",
+			"coref_index": 485,
+			"surface": "여인천하",
+			"entityName": "여인천하_(드라마)"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 104,
+			"ancestor": "-1",
+			"surface": "조광조",
+			"entityName": "조광조"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"st": 131,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 133,
+			"ancestor": "-1",
+			"coref_index": 478,
+			"surface": "과부",
+			"entityName": "과부_(1960년_영화)"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 146,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 149,
+			"ancestor": "-1",
+			"coref_index": 476,
+			"surface": "조긍하",
+			"entityName": "조긍하"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 31,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 34,
+			"ancestor": "-1",
+			"surface": "연극인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 113,
+			"ancestor": "-1",
+			"coref_index": 475,
+			"surface": "무대",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 47,
+			"ancestor": "8-1",
+			"coref_index": 474,
+			"surface": "연극",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 65,
+			"ancestor": "8-9",
+			"coref_index": 474,
+			"surface": "연극",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 129,
+			"ancestor": "-1",
+			"surface": "영화",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 136,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 139,
+			"ancestor": "-1",
+			"surface": "주인공",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 152,
+			"ancestor": "-1",
+			"coref_index": 477,
+			"surface": "감독",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 156,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 158,
+			"ancestor": "8-8",
+			"coref_index": 475,
+			"surface": "무대",
+			"entityName": ""
+		}
+	],
+	"plainText": "서울대학교 치대 재학시절 연극을 했던 인연으로 친분있는 연극인들이 찾아오게 되고 연극을 하자는 권유가 늘어갔고, 연극에 대한 열정을 억누를 수 없었던 신영균은 연극 《여인천하》에서 조광조 역을 맡아 무대에 오르게 된다. 당시, 영화 《과부》의 주인공을 물색하던 조긍하 감독이 그 무대를 보게 되고 영화계 진출을 적극적으로 권하게 된다."
+}

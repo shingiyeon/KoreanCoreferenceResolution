@@ -1,0 +1,1993 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 40,
+			"eType": "WIKILINK",
+			"entityName": "나치_독일",
+			"en": 45,
+			"is_target": true,
+			"surface": "나치_독일",
+			"coref_index": 1159,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 56,
+			"eType": "WIKILINK",
+			"entityName": "제2차_세계_대전",
+			"en": 65,
+			"is_target": true,
+			"surface": "제2차_세계_대전",
+			"coref_index": 1154,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"st": 68,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"en": 73,
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"st": 75,
+			"eType": "WIKILINK",
+			"entityName": "독일_육군_(1935년~1945년)",
+			"en": 77,
+			"is_target": true,
+			"surface": "육군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 86,
+			"eType": "WIKILINK",
+			"entityName": "독일_전쟁해군",
+			"en": 90,
+			"is_target": true,
+			"surface": "전쟁해군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"st": 107,
+			"eType": "WIKILINK",
+			"entityName": "루프트바페",
+			"en": 109,
+			"is_target": true,
+			"surface": "공군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 134,
+			"eType": "WIKILINK",
+			"entityName": "무장친위대",
+			"en": 139,
+			"is_target": true,
+			"surface": "무장친위대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"MilitaryUnit"
+			],
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"st": 157,
+			"eType": "WIKILINK",
+			"entityName": "독일_국방군_최고_사령부",
+			"en": 170,
+			"is_target": true,
+			"surface": "독일_국방군_최고_사령부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 6,
+			"is_target": true,
+			"surface": "독일_국방군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "TIME",
+			"st": 20,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 25,
+			"is_target": false,
+			"surface": "1935년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "TIME",
+			"st": 28,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 33,
+			"is_target": false,
+			"surface": "1945년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 47,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 49,
+			"is_target": true,
+			"surface": "군대",
+			"coref_index": 1167,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"st": 141,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 150,
+			"is_target": true,
+			"surface": "국방군_산하_조직",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"st": 192,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"en": 197,
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"st": 248,
+			"eType": "ELU",
+			"entityName": "국가사회주의_독일_노동자당",
+			"en": 251,
+			"is_target": true,
+			"surface": "나치당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 15,
+			"ne_type": "ORGANIZATION",
+			"st": 260,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"en": 265,
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 16,
+			"ne_type": "ORGANIZATION",
+			"st": 339,
+			"eType": "WIKILINK",
+			"entityName": "영국군",
+			"en": 342,
+			"is_target": true,
+			"surface": "영국군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 534,
+			"eType": "ELU",
+			"entityName": "독일_국가방위군",
+			"en": 540,
+			"is_target": true,
+			"surface": "라이히스베어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 217,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 220,
+			"is_target": true,
+			"surface": "방위군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 304,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 314,
+			"is_target": true,
+			"surface": "엥글리셰_베어마흐트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 361,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 372,
+			"is_target": true,
+			"surface": "바이마르_헌법_47조",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 472,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 476,
+			"is_target": true,
+			"surface": "총지휘권",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 478,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 481,
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 1162,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 578,
+			"eType": "WIKILINK",
+			"entityName": "아돌프_히틀러",
+			"en": 585,
+			"is_target": true,
+			"surface": "아돌프_히틀러",
+			"coref_index": 1161,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 24,
+			"ne_type": "ORGANIZATION",
+			"st": 607,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"en": 612,
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 621,
+			"eType": "WIKILINK",
+			"entityName": "제2차_세계_대전",
+			"en": 630,
+			"is_target": true,
+			"surface": "제2차_세계_대전",
+			"coref_index": 1154,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 633,
+			"eType": "WIKILINK",
+			"entityName": "연합군",
+			"en": 636,
+			"is_target": true,
+			"surface": "연합군",
+			"coref_index": 1157,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 27,
+			"ne_type": "ORGANIZATION",
+			"st": 646,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"en": 651,
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 28,
+			"ne_type": "LOCATION",
+			"st": 667,
+			"eType": "WIKILINK",
+			"entityName": "서독",
+			"en": 669,
+			"is_target": true,
+			"surface": "서독",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 29,
+			"ne_type": "ORGANIZATION",
+			"st": 691,
+			"eType": "ELU",
+			"entityName": "독일_연방군",
+			"en": 696,
+			"is_target": true,
+			"surface": "분데스베어",
+			"coref_index": 1155,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 814,
+			"eType": "WIKILINK",
+			"entityName": "독일_재통일",
+			"en": 817,
+			"is_target": true,
+			"surface": "재통일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 830,
+			"eType": "ELU",
+			"entityName": "독일_연방군",
+			"en": 835,
+			"is_target": true,
+			"surface": "분데스베어",
+			"coref_index": 1155,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "TIME",
+			"st": 571,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 576,
+			"is_target": false,
+			"surface": "1935년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 753,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 765,
+			"is_target": true,
+			"surface": "나티오날레_폴크스아르메",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "TIME",
+			"st": 807,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 812,
+			"is_target": false,
+			"surface": "1990년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ORGANIZATION",
+			"st": 825,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 828,
+			"is_target": true,
+			"surface": "독일군",
+			"coref_index": 1156,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "ORGANIZATION",
+			"st": 747,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 750,
+			"is_target": true,
+			"surface": "동독군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 716,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 722,
+			"is_target": true,
+			"surface": "독일_연방군",
+			"coref_index": 1155,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 38,
+			"ne_type": "ORGANIZATION",
+			"st": 861,
+			"eType": "ELU",
+			"entityName": "독일_국방군",
+			"en": 866,
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 883,
+			"eType": "WIKILINK",
+			"entityName": "제2차_세계_대전",
+			"en": 892,
+			"is_target": true,
+			"surface": "제2차_세계_대전",
+			"coref_index": 1154,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 852,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 854,
+			"is_target": true,
+			"surface": "영어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 856,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 858,
+			"is_target": true,
+			"surface": "독어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ORGANIZATION",
+			"st": 897,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 900,
+			"is_target": true,
+			"surface": "독일군",
+			"coref_index": 1156,
+			"ancestor": "1-35"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 911,
+			"eType": "WIKILINK",
+			"entityName": "제1차_세계_대전",
+			"en": 920,
+			"is_target": true,
+			"surface": "제1차_세계_대전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 44,
+			"ne_type": "LOCATION",
+			"st": 922,
+			"eType": "ELU",
+			"entityName": "독일_제국",
+			"en": 926,
+			"is_target": true,
+			"surface": "독일제국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 938,
+			"eType": "ELU",
+			"entityName": "연합국",
+			"en": 941,
+			"is_target": true,
+			"surface": "연합군",
+			"coref_index": 1157,
+			"ancestor": "1-26"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 943,
+			"eType": "WIKILINK",
+			"entityName": "베르사유_조약",
+			"en": 950,
+			"is_target": true,
+			"surface": "베르사유_조약",
+			"coref_index": 1158,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "ORGANIZATION",
+			"st": 955,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 958,
+			"is_target": true,
+			"surface": "독일군",
+			"coref_index": 1163,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ORGANIZATION",
+			"st": 1090,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1096,
+			"is_target": true,
+			"surface": "라이흐스베르",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "TIME",
+			"st": 1099,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1111,
+			"is_target": false,
+			"surface": "1921년_3월_23일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 1127,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1134,
+			"is_target": true,
+			"surface": "베르사유_조약",
+			"coref_index": 1158,
+			"ancestor": "1-46"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "ETC",
+			"st": 1168,
+			"eType": "ELU",
+			"entityName": "비밀리에",
+			"en": 1172,
+			"is_target": true,
+			"surface": "비밀리에",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "ETC",
+			"st": 1187,
+			"eType": "WIKILINK",
+			"entityName": "라팔로_조약_(1922년)",
+			"en": 1193,
+			"is_target": true,
+			"surface": "라팔로_조약",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 53,
+			"ne_type": "LOCATION",
+			"st": 1197,
+			"eType": "WIKILINK",
+			"entityName": "소련",
+			"en": 1199,
+			"is_target": true,
+			"surface": "소련",
+			"coref_index": 1160,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 1230,
+			"eType": "WIKILINK",
+			"entityName": "오토_하세",
+			"en": 1235,
+			"is_target": true,
+			"surface": "오토_하세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"City",
+				"AdministrativeRegion"
+			],
+			"id": 55,
+			"ne_type": "LOCATION",
+			"st": 1247,
+			"eType": "WIKILINK",
+			"entityName": "모스크바",
+			"en": 1251,
+			"is_target": true,
+			"surface": "모스크바",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 56,
+			"ne_type": "LOCATION",
+			"st": 1380,
+			"eType": "ELU",
+			"entityName": "리페츠크",
+			"en": 1384,
+			"is_target": true,
+			"surface": "리페츠크",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 57,
+			"ne_type": "LOCATION",
+			"st": 1434,
+			"eType": "ELU",
+			"entityName": "사라토프",
+			"en": 1438,
+			"is_target": true,
+			"surface": "사라토프",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "ORGANIZATION",
+			"st": 1146,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1148,
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 1159,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "EVENT",
+			"st": 1202,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1206,
+			"is_target": true,
+			"surface": "비밀협력",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 60,
+			"ne_type": "TIME",
+			"st": 1240,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1245,
+			"is_target": false,
+			"surface": "1923년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "ORGANIZATION",
+			"st": 1259,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1261,
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 1159,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ORGANIZATION",
+			"st": 1263,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1265,
+			"is_target": true,
+			"surface": "소련",
+			"coref_index": 1160,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "EVENT",
+			"st": 1267,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1270,
+			"is_target": true,
+			"surface": "산업화",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "PERSON",
+			"st": 1275,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1280,
+			"is_target": true,
+			"surface": "소련_장교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ORGANIZATION",
+			"st": 1283,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1285,
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 1159,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "ORGANIZATION",
+			"st": 1305,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1307,
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 1159,
+			"ancestor": "1-65"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ORGANIZATION",
+			"st": 1323,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1325,
+			"is_target": true,
+			"surface": "소련",
+			"coref_index": 1160,
+			"ancestor": "1-62"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "ORGANIZATION",
+			"st": 1335,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1337,
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 1159,
+			"ancestor": "1-61"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 69,
+			"ne_type": "PERSON",
+			"st": 1470,
+			"eType": "WIKILINK",
+			"en": 1480,
+			"entityName": "파울_폰_힌덴부르크",
+			"is_target": true,
+			"surface": "파울_폰_힌덴부르크",
+			"coref_index": 1165,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 70,
+			"ne_type": "PERSON",
+			"st": 1509,
+			"eType": "WIKILINK",
+			"en": 1516,
+			"entityName": "아돌프_히틀러",
+			"is_target": true,
+			"surface": "아돌프_히틀러",
+			"coref_index": 1161,
+			"ancestor": "1-23"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 71,
+			"ne_type": "ORGANIZATION",
+			"st": 1684,
+			"eType": "ELU",
+			"en": 1689,
+			"entityName": "독일_국방군",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 72,
+			"ne_type": "ORGANIZATION",
+			"st": 1722,
+			"eType": "ELU",
+			"en": 1727,
+			"entityName": "독일_국방군",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-71"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 73,
+			"ne_type": "PERSON",
+			"st": 1783,
+			"eType": "ELU",
+			"en": 1786,
+			"entityName": "아돌프_히틀러",
+			"is_target": true,
+			"surface": "히틀러",
+			"coref_index": 1161,
+			"ancestor": "1-70"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 74,
+			"ne_type": "ETC",
+			"st": 1842,
+			"eType": "WIKILINK",
+			"en": 1851,
+			"entityName": "제1차_세계_대전",
+			"is_target": true,
+			"surface": "제1차_세계_대전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 75,
+			"ne_type": "TIME",
+			"st": 1458,
+			"eType": "NEW",
+			"en": 1469,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1934년_8월_2일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 76,
+			"ne_type": "PERSON",
+			"st": 1481,
+			"eType": "NEW",
+			"en": 1484,
+			"entityName": "",
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 1162,
+			"ancestor": "1-22"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 77,
+			"ne_type": "TIME",
+			"st": 1530,
+			"eType": "NEW",
+			"en": 1535,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1935년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 78,
+			"ne_type": "ETC",
+			"st": 1546,
+			"eType": "NEW",
+			"en": 1553,
+			"entityName": "",
+			"is_target": true,
+			"surface": "베르사유_조약",
+			"coref_index": 1158,
+			"ancestor": "1-46"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "TIME",
+			"st": 1584,
+			"eType": "NEW",
+			"en": 1596,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1935년_3월_16일",
+			"coref_index": 1168,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "ETC",
+			"st": 1621,
+			"eType": "NEW",
+			"en": 1628,
+			"entityName": "",
+			"is_target": true,
+			"surface": "베르사유_조약",
+			"coref_index": 1158,
+			"ancestor": "1-78"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "TIME",
+			"st": 1902,
+			"eType": "NEW",
+			"en": 1915,
+			"entityName": "",
+			"is_target": false,
+			"surface": "1935년_10월_15일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "ORGANIZATION",
+			"st": 1856,
+			"eType": "NEW",
+			"en": 1859,
+			"entityName": "",
+			"is_target": true,
+			"surface": "독일군",
+			"coref_index": 1163,
+			"ancestor": "1-47"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "ORGANIZATION",
+			"st": 1801,
+			"eType": "NEW",
+			"en": 1804,
+			"entityName": "",
+			"is_target": true,
+			"surface": "국방군",
+			"coref_index": 1164,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "ORGANIZATION",
+			"st": 1893,
+			"eType": "NEW",
+			"en": 1896,
+			"entityName": "",
+			"is_target": true,
+			"surface": "국방군",
+			"coref_index": 1164,
+			"ancestor": "1-83"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "ORGANIZATION",
+			"st": 1660,
+			"eType": "NEW",
+			"en": 1663,
+			"entityName": "",
+			"is_target": true,
+			"surface": "징집병",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "ETC",
+			"st": 1598,
+			"eType": "NEW",
+			"en": 1601,
+			"entityName": "",
+			"is_target": true,
+			"surface": "징병제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 87,
+			"ne_type": "ORGANIZATION",
+			"st": 1542,
+			"eType": "NEW",
+			"en": 1544,
+			"entityName": "",
+			"is_target": true,
+			"surface": "독일",
+			"coref_index": 1159,
+			"ancestor": "1-61"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 88,
+			"ne_type": "ORGANIZATION",
+			"st": 1612,
+			"eType": "NEW",
+			"en": 1615,
+			"entityName": "",
+			"is_target": true,
+			"surface": "정규군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 89,
+			"ne_type": "ETC",
+			"st": 1838,
+			"eType": "NEW",
+			"en": 1840,
+			"entityName": "",
+			"is_target": true,
+			"surface": "휘장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 90,
+			"ne_type": "ORGANIZATION",
+			"st": 1959,
+			"eType": "ELU",
+			"en": 1964,
+			"entityName": "독일_국방군",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 91,
+			"ne_type": "ETC",
+			"st": 2011,
+			"eType": "WIKILINK",
+			"en": 2020,
+			"entityName": "뤼디거_오베르만스",
+			"is_target": true,
+			"surface": "뤼디거_오베르만스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"id": 92,
+			"ne_type": "ORGANIZATION",
+			"st": 2073,
+			"eType": "ELU",
+			"en": 2078,
+			"entityName": "독일_국방군",
+			"is_target": true,
+			"surface": "베어마흐트",
+			"coref_index": 1153,
+			"ancestor": "1-90"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 93,
+			"ne_type": "ETC",
+			"st": 2184,
+			"eType": "ELU",
+			"en": 2189,
+			"entityName": "포로_수용소",
+			"is_target": true,
+			"surface": "포로수용소",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 94,
+			"ne_type": "LOCATION",
+			"st": 2221,
+			"eType": "ELU",
+			"en": 2224,
+			"entityName": "프랑스",
+			"is_target": true,
+			"surface": "프랑스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 95,
+			"ne_type": "ORGANIZATION",
+			"st": 2213,
+			"eType": "NEW",
+			"en": 2215,
+			"entityName": "",
+			"is_target": true,
+			"surface": "미국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 96,
+			"ne_type": "ORGANIZATION",
+			"st": 2217,
+			"eType": "NEW",
+			"en": 2219,
+			"entityName": "",
+			"is_target": true,
+			"surface": "영국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 97,
+			"ne_type": "ORGANIZATION",
+			"st": 2037,
+			"eType": "NEW",
+			"en": 2040,
+			"entityName": "",
+			"is_target": true,
+			"surface": "국방군",
+			"coref_index": 1164,
+			"ancestor": "1-83"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 98,
+			"ne_type": "ORGANIZATION",
+			"st": 2303,
+			"eType": "NEW",
+			"en": 2305,
+			"entityName": "",
+			"is_target": true,
+			"surface": "소련",
+			"coref_index": 1160,
+			"ancestor": "1-53"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 99,
+			"ne_type": "PERSON",
+			"st": 2367,
+			"eType": "WIKILINK",
+			"entityName": "파울_폰_힌덴부르크",
+			"en": 2377,
+			"is_target": true,
+			"surface": "파울_폰_힌덴부르크",
+			"coref_index": 1165,
+			"ancestor": "1-69"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 100,
+			"ne_type": "PERSON",
+			"st": 2404,
+			"eType": "WIKILINK",
+			"entityName": "아돌프_히틀러",
+			"en": 2411,
+			"is_target": true,
+			"surface": "아돌프_히틀러",
+			"coref_index": 1161,
+			"ancestor": "1-70"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"President"
+			],
+			"id": 101,
+			"ne_type": "PERSON",
+			"st": 2431,
+			"eType": "ELU",
+			"entityName": "아돌프_히틀러",
+			"en": 2434,
+			"is_target": true,
+			"surface": "히틀러",
+			"coref_index": 1161,
+			"ancestor": "1-70"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 102,
+			"ne_type": "ETC",
+			"st": 2500,
+			"eType": "WIKILINK",
+			"entityName": "베르너_폰_블롬베르크",
+			"en": 2511,
+			"is_target": true,
+			"surface": "베르너_폰_블롬베르크",
+			"coref_index": 1166,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 103,
+			"ne_type": "ETC",
+			"st": 2570,
+			"eType": "WIKILINK",
+			"entityName": "블롬베르크-프리치_위기",
+			"en": 2582,
+			"is_target": true,
+			"surface": "블롬베르크-프리치_사건",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"id": 104,
+			"ne_type": "PERSON",
+			"st": 2611,
+			"eType": "WIKILINK",
+			"entityName": "빌헬름_카이텔",
+			"en": 2618,
+			"is_target": true,
+			"surface": "빌헬름_카이텔",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 105,
+			"ne_type": "ETC",
+			"st": 2629,
+			"eType": "WIKILINK",
+			"entityName": "국방군총사령부",
+			"en": 2636,
+			"is_target": true,
+			"surface": "국방군총사령부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 106,
+			"ne_type": "ETC",
+			"st": 2654,
+			"eType": "WIKILINK",
+			"entityName": "뷘스도르프",
+			"en": 2659,
+			"is_target": true,
+			"surface": "뷘스도르프",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 107,
+			"ne_type": "TIME",
+			"st": 2415,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2420,
+			"is_target": false,
+			"surface": "1938년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 108,
+			"ne_type": "TIME",
+			"st": 2456,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2468,
+			"is_target": false,
+			"surface": "1945년_4월_30일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 109,
+			"ne_type": "PERSON",
+			"st": 2561,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2568,
+			"is_target": true,
+			"surface": "폰_블롬베르크",
+			"coref_index": 1166,
+			"ancestor": "1-102"
+		}
+	],
+	"globalSID": "736116,736117,736118,736119,736120,736121,736122,736123,736124,736125,736126,736127,736128,736129,736130,736131,736132,736133,736134,736135,736136,736137,736138,736139,736140,736141,736142,736143,736144,736145,736146,736147,736148,736149,736150,736151,736152,736153,736154,736155,736156,736157,736158,736159,736160,736161",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 277,
+			"surface": "한 나라의",
+			"st": 272,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 281,
+			"surface": "한 나라의 군대를",
+			"st": 272,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"en": 290,
+			"surface": "한 나라의 군대를 칭하는 일반적인",
+			"st": 272,
+			"ancestor": "-1"
+		},
+		{
+			"id": 3,
+			"en": 296,
+			"surface": "한 나라의 군대를 칭하는 일반적인 명사였다.",
+			"st": 272,
+			"ancestor": "-1"
+		},
+		{
+			"id": 4,
+			"en": 299,
+			"surface": "예를",
+			"st": 297,
+			"ancestor": "-1"
+		},
+		{
+			"id": 5,
+			"en": 471,
+			"surface": "모든 군사의",
+			"st": 465,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 477,
+			"surface": "모든 군사의 총지휘권은",
+			"st": 465,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 507,
+			"surface": "다른 나라들의",
+			"st": 500,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"en": 1098,
+			"surface": "이 새로운 군대 (라이흐스베르)는",
+			"st": 1080,
+			"ancestor": "-1"
+		},
+		{
+			"id": 9,
+			"en": 1167,
+			"ancestor": "-1",
+			"st": 1161,
+			"surface": "이 조건들을"
+		},
+		{
+			"id": 10,
+			"en": 1301,
+			"ancestor": "-1",
+			"st": 1300,
+			"surface": "그"
+		},
+		{
+			"id": 11,
+			"en": 1304,
+			"ancestor": "-1",
+			"st": 1300,
+			"surface": "그 대신"
+		},
+		{
+			"id": 12,
+			"en": 1361,
+			"ancestor": "-1",
+			"st": 1352,
+			"surface": "다른 프로젝트들과"
+		},
+		{
+			"id": 13,
+			"en": 1508,
+			"ancestor": "-1",
+			"st": 1497,
+			"surface": "모든 장교와 병사들은"
+		},
+		{
+			"id": 14,
+			"ancestor": "1-11",
+			"st": 1555,
+			"en": 1556,
+			"surface": "군",
+			"coref_index": 1167
+		},
+		{
+			"id": 15,
+			"en": 1559,
+			"ancestor": "-1",
+			"st": 1555,
+			"surface": "군 관련"
+		},
+		{
+			"id": 16,
+			"en": 1564,
+			"ancestor": "-1",
+			"st": 1546,
+			"surface": "베르사유_조약의 군 관련 조항들을"
+		},
+		{
+			"id": 17,
+			"en": 1658,
+			"ancestor": "-1",
+			"st": 1654,
+			"surface": "이 숫자"
+		},
+		{
+			"id": 18,
+			"en": 1664,
+			"ancestor": "-1",
+			"st": 1654,
+			"surface": "이 숫자의 징집병이"
+		},
+		{
+			"id": 19,
+			"en": 1680,
+			"ancestor": "-1",
+			"st": 1674,
+			"surface": "이 징집법을"
+		},
+		{
+			"id": 20,
+			"ancestor": "1-79",
+			"st": 1716,
+			"en": 1720,
+			"surface": "이 날짜",
+			"coref_index": 1168
+		},
+		{
+			"id": 21,
+			"en": 1737,
+			"ancestor": "-1",
+			"st": 1716,
+			"surface": "이 날짜를 베어마흐트의 창립일로 볼 수"
+		},
+		{
+			"id": 22,
+			"ancestor": "1-11",
+			"st": 1749,
+			"en": 1750,
+			"surface": "군",
+			"coref_index": 1167
+		},
+		{
+			"id": 23,
+			"en": 1755,
+			"ancestor": "-1",
+			"st": 1749,
+			"surface": "군 수뇌부의"
+		},
+		{
+			"id": 24,
+			"en": 1763,
+			"ancestor": "-1",
+			"st": 1749,
+			"surface": "군 수뇌부의 정치적 성향이"
+		},
+		{
+			"id": 25,
+			"en": 2006,
+			"ancestor": "-1",
+			"st": 2001,
+			"surface": "이 숫자는"
+		},
+		{
+			"id": 26,
+			"en": 2036,
+			"ancestor": "-1",
+			"st": 2033,
+			"surface": "이것은"
+		},
+		{
+			"id": 27,
+			"en": 2072,
+			"ancestor": "-1",
+			"st": 2064,
+			"surface": "어느 한 시점의"
+		},
+		{
+			"id": 28,
+			"en": 2083,
+			"ancestor": "-1",
+			"st": 2064,
+			"surface": "어느 한 시점의 베어마흐트의 병력을"
+		},
+		{
+			"id": 29,
+			"en": 2090,
+			"ancestor": "-1",
+			"st": 2064,
+			"surface": "어느 한 시점의 베어마흐트의 병력을 말하는 것이"
+		},
+		{
+			"id": 30,
+			"en": 2203,
+			"ancestor": "-1",
+			"st": 2200,
+			"surface": "이 중"
+		},
+		{
+			"id": 31,
+			"en": 2212,
+			"ancestor": "-1",
+			"st": 2200,
+			"surface": "이 중 77,000명이"
+		},
+		{
+			"id": 32,
+			"en": 2298,
+			"ancestor": "-1",
+			"st": 2295,
+			"surface": "이들은"
+		},
+		{
+			"id": 33,
+			"en": 2423,
+			"surface": "군",
+			"st": 2422,
+			"ancestor": "-1"
+		},
+		{
+			"id": 34,
+			"en": 2427,
+			"surface": "1938년의 군 개편을",
+			"st": 2415,
+			"ancestor": "-1"
+		},
+		{
+			"id": 35,
+			"en": 2442,
+			"surface": "군총사령관이",
+			"st": 2436,
+			"ancestor": "-1"
+		},
+		{
+			"id": 36,
+			"en": 2452,
+			"surface": "이 직위를",
+			"st": 2447,
+			"ancestor": "-1"
+		},
+		{
+			"id": 37,
+			"ancestor": "1-101",
+			"st": 2453,
+			"en": 2454,
+			"surface": "그",
+			"coref_index": 1161
+		},
+		{
+			"id": 38,
+			"en": 2490,
+			"surface": "군의",
+			"st": 2488,
+			"ancestor": "-1"
+		},
+		{
+			"id": 39,
+			"en": 2610,
+			"surface": "그 업무는",
+			"st": 2605,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "독일_국방군(獨逸 國防軍, , )는 1935년부터 1945년까지 있었던 나치_독일의 군대를 칭한다. 제2차_세계_대전동안 베어마흐트는 육군 (Heer), 전쟁해군 (Kriegsmarine)과 공군 (Luftwaffe)으로 구성되어 있었다. 무장친위대는 국방군_산하_조직이 아니었고 독일_국방군_최고_사령부의 지휘를 받았다. 명칭의 기원과 사용 베어마흐트(Wehrmacht)는 문자적으로 '방위군'(防衛軍, defence force)을 뜻한다. 나치당의 집권 전까지 베어마흐트라는 명사는 한 나라의 군대를 칭하는 일반적인 명사였다. 예를 들면 \"엥글리셰_베어마흐트 (Englische Wehrmacht)\"는 영국군을 일컫는 말이었고, 1919년의 바이마르_헌법_47조에는 \"Der Reichspr?sident hat den Oberbefehl ?ber die gesamte Wehrmacht des Reiches\" (번역: \"국가의 모든 군사의 총지휘권은 대통령에게 있다.\")라고 명시되어있다. 다른 나라들의 군대와 구분짓기 위해서 독일군을 가리킬 때는 \"라이히스베어\" (Reichswehr)라는 단어가 보통 사용되었다. 1935년, 아돌프_히틀러가 재무장을 선언하면서, 라이흐스베어는 베어마흐트로 개명되었다. 제2차_세계_대전 후 연합군의 독일점령 하에 베어마흐트는 폐지되었다. 1955년에 서독이 재무장을 시작했을때, 신설 서독군은 분데스베어 (Bundeswehr), 번역하면 독일_연방군으로 불렸다. 1956년에 공식적으로 창건된 동독군은 \"나티오날레_폴크스아르메\" (Nationale Volksarmee, 국가인민군)로 불렸다. 독일이 1990년에 재통일 후에 통합된 독일군도 분데스베어로 계속 불려 왔다. 그러므로 영어와 독어에서 베어마흐트라는 명칭은 관례상 제3제국과 제2차_세계_대전 당시의 독일군을 가리킨다. 역사 제1차_세계_대전이 독일제국의 항복으로 종결되자 연합군은 베르사유_조약을 통해 독일군의 크기에 엄한 제약을 두었다. 육군은 십만 명, 해군은 만 오천명의 병사로 한정되었다. 해군 함대는 전함 6척, 순양함 6척, 구축함 12척밖에 가질 수 없었다. 탱크와 포병대는 금지되었고 공군은 해산되었다. 전후의 이 새로운 군대 (라이흐스베르)는 1921년_3월_23일에 설립되었다. 징병제 또한 베르사유_조약에 의해 폐지되었다. 독일은 즉시 편법을 통하여 이 조건들을 비밀리에 우회해 나가기 시작했다. 라팔로_조약 후에 소련과의 비밀협력이 시작되었다. 조건들을 더 협상하기 위해 오토_하세 소장이 1923년에 모스크바를 방문했다. 독일은 소련의 산업화를 돕고 소련_장교들을 독일에서 훈련시키기로 했었다. 그 대신 독일의 탱크 및 공군 기술자들은 소련에서 교육을 받고 독일의 화학무기 연구와 제조도 다른 프로젝트들과 함께 소련 영토에서 실행되었다. 리페츠크에서 300여 명의 독일 공군조종사가 훈련을 받았고, 카잔 근처에서 탱크 훈련이 있었으며 사라토프에서 독일군의 독가스가 개발되었다. 1934년_8월_2일 파울_폰_힌덴부르크 대통령의 사망 후, 독일군의 모든 장교와 병사들은 아돌프_히틀러에게 충성맹세를 하였다. 1935년이 됐을 때 독일은 베르사유_조약의 군 관련 조항들을 이미 공개적으로 무시하고 있었고, 1935년_3월_16일에 징병제가 재도입 되었다. 정규군의 규모는 베르사유_조약에 명시된 십만 명의 정도를 유지했으나, 매년 이 숫자의 징집병이 훈련을 받았다. 이 징집법을 통해 베어마흐트(독일 국방군)라는 명칭이 도입되었다. 그러므로 이 날짜를 베어마흐트의 창립일로 볼 수 있을 뿐만 아니라, 군 수뇌부의 정치적 성향이 어떠하였건 간에 (군 장성들 또한 히틀러에게 충성맹세를 하였지만) 국방군의 조직과 권한은 나치의 창조물이라고 볼 수 있다. 국방군의 휘장은 제1차_세계_대전 말기에 독일군 탱크와 전투기에 처음 쓰였던 철십자를 양식화한 문양이었다. 국방군의 존재는 1935년_10월_15일에 공식적으로 선포되었다. 1935년부터 1945년까지 국방군이 존재하는 동안 베어마흐트에 복무한 군인의 총 숫자는 1,820만여 명 정도라고 추측된다. 이 숫자는 사학자 뤼디거_오베르만스에 의해 제시되었는데, 이것은 국방군에 복무한 사람들의 수를 모두 합친 것이지 어느 한 시점의 베어마흐트의 병력을 말하는 것이 아니다. 국방군의 군인 중 230만여 명이 전사, 55만이 비전투 관련 원인으로 사망하였으며 2백만 명이 작전 중 실종되고 전후 행방불명 처리되었다. 약 46만 명이 포로수용소에서 사망하였는데, 이 중 77,000명이 미국, 영국, 프랑스 측에 의해 수감되어 있었다. 수감 중 사망한 인원은 1945년 6월 이후의 전후 기간에 사망한 266,000명도 포함하는데, 이들은 대부분 소련에 수감되어 있었다. 대략 1100만 명 정도가 적군의 포로가 되었다. 지휘체계 법적으로, 국방군의 총지휘관은 파울_폰_힌덴부르크 대통령 사망 후 독일의 국가 원수 자리를 맡은 아돌프_히틀러였다. 1938년의 군 개편을 통해 히틀러는 군총사령관이 되었고 이 직위를 그가 1945년_4월_30일에 자살할 때까지 유지하였다. 원래 군의 행정 및 권한은 베르너_폰_블롬베르크 (Werner von Blomberg) 원수 하의 전쟁성에 있었다. 하지만 1938년에 폰_블롬베르크가 블롬베르크-프리치_사건에 연루되어 사임하자 전쟁성은 폐지되었고 그 업무는 빌헬름_카이텔 원수 아래 신설된 국방군총사령부(OKW)에 주어졌다. OKW는 뷘스도르프에 본부를 두고 있었고, 전쟁 중 총통본부에는 항상 야전참모부가 붙여졌다. ",
+	"docID": "95853"
+}

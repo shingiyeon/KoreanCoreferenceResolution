@@ -1,0 +1,76 @@
+{
+	"docID": "67496",
+	"globalSID": "555212",
+	"pronouns": [
+		{
+			"en": 2,
+			"ancestor": "-1",
+			"surface": "본관",
+			"id": 0,
+			"st": 0
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "WIKILINK",
+			"entityName": "양천_허씨",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 6,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "양천",
+			"coref_index": 791
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 13,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "단보"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "교산",
+			"coref_index": 786
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 32,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 34,
+			"ancestor": "3-2",
+			"is_target": true,
+			"surface": "학산",
+			"coref_index": 786
+		}
+	],
+	"plainText": "본관은 양천, 자는 단보(端甫), 호는 교산(蛟山) 또는 학산(鶴山), 성소(惺所), 성수(惺?)로 불렸고 후에는 백월거사(白月居士)로도 불렸다."
+}

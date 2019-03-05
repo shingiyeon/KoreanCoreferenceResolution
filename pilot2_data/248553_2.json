@@ -1,0 +1,310 @@
+{
+	"docID": "248553",
+	"globalSID": "1423803,1423804,1423805,1423806",
+	"pronouns": [
+		{
+			"en": 133,
+			"ancestor": "-1",
+			"surface": "이 트레이드는",
+			"id": 0,
+			"st": 126
+		}
+	],
+	"parID": "2",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 7,
+			"ancestor": "1-2",
+			"coref_index": 341,
+			"surface": "롯데_자이언츠",
+			"entityName": "롯데_자이언츠"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 16,
+			"ancestor": "-1",
+			"surface": "2001년",
+			"entityName": "2001년_한국프로야구_신인선수_지명회의"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 17,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 24,
+			"ancestor": "2-0",
+			"coref_index": 341,
+			"surface": "롯데_자이언츠",
+			"entityName": "롯데_자이언츠"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 55,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "이대호",
+			"entityName": "이대호"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 74,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 77,
+			"ancestor": "-1",
+			"coref_index": 343,
+			"surface": "최경환",
+			"entityName": "최경환_(야구인)"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 79,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 82,
+			"ancestor": "-1",
+			"coref_index": 342,
+			"surface": "이승준",
+			"entityName": "이승준_(야구_선수)"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 88,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 91,
+			"ancestor": "-1",
+			"coref_index": 345,
+			"surface": "김진수",
+			"entityName": "김진수_(야구인)"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 105,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ORGANIZATION",
+			"en": 111,
+			"ancestor": "-1",
+			"coref_index": 344,
+			"surface": "두산_베어스",
+			"entityName": "두산_베어스"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 134,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 137,
+			"ancestor": "2-5",
+			"coref_index": 342,
+			"surface": "이승준",
+			"entityName": "이승준_(야구_선수)"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 139,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 9,
+			"ne_type": "TIME",
+			"en": 144,
+			"ancestor": "",
+			"surface": "2006년",
+			"entityName": "2006년"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 147,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 150,
+			"ancestor": "2-4",
+			"coref_index": 343,
+			"surface": "최경환",
+			"entityName": "최경환_(야구인)"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 152,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 11,
+			"ne_type": "TIME",
+			"en": 157,
+			"ancestor": "",
+			"surface": "2007년",
+			"entityName": "2007년"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 170,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ORGANIZATION",
+			"en": 177,
+			"ancestor": "2-2",
+			"coref_index": 341,
+			"surface": "롯데_자이언츠",
+			"entityName": "롯데_자이언츠"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 199,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 202,
+			"ancestor": "2-10",
+			"coref_index": 343,
+			"surface": "최경환",
+			"entityName": "최경환_(야구인)"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 204,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"en": 212,
+			"ancestor": "-1",
+			"surface": "KIA_타이거즈",
+			"entityName": "KIA_타이거즈"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 231,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 234,
+			"ancestor": "2-5",
+			"coref_index": 342,
+			"surface": "이승준",
+			"entityName": "이승준_(야구_선수)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 96,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 16,
+			"ne_type": "TIME",
+			"en": 104,
+			"ancestor": "",
+			"surface": "2006년_5월",
+			"entityName": ""
+		}
+	],
+	"plainText": "롯데_자이언츠 시절 2001년 롯데_자이언츠의 2차 6순위 지명을 받고 포수로 입단하였다. 그러나 이대호에게 밀려 백업으로만 뛰었고 최경환, 이승준을 상대로 김진수와 함께 2006년_5월 두산_베어스에 트레이드되었다. 그러나 이 트레이드는 이승준이 2006년을, 최경환은 2007년을 끝으로 방출당하면서 롯데_자이언츠에게는 실패한 트레이드가 되고 말았고, 최경환은 KIA_타이거즈로 옮겨 현역 생활을 마무리했지만 이승준은 현역에서 은퇴했다."
+}

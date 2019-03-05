@@ -1,0 +1,23 @@
+{
+	"docID": "1631138",
+	"globalSID": "3854850,3854851",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 21,
+			"ancestor": "",
+			"surface": "1999년_5월_19일",
+			"entityName": ""
+		}
+	],
+	"plainText": "결승전 결승전은 1999년_5월_19일 잉글랜드 버밍엄의 빌라 파크에서 열렸다."
+}

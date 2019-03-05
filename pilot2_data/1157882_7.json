@@ -1,0 +1,42 @@
+{
+	"docID": "1157882",
+	"globalSID": "3397318",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "세리에_A_2012-13",
+			"entityName": "세리에_A_2012-13"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 24,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "1-0",
+			"coref_index": 62,
+			"surface": "그레코",
+			"entityName": "엘_그레코"
+		}
+	],
+	"plainText": "세리에_A_2012-13 시즌이 시작할때, 그레코는 프리시즌 캠프에 포함되었지만, 미묘한 부상으로 인해 빠지게 되었다..."
+}

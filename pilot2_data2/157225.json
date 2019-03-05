@@ -1,0 +1,575 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 199,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 200,
+			"en": 200,
+			"st_modified": 199
+		},
+		{
+			"st": 227,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 228,
+			"en": 228,
+			"st_modified": 227
+		},
+		{
+			"st": 230,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 231,
+			"en": 231,
+			"st_modified": 230
+		},
+		{
+			"st": 255,
+			"text": "그 제의",
+			"is_pronoun": true,
+			"en_modified": 259,
+			"en": 259,
+			"st_modified": 255
+		},
+		{
+			"st": 268,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 269,
+			"en": 269,
+			"st_modified": 268
+		},
+		{
+			"st": 320,
+			"text": "그 경기",
+			"is_pronoun": true,
+			"en_modified": 324,
+			"en": 324,
+			"st_modified": 320
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 199,
+			"ancestor": "-1",
+			"surface": "그",
+			"en_modified": 200,
+			"en": 200,
+			"st_modified": 199,
+			"id": 0
+		},
+		{
+			"st": 227,
+			"ancestor": "-1",
+			"surface": "그",
+			"en_modified": 228,
+			"en": 228,
+			"st_modified": 227,
+			"id": 1
+		},
+		{
+			"st": 230,
+			"ancestor": "-1",
+			"surface": "그",
+			"en_modified": 231,
+			"en": 231,
+			"st_modified": 230,
+			"id": 2
+		},
+		{
+			"st": 255,
+			"ancestor": "-1",
+			"surface": "그 제의",
+			"en_modified": 259,
+			"en": 259,
+			"st_modified": 255,
+			"id": 3
+		},
+		{
+			"st": 268,
+			"ancestor": "-1",
+			"surface": "그",
+			"en_modified": 269,
+			"en": 269,
+			"st_modified": 268,
+			"id": 4
+		},
+		{
+			"st": 320,
+			"ancestor": "-1",
+			"surface": "그 경기",
+			"en_modified": 324,
+			"en": 324,
+			"st_modified": 320,
+			"id": 5
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 24,
+			"entityName": "",
+			"st_modified": 13,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 13,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1984년_7월_7일",
+			"is_target": false,
+			"en": 24,
+			"id": 0
+		},
+		{
+			"en_modified": 33,
+			"st_modified": 26,
+			"coref_index": 231,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 26,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이탈리아_로마",
+			"is_target": true,
+			"en": 33,
+			"id": 1
+		},
+		{
+			"en_modified": 105,
+			"st_modified": 103,
+			"coref_index": 231,
+			"entityName": "로마",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 103,
+			"ancestor": "1-1",
+			"ne_type": "LOCATION",
+			"surface": "로마",
+			"is_target": true,
+			"en": 105,
+			"id": 2
+		},
+		{
+			"en_modified": 197,
+			"entityName": "2001년",
+			"st_modified": 192,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 192,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2001년",
+			"is_target": false,
+			"en": 197,
+			"id": 3
+		},
+		{
+			"en_modified": 210,
+			"entityName": "첼시_FC",
+			"st_modified": 208,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 208,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "첼시",
+			"is_target": true,
+			"en": 210,
+			"id": 4
+		},
+		{
+			"en_modified": 215,
+			"entityName": "아스널_FC",
+			"st_modified": 212,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 212,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "아스날",
+			"is_target": true,
+			"en": 215,
+			"id": 5
+		},
+		{
+			"en_modified": 246,
+			"st_modified": 241,
+			"coref_index": 232,
+			"entityName": "AS_로마",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 241,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "AS_로마",
+			"is_target": true,
+			"en": 246,
+			"id": 6
+		},
+		{
+			"en_modified": 276,
+			"st_modified": 271,
+			"coref_index": 234,
+			"entityName": "세리에_A",
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 271,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_A",
+			"is_target": true,
+			"en": 276,
+			"id": 7
+		},
+		{
+			"en_modified": 294,
+			"entityName": "토리노_FC",
+			"st_modified": 291,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 291,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "토리노",
+			"is_target": true,
+			"en": 294,
+			"id": 8
+		},
+		{
+			"en_modified": 318,
+			"st_modified": 313,
+			"coref_index": 232,
+			"entityName": "AS_로마",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 313,
+			"ancestor": "1-6",
+			"ne_type": "ORGANIZATION",
+			"surface": "AS_로마",
+			"is_target": true,
+			"en": 318,
+			"id": 9
+		},
+		{
+			"en_modified": 362,
+			"entityName": "US_트리에스티나",
+			"st_modified": 356,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 356,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "트리에스티나",
+			"is_target": true,
+			"en": 362,
+			"id": 10
+		},
+		{
+			"en_modified": 412,
+			"entityName": "SS_라치오",
+			"st_modified": 409,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 409,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "라치오",
+			"is_target": true,
+			"en": 412,
+			"id": 11
+		},
+		{
+			"en_modified": 477,
+			"st_modified": 472,
+			"coref_index": 235,
+			"entityName": "AC_밀란",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 472,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "AC_밀란",
+			"is_target": true,
+			"en": 477,
+			"id": 12
+		},
+		{
+			"en_modified": 488,
+			"entityName": "만시니",
+			"st_modified": 485,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 485,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "만시니",
+			"is_target": true,
+			"en": 488,
+			"id": 13
+		},
+		{
+			"en_modified": 575,
+			"st_modified": 572,
+			"coref_index": 233,
+			"entityName": "리버풀_FC",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 572,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "리버풀",
+			"is_target": true,
+			"en": 575,
+			"id": 14
+		},
+		{
+			"en_modified": 592,
+			"st_modified": 589,
+			"coref_index": 233,
+			"entityName": "리버풀",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "ELU",
+			"st": 589,
+			"ancestor": "1-14",
+			"ne_type": "LOCATION",
+			"surface": "리버풀",
+			"is_target": true,
+			"en": 592,
+			"id": 15
+		},
+		{
+			"en_modified": 631,
+			"entityName": "유벤투스_FC",
+			"st_modified": 627,
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 627,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "유벤투스",
+			"is_target": true,
+			"en": 631,
+			"id": 16
+		},
+		{
+			"en_modified": 570,
+			"entityName": "",
+			"st_modified": 562,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 562,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_여름",
+			"is_target": false,
+			"en": 570,
+			"id": 17
+		},
+		{
+			"en_modified": 579,
+			"entityName": "",
+			"st_modified": 577,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 577,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이적",
+			"is_target": true,
+			"en": 579,
+			"id": 18
+		},
+		{
+			"en_modified": 598,
+			"entityName": "",
+			"st_modified": 596,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 596,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "부상",
+			"is_target": true,
+			"en": 598,
+			"id": 19
+		},
+		{
+			"en_modified": 625,
+			"entityName": "",
+			"st_modified": 617,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 617,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2010년_8월",
+			"is_target": false,
+			"en": 625,
+			"id": 20
+		},
+		{
+			"en_modified": 643,
+			"entityName": "",
+			"st_modified": 641,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 641,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "임대",
+			"is_target": true,
+			"en": 643,
+			"id": 21
+		},
+		{
+			"en_modified": 637,
+			"entityName": "",
+			"st_modified": 633,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 633,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "한_시즌",
+			"is_target": true,
+			"en": 637,
+			"id": 22
+		},
+		{
+			"en_modified": 674,
+			"st_modified": 669,
+			"coref_index": 234,
+			"entityName": "세리에_A",
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"eType": "WIKILINK",
+			"st": 669,
+			"ancestor": "1-7",
+			"ne_type": "ORGANIZATION",
+			"surface": "세리에_A",
+			"is_target": true,
+			"en": 674,
+			"id": 23
+		},
+		{
+			"en_modified": 681,
+			"st_modified": 676,
+			"coref_index": 235,
+			"entityName": "AC_밀란",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 676,
+			"ancestor": "1-12",
+			"ne_type": "ORGANIZATION",
+			"surface": "AC_밀란",
+			"is_target": true,
+			"en": 681,
+			"id": 24
+		}
+	],
+	"globalSID": "1063923,1063924,1063925,1063926,1063927,1063928,1063929,1063930,1063931,1063932,1063933,1063934,1063935,1063936,1063937",
+	"plainText": "알베르토 아퀼라니 (, 1984년_7월_7일, 이탈리아_로마 ~ )는 이탈리아의 축구 선수이다. 포지션은 중앙 미드필더이고, 현재 세리에 A의 사수올로에서 뛰고 있다. 경력 아퀼라니는 로마 교외의 부유한 집에서 태어났다. 아퀼라니가 선호하는 포지션은 공격형 미드필더이지만 아퀼라니는 중앙 미드필더, 왼쪽 윙어, 오른쪽 윙어로 다양하게 뛰었다. 2001년, 그가 16살때, 첼시와 아스날로부터 제의가 왔지만 그는 그가 좋아하는 팀인 AS_로마에서 뛰기 위해 그 제의를 거절하였다. 그는 세리에_A에 2002년 5월 10일 토리노와의 경기에서 첫 출전을 하였다. AS_로마는 그 경기에서 3대 1로 승리하였다. 하지만 2003-04 시즌에 트리에스티나로 임대를 갔다. 2004-05시즌에 다시 로마로 돌아와서, 2006년 2월 26일 라치오를 상대로 두 번째골을 터트리면서 로마가 세리에 A 연승기록을 깨는 데 도움을 주었다. 2006-07 시즌 AC_밀란과의 경기에서 만시니에게 라보나 패스를 선보이면서 주목을 받았다. 최근에는, 로마에서 공격형 미드필더의 위치보단, 중앙 미드필더의 자리에서 뛰고 있다. 2009년_여름, 리버풀로 이적하였다. 그렇지만 리버풀에서도 부상으로 자주 나오지 못 하면서 결국 2010년_8월, 유벤투스로 한_시즌 동안 임대되었다. 그리고 다시 돌아왔지만 또 다시 같은 세리에_A의 AC_밀란으로 임대되었다. ",
+	"docID": "157225",
+	"ModifiedText": "알베르토 아퀼라니 (, 1984년 7월 7일, 이탈리아 로마 ~ )는 이탈리아의 축구 선수이다. 포지션은 중앙 미드필더이고, 현재 세리에 A의 사수올로에서 뛰고 있다. 경력 아퀼라니는 로마 교외의 부유한 집에서 태어났다. 아퀼라니가 선호하는 포지션은 공격형 미드필더이지만 아퀼라니는 중앙 미드필더, 왼쪽 윙어, 오른쪽 윙어로 다양하게 뛰었다. 2001년, 그가 16살때, 첼시와 아스날로부터 제의가 왔지만 그는 그가 좋아하는 팀인 AS 로마에서 뛰기 위해 그 제의를 거절하였다. 그는 세리에 A에 2002년 5월 10일 토리노와의 경기에서 첫 출전을 하였다. AS 로마는 그 경기에서 3대 1로 승리하였다. 하지만 2003-04 시즌에 트리에스티나로 임대를 갔다. 2004-05시즌에 다시 로마로 돌아와서, 2006년 2월 26일 라치오를 상대로 두 번째골을 터트리면서 로마가 세리에 A 연승기록을 깨는 데 도움을 주었다. 2006-07 시즌 AC 밀란과의 경기에서 만시니에게 라보나 패스를 선보이면서 주목을 받았다. 최근에는, 로마에서 공격형 미드필더의 위치보단, 중앙 미드필더의 자리에서 뛰고 있다. 2009년 여름, 리버풀로 이적하였다. 그렇지만 리버풀에서도 부상으로 자주 나오지 못 하면서 결국 2010년 8월, 유벤투스로 한 시즌 동안 임대되었다. 그리고 다시 돌아왔지만 또 다시 같은 세리에 A의 AC 밀란으로 임대되었다. "
+}

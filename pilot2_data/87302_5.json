@@ -1,0 +1,154 @@
+{
+	"docID": "87302",
+	"globalSID": "679509,679510",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "1910년",
+			"entityName": "1910년"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"st": 6,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 11,
+			"ancestor": "4-14",
+			"coref_index": 1071,
+			"surface": "연동여학교",
+			"entityName": "정신여자고등학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 18,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "광주",
+			"entityName": "광주직할시"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"st": 22,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 28,
+			"ancestor": "-1",
+			"coref_index": 1074,
+			"surface": "수피아여학교",
+			"entityName": "광주수피아여자고등학교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 29,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 38,
+			"ancestor": "5-3",
+			"coref_index": 1074,
+			"surface": "수피아여자고등학교",
+			"entityName": "수피아여자고등학교"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 60,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 65,
+			"ancestor": "",
+			"surface": "1914년",
+			"entityName": "1914년"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "일본",
+			"entityName": "일본"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 80,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 86,
+			"ancestor": "-1",
+			"surface": "히로시마_시",
+			"entityName": "히로시마_시"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 98,
+			"ancestor": "-1",
+			"coref_index": 1076,
+			"surface": "도쿄_여자학원",
+			"entityName": "도쿄_여자학원"
+		}
+	],
+	"plainText": "1910년 연동여학교를 졸업하고 광주의 수피아여학교(수피아여자고등학교의 전신)와 모교에서 교사로 근무했다. 1914년에는 일본으로 유학을 떠나 히로시마_시를 거쳐 도쿄_여자학원에서 수학했다."
+}

@@ -1,0 +1,2608 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 107,
+			"text": "이력 본관",
+			"is_pronoun": true,
+			"en_modified": 112,
+			"en": 112,
+			"st_modified": 107
+		},
+		{
+			"st": 223,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 224,
+			"en": 224,
+			"st_modified": 223
+		},
+		{
+			"st": 223,
+			"text": "그의 아들",
+			"is_pronoun": true,
+			"en_modified": 228,
+			"en": 228,
+			"st_modified": 223
+		},
+		{
+			"st": 223,
+			"text": "그의 아들 신언식",
+			"is_pronoun": true,
+			"en_modified": 232,
+			"en": 232,
+			"st_modified": 223
+		},
+		{
+			"st": 979,
+			"text": "그 무대",
+			"is_pronoun": true,
+			"en_modified": 983,
+			"en": 983,
+			"st_modified": 979
+		},
+		{
+			"st": 1248,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1249,
+			"en": 1249,
+			"st_modified": 1248
+		},
+		{
+			"st": 1248,
+			"text": "그의 히트작",
+			"is_pronoun": true,
+			"en_modified": 1254,
+			"en": 1254,
+			"st_modified": 1248
+		},
+		{
+			"st": 1248,
+			"text": "그의 히트작인 《빨간_마후라》",
+			"is_pronoun": true,
+			"en_modified": 1264,
+			"en": 1264,
+			"st_modified": 1248
+		},
+		{
+			"st": 1580,
+			"text": "이때",
+			"is_pronoun": true,
+			"en_modified": 1582,
+			"en": 1582,
+			"st_modified": 1580
+		},
+		{
+			"st": 1580,
+			"text": "이때 부인_김선희_여사",
+			"is_pronoun": true,
+			"en_modified": 1592,
+			"en": 1592,
+			"st_modified": 1580
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 223,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 224,
+			"en": 224,
+			"st_modified": 223,
+			"id": 0,
+			"coref_index": 465
+		},
+		{
+			"st": 223,
+			"ancestor": "-1",
+			"surface": "그의 아들",
+			"en_modified": 228,
+			"en": 228,
+			"st_modified": 223,
+			"id": 1
+		},
+		{
+			"st": 223,
+			"ancestor": "-1",
+			"surface": "그의 아들 신언식은",
+			"en_modified": 233,
+			"en": 233,
+			"st_modified": 223,
+			"id": 2
+		},
+		{
+			"st": 979,
+			"ancestor": "1-62",
+			"surface": "그 무대",
+			"en_modified": 983,
+			"en": 983,
+			"st_modified": 979,
+			"id": 3,
+			"coref_index": 485
+		},
+		{
+			"st": 1248,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 1249,
+			"en": 1249,
+			"st_modified": 1248,
+			"id": 4,
+			"coref_index": 465
+		},
+		{
+			"st": 1248,
+			"ancestor": "-1",
+			"surface": "그의 히트작인",
+			"en_modified": 1255,
+			"en": 1255,
+			"st_modified": 1248,
+			"id": 5
+		},
+		{
+			"st": 1248,
+			"ancestor": "-1",
+			"surface": "그의 히트작인 《빨간_마후라》",
+			"en_modified": 1264,
+			"en": 1264,
+			"st_modified": 1248,
+			"id": 6
+		},
+		{
+			"st": 1580,
+			"ancestor": "-1",
+			"surface": "이때",
+			"en_modified": 1582,
+			"en": 1582,
+			"st_modified": 1580,
+			"id": 7
+		},
+		{
+			"st": 1580,
+			"ancestor": "-1",
+			"surface": "이때 부인_김선희_여사",
+			"en_modified": 1592,
+			"en": 1592,
+			"st_modified": 1580,
+			"id": 8
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 3,
+			"st_modified": 0,
+			"coref_index": 465,
+			"entityName": "신영균_(배우)",
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist",
+				"MilitaryPerson"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "신영균",
+			"is_target": true,
+			"en": 3,
+			"id": 0
+		},
+		{
+			"en_modified": 31,
+			"st_modified": 27,
+			"coref_index": 468,
+			"entityName": "대한민국",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 27,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "대한민국",
+			"is_target": true,
+			"en": 31,
+			"id": 1
+		},
+		{
+			"en_modified": 37,
+			"st_modified": 33,
+			"coref_index": 467,
+			"entityName": "영화배우",
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 33,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "영화배우",
+			"is_target": true,
+			"en": 37,
+			"id": 2
+		},
+		{
+			"en_modified": 41,
+			"entityName": "연극",
+			"st_modified": 39,
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "WIKILINK",
+			"st": 39,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "연극",
+			"is_target": true,
+			"en": 41,
+			"id": 3
+		},
+		{
+			"en_modified": 43,
+			"entityName": "배우",
+			"st_modified": 41,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 41,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "배우",
+			"is_target": true,
+			"en": 43,
+			"id": 4
+		},
+		{
+			"en_modified": 49,
+			"entityName": "치과의사",
+			"st_modified": 45,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 45,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "치과의사",
+			"is_target": true,
+			"en": 49,
+			"id": 5
+		},
+		{
+			"en_modified": 53,
+			"entityName": "가수",
+			"st_modified": 51,
+			"kbox_types": [
+				"PersonFunction",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 51,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "가수",
+			"is_target": true,
+			"en": 53,
+			"id": 6
+		},
+		{
+			"en_modified": 58,
+			"st_modified": 55,
+			"coref_index": 466,
+			"entityName": "기업가",
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre",
+				"Profession",
+				"PersonFunction"
+			],
+			"eType": "WIKILINK",
+			"st": 55,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "기업가",
+			"is_target": true,
+			"en": 58,
+			"id": 7
+		},
+		{
+			"en_modified": 86,
+			"entityName": "정치가",
+			"st_modified": 83,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 83,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "정치가",
+			"is_target": true,
+			"en": 86,
+			"id": 8
+		},
+		{
+			"en_modified": 92,
+			"entityName": "예비역",
+			"st_modified": 89,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 89,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "예비역",
+			"is_target": true,
+			"en": 92,
+			"id": 9
+		},
+		{
+			"en_modified": 100,
+			"st_modified": 93,
+			"coref_index": 473,
+			"entityName": "대한민국_해군",
+			"kbox_types": [
+				"Agent",
+				"MilitaryUnit",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 93,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "대한민국_해군",
+			"is_target": true,
+			"en": 100,
+			"id": 10
+		},
+		{
+			"en_modified": 103,
+			"st_modified": 101,
+			"coref_index": 472,
+			"entityName": "대위",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 101,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "대위",
+			"is_target": true,
+			"en": 103,
+			"id": 11
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1928년_11월_6일",
+			"is_target": false,
+			"en": 21,
+			"id": 12
+		},
+		{
+			"en_modified": 65,
+			"entityName": "",
+			"st_modified": 60,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 60,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "영화기획가",
+			"is_target": true,
+			"en": 65,
+			"id": 13
+		},
+		{
+			"en_modified": 72,
+			"entityName": "",
+			"st_modified": 67,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 67,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "영화제작자",
+			"is_target": true,
+			"en": 72,
+			"id": 14
+		},
+		{
+			"en_modified": 81,
+			"entityName": "",
+			"st_modified": 74,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 74,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "예술기관단체인",
+			"is_target": true,
+			"en": 81,
+			"id": 15
+		},
+		{
+			"en_modified": 116,
+			"st_modified": 114,
+			"coref_index": 465,
+			"entityName": "평산_신씨",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 114,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "평산",
+			"is_target": true,
+			"en": 116,
+			"id": 16
+		},
+		{
+			"en_modified": 146,
+			"st_modified": 143,
+			"coref_index": 465,
+			"entityName": "신영균_(배우)",
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist",
+				"MilitaryPerson"
+			],
+			"eType": "ELU",
+			"st": 143,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "신일천",
+			"is_target": true,
+			"en": 146,
+			"id": 17
+		},
+		{
+			"en_modified": 128,
+			"st_modified": 126,
+			"coref_index": 465,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 126,
+			"ancestor": "1-0",
+			"ne_type": "ETC",
+			"surface": "평주",
+			"is_target": true,
+			"en": 128,
+			"id": 18
+		},
+		{
+			"en_modified": 112,
+			"entityName": "",
+			"st_modified": 110,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 110,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "본관",
+			"is_target": true,
+			"en": 112,
+			"id": 19
+		},
+		{
+			"en_modified": 124,
+			"entityName": "",
+			"st_modified": 123,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 123,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "호",
+			"is_target": true,
+			"en": 124,
+			"id": 20
+		},
+		{
+			"en_modified": 157,
+			"entityName": "",
+			"st_modified": 155,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 155,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "예명",
+			"is_target": true,
+			"en": 157,
+			"id": 21
+		},
+		{
+			"en_modified": 171,
+			"entityName": "1947년",
+			"st_modified": 166,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 166,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1947년",
+			"is_target": false,
+			"en": 171,
+			"id": 22
+		},
+		{
+			"en_modified": 176,
+			"entityName": "연극배우",
+			"st_modified": 172,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 172,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "연극배우",
+			"is_target": true,
+			"en": 176,
+			"id": 23
+		},
+		{
+			"en_modified": 195,
+			"entityName": "1948년",
+			"st_modified": 190,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 190,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1948년",
+			"is_target": false,
+			"en": 195,
+			"id": 24
+		},
+		{
+			"en_modified": 232,
+			"entityName": "신언식",
+			"st_modified": 229,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 229,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신언식",
+			"is_target": true,
+			"en": 232,
+			"id": 25
+		},
+		{
+			"en_modified": 237,
+			"st_modified": 234,
+			"coref_index": 466,
+			"entityName": "기업인",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 234,
+			"ancestor": "1-7",
+			"ne_type": "ETC",
+			"surface": "기업인",
+			"is_target": true,
+			"en": 237,
+			"id": 26
+		},
+		{
+			"en_modified": 247,
+			"entityName": "맥도날드",
+			"st_modified": 243,
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 243,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "맥도날드",
+			"is_target": true,
+			"en": 247,
+			"id": 27
+		},
+		{
+			"en_modified": 207,
+			"entityName": "",
+			"st_modified": 200,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "검사와_여선생",
+			"is_target": true,
+			"en": 207,
+			"id": 28
+		},
+		{
+			"en_modified": 215,
+			"st_modified": 211,
+			"coref_index": 467,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 211,
+			"ancestor": "1-2",
+			"ne_type": "PERSON",
+			"surface": "영화배우",
+			"is_target": true,
+			"en": 215,
+			"id": 29
+		},
+		{
+			"en_modified": 242,
+			"st_modified": 240,
+			"coref_index": 468,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 240,
+			"ancestor": "1-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "한국",
+			"is_target": true,
+			"en": 242,
+			"id": 30
+		},
+		{
+			"en_modified": 295,
+			"entityName": "아버지",
+			"st_modified": 292,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 292,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아버지",
+			"is_target": true,
+			"en": 295,
+			"id": 31
+		},
+		{
+			"en_modified": 335,
+			"st_modified": 332,
+			"coref_index": 469,
+			"entityName": "경성부",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 332,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "경성부",
+			"is_target": true,
+			"en": 335,
+			"id": 32
+		},
+		{
+			"en_modified": 338,
+			"st_modified": 336,
+			"coref_index": 469,
+			"entityName": "서울특별시",
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 336,
+			"ancestor": "1-32",
+			"ne_type": "LOCATION",
+			"surface": "서울",
+			"is_target": true,
+			"en": 338,
+			"id": 33
+		},
+		{
+			"en_modified": 369,
+			"entityName": "한성고등학교",
+			"st_modified": 363,
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"eType": "WIKILINK",
+			"st": 363,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "한성고등학교",
+			"is_target": true,
+			"en": 369,
+			"id": 34
+		},
+		{
+			"en_modified": 409,
+			"entityName": "청춘극장",
+			"st_modified": 405,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 405,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "청춘극장",
+			"is_target": true,
+			"en": 409,
+			"id": 35
+		},
+		{
+			"en_modified": 424,
+			"entityName": "신극",
+			"st_modified": 422,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 422,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신극",
+			"is_target": true,
+			"en": 424,
+			"id": 36
+		},
+		{
+			"en_modified": 442,
+			"entityName": "경제",
+			"st_modified": 439,
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "ELU",
+			"st": 439,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "경제적",
+			"is_target": true,
+			"en": 442,
+			"id": 37
+		},
+		{
+			"en_modified": 516,
+			"st_modified": 511,
+			"coref_index": 470,
+			"entityName": "서울대학교",
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 511,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "서울대학교",
+			"is_target": true,
+			"en": 516,
+			"id": 38
+		},
+		{
+			"en_modified": 530,
+			"st_modified": 525,
+			"coref_index": 471,
+			"entityName": "한국_전쟁",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 525,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "한국_전쟁",
+			"is_target": true,
+			"en": 530,
+			"id": 39
+		},
+		{
+			"en_modified": 545,
+			"entityName": "부산",
+			"st_modified": 543,
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"eType": "WIKILINK",
+			"st": 543,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "부산",
+			"is_target": true,
+			"en": 545,
+			"id": 40
+		},
+		{
+			"en_modified": 554,
+			"entityName": "전시연합대학",
+			"st_modified": 548,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 548,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "전시연합대학",
+			"is_target": true,
+			"en": 554,
+			"id": 41
+		},
+		{
+			"en_modified": 633,
+			"st_modified": 628,
+			"coref_index": 470,
+			"entityName": "서울대학교",
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 628,
+			"ancestor": "1-38",
+			"ne_type": "ORGANIZATION",
+			"surface": "서울대학교",
+			"is_target": true,
+			"en": 633,
+			"id": 42
+		},
+		{
+			"en_modified": 656,
+			"entityName": "1953년",
+			"st_modified": 651,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 651,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1953년",
+			"is_target": false,
+			"en": 656,
+			"id": 43
+		},
+		{
+			"en_modified": 662,
+			"st_modified": 657,
+			"coref_index": 471,
+			"entityName": "한국_전쟁",
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 657,
+			"ancestor": "1-39",
+			"ne_type": "ETC",
+			"surface": "한국_전쟁",
+			"is_target": true,
+			"en": 662,
+			"id": 44
+		},
+		{
+			"en_modified": 700,
+			"entityName": "1958년",
+			"st_modified": 695,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 695,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1958년",
+			"is_target": false,
+			"en": 700,
+			"id": 45
+		},
+		{
+			"en_modified": 703,
+			"st_modified": 701,
+			"coref_index": 472,
+			"entityName": "대위",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 701,
+			"ancestor": "1-11",
+			"ne_type": "ETC",
+			"surface": "대위",
+			"is_target": true,
+			"en": 703,
+			"id": 46
+		},
+		{
+			"en_modified": 753,
+			"st_modified": 750,
+			"coref_index": 484,
+			"entityName": "김선희",
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"VoiceActor",
+				"Artist"
+			],
+			"eType": "ELU",
+			"st": 750,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "김선희",
+			"is_target": true,
+			"en": 753,
+			"id": 47
+		},
+		{
+			"en_modified": 757,
+			"st_modified": 755,
+			"coref_index": 473,
+			"entityName": "해군",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 755,
+			"ancestor": "1-10",
+			"ne_type": "ETC",
+			"surface": "해군",
+			"is_target": true,
+			"en": 757,
+			"id": 48
+		},
+		{
+			"en_modified": 761,
+			"entityName": "군의관",
+			"st_modified": 758,
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "WIKILINK",
+			"st": 758,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "군의관",
+			"is_target": true,
+			"en": 761,
+			"id": 49
+		},
+		{
+			"en_modified": 802,
+			"entityName": "1958년",
+			"st_modified": 797,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 797,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1958년",
+			"is_target": false,
+			"en": 802,
+			"id": 50
+		},
+		{
+			"en_modified": 269,
+			"entityName": "",
+			"st_modified": 257,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 257,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1928년_11월_6일",
+			"is_target": false,
+			"en": 269,
+			"id": 51
+		},
+		{
+			"en_modified": 277,
+			"entityName": "",
+			"st_modified": 270,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 270,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "황해도_평산군",
+			"is_target": true,
+			"en": 277,
+			"id": 52
+		},
+		{
+			"en_modified": 356,
+			"entityName": "",
+			"st_modified": 345,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 345,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "동대문구_흥인초등학교",
+			"is_target": true,
+			"en": 356,
+			"id": 53
+		},
+		{
+			"en_modified": 503,
+			"entityName": "",
+			"st_modified": 493,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 493,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울대학교_치과대학",
+			"is_target": true,
+			"en": 503,
+			"id": 54
+		},
+		{
+			"en_modified": 593,
+			"entityName": "",
+			"st_modified": 579,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 579,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울대학교_총학생회_연극부",
+			"is_target": true,
+			"en": 593,
+			"id": 55
+		},
+		{
+			"en_modified": 686,
+			"entityName": "",
+			"st_modified": 669,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 669,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "대한민국_해군_중위(군의무장교)",
+			"is_target": true,
+			"en": 686,
+			"id": 56
+		},
+		{
+			"en_modified": 740,
+			"entityName": "",
+			"st_modified": 726,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 726,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "이화여자대학교_정치외교학과",
+			"is_target": true,
+			"en": 740,
+			"id": 57
+		},
+		{
+			"en_modified": 809,
+			"entityName": "",
+			"st_modified": 803,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 803,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울_회현동",
+			"is_target": true,
+			"en": 809,
+			"id": 58
+		},
+		{
+			"en_modified": 830,
+			"st_modified": 825,
+			"coref_index": 470,
+			"entityName": "서울대학교",
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 825,
+			"ancestor": "1-38",
+			"ne_type": "ORGANIZATION",
+			"surface": "서울대학교",
+			"is_target": true,
+			"en": 830,
+			"id": 59
+		},
+		{
+			"en_modified": 841,
+			"st_modified": 839,
+			"coref_index": 474,
+			"entityName": "연극",
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "WIKILINK",
+			"st": 839,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "연극",
+			"is_target": true,
+			"en": 841,
+			"id": 60
+		},
+		{
+			"en_modified": 912,
+			"st_modified": 909,
+			"coref_index": 465,
+			"entityName": "신영균_(배우)",
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist",
+				"MilitaryPerson"
+			],
+			"eType": "ELU",
+			"st": 909,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "신영균",
+			"is_target": true,
+			"en": 912,
+			"id": 61
+		},
+		{
+			"en_modified": 922,
+			"st_modified": 918,
+			"coref_index": 485,
+			"entityName": "여인천하_(드라마)",
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"eType": "ELU",
+			"st": 918,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "여인천하",
+			"is_target": true,
+			"en": 922,
+			"id": 62
+		},
+		{
+			"en_modified": 929,
+			"entityName": "조광조",
+			"st_modified": 926,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 926,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "조광조",
+			"is_target": true,
+			"en": 929,
+			"id": 63
+		},
+		{
+			"en_modified": 958,
+			"st_modified": 956,
+			"coref_index": 478,
+			"entityName": "과부_(1960년_영화)",
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 956,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "과부",
+			"is_target": true,
+			"en": 958,
+			"id": 64
+		},
+		{
+			"en_modified": 974,
+			"st_modified": 971,
+			"coref_index": 476,
+			"entityName": "조긍하",
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 971,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "조긍하",
+			"is_target": true,
+			"en": 974,
+			"id": 65
+		},
+		{
+			"en_modified": 859,
+			"entityName": "",
+			"st_modified": 856,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 856,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "연극인",
+			"is_target": true,
+			"en": 859,
+			"id": 66
+		},
+		{
+			"en_modified": 938,
+			"st_modified": 936,
+			"coref_index": 475,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 936,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "무대",
+			"is_target": true,
+			"en": 938,
+			"id": 67
+		},
+		{
+			"en_modified": 872,
+			"st_modified": 870,
+			"coref_index": 474,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 870,
+			"ancestor": "1-60",
+			"ne_type": "ETC",
+			"surface": "연극",
+			"is_target": true,
+			"en": 872,
+			"id": 68
+		},
+		{
+			"en_modified": 890,
+			"st_modified": 888,
+			"coref_index": 474,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 888,
+			"ancestor": "1-68",
+			"ne_type": "ETC",
+			"surface": "연극",
+			"is_target": true,
+			"en": 890,
+			"id": 69
+		},
+		{
+			"en_modified": 954,
+			"entityName": "",
+			"st_modified": 952,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 952,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "영화",
+			"is_target": true,
+			"en": 954,
+			"id": 70
+		},
+		{
+			"en_modified": 964,
+			"entityName": "",
+			"st_modified": 961,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 961,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "주인공",
+			"is_target": true,
+			"en": 964,
+			"id": 71
+		},
+		{
+			"en_modified": 977,
+			"st_modified": 975,
+			"coref_index": 477,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 975,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "감독",
+			"is_target": true,
+			"en": 977,
+			"id": 72
+		},
+		{
+			"en_modified": 983,
+			"st_modified": 981,
+			"coref_index": 475,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 981,
+			"ancestor": "1-67",
+			"ne_type": "LOCATION",
+			"surface": "무대",
+			"is_target": true,
+			"en": 983,
+			"id": 73
+		},
+		{
+			"en_modified": 1018,
+			"entityName": "1960년",
+			"st_modified": 1013,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1013,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1960년",
+			"is_target": false,
+			"en": 1018,
+			"id": 74
+		},
+		{
+			"en_modified": 1023,
+			"st_modified": 1020,
+			"coref_index": 476,
+			"entityName": "조긍하",
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"eType": "WIKILINK",
+			"st": 1020,
+			"ancestor": "1-65",
+			"ne_type": "PERSON",
+			"surface": "조긍하",
+			"is_target": true,
+			"en": 1023,
+			"id": 75
+		},
+		{
+			"en_modified": 1028,
+			"st_modified": 1024,
+			"coref_index": 477,
+			"entityName": "영화_감독",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1024,
+			"ancestor": "1-72",
+			"ne_type": "ETC",
+			"surface": "영화감독",
+			"is_target": true,
+			"en": 1028,
+			"id": 76
+		},
+		{
+			"en_modified": 1054,
+			"st_modified": 1052,
+			"coref_index": 478,
+			"entityName": "과부_(1960년_영화)",
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1052,
+			"ancestor": "1-64",
+			"ne_type": "ETC",
+			"surface": "과부",
+			"is_target": true,
+			"en": 1054,
+			"id": 77
+		},
+		{
+			"en_modified": 1076,
+			"st_modified": 1073,
+			"coref_index": 481,
+			"entityName": "영화",
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "ELU",
+			"st": 1073,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "영화계",
+			"is_target": true,
+			"en": 1076,
+			"id": 78
+		},
+		{
+			"en_modified": 1098,
+			"entityName": "마부_(영화)",
+			"st_modified": 1096,
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1096,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마부",
+			"is_target": true,
+			"en": 1098,
+			"id": 79
+		},
+		{
+			"en_modified": 1118,
+			"entityName": "1961년",
+			"st_modified": 1113,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1113,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1961년",
+			"is_target": false,
+			"en": 1118,
+			"id": 80
+		},
+		{
+			"en_modified": 1126,
+			"entityName": "베를린_영화제",
+			"st_modified": 1119,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1119,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "베를린_영화제",
+			"is_target": true,
+			"en": 1126,
+			"id": 81
+		},
+		{
+			"en_modified": 1147,
+			"entityName": "1962년",
+			"st_modified": 1142,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1142,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1962년",
+			"is_target": false,
+			"en": 1147,
+			"id": 82
+		},
+		{
+			"en_modified": 1154,
+			"st_modified": 1151,
+			"coref_index": 479,
+			"entityName": "연산군_(1962년_영화)",
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1151,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "연산군",
+			"is_target": true,
+			"en": 1154,
+			"id": 83
+		},
+		{
+			"en_modified": 1165,
+			"entityName": "대종상",
+			"st_modified": 1162,
+			"kbox_types": [
+				"Award"
+			],
+			"eType": "WIKILINK",
+			"st": 1162,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "대종상",
+			"is_target": true,
+			"en": 1165,
+			"id": 84
+		},
+		{
+			"en_modified": 1245,
+			"entityName": "1964년",
+			"st_modified": 1240,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1240,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1964년",
+			"is_target": false,
+			"en": 1245,
+			"id": 85
+		},
+		{
+			"en_modified": 1263,
+			"st_modified": 1257,
+			"coref_index": 480,
+			"entityName": "빨간_마후라",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1257,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "빨간_마후라",
+			"is_target": true,
+			"en": 1263,
+			"id": 86
+		},
+		{
+			"en_modified": 1277,
+			"entityName": "아시아태평양영화제",
+			"st_modified": 1271,
+			"kbox_types": [
+				"Event",
+				"FilmFestival",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1271,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아시아영화제",
+			"is_target": true,
+			"en": 1277,
+			"id": 87
+		},
+		{
+			"en_modified": 1348,
+			"st_modified": 1346,
+			"coref_index": 478,
+			"entityName": "과부_(1960년_영화)",
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1346,
+			"ancestor": "1-77",
+			"ne_type": "ETC",
+			"surface": "과부",
+			"is_target": true,
+			"en": 1348,
+			"id": 88
+		},
+		{
+			"en_modified": 1355,
+			"st_modified": 1352,
+			"coref_index": 479,
+			"entityName": "연산군_(1962년_영화)",
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1352,
+			"ancestor": "1-83",
+			"ne_type": "ETC",
+			"surface": "연산군",
+			"is_target": true,
+			"en": 1355,
+			"id": 89
+		},
+		{
+			"en_modified": 1362,
+			"entityName": "열녀문_(영화)",
+			"st_modified": 1359,
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1359,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "열녀문",
+			"is_target": true,
+			"en": 1362,
+			"id": 90
+		},
+		{
+			"en_modified": 1369,
+			"entityName": "갯마을_(영화)",
+			"st_modified": 1366,
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1366,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "갯마을",
+			"is_target": true,
+			"en": 1369,
+			"id": 91
+		},
+		{
+			"en_modified": 1375,
+			"entityName": "시장_(영화)",
+			"st_modified": 1373,
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1373,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "시장",
+			"is_target": true,
+			"en": 1375,
+			"id": 92
+		},
+		{
+			"en_modified": 1385,
+			"st_modified": 1379,
+			"coref_index": 480,
+			"entityName": "빨간_마후라",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1379,
+			"ancestor": "1-86",
+			"ne_type": "ETC",
+			"surface": "빨간_마후라",
+			"is_target": true,
+			"en": 1385,
+			"id": 93
+		},
+		{
+			"en_modified": 1398,
+			"entityName": "미워도_다시_한번",
+			"st_modified": 1389,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1389,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "미워도_다시_한번",
+			"is_target": true,
+			"en": 1398,
+			"id": 94
+		},
+		{
+			"en_modified": 1406,
+			"entityName": "삼일천하",
+			"st_modified": 1402,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1402,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "삼일천하",
+			"is_target": true,
+			"en": 1406,
+			"id": 95
+		},
+		{
+			"en_modified": 1453,
+			"st_modified": 1450,
+			"coref_index": 481,
+			"entityName": "영화",
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"eType": "ELU",
+			"st": 1450,
+			"ancestor": "1-78",
+			"ne_type": "ETC",
+			"surface": "영화계",
+			"is_target": true,
+			"en": 1453,
+			"id": 96
+		},
+		{
+			"en_modified": 1065,
+			"entityName": "",
+			"st_modified": 1062,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1062,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "성칠이",
+			"is_target": true,
+			"en": 1065,
+			"id": 97
+		},
+		{
+			"en_modified": 1333,
+			"entityName": "",
+			"st_modified": 1320,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1320,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1960년부터_1978년",
+			"is_target": false,
+			"en": 1333,
+			"id": 98
+		},
+		{
+			"en_modified": 1134,
+			"entityName": "",
+			"st_modified": 1129,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1129,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "특별은곰상",
+			"is_target": true,
+			"en": 1134,
+			"id": 99
+		},
+		{
+			"en_modified": 1193,
+			"entityName": "",
+			"st_modified": 1187,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1187,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "연기파_배우",
+			"is_target": true,
+			"en": 1193,
+			"id": 100
+		},
+		{
+			"en_modified": 1228,
+			"st_modified": 1223,
+			"coref_index": 482,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1223,
+			"ancestor": "1-105",
+			"ne_type": "PERSON",
+			"surface": "남우주연상",
+			"is_target": true,
+			"en": 1228,
+			"id": 101
+		},
+		{
+			"en_modified": 1283,
+			"st_modified": 1278,
+			"coref_index": 482,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1278,
+			"ancestor": "1-101",
+			"ne_type": "PERSON",
+			"surface": "남우주연상",
+			"is_target": true,
+			"en": 1283,
+			"id": 102
+		},
+		{
+			"en_modified": 1302,
+			"entityName": "",
+			"st_modified": 1300,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1300,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "배우",
+			"is_target": true,
+			"en": 1302,
+			"id": 103
+		},
+		{
+			"en_modified": 1458,
+			"entityName": "",
+			"st_modified": 1455,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1455,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "톱스타",
+			"is_target": true,
+			"en": 1458,
+			"id": 104
+		},
+		{
+			"en_modified": 1171,
+			"st_modified": 1166,
+			"coref_index": 482,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1166,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "남우주연상",
+			"is_target": true,
+			"en": 1171,
+			"id": 105
+		},
+		{
+			"en_modified": 1220,
+			"entityName": "",
+			"st_modified": 1215,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1215,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "영화시상식",
+			"is_target": true,
+			"en": 1220,
+			"id": 106
+		},
+		{
+			"en_modified": 1476,
+			"st_modified": 1472,
+			"coref_index": 467,
+			"entityName": "영화배우",
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "ELU",
+			"st": 1472,
+			"ancestor": "1-2",
+			"ne_type": "ETC",
+			"surface": "영화배우",
+			"is_target": true,
+			"en": 1476,
+			"id": 107
+		},
+		{
+			"en_modified": 1502,
+			"entityName": "1963년",
+			"st_modified": 1497,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1497,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1963년",
+			"is_target": false,
+			"en": 1502,
+			"id": 108
+		},
+		{
+			"en_modified": 1559,
+			"st_modified": 1555,
+			"coref_index": 483,
+			"entityName": "명보극장",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1555,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "명보극장",
+			"is_target": true,
+			"en": 1559,
+			"id": 109
+		},
+		{
+			"en_modified": 1687,
+			"entityName": "1971년",
+			"st_modified": 1682,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1682,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1971년",
+			"is_target": false,
+			"en": 1687,
+			"id": 110
+		},
+		{
+			"en_modified": 1707,
+			"entityName": "1973년",
+			"st_modified": 1702,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1702,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1973년",
+			"is_target": false,
+			"en": 1707,
+			"id": 111
+		},
+		{
+			"en_modified": 1756,
+			"st_modified": 1752,
+			"coref_index": 467,
+			"entityName": "영화배우",
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"eType": "ELU",
+			"st": 1752,
+			"ancestor": "1-107",
+			"ne_type": "ETC",
+			"surface": "영화배우",
+			"is_target": true,
+			"en": 1756,
+			"id": 112
+		},
+		{
+			"en_modified": 1802,
+			"st_modified": 1798,
+			"coref_index": 483,
+			"entityName": "명보극장",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1798,
+			"ancestor": "1-109",
+			"ne_type": "ETC",
+			"surface": "명보극장",
+			"is_target": true,
+			"en": 1802,
+			"id": 113
+		},
+		{
+			"en_modified": 1832,
+			"entityName": "지옥의_묵시록",
+			"st_modified": 1825,
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1825,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "지옥의_묵시록",
+			"is_target": true,
+			"en": 1832,
+			"id": 114
+		},
+		{
+			"en_modified": 1839,
+			"entityName": "빠삐용",
+			"st_modified": 1836,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1836,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "빠삐용",
+			"is_target": true,
+			"en": 1839,
+			"id": 115
+		},
+		{
+			"en_modified": 1860,
+			"entityName": "내가_버린_여자",
+			"st_modified": 1852,
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1852,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "내가_버린_여자",
+			"is_target": true,
+			"en": 1860,
+			"id": 116
+		},
+		{
+			"en_modified": 1872,
+			"entityName": "별들의_고향_2",
+			"st_modified": 1864,
+			"kbox_types": [
+				"Work",
+				"Film",
+				"Work"
+			],
+			"eType": "WIKILINK",
+			"st": 1864,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "별들의_고향_2",
+			"is_target": true,
+			"en": 1872,
+			"id": 117
+		},
+		{
+			"en_modified": 1885,
+			"entityName": "미워도_다시_한번",
+			"st_modified": 1876,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1876,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "미워도_다시_한번",
+			"is_target": true,
+			"en": 1885,
+			"id": 118
+		},
+		{
+			"en_modified": 1894,
+			"entityName": "한국의_영화",
+			"st_modified": 1890,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "ELU",
+			"st": 1890,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "한국영화",
+			"is_target": true,
+			"en": 1894,
+			"id": 119
+		},
+		{
+			"en_modified": 1919,
+			"entityName": "1985년",
+			"st_modified": 1914,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1914,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1985년",
+			"is_target": false,
+			"en": 1919,
+			"id": 120
+		},
+		{
+			"en_modified": 1982,
+			"entityName": "1992년",
+			"st_modified": 1977,
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"eType": "WIKILINK",
+			"st": 1977,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1992년",
+			"is_target": false,
+			"en": 1982,
+			"id": 121
+		},
+		{
+			"en_modified": 2019,
+			"st_modified": 2016,
+			"coref_index": 465,
+			"entityName": "신영균_(배우)",
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist",
+				"MilitaryPerson"
+			],
+			"eType": "ELU",
+			"st": 2016,
+			"ancestor": "1-61",
+			"ne_type": "PERSON",
+			"surface": "신영균",
+			"is_target": true,
+			"en": 2019,
+			"id": 122
+		},
+		{
+			"en_modified": 1517,
+			"entityName": "",
+			"st_modified": 1511,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1511,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울_금호동",
+			"is_target": true,
+			"en": 1517,
+			"id": 123
+		},
+		{
+			"en_modified": 1781,
+			"entityName": "",
+			"st_modified": 1773,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1773,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1977년_8월",
+			"is_target": false,
+			"en": 1781,
+			"id": 124
+		},
+		{
+			"en_modified": 1931,
+			"entityName": "",
+			"st_modified": 1921,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1921,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "서울_종로구_관훈동",
+			"is_target": true,
+			"en": 1931,
+			"id": 125
+		},
+		{
+			"en_modified": 2007,
+			"entityName": "",
+			"st_modified": 1995,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1995,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "미국_외식패스트푸드업체",
+			"is_target": true,
+			"en": 2007,
+			"id": 126
+		},
+		{
+			"en_modified": 1655,
+			"entityName": "",
+			"st_modified": 1651,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1651,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "풍년제과",
+			"is_target": true,
+			"en": 1655,
+			"id": 127
+		},
+		{
+			"en_modified": 2014,
+			"entityName": "",
+			"st_modified": 2009,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 2009,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "맥도날드사",
+			"is_target": true,
+			"en": 2014,
+			"id": 128
+		},
+		{
+			"en_modified": 1534,
+			"entityName": "",
+			"st_modified": 1530,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1530,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "금호극장",
+			"is_target": true,
+			"en": 1534,
+			"id": 129
+		},
+		{
+			"en_modified": 1573,
+			"entityName": "",
+			"st_modified": 1569,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1569,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "명보제과",
+			"is_target": true,
+			"en": 1573,
+			"id": 130
+		},
+		{
+			"en_modified": 1592,
+			"st_modified": 1583,
+			"coref_index": 484,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1583,
+			"ancestor": "1-47",
+			"ne_type": "PERSON",
+			"surface": "부인_김선희_여사",
+			"is_target": true,
+			"en": 1592,
+			"id": 131
+		},
+		{
+			"en_modified": 1644,
+			"entityName": "",
+			"st_modified": 1640,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1640,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "뉴욕제과",
+			"is_target": true,
+			"en": 1644,
+			"id": 132
+		},
+		{
+			"en_modified": 1649,
+			"entityName": "",
+			"st_modified": 1646,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1646,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "태극당",
+			"is_target": true,
+			"en": 1649,
+			"id": 133
+		},
+		{
+			"en_modified": 1693,
+			"entityName": "",
+			"st_modified": 1690,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1690,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "볼링장",
+			"is_target": true,
+			"en": 1693,
+			"id": 134
+		},
+		{
+			"en_modified": 1716,
+			"entityName": "",
+			"st_modified": 1710,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1710,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "빌딩관리업체",
+			"is_target": true,
+			"en": 1716,
+			"id": 135
+		},
+		{
+			"en_modified": 1728,
+			"entityName": "",
+			"st_modified": 1719,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1719,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "한주흥산_주식회사",
+			"is_target": true,
+			"en": 1728,
+			"id": 136
+		},
+		{
+			"en_modified": 1970,
+			"entityName": "",
+			"st_modified": 1965,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1965,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "명보소극장",
+			"is_target": true,
+			"en": 1970,
+			"id": 137
+		},
+		{
+			"en_modified": 2068,
+			"entityName": "",
+			"st_modified": 2064,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 2064,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "맥신산업",
+			"is_target": true,
+			"en": 2068,
+			"id": 138
+		},
+		{
+			"en_modified": 1849,
+			"entityName": "",
+			"st_modified": 1844,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1844,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "외국_영화",
+			"is_target": true,
+			"en": 1849,
+			"id": 139
+		},
+		{
+			"en_modified": 2061,
+			"entityName": "",
+			"st_modified": 2057,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 2057,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "합작회사",
+			"is_target": true,
+			"en": 2061,
+			"id": 140
+		}
+	],
+	"globalSID": "1779457,1779458,1779459,1779460,1779461,1779462,1779463,1779464,1779465,1779466,1779467,1779468,1779469,1779470,1779471,1779472,1779473,1779474,1779475,1779476,1779477,1779478,1779479,1779480,1779481,1779482,1779483",
+	"plainText": "신영균(申榮均, 1928년_11월_6일 ~ )은 대한민국의 영화배우, 연극배우, 치과의사, 가수, 기업가, 영화기획가, 영화제작자, 예술기관단체인, 정치가이며 예비역 대한민국_해군 대위이다. 이력 본관은 평산(平山)이고 호는 평주(平洲)이며 데뷔 초기에는 신일천(申一川)이라는 예명으로 활동했다. 1947년 연극배우로 첫 데뷔하였고 이듬해 1948년 영화 《검사와_여선생》으로 영화배우 데뷔하였다. 그의 아들 신언식은 기업인이며 한국 맥도날드 사장이다. 생애 1928년_11월_6일 황해도_평산군의 독실한 기독교 집안에서 아버지 신태현과 어머니 신순옥의 차남으로 태어났다. 초등학교 3학년 때 경성부(서울)로 이사해 동대문구_흥인초등학교를 다녔고, 한성고등학교 재학 시절에는 연극부에서 활동했다. 고등학교를 졸업한 뒤에는 ‘청춘극장’에 입단해 2년 동안 신극 운동에 참여하기도 했으나 경제적으로 너무 쪼들렸고, 연극은 취미로 하고 생계를 꾸려갈 수 있는 직업이 필요하다고 생각하여 서울대학교_치과대학에 입학했다. 서울대학교에 입학하자마자 한국_전쟁이 발발하였고, 피란간 부산에서 전시연합대학을 다닐 때도 연극을 해서 생활비에 보탰다. 서울대학교_총학생회_연극부를 창립하여 연극부장으로서 공연활동에 빠져들었다. 1955년, 서울대학교를 졸업하였는데 이미 2년 전인 1953년 한국_전쟁에 참전하여 대한민국_해군_중위(군의무장교)로 임관하였고, 1958년 대위로 전역하였다. 29세 때, 7세 연하로 이화여자대학교_정치외교학과에 재학중인 아내 김선희와 해군 군의관 시절 만난 지 1년 만에 결혼했고, 치과의사 면허자격을 딴 뒤 1958년 서울_회현동에 ‘동남치과’를 개업했다. 서울대학교 치대 재학시절 연극을 했던 인연으로 친분있는 연극인들이 찾아오게 되고 연극을 하자는 권유가 늘어갔고, 연극에 대한 열정을 억누를 수 없었던 신영균은 연극 《여인천하》에서 조광조 역을 맡아 무대에 오르게 된다. 당시, 영화 《과부》의 주인공을 물색하던 조긍하 감독이 그 무대를 보게 되고 영화계 진출을 적극적으로 권하게 된다. 1960년, 조긍하 영화감독의 제안으로 32세의 늦깍이 나이에 영화 《과부》에서 머슴 '성칠이' 역을 맡아 영화계에 전격 데뷔하였다. 이어 출연한 《마부》가 한국 영화사상 최초로 1961년 베를린_영화제에서 특별은곰상을 수상하고, 1962년에는 《연산군》으로 제1회 대종상 남우주연상을 차지하며 데뷔 2년 만에 연기파_배우로 자리매김했다. 이후, 국내외 유수의 영화시상식에서 남우주연상을 휩쓸었다. 그리고 1964년에는 그의 히트작인 《빨간_마후라》로 제11회 아시아영화제 남우주연상을 받으면서 국제적으로 통하는 배우라는 인상을 대중들에게 심었다. 1960년부터_1978년 배우 은퇴하기 까지 《과부》, 《연산군》, 《열녀문》, 《갯마을》, 《시장》, 《빨간_마후라》, 《미워도_다시_한번》, 《삼일천하》등 주옥같은 작품을 비롯하여 총 294편의 영화에 출연하여 1960~70년대 영화계의 톱스타로 군림했다. 배우 시절 영화배우라는 직업을 늘 불안하게 여겼던 그는 1963년, 친구와 함께 서울_금호동에 동시 상영을 하는 ‘금호극장’을 인수하여 새로 개관하였다. 이후 명보극장 바로 옆에 있는 명보제과를 인수하여 이때 부인_김선희_여사가 팔을 걷어붙여 직접 빵을 굽고 장사도 하면서 사업을 키워 나갔다. 당시 명보제과는 뉴욕제과와 태극당, 풍년제과 등과 함께 4대 제과로 꼽힐 정도였다고 한다. 1971년에는 볼링장을 인수하였고, 1973년에는 빌딩관리업체인 '한주흥산_주식회사'를 설립하여 부동산임대사업에까지 뛰어들어 영화배우 못지않은 사업수완을 보였다. 1977년_8월에는 명보제과 바로 옆에 있는 명보극장을 7억 5천만원을 들여 사들인 이후, 《지옥의_묵시록》과 《빠삐용》 등의 외국_영화와 《내가_버린_여자》, 《별들의_고향_2》, 《미워도_다시_한번》 등의 한국영화를 배급·상영하여 대박을 터뜨렸다. 1985년, 서울_종로구_관훈동에 지상 14층 지하 4층의 빌딩을 건립하고 지하 2,3층에 명보소극장을 차렸다. 1992년에는 한국에 진출하려는 미국_외식패스트푸드업체인 맥도날드사와 신영균이 함께 49 대 51의 비율로 54억원의 자본금을 투자하여 서울에 합작회사인 '맥신산업'을 설립하였다. ",
+	"docID": "341784",
+	"ModifiedText": "신영균(申榮均, 1928년 11월 6일 ~ )은 대한민국의 영화배우, 연극배우, 치과의사, 가수, 기업가, 영화기획가, 영화제작자, 예술기관단체인, 정치가이며 예비역 대한민국 해군 대위이다. 이력 본관은 평산(平山)이고 호는 평주(平洲)이며 데뷔 초기에는 신일천(申一川)이라는 예명으로 활동했다. 1947년 연극배우로 첫 데뷔하였고 이듬해 1948년 영화 《검사와 여선생》으로 영화배우 데뷔하였다. 그의 아들 신언식은 기업인이며 한국 맥도날드 사장이다. 생애 1928년 11월 6일 황해도 평산군의 독실한 기독교 집안에서 아버지 신태현과 어머니 신순옥의 차남으로 태어났다. 초등학교 3학년 때 경성부(서울)로 이사해 동대문구 흥인초등학교를 다녔고, 한성고등학교 재학 시절에는 연극부에서 활동했다. 고등학교를 졸업한 뒤에는 ‘청춘극장’에 입단해 2년 동안 신극 운동에 참여하기도 했으나 경제적으로 너무 쪼들렸고, 연극은 취미로 하고 생계를 꾸려갈 수 있는 직업이 필요하다고 생각하여 서울대학교 치과대학에 입학했다. 서울대학교에 입학하자마자 한국 전쟁이 발발하였고, 피란간 부산에서 전시연합대학을 다닐 때도 연극을 해서 생활비에 보탰다. 서울대학교 총학생회 연극부를 창립하여 연극부장으로서 공연활동에 빠져들었다. 1955년, 서울대학교를 졸업하였는데 이미 2년 전인 1953년 한국 전쟁에 참전하여 대한민국 해군 중위(군의무장교)로 임관하였고, 1958년 대위로 전역하였다. 29세 때, 7세 연하로 이화여자대학교 정치외교학과에 재학중인 아내 김선희와 해군 군의관 시절 만난 지 1년 만에 결혼했고, 치과의사 면허자격을 딴 뒤 1958년 서울 회현동에 ‘동남치과’를 개업했다. 서울대학교 치대 재학시절 연극을 했던 인연으로 친분있는 연극인들이 찾아오게 되고 연극을 하자는 권유가 늘어갔고, 연극에 대한 열정을 억누를 수 없었던 신영균은 연극 《여인천하》에서 조광조 역을 맡아 무대에 오르게 된다. 당시, 영화 《과부》의 주인공을 물색하던 조긍하 감독이 그 무대를 보게 되고 영화계 진출을 적극적으로 권하게 된다. 1960년, 조긍하 영화감독의 제안으로 32세의 늦깍이 나이에 영화 《과부》에서 머슴 '성칠이' 역을 맡아 영화계에 전격 데뷔하였다. 이어 출연한 《마부》가 한국 영화사상 최초로 1961년 베를린 영화제에서 특별은곰상을 수상하고, 1962년에는 《연산군》으로 제1회 대종상 남우주연상을 차지하며 데뷔 2년 만에 연기파 배우로 자리매김했다. 이후, 국내외 유수의 영화시상식에서 남우주연상을 휩쓸었다. 그리고 1964년에는 그의 히트작인 《빨간 마후라》로 제11회 아시아영화제 남우주연상을 받으면서 국제적으로 통하는 배우라는 인상을 대중들에게 심었다. 1960년부터 1978년 배우 은퇴하기 까지 《과부》, 《연산군》, 《열녀문》, 《갯마을》, 《시장》, 《빨간 마후라》, 《미워도 다시 한번》, 《삼일천하》등 주옥같은 작품을 비롯하여 총 294편의 영화에 출연하여 1960~70년대 영화계의 톱스타로 군림했다. 배우 시절 영화배우라는 직업을 늘 불안하게 여겼던 그는 1963년, 친구와 함께 서울 금호동에 동시 상영을 하는 ‘금호극장’을 인수하여 새로 개관하였다. 이후 명보극장 바로 옆에 있는 명보제과를 인수하여 이때 부인 김선희 여사가 팔을 걷어붙여 직접 빵을 굽고 장사도 하면서 사업을 키워 나갔다. 당시 명보제과는 뉴욕제과와 태극당, 풍년제과 등과 함께 4대 제과로 꼽힐 정도였다고 한다. 1971년에는 볼링장을 인수하였고, 1973년에는 빌딩관리업체인 '한주흥산 주식회사'를 설립하여 부동산임대사업에까지 뛰어들어 영화배우 못지않은 사업수완을 보였다. 1977년 8월에는 명보제과 바로 옆에 있는 명보극장을 7억 5천만원을 들여 사들인 이후, 《지옥의 묵시록》과 《빠삐용》 등의 외국 영화와 《내가 버린 여자》, 《별들의 고향 2》, 《미워도 다시 한번》 등의 한국영화를 배급·상영하여 대박을 터뜨렸다. 1985년, 서울 종로구 관훈동에 지상 14층 지하 4층의 빌딩을 건립하고 지하 2,3층에 명보소극장을 차렸다. 1992년에는 한국에 진출하려는 미국 외식패스트푸드업체인 맥도날드사와 신영균이 함께 49 대 51의 비율로 54억원의 자본금을 투자하여 서울에 합작회사인 '맥신산업'을 설립하였다. "
+}

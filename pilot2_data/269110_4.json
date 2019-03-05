@@ -1,0 +1,37 @@
+{
+	"docID": "269110",
+	"globalSID": "1522154",
+	"pronouns": [],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 25,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "김정수(본명_김정숙)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 46,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "박진숙"
+		}
+	],
+	"plainText": "한편, 인기 드라마 작가 김정수(본명_김정숙)씨와 대학 동창이며 드라마 작가 박진숙씨의 대학 1년 후배이기도 하다."
+}

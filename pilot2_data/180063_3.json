@@ -1,0 +1,74 @@
+{
+	"docID": "180063",
+	"globalSID": "1170055",
+	"pronouns": [
+		{
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "현 위메이드_폭스)로",
+			"id": 0,
+			"st": 35
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "ELU",
+			"entityName": "웅진_스타즈",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "2-1",
+			"is_target": true,
+			"surface": "한빛_스타즈",
+			"coref_index": 306
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"entityName": "위메이드_폭스",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 33,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "팬택앤큐리텔_큐리어스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "WIKILINK",
+			"entityName": "위메이드_폭스",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "위메이드_폭스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 12,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2005년_3월_18일"
+		}
+	],
+	"plainText": "2005년_3월_18일 한빛_스타즈에서 팬택앤큐리텔_큐리어스 (현 위메이드_폭스)로 이적했다."
+}

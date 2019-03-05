@@ -1,0 +1,1428 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "ETC",
+			"st": 21,
+			"eType": "WIKILINK",
+			"entityName": "음력_5월_16일",
+			"en": 30,
+			"is_target": true,
+			"surface": "음력_5월_16일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 48,
+			"eType": "WIKILINK",
+			"entityName": "음력_5월_10일",
+			"en": 57,
+			"is_target": true,
+			"surface": "음력_5월_10일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 78,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 80,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 817,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 82,
+			"eType": "WIKILINK",
+			"entityName": "조선",
+			"en": 84,
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 4,
+			"ne_type": "LOCATION",
+			"st": 90,
+			"eType": "WIKILINK",
+			"entityName": "조선",
+			"en": 92,
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 98,
+			"eType": "WIKILINK",
+			"entityName": "왕",
+			"en": 100,
+			"is_target": true,
+			"surface": "임금",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 2,
+			"is_target": true,
+			"surface": "태종",
+			"coref_index": 812,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 7,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 19,
+			"is_target": false,
+			"surface": "1367년_6월_13일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "TIME",
+			"st": 34,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 46,
+			"is_target": false,
+			"surface": "1422년_5월_30일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "TIME",
+			"st": 62,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 75,
+			"is_target": false,
+			"surface": "1400년_~_1418년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 86,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 89,
+			"is_target": true,
+			"surface": "문신자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 104,
+			"eType": "WIKILINK",
+			"entityName": "성",
+			"en": 105,
+			"is_target": true,
+			"surface": "성",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 107,
+			"eType": "WIKILINK",
+			"entityName": "이씨",
+			"en": 111,
+			"is_target": true,
+			"surface": "이(李)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 113,
+			"eType": "WIKILINK",
+			"entityName": "휘",
+			"en": 114,
+			"is_target": true,
+			"surface": "휘",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 124,
+			"eType": "WIKILINK",
+			"entityName": "본관",
+			"en": 126,
+			"is_target": true,
+			"surface": "본관",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 128,
+			"eType": "WIKILINK",
+			"entityName": "전주_이씨",
+			"en": 134,
+			"is_target": true,
+			"surface": "전주(全州)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 136,
+			"eType": "WIKILINK",
+			"entityName": "자_(이름)",
+			"en": 137,
+			"is_target": true,
+			"surface": "자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 161,
+			"eType": "ELU",
+			"entityName": "조선_태종",
+			"en": 164,
+			"is_target": true,
+			"surface": "정안군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 187,
+			"eType": "WIKILINK",
+			"entityName": "묘호",
+			"en": 193,
+			"is_target": true,
+			"surface": "묘호(廟號)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 197,
+			"eType": "WIKILINK",
+			"entityName": "시호",
+			"en": 203,
+			"is_target": true,
+			"surface": "시호(諡號)",
+			"coref_index": 813,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 20,
+			"ne_type": "LOCATION",
+			"st": 255,
+			"eType": "WIKILINK",
+			"entityName": "명나라",
+			"en": 256,
+			"is_target": true,
+			"surface": "명",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 280,
+			"eType": "WIKILINK",
+			"entityName": "조선_숙종",
+			"en": 282,
+			"is_target": true,
+			"surface": "숙종",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"Politician",
+				"Governor",
+				"Monarch",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 284,
+			"eType": "WIKILINK",
+			"entityName": "대한제국_고종",
+			"en": 286,
+			"is_target": true,
+			"surface": "고종",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 116,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 118,
+			"is_target": true,
+			"surface": "방원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 139,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 141,
+			"is_target": true,
+			"surface": "유덕",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "PERSON",
+			"st": 149,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 151,
+			"is_target": true,
+			"surface": "왕자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "PERSON",
+			"st": 171,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 174,
+			"is_target": true,
+			"surface": "정안공",
+			"coref_index": 812,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "PERSON",
+			"st": 183,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 185,
+			"is_target": true,
+			"surface": "태종",
+			"coref_index": 812,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 205,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 215,
+			"is_target": true,
+			"surface": "성덕신공문무광효대왕",
+			"coref_index": 812,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 239,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 251,
+			"is_target": true,
+			"surface": "태종성덕신공문무광효대왕",
+			"coref_index": 812,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "PERSON",
+			"st": 266,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 268,
+			"is_target": true,
+			"surface": "공정",
+			"coref_index": 812,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 289,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 291,
+			"is_target": true,
+			"surface": "존호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 297,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 299,
+			"is_target": true,
+			"surface": "시호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "PERSON",
+			"st": 308,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 334,
+			"is_target": true,
+			"surface": "태종공정성덕신공건천체극대정계우문무예철성렬광효대왕",
+			"coref_index": 812,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 231,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 233,
+			"is_target": true,
+			"surface": "존시",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 262,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 264,
+			"is_target": true,
+			"surface": "시호",
+			"coref_index": 813,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 36,
+			"ne_type": "TIME",
+			"st": 366,
+			"eType": "WIKILINK",
+			"en": 371,
+			"entityName": "1398년",
+			"is_target": false,
+			"surface": "1398년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 37,
+			"ne_type": "TIME",
+			"st": 374,
+			"eType": "WIKILINK",
+			"en": 379,
+			"entityName": "1400년",
+			"is_target": false,
+			"surface": "1400년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 388,
+			"eType": "WIKILINK",
+			"en": 390,
+			"entityName": "조선_정종",
+			"is_target": true,
+			"surface": "정종",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 400,
+			"eType": "WIKILINK",
+			"en": 403,
+			"entityName": "왕세자",
+			"is_target": true,
+			"surface": "왕세자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 409,
+			"eType": "WIKILINK",
+			"en": 413,
+			"entityName": "대리청정",
+			"is_target": true,
+			"surface": "대리청정",
+			"coref_index": 814,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 430,
+			"eType": "WIKILINK",
+			"en": 434,
+			"entityName": "충녕대군",
+			"is_target": true,
+			"surface": "충녕대군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 42,
+			"ne_type": "TIME",
+			"st": 445,
+			"eType": "WIKILINK",
+			"en": 450,
+			"entityName": "1418년",
+			"is_target": false,
+			"surface": "1418년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 43,
+			"ne_type": "TIME",
+			"st": 453,
+			"eType": "WIKILINK",
+			"en": 458,
+			"entityName": "1422년",
+			"is_target": false,
+			"surface": "1422년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 461,
+			"eType": "WIKILINK",
+			"en": 464,
+			"entityName": "태상왕",
+			"is_target": true,
+			"surface": "태상왕",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 470,
+			"eType": "WIKILINK",
+			"en": 474,
+			"entityName": "대리청정",
+			"is_target": true,
+			"surface": "대리청정",
+			"coref_index": 814,
+			"ancestor": "1-40"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Place",
+				"PopulatedPlace"
+			],
+			"id": 46,
+			"ne_type": "LOCATION",
+			"st": 489,
+			"eType": "WIKILINK",
+			"en": 492,
+			"entityName": "명나라",
+			"is_target": true,
+			"surface": "명나라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 47,
+			"ne_type": "PERSON",
+			"st": 499,
+			"eType": "WIKILINK",
+			"en": 501,
+			"entityName": "이색",
+			"is_target": true,
+			"surface": "이색",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 511,
+			"eType": "WIKILINK",
+			"en": 514,
+			"entityName": "조선_태조",
+			"is_target": true,
+			"surface": "이성계",
+			"coref_index": 815,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 49,
+			"ne_type": "PERSON",
+			"st": 522,
+			"eType": "WIKILINK",
+			"en": 525,
+			"entityName": "정몽주",
+			"is_target": true,
+			"surface": "정몽주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 50,
+			"ne_type": "LOCATION",
+			"st": 544,
+			"eType": "WIKILINK",
+			"en": 546,
+			"entityName": "조선",
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 51,
+			"ne_type": "LOCATION",
+			"st": 563,
+			"eType": "WIKILINK",
+			"en": 565,
+			"entityName": "조선",
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 52,
+			"ne_type": "PERSON",
+			"st": 600,
+			"eType": "WIKILINK",
+			"en": 604,
+			"entityName": "신덕왕후",
+			"is_target": true,
+			"surface": "신덕왕후",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 53,
+			"ne_type": "PERSON",
+			"st": 624,
+			"eType": "WIKILINK",
+			"en": 627,
+			"entityName": "정도전",
+			"is_target": true,
+			"surface": "정도전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 638,
+			"eType": "WIKILINK",
+			"en": 647,
+			"entityName": "제1차_왕자의_난",
+			"is_target": true,
+			"surface": "제1차_왕자의_난",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 654,
+			"eType": "WIKILINK",
+			"en": 663,
+			"entityName": "제2차_왕자의_난",
+			"is_target": true,
+			"surface": "제2차_왕자의_난",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 581,
+			"eType": "NEW",
+			"en": 586,
+			"entityName": "",
+			"is_target": true,
+			"surface": "전비_한씨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"NobleFamily",
+				"Agent",
+				"PopulatedPlace",
+				"Settlement",
+				"Family",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 57,
+			"ne_type": "LOCATION",
+			"st": 690,
+			"eType": "WIKILINK",
+			"entityName": "조선",
+			"en": 692,
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "1-51"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 693,
+			"eType": "WIKILINK",
+			"entityName": "조선_태조",
+			"en": 699,
+			"is_target": true,
+			"surface": "태조_이성계",
+			"coref_index": 815,
+			"ancestor": "1-48"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 59,
+			"ne_type": "PERSON",
+			"st": 701,
+			"eType": "WIKILINK",
+			"entityName": "신의왕후",
+			"en": 708,
+			"is_target": true,
+			"surface": "신의왕후_한씨",
+			"coref_index": 818,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 60,
+			"ne_type": "PERSON",
+			"st": 725,
+			"eType": "WIKILINK",
+			"entityName": "민제_(조선)",
+			"en": 727,
+			"is_target": true,
+			"surface": "민제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 61,
+			"ne_type": "PERSON",
+			"st": 731,
+			"eType": "WIKILINK",
+			"entityName": "원경왕후",
+			"en": 735,
+			"is_target": true,
+			"surface": "원경왕후",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 62,
+			"ne_type": "ETC",
+			"st": 854,
+			"eType": "WIKILINK",
+			"entityName": "탐라국",
+			"en": 856,
+			"is_target": true,
+			"surface": "탐라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 63,
+			"ne_type": "PERSON",
+			"st": 789,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 791,
+			"is_target": true,
+			"surface": "태조",
+			"coref_index": 815,
+			"ancestor": "1-58"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 64,
+			"ne_type": "ORGANIZATION",
+			"st": 816,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 818,
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ORGANIZATION",
+			"st": 832,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 834,
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 66,
+			"ne_type": "TIME",
+			"st": 848,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 853,
+			"is_target": false,
+			"surface": "1402년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 67,
+			"ne_type": "ORGANIZATION",
+			"st": 882,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 884,
+			"is_target": true,
+			"surface": "조선",
+			"coref_index": 811,
+			"ancestor": "1-57"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "TIME",
+			"st": 899,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 904,
+			"is_target": true,
+			"surface": "생애_초반",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 69,
+			"ne_type": "PERSON",
+			"st": 912,
+			"eType": "ELU",
+			"entityName": "조선_태종",
+			"en": 918,
+			"is_target": true,
+			"surface": "태종_이방원",
+			"coref_index": 812,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 70,
+			"ne_type": "TIME",
+			"st": 920,
+			"eType": "WIKILINK",
+			"entityName": "1367년",
+			"en": 925,
+			"is_target": false,
+			"surface": "1367년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 71,
+			"ne_type": "TIME",
+			"st": 939,
+			"eType": "WIKILINK",
+			"entityName": "6월_13일",
+			"en": 945,
+			"is_target": false,
+			"surface": "6월_13일",
+			"coref_index": 816,
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 72,
+			"ne_type": "ETC",
+			"st": 946,
+			"eType": "WIKILINK",
+			"entityName": "음력_5월_16일",
+			"en": 955,
+			"is_target": true,
+			"surface": "음력_5월_16일",
+			"coref_index": 816,
+			"ancestor": "1-71"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 73,
+			"ne_type": "LOCATION",
+			"st": 961,
+			"eType": "WIKILINK",
+			"entityName": "고려",
+			"en": 963,
+			"is_target": true,
+			"surface": "고려",
+			"coref_index": 817,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 74,
+			"ne_type": "LOCATION",
+			"st": 969,
+			"eType": "WIKILINK",
+			"entityName": "함경남도",
+			"en": 972,
+			"is_target": true,
+			"surface": "함경도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 75,
+			"ne_type": "LOCATION",
+			"st": 973,
+			"eType": "WIKILINK",
+			"entityName": "함흥시",
+			"en": 976,
+			"is_target": true,
+			"surface": "함흥부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 76,
+			"ne_type": "PERSON",
+			"st": 1009,
+			"eType": "WIKILINK",
+			"entityName": "조선_태조",
+			"en": 1015,
+			"is_target": true,
+			"surface": "태조_이성계",
+			"coref_index": 815,
+			"ancestor": "1-48"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 77,
+			"ne_type": "PERSON",
+			"st": 1056,
+			"eType": "WIKILINK",
+			"entityName": "신의왕후",
+			"en": 1063,
+			"is_target": true,
+			"surface": "신의왕후_한씨",
+			"coref_index": 818,
+			"ancestor": "1-59"
+		},
+		{
+			"kbox_types": [
+				"Monarch",
+				"Agent",
+				"Person"
+			],
+			"id": 78,
+			"ne_type": "PERSON",
+			"st": 1104,
+			"eType": "ELU",
+			"entityName": "조선_태종",
+			"en": 1107,
+			"is_target": true,
+			"surface": "이방원",
+			"coref_index": 812,
+			"ancestor": "1-69"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 79,
+			"ne_type": "TIME",
+			"st": 926,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 933,
+			"is_target": false,
+			"surface": "공민왕_16년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 80,
+			"ne_type": "TIME",
+			"st": 935,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 938,
+			"is_target": false,
+			"surface": "정미년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 81,
+			"ne_type": "LOCATION",
+			"st": 990,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 992,
+			"is_target": true,
+			"surface": "사제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 82,
+			"ne_type": "PERSON",
+			"st": 1033,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1038,
+			"is_target": true,
+			"surface": "안천부원군",
+			"coref_index": 819,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 83,
+			"ne_type": "PERSON",
+			"st": 1071,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1073,
+			"is_target": true,
+			"surface": "아들",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 84,
+			"ne_type": "PERSON",
+			"st": 1046,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1048,
+			"is_target": true,
+			"surface": "한경",
+			"coref_index": 819,
+			"ancestor": "1-82"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 85,
+			"ne_type": "PERSON",
+			"st": 1081,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1083,
+			"is_target": true,
+			"surface": "태조",
+			"coref_index": 815,
+			"ancestor": "1-76"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 86,
+			"ne_type": "PERSON",
+			"st": 1093,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1095,
+			"is_target": true,
+			"surface": "무인",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "564958,564959,564960,564961,564962,564963,564964,564965,564966,564967,564968,564969,564970,564971,564972,564973",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 127,
+			"surface": "본관은",
+			"st": 124,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"ancestor": "1-6",
+			"st": 421,
+			"en": 422,
+			"surface": "그",
+			"coref_index": 812
+		},
+		{
+			"id": 2,
+			"en": 589,
+			"ancestor": "-1",
+			"st": 587,
+			"surface": "소생"
+		},
+		{
+			"id": 3,
+			"en": 594,
+			"ancestor": "-1",
+			"st": 573,
+			"surface": "개국에 기여한 전비_한씨 소생 자녀들은"
+		},
+		{
+			"id": 4,
+			"en": 607,
+			"ancestor": "-1",
+			"st": 600,
+			"surface": "신덕왕후 소생"
+		},
+		{
+			"id": 5,
+			"en": 610,
+			"ancestor": "-1",
+			"st": 600,
+			"surface": "신덕왕후 소생 아들"
+		},
+		{
+			"id": 6,
+			"en": 612,
+			"ancestor": "-1",
+			"st": 600,
+			"surface": "신덕왕후 소생 아들 중"
+		},
+		{
+			"id": 7,
+			"ancestor": "1-6",
+			"st": 755,
+			"en": 757,
+			"surface": "자신",
+			"coref_index": 812
+		},
+		{
+			"id": 8,
+			"en": 765,
+			"surface": "자신의 처남과 사돈",
+			"st": 755,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "태종(太宗, 1367년_6월_13일 (음력_5월_16일) ~ 1422년_5월_30일 (음력_5월_10일) 재위 1400년_~_1418년)은 고려, 조선의 문신자_조선의 제3대 임금이다. 성은 이(李), 휘는 방원(芳遠), 본관은 전주(全州), 자는 유덕(遺德)이다. 왕자 때 받은 작호는 정안군(靖安君), 정안공(靖安公)이고, 태종은 묘호(廟號)이며, 시호(諡號)는 성덕신공문무광효대왕(聖德神功文武光孝大王)이므로 존시를 합치면 태종성덕신공문무광효대왕이다. 명에서 받은 시호는 공정(恭定)이고, 나중에 숙종과 고종 때 존호를 더하여 시호를 모두 합치면 태종공정성덕신공건천체극대정계우문무예철성렬광효대왕(太宗恭定聖德神功建天體極大正啓佑文武睿哲成烈光孝大王)이다. 1398년부터 1400년까지 둘째 형인 정종이 재위하는 동안 왕세자 신분으로 대리청정을 하였으며, 그가 셋째 아들 충녕대군에게 선양한 뒤에는 1418년부터 1422년까지 태상왕 신분으로 대리청정을 하였다. 과거 급제 후 명나라의 사신으로 이색을 수행하였으며, 이성계를 제거하려던 정몽주를 제거하고, 반대파들을 제거하여 조선의 기틀을 다져놓았다. 그러나 조선 개국 이후, 개국에 기여한 전비_한씨 소생 자녀들은 외면하고 신덕왕후 소생 아들 중 세자를 정한 부왕과 정도전의 처사에 반발하여 제1차_왕자의_난을 일으키고 제2차_왕자의_난을 진압하여 반대파를 숙청하고 권력을 장악한다. 조선 태조_이성계와 신의왕후_한씨의 다섯 번째 아들이며, 비는 민제의 딸 원경왕후(元敬王后)이다. 공신들을 추방하고 자신의 처남과 사돈 등의 외척을 숙청하여 왕권을 강화시켰다. 태조 이후 아직 왕권이 제대로 갖춰져 있지 않던 조선의 기틀을 다져서 사실상 조선의 창업 군주로 불린다. 1402년 탐라 성주가 인부(印符: 朱記)를 왕에게 반납하여 조선에 완전 병합되었다. 생애 생애_초반 출생과 가계 태종_이방원은 1367년(공민왕_16년) 정미년 6월_13일(음력_5월_16일) 신묘일 고려 북동부, 함경도 함흥부(咸興府) 귀주(歸州)의 사제(私第, 개인 소유의 집)에서 태조_이성계와 증 영문하부사(贈領門下府事) 안천부원군(安川府院君) 한경(韓卿)의 딸 신의왕후_한씨의 다섯 번째 아들로 태어났다. 태조의 아들들이 대개 무인으로 성장했지만 이방원은 어릴 때부터 무예나 격구보다는 학문을 더 좋아했다고 한다. ",
+	"docID": "68578"
+}

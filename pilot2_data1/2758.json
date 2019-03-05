@@ -1,0 +1,1141 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"id": 0,
+			"ne_type": "LOCATION",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "스칸디나비아",
+			"en": 6,
+			"is_target": true,
+			"surface": "스칸디나비아",
+			"coref_index": 387,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 1,
+			"ne_type": "LOCATION",
+			"st": 68,
+			"eType": "WIKILINK",
+			"entityName": "노르웨이",
+			"en": 72,
+			"is_target": true,
+			"surface": "노르웨이",
+			"coref_index": 393,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 73,
+			"eType": "WIKILINK",
+			"entityName": "스웨덴",
+			"en": 76,
+			"is_target": true,
+			"surface": "스웨덴",
+			"coref_index": 391,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 3,
+			"ne_type": "LOCATION",
+			"st": 77,
+			"eType": "WIKILINK",
+			"entityName": "덴마크",
+			"en": 80,
+			"is_target": true,
+			"surface": "덴마크",
+			"coref_index": 394,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 4,
+			"ne_type": "LOCATION",
+			"st": 100,
+			"eType": "WIKILINK",
+			"entityName": "핀란드",
+			"en": 103,
+			"is_target": true,
+			"surface": "핀란드",
+			"coref_index": 390,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 5,
+			"ne_type": "LOCATION",
+			"st": 105,
+			"eType": "WIKILINK",
+			"entityName": "아이슬란드",
+			"en": 110,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 388,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 133,
+			"eType": "WIKILINK",
+			"entityName": "그린란드",
+			"en": 137,
+			"is_target": true,
+			"surface": "그린란드",
+			"coref_index": 395,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 7,
+			"ne_type": "LOCATION",
+			"st": 139,
+			"eType": "WIKILINK",
+			"entityName": "올란드_제도",
+			"en": 145,
+			"is_target": true,
+			"surface": "올란드_제도",
+			"coref_index": 396,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 8,
+			"ne_type": "LOCATION",
+			"st": 147,
+			"eType": "WIKILINK",
+			"entityName": "페로_제도",
+			"en": 152,
+			"is_target": true,
+			"surface": "페로_제도",
+			"coref_index": 389,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"id": 9,
+			"ne_type": "LOCATION",
+			"st": 154,
+			"eType": "ELU",
+			"entityName": "스칸디나비아",
+			"en": 160,
+			"is_target": true,
+			"surface": "스칸디나비아",
+			"coref_index": 387,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 10,
+			"ne_type": "LOCATION",
+			"st": 190,
+			"eType": "WIKILINK",
+			"entityName": "노르딕_국가",
+			"en": 196,
+			"is_target": true,
+			"surface": "노르딕_국가",
+			"coref_index": 392,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "LOCATION",
+			"st": 22,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 36,
+			"is_target": true,
+			"surface": "북유럽의_스칸디나비아_반도",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 219,
+			"eType": "WIKILINK",
+			"entityName": "고대_노르드어",
+			"en": 226,
+			"is_target": true,
+			"surface": "고대_노르드어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 238,
+			"eType": "WIKILINK",
+			"entityName": "북게르만어군",
+			"en": 244,
+			"is_target": true,
+			"surface": "북게르만어군",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 14,
+			"ne_type": "LOCATION",
+			"st": 266,
+			"eType": "WIKILINK",
+			"entityName": "아이슬란드",
+			"en": 271,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 388,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 273,
+			"eType": "WIKILINK",
+			"entityName": "페로_제도",
+			"en": 278,
+			"is_target": true,
+			"surface": "페로_제도",
+			"coref_index": 389,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 281,
+			"eType": "WIKILINK",
+			"entityName": "스웨덴어",
+			"en": 285,
+			"is_target": true,
+			"surface": "스웨덴어",
+			"coref_index": 397,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 17,
+			"ne_type": "LOCATION",
+			"st": 292,
+			"eType": "WIKILINK",
+			"entityName": "핀란드",
+			"en": 295,
+			"is_target": true,
+			"surface": "핀란드",
+			"coref_index": 390,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 18,
+			"ne_type": "LOCATION",
+			"st": 337,
+			"eType": "ELU",
+			"entityName": "스웨덴",
+			"en": 340,
+			"is_target": true,
+			"surface": "스웨덴",
+			"coref_index": 391,
+			"ancestor": "1-2"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 19,
+			"ne_type": "LOCATION",
+			"st": 347,
+			"eType": "WIKILINK",
+			"entityName": "핀란드",
+			"en": 350,
+			"is_target": true,
+			"surface": "핀란드",
+			"coref_index": 390,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 363,
+			"eType": "WIKILINK",
+			"entityName": "페노스칸디아",
+			"en": 369,
+			"is_target": true,
+			"surface": "페노스칸디아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 21,
+			"ne_type": "LOCATION",
+			"st": 375,
+			"eType": "ELU",
+			"entityName": "핀란드",
+			"en": 378,
+			"is_target": true,
+			"surface": "핀란드",
+			"coref_index": 390,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"id": 22,
+			"ne_type": "LOCATION",
+			"st": 380,
+			"eType": "ELU",
+			"entityName": "스칸디나비아",
+			"en": 386,
+			"is_target": true,
+			"surface": "스칸디나비아",
+			"coref_index": 387,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 412,
+			"eType": "WIKILINK",
+			"entityName": "핀란드어",
+			"en": 416,
+			"is_target": true,
+			"surface": "핀란드어",
+			"coref_index": 400,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 418,
+			"eType": "WIKILINK",
+			"entityName": "인도유럽어족",
+			"en": 424,
+			"is_target": true,
+			"surface": "인도유럽어족",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 433,
+			"eType": "WIKILINK",
+			"entityName": "스칸디나비아_제어",
+			"en": 442,
+			"is_target": true,
+			"surface": "스칸디나비아_제어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 448,
+			"eType": "WIKILINK",
+			"entityName": "우랄어족",
+			"en": 452,
+			"is_target": true,
+			"surface": "우랄어족",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 454,
+			"eType": "WIKILINK",
+			"entityName": "핀우그리아어파",
+			"en": 461,
+			"is_target": true,
+			"surface": "핀우그리아어파",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 476,
+			"eType": "WIKILINK",
+			"entityName": "범노르만_운동",
+			"en": 483,
+			"is_target": true,
+			"surface": "범노르만_운동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 509,
+			"eType": "WIKILINK",
+			"entityName": "범스칸디나비아주의",
+			"en": 518,
+			"is_target": true,
+			"surface": "범스칸디나비아주의",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"id": 30,
+			"ne_type": "LOCATION",
+			"st": 523,
+			"eType": "ELU",
+			"entityName": "스칸디나비아",
+			"en": 529,
+			"is_target": true,
+			"surface": "스칸디나비아",
+			"coref_index": 387,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 31,
+			"ne_type": "LOCATION",
+			"st": 531,
+			"eType": "ELU",
+			"entityName": "핀란드",
+			"en": 534,
+			"is_target": true,
+			"surface": "핀란드",
+			"coref_index": 390,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 32,
+			"ne_type": "LOCATION",
+			"st": 536,
+			"eType": "ELU",
+			"entityName": "아이슬란드",
+			"en": 541,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 388,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"id": 33,
+			"ne_type": "LOCATION",
+			"st": 577,
+			"eType": "ELU",
+			"entityName": "스칸디나비아",
+			"en": 583,
+			"is_target": true,
+			"surface": "스칸디나비아",
+			"coref_index": 387,
+			"ancestor": "1-30"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 34,
+			"ne_type": "LOCATION",
+			"st": 595,
+			"eType": "WIKILINK",
+			"entityName": "노르딕_국가",
+			"en": 601,
+			"is_target": true,
+			"surface": "노르딕_국가",
+			"coref_index": 392,
+			"ancestor": "1-10"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 35,
+			"ne_type": "LOCATION",
+			"st": 619,
+			"eType": "ELU",
+			"entityName": "노르웨이",
+			"en": 623,
+			"is_target": true,
+			"surface": "노르웨이",
+			"coref_index": 393,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 36,
+			"ne_type": "LOCATION",
+			"st": 625,
+			"eType": "ELU",
+			"entityName": "스웨덴",
+			"en": 628,
+			"is_target": true,
+			"surface": "스웨덴",
+			"coref_index": 391,
+			"ancestor": "1-18"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 37,
+			"ne_type": "LOCATION",
+			"st": 630,
+			"eType": "ELU",
+			"entityName": "덴마크",
+			"en": 633,
+			"is_target": true,
+			"surface": "덴마크",
+			"coref_index": 394,
+			"ancestor": "1-3"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Company",
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Company",
+				"Organisation"
+			],
+			"id": 38,
+			"ne_type": "ORGANIZATION",
+			"st": 641,
+			"eType": "ELU",
+			"entityName": "그린란드",
+			"en": 645,
+			"is_target": true,
+			"surface": "그린란드",
+			"coref_index": 395,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 648,
+			"eType": "ELU",
+			"entityName": "핀란드",
+			"en": 651,
+			"is_target": true,
+			"surface": "핀란드",
+			"coref_index": 390,
+			"ancestor": "1-4"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "LOCATION",
+			"st": 634,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 639,
+			"is_target": true,
+			"surface": "페로_제도",
+			"coref_index": 389,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "LOCATION",
+			"st": 652,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 658,
+			"is_target": true,
+			"surface": "올란드_제도",
+			"coref_index": 396,
+			"ancestor": "1-7"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "LOCATION",
+			"st": 661,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 666,
+			"is_target": true,
+			"surface": "아이슬란드",
+			"coref_index": 388,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 680,
+			"eType": "WIKILINK",
+			"entityName": "덴마크어",
+			"en": 684,
+			"is_target": true,
+			"surface": "덴마크어",
+			"coref_index": 398,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 44,
+			"ne_type": "ETC",
+			"st": 685,
+			"eType": "WIKILINK",
+			"entityName": "스웨덴어",
+			"en": 689,
+			"is_target": true,
+			"surface": "스웨덴어",
+			"coref_index": 397,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 690,
+			"eType": "WIKILINK",
+			"entityName": "노르웨이어",
+			"en": 695,
+			"is_target": true,
+			"surface": "노르웨이어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 800,
+			"eType": "WIKILINK",
+			"entityName": "북게르만어",
+			"en": 805,
+			"is_target": true,
+			"surface": "북게르만어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 47,
+			"ne_type": "ETC",
+			"st": 807,
+			"eType": "WIKILINK",
+			"entityName": "아이슬란드어",
+			"en": 813,
+			"is_target": true,
+			"surface": "아이슬란드어",
+			"coref_index": 399,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 815,
+			"eType": "WIKILINK",
+			"entityName": "페로어",
+			"en": 818,
+			"is_target": true,
+			"surface": "페로어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 49,
+			"ne_type": "ETC",
+			"st": 858,
+			"eType": "WIKILINK",
+			"entityName": "고대_노르드어",
+			"en": 865,
+			"is_target": true,
+			"surface": "고대_노르드어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 50,
+			"ne_type": "ETC",
+			"st": 881,
+			"eType": "ELU",
+			"entityName": "덴마크어",
+			"en": 885,
+			"is_target": true,
+			"surface": "덴마크어",
+			"coref_index": 398,
+			"ancestor": "1-43"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "ETC",
+			"st": 898,
+			"eType": "WIKILINK",
+			"entityName": "저지_색슨어",
+			"en": 904,
+			"is_target": true,
+			"surface": "저지_색슨어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 52,
+			"ne_type": "ETC",
+			"st": 913,
+			"eType": "ELU",
+			"entityName": "섬나라",
+			"en": 916,
+			"is_target": true,
+			"surface": "섬나라",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 53,
+			"ne_type": "ETC",
+			"st": 932,
+			"eType": "ELU",
+			"entityName": "아이슬란드어",
+			"en": 938,
+			"is_target": true,
+			"surface": "아이슬란드어",
+			"coref_index": 399,
+			"ancestor": "1-47"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ETC",
+			"st": 968,
+			"eType": "WIKILINK",
+			"entityName": "인도유럽어족",
+			"en": 974,
+			"is_target": true,
+			"surface": "인도유럽어족",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 55,
+			"ne_type": "ETC",
+			"st": 975,
+			"eType": "WIKILINK",
+			"entityName": "게르만어",
+			"en": 979,
+			"is_target": true,
+			"surface": "게르만어",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 56,
+			"ne_type": "ETC",
+			"st": 985,
+			"eType": "WIKILINK",
+			"entityName": "우랄어족",
+			"en": 989,
+			"is_target": true,
+			"surface": "우랄어족",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"id": 57,
+			"ne_type": "ETC",
+			"st": 998,
+			"eType": "WIKILINK",
+			"entityName": "핀란드어",
+			"en": 1002,
+			"is_target": true,
+			"surface": "핀란드어",
+			"coref_index": 400,
+			"ancestor": "1-23"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Continent",
+				"Place"
+			],
+			"id": 58,
+			"ne_type": "LOCATION",
+			"st": 1032,
+			"eType": "ELU",
+			"entityName": "스칸디나비아",
+			"en": 1038,
+			"is_target": true,
+			"surface": "스칸디나비아",
+			"coref_index": 387,
+			"ancestor": "1-0"
+		}
+	],
+	"globalSID": "44177,44178,44179,44180,44181,44182,44183,44184,44185,44186,44187,44188,44189,44190,44191,44192,44193,44194",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 124,
+			"surface": "이들",
+			"st": 122,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 128,
+			"surface": "이들 지역의",
+			"st": 122,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"en": 132,
+			"surface": "이들 지역의 속령인",
+			"st": 122,
+			"ancestor": "-1"
+		},
+		{
+			"id": 3,
+			"en": 153,
+			"surface": "이들 지역의 속령인 그린란드, 올란드_제도, 페로_제도를",
+			"st": 122,
+			"ancestor": "-1"
+		},
+		{
+			"id": 4,
+			"en": 262,
+			"ancestor": "-1",
+			"st": 258,
+			"surface": "이 정의"
+		},
+		{
+			"id": 5,
+			"en": 395,
+			"surface": "다른 나라들과",
+			"st": 388,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 444,
+			"surface": "다른 스칸디나비아_제어와는",
+			"st": 430,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 572,
+			"ancestor": "-1",
+			"st": 570,
+			"surface": "이들"
+		},
+		{
+			"id": 8,
+			"en": 576,
+			"ancestor": "-1",
+			"st": 570,
+			"surface": "이들 나라도"
+		},
+		{
+			"id": 9,
+			"en": 726,
+			"surface": "한 언어로",
+			"st": 721,
+			"ancestor": "-1"
+		},
+		{
+			"id": 10,
+			"en": 733,
+			"surface": "한 언어로 간주될 수도",
+			"st": 721,
+			"ancestor": "-1"
+		},
+		{
+			"id": 11,
+			"en": 755,
+			"surface": "다른 독립 국가에서",
+			"st": 745,
+			"ancestor": "-1"
+		},
+		{
+			"id": 12,
+			"en": 764,
+			"surface": "다른 독립 국가에서 사용되는 까닭에",
+			"st": 745,
+			"ancestor": "-1"
+		},
+		{
+			"id": 13,
+			"en": 776,
+			"surface": "다른 방향으로",
+			"st": 769,
+			"ancestor": "-1"
+		},
+		{
+			"id": 14,
+			"en": 790,
+			"surface": "다른 언어로",
+			"st": 784,
+			"ancestor": "-1"
+		},
+		{
+			"id": 15,
+			"en": 830,
+			"surface": "이들",
+			"st": 828,
+			"ancestor": "-1"
+		},
+		{
+			"id": 16,
+			"en": 835,
+			"surface": "이들 언어와는",
+			"st": 828,
+			"ancestor": "-1"
+		},
+		{
+			"id": 17,
+			"en": 854,
+			"surface": "이들은",
+			"st": 851,
+			"ancestor": "-1"
+		},
+		{
+			"id": 18,
+			"en": 1018,
+			"surface": "이",
+			"st": 1017,
+			"ancestor": "-1"
+		},
+		{
+			"id": 19,
+			"en": 1031,
+			"surface": "자신들을",
+			"st": 1027,
+			"ancestor": "-1"
+		},
+		{
+			"id": 20,
+			"en": 1051,
+			"surface": "자신들을 스칸디나비아에 포함시키지 않는 이유",
+			"st": 1027,
+			"ancestor": "-1"
+		},
+		{
+			"id": 21,
+			"en": 1053,
+			"surface": "자신들을 스칸디나비아에 포함시키지 않는 이유 중",
+			"st": 1027,
+			"ancestor": "-1"
+		},
+		{
+			"id": 22,
+			"en": 1059,
+			"surface": "자신들을 스칸디나비아에 포함시키지 않는 이유 중 하나이다.",
+			"st": 1027,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "스칸디나비아 (Scandinavia)는 북유럽의_스칸디나비아_반도를 중심으로 한 문화·역사적 지역을 일컫는다. 많은 경우 노르웨이·스웨덴·덴마크의 세 왕국을 말하며, 경우에 따라 핀란드나 아이슬란드를 포함하기도 한다. 이들 지역의 속령인 그린란드, 올란드_제도, 페로_제도를 스칸디나비아에 포함시키기도 한다. 언급된 지역 전체를 말할 경우 노르딕_국가라고도 한다. 언어학이나 문화 연구에서는 고대_노르드어가 사용되었던 현재의 북게르만어군 언어 사용권을 말한다. 이 정의에서는 아이슬란드와 페로_제도 및 스웨덴어를 사용하는 핀란드 일부 지역에 해당한다. 문화적, 역사적 관점에서 스칸디나비아에 오랜 기간 스웨덴의 일부였던 핀란드를 포함하기도 한다. (페노스칸디아 참조). 핀란드가 스칸디나비아의 다른 나라들과 문화적으로 가깝기는 하지만, 핀란드어는 인도유럽어족에 속하는 다른 스칸디나비아_제어와는 달리 우랄어족의 핀우그리아어파에 속한다. 1830년대의 범노르만_운동과 1830년대에서 1850년대까지의 정치적인 범스칸디나비아주의 이후, 스칸디나비아에 핀란드와 아이슬란드를 포함하는 것은 의견이 갈라진다. 문맥에 따라서는 이들 나라도 스칸디나비아에 포함되긴 하지만, 노르딕_국가라는 단어가 표현의 모호함 없이 노르웨이, 스웨덴, 덴마크(페로_제도와 그린란드), 핀란드(올란드_제도), 아이슬란드 전체를 가리킨다. 언어 덴마크어·스웨덴어·노르웨이어는 사용자들끼리 대부분 서로 알아들을 수 있어 한 언어로 간주될 수도 있다. 하지만 서로 다른 독립 국가에서 사용되는 까닭에 조금씩 다른 방향으로 발전해 각각 다른 언어로 인정된다. 같은 북게르만어인 아이슬란드어와 페로어와 계통이 같지만 이들 언어와는 상호 이해가 되지 않는다. 이들은 모두 고대_노르드어에서 파생되었지만 중세 이후 덴마크어·스웨덴어·노르웨이어는 저지_색슨어의 영향을 받아 섬나라에서 사용되어 변화가 적었던 아이슬란드어·페로어와 상당한 분화를 겪었다. 스칸디나비아 제어는 인도유럽어족 게르만어군에 속해 우랄어족 언어의 하나인 핀란드어와는 계통이 전혀 다르다. 이는 핀란드인들이 자신들을 스칸디나비아에 포함시키지 않는 이유 중 하나이다. ",
+	"docID": "2758"
+}

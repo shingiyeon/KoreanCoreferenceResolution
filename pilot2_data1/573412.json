@@ -1,0 +1,811 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "아오시마_슌사쿠",
+			"en": 8,
+			"is_target": true,
+			"surface": "아오시마_슌사쿠",
+			"coref_index": 723,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Work",
+				"TelevisionShow"
+			],
+			"id": 1,
+			"ne_type": "ETC",
+			"st": 47,
+			"eType": "WIKILINK",
+			"entityName": "춤추는_대수사선",
+			"en": 55,
+			"is_target": true,
+			"surface": "춤추는_대수사선",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 73,
+			"eType": "WIKILINK",
+			"entityName": "배우",
+			"en": 75,
+			"is_target": true,
+			"surface": "배우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"id": 3,
+			"ne_type": "PERSON",
+			"st": 76,
+			"eType": "WIKILINK",
+			"entityName": "오다_유지",
+			"en": 81,
+			"is_target": true,
+			"surface": "오다_유지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 12,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 25,
+			"is_target": false,
+			"surface": "1997년_1월_~_3월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 27,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 32,
+			"is_target": true,
+			"surface": "후지_TV",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 66,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 69,
+			"is_target": true,
+			"surface": "주인공",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "PERSON",
+			"st": 159,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 161,
+			"is_target": true,
+			"surface": "인물",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"st": 167,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 180,
+			"is_target": true,
+			"surface": "컴퓨터_시스템_개발_회사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 182,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 190,
+			"is_target": true,
+			"surface": "넘버원_세일즈맨",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 196,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 202,
+			"is_target": true,
+			"surface": "경찰_드라마",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "PERSON",
+			"st": 204,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 206,
+			"is_target": true,
+			"surface": "형사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 213,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 216,
+			"is_target": true,
+			"surface": "경찰관",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"FictionalCharacter"
+			],
+			"id": 13,
+			"ne_type": "PERSON",
+			"st": 358,
+			"eType": "WIKILINK",
+			"en": 364,
+			"entityName": "무로이_신지",
+			"is_target": true,
+			"surface": "무로이_신지",
+			"coref_index": 722,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "PERSON",
+			"st": 226,
+			"eType": "NEW",
+			"en": 228,
+			"entityName": "",
+			"is_target": true,
+			"surface": "시민",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 243,
+			"eType": "NEW",
+			"en": 245,
+			"entityName": "",
+			"is_target": true,
+			"surface": "신념",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 250,
+			"eType": "NEW",
+			"en": 252,
+			"entityName": "",
+			"is_target": true,
+			"surface": "행동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 266,
+			"eType": "NEW",
+			"en": 268,
+			"entityName": "",
+			"is_target": true,
+			"surface": "사람",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ORGANIZATION",
+			"st": 270,
+			"eType": "NEW",
+			"en": 275,
+			"entityName": "",
+			"is_target": true,
+			"surface": "조직_내부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "ETC",
+			"st": 277,
+			"eType": "NEW",
+			"en": 279,
+			"entityName": "",
+			"is_target": true,
+			"surface": "모순",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 281,
+			"eType": "NEW",
+			"en": 285,
+			"entityName": "",
+			"is_target": true,
+			"surface": "관료주의",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 293,
+			"eType": "NEW",
+			"en": 295,
+			"entityName": "",
+			"is_target": true,
+			"surface": "명령",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "ETC",
+			"st": 302,
+			"eType": "NEW",
+			"en": 307,
+			"entityName": "",
+			"is_target": true,
+			"surface": "단독_행동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "PERSON",
+			"st": 319,
+			"eType": "NEW",
+			"en": 322,
+			"entityName": "",
+			"is_target": true,
+			"surface": "문제아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 339,
+			"eType": "NEW",
+			"en": 343,
+			"entityName": "",
+			"is_target": true,
+			"surface": "승진시험",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 346,
+			"eType": "NEW",
+			"en": 348,
+			"entityName": "",
+			"is_target": true,
+			"surface": "출세",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 369,
+			"eType": "NEW",
+			"en": 371,
+			"entityName": "",
+			"is_target": true,
+			"surface": "자리",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "LOCATION",
+			"st": 377,
+			"eType": "NEW",
+			"en": 379,
+			"entityName": "",
+			"is_target": true,
+			"surface": "현장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "PERSON",
+			"st": 381,
+			"eType": "NEW",
+			"en": 383,
+			"entityName": "",
+			"is_target": true,
+			"surface": "형사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 390,
+			"eType": "NEW",
+			"en": 391,
+			"entityName": "",
+			"is_target": true,
+			"surface": "일",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 438,
+			"eType": "ELU",
+			"entityName": "파출소",
+			"en": 441,
+			"is_target": true,
+			"surface": "파출소",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "PERSON",
+			"st": 477,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 483,
+			"is_target": true,
+			"surface": "무로이_신지",
+			"coref_index": 722,
+			"ancestor": "1-13"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "LOCATION",
+			"st": 493,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 496,
+			"is_target": true,
+			"surface": "완간서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 518,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 519,
+			"is_target": true,
+			"surface": "과",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "PERSON",
+			"st": 521,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 523,
+			"is_target": true,
+			"surface": "과장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "PERSON",
+			"st": 526,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 529,
+			"is_target": true,
+			"surface": "문제아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "PERSON",
+			"st": 531,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 535,
+			"is_target": true,
+			"surface": "아오시마",
+			"coref_index": 723,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 571,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 574,
+			"is_target": true,
+			"surface": "형사과",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 462,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 474,
+			"is_target": true,
+			"surface": "연말_특별_경계_스페셜",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 602,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 607,
+			"is_target": true,
+			"surface": "미국_LA",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 639,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 652,
+			"is_target": true,
+			"surface": "가을의_범죄_박멸_스페셜",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "PERSON",
+			"st": 713,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 715,
+			"is_target": true,
+			"surface": "범인",
+			"coref_index": 724,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 696,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 709,
+			"is_target": true,
+			"surface": "극장판_THE_MOVIE",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "PERSON",
+			"st": 717,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 720,
+			"is_target": true,
+			"surface": "어머니",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "PERSON",
+			"st": 722,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 724,
+			"is_target": true,
+			"surface": "아들",
+			"coref_index": 724,
+			"ancestor": "1-41"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "PERSON",
+			"st": 734,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 738,
+			"is_target": true,
+			"surface": "아오시마",
+			"coref_index": 723,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "ETC",
+			"st": 740,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 741,
+			"is_target": true,
+			"surface": "칼",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "LOCATION",
+			"st": 766,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 769,
+			"is_target": true,
+			"surface": "회의실",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ETC",
+			"st": 801,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 804,
+			"is_target": true,
+			"surface": "명대사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 49,
+			"ne_type": "LOCATION",
+			"st": 825,
+			"eType": "WIKILINK",
+			"entityName": "캐나다",
+			"en": 828,
+			"is_target": true,
+			"surface": "캐나다",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 50,
+			"ne_type": "LOCATION",
+			"st": 830,
+			"eType": "WIKILINK",
+			"entityName": "에드먼턴",
+			"en": 834,
+			"is_target": true,
+			"surface": "에드먼턴",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 51,
+			"ne_type": "EVENT",
+			"st": 836,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 838,
+			"is_target": true,
+			"surface": "여행",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "2339149,2339150,2339151,2339152,2339153,2339154,2339155,2339156,2339157,2339158,2339159,2339160,2339161,2339162,2339163",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 65,
+			"surface": "그 극장판의",
+			"st": 59,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 72,
+			"surface": "그 극장판의 주인공으로,",
+			"st": 59,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"ancestor": "1-0",
+			"st": 239,
+			"en": 241,
+			"surface": "자신",
+			"coref_index": 723
+		},
+		{
+			"id": 3,
+			"en": 246,
+			"ancestor": "-1",
+			"st": 239,
+			"surface": "자신의 신념에"
+		},
+		{
+			"id": 4,
+			"en": 259,
+			"ancestor": "-1",
+			"st": 239,
+			"surface": "자신의 신념에 따라 행동하는 요즘에는"
+		},
+		{
+			"id": 5,
+			"en": 519,
+			"surface": "각 과",
+			"st": 516,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 524,
+			"surface": "각 과의 과장들",
+			"st": 516,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "아오시마_슌사쿠()는 1997년_1월_~_3월에 후지_TV 계열에서 방송된 드라마 《춤추는_대수사선》 및 그 극장판의 주인공으로, 배우 오다_유지가 연기하는 가공의 인물이다. 프로필 이하는 춤추는 대수사선 THE MOVIE3 녀석들을 해방하라! PERFECT BOOK에 따른 것이다. 인물 예전에는 컴퓨터_시스템_개발_회사의 넘버원_세일즈맨이었지만, 경찰_드라마의 형사를 동경하여 경찰관이 되었다. 항상 시민을 먼저 생각하고, 자신의 신념에 따라 행동하는 요즘에는 보기 힘든 사람. 조직_내부의 모순과 관료주의에 맞서 위의 명령을 무시하고 단독_행동을 종종 하기 때문에 문제아로 취급받고 있다. 기본적으로 승진시험이나 출세에 관심이 없다. 무로이_신지가 높은 자리에 올라가 현장의 형사들이 올바른 일을 할 수 있도록 해주기를 바라고 있다. TV 시리즈 최종회에서는 징계처분으로 다시 파출소로 가게 되지만 열심히 일하고 있다. 연말_특별_경계_스페셜에서 무로이_신지의 도움으로 겨우 완간서에 돌아오게 되지만, 돌아오자 마자 각 과의 과장들이 문제아인 아오시마를 받아 들이고 싶지 않아서 이리 저리 돌고 돌다가 결국 끝에는 형사과로 돌아오게 된다. 초여름 교통 안전 스페셜에서는 미국_LA에 출장 가 있는 상태로, 작품 끝부분에 잠깐 등장한다. 가을의_범죄_박멸_스페셜에서는 영업사원 시절의 경험을 살려 잠입 수사를 통해 범인을 잡아내기도 한다. 극장판_THE_MOVIE에서는 범인의 어머니가 아들을 보호하기 위해 아오시마를 칼로 찌르지만 다행히 중상에 그쳤고, \"사건은 회의실에서 일어나는 게 아니야! 현장에서 일어나는 거야!\"라는 명대사를 남겼다. 춤추는 대서울선 시점에는 캐나다의 에드먼턴에 여행을 가있는 상태로 등장하지 않는다. ",
+	"docID": "573412"
+}

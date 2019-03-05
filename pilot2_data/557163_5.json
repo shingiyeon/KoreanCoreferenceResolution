@@ -1,0 +1,284 @@
+{
+	"docID": "557163",
+	"globalSID": "2300732,2300733,2300734,2300735,2300736,2300737",
+	"pronouns": [
+		{
+			"en": 101,
+			"ancestor": "-1",
+			"surface": "그 외",
+			"id": 0,
+			"st": 98
+		},
+		{
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "그 외의 대부분 장면",
+			"id": 1,
+			"st": 98
+		},
+		{
+			"st": 302,
+			"coref_index": 720,
+			"id": 2,
+			"en": 303,
+			"ancestor": "5-10",
+			"surface": "그"
+		},
+		{
+			"st": 305,
+			"coref_index": 721,
+			"id": 3,
+			"en": 309,
+			"ancestor": "1-2",
+			"surface": "이 영화"
+		},
+		{
+			"en": 327,
+			"ancestor": "-1",
+			"surface": "이 영화에 카메오로 잠깐 등장하는 장면도",
+			"id": 4,
+			"st": 305
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Place"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 41,
+			"ancestor": "1-0",
+			"coref_index": 717,
+			"surface": "한반도",
+			"entityName": "한반도"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 63,
+			"ancestor": "3-8",
+			"coref_index": 716,
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"Place",
+				"PopulatedPlace",
+				"Settlement"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 94,
+			"ancestor": "-1",
+			"surface": "하와이",
+			"entityName": "하와이"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 111,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 113,
+			"ancestor": "3-16",
+			"coref_index": 718,
+			"surface": "영국",
+			"entityName": "영국"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 123,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 125,
+			"ancestor": "2-10",
+			"coref_index": 709,
+			"surface": "쿠바",
+			"entityName": "쿠바"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 139,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 142,
+			"ancestor": "-1",
+			"surface": "스페인",
+			"entityName": "스페인"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 146,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 151,
+			"ancestor": "3-3",
+			"coref_index": 711,
+			"surface": "아이슬란드",
+			"entityName": "아이슬란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 165,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 170,
+			"ancestor": "3-3",
+			"coref_index": 711,
+			"surface": "아이슬란드",
+			"entityName": "아이슬란드"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 173,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 177,
+			"ancestor": "-1",
+			"surface": "노르웨이",
+			"entityName": "노르웨이"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"Archipelago",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place",
+				"NaturalPlace"
+			],
+			"st": 178,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 185,
+			"ancestor": "-1",
+			"surface": "스발바르_제도",
+			"entityName": "스발바르_제도"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 284,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 287,
+			"ancestor": "-1",
+			"coref_index": 720,
+			"surface": "마돈나",
+			"entityName": "마돈나"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 311,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 314,
+			"ancestor": "-1",
+			"surface": "카메오",
+			"entityName": "카메오_출연"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 5,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 22,
+			"ancestor": "",
+			"surface": "2001년_말부터_2002년_초",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 195,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "ETC",
+			"en": 201,
+			"ancestor": "-1",
+			"surface": "007_영화",
+			"entityName": ""
+		}
+	],
+	"plainText": "제작과정 2001년_말부터_2002년_초 사이에 촬영이 이루어졌다. 한반도를 배경으로 하는 부분이 많으나 대한민국에서 촬영된 것은 없으며 초반부의 파도타기 장면은 하와이에서, 그 외의 대부분 장면은 영국에서 촬영되었다. 쿠바를 배경으로 하는 장면은 스페인에서, 아이슬란드를 배경으로 하는 장면은 아이슬란드 및 노르웨이 스발바르_제도에서 촬영되었다. 007_영화 40주년을 맞이하여 이전보다 다양한 특수 효과가 도입, 당시까지의 007 시리즈 중 최고인 1억 5천만 달러 이상의 제작비가 투입되었다. 주제곡은 마돈나가 작사하고 직접 불렀으며 그가 이 영화에 카메오로 잠깐 등장하는 장면도 나온다."
+}

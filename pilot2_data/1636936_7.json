@@ -1,0 +1,52 @@
+{
+	"docID": "1636936",
+	"globalSID": "3860413,3860414",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 43,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 50,
+			"ancestor": "1-1",
+			"is_target": true,
+			"surface": "케야키자카46",
+			"coref_index": 258
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 12,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 23,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2016년_4월_6일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 67,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "타워레코드_시부야_점"
+		}
+	],
+	"plainText": "프로모션 프로모션으로 2016년_4월_6일에 발매 기념 이벤트가 개최됐으며, 케야키자카46의 멤버가 타워레코드_시부야_점, HMV&BOOKS, SHIBUYA TSUTAYA의 세 점포에서 1일 점원을 맡았다."
+}

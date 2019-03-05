@@ -1,0 +1,885 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 18,
+			"is_target": true,
+			"surface": "마르코_혼파이_파비안_데_라_모라",
+			"coref_index": 35,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 1,
+			"ne_type": "TIME",
+			"st": 53,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 65,
+			"is_target": false,
+			"surface": "1989년_7월_21일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "LOCATION",
+			"st": 67,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 77,
+			"is_target": true,
+			"surface": "할리스코_주_사포판",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "PERSON",
+			"st": 83,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 93,
+			"is_target": true,
+			"surface": "멕시코의_축구_선수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"st": 99,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 123,
+			"is_target": true,
+			"surface": "푸스발-분데스리가의_아인트라흐트_프랑크푸르트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "ETC",
+			"st": 177,
+			"eType": "WIKILINK",
+			"en": 180,
+			"entityName": "치파스_FC",
+			"is_target": true,
+			"surface": "치파스",
+			"coref_index": 37,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"st": 214,
+			"eType": "WIKILINK",
+			"en": 224,
+			"entityName": "모나르카스_모렐리아",
+			"is_target": true,
+			"surface": "모나르카스_모렐리아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 281,
+			"eType": "WIKILINK",
+			"en": 291,
+			"entityName": "코파_리베르타도레스",
+			"is_target": true,
+			"surface": "코파_리베르타도레스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 130,
+			"eType": "NEW",
+			"en": 133,
+			"entityName": "",
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "EVENT",
+			"st": 183,
+			"eType": "NEW",
+			"en": 199,
+			"entityName": "",
+			"is_target": true,
+			"surface": "아페르투라_2007_시즌_경기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 339,
+			"eType": "ELU",
+			"entityName": "국가대표팀",
+			"en": 343,
+			"is_target": true,
+			"surface": "국가대표",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 365,
+			"eType": "WIKILINK",
+			"entityName": "2011년_코파_아메리카",
+			"en": 378,
+			"is_target": true,
+			"surface": "2011년_코파_아메리카",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 12,
+			"ne_type": "LOCATION",
+			"st": 397,
+			"eType": "ELU",
+			"entityName": "에콰도르",
+			"en": 401,
+			"is_target": true,
+			"surface": "에콰도르",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"id": 13,
+			"ne_type": "LOCATION",
+			"st": 402,
+			"eType": "WIKILINK",
+			"entityName": "키토",
+			"en": 404,
+			"is_target": true,
+			"surface": "키토",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"FootballMatch",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 491,
+			"eType": "WIKILINK",
+			"entityName": "2012년_하계_올림픽_축구_남자",
+			"en": 503,
+			"is_target": true,
+			"surface": "2012년_하계_올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 508,
+			"eType": "WIKILINK",
+			"entityName": "투르누아_에스푸아_드_툴롱_2012",
+			"en": 527,
+			"is_target": true,
+			"surface": "투르누아_에스푸아_드_툴롱_2012",
+			"coref_index": 40,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 567,
+			"eType": "ELU",
+			"entityName": "금메달",
+			"en": 570,
+			"is_target": true,
+			"surface": "금메달",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "TIME",
+			"st": 576,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 581,
+			"is_target": false,
+			"surface": "2012년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "LOCATION",
+			"st": 582,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 584,
+			"is_target": true,
+			"surface": "런던",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 318,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 321,
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "LOCATION",
+			"st": 331,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 334,
+			"is_target": true,
+			"surface": "멕시코",
+			"coref_index": 36,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 335,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 338,
+			"is_target": true,
+			"surface": "청소년",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "EVENT",
+			"st": 345,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 350,
+			"is_target": true,
+			"surface": "국제_경기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 384,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 387,
+			"is_target": true,
+			"surface": "스쿼드",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "PERSON",
+			"st": 486,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 489,
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35,
+			"ancestor": "1-19"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "LOCATION",
+			"st": 409,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 411,
+			"is_target": true,
+			"surface": "호텔",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "LOCATION",
+			"st": 593,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 596,
+			"is_target": true,
+			"surface": "멕시코",
+			"coref_index": 36,
+			"ancestor": "1-20"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "EVENT",
+			"st": 585,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 591,
+			"is_target": true,
+			"surface": "하계_올림픽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 28,
+			"ne_type": "LOCATION",
+			"st": 648,
+			"eType": "ELU",
+			"en": 653,
+			"entityName": "과달라하라_(멕시코)",
+			"is_target": true,
+			"surface": "과달라하라",
+			"coref_index": 38,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 622,
+			"eType": "NEW",
+			"en": 625,
+			"entityName": "",
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ORGANIZATION",
+			"st": 668,
+			"eType": "NEW",
+			"en": 671,
+			"entityName": "",
+			"is_target": true,
+			"surface": "치바스",
+			"coref_index": 37,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 700,
+			"eType": "NEW",
+			"en": 704,
+			"entityName": "",
+			"is_target": true,
+			"surface": "타파티오",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"id": 32,
+			"ne_type": "LOCATION",
+			"st": 870,
+			"eType": "ELU",
+			"entityName": "과달라하라_(멕시코)",
+			"en": 875,
+			"is_target": true,
+			"surface": "과달라하라",
+			"coref_index": 38,
+			"ancestor": "1-28"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 917,
+			"eType": "WIKILINK",
+			"entityName": "FC_바르셀로나",
+			"en": 922,
+			"is_target": true,
+			"surface": "바르셀로나",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 925,
+			"eType": "WIKILINK",
+			"entityName": "월드_풋볼_챌린지_2011",
+			"en": 939,
+			"is_target": true,
+			"surface": "월드_풋볼_챌린지_2011",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "TIME",
+			"st": 719,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 732,
+			"is_target": false,
+			"surface": "2007년_11월_10일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "PERSON",
+			"st": 734,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 737,
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35,
+			"ancestor": "1-29"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "PERSON",
+			"st": 739,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 748,
+			"is_target": true,
+			"surface": "에프라인_플로레스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ORGANIZATION",
+			"st": 763,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 774,
+			"is_target": true,
+			"surface": "하과레스_데_치아파스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "EVENT",
+			"st": 777,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 785,
+			"is_target": true,
+			"surface": "아페르투라_대회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "TIME",
+			"st": 848,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 855,
+			"is_target": true,
+			"surface": "2010-11",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 827,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 831,
+			"is_target": true,
+			"surface": "모렐리아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "PERSON",
+			"st": 899,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 902,
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35,
+			"ancestor": "1-36"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "TIME",
+			"st": 904,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 915,
+			"is_target": false,
+			"surface": "2011년_8월_3일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"id": 44,
+			"ne_type": "ORGANIZATION",
+			"st": 1016,
+			"eType": "WIKILINK",
+			"entityName": "크루스_아술",
+			"en": 1022,
+			"is_target": true,
+			"surface": "크루스_아술",
+			"coref_index": 39,
+			"ancestor": "1-45"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ORGANIZATION",
+			"st": 977,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 983,
+			"is_target": true,
+			"surface": "크루스_아술",
+			"coref_index": 39,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "TIME",
+			"st": 987,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1000,
+			"is_target": false,
+			"surface": "2013년_12월_12일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "PERSON",
+			"st": 1002,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1005,
+			"is_target": true,
+			"surface": "파비안",
+			"coref_index": 35,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "ORGANIZATION",
+			"st": 1007,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1015,
+			"is_target": true,
+			"surface": "리가_MX_클럽",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 49,
+			"ne_type": "TIME",
+			"st": 1024,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 1026,
+			"is_target": false,
+			"surface": "1년",
+			"ancestor": ""
+		}
+	],
+	"globalSID": "3353314,3353315,3353316,3353317,3353318,3353319,3353320,3353321,3353322,3353323,3353324,3353325,3353326,3353327,3353328,3353329,3353330,3353331",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"en": 330,
+			"surface": "여러 연령대의",
+			"st": 323,
+			"ancestor": "-1"
+		},
+		{
+			"id": 1,
+			"en": 344,
+			"surface": "여러 연령대의 멕시코 청소년 국가대표로",
+			"st": 323,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"ancestor": "1-19",
+			"st": 359,
+			"en": 360,
+			"surface": "그",
+			"coref_index": 35
+		},
+		{
+			"id": 3,
+			"en": 436,
+			"surface": "다른 선수들과",
+			"st": 429,
+			"ancestor": "-1"
+		},
+		{
+			"id": 4,
+			"ancestor": "1-19",
+			"st": 468,
+			"en": 469,
+			"surface": "그",
+			"coref_index": 35
+		},
+		{
+			"id": 5,
+			"en": 538,
+			"surface": "공을",
+			"st": 536,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"ancestor": "1-19",
+			"st": 544,
+			"en": 545,
+			"surface": "그",
+			"coref_index": 35
+		},
+		{
+			"id": 7,
+			"ancestor": "1-15",
+			"st": 547,
+			"en": 551,
+			"surface": "이 대회",
+			"coref_index": 40
+		},
+		{
+			"id": 8,
+			"ancestor": "1-19",
+			"st": 547,
+			"en": 555,
+			"surface": "이 대회 득점왕",
+			"coref_index": 35
+		},
+		{
+			"id": 9,
+			"ancestor": "1-29",
+			"st": 665,
+			"en": 666,
+			"surface": "그",
+			"coref_index": 35
+		},
+		{
+			"id": 10,
+			"en": 691,
+			"ancestor": "-1",
+			"st": 689,
+			"surface": "그들"
+		},
+		{
+			"id": 11,
+			"en": 698,
+			"ancestor": "-1",
+			"st": 689,
+			"surface": "그들의 소속 클럽"
+		},
+		{
+			"id": 12,
+			"en": 704,
+			"ancestor": "-1",
+			"st": 689,
+			"surface": "그들의 소속 클럽인 타파티오"
+		},
+		{
+			"id": 13,
+			"ancestor": "1-36",
+			"st": 815,
+			"en": 816,
+			"surface": "그",
+			"coref_index": 35
+		},
+		{
+			"id": 14,
+			"ancestor": "1-36",
+			"st": 862,
+			"en": 863,
+			"surface": "그",
+			"coref_index": 35
+		},
+		{
+			"id": 15,
+			"en": 961,
+			"ancestor": "-1",
+			"st": 957,
+			"surface": "이 경기"
+		}
+	],
+	"plainText": "마르코_혼파이_파비안_데_라_모라 (Marco Jhonfai Fabi?n de la Mora, 1989년_7월_21일, 할리스코_주_사포판 ~) 는 멕시코의_축구_선수로, 현재 푸스발-분데스리가의_아인트라흐트_프랑크푸르트 소속이다. 파비안은 과달라하라 출신의 선수로 지역, 클럽 치바스의 유소년팀을 거쳤다. 파비안은 치파스와의 아페르투라_2007_시즌_경기에서 1군 데뷔를 하였고, 모나르카스_모렐리아와의 클라우수라 2008 대회 경기에서 첫 골을 득점하였다. 파비안은 2010년에 과달라하라 소속으로 코파_리베르타도레스에 참가하였고, 팀은 대회 결승전에 진출하였다. 파비안은 여러 연령대의 멕시코 청소년 국가대표로 국제_경기에 출전하였다. 그는 본래 2011년_코파_아메리카에 참가할 스쿼드에 포함되었으나, 에콰도르 키토의 훈련 호텔에서 규율을 깬 죄목으로 6명의 다른 선수들과 퇴출당해 함께 6달동안 출장하지 못하였다. 2012년, 그는 U-23 국가대표 소속으로 파비안은 2012년_하계_올림픽 진출과 투르누아_에스푸아_드_툴롱_2012 우승을 하는데 공을 세웠고, 그는 이 대회 득점왕에 올랐다. 파비안은 금메달을 획득한 2012년 런던 하계_올림픽의 멕시코 국가대표팀 주역이었다. 클럽 경력 과달라하라 파비안은 어린 나이에 미래의 재능으로 인정받아 과달라하라에 입단하게 되었다. 그는 치바스의 유소년팀에 10년을 지냈고, 그들의 소속 클럽인 타파티오에서 수 차례 출전하였다. 2007년_11월_10일, 파비안은 에프라인_플로레스 감독으로부터 기회를 받아 하과레스_데_치아파스와의 아페르투라_대회 경기에서 33번 등번호를 달고 1군 데뷔를 하였다. 그는 6-0으로 이긴 모렐리아 전에서 첫 골을 득점하였다. 2010-11 시즌 후, 그는 122번 과달라하라의 경기에서 23골 19어시스트를 올렸다. 파비안은 2011년_8월_3일, 바르셀로나와의 월드_풋볼_챌린지_2011 친선 대회에서 2골을 넣었고, 이 경기에서 팀은 4-1로 이겼다. 크루스_아술 임대 2013년_12월_12일, 파비안은 리가_MX_클럽 크루스_아술과 1년 계약을 하였다. ",
+	"docID": "1114862"
+}

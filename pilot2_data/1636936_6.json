@@ -1,0 +1,87 @@
+{
+	"docID": "1636936",
+	"globalSID": "3860412",
+	"pronouns": [
+		{
+			"st": 23,
+			"coref_index": 258,
+			"id": 0,
+			"en": 25,
+			"ancestor": "6-1",
+			"surface": "그곳"
+		},
+		{
+			"en": 43,
+			"ancestor": "-1",
+			"surface": "그곳에 있는 명확한 의지의 세기이며,",
+			"id": 1,
+			"st": 23
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 67,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 70,
+			"ancestor": "-1",
+			"surface": "프랑스",
+			"entityName": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "1-1",
+			"coref_index": 258,
+			"surface": "케야키자카46",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 15,
+			"ancestor": "3-1",
+			"coref_index": 262,
+			"surface": "노기자카46",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 116,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 118,
+			"ancestor": "-1",
+			"surface": "영국",
+			"entityName": ""
+		}
+	],
+	"plainText": "케야키자카46가 노기자카46과 다른 점은 그곳에 있는 명확한 의지의 세기이며, 노기자카46가 사랑스러운 고급감을 구해서 프랑스의 여학교와 같은 세계를 지항한 것에 대해서, 케야키자카46은 스타일리쉬함 멋짐을 영국의 모즈와 같은 세계를 지향했다."
+}

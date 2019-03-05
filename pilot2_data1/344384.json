@@ -1,0 +1,782 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "제리케이",
+			"en": 4,
+			"is_target": true,
+			"surface": "제리케이",
+			"coref_index": 487,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 35,
+			"eType": "WIKILINK",
+			"entityName": "소울_컴퍼니",
+			"en": 41,
+			"is_target": true,
+			"surface": "소울_컴퍼니",
+			"coref_index": 486,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 95,
+			"eType": "ELU",
+			"entityName": "직장인",
+			"en": 98,
+			"is_target": true,
+			"surface": "회사원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "ETC",
+			"st": 120,
+			"eType": "ELU",
+			"entityName": "사직서",
+			"en": 123,
+			"is_target": true,
+			"surface": "사직서",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 7,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 19,
+			"is_target": false,
+			"surface": "1984년_1월_26일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "TIME",
+			"st": 25,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 30,
+			"is_target": false,
+			"surface": "2011년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 69,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 74,
+			"is_target": false,
+			"surface": "2009년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 111,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 116,
+			"is_target": false,
+			"surface": "2011년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"MusicalWork",
+				"Artist",
+				"Work",
+				"Album",
+				"Person",
+				"MusicalArtist",
+				"Agent"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 221,
+			"eType": "WIKILINK",
+			"entityName": "신해철",
+			"en": 224,
+			"is_target": true,
+			"surface": "신해철",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Group",
+				"Organisation",
+				"Band"
+			],
+			"id": 9,
+			"ne_type": "ORGANIZATION",
+			"st": 263,
+			"eType": "WIKILINK",
+			"entityName": "로퀜스",
+			"en": 266,
+			"is_target": true,
+			"surface": "로퀜스",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "TIME",
+			"st": 149,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 154,
+			"is_target": false,
+			"surface": "2004년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "TIME",
+			"st": 176,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 181,
+			"is_target": false,
+			"surface": "2008년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "TIME",
+			"st": 337,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 345,
+			"is_target": false,
+			"surface": "2011년_가을",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 13,
+			"ne_type": "ETC",
+			"st": 537,
+			"eType": "ELU",
+			"en": 540,
+			"entityName": "아트워크",
+			"is_target": true,
+			"surface": "아트웍",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 14,
+			"ne_type": "ETC",
+			"st": 588,
+			"eType": "WIKILINK",
+			"en": 594,
+			"entityName": "나는_꼼수다",
+			"is_target": true,
+			"surface": "나는_꼼수다",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 15,
+			"ne_type": "ETC",
+			"st": 598,
+			"eType": "WIKILINK",
+			"en": 605,
+			"entityName": "나는_꼽사리다",
+			"is_target": true,
+			"surface": "나는_꼽사리다",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"MusicGenre",
+				"TopicalConcept",
+				"Genre"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 613,
+			"eType": "ELU",
+			"en": 616,
+			"entityName": "주제가",
+			"is_target": true,
+			"surface": "로고송",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ORGANIZATION",
+			"st": 425,
+			"eType": "NEW",
+			"en": 430,
+			"entityName": "",
+			"is_target": true,
+			"surface": "소울컴퍼니",
+			"coref_index": 486,
+			"ancestor": "1-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ORGANIZATION",
+			"st": 446,
+			"eType": "NEW",
+			"en": 454,
+			"entityName": "",
+			"is_target": true,
+			"surface": "데이즈_얼라이브",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 19,
+			"ne_type": "TIME",
+			"st": 476,
+			"eType": "NEW",
+			"en": 484,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2012년_2월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 20,
+			"ne_type": "ETC",
+			"st": 542,
+			"eType": "NEW",
+			"en": 547,
+			"entityName": "",
+			"is_target": true,
+			"surface": "뮤직비디오",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 579,
+			"eType": "NEW",
+			"en": 586,
+			"entityName": "",
+			"is_target": true,
+			"surface": "팟캐스트_방송",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 632,
+			"eType": "ELU",
+			"en": 636,
+			"entityName": "제리케이",
+			"is_target": true,
+			"surface": "제리케이",
+			"coref_index": 487,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 23,
+			"ne_type": "ETC",
+			"st": 842,
+			"eType": "ELU",
+			"en": 847,
+			"entityName": "후보",
+			"is_target": true,
+			"surface": "노미네이트",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "TIME",
+			"st": 638,
+			"eType": "NEW",
+			"en": 647,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2012년_11월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 698,
+			"eType": "NEW",
+			"en": 707,
+			"entityName": "",
+			"is_target": true,
+			"surface": "TRUE_SELF",
+			"coref_index": 488,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 794,
+			"eType": "NEW",
+			"en": 800,
+			"entityName": "",
+			"is_target": true,
+			"surface": "완결된_앨범",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "EVENT",
+			"st": 813,
+			"eType": "NEW",
+			"en": 840,
+			"entityName": "",
+			"is_target": true,
+			"surface": "제10회_한국대중음악상_최우수_랩/힙합_음반_부문",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 887,
+			"eType": "ELU",
+			"en": 890,
+			"entityName": "속편",
+			"is_target": true,
+			"surface": "후속작",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "TIME",
+			"st": 853,
+			"eType": "NEW",
+			"en": 861,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2013년_5월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 864,
+			"eType": "NEW",
+			"en": 869,
+			"entityName": "",
+			"is_target": true,
+			"surface": "사랑이야기",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 875,
+			"eType": "NEW",
+			"en": 885,
+			"entityName": "",
+			"is_target": true,
+			"surface": "컨셉앨범_“연애담”",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 892,
+			"eType": "NEW",
+			"en": 898,
+			"entityName": "",
+			"is_target": true,
+			"surface": "“연애담2”",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ORGANIZATION",
+			"st": 908,
+			"eType": "NEW",
+			"en": 930,
+			"entityName": "",
+			"is_target": true,
+			"surface": "소울밴드_‘에보니힐(Ebonyhill)’",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "EVENT",
+			"st": 932,
+			"eType": "NEW",
+			"en": 934,
+			"entityName": "",
+			"is_target": true,
+			"surface": "협연",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "EVENT",
+			"st": 943,
+			"eType": "NEW",
+			"en": 945,
+			"entityName": "",
+			"is_target": true,
+			"surface": "공연",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 36,
+			"ne_type": "PERSON",
+			"st": 958,
+			"eType": "ELU",
+			"en": 962,
+			"entityName": "제리케이",
+			"is_target": true,
+			"surface": "제리케이",
+			"coref_index": 487,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"RecordLabel",
+				"Organisation"
+			],
+			"id": 37,
+			"ne_type": "ORGANIZATION",
+			"st": 992,
+			"eType": "WIKILINK",
+			"en": 1002,
+			"entityName": "데이즈_얼라이브_뮤직",
+			"is_target": true,
+			"surface": "daze_alive",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 38,
+			"ne_type": "PERSON",
+			"st": 1011,
+			"eType": "WIKILINK",
+			"en": 1019,
+			"entityName": "리코_(가수)",
+			"is_target": true,
+			"surface": "리코(Rico)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"id": 39,
+			"ne_type": "PERSON",
+			"st": 1027,
+			"eType": "WIKILINK",
+			"en": 1036,
+			"entityName": "슬릭",
+			"is_target": true,
+			"surface": "슬릭(Sleeq)",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 1071,
+			"eType": "WIKILINK",
+			"en": 1090,
+			"entityName": "대한민국_국가정보원_여론_조작_사건",
+			"is_target": true,
+			"surface": "대한민국_국가정보원_여론_조작_사건",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation",
+				"Work",
+				"Website"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 1116,
+			"eType": "ELU",
+			"en": 1119,
+			"entityName": "유튜브",
+			"is_target": true,
+			"surface": "유튜브",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "TIME",
+			"st": 964,
+			"eType": "NEW",
+			"en": 972,
+			"entityName": "",
+			"is_target": false,
+			"surface": "2013년_7월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "ETC",
+			"st": 977,
+			"eType": "NEW",
+			"en": 983,
+			"entityName": "",
+			"is_target": true,
+			"surface": "레이블_체제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "TIME",
+			"st": 1066,
+			"eType": "NEW",
+			"en": 1068,
+			"entityName": "",
+			"is_target": false,
+			"surface": "8월",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "ETC",
+			"st": 1109,
+			"eType": "NEW",
+			"en": 1113,
+			"entityName": "",
+			"is_target": true,
+			"surface": "시국선언",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1788373,1788374,1788375,1788376,1788377,1788378,1788379,1788380,1788381,1788382,1788383",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-0",
+			"st": 66,
+			"en": 67,
+			"surface": "그",
+			"coref_index": 487
+		},
+		{
+			"id": 1,
+			"en": 80,
+			"surface": "한 금융권",
+			"st": 75,
+			"ancestor": "-1"
+		},
+		{
+			"id": 2,
+			"en": 85,
+			"surface": "한 금융권 대기업에",
+			"st": 75,
+			"ancestor": "-1"
+		},
+		{
+			"id": 3,
+			"en": 89,
+			"surface": "한 금융권 대기업에 입사,",
+			"st": 75,
+			"ancestor": "-1"
+		},
+		{
+			"id": 4,
+			"ancestor": "1-0",
+			"st": 398,
+			"en": 400,
+			"surface": "자신",
+			"coref_index": 487
+		},
+		{
+			"id": 5,
+			"en": 414,
+			"surface": "자신의 새로운 음악적 방향성을",
+			"st": 398,
+			"ancestor": "-1"
+		},
+		{
+			"id": 6,
+			"en": 607,
+			"ancestor": "-1",
+			"st": 598,
+			"surface": "나는_꼽사리다’의"
+		},
+		{
+			"id": 7,
+			"en": 616,
+			"ancestor": "-1",
+			"st": 598,
+			"surface": "나는_꼽사리다’의 힙합버전 로고송"
+		},
+		{
+			"id": 8,
+			"en": 620,
+			"ancestor": "-1",
+			"st": 598,
+			"surface": "나는_꼽사리다’의 힙합버전 로고송을 제작"
+		},
+		{
+			"id": 9,
+			"ancestor": "1-25",
+			"st": 717,
+			"en": 721,
+			"surface": "이 앨범",
+			"coref_index": 488
+		},
+		{
+			"id": 10,
+			"en": 762,
+			"ancestor": "-1",
+			"st": 759,
+			"surface": "각각의"
+		},
+		{
+			"id": 11,
+			"en": 764,
+			"ancestor": "-1",
+			"st": 755,
+			"surface": "그리고 각각의 곡"
+		}
+	],
+	"plainText": "제리케이(, 1984년_1월_26일 ~ )는 2011년 해체한 소울_컴퍼니의 원년 멤버이자 최후의 멤버 중 하나이다. 그는 2009년 한 금융권 대기업에 입사, 2년여간 회사원으로서의 길을 걷다가, 2011년 봄 ‘사직서’라는 곡을 공개하며 힙합 음악계로 돌아왔다. 2004년 온라인 EP “일갈”을 공개하였으며, 2008년 인간의 본성과 사회문제를 주로 다룬 첫 정규앨범 “마왕”을 통해 가수 신해철과 같은 별칭인 ‘독설가’, ‘마왕’이라는 별명을 얻었다. 랩 듀오인 로퀜스로 “Crucial Moment”, “The Black Band” 등의 앨범을 내며 어둡고 남성적인 색깔을 보이기도 한 그는, 2011년_가을에 무료로 공개하여 20,000 다운로드를 돌파한 “우성인자 Mixtape Vol.1”을 통해 자신의 새로운 음악적 방향성을 제시한 바 있다. 소울컴퍼니 해체 후, 홀로 독립레이블 데이즈_얼라이브(daze alive)를 설립하였으며, 2012년_2월 사랑이야기만을 담아 발표한 컨셉앨범 “연애담”을 통해 음악적 경계를 넓히고, 1인 레이블로서 아트웍, 뮤직비디오, 음반제작, 홍보 등의 작업을 직접 진행하였다. 화제의 팟캐스트_방송 ‘나는_꼼수다’와 ‘나는_꼽사리다’의 힙합버전 로고송을 제작, 발표하기도 했다. 제리케이는 2012년_11월, 바깥 세상과 관계에 중점을 뒀던 전작들과 달리, 자아와 내면의 세계를 주로 다룬 2집 “TRUE_SELF”를 발표하였다. 이 앨범은 “시작부터 끝까지 기승전결의 윤곽이 잡히는 배열과 흐름, 그리고 각각의 곡이 품고 있는 다양한 멋과 꼼꼼한 면모에서 드러나는 ‘완결된_앨범’”이라는 평과 더불어 제10회_한국대중음악상_최우수_랩/힙합_음반_부문에 노미네이트 되었다. 2013년_5월에는 사랑이야기만을 담은 컨셉앨범_“연애담”의 후속작인 “연애담2”를 발표하였으며, 소울밴드_‘에보니힐(Ebonyhill)’과 협연하여 세 차례의 공연을 개최하기도 하였다. 제리케이는 2013년_7월, 1인 레이블_체제를 고수해 오던 daze_alive에 알앤비 싱어 리코(Rico)와 여성MC인 슬릭(Sleeq)을 영입하며 본격적인 레이블로서의 활동을 시작하였다. 8월에는 대한민국_국가정보원_여론_조작_사건에 대한 비판의 내용을 담은 곡 '시국선언'을 유튜브에 공개하며 큰 화제를 불러모았다. ",
+	"docID": "344384"
+}

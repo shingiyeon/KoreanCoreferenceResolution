@@ -1,0 +1,164 @@
+{
+	"docID": "1504115",
+	"globalSID": "3788205,3788206",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "대한민국",
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 4,
+			"ancestor": "4-0",
+			"is_target": true,
+			"surface": "대한민국",
+			"coref_index": 225
+		},
+		{
+			"kbox_types": [
+				"Company",
+				"Agent",
+				"Organisation"
+			],
+			"st": 6,
+			"eType": "WIKILINK",
+			"entityName": "스페이스X",
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 11,
+			"ancestor": "1-4",
+			"is_target": true,
+			"surface": "스페이스X",
+			"coref_index": 223
+		},
+		{
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"st": 13,
+			"eType": "WIKILINK",
+			"entityName": "팰컨_1",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "팰컨_1"
+		},
+		{
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"st": 25,
+			"eType": "WIKILINK",
+			"entityName": "한국형발사체_시험발사체",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 37,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한국형발사체_시험발사체"
+		},
+		{
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"st": 65,
+			"eType": "WIKILINK",
+			"entityName": "팰컨_9",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 69,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "팰컨_9",
+			"coref_index": 226
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 78,
+			"eType": "WIKILINK",
+			"entityName": "KARI_75톤급_로켓엔진",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 84,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "75톤_엔진"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 92,
+			"eType": "WIKILINK",
+			"entityName": "한국형_정지궤도_발사체",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 104,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한국형_정지궤도_발사체",
+			"coref_index": 227
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 121,
+			"eType": "ELU",
+			"entityName": "발사체",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 124,
+			"ancestor": "5-6",
+			"is_target": true,
+			"surface": "발사체",
+			"coref_index": 227
+		},
+		{
+			"kbox_types": [
+				"MeanOfTransportation",
+				"Rocket"
+			],
+			"st": 141,
+			"eType": "WIKILINK",
+			"entityName": "한국형발사체",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 147,
+			"ancestor": "5-6",
+			"is_target": true,
+			"surface": "한국형발사체",
+			"coref_index": 227
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 181,
+			"eType": "WIKILINK",
+			"entityName": "한국형_대형_정지궤도_발사체",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 196,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한국형_대형_정지궤도_발사체"
+		}
+	],
+	"plainText": "대한민국은 스페이스X의 팰컨_1를 벤치마킹한 한국형발사체_시험발사체를 2017년 12월 발사할 계획이다. 2030년 팰컨_9를 벤치마킹하여 75톤_엔진 9개를 묶은 한국형_정지궤도_발사체를 만들어 중궤도 및 정지궤도 발사체를 제작하고, 2040년까지는 한국형발사체를 3개 묶어서, 팰컨 헤비와 같은 대형 정지궤도위성 발사용 한국형_대형_정지궤도_발사체를 발사할 계획이다."
+}

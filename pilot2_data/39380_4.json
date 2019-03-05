@@ -1,0 +1,150 @@
+{
+	"docID": "39380",
+	"globalSID": "370757,370758,370759,370760",
+	"pronouns": [
+		{
+			"st": 64,
+			"coref_index": 527,
+			"id": 0,
+			"en": 66,
+			"ancestor": "1-0",
+			"surface": "그의"
+		},
+		{
+			"en": 73,
+			"ancestor": "-1",
+			"surface": "그의 타격 자세는",
+			"id": 1,
+			"st": 64
+		},
+		{
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "이는",
+			"id": 2,
+			"st": 105
+		},
+		{
+			"st": 177,
+			"coref_index": 527,
+			"id": 3,
+			"en": 178,
+			"ancestor": "1-0",
+			"surface": "그"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "2007년",
+			"entityName": "2007년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 10,
+			"ancestor": "-1",
+			"surface": "1루수",
+			"entityName": "1루수"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 11,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 14,
+			"ancestor": "-1",
+			"surface": "최희섭",
+			"entityName": "최희섭"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "해외파_특별_지명",
+			"entityName": "해외진출선수_특별지명회의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 52,
+			"ancestor": "-1",
+			"coref_index": 525,
+			"surface": "외야수",
+			"entityName": "외야수"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 128,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 133,
+			"ancestor": "",
+			"surface": "2007년",
+			"entityName": "2007년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 180,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 187,
+			"ancestor": "-1",
+			"surface": "트레이드_마크",
+			"entityName": ""
+		}
+	],
+	"plainText": "2007년에 1루수 최희섭이 해외파_특별_지명으로 입단한 뒤로 수비 위치가 겹쳐, 가끔 외야수로도 출전하고 있다. 그의 타격 자세는 독특하다. 항상 오른쪽 다리를 높이 들어 올려 치는데, 이는 레이더 역할을 한다고 한다. 하지만 2007년에 10년 연속 타율 3할대를 실패하게 됨에 따라 왼쪽 허벅지 부근까지 올리던 그의 트레이드_마크와 같은 다리 올리기를 최소화한다고 밝혔다."
+}

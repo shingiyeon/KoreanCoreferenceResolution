@@ -1,0 +1,116 @@
+{
+	"docID": "119879",
+	"globalSID": "876705,876706",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 12,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 19,
+			"ancestor": "1-6",
+			"coref_index": 97,
+			"surface": "부산_아이파크",
+			"entityName": "부산_아이파크"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 91,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 98,
+			"ancestor": "1-6",
+			"coref_index": 97,
+			"surface": "부산_아이파크",
+			"entityName": "부산_아이파크"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"surface": "2005년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 50,
+			"ancestor": "",
+			"surface": "2005년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 39,
+			"ancestor": "1-10",
+			"coref_index": 96,
+			"surface": "뽀뽀",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 78,
+			"ancestor": "",
+			"surface": "2006년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 103,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 106,
+			"ancestor": "-1",
+			"surface": "공격수",
+			"entityName": ""
+		}
+	],
+	"plainText": "클럽 경력 2005년 부산_아이파크에 입단하면서, K리그에 데뷔한 뽀뽀는 데뷔한 2005년에는 이렇다 할 활약을 보이지 못했지만, 2006년에 이르러서 맹활약하며 부산_아이파크의 간판 공격수로 이름을 날렸다."
+}

@@ -1,0 +1,113 @@
+{
+	"docID": "610180",
+	"globalSID": "2412474,2412475,2412476,2412477",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 38,
+			"ancestor": "-1",
+			"surface": "대한민국",
+			"entityName": "대한민국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 40,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 44,
+			"ancestor": "-1",
+			"coref_index": 743,
+			"surface": "시민단체",
+			"entityName": "시민단체"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 139,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 142,
+			"ancestor": "-1",
+			"coref_index": 737,
+			"surface": "알권리",
+			"entityName": "알권리"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 242,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 245,
+			"ancestor": "-1",
+			"surface": "김영희",
+			"entityName": "김영희_(1960년)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 30,
+			"ancestor": "",
+			"surface": "2008년_10월_9일_",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 216,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 219,
+			"ancestor": "-1",
+			"surface": "이승휘",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 255,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "PERSON",
+			"en": 258,
+			"ancestor": "-1",
+			"surface": "서경기",
+			"entityName": ""
+		}
+	],
+	"plainText": "투명사회를 위한 정보공개센터는 2008년_10월_9일_설립된 대한민국의 시민단체이다. 영문명은 \"The Center for Freedom of Information and Transparent Society\" 이다. 기록정보의 대중화를 통해 국민의 알권리를 실현하고, 정보공개를 통한 행정감시와 권력감시 등의 활동으로 사회전반의 투명성과 책임성을 높여 나가는 것을 목적으로 하고 있다. 이승휘(명지대 기록관리학과 교수) 가 대표를, 김영희(MBC PD), 서경기(여울교회 목사)가 전임 대표단으로서 고문을 맡고 있다."
+}

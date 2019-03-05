@@ -1,0 +1,948 @@
+{
+	"pronoun_candidate": [],
+	"parID": "1",
+	"pronouns": [],
+	"entities": [
+		{
+			"en_modified": 3,
+			"entityName": "오현택",
+			"st_modified": 0,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "오현택",
+			"is_target": true,
+			"en": 3,
+			"id": 0
+		},
+		{
+			"en_modified": 33,
+			"entityName": "KBO_리그",
+			"st_modified": 27,
+			"kbox_types": [
+				"BaseballLeague",
+				"Agent",
+				"SportsLeague",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 27,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "KBO_리그",
+			"is_target": true,
+			"en": 33,
+			"id": 1
+		},
+		{
+			"en_modified": 40,
+			"st_modified": 34,
+			"coref_index": 457,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 34,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 40,
+			"id": 2
+		},
+		{
+			"en_modified": 44,
+			"st_modified": 42,
+			"coref_index": 463,
+			"entityName": "투수",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 42,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투수",
+			"is_target": true,
+			"en": 44,
+			"id": 3
+		},
+		{
+			"en_modified": 21,
+			"entityName": "",
+			"st_modified": 9,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 9,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1985년_7월_17일",
+			"is_target": false,
+			"en": 21,
+			"id": 4
+		},
+		{
+			"en_modified": 53,
+			"entityName": "원광대학교",
+			"st_modified": 48,
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"eType": "WIKILINK",
+			"st": 48,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "원광대학교",
+			"is_target": true,
+			"en": 53,
+			"id": 5
+		},
+		{
+			"en_modified": 65,
+			"entityName": "2008년",
+			"st_modified": 60,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 60,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년",
+			"is_target": false,
+			"en": 65,
+			"id": 6
+		},
+		{
+			"en_modified": 70,
+			"entityName": "신고선수",
+			"st_modified": 66,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 66,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신고선수",
+			"is_target": true,
+			"en": 70,
+			"id": 7
+		},
+		{
+			"en_modified": 78,
+			"st_modified": 72,
+			"coref_index": 457,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 72,
+			"ancestor": "1-2",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 78,
+			"id": 8
+		},
+		{
+			"en_modified": 111,
+			"entityName": "",
+			"st_modified": 100,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 100,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년_6월_2일",
+			"is_target": false,
+			"en": 111,
+			"id": 9
+		},
+		{
+			"en_modified": 120,
+			"entityName": "",
+			"st_modified": 118,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 118,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "1군",
+			"is_target": true,
+			"en": 120,
+			"id": 10
+		},
+		{
+			"en_modified": 90,
+			"entityName": "",
+			"st_modified": 88,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 88,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "2군",
+			"is_target": true,
+			"en": 90,
+			"id": 11
+		},
+		{
+			"en_modified": 139,
+			"entityName": "kt_위즈",
+			"st_modified": 134,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 134,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "kt_위즈",
+			"is_target": true,
+			"en": 139,
+			"id": 12
+		},
+		{
+			"en_modified": 143,
+			"entityName": "내야수",
+			"st_modified": 140,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 140,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "내야수",
+			"is_target": true,
+			"en": 143,
+			"id": 13
+		},
+		{
+			"en_modified": 148,
+			"entityName": "오태곤",
+			"st_modified": 145,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 145,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오태곤",
+			"is_target": true,
+			"en": 148,
+			"id": 14
+		},
+		{
+			"en_modified": 151,
+			"entityName": "",
+			"st_modified": 149,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 149,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "선수",
+			"is_target": true,
+			"en": 151,
+			"id": 15
+		},
+		{
+			"en_modified": 169,
+			"st_modified": 163,
+			"coref_index": 460,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 163,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 169,
+			"id": 16
+		},
+		{
+			"en_modified": 199,
+			"entityName": "2008년",
+			"st_modified": 194,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 194,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008년",
+			"is_target": false,
+			"en": 199,
+			"id": 17
+		},
+		{
+			"en_modified": 204,
+			"entityName": "신고선수",
+			"st_modified": 200,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 200,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "신고선수",
+			"is_target": true,
+			"en": 204,
+			"id": 18
+		},
+		{
+			"en_modified": 212,
+			"st_modified": 206,
+			"coref_index": 457,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 206,
+			"ancestor": "1-8",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 212,
+			"id": 19
+		},
+		{
+			"en_modified": 185,
+			"entityName": "",
+			"st_modified": 173,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 173,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2008_~_2009년",
+			"is_target": false,
+			"en": 185,
+			"id": 20
+		},
+		{
+			"en_modified": 193,
+			"st_modified": 186,
+			"coref_index": 464,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 186,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프로야구_시즌",
+			"is_target": true,
+			"en": 193,
+			"id": 21
+		},
+		{
+			"en_modified": 239,
+			"entityName": "",
+			"st_modified": 234,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 234,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2009년",
+			"is_target": false,
+			"en": 239,
+			"id": 22
+		},
+		{
+			"en_modified": 247,
+			"entityName": "",
+			"st_modified": 240,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 240,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "광주_무등구장",
+			"is_target": true,
+			"en": 247,
+			"id": 23
+		},
+		{
+			"en_modified": 252,
+			"entityName": "",
+			"st_modified": 248,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 248,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "KIA전",
+			"is_target": true,
+			"en": 252,
+			"id": 24
+		},
+		{
+			"en_modified": 259,
+			"entityName": "",
+			"st_modified": 255,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 255,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "구원등판",
+			"is_target": true,
+			"en": 259,
+			"id": 25
+		},
+		{
+			"en_modified": 269,
+			"entityName": "",
+			"st_modified": 267,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 267,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "무대",
+			"is_target": true,
+			"en": 269,
+			"id": 26
+		},
+		{
+			"en_modified": 295,
+			"entityName": "2010년",
+			"st_modified": 290,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 290,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2010년",
+			"is_target": false,
+			"en": 295,
+			"id": 27
+		},
+		{
+			"en_modified": 332,
+			"entityName": "투수",
+			"st_modified": 330,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 330,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투수",
+			"is_target": true,
+			"en": 332,
+			"id": 28
+		},
+		{
+			"en_modified": 336,
+			"st_modified": 333,
+			"coref_index": 459,
+			"entityName": "유희관",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 333,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "유희관",
+			"is_target": true,
+			"en": 336,
+			"id": 29
+		},
+		{
+			"en_modified": 341,
+			"entityName": "원용묵",
+			"st_modified": 338,
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 338,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "원용묵",
+			"is_target": true,
+			"en": 341,
+			"id": 30
+		},
+		{
+			"en_modified": 348,
+			"st_modified": 346,
+			"coref_index": 461,
+			"entityName": "상무_피닉스_(야구)",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 346,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "상무",
+			"is_target": true,
+			"en": 348,
+			"id": 31
+		},
+		{
+			"en_modified": 281,
+			"entityName": "",
+			"st_modified": 276,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 276,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2010년",
+			"is_target": false,
+			"en": 281,
+			"id": 32
+		},
+		{
+			"en_modified": 371,
+			"entityName": "2012년",
+			"st_modified": 366,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 366,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2012년",
+			"is_target": false,
+			"en": 371,
+			"id": 33
+		},
+		{
+			"en_modified": 378,
+			"st_modified": 372,
+			"coref_index": 461,
+			"entityName": "상무_피닉스_(야구)",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 372,
+			"ancestor": "1-38",
+			"ne_type": "ORGANIZATION",
+			"surface": "상무_피닉스",
+			"is_target": true,
+			"en": 378,
+			"id": 34
+		},
+		{
+			"en_modified": 385,
+			"st_modified": 382,
+			"coref_index": 459,
+			"entityName": "유희관",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 382,
+			"ancestor": "1-29",
+			"ne_type": "PERSON",
+			"surface": "유희관",
+			"is_target": true,
+			"en": 385,
+			"id": 35
+		},
+		{
+			"en_modified": 404,
+			"entityName": "2013년",
+			"st_modified": 399,
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"eType": "WIKILINK",
+			"st": 399,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년",
+			"is_target": false,
+			"en": 404,
+			"id": 36
+		},
+		{
+			"en_modified": 415,
+			"st_modified": 409,
+			"coref_index": 460,
+			"entityName": "두산_베어스",
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"eType": "WIKILINK",
+			"st": 409,
+			"ancestor": "1-16",
+			"ne_type": "ORGANIZATION",
+			"surface": "두산_베어스",
+			"is_target": true,
+			"en": 415,
+			"id": 37
+		},
+		{
+			"en_modified": 362,
+			"st_modified": 356,
+			"coref_index": 461,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 356,
+			"ancestor": "1-31",
+			"ne_type": "ORGANIZATION",
+			"surface": "상무_피닉스",
+			"is_target": true,
+			"en": 362,
+			"id": 38
+		},
+		{
+			"en_modified": 466,
+			"st_modified": 463,
+			"coref_index": 462,
+			"entityName": "홍상삼",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 463,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "홍상삼",
+			"is_target": true,
+			"en": 466,
+			"id": 39
+		},
+		{
+			"en_modified": 528,
+			"entityName": "4월_5일",
+			"st_modified": 523,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 523,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "4월_5일",
+			"is_target": false,
+			"en": 528,
+			"id": 40
+		},
+		{
+			"en_modified": 536,
+			"entityName": "5월_8일",
+			"st_modified": 531,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 531,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "5월_8일",
+			"is_target": false,
+			"en": 536,
+			"id": 41
+		},
+		{
+			"en_modified": 562,
+			"st_modified": 559,
+			"coref_index": 462,
+			"entityName": "홍상삼",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 559,
+			"ancestor": "1-39",
+			"ne_type": "PERSON",
+			"surface": "홍상삼",
+			"is_target": true,
+			"en": 562,
+			"id": 42
+		},
+		{
+			"en_modified": 606,
+			"entityName": "5월_8일",
+			"st_modified": 604,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 604,
+			"ancestor": "-1",
+			"ne_type": "TIME",
+			"surface": "기록",
+			"is_target": true,
+			"en": 606,
+			"id": 43
+		},
+		{
+			"en_modified": 612,
+			"st_modified": 609,
+			"coref_index": 462,
+			"entityName": "홍상삼",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 609,
+			"ancestor": "1-39",
+			"ne_type": "PERSON",
+			"surface": "홍상삼",
+			"is_target": true,
+			"en": 612,
+			"id": 44
+		},
+		{
+			"en_modified": 653,
+			"st_modified": 651,
+			"coref_index": 463,
+			"entityName": "투수",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 651,
+			"ancestor": "1-3",
+			"ne_type": "ETC",
+			"surface": "투수",
+			"is_target": true,
+			"en": 653,
+			"id": 45
+		},
+		{
+			"en_modified": 659,
+			"st_modified": 656,
+			"coref_index": 462,
+			"entityName": "홍상삼",
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"eType": "WIKILINK",
+			"st": 656,
+			"ancestor": "1-39",
+			"ne_type": "PERSON",
+			"surface": "홍상삼",
+			"is_target": true,
+			"en": 659,
+			"id": 46
+		},
+		{
+			"en_modified": 430,
+			"entityName": "",
+			"st_modified": 425,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 425,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년",
+			"is_target": false,
+			"en": 430,
+			"id": 47
+		},
+		{
+			"en_modified": 438,
+			"st_modified": 431,
+			"coref_index": 464,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 431,
+			"ancestor": "1-21",
+			"ne_type": "ETC",
+			"surface": "프로야구_시즌",
+			"is_target": true,
+			"en": 438,
+			"id": 48
+		},
+		{
+			"en_modified": 595,
+			"entityName": "",
+			"st_modified": 584,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 584,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "2013년_5월_8일",
+			"is_target": false,
+			"en": 595,
+			"id": 49
+		},
+		{
+			"en_modified": 602,
+			"entityName": "",
+			"st_modified": 596,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 596,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "블론_세이브",
+			"is_target": true,
+			"en": 602,
+			"id": 50
+		},
+		{
+			"en_modified": 497,
+			"entityName": "",
+			"st_modified": 491,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 491,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "투수_변진수",
+			"is_target": true,
+			"en": 497,
+			"id": 51
+		},
+		{
+			"en_modified": 664,
+			"entityName": "",
+			"st_modified": 661,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 661,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "컨디션",
+			"is_target": true,
+			"en": 664,
+			"id": 52
+		}
+	],
+	"globalSID": "1762477,1762478,1762479,1762480,1762481,1762482,1762483,1762484,1762485,1762486,1762487,1762488,1762489,1762490,1762491",
+	"plainText": "오현택(吳賢擇, 1985년_7월_17일 ~ )은 KBO_리그 두산_베어스의 투수이다. 원광대학교를 졸업하고 2008년 신고선수로 두산_베어스에 입단하여 주로 2군에서 활동하다가, 2009년_6월_2일에 처음으로 1군에 등록되었다. 가족관계 kt_위즈 내야수인 오태곤 선수와 사촌형제지간이다. 두산_베어스 시절 2008_~_2009년 프로야구_시즌 2008년 신고선수로 두산_베어스에 입단하였고 대부분 2군 생활을 하다 2009년 광주_무등구장 KIA전에서 구원등판으로 첫 1군 무대를 밟았다. 2010년 프로야구 시즌 2010년 시즌 때 데뷔 첫 승 등을 기록했지만 시즌 종료 후 팀 동료 투수 유희관, 원용묵과 함께 상무에 입대했다. 상무_피닉스 시절 2012년 상무_피닉스 에서 유희관과 원투펀치를 이루었으며 2013년 시즌에 두산_베어스로 제대 하였다. 2013년 프로야구_시즌 2013 시즌 초반 마무리를 맡을 예정이던 홍상삼이 발목 부상으로 결장하고, 2년차 사이드암 투수_변진수가 부진한 모습을 보여 임시 마무리를 맡았다. 4월_5일부터 5월_8일까지 20.1이닝 무실점 호투를 이어가며 홍상삼을 제치고 마무리로 낙점되는 듯 했으나 2013년_5월_8일 블론_세이브를 기록하고 홍상삼의 복귀로인해 셋업맨으로 보직을 전환했다. 하지만 팀이 어렵고 마무리 투수였던 홍상삼의 컨디션이 안 좋을때는 대신 마무리 등판도 하는 마당쇠 역할을 소화했었다. ",
+	"docID": "336444",
+	"ModifiedText": "오현택(吳賢擇, 1985년 7월 17일 ~ )은 KBO 리그 두산 베어스의 투수이다. 원광대학교를 졸업하고 2008년 신고선수로 두산 베어스에 입단하여 주로 2군에서 활동하다가, 2009년 6월 2일에 처음으로 1군에 등록되었다. 가족관계 kt 위즈 내야수인 오태곤 선수와 사촌형제지간이다. 두산 베어스 시절 2008 ~ 2009년 프로야구 시즌 2008년 신고선수로 두산 베어스에 입단하였고 대부분 2군 생활을 하다 2009년 광주 무등구장 KIA전에서 구원등판으로 첫 1군 무대를 밟았다. 2010년 프로야구 시즌 2010년 시즌 때 데뷔 첫 승 등을 기록했지만 시즌 종료 후 팀 동료 투수 유희관, 원용묵과 함께 상무에 입대했다. 상무 피닉스 시절 2012년 상무 피닉스 에서 유희관과 원투펀치를 이루었으며 2013년 시즌에 두산 베어스로 제대 하였다. 2013년 프로야구 시즌 2013 시즌 초반 마무리를 맡을 예정이던 홍상삼이 발목 부상으로 결장하고, 2년차 사이드암 투수 변진수가 부진한 모습을 보여 임시 마무리를 맡았다. 4월 5일부터 5월 8일까지 20.1이닝 무실점 호투를 이어가며 홍상삼을 제치고 마무리로 낙점되는 듯 했으나 2013년 5월 8일 블론 세이브를 기록하고 홍상삼의 복귀로인해 셋업맨으로 보직을 전환했다. 하지만 팀이 어렵고 마무리 투수였던 홍상삼의 컨디션이 안 좋을때는 대신 마무리 등판도 하는 마당쇠 역할을 소화했었다. "
+}

@@ -1,0 +1,80 @@
+{
+	"docID": "667122",
+	"globalSID": "2534508",
+	"pronouns": [],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 4,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "국민투표",
+			"coref_index": 781
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "찬성"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 24,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "제1항"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "국회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 30,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 34,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "가결사항"
+		}
+	],
+	"plainText": "국민투표에서 찬성을 얻지 못한 때에는 제1항의 국회의 가결사항은 소급하여 효력을 상실한다."
+}

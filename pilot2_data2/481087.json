@@ -1,0 +1,1705 @@
+{
+	"pronoun_candidate": [
+		{
+			"st": 237,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 238,
+			"en": 238,
+			"st_modified": 237
+		},
+		{
+			"st": 237,
+			"text": "그의 양친",
+			"is_pronoun": true,
+			"en_modified": 242,
+			"en": 242,
+			"st_modified": 237
+		},
+		{
+			"st": 316,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 317,
+			"en": 317,
+			"st_modified": 316
+		},
+		{
+			"st": 838,
+			"text": "그때까지",
+			"is_pronoun": true,
+			"en_modified": 842,
+			"en": 842,
+			"st_modified": 838
+		},
+		{
+			"st": 838,
+			"text": "그때까지의 공적",
+			"is_pronoun": true,
+			"en_modified": 846,
+			"en": 846,
+			"st_modified": 838
+		},
+		{
+			"st": 962,
+			"text": "여기",
+			"is_pronoun": true,
+			"en_modified": 964,
+			"en": 964,
+			"st_modified": 962
+		},
+		{
+			"st": 1033,
+			"text": "이 군단",
+			"is_pronoun": true,
+			"en_modified": 1037,
+			"en": 1037,
+			"st_modified": 1033
+		},
+		{
+			"st": 1315,
+			"text": "그",
+			"is_pronoun": true,
+			"en_modified": 1316,
+			"en": 1316,
+			"st_modified": 1315
+		},
+		{
+			"st": 1547,
+			"text": "자신",
+			"is_pronoun": true,
+			"en_modified": 1549,
+			"en": 1549,
+			"st_modified": 1547
+		},
+		{
+			"st": 1742,
+			"text": "이곳",
+			"is_pronoun": true,
+			"en_modified": 1744,
+			"en": 1744,
+			"st_modified": 1742
+		},
+		{
+			"st": 1742,
+			"text": "이곳의 보루",
+			"is_pronoun": true,
+			"en_modified": 1748,
+			"en": 1748,
+			"st_modified": 1742
+		},
+		{
+			"st": 1742,
+			"text": "이곳의 보루를 사력을 다해 방어하던 도중 포탄",
+			"is_pronoun": true,
+			"en_modified": 1767,
+			"en": 1767,
+			"st_modified": 1742
+		}
+	],
+	"parID": "1",
+	"pronouns": [
+		{
+			"st": 237,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 238,
+			"en": 238,
+			"st_modified": 237,
+			"id": 0,
+			"coref_index": 607
+		},
+		{
+			"st": 237,
+			"ancestor": "-1",
+			"surface": "그의 양친은",
+			"en_modified": 243,
+			"en": 243,
+			"st_modified": 237,
+			"id": 1
+		},
+		{
+			"st": 316,
+			"ancestor": "1-0",
+			"surface": "그",
+			"en_modified": 317,
+			"en": 317,
+			"st_modified": 316,
+			"id": 2,
+			"coref_index": 607
+		},
+		{
+			"st": 838,
+			"ancestor": "1-43",
+			"surface": "그때",
+			"en_modified": 840,
+			"en": 840,
+			"st_modified": 838,
+			"id": 3,
+			"coref_index": 612
+		},
+		{
+			"st": 838,
+			"ancestor": "-1",
+			"surface": "그때까지의 공적으로",
+			"en_modified": 848,
+			"en": 848,
+			"st_modified": 838,
+			"id": 4
+		},
+		{
+			"st": 962,
+			"ancestor": "1-47",
+			"surface": "여기서",
+			"en_modified": 965,
+			"en": 965,
+			"st_modified": 962,
+			"id": 5,
+			"coref_index": 613
+		},
+		{
+			"st": 1033,
+			"ancestor": "1-57",
+			"surface": "이 군단",
+			"en_modified": 1037,
+			"en": 1037,
+			"st_modified": 1033,
+			"id": 6,
+			"coref_index": 614
+		},
+		{
+			"st": 1315,
+			"ancestor": "1-67",
+			"surface": "그",
+			"en_modified": 1316,
+			"en": 1316,
+			"st_modified": 1315,
+			"id": 7,
+			"coref_index": 607
+		},
+		{
+			"st": 1547,
+			"ancestor": "1-0",
+			"surface": "자신",
+			"en_modified": 1549,
+			"en": 1549,
+			"st_modified": 1547,
+			"id": 8,
+			"coref_index": 607
+		},
+		{
+			"st": 1742,
+			"ancestor": "-1",
+			"surface": "이곳",
+			"en_modified": 1744,
+			"en": 1744,
+			"st_modified": 1742,
+			"id": 9
+		},
+		{
+			"st": 1742,
+			"ancestor": "-1",
+			"surface": "이곳의 보루를",
+			"en_modified": 1749,
+			"en": 1749,
+			"st_modified": 1742,
+			"id": 10
+		},
+		{
+			"st": 1742,
+			"ancestor": "-1",
+			"surface": "이곳의 보루를 사력을 다해 방어하던 도중 포탄을",
+			"en_modified": 1768,
+			"en": 1768,
+			"st_modified": 1742,
+			"id": 11
+		}
+	],
+	"entities": [
+		{
+			"en_modified": 11,
+			"st_modified": 0,
+			"coref_index": 607,
+			"entityName": "장_이시도르_아리스프",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "ELU",
+			"st": 0,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "장_이시도르_아리스프",
+			"is_target": true,
+			"en": 11,
+			"id": 0
+		},
+		{
+			"en_modified": 103,
+			"entityName": "프랑스_혁명전쟁",
+			"st_modified": 95,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 95,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프랑스_혁명전쟁",
+			"is_target": true,
+			"en": 103,
+			"id": 1
+		},
+		{
+			"en_modified": 113,
+			"entityName": "나폴레옹_전쟁",
+			"st_modified": 106,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 106,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "나폴레옹_전쟁",
+			"is_target": true,
+			"en": 113,
+			"id": 2
+		},
+		{
+			"en_modified": 126,
+			"st_modified": 123,
+			"coref_index": 609,
+			"entityName": "프랑스",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 123,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 126,
+			"id": 3
+		},
+		{
+			"en_modified": 151,
+			"entityName": "프랑스_원수",
+			"st_modified": 145,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 145,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프랑스_원수",
+			"is_target": true,
+			"en": 151,
+			"id": 4
+		},
+		{
+			"en_modified": 23,
+			"st_modified": 13,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 13,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "아리스프_백작_1세",
+			"is_target": true,
+			"en": 23,
+			"id": 5
+		},
+		{
+			"en_modified": 77,
+			"entityName": "",
+			"st_modified": 65,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 65,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1768년_12월_7일",
+			"is_target": false,
+			"en": 77,
+			"id": 6
+		},
+		{
+			"en_modified": 92,
+			"entityName": "",
+			"st_modified": 80,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 80,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1855년_5월_26일",
+			"is_target": false,
+			"en": 92,
+			"id": 7
+		},
+		{
+			"en_modified": 137,
+			"st_modified": 133,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 133,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 137,
+			"id": 8
+		},
+		{
+			"en_modified": 179,
+			"entityName": "바스크",
+			"st_modified": 176,
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 176,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "바스크",
+			"is_target": true,
+			"en": 179,
+			"id": 9
+		},
+		{
+			"en_modified": 201,
+			"entityName": "생테티엔드베고리",
+			"st_modified": 193,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 193,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "생테티엔드베고리",
+			"is_target": true,
+			"en": 201,
+			"id": 10
+		},
+		{
+			"en_modified": 325,
+			"entityName": "생장피드포르",
+			"st_modified": 319,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 319,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "생장피드포르",
+			"is_target": true,
+			"en": 325,
+			"id": 11
+		},
+		{
+			"en_modified": 378,
+			"st_modified": 375,
+			"coref_index": 608,
+			"entityName": "스페인",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 375,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "스페인",
+			"is_target": true,
+			"en": 378,
+			"id": 12
+		},
+		{
+			"en_modified": 392,
+			"entityName": "피레네_전쟁",
+			"st_modified": 386,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 386,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "피레네_전쟁",
+			"is_target": true,
+			"en": 392,
+			"id": 13
+		},
+		{
+			"en_modified": 433,
+			"st_modified": 430,
+			"coref_index": 608,
+			"entityName": "스페인",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 430,
+			"ancestor": "1-12",
+			"ne_type": "LOCATION",
+			"surface": "스페인",
+			"is_target": true,
+			"en": 433,
+			"id": 14
+		},
+		{
+			"en_modified": 438,
+			"st_modified": 435,
+			"coref_index": 609,
+			"entityName": "프랑스",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 435,
+			"ancestor": "1-3",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 438,
+			"id": 15
+		},
+		{
+			"en_modified": 452,
+			"entityName": "보르도",
+			"st_modified": 449,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 449,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "보르도",
+			"is_target": true,
+			"en": 452,
+			"id": 16
+		},
+		{
+			"en_modified": 470,
+			"entityName": "오트-가론",
+			"st_modified": 465,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 465,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오트-가론",
+			"is_target": true,
+			"en": 470,
+			"id": 17
+		},
+		{
+			"en_modified": 508,
+			"entityName": "자크_마크도날",
+			"st_modified": 504,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "WIKILINK",
+			"st": 504,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "마크도날",
+			"is_target": true,
+			"en": 508,
+			"id": 18
+		},
+		{
+			"en_modified": 518,
+			"entityName": "그라우뷘덴_주",
+			"st_modified": 515,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 515,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "그리송",
+			"is_target": true,
+			"en": 518,
+			"id": 19
+		},
+		{
+			"en_modified": 533,
+			"st_modified": 531,
+			"coref_index": 610,
+			"entityName": "본_아드리안_자노_드_몽세",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 531,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "몽세",
+			"is_target": true,
+			"en": 533,
+			"id": 20
+		},
+		{
+			"en_modified": 545,
+			"entityName": "기욤_마리_안_브륀",
+			"st_modified": 543,
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"eType": "WIKILINK",
+			"st": 543,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "브륀",
+			"is_target": true,
+			"en": 545,
+			"id": 21
+		},
+		{
+			"en_modified": 560,
+			"entityName": "이탈리아_방면군",
+			"st_modified": 552,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 552,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "이탈리아_방면군",
+			"is_target": true,
+			"en": 560,
+			"id": 22
+		},
+		{
+			"en_modified": 580,
+			"entityName": "앙굴렘",
+			"st_modified": 577,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 577,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "앙굴렘",
+			"is_target": true,
+			"en": 580,
+			"id": 23
+		},
+		{
+			"en_modified": 170,
+			"st_modified": 166,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 166,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 170,
+			"id": 24
+		},
+		{
+			"en_modified": 266,
+			"st_modified": 262,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 262,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 266,
+			"id": 25
+		},
+		{
+			"en_modified": 273,
+			"entityName": "",
+			"st_modified": 268,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 268,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1792년",
+			"is_target": false,
+			"en": 273,
+			"id": 26
+		},
+		{
+			"en_modified": 315,
+			"entityName": "",
+			"st_modified": 310,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 310,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1793년",
+			"is_target": false,
+			"en": 315,
+			"id": 27
+		},
+		{
+			"en_modified": 677,
+			"entityName": "제3차_대프랑스_동맹",
+			"st_modified": 666,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 666,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "제3차_대프랑스_동맹",
+			"is_target": true,
+			"en": 677,
+			"id": 28
+		},
+		{
+			"en_modified": 697,
+			"entityName": "피에르_오주로",
+			"st_modified": 691,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 691,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오주로_원수",
+			"is_target": true,
+			"en": 697,
+			"id": 29
+		},
+		{
+			"en_modified": 731,
+			"entityName": "연안군",
+			"st_modified": 728,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 728,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "연안군",
+			"is_target": true,
+			"en": 731,
+			"id": 30
+		},
+		{
+			"en_modified": 801,
+			"entityName": "사단",
+			"st_modified": 799,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 799,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사단",
+			"is_target": true,
+			"en": 801,
+			"id": 31
+		},
+		{
+			"en_modified": 820,
+			"entityName": "예나_전투",
+			"st_modified": 818,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 818,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "예나",
+			"is_target": true,
+			"en": 820,
+			"id": 32
+		},
+		{
+			"en_modified": 865,
+			"entityName": "니콜라_장드듀_술트",
+			"st_modified": 860,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"eType": "WIKILINK",
+			"st": 860,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "술트_원수",
+			"is_target": true,
+			"en": 865,
+			"id": 33
+		},
+		{
+			"en_modified": 869,
+			"entityName": "군단",
+			"st_modified": 867,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 867,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "군단",
+			"is_target": true,
+			"en": 869,
+			"id": 34
+		},
+		{
+			"en_modified": 888,
+			"entityName": "장앙투안_베르디에",
+			"st_modified": 884,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "WIKILINK",
+			"st": 884,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "베르디에",
+			"is_target": true,
+			"en": 888,
+			"id": 35
+		},
+		{
+			"en_modified": 896,
+			"entityName": "여단",
+			"st_modified": 894,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 894,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "여단",
+			"is_target": true,
+			"en": 896,
+			"id": 36
+		},
+		{
+			"en_modified": 912,
+			"entityName": "하일스베르크_전투",
+			"st_modified": 906,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 906,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "하일스베르크",
+			"is_target": true,
+			"en": 912,
+			"id": 37
+		},
+		{
+			"en_modified": 930,
+			"entityName": "프리틀란트_전투",
+			"st_modified": 925,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 925,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프리틀란트",
+			"is_target": true,
+			"en": 930,
+			"id": 38
+		},
+		{
+			"en_modified": 665,
+			"entityName": "",
+			"st_modified": 658,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 658,
+			"ancestor": "-1",
+			"ne_type": "EVENT",
+			"surface": "나폴레옹_전쟁",
+			"is_target": true,
+			"en": 665,
+			"id": 39
+		},
+		{
+			"en_modified": 689,
+			"st_modified": 685,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 685,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 689,
+			"id": 40
+		},
+		{
+			"en_modified": 769,
+			"entityName": "",
+			"st_modified": 764,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 764,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1805년",
+			"is_target": false,
+			"en": 769,
+			"id": 41
+		},
+		{
+			"en_modified": 777,
+			"entityName": "",
+			"st_modified": 772,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 772,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1806년",
+			"is_target": false,
+			"en": 777,
+			"id": 42
+		},
+		{
+			"en_modified": 817,
+			"st_modified": 809,
+			"coref_index": 612,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 809,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1807년_1월",
+			"is_target": false,
+			"en": 817,
+			"id": 43
+		},
+		{
+			"en_modified": 787,
+			"entityName": "",
+			"st_modified": 783,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 783,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "데스자탱",
+			"is_target": true,
+			"en": 787,
+			"id": 44
+		},
+		{
+			"en_modified": 827,
+			"st_modified": 823,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 823,
+			"ancestor": "1-40",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 827,
+			"id": 45
+		},
+		{
+			"en_modified": 882,
+			"st_modified": 878,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 878,
+			"ancestor": "1-45",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 882,
+			"id": 46
+		},
+		{
+			"en_modified": 945,
+			"st_modified": 936,
+			"coref_index": 613,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 936,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "Gludstadt",
+			"is_target": true,
+			"en": 945,
+			"id": 47
+		},
+		{
+			"en_modified": 1076,
+			"entityName": "장_란",
+			"st_modified": 1072,
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "WIKILINK",
+			"st": 1072,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "란_원수",
+			"is_target": true,
+			"en": 1076,
+			"id": 48
+		},
+		{
+			"en_modified": 1089,
+			"entityName": "투델라_전투",
+			"st_modified": 1083,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1083,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "투델라_전투",
+			"is_target": true,
+			"en": 1089,
+			"id": 49
+		},
+		{
+			"en_modified": 1118,
+			"entityName": "사라고사_공방전_(1809년)",
+			"st_modified": 1110,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1110,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "사라고사_포위전",
+			"is_target": true,
+			"en": 1118,
+			"id": 50
+		},
+		{
+			"en_modified": 1152,
+			"st_modified": 1149,
+			"coref_index": 609,
+			"entityName": "프랑스",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1149,
+			"ancestor": "1-3",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 1152,
+			"id": 51
+		},
+		{
+			"en_modified": 1170,
+			"entityName": "제5차_대프랑스_동맹",
+			"st_modified": 1159,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1159,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "제5차_대프랑스_동맹",
+			"is_target": true,
+			"en": 1170,
+			"id": 52
+		},
+		{
+			"en_modified": 1182,
+			"st_modified": 1180,
+			"coref_index": 611,
+			"entityName": "루이_가브리엘_쉬셰",
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"eType": "WIKILINK",
+			"st": 1180,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "쉬셰",
+			"is_target": true,
+			"en": 1182,
+			"id": 53
+		},
+		{
+			"en_modified": 990,
+			"entityName": "",
+			"st_modified": 981,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 981,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1807년_12월",
+			"is_target": false,
+			"en": 990,
+			"id": 54
+		},
+		{
+			"en_modified": 995,
+			"st_modified": 991,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 991,
+			"ancestor": "1-24",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 995,
+			"id": 55
+		},
+		{
+			"en_modified": 1002,
+			"st_modified": 997,
+			"coref_index": 610,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 997,
+			"ancestor": "1-20",
+			"ne_type": "PERSON",
+			"surface": "몽세_원수",
+			"is_target": true,
+			"en": 1002,
+			"id": 56
+		},
+		{
+			"en_modified": 1019,
+			"st_modified": 1008,
+			"coref_index": 614,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1008,
+			"ancestor": "-1",
+			"ne_type": "ORGANIZATION",
+			"surface": "대양_연안군_정찰군단",
+			"is_target": true,
+			"en": 1019,
+			"id": 57
+		},
+		{
+			"en_modified": 1024,
+			"entityName": "",
+			"st_modified": 1021,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1021,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "참모장",
+			"is_target": true,
+			"en": 1024,
+			"id": 58
+		},
+		{
+			"en_modified": 1047,
+			"entityName": "",
+			"st_modified": 1042,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1042,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1808년",
+			"is_target": false,
+			"en": 1047,
+			"id": 59
+		},
+		{
+			"en_modified": 1051,
+			"st_modified": 1048,
+			"coref_index": 608,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1048,
+			"ancestor": "1-12",
+			"ne_type": "ORGANIZATION",
+			"surface": "스페인",
+			"is_target": true,
+			"en": 1051,
+			"id": 60
+		},
+		{
+			"en_modified": 1071,
+			"entityName": "",
+			"st_modified": 1062,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1062,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1808년_11월",
+			"is_target": false,
+			"en": 1071,
+			"id": 61
+		},
+		{
+			"en_modified": 1232,
+			"entityName": "마리아_전투",
+			"st_modified": 1226,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1226,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "마리아_전투",
+			"is_target": true,
+			"en": 1232,
+			"id": 62
+		},
+		{
+			"en_modified": 1322,
+			"entityName": "발렌시아",
+			"st_modified": 1318,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 1318,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "발렌시아",
+			"is_target": true,
+			"en": 1322,
+			"id": 63
+		},
+		{
+			"en_modified": 1337,
+			"entityName": "타라고나",
+			"st_modified": 1333,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"eType": "WIKILINK",
+			"st": 1333,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "타라고나",
+			"is_target": true,
+			"en": 1337,
+			"id": 64
+		},
+		{
+			"en_modified": 1342,
+			"entityName": "레리다",
+			"st_modified": 1339,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1339,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "레리다",
+			"is_target": true,
+			"en": 1342,
+			"id": 65
+		},
+		{
+			"en_modified": 1198,
+			"st_modified": 1196,
+			"coref_index": 611,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1196,
+			"ancestor": "1-53",
+			"ne_type": "PERSON",
+			"surface": "쉬셰",
+			"is_target": true,
+			"en": 1198,
+			"id": 66
+		},
+		{
+			"en_modified": 1256,
+			"st_modified": 1252,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1252,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 1256,
+			"id": 67
+		},
+		{
+			"en_modified": 1303,
+			"entityName": "",
+			"st_modified": 1279,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1279,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "사단장(general_de_division)",
+			"is_target": true,
+			"en": 1303,
+			"id": 68
+		},
+		{
+			"en_modified": 1407,
+			"entityName": "",
+			"st_modified": 1375,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1375,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "레지옹_도뇌르_훈장_그랑도피시에(Grand_Officer)",
+			"is_target": true,
+			"en": 1407,
+			"id": 69
+		},
+		{
+			"en_modified": 1416,
+			"entityName": "",
+			"st_modified": 1414,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1414,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "백작",
+			"is_target": true,
+			"en": 1416,
+			"id": 70
+		},
+		{
+			"en_modified": 1216,
+			"st_modified": 1213,
+			"coref_index": 608,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1213,
+			"ancestor": "1-12",
+			"ne_type": "LOCATION",
+			"surface": "스페인",
+			"is_target": true,
+			"en": 1216,
+			"id": 71
+		},
+		{
+			"en_modified": 1440,
+			"entityName": "아라곤",
+			"st_modified": 1437,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1437,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "아라곤",
+			"is_target": true,
+			"en": 1440,
+			"id": 72
+		},
+		{
+			"en_modified": 1472,
+			"entityName": "바르셀로나",
+			"st_modified": 1467,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"eType": "WIKILINK",
+			"st": 1467,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "바르셀로나",
+			"is_target": true,
+			"en": 1472,
+			"id": 73
+		},
+		{
+			"en_modified": 1486,
+			"entityName": "비토리아_전투",
+			"st_modified": 1482,
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"eType": "WIKILINK",
+			"st": 1482,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "비토리아",
+			"is_target": true,
+			"en": 1486,
+			"id": 74
+		},
+		{
+			"en_modified": 1495,
+			"entityName": "웰링턴_공작_1세_아서_웰즐리",
+			"st_modified": 1489,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1489,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "웰링턴_공작",
+			"is_target": true,
+			"en": 1495,
+			"id": 75
+		},
+		{
+			"en_modified": 1507,
+			"entityName": "프랑스_프랑",
+			"st_modified": 1497,
+			"kbox_types": [
+				"Currency"
+			],
+			"eType": "ELU",
+			"st": 1497,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "프랑스_남부_침공을",
+			"is_target": true,
+			"en": 1507,
+			"id": 76
+		},
+		{
+			"en_modified": 1518,
+			"st_modified": 1515,
+			"coref_index": 609,
+			"entityName": "프랑스",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1515,
+			"ancestor": "1-15",
+			"ne_type": "LOCATION",
+			"surface": "프랑스",
+			"is_target": true,
+			"en": 1518,
+			"id": 77
+		},
+		{
+			"en_modified": 1529,
+			"st_modified": 1526,
+			"coref_index": 608,
+			"entityName": "스페인",
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "ELU",
+			"st": 1526,
+			"ancestor": "1-14",
+			"ne_type": "LOCATION",
+			"surface": "스페인",
+			"is_target": true,
+			"en": 1529,
+			"id": 78
+		},
+		{
+			"en_modified": 1577,
+			"entityName": "오르테_전투",
+			"st_modified": 1571,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1571,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "오르테_전투",
+			"is_target": true,
+			"en": 1577,
+			"id": 79
+		},
+		{
+			"en_modified": 1634,
+			"entityName": "타르브",
+			"st_modified": 1631,
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"eType": "WIKILINK",
+			"st": 1631,
+			"ancestor": "-1",
+			"ne_type": "LOCATION",
+			"surface": "타르브",
+			"is_target": true,
+			"en": 1634,
+			"id": 80
+		},
+		{
+			"en_modified": 1659,
+			"entityName": "나폴레옹_보나파르트",
+			"st_modified": 1655,
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"eType": "ELU",
+			"st": 1655,
+			"ancestor": "-1",
+			"ne_type": "PERSON",
+			"surface": "나폴레옹",
+			"is_target": true,
+			"en": 1659,
+			"id": 81
+		},
+		{
+			"en_modified": 1683,
+			"entityName": "툴루즈_전투",
+			"st_modified": 1677,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "WIKILINK",
+			"st": 1677,
+			"ancestor": "-1",
+			"ne_type": "ETC",
+			"surface": "툴루즈_전투",
+			"is_target": true,
+			"en": 1683,
+			"id": 82
+		},
+		{
+			"en_modified": 1427,
+			"st_modified": 1423,
+			"coref_index": 607,
+			"entityName": "",
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1423,
+			"ancestor": "1-0",
+			"ne_type": "PERSON",
+			"surface": "아리스프",
+			"is_target": true,
+			"en": 1427,
+			"id": 83
+		},
+		{
+			"en_modified": 1434,
+			"entityName": "",
+			"st_modified": 1429,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1429,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1813년",
+			"is_target": false,
+			"en": 1434,
+			"id": 84
+		},
+		{
+			"en_modified": 1455,
+			"entityName": "",
+			"st_modified": 1450,
+			"kbox_types": [
+				"NULL"
+			],
+			"eType": "NEW",
+			"st": 1450,
+			"ancestor": "",
+			"ne_type": "TIME",
+			"surface": "1814년",
+			"is_target": false,
+			"en": 1455,
+			"id": 85
+		}
+	],
+	"globalSID": "2129001,2129002,2129003,2129004,2129005,2129006,2129007,2129008,2129009,2129010,2129011,2129012,2129013,2129014,2129015,2129016,2129017,2129018,2129019,2129020,2129021,2129022,2129023,2129024,2129025,2129026,2129027",
+	"plainText": "장_이시도르_아리스프, 아리스프_백작_1세(Jean Isidore Harispe, 1st Comte Harispe, 1768년_12월_7일 - 1855년_5월_26일)는 프랑스_혁명전쟁 및 나폴레옹_전쟁 기간동안 활약한 프랑스 장군이다. 아리스프는 1851년 프랑스_원수에 임명되었다. 초기 생애 아리스프는 부유한 바스크 지방의 지주의 아들로서 생테티엔드베고리(Saint-?tienne-de-Ba?gorry)에서 태어났다. 그의 양친은 아들이 성직자가 되길 바랬으나, 아리스프는 1792년 프랑스 혁명이 발발하자 지원병으로써 프랑스 공화국군에 참가했다. 1793년 그는 생장피드포르(Saint-Jean-Pied-de-Port)의 중대의 지휘관으로 임명되었다. 아리스프는 스페인을 상대로 한 피레네_전쟁(War of the Pyrenees)에서 유명해 졌다. 1795년 스페인과 프랑스가 강화를 맺은 후 보르도에서 수비대를 이끌며, 오트-가론(Haute-Garonne)에서 반란군과 싸웠다. 1799년 마크도날의 지휘하에 그리송의 전투에 참가한 후, 몽세(Moncey)와 브륀의 요청으로 이탈리아_방면군으로 옮겼다. 1802년 5월 앙굴렘(Angoul?me) 수비대로써 조직된 제16 바스크 쉬세르(chasseurs) 반-여단(demi-brigade)의 지휘관으로 임명되었다. 나폴레옹_전쟁 제3차_대프랑스_동맹이 결성될 때 아리스프는 오주로_원수(Marshal Augereau)의 지휘하에 있던 대양 연안군(Army of the Ocean Coast)에 근무하면서 1805년 및 1806년 전역에서 데스자탱(Desjardin) 사단에서 싸웠다. 1807년_1월 예나에서 아리스프는 부상을 입었고, 그때까지의 공적으로 준장에 임명되었다. 술트_원수의 군단으로 옮긴 후, 아리스프는 베르디에 사단 중 여단을 맡게 되었다. 하일스베르크(Heilsberg)와 프리틀란트 전투 및 Gludstadt 에서 활약해 유명해 졌으나, 여기서 다시 부상을 입게 되었다. 1807년_12월 아리스프는 몽세_원수의 지휘하 대양_연안군_정찰군단의 참모장에 임명되었다. 이 군단과 함께 1808년 스페인 전역에 참여했다. 1808년_11월 란_원수 지휘하에서 투델라_전투(Battle of Tudela) 및 사라고사_포위전(siege of Saragossa)에 참가했다. 란이 프랑스로 귀국하고 제5차_대프랑스_동맹이 결성되었을 때 쉬셰의 참모장에 임명되었다. 쉬셰가 10,000명의 군대로 스페인의 군대를 격파한 마리아_전투(Battle of Mar?a)에서 아리스프는 1~3개의 상처를 입었다. 아리스프는 사단장(general_de_division)으로 승진했다. 이후 그는 발렌시아 점령과정에서 특히 타라고나와 레리다의 공방전에서 뛰어난 활약으로 명성을 높인 후, 아리스프는 레지옹_도뇌르_훈장_그랑도피시에(Grand_Officer)를 수여받아 백작이 되었다. 아리스프는 1813년까지 아라곤에서 근무한 후, 1814년 술트의 증원군으로써 바르셀로나로 향했다. 이후 비토리아에서 웰링턴_공작의 프랑스_남부_침공을 방어한 후, 프랑스로 퇴각 도중 스페인에 이용되는 것을 방지하기 위해 자신이 태어난 성을 스스로 불태웠다. 이후 오르테_전투(Battle of Orthez)에서 아리스프는 군대의 퇴각을 지원했다. 1814년 3월 20일 타르브에서 포르투갈 사단과 전투를 벌였고, 나폴레옹이 퇴위한 후에도 전투를 계속해 툴루즈_전투(Battle of Toulouse)에서도 활약했다. Calvinet의 고지를 방어하는 임무를 부여받아, 이곳의 보루를 사력을 다해 방어하던 도중 포탄을 다리에 맞아 절단하였다. ",
+	"docID": "481087",
+	"ModifiedText": "장 이시도르 아리스프, 아리스프 백작 1세(Jean Isidore Harispe, 1st Comte Harispe, 1768년 12월 7일 - 1855년 5월 26일)는 프랑스 혁명전쟁 및 나폴레옹 전쟁 기간동안 활약한 프랑스 장군이다. 아리스프는 1851년 프랑스 원수에 임명되었다. 초기 생애 아리스프는 부유한 바스크 지방의 지주의 아들로서 생테티엔드베고리(Saint-?tienne-de-Ba?gorry)에서 태어났다. 그의 양친은 아들이 성직자가 되길 바랬으나, 아리스프는 1792년 프랑스 혁명이 발발하자 지원병으로써 프랑스 공화국군에 참가했다. 1793년 그는 생장피드포르(Saint-Jean-Pied-de-Port)의 중대의 지휘관으로 임명되었다. 아리스프는 스페인을 상대로 한 피레네 전쟁(War of the Pyrenees)에서 유명해 졌다. 1795년 스페인과 프랑스가 강화를 맺은 후 보르도에서 수비대를 이끌며, 오트-가론(Haute-Garonne)에서 반란군과 싸웠다. 1799년 마크도날의 지휘하에 그리송의 전투에 참가한 후, 몽세(Moncey)와 브륀의 요청으로 이탈리아 방면군으로 옮겼다. 1802년 5월 앙굴렘(Angoul?me) 수비대로써 조직된 제16 바스크 쉬세르(chasseurs) 반-여단(demi-brigade)의 지휘관으로 임명되었다. 나폴레옹 전쟁 제3차 대프랑스 동맹이 결성될 때 아리스프는 오주로 원수(Marshal Augereau)의 지휘하에 있던 대양 연안군(Army of the Ocean Coast)에 근무하면서 1805년 및 1806년 전역에서 데스자탱(Desjardin) 사단에서 싸웠다. 1807년 1월 예나에서 아리스프는 부상을 입었고, 그때까지의 공적으로 준장에 임명되었다. 술트 원수의 군단으로 옮긴 후, 아리스프는 베르디에 사단 중 여단을 맡게 되었다. 하일스베르크(Heilsberg)와 프리틀란트 전투 및 Gludstadt 에서 활약해 유명해 졌으나, 여기서 다시 부상을 입게 되었다. 1807년 12월 아리스프는 몽세 원수의 지휘하 대양 연안군 정찰군단의 참모장에 임명되었다. 이 군단과 함께 1808년 스페인 전역에 참여했다. 1808년 11월 란 원수 지휘하에서 투델라 전투(Battle of Tudela) 및 사라고사 포위전(siege of Saragossa)에 참가했다. 란이 프랑스로 귀국하고 제5차 대프랑스 동맹이 결성되었을 때 쉬셰의 참모장에 임명되었다. 쉬셰가 10,000명의 군대로 스페인의 군대를 격파한 마리아 전투(Battle of Mar?a)에서 아리스프는 1~3개의 상처를 입었다. 아리스프는 사단장(general de division)으로 승진했다. 이후 그는 발렌시아 점령과정에서 특히 타라고나와 레리다의 공방전에서 뛰어난 활약으로 명성을 높인 후, 아리스프는 레지옹 도뇌르 훈장 그랑도피시에(Grand Officer)를 수여받아 백작이 되었다. 아리스프는 1813년까지 아라곤에서 근무한 후, 1814년 술트의 증원군으로써 바르셀로나로 향했다. 이후 비토리아에서 웰링턴 공작의 프랑스 남부 침공을 방어한 후, 프랑스로 퇴각 도중 스페인에 이용되는 것을 방지하기 위해 자신이 태어난 성을 스스로 불태웠다. 이후 오르테 전투(Battle of Orthez)에서 아리스프는 군대의 퇴각을 지원했다. 1814년 3월 20일 타르브에서 포르투갈 사단과 전투를 벌였고, 나폴레옹이 퇴위한 후에도 전투를 계속해 툴루즈 전투(Battle of Toulouse)에서도 활약했다. Calvinet의 고지를 방어하는 임무를 부여받아, 이곳의 보루를 사력을 다해 방어하던 도중 포탄을 다리에 맞아 절단하였다. "
+}

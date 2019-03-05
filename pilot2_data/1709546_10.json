@@ -1,0 +1,240 @@
+{
+	"docID": "1709546",
+	"globalSID": "3918182,3918183,3918184,3918185",
+	"pronouns": [
+		{
+			"en": 76,
+			"ancestor": "-1",
+			"surface": "동남아시아 사령부의 연합군 최고사령관이었던 루이스_마운트배튼 경은",
+			"id": 0,
+			"st": 40
+		},
+		{
+			"st": 212,
+			"coref_index": 275,
+			"id": 1,
+			"en": 216,
+			"ancestor": "10-9",
+			"surface": "그 지역"
+		},
+		{
+			"st": 230,
+			"coref_index": 286,
+			"id": 2,
+			"en": 231,
+			"ancestor": "10-11",
+			"surface": "그"
+		},
+		{
+			"en": 236,
+			"ancestor": "-1",
+			"surface": "그의 기소로",
+			"id": 3,
+			"st": 230
+		}
+	],
+	"parID": "10",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 73,
+			"ancestor": "1-3",
+			"coref_index": 283,
+			"surface": "루이스_마운트배튼",
+			"entityName": "루이스_마운트배튼"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"City",
+				"Place"
+			],
+			"st": 77,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 81,
+			"ancestor": "1-1",
+			"coref_index": 275,
+			"surface": "싱가포르",
+			"entityName": "싱가포르"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 109,
+			"ancestor": "7-13",
+			"coref_index": 284,
+			"surface": "데라우치_히사이치",
+			"entityName": "데라우치_히사이치"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 118,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 127,
+			"ancestor": "9-1",
+			"coref_index": 286,
+			"surface": "이타가키_세이시로",
+			"entityName": "이타가키_세이시로"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 131,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 134,
+			"ancestor": "7-1",
+			"coref_index": 282,
+			"surface": "일본군",
+			"entityName": "일본군"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 5,
+			"ne_type": "TIME",
+			"en": 31,
+			"ancestor": "",
+			"surface": "1945년_9월_12일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 16,
+			"ancestor": "-1",
+			"surface": "싱가포르_시청",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 150,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "PERSON",
+			"en": 158,
+			"ancestor": "10-2",
+			"coref_index": 284,
+			"surface": "데라우치_사령관",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 179,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ORGANIZATION",
+			"en": 188,
+			"ancestor": "-1",
+			"surface": "영국_군사_행정부",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 190,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 194,
+			"ancestor": "1-1",
+			"coref_index": 275,
+			"surface": "싱가포르",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 201,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 209,
+			"ancestor": "",
+			"surface": "1946년_3월",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 224,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 228,
+			"ancestor": "10-3",
+			"coref_index": 286,
+			"surface": "이타가키",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 242,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "LOCATION",
+			"en": 244,
+			"ancestor": "7-11",
+			"coref_index": 285,
+			"surface": "일본",
+			"entityName": ""
+		}
+	],
+	"plainText": "공식적인 항복은 싱가포르_시청에서 1945년_9월_12일에 이루어졌다. 동남아시아 사령부의 연합군 최고사령관이었던 루이스_마운트배튼 경은 싱가포르를 방문해 남방군의 총사령관이었던 데라우치_히사이치를 대신해서 온 이타가키_세이시로로부터 일본군의 공식적인 항복을 받았다. 데라우치_사령관은 오래 전부터 뇌졸증을 앓고 있었다.영국_군사_행정부가 싱가포르에 들어서서 1946년_3월까지 그 지역을 지배했다. 이타가키는 그의 기소로 인해 곧 일본으로 떠났다."
+}

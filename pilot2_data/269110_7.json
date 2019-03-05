@@ -1,0 +1,123 @@
+{
+	"docID": "269110",
+	"globalSID": "1522160",
+	"pronouns": [],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"Writer",
+				"Agent",
+				"Person",
+				"Artist"
+			],
+			"st": 4,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "1-0",
+			"coref_index": 374,
+			"surface": "정호승",
+			"entityName": "정호승"
+		},
+		{
+			"kbox_types": [
+				"Actor",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 15,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 18,
+			"ancestor": "-1",
+			"surface": "양희은",
+			"entityName": "양희은"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist"
+			],
+			"st": 21,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "안치환",
+			"entityName": "안치환"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Agent",
+				"Person",
+				"MusicalArtist",
+				"Artist",
+				"Profession"
+			],
+			"st": 27,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "가수",
+			"entityName": "가수"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "음반",
+			"entityName": "음반"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 39,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "EVENT",
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "창작",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 35,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "EVENT",
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "노래",
+			"entityName": ""
+		}
+	],
+	"plainText": "한편, 정호승의 몇몇 시는 양희은이나 안치환 등 가수들에 의해 노래로 창작되어 음반으로 출시되기도 했다."
+}

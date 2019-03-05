@@ -1,0 +1,38 @@
+{
+	"docID": "157225",
+	"globalSID": "1063923,1063924",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 13,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 24,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1984년_7월_7일"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 26,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 33,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이탈리아_로마",
+			"coref_index": 231
+		}
+	],
+	"plainText": "알베르토 아퀼라니 (, 1984년_7월_7일, 이탈리아_로마 ~ )는 이탈리아의 축구 선수이다. 포지션은 중앙 미드필더이고, 현재 세리에 A의 사수올로에서 뛰고 있다."
+}

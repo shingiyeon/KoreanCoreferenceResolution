@@ -1,0 +1,151 @@
+{
+	"docID": "39380",
+	"globalSID": "370756",
+	"pronouns": [
+		{
+			"en": 99,
+			"ancestor": "-1",
+			"surface": "이 기록은",
+			"id": 0,
+			"st": 94
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 5,
+			"ancestor": "",
+			"surface": "2005년",
+			"entityName": "2005년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 16,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 19,
+			"ancestor": "1-2",
+			"coref_index": 520,
+			"surface": "내야수",
+			"entityName": "내야수"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 55,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 63,
+			"ancestor": "2-1",
+			"coref_index": 519,
+			"surface": "KIA_타이거즈",
+			"entityName": "KIA_타이거즈"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 86,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 89,
+			"ancestor": "-1",
+			"surface": "심정수",
+			"entityName": "심정수"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 100,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 4,
+			"ne_type": "TIME",
+			"en": 105,
+			"ancestor": "",
+			"surface": "2011년",
+			"entityName": "2011년"
+		},
+		{
+			"kbox_types": [
+				"Athlete",
+				"Agent",
+				"Person",
+				"BaseballPlayer"
+			],
+			"st": 106,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 109,
+			"ancestor": "-1",
+			"surface": "이택근",
+			"entityName": "이택근"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 116,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 123,
+			"ancestor": "-1",
+			"surface": "넥센_히어로즈",
+			"entityName": "넥센_히어로즈"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 11,
+			"ancestor": "-1",
+			"surface": "FA_자격",
+			"entityName": ""
+		}
+	],
+	"plainText": "2005년 FA_자격을 얻어 내야수로서는 역대 2번째로 높은 액수인 38억 원(옵션 제외)을 받고 KIA_타이거즈에 잔류했다.(야수 역대 최고액 계약자는 심정수이다.) 이 기록은 2011년 이택근이 친정 팀 넥센_히어로즈에 총액 50억 원의 조건으로 복귀하면서 경신한다.."
+}

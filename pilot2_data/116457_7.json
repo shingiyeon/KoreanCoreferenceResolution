@@ -1,0 +1,398 @@
+{
+	"docID": "116457",
+	"globalSID": "852848,852849,852850,852851,852852,852853,852854,852855",
+	"pronouns": [
+		{
+			"st": 12,
+			"coref_index": 81,
+			"id": 0,
+			"en": 14,
+			"ancestor": "7-0",
+			"surface": "각자"
+		},
+		{
+			"en": 20,
+			"ancestor": "-1",
+			"surface": "각자의 공동체의",
+			"id": 1,
+			"st": 12
+		},
+		{
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "각자의 공동체의 창시자에",
+			"id": 2,
+			"st": 12
+		},
+		{
+			"en": 38,
+			"ancestor": "-1",
+			"surface": "각자의 공동체의 창시자에 의해 지명되었을 것으로",
+			"id": 3,
+			"st": 12
+		},
+		{
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "다른 지역에서",
+			"id": 4,
+			"st": 53
+		},
+		{
+			"st": 140,
+			"coref_index": 83,
+			"id": 5,
+			"en": 142,
+			"ancestor": "7-13",
+			"surface": "그들"
+		},
+		{
+			"en": 164,
+			"ancestor": "-1",
+			"surface": "그 대신에",
+			"id": 6,
+			"st": 159
+		},
+		{
+			"st": 165,
+			"coref_index": 83,
+			"id": 7,
+			"en": 167,
+			"ancestor": "7-13",
+			"surface": "그들"
+		},
+		{
+			"en": 187,
+			"ancestor": "-1",
+			"surface": "그 대신에 그들에게는 교황을 결정하여 승인할 권리를",
+			"id": 8,
+			"st": 159
+		}
+	],
+	"parID": "7",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 7,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 9,
+			"ancestor": "-1",
+			"coref_index": 81,
+			"surface": "주교",
+			"entityName": "주교"
+		},
+		{
+			"kbox_types": [
+				"PersonFunction",
+				"Profession"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "사제",
+			"entityName": "사제"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 65,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 68,
+			"ancestor": "2-2",
+			"coref_index": 80,
+			"surface": "평신도",
+			"entityName": "평신도"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 73,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "교구",
+			"entityName": "교구_(기독교)"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 77,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 79,
+			"ancestor": "7-0",
+			"coref_index": 81,
+			"surface": "주교",
+			"entityName": "주교"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 291,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 293,
+			"ancestor": "-1",
+			"surface": "고대",
+			"entityName": "고대"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 346,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 351,
+			"ancestor": "-1",
+			"coref_index": 87,
+			"surface": "대립_교황",
+			"entityName": "대립_교황"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 3,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 5,
+			"ancestor": "-1",
+			"surface": "교회",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "PERSON",
+			"en": 24,
+			"ancestor": "-1",
+			"surface": "창시자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 49,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 51,
+			"ancestor": "2-0",
+			"coref_index": 82,
+			"surface": "로마",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 56,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 58,
+			"ancestor": "-1",
+			"surface": "지역",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 109,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 111,
+			"ancestor": "2-4",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 126,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 128,
+			"ancestor": "-1",
+			"surface": "사람",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 130,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 13,
+			"ne_type": "PERSON",
+			"en": 133,
+			"ancestor": "2-1",
+			"coref_index": 83,
+			"surface": "성직자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 171,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "PERSON",
+			"en": 173,
+			"ancestor": "7-11",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 217,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "PERSON",
+			"en": 219,
+			"ancestor": "7-11",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 220,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "PERSON",
+			"en": 223,
+			"ancestor": "-1",
+			"coref_index": 84,
+			"surface": "후보자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 252,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 254,
+			"ancestor": "7-11",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 261,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 263,
+			"ancestor": "-1",
+			"surface": "민중",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 298,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "LOCATION",
+			"en": 300,
+			"ancestor": "7-9",
+			"coref_index": 82,
+			"surface": "로마",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 309,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "EVENT",
+			"en": 311,
+			"ancestor": "-1",
+			"surface": "선출",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 331,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "PERSON",
+			"en": 334,
+			"ancestor": "7-16",
+			"coref_index": 84,
+			"surface": "후보자",
+			"entityName": ""
+		}
+	],
+	"plainText": "초대 교회의 주교들은 각자의 공동체의 창시자에 의해 지명되었을 것으로 추측된다. 이윽고 로마나 다른 지역에서 사제와 평신도, 이웃 교구의 주교들이 모이고 주교를 결정하는 방법이 취해지게 되었다. 교황으로 선택받을 권리가 있는 사람은 성직자뿐이었지만, 그들에게는 투표권을 주지 않았다. 그 대신에 그들에게는 교황을 결정하여 승인할 권리를 주었다. 주교는 보좌 및 감시 임무를 맡고 있었다. 교황 후보자가 결정되면 평신도의 동의가 요구되고 동의를 받으면 교황이 되었다. 민중이 큰 소리로 동의(또는 거부)의사를 표하는 것은 고대 이래의 로마의 관습이었다. 선출 과정에서 불투명한 부분이 있으면, 후보자들끼리 분란이 일어나 대립_교황이 생기는 일도 자주 있었다."
+}

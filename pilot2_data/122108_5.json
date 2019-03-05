@@ -1,0 +1,109 @@
+{
+	"docID": "122108",
+	"globalSID": "893471,893472",
+	"pronouns": [
+		{
+			"st": 58,
+			"coref_index": 123,
+			"id": 0,
+			"en": 62,
+			"ancestor": "1-5",
+			"surface": "이 제도"
+		},
+		{
+			"st": 58,
+			"coref_index": 124,
+			"id": 1,
+			"en": 72,
+			"ancestor": "5-2",
+			"surface": "이 제도에서 가장 큰 도시"
+		},
+		{
+			"st": 76,
+			"coref_index": 123,
+			"id": 2,
+			"en": 80,
+			"ancestor": "1-5",
+			"surface": "이 지역"
+		},
+		{
+			"en": 92,
+			"st": 76,
+			"surface": "이 지역의 다른 주요 도시로는",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 11,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 16,
+			"ancestor": "3-1",
+			"coref_index": 122,
+			"surface": "아르헨티나",
+			"entityName": "아르헨티나"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 30,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 39,
+			"ancestor": "-1",
+			"surface": "티에라델푸에고_주",
+			"entityName": "티에라델푸에고_주"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace",
+				"City"
+			],
+			"st": 51,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 56,
+			"ancestor": "-1",
+			"coref_index": 124,
+			"surface": "우수아이아",
+			"entityName": "우수아이아"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 107,
+			"ancestor": "-1",
+			"surface": "리오_그란데",
+			"entityName": "리오_그란데"
+		}
+	],
+	"plainText": "제도의 동쪽 부분은 아르헨티나에 속하는데, 아르헨티나 티에라델푸에고_주의 일부이며, 주도는 우수아이아로 이 제도에서 가장 큰 도시이다. 이 지역의 다른 주요 도시로는 대서양 연안의 리오_그란데가 있다."
+}

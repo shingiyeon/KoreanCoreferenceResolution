@@ -1,0 +1,222 @@
+{
+	"docID": "132777",
+	"globalSID": "953539,953540,953541,953542,953543",
+	"pronouns": [
+		{
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "나",
+			"id": 0,
+			"st": 32
+		},
+		{
+			"en": 41,
+			"ancestor": "-1",
+			"surface": "나 마이너차겐에서",
+			"id": 1,
+			"st": 32
+		},
+		{
+			"st": 54,
+			"coref_index": 184,
+			"id": 2,
+			"en": 55,
+			"ancestor": "3-3",
+			"surface": "그"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "프라이버시",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 3,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "사생활"
+		},
+		{
+			"kbox_types": [
+				"Town",
+				"PopulatedPlace",
+				"Settlement",
+				"Town",
+				"Place"
+			],
+			"st": 8,
+			"eType": "WIKILINK",
+			"entityName": "뤼덴샤이트",
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 13,
+			"ancestor": "1-2",
+			"is_target": true,
+			"surface": "뤼덴샤이트",
+			"coref_index": 186
+		},
+		{
+			"kbox_types": [
+				"EthnicGroup"
+			],
+			"st": 19,
+			"eType": "WIKILINK",
+			"entityName": "터키인",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 22,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "터키계"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 34,
+			"eType": "WIKILINK",
+			"entityName": "마이너차겐",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 39,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "마이너차겐"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PopulatedPlace",
+				"Place",
+				"Settlement"
+			],
+			"st": 113,
+			"eType": "WIKILINK",
+			"entityName": "마드리드",
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 117,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "마드리드"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 130,
+			"eType": "WIKILINK",
+			"entityName": "터키어",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 133,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "터키어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 135,
+			"eType": "WIKILINK",
+			"entityName": "독일어",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 138,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "독일어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 140,
+			"eType": "WIKILINK",
+			"entityName": "영어",
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 142,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "영어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 144,
+			"eType": "WIKILINK",
+			"entityName": "네덜란드어",
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 149,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "네덜란드어"
+		},
+		{
+			"kbox_types": [
+				"Language"
+			],
+			"st": 155,
+			"eType": "WIKILINK",
+			"entityName": "스페인어",
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 159,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "스페인어"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "TIME",
+			"en": 81,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2007년_11월"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 70,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "투우바_에메니-샤힌"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 89,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 97,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "2011년_9월"
+		}
+	],
+	"plainText": "사생활 샤힌은 뤼덴샤이트 출신으로 터키계 부모님 사이에서 나 마이너차겐에서 유년 시절을 보냈다. 그는 사촌 투우바_에메니-샤힌과 2007년_11월에 결혼했다. 2011년_9월, 둘 사이에 아들 외메르가 마드리드에서 출생했다. 샤힌은 터키어, 독일어, 영어, 네덜란드어, 그리고 스페인어의 5개국어를 유창히 구사할 수 있다."
+}

@@ -1,0 +1,198 @@
+{
+	"docID": "87587",
+	"globalSID": "681195,681196",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 0,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "PERSON",
+			"en": 3,
+			"ancestor": "-1",
+			"coref_index": 1081,
+			"surface": "송금선",
+			"entityName": "송금선"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"University"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 92,
+			"ancestor": "-1",
+			"surface": "한국",
+			"entityName": "한국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 15,
+			"ancestor": "-1",
+			"surface": "일본식_이름",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 22,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "PERSON",
+			"en": 30,
+			"ancestor": "1-0",
+			"coref_index": 1081,
+			"surface": "후쿠자와_레이코",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 4,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 7,
+			"ancestor": "-1",
+			"surface": "宋今璇",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 17,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 21,
+			"ancestor": "-1",
+			"surface": "福澤玲子",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 33,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 6,
+			"ne_type": "TIME",
+			"en": 45,
+			"ancestor": "",
+			"surface": "1905년_1월_15일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 48,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 7,
+			"ne_type": "TIME",
+			"en": 61,
+			"ancestor": "",
+			"surface": "1987년_10월_24일",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 63,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "ETC",
+			"en": 69,
+			"ancestor": "-1",
+			"surface": "한성부_출생",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 85,
+			"ancestor": "-1",
+			"surface": "덕성여자대학교_초대_학장",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 94,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 97,
+			"ancestor": "-1",
+			"surface": "교육자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 101,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 103,
+			"ancestor": "-1",
+			"surface": "아호",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 105,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "PERSON",
+			"en": 111,
+			"ancestor": "1-0",
+			"coref_index": 1081,
+			"surface": "남해(南海)",
+			"entityName": ""
+		}
+	],
+	"plainText": "송금선(宋今璇, 일본식_이름: 福澤玲子(후쿠자와_레이코), 1905년_1월_15일 ~ 1987년_10월_24일, 한성부_출생)은 덕성여자대학교_초대_학장을 지낸 한국의 교육자이다. 아호는 남해(南海)."
+}

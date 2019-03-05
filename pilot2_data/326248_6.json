@@ -1,0 +1,208 @@
+{
+	"docID": "326248",
+	"globalSID": "1729454,1729455,1729456",
+	"pronouns": [
+		{
+			"en": 31,
+			"ancestor": "-1",
+			"surface": "해인",
+			"id": 0,
+			"st": 29
+		},
+		{
+			"en": 37,
+			"ancestor": "-1",
+			"surface": "해인 1592년",
+			"id": 1,
+			"st": 29
+		},
+		{
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "발발한 해인 1592년 음력_6월_2일에 벌어진 당포_해전에서",
+			"id": 2,
+			"st": 25
+		},
+		{
+			"en": 104,
+			"ancestor": "-1",
+			"surface": "이는",
+			"id": 3,
+			"st": 102
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 19,
+			"eType": "ELU",
+			"entityName": "임진왜란",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 23,
+			"ancestor": "5-6",
+			"is_target": true,
+			"surface": "임진왜란",
+			"coref_index": 455
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 32,
+			"eType": "WIKILINK",
+			"entityName": "1592년",
+			"id": 1,
+			"ne_type": "TIME",
+			"en": 37,
+			"ancestor": "",
+			"is_target": false,
+			"surface": "1592년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "WIKILINK",
+			"entityName": "음력_6월_2일",
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 46,
+			"ancestor": "1-9",
+			"is_target": true,
+			"surface": "음력_6월_2일",
+			"coref_index": 456
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 52,
+			"eType": "WIKILINK",
+			"entityName": "당포_해전",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 57,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "당포_해전"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"st": 71,
+			"eType": "WIKILINK",
+			"entityName": "권준_(1541년)",
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 73,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "권준"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"MilitaryPerson"
+			],
+			"st": 115,
+			"eType": "WIKILINK",
+			"entityName": "이순신",
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 118,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "이순신"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 197,
+			"eType": "WIKILINK",
+			"entityName": "당항포_해전",
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 203,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "당항포_해전"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Island",
+				"PopulatedPlace"
+			],
+			"st": 349,
+			"eType": "ELU",
+			"entityName": "시코쿠",
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 352,
+			"ancestor": "5-7",
+			"is_target": true,
+			"surface": "시코쿠",
+			"coref_index": 453
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 8,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "한국"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 12,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "일본"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 60,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 62,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "조선"
+		}
+	],
+	"plainText": "사망 시기 한국과 일본에서는 모두 임진왜란이 발발한 해인 1592년 음력_6월_2일에 벌어진 당포_해전에서 조선 수군의 중위장 권준(權晙)의 화살에 맞고 전사했다는 설이 지배적이다. 이는 당포 해전에 대해 이순신(李舜臣)이 작성한 보고서인 「당포파왜병장」(唐浦破倭兵?)에서 당포 해전 당시 30세 정도의 「기력이 강하고 건장한」(氣力强壯)한 인물이나, 당항포_해전에서 24, 5세의 「생김새가 괴위」(容貌魁偉)한 젊은 무장이 죽었다는 기술, 그리고 성립에 대해 불확실한 부분이 있는 도노오카 진자에몬(外岡甚左衛門)이라는 무장이 지은 「고려선전기」(高麗船戰記)에서 6월 7일에 해전에서 패하고 섬에서 농성하다 스스로 자결한 「시코쿠의 시마노카미」(四?志摩守) 각 인물을 직접 관련성이 없이 도쿠이 미치유키로 적용한 것으로, 모두 미치유키라 분명히 명기되지는 않은 사료에 의거한 설이라는 야마우치 유즈루(山??)의 지적이 있다."
+}

@@ -1,0 +1,873 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "유니스_케네디_슈라이버",
+			"en": 12,
+			"is_target": true,
+			"surface": "유니스_케네디_슈라이버",
+			"coref_index": 511,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 1,
+			"ne_type": "TIME",
+			"st": 15,
+			"eType": "WIKILINK",
+			"entityName": "1921년",
+			"en": 20,
+			"is_target": false,
+			"surface": "1921년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "TIME",
+			"st": 21,
+			"eType": "WIKILINK",
+			"entityName": "7월_10일",
+			"en": 27,
+			"is_target": false,
+			"surface": "7월_10일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 3,
+			"ne_type": "TIME",
+			"st": 30,
+			"eType": "WIKILINK",
+			"entityName": "2009년",
+			"en": 35,
+			"is_target": false,
+			"surface": "2009년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "TIME",
+			"st": 36,
+			"eType": "WIKILINK",
+			"entityName": "8월_11일",
+			"en": 42,
+			"is_target": false,
+			"surface": "8월_11일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 5,
+			"ne_type": "LOCATION",
+			"st": 45,
+			"eType": "WIKILINK",
+			"entityName": "미국",
+			"en": 47,
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 517,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 6,
+			"ne_type": "PERSON",
+			"st": 76,
+			"eType": "ELU",
+			"entityName": "존_F._케네디",
+			"en": 79,
+			"is_target": true,
+			"surface": "케네디",
+			"coref_index": 513,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "ETC",
+			"st": 81,
+			"eType": "ELU",
+			"entityName": "형제자매",
+			"en": 84,
+			"is_target": true,
+			"surface": "여동생",
+			"coref_index": 511,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Actor",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"Artist",
+				"President"
+			],
+			"id": 8,
+			"ne_type": "PERSON",
+			"st": 102,
+			"eType": "ELU",
+			"entityName": "아널드_슈워제네거",
+			"en": 111,
+			"is_target": true,
+			"surface": "아널드_슈워제네거",
+			"coref_index": 518,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"id": 9,
+			"ne_type": "LOCATION",
+			"st": 119,
+			"eType": "WIKILINK",
+			"entityName": "매사추세츠_주",
+			"en": 126,
+			"is_target": true,
+			"surface": "매사추세츠_주",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "ETC",
+			"st": 129,
+			"eType": "WIKILINK",
+			"entityName": "조지프_패트릭_케네디",
+			"en": 140,
+			"is_target": true,
+			"surface": "조지프_패트릭_케네디",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"id": 11,
+			"ne_type": "ORGANIZATION",
+			"st": 159,
+			"eType": "WIKILINK",
+			"entityName": "스탠퍼드_대학교",
+			"en": 167,
+			"is_target": true,
+			"surface": "스탠퍼드_대학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"AcademicSubject",
+				"TopicalConcept"
+			],
+			"id": 12,
+			"ne_type": "ETC",
+			"st": 170,
+			"eType": "WIKILINK",
+			"entityName": "사회학",
+			"en": 173,
+			"is_target": true,
+			"surface": "사회학",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"GovernmentAgency",
+				"Organisation"
+			],
+			"id": 13,
+			"ne_type": "ORGANIZATION",
+			"st": 181,
+			"eType": "WIKILINK",
+			"entityName": "미국_국무부",
+			"en": 184,
+			"is_target": true,
+			"surface": "국무부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"GovernmentAgency",
+				"Organisation"
+			],
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"st": 186,
+			"eType": "WIKILINK",
+			"entityName": "미국_법무부",
+			"en": 189,
+			"is_target": true,
+			"surface": "법무부",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 15,
+			"ne_type": "TIME",
+			"st": 198,
+			"eType": "WIKILINK",
+			"entityName": "1953년",
+			"en": 203,
+			"is_target": false,
+			"surface": "1953년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 16,
+			"ne_type": "PERSON",
+			"st": 204,
+			"eType": "WIKILINK",
+			"entityName": "사전트_슈라이버",
+			"en": 212,
+			"is_target": true,
+			"surface": "사전트_슈라이버",
+			"coref_index": 512,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 17,
+			"ne_type": "PERSON",
+			"st": 234,
+			"eType": "ELU",
+			"entityName": "사전트_슈라이버",
+			"en": 242,
+			"is_target": true,
+			"surface": "사전트_슈라이버",
+			"coref_index": 512,
+			"ancestor": "1-16"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 18,
+			"ne_type": "PERSON",
+			"st": 252,
+			"eType": "ELU",
+			"entityName": "존_F._케네디",
+			"en": 255,
+			"is_target": true,
+			"surface": "케네디",
+			"coref_index": 513,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"President"
+			],
+			"id": 19,
+			"ne_type": "PERSON",
+			"st": 274,
+			"eType": "ELU",
+			"entityName": "존_F._케네디",
+			"en": 277,
+			"is_target": true,
+			"surface": "케네디",
+			"coref_index": 513,
+			"ancestor": "1-6"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 20,
+			"ne_type": "TIME",
+			"st": 279,
+			"eType": "WIKILINK",
+			"entityName": "1960년",
+			"en": 284,
+			"is_target": false,
+			"surface": "1960년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Election",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 21,
+			"ne_type": "ETC",
+			"st": 285,
+			"eType": "WIKILINK",
+			"entityName": "1960년_미국_대통령_선거",
+			"en": 291,
+			"is_target": true,
+			"surface": "대통령_선거",
+			"coref_index": 514,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 314,
+			"eType": "ELU",
+			"entityName": "사전트_슈라이버",
+			"en": 322,
+			"is_target": true,
+			"surface": "사전트_슈라이버",
+			"coref_index": 512,
+			"ancestor": "1-17"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 23,
+			"ne_type": "TIME",
+			"st": 324,
+			"eType": "WIKILINK",
+			"entityName": "1972년",
+			"en": 329,
+			"is_target": false,
+			"surface": "1972년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Election",
+				"Event",
+				"SocietalEvent"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 330,
+			"eType": "WIKILINK",
+			"entityName": "1972년_미국_대통령_선거",
+			"en": 336,
+			"is_target": true,
+			"surface": "대통령_선거",
+			"coref_index": 514,
+			"ancestor": "1-21"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"PoliticalParty",
+				"Organisation"
+			],
+			"id": 25,
+			"ne_type": "ORGANIZATION",
+			"st": 339,
+			"eType": "WIKILINK",
+			"entityName": "민주당_(미국)",
+			"en": 342,
+			"is_target": true,
+			"surface": "민주당",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 343,
+			"eType": "WIKILINK",
+			"entityName": "미국의_부통령",
+			"en": 346,
+			"is_target": true,
+			"surface": "부통령",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "PERSON",
+			"st": 293,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 296,
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 516,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 28,
+			"ne_type": "TIME",
+			"st": 398,
+			"eType": "WIKILINK",
+			"entityName": "1963년",
+			"en": 403,
+			"is_target": false,
+			"surface": "1963년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 29,
+			"ne_type": "ETC",
+			"st": 405,
+			"eType": "WIKILINK",
+			"entityName": "미국_국립_보건원",
+			"en": 411,
+			"is_target": true,
+			"surface": "국립_보건원",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 30,
+			"ne_type": "TIME",
+			"st": 521,
+			"eType": "WIKILINK",
+			"entityName": "1968년",
+			"en": 526,
+			"is_target": false,
+			"surface": "1968년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Non-ProfitOrganisation",
+				"Agent",
+				"Organisation"
+			],
+			"id": 31,
+			"ne_type": "ORGANIZATION",
+			"st": 542,
+			"eType": "WIKILINK",
+			"entityName": "스페셜_올림픽",
+			"en": 549,
+			"is_target": true,
+			"surface": "스페셜_올림픽",
+			"coref_index": 515,
+			"ancestor": "1-35"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 624,
+			"eType": "WIKILINK",
+			"entityName": "로즈매리_케네디",
+			"en": 632,
+			"is_target": true,
+			"surface": "로즈매리_케네디",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "PERSON",
+			"st": 387,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 390,
+			"is_target": true,
+			"surface": "대통령",
+			"coref_index": 516,
+			"ancestor": "1-27"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ORGANIZATION",
+			"st": 415,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 428,
+			"is_target": true,
+			"surface": "국립아동보건인간개발연구소",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "EVENT",
+			"st": 527,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 541,
+			"is_target": true,
+			"surface": "정신지체_장애인_특수올림픽",
+			"coref_index": 515,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 36,
+			"ne_type": "TIME",
+			"st": 684,
+			"eType": "WIKILINK",
+			"entityName": "1984년",
+			"en": 689,
+			"is_target": false,
+			"surface": "1984년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 710,
+			"eType": "WIKILINK",
+			"entityName": "대통령_자유_메달",
+			"en": 719,
+			"is_target": true,
+			"surface": "대통령_자유_메달",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 653,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 658,
+			"is_target": true,
+			"surface": "사회_사업",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "LOCATION",
+			"st": 690,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 692,
+			"is_target": true,
+			"surface": "미국",
+			"coref_index": 517,
+			"ancestor": "1-5"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "PERSON",
+			"st": 695,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 698,
+			"is_target": true,
+			"surface": "민간인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ETC",
+			"st": 706,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 708,
+			"is_target": true,
+			"surface": "훈장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person",
+				"OfficeHolder"
+			],
+			"id": 42,
+			"ne_type": "PERSON",
+			"st": 731,
+			"eType": "WIKILINK",
+			"entityName": "마리아_슈라이버",
+			"en": 739,
+			"is_target": true,
+			"surface": "마리아_슈라이버",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 43,
+			"ne_type": "LOCATION",
+			"st": 741,
+			"eType": "WIKILINK",
+			"entityName": "오스트리아",
+			"en": 746,
+			"is_target": true,
+			"surface": "오스트리아",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Region",
+				"PopulatedPlace",
+				"AdministrativeRegion",
+				"Place",
+				"Settlement",
+				"AdministrativeRegion"
+			],
+			"id": 44,
+			"ne_type": "LOCATION",
+			"st": 761,
+			"eType": "WIKILINK",
+			"entityName": "캘리포니아_주",
+			"en": 770,
+			"is_target": true,
+			"surface": "캘리포니아_주지사",
+			"coref_index": 518,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"Politician",
+				"Actor",
+				"Agent",
+				"Person",
+				"OfficeHolder",
+				"Artist",
+				"President"
+			],
+			"id": 45,
+			"ne_type": "PERSON",
+			"st": 772,
+			"eType": "WIKILINK",
+			"entityName": "아널드_슈워제네거",
+			"en": 781,
+			"is_target": true,
+			"surface": "아널드_슈워제네거",
+			"coref_index": 518,
+			"ancestor": "1-8"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "PERSON",
+			"st": 751,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 756,
+			"is_target": true,
+			"surface": "영화_배우",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "PERSON",
+			"st": 783,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 785,
+			"is_target": true,
+			"surface": "부인",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "PERSON",
+			"st": 729,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 730,
+			"is_target": true,
+			"surface": "딸",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "1856362,1856363,1856364,1856365,1856366,1856367,1856368,1856369,1856370,1856371,1856372,1856373,1856374,1856375",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-0",
+			"st": 76,
+			"en": 84,
+			"surface": "케네디의 여동생",
+			"coref_index": 511
+		},
+		{
+			"id": 1,
+			"en": 118,
+			"ancestor": "-1",
+			"st": 76,
+			"surface": "케네디의 여동생이며, 영화 배우 출신의 정치인 아널드_슈워제네거의 장모이다."
+		},
+		{
+			"id": 2,
+			"ancestor": "1-0",
+			"st": 363,
+			"en": 364,
+			"surface": "그",
+			"coref_index": 511
+		},
+		{
+			"id": 3,
+			"ancestor": "1-0",
+			"st": 558,
+			"en": 559,
+			"surface": "그",
+			"coref_index": 511
+		},
+		{
+			"id": 4,
+			"en": 573,
+			"ancestor": "-1",
+			"st": 558,
+			"surface": "그의 장애인 후원 사업 활동"
+		},
+		{
+			"id": 5,
+			"ancestor": "1-0",
+			"st": 663,
+			"en": 664,
+			"surface": "그",
+			"coref_index": 511
+		},
+		{
+			"id": 6,
+			"en": 674,
+			"surface": "그의 헌신적인 활동에",
+			"st": 663,
+			"ancestor": "-1"
+		},
+		{
+			"id": 7,
+			"en": 683,
+			"surface": "그의 헌신적인 활동에 대한 공적으로,",
+			"st": 663,
+			"ancestor": "-1"
+		},
+		{
+			"id": 8,
+			"ancestor": "1-0",
+			"st": 726,
+			"en": 727,
+			"surface": "그",
+			"coref_index": 511
+		},
+		{
+			"id": 9,
+			"en": 730,
+			"surface": "그의 딸",
+			"st": 726,
+			"ancestor": "-1"
+		},
+		{
+			"id": 10,
+			"en": 739,
+			"surface": "그의 딸 마리아_슈라이버",
+			"st": 726,
+			"ancestor": "-1"
+		}
+	],
+	"plainText": "유니스_케네디_슈라이버(, 1921년 7월_10일 ~ 2009년 8월_11일)는 미국의 여성 사회 사업가이다. 제35대 대통령 존 F. 케네디의 여동생이며, 영화 배우 출신의 정치인 아널드_슈워제네거의 장모이다. 매사추세츠_주에서 조지프_패트릭_케네디의 9남매 중 다섯째로 태어났다. 스탠퍼드_대학교에서 사회학을 전공한 후 국무부와 법무부에서 근무했다. 1953년 사전트_슈라이버와 결혼하여 다섯 자녀를 낳았다. 남편 사전트_슈라이버와 오빠 존 F. 케네디의 정치 활동을 도왔다. 존 F. 케네디는 1960년 대통령_선거에 대통령 후보로 출마하여 당선되었으며, 사전트_슈라이버는 1972년 대통령_선거에서 민주당 부통령 후보였으나 당선되지 못했다. 그는 사회 사업에 큰 관심을 가져, 오빠가 대통령으로 재직하던 1963년, 국립_보건원 산하 국립아동보건인간개발연구소(National Institute of Child Health and Human Development) 창립을 주도하였으며, 장애인 후원 사업에 적극적으로 활동하여 1968년 정신지체_장애인_특수올림픽(스페셜_올림픽)을 창설했다. 그의 장애인 후원 사업 활동에는 어린 시절 입은 뇌손상으로 정신 지체인이 된 언니(케네디 대통령의 바로 아래 동생)인 로즈매리_케네디의 영향 때문인 것으로 알려져 있다. 사회_사업에 대한 그의 헌신적인 활동에 대한 공적으로, 1984년 미국에서 민간인으로는 최고의 훈장인 대통령_자유_메달을 받았다. 그의 딸 마리아_슈라이버는 오스트리아 출신의 영화_배우로 현재 캘리포니아_주지사인 아널드_슈워제네거의 부인이다. ",
+	"docID": "365280"
+}

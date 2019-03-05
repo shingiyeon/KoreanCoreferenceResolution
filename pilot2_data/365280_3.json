@@ -1,0 +1,152 @@
+{
+	"docID": "365280",
+	"globalSID": "1856372,1856373",
+	"pronouns": [
+		{
+			"st": 0,
+			"coref_index": 511,
+			"id": 0,
+			"en": 1,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"st": 195,
+			"coref_index": 511,
+			"id": 1,
+			"en": 196,
+			"ancestor": "1-0",
+			"surface": "그"
+		},
+		{
+			"en": 210,
+			"ancestor": "-1",
+			"surface": "그의 장애인 후원 사업 활동",
+			"id": 2,
+			"st": 195
+		}
+	],
+	"parID": "3",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 40,
+			"ancestor": "",
+			"surface": "1963년",
+			"entityName": "1963년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 42,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 48,
+			"ancestor": "-1",
+			"surface": "국립_보건원",
+			"entityName": "미국_국립_보건원"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 158,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 163,
+			"ancestor": "",
+			"surface": "1968년",
+			"entityName": "1968년"
+		},
+		{
+			"kbox_types": [
+				"Non-ProfitOrganisation",
+				"Agent",
+				"Organisation"
+			],
+			"st": 179,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 186,
+			"ancestor": "3-7",
+			"coref_index": 515,
+			"surface": "스페셜_올림픽",
+			"entityName": "스페셜_올림픽"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 261,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 269,
+			"ancestor": "-1",
+			"surface": "로즈매리_케네디",
+			"entityName": "로즈매리_케네디"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 24,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "PERSON",
+			"en": 27,
+			"ancestor": "2-18",
+			"coref_index": 516,
+			"surface": "대통령",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 52,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 65,
+			"ancestor": "-1",
+			"surface": "국립아동보건인간개발연구소",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 164,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 178,
+			"ancestor": "-1",
+			"coref_index": 515,
+			"surface": "정신지체_장애인_특수올림픽",
+			"entityName": ""
+		}
+	],
+	"plainText": "그는 사회 사업에 큰 관심을 가져, 오빠가 대통령으로 재직하던 1963년, 국립_보건원 산하 국립아동보건인간개발연구소(National Institute of Child Health and Human Development) 창립을 주도하였으며, 장애인 후원 사업에 적극적으로 활동하여 1968년 정신지체_장애인_특수올림픽(스페셜_올림픽)을 창설했다. 그의 장애인 후원 사업 활동에는 어린 시절 입은 뇌손상으로 정신 지체인이 된 언니(케네디 대통령의 바로 아래 동생)인 로즈매리_케네디의 영향 때문인 것으로 알려져 있다."
+}

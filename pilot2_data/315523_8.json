@@ -1,0 +1,171 @@
+{
+	"docID": "315523",
+	"globalSID": "1692789",
+	"pronouns": [],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"MetroStation",
+				"ArchitecturalStructure",
+				"Place",
+				"Station",
+				"Place",
+				"Infrastructure",
+				"RailwayStation"
+			],
+			"st": 31,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 34,
+			"ancestor": "1-13",
+			"coref_index": 433,
+			"surface": "반야월",
+			"entityName": "반야월역"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 2,
+			"ancestor": "1-14",
+			"coref_index": 433,
+			"surface": "대구",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 9,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "LOCATION",
+			"en": 12,
+			"ancestor": "-1",
+			"surface": "파군재",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "LOCATION",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "독좌암",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 19,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 21,
+			"ancestor": "-1",
+			"surface": "왕산",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "안심",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 29,
+			"ancestor": "-1",
+			"surface": "해안",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 36,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "LOCATION",
+			"en": 38,
+			"ancestor": "-1",
+			"surface": "백안",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 40,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 42,
+			"ancestor": "-1",
+			"surface": "연경",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 44,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "LOCATION",
+			"en": 46,
+			"ancestor": "-1",
+			"surface": "살내",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 68,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "LOCATION",
+			"en": 71,
+			"ancestor": "-1",
+			"surface": "격전지",
+			"entityName": ""
+		}
+	],
+	"plainText": "대구에는 아직도 파군재, 독좌암, 왕산, 안심, 해안, 반야월, 백안, 연경, 살내 등의 많은 지명이 남아 있어, 당시의 격전지임을 알 수 있다."
+}

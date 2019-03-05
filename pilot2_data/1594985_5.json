@@ -1,0 +1,113 @@
+{
+	"docID": "1594985",
+	"globalSID": "3814759,3814760",
+	"pronouns": [],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 26,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "LOCATION",
+			"en": 33,
+			"ancestor": "-1",
+			"surface": "사우디아라비아",
+			"entityName": "사우디아라비아"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 35,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"en": 38,
+			"ancestor": "-1",
+			"surface": "알힐랄",
+			"entityName": "알힐랄_(리야드)"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 50,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ORGANIZATION",
+			"en": 54,
+			"ancestor": "-1",
+			"surface": "알아흘리",
+			"entityName": "알아흘리_(두바이)"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 56,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ORGANIZATION",
+			"en": 59,
+			"ancestor": "-1",
+			"surface": "알와슬",
+			"entityName": "알와슬_FC"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 64,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "LOCATION",
+			"en": 67,
+			"ancestor": "-1",
+			"surface": "멕시코",
+			"entityName": "멕시코"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 69,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "크루스_아술",
+			"entityName": "크루스_아술"
+		}
+	],
+	"plainText": "2011년 8월 11일 6백만 달러의 이적료에 사우디아라비아의 알힐랄로 이적하였다. 이후 알아흘리와 알와슬을 거쳐 멕시코의 크루스_아술로 이적하였다."
+}

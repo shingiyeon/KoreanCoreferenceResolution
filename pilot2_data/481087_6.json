@@ -1,0 +1,257 @@
+{
+	"docID": "481087",
+	"globalSID": "2129023,2129024,2129025,2129026,2129027",
+	"pronouns": [
+		{
+			"st": 124,
+			"coref_index": 607,
+			"id": 0,
+			"en": 126,
+			"ancestor": "1-0",
+			"surface": "자신"
+		},
+		{
+			"en": 321,
+			"st": 319,
+			"surface": "이곳",
+			"id": 1,
+			"ancestor": "-1"
+		},
+		{
+			"en": 326,
+			"st": 319,
+			"surface": "이곳의 보루를",
+			"id": 2,
+			"ancestor": "-1"
+		},
+		{
+			"en": 345,
+			"st": 319,
+			"surface": "이곳의 보루를 사력을 다해 방어하던 도중 포탄을",
+			"id": 3,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "6",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 14,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 17,
+			"ancestor": "-1",
+			"surface": "아라곤",
+			"entityName": "아라곤"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Place",
+				"Settlement",
+				"PopulatedPlace"
+			],
+			"st": 44,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 49,
+			"ancestor": "-1",
+			"surface": "바르셀로나",
+			"entityName": "바르셀로나"
+		},
+		{
+			"kbox_types": [
+				"MilitaryConflict",
+				"Event",
+				"SocietalEvent"
+			],
+			"st": 59,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "비토리아",
+			"entityName": "비토리아_전투"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 66,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 72,
+			"ancestor": "-1",
+			"surface": "웰링턴_공작",
+			"entityName": "웰링턴_공작_1세_아서_웰즐리"
+		},
+		{
+			"kbox_types": [
+				"Currency"
+			],
+			"st": 74,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ETC",
+			"en": 84,
+			"ancestor": "-1",
+			"surface": "프랑스_남부_침공을",
+			"entityName": "프랑스_프랑"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 92,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "LOCATION",
+			"en": 95,
+			"ancestor": "2-6",
+			"coref_index": 609,
+			"surface": "프랑스",
+			"entityName": "프랑스"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 103,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "LOCATION",
+			"en": 106,
+			"ancestor": "2-5",
+			"coref_index": 608,
+			"surface": "스페인",
+			"entityName": "스페인"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 148,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 154,
+			"ancestor": "-1",
+			"surface": "오르테_전투",
+			"entityName": "오르테_전투"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 208,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 8,
+			"ne_type": "LOCATION",
+			"en": 211,
+			"ancestor": "-1",
+			"surface": "타르브",
+			"entityName": "타르브"
+		},
+		{
+			"kbox_types": [
+				"Royalty",
+				"BritishRoyalty",
+				"Agent",
+				"Person"
+			],
+			"st": 232,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "PERSON",
+			"en": 236,
+			"ancestor": "-1",
+			"surface": "나폴레옹",
+			"entityName": "나폴레옹_보나파르트"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 254,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "ETC",
+			"en": 260,
+			"ancestor": "-1",
+			"surface": "툴루즈_전투",
+			"entityName": "툴루즈_전투"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "PERSON",
+			"en": 4,
+			"ancestor": "1-0",
+			"coref_index": 607,
+			"surface": "아리스프",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 12,
+			"ne_type": "TIME",
+			"en": 11,
+			"ancestor": "",
+			"surface": "1813년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 27,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 32,
+			"ancestor": "",
+			"surface": "1814년",
+			"entityName": ""
+		}
+	],
+	"plainText": "아리스프는 1813년까지 아라곤에서 근무한 후, 1814년 술트의 증원군으로써 바르셀로나로 향했다. 이후 비토리아에서 웰링턴_공작의 프랑스_남부_침공을 방어한 후, 프랑스로 퇴각 도중 스페인에 이용되는 것을 방지하기 위해 자신이 태어난 성을 스스로 불태웠다. 이후 오르테_전투(Battle of Orthez)에서 아리스프는 군대의 퇴각을 지원했다. 1814년 3월 20일 타르브에서 포르투갈 사단과 전투를 벌였고, 나폴레옹이 퇴위한 후에도 전투를 계속해 툴루즈_전투(Battle of Toulouse)에서도 활약했다. Calvinet의 고지를 방어하는 임무를 부여받아, 이곳의 보루를 사력을 다해 방어하던 도중 포탄을 다리에 맞아 절단하였다."
+}

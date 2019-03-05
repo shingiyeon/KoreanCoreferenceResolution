@@ -1,0 +1,31 @@
+{
+	"docID": "29534",
+	"globalSID": "278053,278054",
+	"pronouns": [
+		{
+			"en": 14,
+			"st": 6,
+			"surface": "그놈_웹사이트에",
+			"id": 0,
+			"ancestor": "-1"
+		}
+	],
+	"parID": "4",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 6,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 13,
+			"ancestor": "-1",
+			"surface": "그놈_웹사이트",
+			"entityName": ""
+		}
+	],
+	"plainText": "나아갈 길 그놈_웹사이트에 따르면,"
+}

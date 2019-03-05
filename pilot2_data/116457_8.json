@@ -1,0 +1,359 @@
+{
+	"docID": "116457",
+	"globalSID": "852856,852857,852858,852859",
+	"pronouns": [
+		{
+			"en": 75,
+			"ancestor": "-1",
+			"surface": "그 권리를",
+			"id": 0,
+			"st": 70
+		},
+		{
+			"en": 201,
+			"ancestor": "-1",
+			"surface": "누가",
+			"id": 1,
+			"st": 199
+		}
+	],
+	"parID": "8",
+	"entities": [
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 0,
+			"ne_type": "TIME",
+			"en": 4,
+			"ancestor": "",
+			"surface": "769년",
+			"entityName": "769년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 10,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "ETC",
+			"en": 13,
+			"ancestor": "-1",
+			"coref_index": 86,
+			"surface": "시노드",
+			"entityName": "교회회의"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 61,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 2,
+			"ne_type": "ETC",
+			"en": 63,
+			"ancestor": "-1",
+			"surface": "귀족",
+			"entityName": "귀족"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 83,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 3,
+			"ne_type": "TIME",
+			"en": 88,
+			"ancestor": "",
+			"surface": "1059년",
+			"entityName": "1059년"
+		},
+		{
+			"kbox_types": [
+				"Cleric",
+				"Agent",
+				"Person",
+				"ChristianBishop",
+				"Pope"
+			],
+			"st": 90,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "PERSON",
+			"en": 100,
+			"ancestor": "-1",
+			"surface": "교황_니콜라오_2세",
+			"entityName": "교황_니콜라오_2세"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 111,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 114,
+			"ancestor": "5-16",
+			"coref_index": 85,
+			"surface": "추기경",
+			"entityName": "추기경"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 153,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 6,
+			"ne_type": "ETC",
+			"en": 157,
+			"ancestor": "3-1",
+			"coref_index": 75,
+			"surface": "추기경단",
+			"entityName": "추기경단"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 245,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 7,
+			"ne_type": "ETC",
+			"en": 252,
+			"ancestor": "-1",
+			"surface": "사제급_추기경",
+			"entityName": "추기경"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"st": 283,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 8,
+			"ne_type": "TIME",
+			"en": 288,
+			"ancestor": "",
+			"surface": "1139년",
+			"entityName": "1139년"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 290,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 9,
+			"ne_type": "ETC",
+			"en": 301,
+			"ancestor": "-1",
+			"surface": "제2차_라테란_공의회",
+			"entityName": "제2차_라테란_공의회"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 21,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 10,
+			"ne_type": "PERSON",
+			"en": 28,
+			"ancestor": "-1",
+			"surface": "로마인_평신도",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 33,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 11,
+			"ne_type": "ETC",
+			"en": 35,
+			"ancestor": "-1",
+			"surface": "승인",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 37,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 12,
+			"ne_type": "ETC",
+			"en": 39,
+			"ancestor": "-1",
+			"surface": "폐지",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 45,
+			"eType": "NEW",
+			"is_target": false,
+			"id": 13,
+			"ne_type": "TIME",
+			"en": 49,
+			"ancestor": "",
+			"surface": "862년",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 51,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 14,
+			"ne_type": "LOCATION",
+			"en": 57,
+			"ancestor": "8-1",
+			"coref_index": 86,
+			"surface": "로마_시노드",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 72,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 15,
+			"ne_type": "ETC",
+			"en": 74,
+			"ancestor": "-1",
+			"surface": "권리",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 102,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 16,
+			"ne_type": "ETC",
+			"en": 104,
+			"ancestor": "-1",
+			"surface": "교령",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 127,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 17,
+			"ne_type": "PERSON",
+			"en": 130,
+			"ancestor": "7-13",
+			"coref_index": 83,
+			"surface": "성직자",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 149,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 18,
+			"ne_type": "PERSON",
+			"en": 151,
+			"ancestor": "7-14",
+			"coref_index": 74,
+			"surface": "교황",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 182,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 19,
+			"ne_type": "PERSON",
+			"en": 189,
+			"ancestor": "-1",
+			"surface": "주교급_추기경",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 254,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 20,
+			"ne_type": "PERSON",
+			"en": 261,
+			"ancestor": "-1",
+			"surface": "부제급_추기경",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 268,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 21,
+			"ne_type": "EVENT",
+			"en": 270,
+			"ancestor": "-1",
+			"surface": "투표",
+			"entityName": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 325,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 22,
+			"ne_type": "PERSON",
+			"en": 331,
+			"ancestor": "-1",
+			"surface": "하급_성직자",
+			"entityName": ""
+		}
+	],
+	"plainText": "769년에 행해진 시노드에서 정식으로 로마인_평신도에 의한 승인이 폐지되었지만, 862년의 로마_시노드에서는 귀족에 한해서만 그 권리를 부활시켰다. 1059년, 교황_니콜라오_2세는 교령을 발표하여 추기경으로 승격되려면 로마의 성직자와 평신도의 동의를 받아야 하며, 교황은 추기경단으로부터 선택되는 것으로 결정했다. 당시에는 주교급_추기경들이 최초로 모여 누가 다음 교황 자리에 어울릴까 하는 문제를 토의하여 결정되었는데 세월이 흐르면서 사제급_추기경과 부제급_추기경도 동참하여 투표하는 형태로 변모했다. 1139년, 제2차_라테란_공의회에서 교황이나 추기경의 선출에서의 평신도와 하급_성직자의 동의가 완전히 폐지되었다."
+}

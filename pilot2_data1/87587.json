@@ -1,0 +1,1065 @@
+{
+	"entities": [
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 0,
+			"ne_type": "PERSON",
+			"st": 0,
+			"eType": "ELU",
+			"entityName": "송금선",
+			"en": 3,
+			"is_target": true,
+			"surface": "송금선",
+			"coref_index": 1081,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"University"
+			],
+			"id": 1,
+			"ne_type": "ORGANIZATION",
+			"st": 90,
+			"eType": "WIKILINK",
+			"entityName": "한국",
+			"en": 92,
+			"is_target": true,
+			"surface": "한국",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 2,
+			"ne_type": "ETC",
+			"st": 9,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 15,
+			"is_target": true,
+			"surface": "일본식_이름",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 3,
+			"ne_type": "PERSON",
+			"st": 22,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 30,
+			"is_target": true,
+			"surface": "후쿠자와_레이코",
+			"coref_index": 1081,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 4,
+			"ne_type": "PERSON",
+			"st": 4,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 7,
+			"is_target": true,
+			"surface": "宋今璇",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 5,
+			"ne_type": "PERSON",
+			"st": 17,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 21,
+			"is_target": true,
+			"surface": "福澤玲子",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 6,
+			"ne_type": "TIME",
+			"st": 33,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 45,
+			"is_target": false,
+			"surface": "1905년_1월_15일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 7,
+			"ne_type": "TIME",
+			"st": 48,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 61,
+			"is_target": false,
+			"surface": "1987년_10월_24일",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 8,
+			"ne_type": "ETC",
+			"st": 63,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 69,
+			"is_target": true,
+			"surface": "한성부_출생",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 9,
+			"ne_type": "PERSON",
+			"st": 72,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 85,
+			"is_target": true,
+			"surface": "덕성여자대학교_초대_학장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 10,
+			"ne_type": "PERSON",
+			"st": 94,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 97,
+			"is_target": true,
+			"surface": "교육자",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 11,
+			"ne_type": "ETC",
+			"st": 101,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 103,
+			"is_target": true,
+			"surface": "아호",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 12,
+			"ne_type": "PERSON",
+			"st": 105,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 111,
+			"is_target": true,
+			"surface": "남해(南海)",
+			"coref_index": 1081,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"Agent",
+				"EducationalInstitution",
+				"TimePeriod",
+				"Organisation",
+				"University"
+			],
+			"id": 13,
+			"ne_type": "TIME",
+			"st": 116,
+			"eType": "WIKILINK",
+			"entityName": "1919년",
+			"en": 121,
+			"is_target": false,
+			"surface": "1919년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"id": 14,
+			"ne_type": "ORGANIZATION",
+			"st": 122,
+			"eType": "WIKILINK",
+			"entityName": "숙명여자고등학교",
+			"en": 127,
+			"is_target": true,
+			"surface": "숙명여고보",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Country",
+				"PopulatedPlace",
+				"PopulatedPlace",
+				"Place"
+			],
+			"id": 15,
+			"ne_type": "LOCATION",
+			"st": 134,
+			"eType": "WIKILINK",
+			"entityName": "일본",
+			"en": 136,
+			"is_target": true,
+			"surface": "일본",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 16,
+			"ne_type": "ETC",
+			"st": 145,
+			"eType": "WIKILINK",
+			"entityName": "도쿄여자고등사범학교",
+			"en": 155,
+			"is_target": true,
+			"surface": "도쿄여자고등사범학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 17,
+			"ne_type": "ETC",
+			"st": 172,
+			"eType": "WIKILINK",
+			"entityName": "진주일신여자고등보학교",
+			"en": 183,
+			"is_target": true,
+			"surface": "진주일신여자고등보학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 18,
+			"ne_type": "ETC",
+			"st": 185,
+			"eType": "WIKILINK",
+			"entityName": "동덕여자고등보통학교",
+			"en": 195,
+			"is_target": true,
+			"surface": "동덕여자고등보통학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 19,
+			"ne_type": "TIME",
+			"st": 203,
+			"eType": "WIKILINK",
+			"entityName": "1934년",
+			"en": 208,
+			"is_target": false,
+			"surface": "1934년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"EducationalInstitution",
+				"University"
+			],
+			"id": 20,
+			"ne_type": "ORGANIZATION",
+			"st": 209,
+			"eType": "WIKILINK",
+			"entityName": "이화여자전문학교",
+			"en": 217,
+			"is_target": true,
+			"surface": "이화여자전문학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 21,
+			"ne_type": "PERSON",
+			"st": 218,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 220,
+			"is_target": true,
+			"surface": "교수",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 22,
+			"ne_type": "PERSON",
+			"st": 196,
+			"eType": "NEW",
+			"entityName": "",
+			"en": 198,
+			"is_target": true,
+			"surface": "교사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 23,
+			"ne_type": "TIME",
+			"st": 227,
+			"eType": "WIKILINK",
+			"en": 232,
+			"entityName": "1937년",
+			"is_target": false,
+			"surface": "1937년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 24,
+			"ne_type": "ETC",
+			"st": 233,
+			"eType": "WIKILINK",
+			"en": 242,
+			"entityName": "조선부인문제연구회",
+			"is_target": true,
+			"surface": "조선부인문제연구회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 25,
+			"ne_type": "ETC",
+			"st": 279,
+			"eType": "WIKILINK",
+			"en": 284,
+			"entityName": "조선총독부",
+			"is_target": true,
+			"surface": "조선총독부",
+			"coref_index": 1082,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 26,
+			"ne_type": "ETC",
+			"st": 286,
+			"eType": "WIKILINK",
+			"en": 293,
+			"entityName": "방송선전협의회",
+			"is_target": true,
+			"surface": "방송선전협의회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 27,
+			"ne_type": "ETC",
+			"st": 308,
+			"eType": "WIKILINK",
+			"en": 312,
+			"entityName": "조선귀족",
+			"is_target": true,
+			"surface": "조선귀족",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 28,
+			"ne_type": "ETC",
+			"st": 337,
+			"eType": "WIKILINK",
+			"en": 342,
+			"entityName": "애국금차회",
+			"is_target": true,
+			"surface": "애국금차회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 29,
+			"ne_type": "PERSON",
+			"st": 360,
+			"eType": "ELU",
+			"en": 363,
+			"entityName": "송금선",
+			"is_target": true,
+			"surface": "송금선",
+			"coref_index": 1081,
+			"ancestor": "1-0"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 30,
+			"ne_type": "ETC",
+			"st": 372,
+			"eType": "WIKILINK",
+			"en": 383,
+			"entityName": "국민정신총동원조선연맹",
+			"is_target": true,
+			"surface": "국민정신총동원조선연맹",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 31,
+			"ne_type": "ETC",
+			"st": 385,
+			"eType": "WIKILINK",
+			"en": 393,
+			"entityName": "국민총력조선연맹",
+			"is_target": true,
+			"surface": "국민총력조선연맹",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 32,
+			"ne_type": "ETC",
+			"st": 408,
+			"eType": "WIKILINK",
+			"en": 411,
+			"entityName": "신시대",
+			"is_target": true,
+			"surface": "신시대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 33,
+			"ne_type": "ETC",
+			"st": 442,
+			"eType": "WIKILINK",
+			"en": 449,
+			"entityName": "임전대책협의회",
+			"is_target": true,
+			"surface": "임전대책협의회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 34,
+			"ne_type": "ETC",
+			"st": 451,
+			"eType": "WIKILINK",
+			"en": 458,
+			"entityName": "조선임전보국단",
+			"is_target": true,
+			"surface": "조선임전보국단",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 35,
+			"ne_type": "ETC",
+			"st": 549,
+			"eType": "WIKILINK",
+			"en": 556,
+			"entityName": "조선언론보국회",
+			"is_target": true,
+			"surface": "조선언론보국회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 36,
+			"ne_type": "EVENT",
+			"st": 351,
+			"eType": "NEW",
+			"en": 355,
+			"entityName": "",
+			"is_target": true,
+			"surface": "전시체제",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 37,
+			"ne_type": "ETC",
+			"st": 368,
+			"eType": "NEW",
+			"en": 370,
+			"entityName": "",
+			"is_target": true,
+			"surface": "행적",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 38,
+			"ne_type": "ETC",
+			"st": 404,
+			"eType": "NEW",
+			"en": 406,
+			"entityName": "",
+			"is_target": true,
+			"surface": "잡지",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 39,
+			"ne_type": "ETC",
+			"st": 414,
+			"eType": "NEW",
+			"en": 416,
+			"entityName": "",
+			"is_target": true,
+			"surface": "기고",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 40,
+			"ne_type": "ETC",
+			"st": 432,
+			"eType": "NEW",
+			"en": 434,
+			"entityName": "",
+			"is_target": true,
+			"surface": "단체",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 41,
+			"ne_type": "ORGANIZATION",
+			"st": 436,
+			"eType": "NEW",
+			"en": 440,
+			"entityName": "",
+			"is_target": true,
+			"surface": "총본산격",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 42,
+			"ne_type": "ETC",
+			"st": 460,
+			"eType": "NEW",
+			"en": 462,
+			"entityName": "",
+			"is_target": true,
+			"surface": "가입",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 43,
+			"ne_type": "PERSON",
+			"st": 467,
+			"eType": "NEW",
+			"en": 469,
+			"entityName": "",
+			"is_target": true,
+			"surface": "학병",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 44,
+			"ne_type": "EVENT",
+			"st": 484,
+			"eType": "NEW",
+			"en": 486,
+			"entityName": "",
+			"is_target": true,
+			"surface": "연설",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 45,
+			"ne_type": "EVENT",
+			"st": 487,
+			"eType": "NEW",
+			"en": 489,
+			"entityName": "",
+			"is_target": true,
+			"surface": "활동",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 46,
+			"ne_type": "EVENT",
+			"st": 495,
+			"eType": "NEW",
+			"en": 497,
+			"entityName": "",
+			"is_target": true,
+			"surface": "참가",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 47,
+			"ne_type": "EVENT",
+			"st": 507,
+			"eType": "NEW",
+			"en": 509,
+			"entityName": "",
+			"is_target": true,
+			"surface": "패전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 48,
+			"ne_type": "EVENT",
+			"st": 501,
+			"eType": "NEW",
+			"en": 503,
+			"entityName": "",
+			"is_target": true,
+			"surface": "종전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 49,
+			"ne_type": "TIME",
+			"st": 570,
+			"eType": "WIKILINK",
+			"en": 575,
+			"entityName": "1940년",
+			"is_target": false,
+			"surface": "1940년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Person"
+			],
+			"id": 50,
+			"ne_type": "PERSON",
+			"st": 587,
+			"eType": "WIKILINK",
+			"en": 591,
+			"entityName": "차미리사",
+			"is_target": true,
+			"surface": "차미리사",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"EducationalInstitution",
+				"Organisation",
+				"School"
+			],
+			"id": 51,
+			"ne_type": "ORGANIZATION",
+			"st": 610,
+			"eType": "WIKILINK",
+			"en": 618,
+			"entityName": "덕성여자고등학교",
+			"is_target": true,
+			"surface": "덕성여자고등학교",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"TimePeriod"
+			],
+			"id": 52,
+			"ne_type": "TIME",
+			"st": 633,
+			"eType": "WIKILINK",
+			"en": 638,
+			"entityName": "1950년",
+			"is_target": false,
+			"surface": "1950년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"University",
+				"Agent",
+				"EducationalInstitution",
+				"Organisation"
+			],
+			"id": 53,
+			"ne_type": "ORGANIZATION",
+			"st": 643,
+			"eType": "ELU",
+			"en": 647,
+			"entityName": "덕성여자대학교",
+			"is_target": true,
+			"surface": "덕성여대",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 54,
+			"ne_type": "ORGANIZATION",
+			"st": 576,
+			"eType": "NEW",
+			"en": 579,
+			"entityName": "",
+			"is_target": true,
+			"surface": "총독부",
+			"coref_index": 1082,
+			"ancestor": "1-25"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 55,
+			"ne_type": "ORGANIZATION",
+			"st": 599,
+			"eType": "NEW",
+			"en": 607,
+			"entityName": "",
+			"is_target": true,
+			"surface": "덕성여자실업학교",
+			"coref_index": 1083,
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 56,
+			"ne_type": "PERSON",
+			"st": 624,
+			"eType": "NEW",
+			"en": 626,
+			"entityName": "",
+			"is_target": true,
+			"surface": "교장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 57,
+			"ne_type": "ORGANIZATION",
+			"st": 653,
+			"eType": "NEW",
+			"en": 661,
+			"entityName": "",
+			"is_target": true,
+			"surface": "덕성여자초급대학",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 58,
+			"ne_type": "PERSON",
+			"st": 667,
+			"eType": "NEW",
+			"en": 672,
+			"entityName": "",
+			"is_target": true,
+			"surface": "초대_학장",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 59,
+			"ne_type": "ETC",
+			"st": 674,
+			"eType": "NEW",
+			"en": 676,
+			"entityName": "",
+			"is_target": true,
+			"surface": "취임",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 60,
+			"ne_type": "TIME",
+			"st": 680,
+			"eType": "WIKILINK",
+			"entityName": "2002년",
+			"en": 685,
+			"is_target": false,
+			"surface": "2002년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 61,
+			"ne_type": "ETC",
+			"st": 690,
+			"eType": "WIKILINK",
+			"entityName": "친일파_708인_명단",
+			"en": 701,
+			"is_target": true,
+			"surface": "친일파_708인_명단",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 62,
+			"ne_type": "TIME",
+			"st": 710,
+			"eType": "WIKILINK",
+			"entityName": "2008년",
+			"en": 715,
+			"is_target": false,
+			"surface": "2008년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"Organisation",
+				"Company"
+			],
+			"id": 63,
+			"ne_type": "ORGANIZATION",
+			"st": 716,
+			"eType": "WIKILINK",
+			"entityName": "민족문제연구소",
+			"en": 723,
+			"is_target": true,
+			"surface": "민족문제연구소",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Software",
+				"Work"
+			],
+			"id": 64,
+			"ne_type": "ETC",
+			"st": 726,
+			"eType": "WIKILINK",
+			"entityName": "친일인명사전",
+			"en": 732,
+			"is_target": true,
+			"surface": "친일인명사전",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 65,
+			"ne_type": "ETC",
+			"st": 746,
+			"eType": "WIKILINK",
+			"entityName": "민족문제연구소의_친일인명사전_수록예정자_명단",
+			"en": 761,
+			"is_target": true,
+			"surface": "친일인명사전_수록예정자_명단",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"id": 66,
+			"ne_type": "TIME",
+			"st": 771,
+			"eType": "WIKILINK",
+			"entityName": "2009년",
+			"en": 776,
+			"is_target": false,
+			"surface": "2009년",
+			"ancestor": ""
+		},
+		{
+			"kbox_types": [
+				"Organisation",
+				"Agent"
+			],
+			"id": 67,
+			"ne_type": "ORGANIZATION",
+			"st": 777,
+			"eType": "WIKILINK",
+			"entityName": "대한민국_친일반민족행위진상규명위원회",
+			"en": 791,
+			"is_target": true,
+			"surface": "친일반민족행위진상규명위원회",
+			"ancestor": "-1"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"id": 68,
+			"ne_type": "ETC",
+			"st": 797,
+			"eType": "WIKILINK",
+			"entityName": "친일반민족행위_705인_명단",
+			"en": 812,
+			"is_target": true,
+			"surface": "친일반민족행위_705인_명단",
+			"ancestor": "-1"
+		}
+	],
+	"globalSID": "681195,681196,681197,681198,681199,681200,681201,681202,681203,681204,681205,681206,681207",
+	"parID": "1",
+	"pronouns": [
+		{
+			"id": 0,
+			"ancestor": "1-55",
+			"st": 608,
+			"en": 622,
+			"surface": "현 덕성여자고등학교의 전신",
+			"coref_index": 1083
+		},
+		{
+			"id": 1,
+			"en": 627,
+			"ancestor": "-1",
+			"st": 608,
+			"surface": "현 덕성여자고등학교의 전신) 교장이"
+		},
+		{
+			"id": 2,
+			"en": 647,
+			"ancestor": "-1",
+			"st": 641,
+			"surface": "현 덕성여대"
+		},
+		{
+			"id": 3,
+			"en": 652,
+			"ancestor": "-1",
+			"st": 641,
+			"surface": "현 덕성여대의 전신인"
+		},
+		{
+			"id": 4,
+			"en": 662,
+			"ancestor": "-1",
+			"st": 641,
+			"surface": "현 덕성여대의 전신인 덕성여자초급대학을"
+		}
+	],
+	"plainText": "송금선(宋今璇, 일본식_이름: 福澤玲子(후쿠자와_레이코), 1905년_1월_15일 ~ 1987년_10월_24일, 한성부_출생)은 덕성여자대학교_초대_학장을 지낸 한국의 교육자이다. 아호는 남해(南海). 생애 1919년 숙명여고보를 졸업하고 일본으로 유학했다. 도쿄여자고등사범학교를 졸업한 뒤 귀국하여 모교와 진주일신여자고등보학교, 동덕여자고등보통학교 교사를 거쳐 1934년 이화여자전문학교 교수가 되었다. 1937년 조선부인문제연구회에 가입하여 순회 강연을 다니면서부터 친일 활동을 시작했다. 그해 조선총독부의 방송선전협의회에서 친일 강좌를 맡았고, 조선귀족 부인들과 여성계 친일 인사들이 공동 조직한 애국금차회에도 가담했다. 전시체제 하에서 송금선의 친일 행적은 국민정신총동원조선연맹, 국민총력조선연맹에서 활동하고 친일 잡지 《신시대》에 기고하는 등으로 계속된다. 친일 단체의 총본산격인 임전대책협의회, 조선임전보국단에 가입하였고, 학병으로 지원할 것을 독력하는 연설 활동에도 적극 참가했다. 종전 직전 패전이 가시화되자 본토에서 최후의 1인까지 싸울 것을 독려하기 위해 조직된 조선언론보국회 평의원이 되기도 했다. 1940년 총독부의 지지 하에 차미리사의 뒤를 이어 덕성여자실업학교(현 덕성여자고등학교의 전신) 교장이 되었고, 1950년에는 현 덕성여대의 전신인 덕성여자초급대학을 세우고 초대_학장에 취임했다. 2002년 발표된 친일파_708인_명단에 포함되었고, 2008년 민족문제연구소에서 친일인명사전에 수록하기 위해 정리한 친일인명사전_수록예정자_명단에도 선정되었다. 2009년 친일반민족행위진상규명위원회가 발표한 친일반민족행위_705인_명단에 포함되었다. ",
+	"docID": "87587"
+}

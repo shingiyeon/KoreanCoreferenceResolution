@@ -1,0 +1,111 @@
+{
+	"docID": "269786",
+	"globalSID": "1525484,1525485",
+	"pronouns": [],
+	"parID": "1",
+	"entities": [
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"SportsTeam",
+				"Organisation"
+			],
+			"st": 9,
+			"eType": "ELU",
+			"is_target": true,
+			"id": 0,
+			"ne_type": "ORGANIZATION",
+			"en": 18,
+			"ancestor": "-1",
+			"coref_index": 380,
+			"surface": "강원도민프로축구단",
+			"entityName": "강원_FC"
+		},
+		{
+			"kbox_types": [
+				"PopulatedPlace",
+				"Settlement",
+				"PopulatedPlace",
+				"Place"
+			],
+			"st": 22,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 1,
+			"ne_type": "LOCATION",
+			"en": 25,
+			"ancestor": "-1",
+			"surface": "강원도",
+			"entityName": "강원도_(남)"
+		},
+		{
+			"kbox_types": [
+				"Year",
+				"MusicalWork",
+				"TimePeriod",
+				"Work",
+				"Album"
+			],
+			"st": 54,
+			"eType": "WIKILINK",
+			"is_target": false,
+			"id": 2,
+			"ne_type": "TIME",
+			"en": 59,
+			"ancestor": "",
+			"surface": "2008년",
+			"entityName": "2008년"
+		},
+		{
+			"kbox_types": [
+				"FootballLeagueSeason",
+				"SportsSeason",
+				"SportsTeamSeason"
+			],
+			"st": 68,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 75,
+			"ancestor": "-1",
+			"coref_index": 378,
+			"surface": "2009_시즌",
+			"entityName": "K리그_2009"
+		},
+		{
+			"kbox_types": [
+				"Agent",
+				"SportsLeague",
+				"Organisation",
+				"SoccerLeague"
+			],
+			"st": 76,
+			"eType": "WIKILINK",
+			"is_target": true,
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 79,
+			"ancestor": "-1",
+			"coref_index": 376,
+			"surface": "K리그",
+			"entityName": "K리그"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 38,
+			"eType": "NEW",
+			"is_target": true,
+			"id": 5,
+			"ne_type": "ORGANIZATION",
+			"en": 50,
+			"ancestor": "-1",
+			"surface": "대한민국의_프로_축구단",
+			"entityName": ""
+		}
+	],
+	"plainText": "강원 FC(, \"강원도민프로축구단\")는 강원도를 광역 연고지로 하는 대한민국의_프로_축구단이다. 2008년 창단된 강원은 2009_시즌 K리그의 15번째 구단으로 참가하였다."
+}

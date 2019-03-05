@@ -1,0 +1,161 @@
+{
+	"docID": "269786",
+	"globalSID": "1525501,1525502,1525503,1525504,1525505",
+	"pronouns": [
+		{
+			"en": 51,
+			"ancestor": "-1",
+			"surface": "그보다",
+			"id": 0,
+			"st": 48
+		},
+		{
+			"en": 60,
+			"ancestor": "-1",
+			"surface": "그보다 더 높은 순위로",
+			"id": 1,
+			"st": 48
+		},
+		{
+			"en": 159,
+			"ancestor": "-1",
+			"surface": "한 단계",
+			"id": 2,
+			"st": 155
+		}
+	],
+	"parID": "5",
+	"entities": [
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 0,
+			"eType": "WIKILINK",
+			"entityName": "K리그_2010",
+			"id": 0,
+			"ne_type": "ETC",
+			"en": 7,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "2010_시즌"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 89,
+			"eType": "WIKILINK",
+			"entityName": "헤나투_메데이루스",
+			"id": 1,
+			"ne_type": "PERSON",
+			"en": 92,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "헤나토"
+		},
+		{
+			"kbox_types": [
+				"SoccerPlayer",
+				"Athlete",
+				"Agent",
+				"Person"
+			],
+			"st": 94,
+			"eType": "WIKILINK",
+			"entityName": "바제_일리요스키",
+			"id": 2,
+			"ne_type": "PERSON",
+			"en": 102,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "바제_일리요스키"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 169,
+			"eType": "WIKILINK",
+			"entityName": "FA컵_2010",
+			"id": 3,
+			"ne_type": "ETC",
+			"en": 172,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "FA컵"
+		},
+		{
+			"kbox_types": [
+				"SoccerClub",
+				"Agent",
+				"Organisation",
+				"SportsTeam"
+			],
+			"st": 188,
+			"eType": "WIKILINK",
+			"entityName": "대전_한국수력원자력_축구단",
+			"id": 4,
+			"ne_type": "ORGANIZATION",
+			"en": 198,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "대전_한국수력원자력"
+		},
+		{
+			"kbox_types": [
+				"SoccerTournament",
+				"Tournament",
+				"Event",
+				"SocietalEvent",
+				"SportsEvent"
+			],
+			"st": 208,
+			"eType": "WIKILINK",
+			"entityName": "리그컵_2010",
+			"id": 5,
+			"ne_type": "ETC",
+			"en": 211,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "리그컵"
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 8,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 6,
+			"ne_type": "ORGANIZATION",
+			"en": 10,
+			"ancestor": "1-0",
+			"is_target": true,
+			"surface": "강원",
+			"coref_index": 380
+		},
+		{
+			"kbox_types": [
+				"NULL"
+			],
+			"st": 23,
+			"eType": "NEW",
+			"entityName": "",
+			"id": 7,
+			"ne_type": "EVENT",
+			"en": 28,
+			"ancestor": "-1",
+			"is_target": true,
+			"surface": "10라운드"
+		}
+	],
+	"plainText": "2010_시즌 강원은 하위권을 맴돌았다. 10라운드에선 10위까지 올랐으나, 이후로는 그보다 더 높은 순위로 올라갈 수 없었다. 시즌 중반 여름 이적 시장에서 헤나토와 바제_일리요스키를 영입하였으나 눈에 띄는 활약을 보여주지 못하였다. 최종 리그 순위는 12위로 데뷔 시즌보다 한 단계 올랐다. 그러나 FA컵에서는 첫 경기인 16강에서 대전_한국수력원자력에게 패배하였고, 리그컵에서도 조별 리그에서 4전 전패로 탈락하였다."
+}
